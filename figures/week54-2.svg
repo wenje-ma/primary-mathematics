@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='432.00pt' height='288.00pt' viewBox='0 0 432.00 288.00'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw0MzIuMDB8MC4wMHwyODguMDA='>
+    <rect x='0.00' y='0.00' width='432.00' height='288.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw0MzIuMDB8MC4wMHwyODguMDA=)'>
+<polygon points='56.00,232.89 176.00,232.89 236.00,144.00 116.00,144.00 ' style='stroke-width: 1.50;' />
+<text x='146.00' y='262.89' text-anchor='middle' style='font-size: 13.20px; font-family: "Arial";' textLength='79.88px' lengthAdjust='spacingAndGlyphs'>parallelogram</text>
+<polygon points='276.00,232.89 396.00,232.89 368.00,144.00 304.00,144.00 ' style='stroke-width: 1.50;' />
+<text x='336.00' y='262.97' text-anchor='middle' style='font-size: 13.20px; font-family: "Arial";' textLength='54.22px' lengthAdjust='spacingAndGlyphs'>trapezoid</text>
+<polygon points='76.00,99.56 196.00,99.56 196.00,32.89 116.00,32.89 ' style='stroke-width: 1.50;' />
+<text x='136.00' y='22.89' text-anchor='middle' style='font-size: 13.20px; font-family: "Arial";' textLength='83.52px' lengthAdjust='spacingAndGlyphs'>right trapezoid</text>
+</g>
+</g>
+</svg>
