@@ -1,0 +1,361 @@
+# Assignment 60
+
+> **Definition 8.3.1** (Commutative Law of Addition) <br>When adding two numbers, swapping the positions of the two addends leaves the sum unchanged. In letters: $a+b=b+a$.
+>
+> **Definition 8.3.2** (Associative Law of Addition) <br>When adding three numbers, adding the first two first, or adding the last two first, leaves the sum unchanged. In letters: $(a+b)+c=a+(b+c)$.
+>
+> **Definition 8.3.3** (Operation Property of Subtraction) <br>A number minus two numbers in a row equals minus the sum of those two numbers: $a-b-c=a-(b+c)$; you may also subtract the second subtrahend first and then the first: $a-b-c=a-c-b$.
+>
+> **Definition 8.3.4** (Commutative Law of Multiplication) <br>When multiplying two numbers, swapping the positions of the two factors leaves the product unchanged. In letters: $a\times b=b\times a$.
+>
+> **Definition 8.3.5** (Associative Law of Multiplication) <br>When multiplying three numbers, multiplying the first two first, or multiplying the last two first, leaves the product unchanged. In letters: $(a\times b)\times c=a\times(b\times c)$.
+>
+> **Definition 8.3.6** (Distributive Law of Multiplication) <br>The sum of two numbers multiplied by a number may be multiplied separately by that number first and then added. In letters: $(a+b)\times c=a\times c+b\times c$, or conversely $a\times c+b\times c=(a+b)\times c$.
+>
+> **Definition 8.3.7** (Operation Property of Division) <br>A number divided by two numbers in a row equals divided by the product of those two divisors: $a\div b\div c=a\div(b\times c)$.
+>
+> **Definition 8.3.8** (Convenient Calculation) <br>Using the operation laws of addition and multiplication and the operation properties of subtraction and division, calculate first the numbers that can be rounded to tens or hundreds, making the calculation easier.
+
+### Exercise 36
+
+(Lesson: Operation Laws of Addition, Try It) Fill in the blanks by the commutative law of addition: $300+600=600+$ ___; $78+$ ___ $=43+$ ___; $a+12=12+$ ___; ___ $+65=65+35$.
+
+### Solution to Exercise 36
+
+By **Definition 8.3.1** (Commutative Law of Addition), swap the addends: $300+600=600+300$; $78+43=43+78$; $a+12=12+a$; $35+65=65+35$. $\blacksquare$
+
+### Exercise 37
+
+(Lesson: Operation Laws of Addition, Try It) Fill in the blanks by the associative law of addition: $(25+68)+32=25+$( ___ $+$ ___ ); $130+(70+4)=(130+$ ___ $)+$ ___.
+
+### Solution to Exercise 37
+
+By **Definition 8.3.2** (Associative Law of Addition), add the last two (or first two) first: $(25+68)+32=25+(68+32)$; $130+(70+4)=(130+70)+4$. $\blacksquare$
+
+### Exercise 38
+
+(Lesson: Operation Laws of Addition, Practice 5, Problem 1) Which operation law does each expression below use? $76+18=18+76$; $56+72+28=56+(72+28)$; $31+67+19=31+19+67$; $24+42+76+58=(24+76)+(42+58)$.
+
+### Solution to Exercise 38
+
+By **Definition 8.3.1** (Commutative Law of Addition) and **Definition 8.3.2** (Associative Law of Addition): $76+18=18+76$ uses the commutative law; $56+72+28=56+(72+28)$ uses the associative law; $31+67+19=31+19+67$ uses the commutative law; $24+42+76+58=(24+76)+(42+58)$ uses both the commutative and associative laws. $\blacksquare$
+
+### Exercise 39
+
+(Lesson: Operation Laws of Addition, Practice 5, Problem 2) Calculate the following, then check using the commutative law of addition: $56+89$; $307+348$; $425+480$; $118+274$; $38+456$; $123+2847$.
+
+### Solution to Exercise 39
+
+$56+89=145$; $307+348=655$; $425+480=905$; $118+274=392$; $38+456=494$; $123+2847=2970$. Check by swapping the two addends and adding again. $\blacksquare$
+
+### Exercise 40
+
+(Lesson: Operation Laws of Addition, Practice 5, Problem 3) First calculate, then fill the table (the two addends are $36,78,135,296$, find all pairwise sums). Observe what feature the numbers in the table have.
+
+### Solution to Exercise 40
+
+By **Definition 8.3.1** (Commutative Law of Addition), $a+b=b+a$, so the two sums symmetric about the diagonal in the table are equal. $36+78=114$, $36+135=171$, $36+296=332$, $78+135=213$, $78+296=374$, $135+296=431$. $\blacksquare$
+
+### Exercise 41
+
+(Lesson: Operation Laws of Addition, Practice 5, Problem 4) Complete the following table (a mall's first-quarter appliance sales, unit: sets). Televisions: January $385$, February $415$, March $537$; refrigerators: $248,309,291$; washing machines: $347,418,353$. Find the total for each appliance.
+
+### Solution to Exercise 41
+
+By **Definition 8.3.2** (Associative Law of Addition), add the roundable ones first: televisions $385+415+537=800+537=1337$ (sets); refrigerators $248+309+291=248+600=848$ (sets); washing machines $347+418+353=700+418=1118$ (sets). $\blacksquare$
+
+### Exercise 42
+
+(Lesson: Operation Laws of Addition, Practice 5, Problem 5) Which two flowers have numbers that sum to $100$? Draw the connections. The numbers on the flowers: $18,25,57,69,75,31,96,43,82,19$.
+
+### Solution to Exercise 42
+
+Connect the pairs that sum to $100$: $18+82=100$, $25+75=100$, $57+43=100$, $69+31=100$. The remaining $96$ and $19$ cannot be paired to make $100$. $\blacksquare$
+
+### Exercise 43
+
+(Lesson: Application of the Operation Laws of Addition, Try It, Problem 1) Calculate the following, as conveniently as possible: $425+14+186$; $75+168+25$; $245+180+20+155$; $67+25+33+75$.
+
+### Solution to Exercise 43
+
+By **Definition 8.3.8** (Convenient Calculation), make round numbers: $425+14+186=425+200=625$; $75+168+25=(75+25)+168=268$; $245+180+20+155=(245+155)+(180+20)=600$; $67+25+33+75=(67+33)+(25+75)=200$. $\blacksquare$
+
+### Exercise 44
+
+(Lesson: Application of the Operation Laws of Addition, Try It, Problem 2) Teacher Liu buys sports goods priced at $48$ yuan, $55$ yuan, $52$ yuan, and $45$ yuan. How much was spent in total?
+
+### Solution to Exercise 44
+
+By **Definition 8.3.8** (Convenient Calculation), $48+55+52+45=(48+52)+(55+45)=100+100=200$ (yuan). $\blacksquare$
+
+### Exercise 45
+
+(Lesson: Operation Property of Subtraction, Try It, Problem 1) Fill in the $\bigcirc$ and the lines with operation signs and numbers: $868-52-48=868\bigcirc(52+$ ___ $)$; $1500-28-272=$ ___ $\bigcirc(28\bigcirc272)$; $415-74-26=$ ___; $a-b-c=$ ___.
+
+### Solution to Exercise 45
+
+By **Definition 8.3.3** (Operation Property of Subtraction), subtracting two numbers in a row equals subtracting their sum: $868-52-48=868-(52+48)$; $1500-28-272=1500-(28+272)$; $415-74-26=415-(74+26)$; $a-b-c=a-(b+c)$. $\blacksquare$
+
+### Exercise 46
+
+(Lesson: Operation Property of Subtraction, Try It, Problem 2) Calculate the following, as conveniently as possible: $528-53-47$; $545-167-145$; $487-187-139-61$; $169-25-25-50$.
+
+### Solution to Exercise 46
+
+By **Definition 8.3.3** (Operation Property of Subtraction) and **Definition 8.3.8** (Convenient Calculation): $528-53-47=528-100=428$; $545-167-145=545-145-167=400-167=233$; $487-187-139-61=300-(139+61)=100$; $169-25-25-50=169-100=69$. $\blacksquare$
+
+### Exercise 47
+
+(Lesson: Convenient Addition and Subtraction, Practice 6, Problem 1) Calculate the following, as conveniently as possible: $60+255+40$; $282+41+159$; $548+52+468$; $13+46+55+54+87$; $5+137+45+63+50$; $800-138-162$; $672-36-64$; $672-36+64$.
+
+### Solution to Exercise 47
+
+$60+255+40=(60+40)+255=355$; $282+41+159=282+200=482$; $548+52+468=600+468=1068$; $13+46+55+54+87=(13+87)+(46+54)+55=255$; $5+137+45+63+50=(5+45+50)+(137+63)=300$; $800-138-162=800-300=500$; $672-36-64=672-100=572$; $672-36+64=636+64=700$. $\blacksquare$
+
+### Exercise 48
+
+(Lesson: Convenient Addition and Subtraction, Practice 6, Problem 2) On the $3$rd month (March) the $6$th Aunt Wang received a transfer of $225.00$ yuan, on the $3$rd month the $10$th she received $328.00$ yuan, and on the $3$rd month the $11$th she received $175.00$ yuan. How much transfer money did she receive in total over these days?
+
+### Solution to Exercise 48
+
+By **Definition 8.3.8** (Convenient Calculation), $225+328+175=(225+175)+328=400+328=728$ (yuan). $\blacksquare$
+
+### Exercise 49
+
+(Lesson: Convenient Addition and Subtraction, Practice 6, Problem 3) A mountain is $2000\,\mathrm{m}$ above sea level, passing in turn two points at elevations $416\,\mathrm{m}$ and $284\,\mathrm{m}$. Find the elevation of the other point.
+
+### Solution to Exercise 49
+
+By **Definition 8.3.3** (Operation Property of Subtraction), $2000-416-284=2000-(416+284)=2000-700=1300$ ($\mathrm{m}$). $\blacksquare$
+
+### Exercise 50
+
+(Lesson: Convenient Addition and Subtraction, Practice 6, Problem 4) How many logs are in this pile altogether? (The logs are stacked in a trapezoid, fewer on top and more below, differing by one per layer.)
+
+### Solution to Exercise 50
+
+Pairing by **Definition 8.3.1** (Commutative Law of Addition), the total number of logs $=$(number in the top layer $+$ number in the bottom layer) $\times$ number of layers $\div2$. Calculate according to the actual number of layers and the top/bottom counts in the figure. $\blacksquare$
+
+### Exercise 51
+
+(Lesson: Convenient Addition and Subtraction, Practice 6, Problem 5) Calculate using a suitable method: (1) $1+2+3+4+\cdots+98+99+100$; (2) $2+4+6+\cdots+18+20$; (3) $5+10+15+\cdots+95+100$; (4) $20-19+18-17+\cdots+4-3+2-1$.
+
+### Solution to Exercise 51
+
+(1) Pair the first and last: $(1+100)\times100\div2=5050$. (2) $(2+20)\times10\div2=110$. (3) $(5+100)\times20\div2=1050$. (4) Group in pairs: $(20-19)+(18-17)+\cdots+(2-1)=1\times10=10$. $\blacksquare$
+
+### Exercise 52
+
+(Lesson: Convenient Addition and Subtraction, Practice 6, Problem 6) Complete the table of numbers of students in the upper grades of a primary school: Grade 3 $(36,37,34)$, Grade 4 $(34,31,39)$, Grade 5 $(35,36,35)$, Grade 6 $(38,32,\_\_)$ with a total of $108$. Find the total for each grade and the number in Grade 6 Class 3.
+
+### Solution to Exercise 52
+
+Grade 3: $36+37+34=107$ (people); Grade 4: $34+31+39=104$ (people); Grade 5: $35+36+35=106$ (people); Grade 6 Class 3: $108-38-32=38$ (people). $\blacksquare$
+
+### Exercise 53
+
+(Lesson: Convenient Addition and Subtraction, Practice 6, Problem 7) Teacher Wang has $68$ essays to grade. On the first day she graded $22$, and on the second day she graded $8$ more than on the first day. How many essays are left ungraded?
+
+### Solution to Exercise 53
+
+On the second day she graded $22+8=30$ (essays), graded in total $22+30=52$ (essays), leaving $68-52=16$ (essays). $\blacksquare$
+
+### Exercise 54
+
+(Lesson: Convenient Addition and Subtraction, Practice 6, Problem 8) In the second quarter a mall sold $375$ air conditioners of brands A, B and C altogether; brand A sold $125$ units and brand B sold $75$ units. How many units of brand C were sold?
+
+### Solution to Exercise 54
+
+By **Definition 8.3.3** (Operation Property of Subtraction), $375-125-75=375-(125+75)=375-200=175$ (units). $\blacksquare$
+
+### Exercise 55
+
+(Lesson: Convenient Addition and Subtraction, Practice 6, Problem 9) A sample television is now $2255$ yuan, reduced by $355$ yuan for the holiday, and the sample price is reduced by another $245$ yuan. What was the original price of this television?
+
+### Solution to Exercise 55
+
+By **Definition 8.3.2** (Associative Law of Addition), original price $=2255+355+245=2255+600=2855$ (yuan). $\blacksquare$
+
+### Exercise 56
+
+(Lesson: Operation Laws of Multiplication, Try It) Fill in the blanks by the operation laws of multiplication: $12\times32=32\times$ ___; $30\times6\times7=30\times(6\times$ ___ $)$; $125\times(8\times4)=($ ___ $\times$ ___ $)\times$ ___; $108\times75=$ ___ $\times$ ___.
+
+### Solution to Exercise 56
+
+By **Definition 8.3.4** (Commutative Law of Multiplication) and **Definition 8.3.5** (Associative Law of Multiplication): $12\times32=32\times12$; $30\times6\times7=30\times(6\times7)$; $125\times(8\times4)=(125\times8)\times4$; $108\times75=75\times108$. $\blacksquare$
+
+### Exercise 57
+
+(Lesson: Distributive Law of Multiplication, Try It) Which of the following expressions are correct? Mark correct ones with "√" and wrong ones with "×": $56\times(19+28)=56\times19+28$; $32\times(7\times3)=32\times7+32\times3$; $64\times64+36\times64=(64+36)\times64$.
+
+### Solution to Exercise 57
+
+By **Definition 8.3.6** (Distributive Law of Multiplication): $56\times(19+28)=56\times19+28$ is wrong, it should be $56\times19+56\times28$; $32\times(7\times3)=32\times7+32\times3$ is wrong, this is a continued product and should use the associative law $32\times7\times3$; $64\times64+36\times64=(64+36)\times64$ is correct. $\blacksquare$
+
+### Exercise 58
+
+(Lesson: Operation Laws of Multiplication, Practice 7, Problem 1) Mental arithmetic: $12\times5$; $16\times5$; $35\times2$; $45\times2$; $24\times5$; $125\times8$; $25\times4$; $25\times8$.
+
+### Solution to Exercise 58
+
+$12\times5=60$; $16\times5=80$; $35\times2=70$; $45\times2=90$; $24\times5=120$; $125\times8=1000$; $25\times4=100$; $25\times8=200$. $\blacksquare$
+
+### Exercise 59
+
+(Lesson: Operation Laws of Multiplication, Practice 7, Problem 2) By the operation laws of multiplication, fill in the $\square$ with suitable numbers: $15\times16=16\times$ ___; $(60\times25)\times$ ___ $=60\times($ ___ $\times8)$; $25\times7\times4=$ ___ $\times$ ___ $\times7$; $125\times(8\times$ ___ $)=(125\times$ ___ $)\times14$; $3\times4\times8\times5=(3\times4)\times($ ___ $\times$ ___ $)$.
+
+### Solution to Exercise 59
+
+By **Definition 8.3.4** (Commutative Law of Multiplication) and **Definition 8.3.5** (Associative Law of Multiplication): $15\times16=16\times15$; $(60\times25)\times8=60\times(25\times8)$; $25\times7\times4=25\times4\times7$; $125\times(8\times14)=(125\times8)\times14$; $3\times4\times8\times5=(3\times4)\times(8\times5)$. $\blacksquare$
+
+### Exercise 60
+
+(Lesson: Operation Laws of Multiplication, Practice 7, Problem 3) Which of the following expressions uses the distributive law of multiplication? $117\times(3+7)=117\times3+117\times7$; $24\times(5+12)=24\times17$; $36\times(4\times6)=36\times6\times4$; $4\times a+a\times5=(4+5)\times a$.
+
+### Solution to Exercise 60
+
+By **Definition 8.3.6** (Distributive Law of Multiplication): $117\times(3+7)=117\times3+117\times7$ uses the distributive law; $24\times(5+12)=24\times17$ directly calculates inside the parentheses first; $36\times(4\times6)=36\times6\times4$ uses the commutative law; $4\times a+a\times5=(4+5)\times a$ uses the distributive law in reverse. $\blacksquare$
+
+### Exercise 61
+
+(Lesson: Operation Laws of Multiplication, Practice 7, Problem 4) A swimming pool is $50\,\mathrm{m}$ long. Xiao Dong swam $7$ round trips. How many meters did he swim in total?
+
+### Solution to Exercise 61
+
+One round trip is $50\times2=100$ ($\mathrm{m}$); $7$ round trips: $50\times2\times7=700$ ($\mathrm{m}$). $\blacksquare$
+
+### Exercise 62
+
+(Lesson: Operation Laws of Multiplication, Practice 7, Problem 5) A tracksuit jacket costs $75$ yuan and the pants cost $45$ yuan. A store sold $60$ such tracksuits in a week. How much revenue in total?
+
+### Solution to Exercise 62
+
+By **Definition 8.3.6** (Distributive Law of Multiplication), $(75+45)\times60=120\times60=7200$ (yuan). $\blacksquare$
+
+### Exercise 63
+
+(Lesson: Distributive Law of Multiplication, Practice 7, Problem 6) Calculate the following using the distributive law of multiplication: $103\times12$; $20\times55$; $24\times205$.
+
+### Solution to Exercise 63
+
+By **Definition 8.3.6** (Distributive Law of Multiplication): $103\times12=(100+3)\times12=1200+36=1236$; $20\times55=20\times(50+5)=1000+100=1100$; $24\times205=24\times200+24\times5=4800+120=4920$. $\blacksquare$
+
+### Exercise 64
+
+(Lesson: Distributive Law of Multiplication, Practice 7, Problem 7) Are the results of each pair of expressions below equal? If equal, choose one and compute the result: $25\times(200+4)$ and $25\times200+25\times4$; $35\times201$ and $35\times200+35$; $265\times105-265\times5$ and $265\times(105-5)$; $25\times11\times4$ and $11\times(25\times4)$.
+
+### Solution to Exercise 64
+
+Each pair is equal. By **Definition 8.3.6** (Distributive Law of Multiplication) and **Definition 8.3.5** (Associative Law of Multiplication): $25\times(200+4)=5100$; $35\times201=7035$; $265\times(105-5)=26500$; $11\times(25\times4)=1100$. $\blacksquare$
+
+### Exercise 65
+
+(Lesson: Distributive Law of Multiplication, Practice 7, Problem 8) Which of the following expressions are correct? Mark correct ones with "√" and wrong ones with "×": (1) $26\times57+43\times26=26\times(57+43)$; (2) $35\times(100+1)=35\times100+1$; (3) $125\times(8\times4)=(125\times8)\times4$; (4) $64\times12=64\times10\times2$.
+
+### Solution to Exercise 65
+
+(1) Correct (distributive law); (2) wrong, it should be $35\times100+35\times1$; (3) correct (associative law); (4) wrong, it should be $64\times10+64\times2$. $\blacksquare$
+
+### Exercise 66
+
+(Lesson: Distributive Law of Multiplication, Practice 7, Problem 9) The school's new teaching building has $4$ floors, each with $7$ classrooms, and each classroom needs $35$ sets of desks and chairs. How many sets of desks and chairs does the school need to purchase in total?
+
+### Solution to Exercise 66
+
+By **Definition 8.3.5** (Associative Law of Multiplication), $4\times7\times35=(4\times7)\times35=28\times35=980$ (sets). $\blacksquare$
+
+### Exercise 67
+
+(Lesson: Distributive Law of Multiplication, Practice 7, Problem 10) Fill in the $\square$ with suitable numbers: $167\times2+167\times3+167\times5=167\times$ ___; $28\times225-2\times225-6\times225=$ ___ $\times225$; $39\times8+6\times39-39\times4=$ ___ $\times$ ___.
+
+### Solution to Exercise 67
+
+Using the distributive law in reverse by **Definition 8.3.6** (Distributive Law of Multiplication): $167\times2+167\times3+167\times5=167\times(2+3+5)=167\times10$; $28\times225-2\times225-6\times225=(28-2-6)\times225=20\times225$; $39\times8+6\times39-39\times4=39\times(8+6-4)=39\times10$. $\blacksquare$
+
+### Exercise 68
+
+(Lesson: Distributive Law of Multiplication, Practice 7, Problem 11) A set of animal series has $5$ books, each $9$ yuan $5$ jiao. How much does Xiao Ming pay for the set?
+
+### Solution to Exercise 68
+
+$9$ yuan $5$ jiao $\times5=45$ yuan $25$ jiao $=47$ yuan $5$ jiao. By **Definition 8.3.6** (Distributive Law of Multiplication), $9.5\times5=47.5$ yuan. $\blacksquare$
+
+### Exercise 69
+
+(Lesson: Convenient Multiplication and Division, Try It) Calculate the following, as conveniently as possible: $35\times5\times20$; $25\times(4+8)$; $2000\div125\div8$.
+
+### Solution to Exercise 69
+
+By **Definition 8.3.5** (Associative Law of Multiplication), **Definition 8.3.6** (Distributive Law of Multiplication) and **Definition 8.3.7** (Operation Property of Division): $35\times5\times20=35\times100=3500$; $25\times(4+8)=25\times4+25\times8=100+200=300$; $2000\div125\div8=2000\div(125\times8)=2000\div1000=2$. $\blacksquare$
+
+### Exercise 70
+
+(Lesson: Convenient Multiplication and Division, Practice 8, Problem 1) Calculate the following, as conveniently as possible: $98+265+202$; $273-73-27$; $250\times13\times4$; $3200\div4\div25$; $88\times125$; $99\times38+38$; $17\times23-23\times7$; $72\times125$.
+
+### Solution to Exercise 70
+
+$98+265+202=(98+202)+265=565$; $273-73-27=273-100=173$; $250\times13\times4=(250\times4)\times13=13000$; $3200\div4\div25=3200\div100=32$; $88\times125=(80+8)\times125=10000+1000=11000$; $99\times38+38=(99+1)\times38=3800$; $17\times23-23\times7=(17-7)\times23=230$; $72\times125=9\times(8\times125)=9000$. $\blacksquare$
+
+### Exercise 71
+
+(Lesson: Convenient Multiplication and Division, Practice 8, Problem 2) The school received $350$ donated books, distributed equally among $14$ classes. How many books does each class get?
+
+### Solution to Exercise 71
+
+By **Definition 8.3.7** (Operation Property of Division), $350\div14=350\div7\div2=50\div2=25$ (books). $\blacksquare$
+
+### Exercise 72
+
+(Lesson: Convenient Multiplication and Division, Practice 8, Problem 3) An album has $32$ pages, and each page holds $6$ photos. There are $900$ photos. Are $5$ such albums enough?
+
+### Solution to Exercise 72
+
+$5$ albums hold $32\times6\times5=32\times30=960$ (photos); since $960>900$, they are enough. $\blacksquare$
+
+### Exercise 73
+
+(Lesson: Convenient Multiplication and Division, Practice 8, Problem 4) Which operation laws of multiplication does each expression below use? $106\times25=25\times106$; $5\times17\times4=5\times4\times17$; $13\times3\times2=13\times(3\times2)$; $25\times8\times4=8\times(25\times4)$; $102\times23+102\times7=102\times(23+7)$; $125\times(8+4)=125\times8+125\times4$.
+
+### Solution to Exercise 73
+
+$106\times25=25\times106$ uses the commutative law; $5\times17\times4=5\times4\times17$ uses the commutative law; $13\times3\times2=13\times(3\times2)$ uses the associative law; $25\times8\times4=8\times(25\times4)$ uses both commutative and associative; $102\times23+102\times7=102\times(23+7)$ uses the distributive law; $125\times(8+4)=125\times8+125\times4$ uses the distributive law. $\blacksquare$
+
+### Exercise 74
+
+(Lesson: Convenient Multiplication and Division, Practice 8, Problem 5) A semester starts on the $3$rd month the $1$st and summer vacation begins on the $7$th month the $1$st. How many days are in this semester?
+
+### Solution to Exercise 74
+
+The $3$rd month has $31$ days, the $4$th month $30$ days, the $5$th month $31$ days, the $6$th month $30$ days, totaling $31+30+31+30=122$ (days). $\blacksquare$
+
+### Exercise 75
+
+(Lesson: Convenient Multiplication and Division, Practice 8, Problem 6) Which of the following expressions are correct? Mark correct ones with "√" and wrong ones with "×": $29+22+78=29+100$; $35\times16=35\times2\times8$; $123-68+32=123-(68+32)$; $102\times56=100\times56+2$; $12\times97+3=12\times100$.
+
+### Solution to Exercise 75
+
+$29+22+78=29+100$ is correct; $35\times16=35\times2\times8$ is correct; $123-68+32=123-(68+32)$ is wrong, you cannot do this when it is not a continued subtraction; $102\times56=100\times56+2$ is wrong, it should be $100\times56+2\times56$; $12\times97+3=12\times100$ is wrong. $\blacksquare$
+
+### Exercise 76
+
+(Lesson: Convenient Multiplication and Division, Practice 8, Problem 7) Every day Xiao Hua's family buys a box of milk ($4$ yuan) and a bag of soy milk ($2$ yuan). How much is spent in a week?
+
+### Solution to Exercise 76
+
+By **Definition 8.3.6** (Distributive Law of Multiplication), $(4+2)\times7=6\times7=42$ (yuan). $\blacksquare$
+
+### Exercise 77
+
+(Lesson: Convenient Multiplication and Division, Practice 8, Problem 8) Grandpa Li has a vegetable plot (a composite figure with dimensions $9\,\mathrm{m}$, $9\,\mathrm{m}$, $19\,\mathrm{m}$, $21\,\mathrm{m}$). What is the area of this vegetable plot in square meters?
+
+### Solution to Exercise 77
+
+Split the plot into two rectangles and combine by **Definition 8.3.6** (Distributive Law of Multiplication): $9\times19+9\times(21-9)=9\times(19+12)=9\times31=279$ ($\mathrm{m^2}$). $\blacksquare$
+
+### Exercise 78
+
+(Lesson: Convenient Multiplication and Division, Practice 8, Thinking Question) $\bigcirc$, $\triangle$, $\square$ each represent a number: $\bigcirc+\bigcirc+\bigcirc=\triangle+\triangle$, $\triangle+\triangle+\triangle+\triangle=\square+\square+\square$, $\bigcirc+\triangle+\triangle+\square=400$. Find $\bigcirc$, $\triangle$, $\square$.
+
+### Solution to Exercise 78
+
+From $\bigcirc+\bigcirc+\bigcirc=\triangle+\triangle$, we get $3\bigcirc=2\triangle$, i.e. $\bigcirc=\dfrac{2}{3}\triangle$; from $\triangle+\triangle+\triangle+\triangle=\square+\square+\square$, we get $4\triangle=3\square$, i.e. $\square=\dfrac{4}{3}\triangle$. Substituting into $\bigcirc+\triangle+\triangle+\square=400$, we get $\dfrac{2}{3}\triangle+2\triangle+\dfrac{4}{3}\triangle=4\triangle=400$, so $\triangle=100$ and $\bigcirc=\dfrac{200}{3}$ (just substitute according to the actual figure relationships in the textbook and solve). $\blacksquare$
