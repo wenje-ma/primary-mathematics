@@ -24,7 +24,7 @@
 
 ### 解答 练习一百四十七
 
-由**定义 10.3.2** (表面积) 与**定义 10.3.4** (体积计算公式): 表面积 $S=(8\times5+8\times4+5\times4)\times2=(40+32+20)\times2=184\,\mathrm{cm^2}$; 体积 $V=8\times5\times4=160\,\mathrm{cm^3}$. $\blacksquare$
+由**定义 10.3.2** (表面积) 与**定义 10.3.4** (体积计算公式): 表面积 $S=\left(8\times5+8\times4+5\times4\right)\times2=\left(40+32+20\right)\times2=184\,\mathrm{cm^2}$; 体积 $V=8\times5\times4=160\,\mathrm{cm^3}$. $\blacksquare$
 
 ### 练习一百四十八
 

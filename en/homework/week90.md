@@ -50,7 +50,7 @@ By **Definition 11.2.2** (A Number Times a Fraction): $\frac{4}{7}\times\frac{1}
 
 ### Exercise 37
 
-(Lesson: A Number Times a Fraction, Exercise 3 Review Problem 1) This plot is $1$ hectare; first shade $\frac{1}{5}$ hectare, then shade $\frac{3}{4}$ of $\frac{1}{5}$ hectare. How many hectares are shaded? Write $(\;)\times(\;)$.
+(Lesson: A Number Times a Fraction, Exercise 3 Review Problem 1) This plot is $1$ hectare; first shade $\frac{1}{5}$ hectare, then shade $\frac{3}{4}$ of $\frac{1}{5}$ hectare. How many hectares are shaded? Write $\left(\;\right)\times\left(\;\right)$.
 
 ![week90-1.svg](../../figures/week90-1.svg){width=50%}
 
@@ -188,27 +188,27 @@ By **Definition 11.2.2** (A Number Times a Fraction): $2.5\times\frac{4}{5}=2\,\
 
 ### Exercise 54
 
-(Lesson: Mixed Fraction-Decimal Operations, Think) Mixed fraction operations follow the same order as integers. Can you compute $(\frac{4}{5}+\frac{1}{2})\times2$ and $\frac{4}{5}\times2+\frac{1}{2}\times2$? Are the two equal?
+(Lesson: Mixed Fraction-Decimal Operations, Think) Mixed fraction operations follow the same order as integers. Can you compute $\left(\frac{4}{5}+\frac{1}{2}\right)\times2$ and $\frac{4}{5}\times2+\frac{1}{2}\times2$? Are the two equal?
 
 ### Solution to Exercise 54
 
-By **Definition 11.2.3** (Mixed Operations and Laws for Fractions): $(\frac{4}{5}+\frac{1}{2})\times2=\frac{13}{10}\times2=\frac{13}{5}$; $\frac{4}{5}\times2+\frac{1}{2}\times2=\frac{8}{5}+1=\frac{13}{5}$. Equal — the distributive law. $\blacksquare$
+By **Definition 11.2.3** (Mixed Operations and Laws for Fractions): $\left(\frac{4}{5}+\frac{1}{2}\right)\times2=\frac{13}{10}\times2=\frac{13}{5}$; $\frac{4}{5}\times2+\frac{1}{2}\times2=\frac{8}{5}+1=\frac{13}{5}$. Equal — the distributive law. $\blacksquare$
 
 ### Exercise 55
 
-(Lesson: Mixed Fraction-Decimal Operations, Example 4) Simplify: $\frac{3}{5}\times(\frac{1}{6}\times5)$; $(\frac{5}{6}+\frac{1}{4})\times12$; product $\frac{2}{3}\times\frac{8}{7}\times14\times\frac{9}{4}$.
+(Lesson: Mixed Fraction-Decimal Operations, Example 4) Simplify: $\frac{3}{5}\times\left(\frac{1}{6}\times5\right)$; $\left(\frac{5}{6}+\frac{1}{4}\right)\times12$; product $\frac{2}{3}\times\frac{8}{7}\times14\times\frac{9}{4}$.
 
 ### Solution to Exercise 55
 
-By **Definition 11.2.3** (Mixed Operations and Laws for Fractions): $\frac{3}{5}\times(\frac{1}{6}\times5)=\frac{3}{5}\times(5\times\frac{1}{6})=3\times\frac{1}{6}=\frac{1}{2}$ (commutative); $(\frac{5}{6}+\frac{1}{4})\times12=\frac{5}{6}\times12+\frac{1}{4}\times12=10+3=13$ (distributive); the product reduces to $24$. $\blacksquare$
+By **Definition 11.2.3** (Mixed Operations and Laws for Fractions): $\frac{3}{5}\times\left(\frac{1}{6}\times5\right)=\frac{3}{5}\times\left(5\times\frac{1}{6}\right)=3\times\frac{1}{6}=\frac{1}{2}$ (commutative); $\left(\frac{5}{6}+\frac{1}{4}\right)\times12=\frac{5}{6}\times12+\frac{1}{4}\times12=10+3=13$ (distributive); the product reduces to $24$. $\blacksquare$
 
 ### Exercise 56
 
-(Lesson: Mixed Fraction-Decimal Operations, Do It Problem 1) Simplify and say which law: $\frac{2}{3}\times\frac{1}{7}\times3$; $(\frac{8}{9}+\frac{4}{27})\times27$; $87\times\frac{3}{86}$.
+(Lesson: Mixed Fraction-Decimal Operations, Do It Problem 1) Simplify and say which law: $\frac{2}{3}\times\frac{1}{7}\times3$; $\left(\frac{8}{9}+\frac{4}{27}\right)\times27$; $87\times\frac{3}{86}$.
 
 ### Solution to Exercise 56
 
-By **Definition 11.2.3** (Mixed Operations and Laws for Fractions): $\frac{2}{3}\times3\times\frac{1}{7}=\frac{2}{7}$ (commutative); $\frac{8}{9}\times27+\frac{4}{27}\times27=24+4=28$ (distributive); $87\times\frac{3}{86}=(86+1)\times\frac{3}{86}=3+\frac{3}{86}=3\frac{3}{86}$ (distributive). $\blacksquare$
+By **Definition 11.2.3** (Mixed Operations and Laws for Fractions): $\frac{2}{3}\times3\times\frac{1}{7}=\frac{2}{7}$ (commutative); $\frac{8}{9}\times27+\frac{4}{27}\times27=24+4=28$ (distributive); $87\times\frac{3}{86}=\left(86+1\right)\times\frac{3}{86}=3+\frac{3}{86}=3\frac{3}{86}$ (distributive). $\blacksquare$
 
 ### Exercise 57
 
@@ -236,19 +236,19 @@ By **Definition 11.2.2** (A Number Times a Fraction): $2.5\times\frac{12}{25}=1.
 
 ### Exercise 60
 
-(Lesson: Mixed Fraction-Decimal Operations, Exercise 4 Review Problem 3) Compute: $\frac{1}{3}\times\frac{3}{5}+1$; $\frac{5}{7}-\frac{5}{9}\times\frac{5}{7}$; $1-\frac{15}{28}\times\frac{21}{25}$; $\frac{1}{2}+\frac{5}{4}\times\frac{4}{5}$; $\frac{1}{6}\times(5-\frac{2}{3})$; $\frac{7}{8}\times7+\frac{3}{8}$.
+(Lesson: Mixed Fraction-Decimal Operations, Exercise 4 Review Problem 3) Compute: $\frac{1}{3}\times\frac{3}{5}+1$; $\frac{5}{7}-\frac{5}{9}\times\frac{5}{7}$; $1-\frac{15}{28}\times\frac{21}{25}$; $\frac{1}{2}+\frac{5}{4}\times\frac{4}{5}$; $\frac{1}{6}\times\left(5-\frac{2}{3}\right)$; $\frac{7}{8}\times7+\frac{3}{8}$.
 
 ### Solution to Exercise 60
 
-$\frac{1}{3}\times\frac{3}{5}+1=\frac{1}{5}+1=\frac{6}{5}$; $\frac{5}{7}-\frac{5}{9}\times\frac{5}{7}=\frac{5}{7}\times(1-\frac{5}{9})=\frac{20}{63}$; $1-\frac{15}{28}\times\frac{21}{25}=1-\frac{9}{20}=\frac{11}{20}$; $\frac{1}{2}+\frac{5}{4}\times\frac{4}{5}=\frac{1}{2}+1=\frac{3}{2}$; $\frac{1}{6}\times(5-\frac{2}{3})=\frac{1}{6}\times\frac{13}{3}=\frac{13}{18}$; $\frac{7}{8}\times7+\frac{3}{8}=\frac{49}{8}+\frac{3}{8}=\frac{13}{2}$. $\blacksquare$
+$\frac{1}{3}\times\frac{3}{5}+1=\frac{1}{5}+1=\frac{6}{5}$; $\frac{5}{7}-\frac{5}{9}\times\frac{5}{7}=\frac{5}{7}\times\left(1-\frac{5}{9}\right)=\frac{20}{63}$; $1-\frac{15}{28}\times\frac{21}{25}=1-\frac{9}{20}=\frac{11}{20}$; $\frac{1}{2}+\frac{5}{4}\times\frac{4}{5}=\frac{1}{2}+1=\frac{3}{2}$; $\frac{1}{6}\times\left(5-\frac{2}{3}\right)=\frac{1}{6}\times\frac{13}{3}=\frac{13}{18}$; $\frac{7}{8}\times7+\frac{3}{8}=\frac{49}{8}+\frac{3}{8}=\frac{13}{2}$. $\blacksquare$
 
 ### Exercise 61
 
-(Lesson: Mixed Fraction-Decimal Operations, Exercise 4 Review Problem 4) Are these right? Correct: $5-3\times\frac{7}{9}=2\times\frac{7}{9}=\frac{14}{9}$; $(\frac{1}{6}+\frac{3}{4})\times6=1+\frac{3}{4}=\frac{7}{4}$.
+(Lesson: Mixed Fraction-Decimal Operations, Exercise 4 Review Problem 4) Are these right? Correct: $5-3\times\frac{7}{9}=2\times\frac{7}{9}=\frac{14}{9}$; $\left(\frac{1}{6}+\frac{3}{4}\right)\times6=1+\frac{3}{4}=\frac{7}{4}$.
 
 ### Solution to Exercise 61
 
-Both wrong. By **Definition 11.2.3** (Mixed Operations and Laws for Fractions), multiply before subtracting: $5-3\times\frac{7}{9}=5-\frac{7}{3}=\frac{8}{3}$; the distributive law missed a term: $(\frac{1}{6}+\frac{3}{4})\times6=\frac{1}{6}\times6+\frac{3}{4}\times6=1+\frac{9}{2}=\frac{11}{2}$. $\blacksquare$
+Both wrong. By **Definition 11.2.3** (Mixed Operations and Laws for Fractions), multiply before subtracting: $5-3\times\frac{7}{9}=5-\frac{7}{3}=\frac{8}{3}$; the distributive law missed a term: $\left(\frac{1}{6}+\frac{3}{4}\right)\times6=\frac{1}{6}\times6+\frac{3}{4}\times6=1+\frac{9}{2}=\frac{11}{2}$. $\blacksquare$
 
 ### Exercise 62
 
@@ -256,15 +256,15 @@ Both wrong. By **Definition 11.2.3** (Mixed Operations and Laws for Fractions), 
 
 ### Solution to Exercise 62
 
-By **Definition 11.2.3** (Mixed Operations and Laws for Fractions): $\frac{2}{9}\times(1-\frac{7}{16})=\frac{2}{9}\times\frac{9}{16}=\frac{1}{8}$; $\frac{2}{27}\times(4\times\frac{3}{4})=\frac{2}{27}\times3=\frac{2}{9}$; $\frac{5}{7}\times16\times\frac{42}{25}=\frac{96}{5}$; $\frac{1}{2}\times(\frac{1}{15}+\frac{1}{3})=\frac{1}{2}\times\frac{6}{15}=\frac{1}{5}$; $\frac{4}{5}\times\frac{7}{9}\times\frac{15}{8}=\frac{7}{6}$; $\frac{5}{9}\times(\frac{5}{6}+\frac{1}{6})=\frac{5}{9}$. $\blacksquare$
+By **Definition 11.2.3** (Mixed Operations and Laws for Fractions): $\frac{2}{9}\times\left(1-\frac{7}{16}\right)=\frac{2}{9}\times\frac{9}{16}=\frac{1}{8}$; $\frac{2}{27}\times\left(4\times\frac{3}{4}\right)=\frac{2}{27}\times3=\frac{2}{9}$; $\frac{5}{7}\times16\times\frac{42}{25}=\frac{96}{5}$; $\frac{1}{2}\times\left(\frac{1}{15}+\frac{1}{3}\right)=\frac{1}{2}\times\frac{6}{15}=\frac{1}{5}$; $\frac{4}{5}\times\frac{7}{9}\times\frac{15}{8}=\frac{7}{6}$; $\frac{5}{9}\times\left(\frac{5}{6}+\frac{1}{6}\right)=\frac{5}{9}$. $\blacksquare$
 
 ### Exercise 63
 
-(Lesson: Mixed Fraction-Decimal Operations, Exercise 4 Review Problem 6) Simplify where possible: $\frac{11}{24}\times16$; $\frac{1}{4}\times\frac{2}{7}$; $\frac{7}{12}\times6+\frac{17}{12}\times6$; $\frac{3}{5}\times\frac{55}{6}$; $\frac{4}{9}\times5\times18$; $(14+\frac{7}{2})\times\frac{1}{14}$.
+(Lesson: Mixed Fraction-Decimal Operations, Exercise 4 Review Problem 6) Simplify where possible: $\frac{11}{24}\times16$; $\frac{1}{4}\times\frac{2}{7}$; $\frac{7}{12}\times6+\frac{17}{12}\times6$; $\frac{3}{5}\times\frac{55}{6}$; $\frac{4}{9}\times5\times18$; $\left(14+\frac{7}{2}\right)\times\frac{1}{14}$.
 
 ### Solution to Exercise 63
 
-$\frac{11}{24}\times16=\frac{22}{3}$; $\frac{1}{4}\times\frac{2}{7}=\frac{1}{14}$; $(\frac{7}{12}+\frac{17}{12})\times6=2\times6=12$; $\frac{3}{5}\times\frac{55}{6}=\frac{11}{2}$; $\frac{4}{9}\times18\times5=40$; $14\times\frac{1}{14}+\frac{7}{2}\times\frac{1}{14}=1+\frac{1}{4}=\frac{5}{4}$. $\blacksquare$
+$\frac{11}{24}\times16=\frac{22}{3}$; $\frac{1}{4}\times\frac{2}{7}=\frac{1}{14}$; $\left(\frac{7}{12}+\frac{17}{12}\right)\times6=2\times6=12$; $\frac{3}{5}\times\frac{55}{6}=\frac{11}{2}$; $\frac{4}{9}\times18\times5=40$; $14\times\frac{1}{14}+\frac{7}{2}\times\frac{1}{14}=1+\frac{1}{4}=\frac{5}{4}$. $\blacksquare$
 
 ### Exercise 64
 
@@ -272,7 +272,7 @@ $\frac{11}{24}\times16=\frac{22}{3}$; $\frac{1}{4}\times\frac{2}{7}=\frac{1}{14}
 
 ### Solution to Exercise 64
 
-Triangle area $=\frac{1}{2}\times\frac{3}{4}\times\frac{4}{9}=\frac{1}{6}\,\text{dm}^2$; trapezoid area $=\frac{1}{2}\times(\frac{11}{18}+\frac{8}{9})\times\frac{2}{3}=\frac{1}{2}\times\frac{27}{18}\times\frac{2}{3}=\frac{1}{2}\,\text{dm}^2$. $\blacksquare$
+Triangle area $=\frac{1}{2}\times\frac{3}{4}\times\frac{4}{9}=\frac{1}{6}\,\text{dm}^2$; trapezoid area $=\frac{1}{2}\times\left(\frac{11}{18}+\frac{8}{9}\right)\times\frac{2}{3}=\frac{1}{2}\times\frac{27}{18}\times\frac{2}{3}=\frac{1}{2}\,\text{dm}^2$. $\blacksquare$
 
 ### Exercise 65
 
@@ -280,7 +280,7 @@ Triangle area $=\frac{1}{2}\times\frac{3}{4}\times\frac{4}{9}=\frac{1}{6}\,\text
 
 ### Solution to Exercise 65
 
-By **Definition 11.2.3** (Mixed Operations and Laws for Fractions): $\frac{1}{4}\times(9+11)=\frac{1}{4}\times20=5$ sheets. $\blacksquare$
+By **Definition 11.2.3** (Mixed Operations and Laws for Fractions): $\frac{1}{4}\times\left(9+11\right)=\frac{1}{4}\times20=5$ sheets. $\blacksquare$
 
 ### Exercise 66
 
@@ -296,7 +296,7 @@ Rectangle area $\frac{5}{4}\times\frac{3}{5}=\frac{3}{4}\,\text{m}^2$; differenc
 
 ### Solution to Exercise 67
 
-By **Definition 11.2.3** (Mixed Operations and Laws for Fractions): $2400\times(\frac{1}{3}+\frac{3}{8}+\frac{1}{6})=2400\times\frac{5}{8}=1500$ ten-thousand kWh. $\blacksquare$
+By **Definition 11.2.3** (Mixed Operations and Laws for Fractions): $2400\times\left(\frac{1}{3}+\frac{3}{8}+\frac{1}{6}\right)=2400\times\frac{5}{8}=1500$ ten-thousand kWh. $\blacksquare$
 
 ### Exercise 68
 
@@ -320,7 +320,7 @@ Rule: two fractions with the same numerator equal to the sum of the denominators
 
 ### Solution to Exercise 70
 
-Rule: two fractions with numerator $1$ and consecutive denominators have their difference equal to their product, i.e. $\frac{1}{n}-\frac{1}{n+1}=\frac{1}{n(n+1)}=\frac{1}{n}\times\frac{1}{n+1}$. E.g. $\frac{1}{5}-\frac{1}{6}=\frac{1}{30}=\frac{1}{5}\times\frac{1}{6}$. $\blacksquare$
+Rule: two fractions with numerator $1$ and consecutive denominators have their difference equal to their product, i.e. $\frac{1}{n}-\frac{1}{n+1}=\frac{1}{n\left(n+1\right)}=\frac{1}{n}\times\frac{1}{n+1}$. E.g. $\frac{1}{5}-\frac{1}{6}=\frac{1}{30}=\frac{1}{5}\times\frac{1}{6}$. $\blacksquare$
 
 ### Exercise 71
 
@@ -328,7 +328,7 @@ Rule: two fractions with numerator $1$ and consecutive denominators have their d
 
 ### Solution to Exercise 71
 
-By **Definition 11.2.4** (Successive Fraction-of-a-Number): $4800\times\frac{3}{5}\times\frac{1}{4}=2880\times\frac{1}{4}=720\,\text{m}^2$. Or $4800\times(\frac{3}{5}\times\frac{1}{4})=4800\times\frac{3}{20}=720\,\text{m}^2$. $\blacksquare$
+By **Definition 11.2.4** (Successive Fraction-of-a-Number): $4800\times\frac{3}{5}\times\frac{1}{4}=2880\times\frac{1}{4}=720\,\text{m}^2$. Or $4800\times\left(\frac{3}{5}\times\frac{1}{4}\right)=4800\times\frac{3}{20}=720\,\text{m}^2$. $\blacksquare$
 
 ### Exercise 72
 
@@ -352,7 +352,7 @@ By **Definition 11.2.4** (Successive Fraction-of-a-Number): $40\times\frac{3}{4}
 
 ### Solution to Exercise 74
 
-By **Definition 11.2.2** (A Number Times a Fraction): first the reduction $100\times\frac{1}{4}=25\,\text{kg}$, then $100-25=75\,\text{kg}$; or take the remaining fraction $100\times(1-\frac{1}{4})=100\times\frac{3}{4}=75\,\text{kg}$. $\blacksquare$
+By **Definition 11.2.2** (A Number Times a Fraction): first the reduction $100\times\frac{1}{4}=25\,\text{kg}$, then $100-25=75\,\text{kg}$; or take the remaining fraction $100\times\left(1-\frac{1}{4}\right)=100\times\frac{3}{4}=75\,\text{kg}$. $\blacksquare$
 
 ### Exercise 75
 
@@ -360,7 +360,7 @@ By **Definition 11.2.2** (A Number Times a Fraction): first the reduction $100\t
 
 ### Solution to Exercise 75
 
-By **Definition 11.2.2** (A Number Times a Fraction): $75\times(1+\frac{4}{5})=75\times\frac{9}{5}=135$ beats. $\blacksquare$
+By **Definition 11.2.2** (A Number Times a Fraction): $75\times\left(1+\frac{4}{5}\right)=75\times\frac{9}{5}=135$ beats. $\blacksquare$
 
 ### Exercise 76
 
@@ -392,7 +392,7 @@ By **Definition 11.2.4** (Successive Fraction-of-a-Number): $32\times\frac{5}{8}
 
 ### Solution to Exercise 79
 
-(1) $60\times(1+\frac{1}{3})=80$ blossoms; (2) $180\times(1-\frac{1}{6})=150$ students. $\blacksquare$
+(1) $60\times\left(1+\frac{1}{3}\right)=80$ blossoms; (2) $180\times\left(1-\frac{1}{6}\right)=150$ students. $\blacksquare$
 
 ### Exercise 80
 
@@ -400,7 +400,7 @@ By **Definition 11.2.4** (Successive Fraction-of-a-Number): $32\times\frac{5}{8}
 
 ### Solution to Exercise 80
 
-By **Definition 11.2.2** (A Number Times a Fraction): $80\times(1+\frac{5}{8})=80\times\frac{13}{8}=130$ km/h. $\blacksquare$
+By **Definition 11.2.2** (A Number Times a Fraction): $80\times\left(1+\frac{5}{8}\right)=80\times\frac{13}{8}=130$ km/h. $\blacksquare$
 
 ### Exercise 81
 
@@ -408,7 +408,7 @@ By **Definition 11.2.2** (A Number Times a Fraction): $80\times(1+\frac{5}{8})=8
 
 ### Solution to Exercise 81
 
-By **Definition 11.2.2** (A Number Times a Fraction): $5\times(1-\frac{4}{5})=5\times\frac{1}{5}=1$ hour. $\blacksquare$
+By **Definition 11.2.2** (A Number Times a Fraction): $5\times\left(1-\frac{4}{5}\right)=5\times\frac{1}{5}=1$ hour. $\blacksquare$
 
 ### Exercise 82
 
@@ -416,7 +416,7 @@ By **Definition 11.2.2** (A Number Times a Fraction): $5\times(1-\frac{4}{5})=5\
 
 ### Solution to Exercise 82
 
-By **Definition 11.2.2** (A Number Times a Fraction): (1) $4\times\frac{1}{20}=\frac{1}{5}\,\text{t}$; (2) $4\times(1+\frac{1}{2})=6\,\text{t}$. $\blacksquare$
+By **Definition 11.2.2** (A Number Times a Fraction): (1) $4\times\frac{1}{20}=\frac{1}{5}\,\text{t}$; (2) $4\times\left(1+\frac{1}{2}\right)=6\,\text{t}$. $\blacksquare$
 
 ### Exercise 83
 
@@ -444,11 +444,11 @@ By **Definition 11.2.1** (Fraction Times an Integer) and **Definition 11.2.2** (
 
 ### Exercise 86
 
-(Lesson: Summary and Review, Exercise 6 Review Problem 2) Simplify: $\frac{1}{3}\times\frac{5}{16}\times\frac{3}{5}$; $(\frac{1}{5}+\frac{2}{3})\times15$; $\frac{4}{7}\times\frac{5}{9}+\frac{3}{7}\times\frac{5}{9}$; $\frac{11}{9}\times\frac{3}{20}\times\frac{9}{11}$; $\frac{2}{5}+\frac{1}{4}+\frac{3}{4}$; $0.75\times\frac{3}{7}+\frac{1}{4}\times\frac{3}{7}$.
+(Lesson: Summary and Review, Exercise 6 Review Problem 2) Simplify: $\frac{1}{3}\times\frac{5}{16}\times\frac{3}{5}$; $\left(\frac{1}{5}+\frac{2}{3}\right)\times15$; $\frac{4}{7}\times\frac{5}{9}+\frac{3}{7}\times\frac{5}{9}$; $\frac{11}{9}\times\frac{3}{20}\times\frac{9}{11}$; $\frac{2}{5}+\frac{1}{4}+\frac{3}{4}$; $0.75\times\frac{3}{7}+\frac{1}{4}\times\frac{3}{7}$.
 
 ### Solution to Exercise 86
 
-By **Definition 11.2.3** (Mixed Operations and Laws for Fractions): $\frac{1}{3}\times\frac{3}{5}\times\frac{5}{16}=\frac{1}{16}$; $\frac{1}{5}\times15+\frac{2}{3}\times15=3+10=13$; $\frac{5}{9}\times(\frac{4}{7}+\frac{3}{7})=\frac{5}{9}$; $\frac{11}{9}\times\frac{9}{11}\times\frac{3}{20}=\frac{3}{20}$; $\frac{2}{5}+(\frac{1}{4}+\frac{3}{4})=\frac{7}{5}$; $\frac{3}{7}\times(0.75+0.25)=\frac{3}{7}$. $\blacksquare$
+By **Definition 11.2.3** (Mixed Operations and Laws for Fractions): $\frac{1}{3}\times\frac{3}{5}\times\frac{5}{16}=\frac{1}{16}$; $\frac{1}{5}\times15+\frac{2}{3}\times15=3+10=13$; $\frac{5}{9}\times\left(\frac{4}{7}+\frac{3}{7}\right)=\frac{5}{9}$; $\frac{11}{9}\times\frac{9}{11}\times\frac{3}{20}=\frac{3}{20}$; $\frac{2}{5}+\left(\frac{1}{4}+\frac{3}{4}\right)=\frac{7}{5}$; $\frac{3}{7}\times\left(0.75+0.25\right)=\frac{3}{7}$. $\blacksquare$
 
 ### Exercise 87
 
@@ -456,7 +456,7 @@ By **Definition 11.2.3** (Mixed Operations and Laws for Fractions): $\frac{1}{3}
 
 ### Solution to Exercise 87
 
-By **Definition 11.2.2** (A Number Times a Fraction): $1850\times(1+\frac{15}{37})=1850\times\frac{52}{37}=2600$ hours. $\blacksquare$
+By **Definition 11.2.2** (A Number Times a Fraction): $1850\times\left(1+\frac{15}{37}\right)=1850\times\frac{52}{37}=2600$ hours. $\blacksquare$
 
 ### Exercise 88
 
@@ -480,4 +480,4 @@ $70\times\frac{1}{3}\times15=350\,\text{t}$. $\blacksquare$
 
 ### Solution to Exercise 90
 
-The table is row factor times column factor. Picking $3$ products with distinct rows and columns uses each row and column factor once; the product always equals $(\frac{7}{4}\times\frac{6}{5}\times\frac{5}{8})\times(\frac{1}{2}\times\frac{2}{3}\times\frac{3}{5})=\frac{21}{16}\times\frac{1}{5}=\frac{21}{80}$, independent of the choice. $\blacksquare$
+The table is row factor times column factor. Picking $3$ products with distinct rows and columns uses each row and column factor once; the product always equals $\left(\frac{7}{4}\times\frac{6}{5}\times\frac{5}{8}\right)\times\left(\frac{1}{2}\times\frac{2}{3}\times\frac{3}{5}\right)=\frac{21}{16}\times\frac{1}{5}=\frac{21}{80}$, independent of the choice. $\blacksquare$

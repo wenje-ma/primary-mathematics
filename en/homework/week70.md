@@ -8,7 +8,7 @@
 >
 > **Definition 9.2.4** (Multiples That Are Decimals) <br>A number (except $0$) multiplied by a number greater than $1$ gives a product larger than the original; multiplied by a number less than $1$, the product is smaller. When the multiple relation is expressed as a decimal, multiplication is also used.
 >
-> **Definition 9.2.5** (Extending the Integer Multiplication Laws to Decimals) <br>The commutative, associative and distributive laws of integer multiplication also apply to decimal multiplication: $a\times b=b\times a$, $(a\times b)\times c=a\times(b\times c)$, $(a+b)\times c=a\times c+b\times c$.
+> **Definition 9.2.5** (Extending the Integer Multiplication Laws to Decimals) <br>The commutative, associative and distributive laws of integer multiplication also apply to decimal multiplication: $a\times b=b\times a$, $\left(a\times b\right)\times c=a\times\left(b\times c\right)$, $\left(a+b\right)\times c=a\times c+b\times c$.
 >
 > **Definition 9.2.6** (Estimation to Solve Real Problems) <br>Sometimes only the rough range of a result is needed; judge by estimating upward or downward, and choose the direction according to the actual problem.
 >
@@ -152,7 +152,7 @@ By **Definition 9.2.3**, $3.04\times21=63.84\approx64$ m. $\blacksquare$
 
 ### Exercise 32
 
-(Lesson: Decimal Multiplication, Practice 2, Extension and Improvement, Problem 1) Based on $65\times39=2535$, fill suitable numbers in the parentheses: $2.535=(\ \ )\times(\ \ )$; $25.35=(\ \ )\times(\ \ )$; $253.5=(\ \ )\times(\ \ )$; $0.2535=(\ \ )\times(\ \ )$.
+(Lesson: Decimal Multiplication, Practice 2, Extension and Improvement, Problem 1) Based on $65\times39=2535$, fill suitable numbers in the parentheses: $2.535=\left(\ \ \right)\times\left(\ \ \right)$; $25.35=\left(\ \ \right)\times\left(\ \ \right)$; $253.5=\left(\ \ \right)\times\left(\ \ \right)$; $0.2535=\left(\ \ \right)\times\left(\ \ \right)$.
 
 ### Solution to Exercise 32
 
@@ -196,15 +196,15 @@ By **Definition 9.2.4**, multiplying by a number less than $1$ shrinks the produ
 
 ### Solution to Exercise 37
 
-By **Definition 9.2.5** (Extending the Laws): $0.25\times4.78\times4=0.25\times4\times4.78=1\times4.78=4.78$; $0.65\times202=0.65\times(200+2)=0.65\times200+0.65\times2=130+1.3=131.3$. $\blacksquare$
+By **Definition 9.2.5** (Extending the Laws): $0.25\times4.78\times4=0.25\times4\times4.78=1\times4.78=4.78$; $0.65\times202=0.65\times\left(200+2\right)=0.65\times200+0.65\times2=130+1.3=131.3$. $\blacksquare$
 
 ### Exercise 38
 
-(Lesson: Extending the Integer Multiplication Laws to Decimals, Try It) Fill by the operation laws and calculate conveniently: $4.2\times1.69=\_\_\times\_\_$; $2.5\times(0.77\times0.4)=(\_\_\times\_\_)\times\_\_$; $7.2\times8.4+2.8\times8.4=\_\_\times(\_\_+\_\_)$; $101\times0.45$; $4.75\times99+4.75$; $0.034\times0.5\times0.6$; $2.73\times99$.
+(Lesson: Extending the Integer Multiplication Laws to Decimals, Try It) Fill by the operation laws and calculate conveniently: $4.2\times1.69=\_\_\times\_\_$; $2.5\times\left(0.77\times0.4\right)=\left(\_\_\times\_\_\right)\times\_\_$; $7.2\times8.4+2.8\times8.4=\_\_\times\left(\_\_+\_\_\right)$; $101\times0.45$; $4.75\times99+4.75$; $0.034\times0.5\times0.6$; $2.73\times99$.
 
 ### Solution to Exercise 38
 
-By **Definition 9.2.5**: $4.2\times1.69=1.69\times4.2$; $2.5\times(0.77\times0.4)=(2.5\times0.4)\times0.77$; $7.2\times8.4+2.8\times8.4=8.4\times(7.2+2.8)=84$. Convenient calculation: $101\times0.45=(100+1)\times0.45=45+0.45=45.45$; $4.75\times99+4.75=4.75\times(99+1)=475$; $0.034\times0.5\times0.6=0.034\times0.3=0.0102$; $2.73\times99=2.73\times(100-1)=273-2.73=270.27$. $\blacksquare$
+By **Definition 9.2.5**: $4.2\times1.69=1.69\times4.2$; $2.5\times\left(0.77\times0.4\right)=\left(2.5\times0.4\right)\times0.77$; $7.2\times8.4+2.8\times8.4=8.4\times\left(7.2+2.8\right)=84$. Convenient calculation: $101\times0.45=\left(100+1\right)\times0.45=45+0.45=45.45$; $4.75\times99+4.75=4.75\times\left(99+1\right)=475$; $0.034\times0.5\times0.6=0.034\times0.3=0.0102$; $2.73\times99=2.73\times\left(100-1\right)=273-2.73=270.27$. $\blacksquare$
 
 ### Exercise 39
 
@@ -220,7 +220,7 @@ By **Definition 9.2.2**: $0.39\times2.9=1.131$; $0.58\times0.08=0.0464$; $3.7\ti
 
 ### Solution to Exercise 40
 
-By **Definition 9.2.5**: $0.78\times98=0.78\times(100-2)=78-1.56=76.44$; $4.8\times0.25=1.2\times4\times0.25=1.2$; $0.5\times2.33\times8=0.5\times8\times2.33=9.32$; $56\times1.25=7\times8\times1.25=70$; $1.2\times2.5+0.8\times2.5=(1.2+0.8)\times2.5=5$; $0.8\times0.25\times0.4\times12.5=(0.8\times12.5)\times(0.25\times0.4)=10\times0.1=1$. $\blacksquare$
+By **Definition 9.2.5**: $0.78\times98=0.78\times\left(100-2\right)=78-1.56=76.44$; $4.8\times0.25=1.2\times4\times0.25=1.2$; $0.5\times2.33\times8=0.5\times8\times2.33=9.32$; $56\times1.25=7\times8\times1.25=70$; $1.2\times2.5+0.8\times2.5=\left(1.2+0.8\right)\times2.5=5$; $0.8\times0.25\times0.4\times12.5=\left(0.8\times12.5\right)\times\left(0.25\times0.4\right)=10\times0.1=1$. $\blacksquare$
 
 ### Exercise 41
 
@@ -284,7 +284,7 @@ By **Definition 9.2.6** (Estimation), round each price upward: $3+6+2+4+7=22$ yu
 
 ### Solution to Exercise 48
 
-By **Definition 9.2.7**: (1) $11<12$, $11\times2.5=27.5$ yuan. (2) $12\times2.5+(17-12)\times3.8=30+19=49$ yuan. $\blacksquare$
+By **Definition 9.2.7**: (1) $11<12$, $11\times2.5=27.5$ yuan. (2) $12\times2.5+\left(17-12\right)\times3.8=30+19=49$ yuan. $\blacksquare$
 
 ### Exercise 49
 
@@ -292,7 +292,7 @@ By **Definition 9.2.7**: (1) $11<12$, $11\times2.5=27.5$ yuan. (2) $12\times2.5+
 
 ### Solution to Exercise 49
 
-By **Definition 9.2.2** and **Definition 9.2.5**: $54.9\times0.38=20.862$; $4.05+37.85=41.9$; $1.25\times0.7\times0.8=1.25\times0.8\times0.7=0.7$; $9.8\times25=(10-0.2)\times25=250-5=245$; $6.1\times3.6+3.6\times3.9=3.6\times(6.1+3.9)=36$; $2.96\times40=118.4$. $\blacksquare$
+By **Definition 9.2.2** and **Definition 9.2.5**: $54.9\times0.38=20.862$; $4.05+37.85=41.9$; $1.25\times0.7\times0.8=1.25\times0.8\times0.7=0.7$; $9.8\times25=\left(10-0.2\right)\times25=250-5=245$; $6.1\times3.6+3.6\times3.9=3.6\times\left(6.1+3.9\right)=36$; $2.96\times40=118.4$. $\blacksquare$
 
 ### Exercise 50
 

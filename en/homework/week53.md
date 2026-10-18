@@ -12,7 +12,7 @@
 
 ### Solution to Exercise 130
 
-By **Definition 7.5.1** (Addition Model): (1) $(27+22)+(18+18)=49+36=85$ people; (2) total number of people $95$, boys $5+27+18=50$, girls $95-50=45$, girls in the science club $=45-22-18=5$; (3) e.g., how many people are in the science club $=5+5=10$. $\blacksquare$
+By **Definition 7.5.1** (Addition Model): (1) $\left(27+22\right)+\left(18+18\right)=49+36=85$ people; (2) total number of people $95$, boys $5+27+18=50$, girls $95-50=45$, girls in the science club $=45-22-18=5$; (3) e.g., how many people are in the science club $=5+5=10$. $\blacksquare$
 
 ### Exercise 131
 

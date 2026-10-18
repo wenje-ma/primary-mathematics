@@ -156,7 +156,7 @@ $2-\frac{6}{13}\times\frac{26}{9}-\frac{2}{3}=2-\frac{4}{3}-\frac{2}{3}=0$; $\fr
 
 ### 解答 练习一百零九
 
-梯形面积 $=\frac{1}{2}\times(\frac{3}{5}+\frac{4}{5})\times\frac{3}{4}=\frac{1}{2}\times\frac{7}{5}\times\frac{3}{4}=\frac{21}{40}\,\text{m}^2$. 取较短的上底为长方形的长, 面积最大 $\frac{3}{5}\times\frac{3}{4}=\frac{9}{20}\,\text{m}^2$. $\blacksquare$
+梯形面积 $=\frac{1}{2}\times\left(\frac{3}{5}+\frac{4}{5}\right)\times\frac{3}{4}=\frac{1}{2}\times\frac{7}{5}\times\frac{3}{4}=\frac{21}{40}\,\text{m}^2$. 取较短的上底为长方形的长, 面积最大 $\frac{3}{5}\times\frac{3}{4}=\frac{9}{20}\,\text{m}^2$. $\blacksquare$
 
 ### 练习一百一十
 
@@ -180,7 +180,7 @@ $\div\frac{2}{3}\div\frac{3}{4}\times\frac{1}{2}=\times\frac{3}{2}\times\frac{4}
 
 ### 解答 练习一百一十二
 
-由**定义 11.3.3** (工程问题), 把全长看作单位"$1$": $1\div(\frac{1}{12}+\frac{1}{18})=1\div\frac{5}{36}=7.2$ (天). $\blacksquare$
+由**定义 11.3.3** (工程问题), 把全长看作单位"$1$": $1\div\left(\frac{1}{12}+\frac{1}{18}\right)=1\div\frac{5}{36}=7.2$ (天). $\blacksquare$
 
 ### 练习一百一十三
 
@@ -196,7 +196,7 @@ $\div\frac{2}{3}\div\frac{3}{4}\times\frac{1}{2}=\times\frac{3}{2}\times\frac{4}
 
 ### 解答 练习一百一十四
 
-由**定义 11.3.3** (工程问题): $1\div(\frac{1}{2}+\frac{1}{3})=1\div\frac{5}{6}=\frac{6}{5}$ (小时). $\blacksquare$
+由**定义 11.3.3** (工程问题): $1\div\left(\frac{1}{2}+\frac{1}{3}\right)=1\div\frac{5}{6}=\frac{6}{5}$ (小时). $\blacksquare$
 
 ### 练习一百一十五
 
@@ -204,7 +204,7 @@ $\div\frac{2}{3}\div\frac{3}{4}\times\frac{1}{2}=\times\frac{3}{2}\times\frac{4}
 
 ### 解答 练习一百一十五
 
-由**定义 11.3.3** (工程问题): 合种需 $1\div(\frac{1}{12}+\frac{1}{10})=1\div\frac{11}{60}=\frac{60}{11}\approx5.45$ (天) $<6$ 天, 能种完. $\blacksquare$
+由**定义 11.3.3** (工程问题): 合种需 $1\div\left(\frac{1}{12}+\frac{1}{10}\right)=1\div\frac{11}{60}=\frac{60}{11}\approx5.45$ (天) $<6$ 天, 能种完. $\blacksquare$
 
 ### 练习一百一十六
 
@@ -212,7 +212,7 @@ $\div\frac{2}{3}\div\frac{3}{4}\times\frac{1}{2}=\times\frac{3}{2}\times\frac{4}
 
 ### 解答 练习一百一十六
 
-两人 $3$ 小时完成 $(\frac{1}{5}+\frac{1}{9})\times3=\frac{14}{45}\times3=\frac{14}{15}$, 剩下 $1-\frac{14}{15}=\frac{1}{15}$ 对应 $100$ 个, 共 $100\div\frac{1}{15}=1500$ (个). $\blacksquare$
+两人 $3$ 小时完成 $\left(\frac{1}{5}+\frac{1}{9}\right)\times3=\frac{14}{45}\times3=\frac{14}{15}$, 剩下 $1-\frac{14}{15}=\frac{1}{15}$ 对应 $100$ 个, 共 $100\div\frac{1}{15}=1500$ (个). $\blacksquare$
 
 ### 练习一百一十七
 
@@ -240,11 +240,11 @@ $\div\frac{2}{3}\div\frac{3}{4}\times\frac{1}{2}=\times\frac{3}{2}\times\frac{4}
 
 ### 练习一百二十
 
-(课时 整理和复习 练习九 复习巩固 第 2 题) 计算: $\frac{15}{22}\div10$; $45\div\frac{9}{14}$; $\frac{3}{5}\div\frac{1}{6}$; $\frac{2}{7}\div\frac{8}{21}$; $\frac{2}{9}\times\frac{3}{8}\div\frac{6}{7}$; $4\div\frac{8}{3}-\frac{3}{5}$; $\frac{3}{4}\times\frac{5}{6}+\frac{3}{4}\times\frac{1}{6}$; $7-\frac{7}{9}\div\frac{7}{3}-\frac{2}{3}$; $\frac{15}{16}\div\frac{5}{8}\times8$; $26\div\frac{13}{25}\div\frac{15}{22}$; $35\div(1-\frac{2}{7})$; $\frac{21}{40}\div(\frac{1}{10}+\frac{3}{5})$.
+(课时 整理和复习 练习九 复习巩固 第 2 题) 计算: $\frac{15}{22}\div10$; $45\div\frac{9}{14}$; $\frac{3}{5}\div\frac{1}{6}$; $\frac{2}{7}\div\frac{8}{21}$; $\frac{2}{9}\times\frac{3}{8}\div\frac{6}{7}$; $4\div\frac{8}{3}-\frac{3}{5}$; $\frac{3}{4}\times\frac{5}{6}+\frac{3}{4}\times\frac{1}{6}$; $7-\frac{7}{9}\div\frac{7}{3}-\frac{2}{3}$; $\frac{15}{16}\div\frac{5}{8}\times8$; $26\div\frac{13}{25}\div\frac{15}{22}$; $35\div\left(1-\frac{2}{7}\right)$; $\frac{21}{40}\div\left(\frac{1}{10}+\frac{3}{5}\right)$.
 
 ### 解答 练习一百二十
 
-$\frac{15}{22}\div10=\frac{3}{44}$; $45\div\frac{9}{14}=70$; $\frac{3}{5}\div\frac{1}{6}=\frac{18}{5}$; $\frac{2}{7}\div\frac{8}{21}=\frac{3}{4}$; $\frac{2}{9}\times\frac{3}{8}\times\frac{7}{6}=\frac{7}{72}$; $4\times\frac{3}{8}-\frac{3}{5}=\frac{3}{2}-\frac{3}{5}=\frac{9}{10}$; $\frac{3}{4}\times(\frac{5}{6}+\frac{1}{6})=\frac{3}{4}$; $7-\frac{1}{3}-\frac{2}{3}=6$; $\frac{15}{16}\times\frac{8}{5}\times8=12$; $26\times\frac{25}{13}\times\frac{22}{15}=\frac{220}{3}$; $35\div\frac{5}{7}=49$; $\frac{21}{40}\div\frac{7}{10}=\frac{3}{4}$. $\blacksquare$
+$\frac{15}{22}\div10=\frac{3}{44}$; $45\div\frac{9}{14}=70$; $\frac{3}{5}\div\frac{1}{6}=\frac{18}{5}$; $\frac{2}{7}\div\frac{8}{21}=\frac{3}{4}$; $\frac{2}{9}\times\frac{3}{8}\times\frac{7}{6}=\frac{7}{72}$; $4\times\frac{3}{8}-\frac{3}{5}=\frac{3}{2}-\frac{3}{5}=\frac{9}{10}$; $\frac{3}{4}\times\left(\frac{5}{6}+\frac{1}{6}\right)=\frac{3}{4}$; $7-\frac{1}{3}-\frac{2}{3}=6$; $\frac{15}{16}\times\frac{8}{5}\times8=12$; $26\times\frac{25}{13}\times\frac{22}{15}=\frac{220}{3}$; $35\div\frac{5}{7}=49$; $\frac{21}{40}\div\frac{7}{10}=\frac{3}{4}$. $\blacksquare$
 
 ### 练习一百二十一
 
@@ -260,11 +260,11 @@ $\frac{15}{22}\div10=\frac{3}{44}$; $45\div\frac{9}{14}=70$; $\frac{3}{5}\div\fr
 
 ### 解答 练习一百二十二
 
-由**定义 11.3.3** (工程问题): $1\div(\frac{1}{6}+\frac{1}{3})=1\div\frac{1}{2}=2$ (次). $\blacksquare$
+由**定义 11.3.3** (工程问题): $1\div\left(\frac{1}{6}+\frac{1}{3}\right)=1\div\frac{1}{2}=2$ (次). $\blacksquare$
 
 ### 练习一百二十三
 
-(课时 整理和复习 练习九 综合运用 第 5 题) 如果 $a$ 和 $b$ 互为倒数, 那么 $\frac{a}{9}\times\frac{b}{8}=(\;)$, $\frac{5}{a}\times\frac{4}{b}=(\;)$, $\frac{a}{6}\div\frac{5}{b}=(\;)$, $\frac{7}{a}\div\frac{b}{6}=(\;)$.
+(课时 整理和复习 练习九 综合运用 第 5 题) 如果 $a$ 和 $b$ 互为倒数, 那么 $\frac{a}{9}\times\frac{b}{8}=\left(\;\right)$, $\frac{5}{a}\times\frac{4}{b}=\left(\;\right)$, $\frac{a}{6}\div\frac{5}{b}=\left(\;\right)$, $\frac{7}{a}\div\frac{b}{6}=\left(\;\right)$.
 
 ### 解答 练习一百二十三
 
@@ -276,7 +276,7 @@ $\frac{15}{22}\div10=\frac{3}{44}$; $45\div\frac{9}{14}=70$; $\frac{3}{5}\div\fr
 
 ### 解答 练习一百二十四
 
-由**定义 11.3.3** (工程问题): $1\div(\frac{1}{6}+\frac{1}{4})=1\div\frac{5}{12}=\frac{12}{5}$ (分钟). $\blacksquare$
+由**定义 11.3.3** (工程问题): $1\div\left(\frac{1}{6}+\frac{1}{4}\right)=1\div\frac{5}{12}=\frac{12}{5}$ (分钟). $\blacksquare$
 
 ### 练习一百二十五
 
@@ -284,7 +284,7 @@ $\frac{15}{22}\div10=\frac{3}{44}$; $45\div\frac{9}{14}=70$; $\frac{3}{5}\div\fr
 
 ### 解答 练习一百二十五
 
-(1) $140\times\frac{1}{5}=28$ (个); (2) $28\div\frac{1}{5}=140$ (个); (3) $400\times(1-\frac{4}{5})=80$ (周). $\blacksquare$
+(1) $140\times\frac{1}{5}=28$ (个); (2) $28\div\frac{1}{5}=140$ (个); (3) $400\times\left(1-\frac{4}{5}\right)=80$ (周). $\blacksquare$
 
 ### 练习一百二十六
 
@@ -300,4 +300,4 @@ $\frac{3}{4}\div\frac{b}{a}=\frac{3}{4}\times\frac{a}{b}$. 比较 $\frac{b}{a}$ 
 
 ### 解答 练习一百二十七
 
-把白昼看作单位"$1$", 全天 $=$ 白昼 $\times(1+\frac{5}{7})=$ 白昼 $\times\frac{12}{7}$. 白昼 $=24\div\frac{12}{7}=14$ (小时), 黑夜 $=24-14=10$ (小时). $\blacksquare$
+把白昼看作单位"$1$", 全天 $=$ 白昼 $\times\left(1+\frac{5}{7}\right)=$ 白昼 $\times\frac{12}{7}$. 白昼 $=24\div\frac{12}{7}=14$ (小时), 黑夜 $=24-14=10$ (小时). $\blacksquare$

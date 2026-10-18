@@ -8,7 +8,7 @@
 >
 > **定义 9.2.4** (倍数是小数) <br>一个数 ( $0$ 除外) 乘大于 $1$ 的数, 积比原来的数大; 乘小于 $1$ 的数, 积比原来的数小. 用小数表示倍的关系时, 也用乘法解决.
 >
-> **定义 9.2.5** (整数乘法运算律推广到小数) <br>整数乘法的交换律, 结合律和分配律, 对于小数乘法同样适用: $a\times b=b\times a$, $(a\times b)\times c=a\times(b\times c)$, $(a+b)\times c=a\times c+b\times c$.
+> **定义 9.2.5** (整数乘法运算律推广到小数) <br>整数乘法的交换律, 结合律和分配律, 对于小数乘法同样适用: $a\times b=b\times a$, $\left(a\times b\right)\times c=a\times\left(b\times c\right)$, $\left(a+b\right)\times c=a\times c+b\times c$.
 >
 > **定义 9.2.6** (估算解决实际问题) <br>有时只需知道结果的大致范围, 可通过往大估或往小估来判断, 再根据实际问题选择估大或估小.
 >
@@ -152,7 +152,7 @@ $1.28\times30=38.4$ 万千米. $\blacksquare$
 
 ### 练习三十二
 
-(课时 小数乘法 练习二 拓展提升 第 1 题) 根据 $65\times39=2535$, 在括号里填上合适的数: $2.535=(\ \ )\times(\ \ )$; $25.35=(\ \ )\times(\ \ )$; $253.5=(\ \ )\times(\ \ )$; $0.2535=(\ \ )\times(\ \ )$.
+(课时 小数乘法 练习二 拓展提升 第 1 题) 根据 $65\times39=2535$, 在括号里填上合适的数: $2.535=\left(\ \ \right)\times\left(\ \ \right)$; $25.35=\left(\ \ \right)\times\left(\ \ \right)$; $253.5=\left(\ \ \right)\times\left(\ \ \right)$; $0.2535=\left(\ \ \right)\times\left(\ \ \right)$.
 
 ### 解答 练习三十二
 
@@ -196,15 +196,15 @@ $1.28\times30=38.4$ 万千米. $\blacksquare$
 
 ### 解答 练习三十七
 
-由**定义 9.2.5** (运算律推广): $0.25\times4.78\times4=0.25\times4\times4.78=1\times4.78=4.78$; $0.65\times202=0.65\times(200+2)=0.65\times200+0.65\times2=130+1.3=131.3$. $\blacksquare$
+由**定义 9.2.5** (运算律推广): $0.25\times4.78\times4=0.25\times4\times4.78=1\times4.78=4.78$; $0.65\times202=0.65\times\left(200+2\right)=0.65\times200+0.65\times2=130+1.3=131.3$. $\blacksquare$
 
 ### 练习三十八
 
-(课时 整数乘法运算律推广到小数 做一做) 根据运算律填空并简便计算: $4.2\times1.69=\_\_\times\_\_$; $2.5\times(0.77\times0.4)=(\_\_\times\_\_)\times\_\_$; $7.2\times8.4+2.8\times8.4=\_\_\times(\_\_+\_\_)$; $101\times0.45$; $4.75\times99+4.75$; $0.034\times0.5\times0.6$; $2.73\times99$.
+(课时 整数乘法运算律推广到小数 做一做) 根据运算律填空并简便计算: $4.2\times1.69=\_\_\times\_\_$; $2.5\times\left(0.77\times0.4\right)=\left(\_\_\times\_\_\right)\times\_\_$; $7.2\times8.4+2.8\times8.4=\_\_\times\left(\_\_+\_\_\right)$; $101\times0.45$; $4.75\times99+4.75$; $0.034\times0.5\times0.6$; $2.73\times99$.
 
 ### 解答 练习三十八
 
-由**定义 9.2.5**: $4.2\times1.69=1.69\times4.2$; $2.5\times(0.77\times0.4)=(2.5\times0.4)\times0.77$; $7.2\times8.4+2.8\times8.4=8.4\times(7.2+2.8)=84$. 简便计算: $101\times0.45=(100+1)\times0.45=45+0.45=45.45$; $4.75\times99+4.75=4.75\times(99+1)=475$; $0.034\times0.5\times0.6=0.034\times0.3=0.0102$; $2.73\times99=2.73\times(100-1)=273-2.73=270.27$. $\blacksquare$
+由**定义 9.2.5**: $4.2\times1.69=1.69\times4.2$; $2.5\times\left(0.77\times0.4\right)=\left(2.5\times0.4\right)\times0.77$; $7.2\times8.4+2.8\times8.4=8.4\times\left(7.2+2.8\right)=84$. 简便计算: $101\times0.45=\left(100+1\right)\times0.45=45+0.45=45.45$; $4.75\times99+4.75=4.75\times\left(99+1\right)=475$; $0.034\times0.5\times0.6=0.034\times0.3=0.0102$; $2.73\times99=2.73\times\left(100-1\right)=273-2.73=270.27$. $\blacksquare$
 
 ### 练习三十九
 
@@ -220,7 +220,7 @@ $1.28\times30=38.4$ 万千米. $\blacksquare$
 
 ### 解答 练习四十
 
-由**定义 9.2.5**: $0.78\times98=0.78\times(100-2)=78-1.56=76.44$; $4.8\times0.25=1.2\times4\times0.25=1.2$; $0.5\times2.33\times8=0.5\times8\times2.33=9.32$; $56\times1.25=7\times8\times1.25=70$; $1.2\times2.5+0.8\times2.5=(1.2+0.8)\times2.5=5$; $0.8\times0.25\times0.4\times12.5=(0.8\times12.5)\times(0.25\times0.4)=10\times0.1=1$. $\blacksquare$
+由**定义 9.2.5**: $0.78\times98=0.78\times\left(100-2\right)=78-1.56=76.44$; $4.8\times0.25=1.2\times4\times0.25=1.2$; $0.5\times2.33\times8=0.5\times8\times2.33=9.32$; $56\times1.25=7\times8\times1.25=70$; $1.2\times2.5+0.8\times2.5=\left(1.2+0.8\right)\times2.5=5$; $0.8\times0.25\times0.4\times12.5=\left(0.8\times12.5\right)\times\left(0.25\times0.4\right)=10\times0.1=1$. $\blacksquare$
 
 ### 练习四十一
 
@@ -284,7 +284,7 @@ $3.3\times6.7=22.11$; $3.33\times66.7=222.111$; $3.333\times666.7=2222.1111$; $3
 
 ### 解答 练习四十八
 
-由**定义 9.2.7**: (1) $11<12$, $11\times2.5=27.5$ 元. (2) $12\times2.5+(17-12)\times3.8=30+19=49$ 元. $\blacksquare$
+由**定义 9.2.7**: (1) $11<12$, $11\times2.5=27.5$ 元. (2) $12\times2.5+\left(17-12\right)\times3.8=30+19=49$ 元. $\blacksquare$
 
 ### 练习四十九
 
@@ -292,7 +292,7 @@ $3.3\times6.7=22.11$; $3.33\times66.7=222.111$; $3.333\times666.7=2222.1111$; $3
 
 ### 解答 练习四十九
 
-由**定义 9.2.2** 与**定义 9.2.5**: $54.9\times0.38=20.862$; $4.05+37.85=41.9$; $1.25\times0.7\times0.8=1.25\times0.8\times0.7=0.7$; $9.8\times25=(10-0.2)\times25=250-5=245$; $6.1\times3.6+3.6\times3.9=3.6\times(6.1+3.9)=36$; $2.96\times40=118.4$. $\blacksquare$
+由**定义 9.2.2** 与**定义 9.2.5**: $54.9\times0.38=20.862$; $4.05+37.85=41.9$; $1.25\times0.7\times0.8=1.25\times0.8\times0.7=0.7$; $9.8\times25=\left(10-0.2\right)\times25=250-5=245$; $6.1\times3.6+3.6\times3.9=3.6\times\left(6.1+3.9\right)=36$; $2.96\times40=118.4$. $\blacksquare$
 
 ### 练习五十
 

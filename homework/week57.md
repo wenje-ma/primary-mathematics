@@ -88,11 +88,11 @@
 
 ### 练习二百二十九
 
-(课时 练习二十 第 7 题) 不计算直接写积. (1) $43\times7=301$, 则 $43\times21=$, $43\times700=$. (2) $75\times40=3000$, 则 $150\times40=$, $75\times20=$. (3) $\star\times\bigtriangleup=180$, 则 $(★\times2)\times\bigtriangleup=$, $(★\div9)\times\bigtriangleup=$.
+(课时 练习二十 第 7 题) 不计算直接写积. (1) $43\times7=301$, 则 $43\times21=$, $43\times700=$. (2) $75\times40=3000$, 则 $150\times40=$, $75\times20=$. (3) $\star\times\bigtriangleup=180$, 则 $\left(★\times2\right)\times\bigtriangleup=$, $\left(★\div9\right)\times\bigtriangleup=$.
 
 ### 解答 练习二百二十九
 
-由**定义 7.4.3** (积的变化规律): (1) $43\times21=903$, $43\times700=30100$; (2) $150\times40=6000$, $75\times20=1500$; (3) $(★\times2)\times\triangle=360$, $(★\div9)\times\triangle=20$. $\blacksquare$
+由**定义 7.4.3** (积的变化规律): (1) $43\times21=903$, $43\times700=30100$; (2) $150\times40=6000$, $75\times20=1500$; (3) $\left(★\times2\right)\times\triangle=360$, $\left(★\div9\right)\times\triangle=20$. $\blacksquare$
 
 ### 练习二百三十
 
@@ -188,4 +188,4 @@ $29\times88=2552$ 元, $29\times123=3567$ 元, $29\times168=4872$ 元. $3600$ �
 
 ### 解答 练习二百四十一
 
-设大和尚 $x$ 人, 小和尚 $100-x$ 人. $3x+(100-x)\div3=100$, 解得 $x=25$, 大和尚 $25$ 人, 小和尚 $75$ 人. $\blacksquare$
+设大和尚 $x$ 人, 小和尚 $100-x$ 人. $3x+\left(100-x\right)\div3=100$, 解得 $x=25$, 大和尚 $25$ 人, 小和尚 $75$ 人. $\blacksquare$

@@ -2,7 +2,7 @@
 
 > **Definition 10.3.1** (Features of Cuboids and Cubes) <br>A cuboid has $6$ faces, $12$ edges, and $8$ vertices; opposite faces are identical and opposite edges are equal in length; the three edges meeting at a vertex are called its length, width, and height. A cube is a cuboid whose length, width, and height are all equal, with $6$ identical square faces.
 >
-> **Definition 10.3.2** (Surface Area) <br>The total area of a cuboid's or cube's $6$ faces is its surface area. Cuboid surface area $S=(ab+ah+bh)\times2$; cube surface area $S=6a^2$.
+> **Definition 10.3.2** (Surface Area) <br>The total area of a cuboid's or cube's $6$ faces is its surface area. Cuboid surface area $S=\left(ab+ah+bh\right)\times2$; cube surface area $S=6a^2$.
 >
 > **Definition 10.3.3** (Volume and Volume Units) <br>The amount of space an object occupies is its volume. Common volume units are the cubic centimeter ($\mathrm{cm^3}$), cubic decimeter ($\mathrm{dm^3}$), and cubic meter ($\mathrm{m^3}$).
 >
@@ -34,7 +34,7 @@ By **Definition 10.3.1** (Features of Cuboids and Cubes): (1) The front is a rec
 
 ### Solution to Exercise 39
 
-By **Definition 10.3.1** (Features of Cuboids and Cubes), a cuboid has $12$ edges in $3$ groups; total edge length $=(40+30+20)\times4=360\,\mathrm{cm}$. $\blacksquare$
+By **Definition 10.3.1** (Features of Cuboids and Cubes), a cuboid has $12$ edges in $3$ groups; total edge length $=\left(40+30+20\right)\times4=360\,\mathrm{cm}$. $\blacksquare$
 
 ### Exercise 40
 
@@ -90,7 +90,7 @@ By **Definition 10.3.1** (Features of Cuboids and Cubes), adjacent faces cannot 
 
 ### Solution to Exercise 46
 
-By **Definition 10.3.2** (Surface Area), the cover has no bottom, so compute $5$ faces: $0.75\times0.5+(0.75\times1.6+0.5\times1.6)\times2=0.375+(1.2+0.8)\times2=0.375+4=4.375\,\mathrm{m^2}$. $\blacksquare$
+By **Definition 10.3.2** (Surface Area), the cover has no bottom, so compute $5$ faces: $0.75\times0.5+\left(0.75\times1.6+0.5\times1.6\right)\times2=0.375+\left(1.2+0.8\right)\times2=0.375+4=4.375\,\mathrm{m^2}$. $\blacksquare$
 
 ### Exercise 47
 
@@ -106,7 +106,7 @@ By **Definition 10.3.2** (Surface Area), in the net, faces separated by one fold
 
 ### Solution to Exercise 48
 
-By **Definition 10.3.2** (Surface Area), the box has no lid, so compute $5$ faces: $5\times4+(5\times3+4\times3)\times2=20+(15+12)\times2=20+54=74\,\mathrm{dm^2}$. $\blacksquare$
+By **Definition 10.3.2** (Surface Area), the box has no lid, so compute $5$ faces: $5\times4+\left(5\times3+4\times3\right)\times2=20+\left(15+12\right)\times2=20+54=74\,\mathrm{dm^2}$. $\blacksquare$
 
 ### Exercise 49
 
@@ -114,7 +114,7 @@ By **Definition 10.3.2** (Surface Area), the box has no lid, so compute $5$ face
 
 ### Solution to Exercise 49
 
-By **Definition 10.3.2** (Surface Area), only the $4$ side faces: $(10\times12+6\times12)\times2=(120+72)\times2=384\,\mathrm{cm^2}$. $\blacksquare$
+By **Definition 10.3.2** (Surface Area), only the $4$ side faces: $\left(10\times12+6\times12\right)\times2=\left(120+72\right)\times2=384\,\mathrm{cm^2}$. $\blacksquare$
 
 ### Exercise 50
 
@@ -122,7 +122,7 @@ By **Definition 10.3.2** (Surface Area), only the $4$ side faces: $(10\times12+6
 
 ### Solution to Exercise 50
 
-By **Definition 10.3.2** (Surface Area), front area $=$ length$\times$height, right area $=$ width$\times$height, top area $=$ length$\times$width, surface area $=($front$+$right$+$top$)\times2$. Substitute each cuboid's data. $\blacksquare$
+By **Definition 10.3.2** (Surface Area), front area $=$ length$\times$height, right area $=$ width$\times$height, top area $=$ length$\times$width, surface area $=\left($front$+$right$+$top$\right)\times2$. Substitute each cuboid's data. $\blacksquare$
 
 ### Exercise 51
 
@@ -146,7 +146,7 @@ By **Definition 10.3.1** (Features of Cuboids and Cubes) and **Definition 10.3.2
 
 ### Solution to Exercise 53
 
-By **Definition 10.3.2** (Surface Area): (1) a cuboid, $S=(15\times15+15\times10+15\times10)\times2=(225+150+150)\times2=1050\,\mathrm{cm^2}$; (2) a cube, $S=6\times12^2=864\,\mathrm{m^2}$; (3) a cuboid, $S=(13\times12+13\times10+12\times10)\times2=(156+130+120)\times2=812\,\mathrm{dm^2}$. $\blacksquare$
+By **Definition 10.3.2** (Surface Area): (1) a cuboid, $S=\left(15\times15+15\times10+15\times10\right)\times2=\left(225+150+150\right)\times2=1050\,\mathrm{cm^2}$; (2) a cube, $S=6\times12^2=864\,\mathrm{m^2}$; (3) a cuboid, $S=\left(13\times12+13\times10+12\times10\right)\times2=\left(156+130+120\right)\times2=812\,\mathrm{dm^2}$. $\blacksquare$
 
 ### Exercise 54
 
@@ -170,7 +170,7 @@ By **Definition 10.3.2** (Surface Area), surface area $=6\times1.2^2=8.64\,\math
 
 ### Solution to Exercise 56
 
-By **Definition 10.3.2** (Surface Area), width $=50\div2=25\,\mathrm{m}$; tile $1$ bottom and $4$ sides: $50\times25+(50\times2.5+25\times2.5)\times2=1250+(125+62.5)\times2=1250+375=1625\,\mathrm{m^2}$. $\blacksquare$
+By **Definition 10.3.2** (Surface Area), width $=50\div2=25\,\mathrm{m}$; tile $1$ bottom and $4$ sides: $50\times25+\left(50\times2.5+25\times2.5\right)\times2=1250+\left(125+62.5\right)\times2=1250+375=1625\,\mathrm{m^2}$. $\blacksquare$
 
 ### Exercise 57
 
@@ -178,7 +178,7 @@ By **Definition 10.3.2** (Surface Area), width $=50\div2=25\,\mathrm{m}$; tile $
 
 ### Solution to Exercise 57
 
-By **Definition 10.3.2** (Surface Area), paint ceiling and sides, then subtract doors/windows: $8\times6+(8\times3+6\times3)\times2-11.4=48+84-11.4=120.6\,\mathrm{m^2}$, cost $=120.6\times6=723.6$ yuan. $\blacksquare$
+By **Definition 10.3.2** (Surface Area), paint ceiling and sides, then subtract doors/windows: $8\times6+\left(8\times3+6\times3\right)\times2-11.4=48+84-11.4=120.6\,\mathrm{m^2}$, cost $=120.6\times6=723.6$ yuan. $\blacksquare$
 
 ### Exercise 58
 
@@ -290,7 +290,7 @@ By **Definition 10.3.5** (Conversion Between Volume Units) and area conversions:
 
 ### Solution to Exercise 71
 
-By **Definition 10.3.4** (Volume Formulas), $11.76\,\mathrm{dm^3}=11760\,\mathrm{cm^3}$; the box height $=11760\div(28\times20)=21\,\mathrm{cm}$. Inside, length $28>25$, width $20>16$, height $21>18$; all three directions fit, so yes it holds. $\blacksquare$
+By **Definition 10.3.4** (Volume Formulas), $11.76\,\mathrm{dm^3}=11760\,\mathrm{cm^3}$; the box height $=11760\div\left(28\times20\right)=21\,\mathrm{cm}$. Inside, length $28>25$, width $20>16$, height $21>18$; all three directions fit, so yes it holds. $\blacksquare$
 
 ### Exercise 72
 
@@ -306,7 +306,7 @@ By **Definition 10.3.4** (Volume Formulas), the wall's volume $=600\times270\tim
 
 ### Solution to Exercise 73
 
-By **Definition 10.3.2** (Surface Area) and **Definition 10.3.4** (Volume Formulas), $60\,\mathrm{cm}=0.6\,\mathrm{m}$: glass area $=6\times0.6+(6\times1.5+0.6\times1.5)\times2=3.6+19.8=23.4\,\mathrm{m^2}$; volume $=6\times0.6\times1.5=5.4\,\mathrm{m^3}$. $\blacksquare$
+By **Definition 10.3.2** (Surface Area) and **Definition 10.3.4** (Volume Formulas), $60\,\mathrm{cm}=0.6\,\mathrm{m}$: glass area $=6\times0.6+\left(6\times1.5+0.6\times1.5\right)\times2=3.6+19.8=23.4\,\mathrm{m^2}$; volume $=6\times0.6\times1.5=5.4\,\mathrm{m^3}$. $\blacksquare$
 
 ### Exercise 74
 
@@ -330,7 +330,7 @@ By **Definition 10.3.4** (Volume Formulas), $V=40\times20\times10=8000\,\mathrm{
 
 ### Solution to Exercise 76
 
-By **Definition 10.3.1** (Features of Cuboids and Cubes) and **Definition 10.3.4** (Volume Formulas), the cuboid's total edge length $=(6+4+5)\times4=60\,\mathrm{cm}$, so the cube's edge $=60\div12=5\,\mathrm{cm}$; cuboid volume $=6\times4\times5=120\,\mathrm{cm^3}$, cube volume $=5^3=125\,\mathrm{cm^3}$; not equal. $\blacksquare$
+By **Definition 10.3.1** (Features of Cuboids and Cubes) and **Definition 10.3.4** (Volume Formulas), the cuboid's total edge length $=\left(6+4+5\right)\times4=60\,\mathrm{cm}$, so the cube's edge $=60\div12=5\,\mathrm{cm}$; cuboid volume $=6\times4\times5=120\,\mathrm{cm^3}$, cube volume $=5^3=125\,\mathrm{cm^3}$; not equal. $\blacksquare$
 
 ### Exercise 77
 
@@ -386,7 +386,7 @@ By **Definition 10.3.6** (Capacity and Capacity Units), capacity $=3\times2.5\ti
 
 ### Solution to Exercise 83
 
-By **Definition 10.3.4** (Volume Formulas), by displacement: the volume of the raised water $=8\times8\times(7-6)=64\,\mathrm{cm^3}$, which is the coral stone's volume. $\blacksquare$
+By **Definition 10.3.4** (Volume Formulas), by displacement: the volume of the raised water $=8\times8\times\left(7-6\right)=64\,\mathrm{cm^3}$, which is the coral stone's volume. $\blacksquare$
 
 ### Exercise 84
 
@@ -410,7 +410,7 @@ By **Definition 10.3.4** (Volume Formulas), the pool is $2\,\mathrm{m}$ high, so
 
 ### Solution to Exercise 86
 
-By **Definition 10.3.2** (Surface Area) and **Definition 10.3.4** (Volume Formulas): two cubes make a $3\times1.5\times1.5$ cuboid, volume $=2\times1.5^3=6.75\,\mathrm{dm^3}$, surface area $=(3\times1.5+3\times1.5+1.5\times1.5)\times2=22.5\,\mathrm{dm^2}$; three cubes make a $4.5\times1.5\times1.5$ cuboid, volume $=3\times1.5^3=10.125\,\mathrm{dm^3}$, surface area $=(4.5\times1.5+4.5\times1.5+1.5\times1.5)\times2=31.5\,\mathrm{dm^2}$. $\blacksquare$
+By **Definition 10.3.2** (Surface Area) and **Definition 10.3.4** (Volume Formulas): two cubes make a $3\times1.5\times1.5$ cuboid, volume $=2\times1.5^3=6.75\,\mathrm{dm^3}$, surface area $=\left(3\times1.5+3\times1.5+1.5\times1.5\right)\times2=22.5\,\mathrm{dm^2}$; three cubes make a $4.5\times1.5\times1.5$ cuboid, volume $=3\times1.5^3=10.125\,\mathrm{dm^3}$, surface area $=\left(4.5\times1.5+4.5\times1.5+1.5\times1.5\right)\times2=31.5\,\mathrm{dm^2}$. $\blacksquare$
 
 ### Exercise 87
 

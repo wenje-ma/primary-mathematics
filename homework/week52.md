@@ -214,7 +214,7 @@ $10$ m $=1000$ cm, $90\times8=720$ cm, $1000>720$, 够. $\blacksquare$
 
 ### 解答 练习九十九
 
-$(125+18)\times3=143\times3=429$ 元. $\blacksquare$
+$\left(125+18\right)\times3=143\times3=429$ 元. $\blacksquare$
 
 ### 练习一百
 

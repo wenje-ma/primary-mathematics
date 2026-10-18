@@ -26,7 +26,7 @@ By **Definition 3.5.1** (Centimeter), objects around you that are about $1$ cent
 
 ### Exercise 125
 
-(Lesson: Centimeter, Example, Strip of Paper) Measure it: the strip of paper below is $(\;\;)$ centimeters long. Line up the ruler's mark $0$ with the left end of the strip, then read which mark its right end points to.
+(Lesson: Centimeter, Example, Strip of Paper) Measure it: the strip of paper below is $\left(\;\;\right)$ centimeters long. Line up the ruler's mark $0$ with the left end of the strip, then read which mark its right end points to.
 
 ### Solution to Exercise 125
 
@@ -42,7 +42,7 @@ By **Definition 3.5.1** (Centimeter) and **Definition 3.5.2** (Meter), for examp
 
 ### Exercise 127
 
-(Lesson: Centimeter, Do It, Problem 2) The pencil is $(\;\;)$ centimeters long.
+(Lesson: Centimeter, Do It, Problem 2) The pencil is $\left(\;\;\right)$ centimeters long.
 
 ### Solution to Exercise 127
 
@@ -82,7 +82,7 @@ By **Definition 3.5.2** (Meter), on the meter stick $1$ meter is exactly $100$ c
 
 ### Exercise 132
 
-(Lesson: Meter, Do It, Problem 1) Measure following the example and fill in. About $(\;\;)$ meters, $(\;\;)$ meters $(\;\;)$ centimeters.
+(Lesson: Meter, Do It, Problem 1) Measure following the example and fill in. About $\left(\;\;\right)$ meters, $\left(\;\;\right)$ meters $\left(\;\;\right)$ centimeters.
 
 ### Solution to Exercise 132
 
@@ -98,7 +98,7 @@ By **Definition 3.5.2** (Meter), judge from everyday experience: the classroom d
 
 ### Exercise 134
 
-(Lesson: Practice, Problem 1) Fill in. The desk's height is $(\;\;)$ pencils long, and the stick is $(\;\;)$ feet long.
+(Lesson: Practice, Problem 1) Fill in. The desk's height is $\left(\;\;\right)$ pencils long, and the stick is $\left(\;\;\right)$ feet long.
 
 ### Solution to Exercise 134
 
@@ -106,7 +106,7 @@ By **Definition 3.5.1** (Centimeter) and **Definition 3.5.4** (How to Measure), 
 
 ### Exercise 135
 
-(Lesson: Practice, Problem 2) Compare: pencil number $(\;\;)$ is the longest.
+(Lesson: Practice, Problem 2) Compare: pencil number $\left(\;\;\right)$ is the longest.
 
 ### Solution to Exercise 135
 
@@ -122,7 +122,7 @@ By **Definition 3.5.2** (Meter), $1$ meter $=100$ centimeters: $10$ meters $>10$
 
 ### Exercise 137
 
-(Lesson: Practice, Problem 4) Fill in. The eraser is $(\;\;)$ centimeters long.
+(Lesson: Practice, Problem 4) Fill in. The eraser is $\left(\;\;\right)$ centimeters long.
 
 ### Solution to Exercise 137
 
@@ -138,7 +138,7 @@ By **Definition 3.5.2** (Meter), use the meter stick to mark off $1$ meter and $
 
 ### Exercise 139
 
-(Lesson: Practice, Problem 6) Which measurement results are correct? Draw "$\sqrt{}$" in the $(\;\;)$. $5$ cm long, $4$ cm long, about $5$ cm long.
+(Lesson: Practice, Problem 6) Which measurement results are correct? Draw "$\sqrt{}$" in the $\left(\;\;\right)$. $5$ cm long, $4$ cm long, about $5$ cm long.
 
 ### Solution to Exercise 139
 
@@ -178,7 +178,7 @@ By **Definition 3.5.3** (Line Segment), only a straight line with endpoints on b
 
 ### Exercise 144
 
-(Lesson: Line Segment, Do It, Problem 2) How many line segments bound each figure? Fill in. $(\;\;)$ segments, $(\;\;)$ segments, $(\;\;)$ segments.
+(Lesson: Line Segment, Do It, Problem 2) How many line segments bound each figure? Fill in. $\left(\;\;\right)$ segments, $\left(\;\;\right)$ segments, $\left(\;\;\right)$ segments.
 
 ### Solution to Exercise 144
 
@@ -218,7 +218,7 @@ By **Definition 3.5.1** (Centimeter) and **Definition 3.5.2** (Meter), $13$ cent
 
 ### Exercise 149
 
-(Lesson: Solving Problems, Do It) Fill in the $(\;\;)$ with "centimeters" or "meters". (1) The desk is $60$ $(\;\;)$ long. (2) The basketball court is $28$ $(\;\;)$ long. (3) A sparrow's claw print is $3$ $(\;\;)$ long. Say how you decided.
+(Lesson: Solving Problems, Do It) Fill in the $\left(\;\;\right)$ with "centimeters" or "meters". (1) The desk is $60$ $\left(\;\;\right)$ long. (2) The basketball court is $28$ $\left(\;\;\right)$ long. (3) A sparrow's claw print is $3$ $\left(\;\;\right)$ long. Say how you decided.
 
 ### Solution to Exercise 149
 
@@ -242,7 +242,7 @@ By **Definition 3.5.3** (Line Segment), every edge of a cuboid or a cube is a li
 
 ### Exercise 152
 
-(Lesson: Practice, Problem 3) Fill in the right unit in the $(\;\;)$. (1) A water bottle is about $25$ $(\;\;)$ high. (2) A book is about $1$ $(\;\;)$ thick. (3) An elephant is about $3$ $(\;\;)$ high. (4) Walking from one end of the playground to the other is $50$ $(\;\;)$.
+(Lesson: Practice, Problem 3) Fill in the right unit in the $\left(\;\;\right)$. (1) A water bottle is about $25$ $\left(\;\;\right)$ high. (2) A book is about $1$ $\left(\;\;\right)$ thick. (3) An elephant is about $3$ $\left(\;\;\right)$ high. (4) Walking from one end of the playground to the other is $50$ $\left(\;\;\right)$.
 
 ### Solution to Exercise 152
 
@@ -250,7 +250,7 @@ By **Definition 3.5.1** (Centimeter) and **Definition 3.5.2** (Meter): the water
 
 ### Exercise 153
 
-(Lesson: Practice, Problem 4) Measure it; the turtle has to crawl $(\;\;)$ centimeters to reach the little fish. Raise a math problem and solve it.
+(Lesson: Practice, Problem 4) Measure it; the turtle has to crawl $\left(\;\;\right)$ centimeters to reach the little fish. Raise a math problem and solve it.
 
 ### Solution to Exercise 153
 
@@ -266,7 +266,7 @@ By **Definition 3.5.1** (Centimeter), **Definition 3.5.2** (Meter), and **Defini
 
 ### Exercise 155
 
-(Lesson: Practice, Problem 1) Fill in. $(\;\;)$ centimeters long.
+(Lesson: Practice, Problem 1) Fill in. $\left(\;\;\right)$ centimeters long.
 
 ### Solution to Exercise 155
 
@@ -274,7 +274,7 @@ By **Definition 3.5.4** (How to Measure), measure the segment with a ruler, line
 
 ### Exercise 156
 
-(Lesson: Practice, Problem 2) Estimate how long each object in the picture below is, then measure. About $(\;\;)$ centimeters.
+(Lesson: Practice, Problem 2) Estimate how long each object in the picture below is, then measure. About $\left(\;\;\right)$ centimeters.
 
 ### Solution to Exercise 156
 
@@ -290,7 +290,7 @@ By **Definition 3.5.1** (Centimeter) and **Definition 3.5.2** (Meter), the shoe 
 
 ### Exercise 158
 
-(Lesson: Practice, Problem 5) Count; how many line segments make up each figure below? $(\;\;)$ segments, $(\;\;)$ segments, $(\;\;)$ segments.
+(Lesson: Practice, Problem 5) Count; how many line segments make up each figure below? $\left(\;\;\right)$ segments, $\left(\;\;\right)$ segments, $\left(\;\;\right)$ segments.
 
 ### Solution to Exercise 158
 
@@ -298,7 +298,7 @@ By **Definition 3.5.3** (Line Segment), count the straight sides of each figure 
 
 ### Exercise 159
 
-(Lesson: Practice, Problem 6) Fill in the right length unit in the $(\;\;)$. The math book is about $26$ $(\;\;)$ long; the lamp tube is about $50$ $(\;\;)$ long; the room is about $3$ $(\;\;)$ high; the dictionary is about $6$ $(\;\;)$ thick; the big tree is about $8$ $(\;\;)$ high; the classroom is about $10$ $(\;\;)$ long.
+(Lesson: Practice, Problem 6) Fill in the right length unit in the $\left(\;\;\right)$. The math book is about $26$ $\left(\;\;\right)$ long; the lamp tube is about $50$ $\left(\;\;\right)$ long; the room is about $3$ $\left(\;\;\right)$ high; the dictionary is about $6$ $\left(\;\;\right)$ thick; the big tree is about $8$ $\left(\;\;\right)$ high; the classroom is about $10$ $\left(\;\;\right)$ long.
 
 ### Solution to Exercise 159
 
@@ -306,7 +306,7 @@ By **Definition 3.5.1** (Centimeter) and **Definition 3.5.2** (Meter): the math 
 
 ### Exercise 160
 
-(Lesson: Practice, Problem 7) Measure and fill in. (1) About $(\;\;)$ pencils placed end to end are $1$ meter long. (2) About $(\;\;)$ chopsticks placed end to end are $1$ meter long.
+(Lesson: Practice, Problem 7) Measure and fill in. (1) About $\left(\;\;\right)$ pencils placed end to end are $1$ meter long. (2) About $\left(\;\;\right)$ chopsticks placed end to end are $1$ meter long.
 
 ### Solution to Exercise 160
 

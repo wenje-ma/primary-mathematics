@@ -122,7 +122,7 @@ By **Definition 7.3.4** (How to Measure an Angle), extend the two sides of the a
 
 ### Solution to Exercise 63
 
-$2$ rays form $1$ angle; $3$ rays form $3$ angles ($3\times2\div2=3$); $4$ rays form $6$ angles ($4\times3\div2=6$). $n$ rays form $n(n-1)\div2$ angles. $\blacksquare$
+$2$ rays form $1$ angle; $3$ rays form $3$ angles ($3\times2\div2=3$); $4$ rays form $6$ angles ($4\times3\div2=6$). $n$ rays form $n\left(n-1\right)\div2$ angles. $\blacksquare$
 
 ### Exercise 64
 

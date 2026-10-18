@@ -214,7 +214,7 @@ By **Definition 7.4.2** (Written Multiplication), $280\times15=4200$ m. $\blacks
 
 ### Solution to Exercise 99
 
-$(125+18)\times3=143\times3=429$ yuan. $\blacksquare$
+$\left(125+18\right)\times3=143\times3=429$ yuan. $\blacksquare$
 
 ### Exercise 100
 

@@ -108,11 +108,11 @@ $40\times4=160$ kilometers. $\blacksquare$
 
 ### Exercise 113
 
-(Lesson: Practice 8, Problem 8) Compute: $7\times8+6$; $20\times3+98$; $2000\times4+1980$; $4\times6+6$; $70\times9-120$; $(406-385)\times3$.
+(Lesson: Practice 8, Problem 8) Compute: $7\times8+6$; $20\times3+98$; $2000\times4+1980$; $4\times6+6$; $70\times9-120$; $\left(406-385\right)\times3$.
 
 ### Solution to Exercise 113
 
-$7\times8+6=62$; $20\times3+98=158$; $2000\times4+1980=9980$; $4\times6+6=30$; $70\times9-120=510$; $(406-385)\times3=63$. $\blacksquare$
+$7\times8+6=62$; $20\times3+98=158$; $2000\times4+1980=9980$; $4\times6+6=30$; $70\times9-120=510$; $\left(406-385\right)\times3=63$. $\blacksquare$
 
 ### Exercise 114
 
@@ -140,7 +140,7 @@ $21\times2+5=42+5=47$. $\blacksquare$
 
 ### Exercise 117
 
-(Lesson: Practice 8, Problem 12) Fill in: $432=(\ )\times100+(\ )\times10+(\ )\times1$; $1597=(\ )\times1000+(\ )\times100+(\ )\times10+(\ )\times1$.
+(Lesson: Practice 8, Problem 12) Fill in: $432=\left(\ \right)\times100+\left(\ \right)\times10+\left(\ \right)\times1$; $1597=\left(\ \right)\times1000+\left(\ \right)\times100+\left(\ \right)\times10+\left(\ \right)\times1$.
 
 ### Solution to Exercise 117
 

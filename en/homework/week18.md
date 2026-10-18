@@ -12,7 +12,7 @@
 
 ### Exercise 18
 
-(Lesson: An Introduction to Multiplication, Example, Small Plane) (1) How many people are in the small plane in total? $5$ copies of $3$ added: $3+3+3+3+3=15$. (2) How many people are in the small train in total? $(\;\;)$ copies of $6$ added: $6+6+6+6=24$. (3) How many people are in the roller coaster in total? $(\;\;)$ copies of $(\;\;)$ added: $2+2+2+2+2+2+2=14$. What common feature do the above addition expressions share? Please write a few more expressions with identical addends.
+(Lesson: An Introduction to Multiplication, Example, Small Plane) (1) How many people are in the small plane in total? $5$ copies of $3$ added: $3+3+3+3+3=15$. (2) How many people are in the small train in total? $\left(\;\;\right)$ copies of $6$ added: $6+6+6+6=24$. (3) How many people are in the roller coaster in total? $\left(\;\;\right)$ copies of $\left(\;\;\right)$ added: $2+2+2+2+2+2+2=14$. What common feature do the above addition expressions share? Please write a few more expressions with identical addends.
 
 ### Solution to Exercise 18
 
@@ -20,7 +20,7 @@ By **Definition 3.2.1** (The Meaning of Multiplication), all three questions ask
 
 ### Exercise 19
 
-(Lesson: An Introduction to Multiplication, Do It, Problem 1) Arrange and fill in: $4$ copies of $2$, $3$ copies of $4$, $5$ copies of $3$, $(\;\;)$ copies of $(\;\;)$ added; write the multiplication expressions.
+(Lesson: An Introduction to Multiplication, Do It, Problem 1) Arrange and fill in: $4$ copies of $2$, $3$ copies of $4$, $5$ copies of $3$, $\left(\;\;\right)$ copies of $\left(\;\;\right)$ added; write the multiplication expressions.
 
 ### Solution to Exercise 19
 
@@ -36,7 +36,7 @@ By **Definition 3.2.1** (The Meaning of Multiplication), vertically it is $6$ co
 
 ### Exercise 21
 
-(Lesson: An Introduction to Multiplication, Do It, Problem 1) How many pieces of cake are there in total? $(\;\;)$ copies of $(\;\;)$ added; write the addition expression and the multiplication expression.
+(Lesson: An Introduction to Multiplication, Do It, Problem 1) How many pieces of cake are there in total? $\left(\;\;\right)$ copies of $\left(\;\;\right)$ added; write the addition expression and the multiplication expression.
 
 ### Solution to Exercise 21
 
@@ -60,7 +60,7 @@ By **Definition 3.2.1** (The Meaning of Multiplication) and **Definition 3.2.2**
 
 ### Exercise 24
 
-(Lesson: Practice, Problem 2) Fill in. (1) $3$ copies of $8$ added, the sum is $(\;\;)$. (2) One factor is $8$, the other factor is $3$, the product is $(\;\;)$.
+(Lesson: Practice, Problem 2) Fill in. (1) $3$ copies of $8$ added, the sum is $\left(\;\;\right)$. (2) One factor is $8$, the other factor is $3$, the product is $\left(\;\;\right)$.
 
 ### Solution to Exercise 24
 
@@ -108,7 +108,7 @@ By **Definition 3.2.4** (Multiplication-Addition and Multiplication-Subtraction)
 
 ### Exercise 30
 
-(Lesson: Multiplication Rhymes of 5, Do It, Problem 1) Say the rhymes. One five is five, two five $(\;\;)$, three five $(\;\;)$, four five $(\;\;)$, five five $(\;\;)$.
+(Lesson: Multiplication Rhymes of 5, Do It, Problem 1) Say the rhymes. One five is five, two five $\left(\;\;\right)$, three five $\left(\;\;\right)$, four five $\left(\;\;\right)$, five five $\left(\;\;\right)$.
 
 ### Solution to Exercise 30
 
@@ -116,7 +116,7 @@ By **Definition 3.2.3** (Multiplication Rhymes), complete the multiplication rhy
 
 ### Exercise 31
 
-(Lesson: Multiplication Rhymes of 2, 3, 4, Try It) Think about it: $1\times1=\_\_$, rhyme: one one is $(\;\;)$. Then write out the multiplication rhymes of $2$, $3$, and $4$.
+(Lesson: Multiplication Rhymes of 2, 3, 4, Try It) Think about it: $1\times1=\_\_$, rhyme: one one is $\left(\;\;\right)$. Then write out the multiplication rhymes of $2$, $3$, and $4$.
 
 ### Solution to Exercise 31
 
@@ -188,7 +188,7 @@ By **Definition 3.2.4** (Multiplication-Addition and Multiplication-Subtraction)
 
 ### Exercise 40
 
-(Lesson: Multiplication Rhymes of 6, Do It, Problem 1) Complete the rhymes and write the expressions. Three six $(\;\;)$, five six $(\;\;)$, four six $(\;\;)$. $1$ bee has $6$ legs, $3$ bees have $(\;\;)$ legs, $6$ bees have $(\;\;)$ legs.
+(Lesson: Multiplication Rhymes of 6, Do It, Problem 1) Complete the rhymes and write the expressions. Three six $\left(\;\;\right)$, five six $\left(\;\;\right)$, four six $\left(\;\;\right)$. $1$ bee has $6$ legs, $3$ bees have $\left(\;\;\right)$ legs, $6$ bees have $\left(\;\;\right)$ legs.
 
 ### Solution to Exercise 40
 
@@ -236,7 +236,7 @@ By **Definition 3.2.3** (Multiplication Rhymes), the factors giving $12$ are $2$
 
 ### Exercise 46
 
-(Lesson: Math Game, Little Frog) See who says it correctly and quickly. $1$ frog has $1$ mouth, $2$ eyes, $4$ legs. $2$ frogs have $(\;\;)$ mouths, $(\;\;)$ eyes, $(\;\;)$ legs. $3$ frogs have $(\;\;)$ mouths, $(\;\;)$ eyes, $(\;\;)$ legs. Continue this way up to $6$ frogs.
+(Lesson: Math Game, Little Frog) See who says it correctly and quickly. $1$ frog has $1$ mouth, $2$ eyes, $4$ legs. $2$ frogs have $\left(\;\;\right)$ mouths, $\left(\;\;\right)$ eyes, $\left(\;\;\right)$ legs. $3$ frogs have $\left(\;\;\right)$ mouths, $\left(\;\;\right)$ eyes, $\left(\;\;\right)$ legs. Continue this way up to $6$ frogs.
 
 ### Solution to Exercise 46
 

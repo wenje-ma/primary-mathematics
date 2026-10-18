@@ -268,7 +268,7 @@ By **Definition 8.4.6** (Moving the Decimal Point): eraser $2.63\to26.3,263,2630
 
 ### Exercise 110
 
-(Lesson: Moving the Decimal Point, Practice 11, Problem 3) Fill in: $4.35\xrightarrow{\times10}($ $)\xrightarrow{\times100}($ $)$; $4.35\xrightarrow{\div10}($ $)\xrightarrow{\div100}($ $)$; $0.729\xrightarrow{\times10}($ $)$, and describe how $72.9$, $7.29$, $7290$, $0.0729$ are obtained.
+(Lesson: Moving the Decimal Point, Practice 11, Problem 3) Fill in: $4.35\xrightarrow{\times10}\left($ $\right)\xrightarrow{\times100}\left($ $\right)$; $4.35\xrightarrow{\div10}\left($ $\right)\xrightarrow{\div100}\left($ $\right)$; $0.729\xrightarrow{\times10}\left($ $\right)$, and describe how $72.9$, $7.29$, $7290$, $0.0729$ are obtained.
 
 ### Solution to Exercise 110
 
@@ -552,7 +552,7 @@ Unify units: $14\,\mathrm{cm}=0.14\,\mathrm{m}$, so $0.\square4>0.14$, $\square$
 
 ### Solution to Exercise 145
 
-By **Definition 8.3.8** (Convenient Calculation): $176+55+24+45=(176+24)+(55+45)=300$; $28\times25\times4=28\times100=2800$; $35\times19=35\times20-35=665$; $200-127-73=200-200=0$; $18\times15+12\times15=(18+12)\times15=450$; $457+99=457+100-1=556$. $\blacksquare$
+By **Definition 8.3.8** (Convenient Calculation): $176+55+24+45=\left(176+24\right)+\left(55+45\right)=300$; $28\times25\times4=28\times100=2800$; $35\times19=35\times20-35=665$; $200-127-73=200-200=0$; $18\times15+12\times15=\left(18+12\right)\times15=450$; $457+99=457+100-1=556$. $\blacksquare$
 
 ### Exercise 146
 

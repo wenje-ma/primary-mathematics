@@ -124,7 +124,7 @@ $r=5\,\text{m}$. 在地面定一点为圆心, 找一根 $5\,\text{m}$ 长的绳�
 
 ### 解答 练习一百四十六
 
-$18\,\text{cm}$ 是 $3$ 条直径之和, $d=18\div3=6\,\text{cm}$; 长方形宽等于直径 $6\,\text{cm}$, 周长 $=(18+6)\times2=48\,\text{cm}$. $\blacksquare$
+$18\,\text{cm}$ 是 $3$ 条直径之和, $d=18\div3=6\,\text{cm}$; 长方形宽等于直径 $6\,\text{cm}$, 周长 $=\left(18+6\right)\times2=48\,\text{cm}$. $\blacksquare$
 
 ### 练习一百四十七
 
@@ -220,7 +220,7 @@ $3.14\div3.14=1\,\text{m}$. $\blacksquare$
 
 ### 解答 练习一百五十八
 
-(1) 正方形边长 $=d=4$, 周长 $16\,\text{cm}$; 圆周长 $3.14\times4=12.56\,\text{cm}$. (2) 圆周长 $2\times3.14\times1.5=9.42\,\text{cm}$; 长方形长 $=4r=6$, 宽 $=2r=3$, 周长 $(6+3)\times2=18\,\text{cm}$. $\blacksquare$
+(1) 正方形边长 $=d=4$, 周长 $16\,\text{cm}$; 圆周长 $3.14\times4=12.56\,\text{cm}$. (2) 圆周长 $2\times3.14\times1.5=9.42\,\text{cm}$; 长方形长 $=4r=6$, 宽 $=2r=3$, 周长 $\left(6+3\right)\times2=18\,\text{cm}$. $\blacksquare$
 
 ### 练习一百五十九
 
@@ -292,7 +292,7 @@ $d=12.56\div3.14=4\,\text{cm}$, $r=2\,\text{cm}$. 半径扩大 $n$ 倍, 直径�
 
 ### 解答 练习一百六十七
 
-圆环面积 $=$ 外圆面积 $-$ 内圆面积 $=3.14\times(\frac{26.3}{2})^2-3.14\times(\frac{5.4}{2})^2=3.14\times(13.15^2-2.7^2)=3.14\times165.6325\approx520.1\,\text{cm}^2$. $\blacksquare$
+圆环面积 $=$ 外圆面积 $-$ 内圆面积 $=3.14\times\left(\frac{26.3}{2}\right)^2-3.14\times\left(\frac{5.4}{2}\right)^2=3.14\times\left(13.15^2-2.7^2\right)=3.14\times165.6325\approx520.1\,\text{cm}^2$. $\blacksquare$
 
 ### 练习一百六十八
 
@@ -308,7 +308,7 @@ $d=12.56\div3.14=4\,\text{cm}$, $r=2\,\text{cm}$. 半径扩大 $n$ 倍, 直径�
 
 ### 解答 练习一百六十九
 
-(1) 外半径 $6$, $3.14\times(6^2-4^2)=3.14\times20=62.8\,\text{cm}^2$; (2) 长方形长 $5$ 宽 $2$, 涂色部分拼成长方形 $3\times2=6\,\text{cm}^2$; (3) 按扇环面积公式 $\frac{n}{360}\pi(R^2-r^2)$ 计算. $\blacksquare$
+(1) 外半径 $6$, $3.14\times\left(6^2-4^2\right)=3.14\times20=62.8\,\text{cm}^2$; (2) 长方形长 $5$ 宽 $2$, 涂色部分拼成长方形 $3\times2=6\,\text{cm}^2$; (3) 按扇环面积公式 $\frac{n}{360}\pi\left(R^2-r^2\right)$ 计算. $\blacksquare$
 
 ### 练习一百七十
 
@@ -364,7 +364,7 @@ $r=125.6\div3.14\div2=20\,\text{cm}$, $S=3.14\times20^2=1256\,\text{cm}^2$. $\bl
 
 ### 解答 练习一百七十六
 
-$3.14\times(25^2-5^2)=3.14\times600=1884\,\text{m}^2$. $\blacksquare$
+$3.14\times\left(25^2-5^2\right)=3.14\times600=1884\,\text{m}^2$. $\blacksquare$
 
 ### 练习一百七十七
 
@@ -372,7 +372,7 @@ $3.14\times(25^2-5^2)=3.14\times600=1884\,\text{m}^2$. $\blacksquare$
 
 ### 解答 练习一百七十七
 
-设小圆半径 $r$, 大圆半径 $2r$. 涂色面积 $=\pi(2r)^2-\pi r^2=3\pi r^2$, 即大圆面积的 $\frac{3}{4}$. $\blacksquare$
+设小圆半径 $r$, 大圆半径 $2r$. 涂色面积 $=\pi\left(2r\right)^2-\pi r^2=3\pi r^2$, 即大圆面积的 $\frac{3}{4}$. $\blacksquare$
 
 ### 练习一百七十八
 
@@ -388,7 +388,7 @@ $3.14\times14^2-6^2=615.44-36=579.44\,\text{mm}^2$. $\blacksquare$
 
 ### 解答 练习一百七十九
 
-如卫生纸筒横截面, 金属垫片. 量出外圆半径 $R$ 和内圆半径 $r$, 圆环面积 $=\pi(R^2-r^2)$. $\blacksquare$
+如卫生纸筒横截面, 金属垫片. 量出外圆半径 $R$ 和内圆半径 $r$, 圆环面积 $=\pi\left(R^2-r^2\right)$. $\blacksquare$
 
 ### 练习一百八十
 
@@ -412,7 +412,7 @@ $3.14\times14^2-6^2=615.44-36=579.44\,\text{mm}^2$. $\blacksquare$
 
 ### 解答 练习一百八十二
 
-$3.14\times(17^2-7^2)-3.14\times(13^2-7^2)=3.14\times(289-49-169+49)=3.14\times120=376.8\,\text{m}^2$. $\blacksquare$
+$3.14\times\left(17^2-7^2\right)-3.14\times\left(13^2-7^2\right)=3.14\times\left(289-49-169+49\right)=3.14\times120=376.8\,\text{m}^2$. $\blacksquare$
 
 ### 练习一百八十三
 
@@ -420,7 +420,7 @@ $3.14\times(17^2-7^2)-3.14\times(13^2-7^2)=3.14\times(289-49-169+49)=3.14\times1
 
 ### 解答 练习一百八十三
 
-原来 $r=62.8\div3.14\div2=10\,\text{m}$, 新 $r=12\,\text{m}$. 增加 $3.14\times(12^2-10^2)=3.14\times44=138.16\,\text{m}^2$. $\blacksquare$
+原来 $r=62.8\div3.14\div2=10\,\text{m}$, 新 $r=12\,\text{m}$. 增加 $3.14\times\left(12^2-10^2\right)=3.14\times44=138.16\,\text{m}^2$. $\blacksquare$
 
 ### 练习一百八十四
 
@@ -428,7 +428,7 @@ $3.14\times(17^2-7^2)-3.14\times(13^2-7^2)=3.14\times(289-49-169+49)=3.14\times1
 
 ### 解答 练习一百八十四
 
-半圆周长 $=\pi r+2r=r(\pi+2)=128.5$, $r=128.5\div5.14=25\,\text{m}$. 两个半圆拼成一个整圆, 面积 $3.14\times25^2=1962.5\,\text{m}^2$. $\blacksquare$
+半圆周长 $=\pi r+2r=r\left(\pi+2\right)=128.5$, $r=128.5\div5.14=25\,\text{m}$. 两个半圆拼成一个整圆, 面积 $3.14\times25^2=1962.5\,\text{m}^2$. $\blacksquare$
 
 ### 练习一百八十五
 
@@ -436,7 +436,7 @@ $3.14\times(17^2-7^2)-3.14\times(13^2-7^2)=3.14\times(289-49-169+49)=3.14\times1
 
 ### 解答 练习一百八十五
 
-扇环面积 $=\frac{90}{360}\times3.14\times(5^2-4^2)=\frac{1}{4}\times3.14\times9=7.065\,\text{dm}^2$. $\blacksquare$
+扇环面积 $=\frac{90}{360}\times3.14\times\left(5^2-4^2\right)=\frac{1}{4}\times3.14\times9=7.065\,\text{dm}^2$. $\blacksquare$
 
 ### 练习一百八十六
 
@@ -532,7 +532,7 @@ $r=10\,\text{cm}$, $S=3.14\times10^2=314\,\text{cm}^2$. $\blacksquare$
 
 ### 解答 练习一百九十七
 
-面积比 $=$ 直径比的平方: $(\frac{0.5}{5.5})^2=\frac{1}{121}$. $\blacksquare$
+面积比 $=$ 直径比的平方: $\left(\frac{0.5}{5.5}\right)^2=\frac{1}{121}$. $\blacksquare$
 
 ### 练习一百九十八
 

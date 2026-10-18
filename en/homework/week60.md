@@ -2,17 +2,17 @@
 
 > **Definition 8.3.1** (Commutative Law of Addition) <br>When adding two numbers, swapping the positions of the two addends leaves the sum unchanged. In letters: $a+b=b+a$.
 >
-> **Definition 8.3.2** (Associative Law of Addition) <br>When adding three numbers, adding the first two first, or adding the last two first, leaves the sum unchanged. In letters: $(a+b)+c=a+(b+c)$.
+> **Definition 8.3.2** (Associative Law of Addition) <br>When adding three numbers, adding the first two first, or adding the last two first, leaves the sum unchanged. In letters: $\left(a+b\right)+c=a+\left(b+c\right)$.
 >
-> **Definition 8.3.3** (Operation Property of Subtraction) <br>A number minus two numbers in a row equals minus the sum of those two numbers: $a-b-c=a-(b+c)$; you may also subtract the second subtrahend first and then the first: $a-b-c=a-c-b$.
+> **Definition 8.3.3** (Operation Property of Subtraction) <br>A number minus two numbers in a row equals minus the sum of those two numbers: $a-b-c=a-\left(b+c\right)$; you may also subtract the second subtrahend first and then the first: $a-b-c=a-c-b$.
 >
 > **Definition 8.3.4** (Commutative Law of Multiplication) <br>When multiplying two numbers, swapping the positions of the two factors leaves the product unchanged. In letters: $a\times b=b\times a$.
 >
-> **Definition 8.3.5** (Associative Law of Multiplication) <br>When multiplying three numbers, multiplying the first two first, or multiplying the last two first, leaves the product unchanged. In letters: $(a\times b)\times c=a\times(b\times c)$.
+> **Definition 8.3.5** (Associative Law of Multiplication) <br>When multiplying three numbers, multiplying the first two first, or multiplying the last two first, leaves the product unchanged. In letters: $\left(a\times b\right)\times c=a\times\left(b\times c\right)$.
 >
-> **Definition 8.3.6** (Distributive Law of Multiplication) <br>The sum of two numbers multiplied by a number may be multiplied separately by that number first and then added. In letters: $(a+b)\times c=a\times c+b\times c$, or conversely $a\times c+b\times c=(a+b)\times c$.
+> **Definition 8.3.6** (Distributive Law of Multiplication) <br>The sum of two numbers multiplied by a number may be multiplied separately by that number first and then added. In letters: $\left(a+b\right)\times c=a\times c+b\times c$, or conversely $a\times c+b\times c=\left(a+b\right)\times c$.
 >
-> **Definition 8.3.7** (Operation Property of Division) <br>A number divided by two numbers in a row equals divided by the product of those two divisors: $a\div b\div c=a\div(b\times c)$.
+> **Definition 8.3.7** (Operation Property of Division) <br>A number divided by two numbers in a row equals divided by the product of those two divisors: $a\div b\div c=a\div\left(b\times c\right)$.
 >
 > **Definition 8.3.8** (Convenient Calculation) <br>Using the operation laws of addition and multiplication and the operation properties of subtraction and division, calculate first the numbers that can be rounded to tens or hundreds, making the calculation easier.
 
@@ -26,19 +26,19 @@ By **Definition 8.3.1** (Commutative Law of Addition), swap the addends: $300+60
 
 ### Exercise 37
 
-(Lesson: Operation Laws of Addition, Try It) Fill in the blanks by the associative law of addition: $(25+68)+32=25+$( ___ $+$ ___ ); $130+(70+4)=(130+$ ___ $)+$ ___.
+(Lesson: Operation Laws of Addition, Try It) Fill in the blanks by the associative law of addition: $\left(25+68\right)+32=25+$( ___ $+$ ___ ); $130+\left(70+4\right)=\left(130+$ ___ $\right)+$ ___.
 
 ### Solution to Exercise 37
 
-By **Definition 8.3.2** (Associative Law of Addition), add the last two (or first two) first: $(25+68)+32=25+(68+32)$; $130+(70+4)=(130+70)+4$. $\blacksquare$
+By **Definition 8.3.2** (Associative Law of Addition), add the last two (or first two) first: $\left(25+68\right)+32=25+\left(68+32\right)$; $130+\left(70+4\right)=\left(130+70\right)+4$. $\blacksquare$
 
 ### Exercise 38
 
-(Lesson: Operation Laws of Addition, Practice 5, Problem 1) Which operation law does each expression below use? $76+18=18+76$; $56+72+28=56+(72+28)$; $31+67+19=31+19+67$; $24+42+76+58=(24+76)+(42+58)$.
+(Lesson: Operation Laws of Addition, Practice 5, Problem 1) Which operation law does each expression below use? $76+18=18+76$; $56+72+28=56+\left(72+28\right)$; $31+67+19=31+19+67$; $24+42+76+58=\left(24+76\right)+\left(42+58\right)$.
 
 ### Solution to Exercise 38
 
-By **Definition 8.3.1** (Commutative Law of Addition) and **Definition 8.3.2** (Associative Law of Addition): $76+18=18+76$ uses the commutative law; $56+72+28=56+(72+28)$ uses the associative law; $31+67+19=31+19+67$ uses the commutative law; $24+42+76+58=(24+76)+(42+58)$ uses both the commutative and associative laws. $\blacksquare$
+By **Definition 8.3.1** (Commutative Law of Addition) and **Definition 8.3.2** (Associative Law of Addition): $76+18=18+76$ uses the commutative law; $56+72+28=56+\left(72+28\right)$ uses the associative law; $31+67+19=31+19+67$ uses the commutative law; $24+42+76+58=\left(24+76\right)+\left(42+58\right)$ uses both the commutative and associative laws. $\blacksquare$
 
 ### Exercise 39
 
@@ -78,7 +78,7 @@ Connect the pairs that sum to $100$: $18+82=100$, $25+75=100$, $57+43=100$, $69+
 
 ### Solution to Exercise 43
 
-By **Definition 8.3.8** (Convenient Calculation), make round numbers: $425+14+186=425+200=625$; $75+168+25=(75+25)+168=268$; $245+180+20+155=(245+155)+(180+20)=600$; $67+25+33+75=(67+33)+(25+75)=200$. $\blacksquare$
+By **Definition 8.3.8** (Convenient Calculation), make round numbers: $425+14+186=425+200=625$; $75+168+25=\left(75+25\right)+168=268$; $245+180+20+155=\left(245+155\right)+\left(180+20\right)=600$; $67+25+33+75=\left(67+33\right)+\left(25+75\right)=200$. $\blacksquare$
 
 ### Exercise 44
 
@@ -86,15 +86,15 @@ By **Definition 8.3.8** (Convenient Calculation), make round numbers: $425+14+18
 
 ### Solution to Exercise 44
 
-By **Definition 8.3.8** (Convenient Calculation), $48+55+52+45=(48+52)+(55+45)=100+100=200$ (yuan). $\blacksquare$
+By **Definition 8.3.8** (Convenient Calculation), $48+55+52+45=\left(48+52\right)+\left(55+45\right)=100+100=200$ (yuan). $\blacksquare$
 
 ### Exercise 45
 
-(Lesson: Operation Property of Subtraction, Try It, Problem 1) Fill in the $\bigcirc$ and the lines with operation signs and numbers: $868-52-48=868\bigcirc(52+$ ___ $)$; $1500-28-272=$ ___ $\bigcirc(28\bigcirc272)$; $415-74-26=$ ___; $a-b-c=$ ___.
+(Lesson: Operation Property of Subtraction, Try It, Problem 1) Fill in the $\bigcirc$ and the lines with operation signs and numbers: $868-52-48=868\bigcirc\left(52+$ ___ $\right)$; $1500-28-272=$ ___ $\bigcirc\left(28\bigcirc272\right)$; $415-74-26=$ ___; $a-b-c=$ ___.
 
 ### Solution to Exercise 45
 
-By **Definition 8.3.3** (Operation Property of Subtraction), subtracting two numbers in a row equals subtracting their sum: $868-52-48=868-(52+48)$; $1500-28-272=1500-(28+272)$; $415-74-26=415-(74+26)$; $a-b-c=a-(b+c)$. $\blacksquare$
+By **Definition 8.3.3** (Operation Property of Subtraction), subtracting two numbers in a row equals subtracting their sum: $868-52-48=868-\left(52+48\right)$; $1500-28-272=1500-\left(28+272\right)$; $415-74-26=415-\left(74+26\right)$; $a-b-c=a-\left(b+c\right)$. $\blacksquare$
 
 ### Exercise 46
 
@@ -102,7 +102,7 @@ By **Definition 8.3.3** (Operation Property of Subtraction), subtracting two num
 
 ### Solution to Exercise 46
 
-By **Definition 8.3.3** (Operation Property of Subtraction) and **Definition 8.3.8** (Convenient Calculation): $528-53-47=528-100=428$; $545-167-145=545-145-167=400-167=233$; $487-187-139-61=300-(139+61)=100$; $169-25-25-50=169-100=69$. $\blacksquare$
+By **Definition 8.3.3** (Operation Property of Subtraction) and **Definition 8.3.8** (Convenient Calculation): $528-53-47=528-100=428$; $545-167-145=545-145-167=400-167=233$; $487-187-139-61=300-\left(139+61\right)=100$; $169-25-25-50=169-100=69$. $\blacksquare$
 
 ### Exercise 47
 
@@ -110,7 +110,7 @@ By **Definition 8.3.3** (Operation Property of Subtraction) and **Definition 8.3
 
 ### Solution to Exercise 47
 
-$60+255+40=(60+40)+255=355$; $282+41+159=282+200=482$; $548+52+468=600+468=1068$; $13+46+55+54+87=(13+87)+(46+54)+55=255$; $5+137+45+63+50=(5+45+50)+(137+63)=300$; $800-138-162=800-300=500$; $672-36-64=672-100=572$; $672-36+64=636+64=700$. $\blacksquare$
+$60+255+40=\left(60+40\right)+255=355$; $282+41+159=282+200=482$; $548+52+468=600+468=1068$; $13+46+55+54+87=\left(13+87\right)+\left(46+54\right)+55=255$; $5+137+45+63+50=\left(5+45+50\right)+\left(137+63\right)=300$; $800-138-162=800-300=500$; $672-36-64=672-100=572$; $672-36+64=636+64=700$. $\blacksquare$
 
 ### Exercise 48
 
@@ -118,7 +118,7 @@ $60+255+40=(60+40)+255=355$; $282+41+159=282+200=482$; $548+52+468=600+468=1068$
 
 ### Solution to Exercise 48
 
-By **Definition 8.3.8** (Convenient Calculation), $225+328+175=(225+175)+328=400+328=728$ (yuan). $\blacksquare$
+By **Definition 8.3.8** (Convenient Calculation), $225+328+175=\left(225+175\right)+328=400+328=728$ (yuan). $\blacksquare$
 
 ### Exercise 49
 
@@ -126,7 +126,7 @@ By **Definition 8.3.8** (Convenient Calculation), $225+328+175=(225+175)+328=400
 
 ### Solution to Exercise 49
 
-By **Definition 8.3.3** (Operation Property of Subtraction), $2000-416-284=2000-(416+284)=2000-700=1300$ ($\mathrm{m}$). $\blacksquare$
+By **Definition 8.3.3** (Operation Property of Subtraction), $2000-416-284=2000-\left(416+284\right)=2000-700=1300$ ($\mathrm{m}$). $\blacksquare$
 
 ### Exercise 50
 
@@ -142,11 +142,11 @@ Pairing by **Definition 8.3.1** (Commutative Law of Addition), the total number 
 
 ### Solution to Exercise 51
 
-(1) Pair the first and last: $(1+100)\times100\div2=5050$. (2) $(2+20)\times10\div2=110$. (3) $(5+100)\times20\div2=1050$. (4) Group in pairs: $(20-19)+(18-17)+\cdots+(2-1)=1\times10=10$. $\blacksquare$
+(1) Pair the first and last: $\left(1+100\right)\times100\div2=5050$. (2) $\left(2+20\right)\times10\div2=110$. (3) $\left(5+100\right)\times20\div2=1050$. (4) Group in pairs: $\left(20-19\right)+\left(18-17\right)+\cdots+\left(2-1\right)=1\times10=10$. $\blacksquare$
 
 ### Exercise 52
 
-(Lesson: Convenient Addition and Subtraction, Practice 6, Problem 6) Complete the table of numbers of students in the upper grades of a primary school: Grade 3 $(36,37,34)$, Grade 4 $(34,31,39)$, Grade 5 $(35,36,35)$, Grade 6 $(38,32,\_\_)$ with a total of $108$. Find the total for each grade and the number in Grade 6 Class 3.
+(Lesson: Convenient Addition and Subtraction, Practice 6, Problem 6) Complete the table of numbers of students in the upper grades of a primary school: Grade 3 $\left(36,37,34\right)$, Grade 4 $\left(34,31,39\right)$, Grade 5 $\left(35,36,35\right)$, Grade 6 $\left(38,32,\_\_\right)$ with a total of $108$. Find the total for each grade and the number in Grade 6 Class 3.
 
 ### Solution to Exercise 52
 
@@ -166,7 +166,7 @@ On the second day she graded $22+8=30$ (essays), graded in total $22+30=52$ (ess
 
 ### Solution to Exercise 54
 
-By **Definition 8.3.3** (Operation Property of Subtraction), $375-125-75=375-(125+75)=375-200=175$ (units). $\blacksquare$
+By **Definition 8.3.3** (Operation Property of Subtraction), $375-125-75=375-\left(125+75\right)=375-200=175$ (units). $\blacksquare$
 
 ### Exercise 55
 
@@ -178,19 +178,19 @@ By **Definition 8.3.2** (Associative Law of Addition), original price $=2255+355
 
 ### Exercise 56
 
-(Lesson: Operation Laws of Multiplication, Try It) Fill in the blanks by the operation laws of multiplication: $12\times32=32\times$ ___; $30\times6\times7=30\times(6\times$ ___ $)$; $125\times(8\times4)=($ ___ $\times$ ___ $)\times$ ___; $108\times75=$ ___ $\times$ ___.
+(Lesson: Operation Laws of Multiplication, Try It) Fill in the blanks by the operation laws of multiplication: $12\times32=32\times$ ___; $30\times6\times7=30\times\left(6\times$ ___ $\right)$; $125\times\left(8\times4\right)=\left($ ___ $\times$ ___ $\right)\times$ ___; $108\times75=$ ___ $\times$ ___.
 
 ### Solution to Exercise 56
 
-By **Definition 8.3.4** (Commutative Law of Multiplication) and **Definition 8.3.5** (Associative Law of Multiplication): $12\times32=32\times12$; $30\times6\times7=30\times(6\times7)$; $125\times(8\times4)=(125\times8)\times4$; $108\times75=75\times108$. $\blacksquare$
+By **Definition 8.3.4** (Commutative Law of Multiplication) and **Definition 8.3.5** (Associative Law of Multiplication): $12\times32=32\times12$; $30\times6\times7=30\times\left(6\times7\right)$; $125\times\left(8\times4\right)=\left(125\times8\right)\times4$; $108\times75=75\times108$. $\blacksquare$
 
 ### Exercise 57
 
-(Lesson: Distributive Law of Multiplication, Try It) Which of the following expressions are correct? Mark correct ones with "√" and wrong ones with "×": $56\times(19+28)=56\times19+28$; $32\times(7\times3)=32\times7+32\times3$; $64\times64+36\times64=(64+36)\times64$.
+(Lesson: Distributive Law of Multiplication, Try It) Which of the following expressions are correct? Mark correct ones with "√" and wrong ones with "×": $56\times\left(19+28\right)=56\times19+28$; $32\times\left(7\times3\right)=32\times7+32\times3$; $64\times64+36\times64=\left(64+36\right)\times64$.
 
 ### Solution to Exercise 57
 
-By **Definition 8.3.6** (Distributive Law of Multiplication): $56\times(19+28)=56\times19+28$ is wrong, it should be $56\times19+56\times28$; $32\times(7\times3)=32\times7+32\times3$ is wrong, this is a continued product and should use the associative law $32\times7\times3$; $64\times64+36\times64=(64+36)\times64$ is correct. $\blacksquare$
+By **Definition 8.3.6** (Distributive Law of Multiplication): $56\times\left(19+28\right)=56\times19+28$ is wrong, it should be $56\times19+56\times28$; $32\times\left(7\times3\right)=32\times7+32\times3$ is wrong, this is a continued product and should use the associative law $32\times7\times3$; $64\times64+36\times64=\left(64+36\right)\times64$ is correct. $\blacksquare$
 
 ### Exercise 58
 
@@ -202,19 +202,19 @@ $12\times5=60$; $16\times5=80$; $35\times2=70$; $45\times2=90$; $24\times5=120$;
 
 ### Exercise 59
 
-(Lesson: Operation Laws of Multiplication, Practice 7, Problem 2) By the operation laws of multiplication, fill in the $\square$ with suitable numbers: $15\times16=16\times$ ___; $(60\times25)\times$ ___ $=60\times($ ___ $\times8)$; $25\times7\times4=$ ___ $\times$ ___ $\times7$; $125\times(8\times$ ___ $)=(125\times$ ___ $)\times14$; $3\times4\times8\times5=(3\times4)\times($ ___ $\times$ ___ $)$.
+(Lesson: Operation Laws of Multiplication, Practice 7, Problem 2) By the operation laws of multiplication, fill in the $\square$ with suitable numbers: $15\times16=16\times$ ___; $\left(60\times25\right)\times$ ___ $=60\times\left($ ___ $\times8\right)$; $25\times7\times4=$ ___ $\times$ ___ $\times7$; $125\times\left(8\times$ ___ $\right)=\left(125\times$ ___ $\right)\times14$; $3\times4\times8\times5=\left(3\times4\right)\times\left($ ___ $\times$ ___ $\right)$.
 
 ### Solution to Exercise 59
 
-By **Definition 8.3.4** (Commutative Law of Multiplication) and **Definition 8.3.5** (Associative Law of Multiplication): $15\times16=16\times15$; $(60\times25)\times8=60\times(25\times8)$; $25\times7\times4=25\times4\times7$; $125\times(8\times14)=(125\times8)\times14$; $3\times4\times8\times5=(3\times4)\times(8\times5)$. $\blacksquare$
+By **Definition 8.3.4** (Commutative Law of Multiplication) and **Definition 8.3.5** (Associative Law of Multiplication): $15\times16=16\times15$; $\left(60\times25\right)\times8=60\times\left(25\times8\right)$; $25\times7\times4=25\times4\times7$; $125\times\left(8\times14\right)=\left(125\times8\right)\times14$; $3\times4\times8\times5=\left(3\times4\right)\times\left(8\times5\right)$. $\blacksquare$
 
 ### Exercise 60
 
-(Lesson: Operation Laws of Multiplication, Practice 7, Problem 3) Which of the following expressions uses the distributive law of multiplication? $117\times(3+7)=117\times3+117\times7$; $24\times(5+12)=24\times17$; $36\times(4\times6)=36\times6\times4$; $4\times a+a\times5=(4+5)\times a$.
+(Lesson: Operation Laws of Multiplication, Practice 7, Problem 3) Which of the following expressions uses the distributive law of multiplication? $117\times\left(3+7\right)=117\times3+117\times7$; $24\times\left(5+12\right)=24\times17$; $36\times\left(4\times6\right)=36\times6\times4$; $4\times a+a\times5=\left(4+5\right)\times a$.
 
 ### Solution to Exercise 60
 
-By **Definition 8.3.6** (Distributive Law of Multiplication): $117\times(3+7)=117\times3+117\times7$ uses the distributive law; $24\times(5+12)=24\times17$ directly calculates inside the parentheses first; $36\times(4\times6)=36\times6\times4$ uses the commutative law; $4\times a+a\times5=(4+5)\times a$ uses the distributive law in reverse. $\blacksquare$
+By **Definition 8.3.6** (Distributive Law of Multiplication): $117\times\left(3+7\right)=117\times3+117\times7$ uses the distributive law; $24\times\left(5+12\right)=24\times17$ directly calculates inside the parentheses first; $36\times\left(4\times6\right)=36\times6\times4$ uses the commutative law; $4\times a+a\times5=\left(4+5\right)\times a$ uses the distributive law in reverse. $\blacksquare$
 
 ### Exercise 61
 
@@ -230,7 +230,7 @@ One round trip is $50\times2=100$ ($\mathrm{m}$); $7$ round trips: $50\times2\ti
 
 ### Solution to Exercise 62
 
-By **Definition 8.3.6** (Distributive Law of Multiplication), $(75+45)\times60=120\times60=7200$ (yuan). $\blacksquare$
+By **Definition 8.3.6** (Distributive Law of Multiplication), $\left(75+45\right)\times60=120\times60=7200$ (yuan). $\blacksquare$
 
 ### Exercise 63
 
@@ -238,19 +238,19 @@ By **Definition 8.3.6** (Distributive Law of Multiplication), $(75+45)\times60=1
 
 ### Solution to Exercise 63
 
-By **Definition 8.3.6** (Distributive Law of Multiplication): $103\times12=(100+3)\times12=1200+36=1236$; $20\times55=20\times(50+5)=1000+100=1100$; $24\times205=24\times200+24\times5=4800+120=4920$. $\blacksquare$
+By **Definition 8.3.6** (Distributive Law of Multiplication): $103\times12=\left(100+3\right)\times12=1200+36=1236$; $20\times55=20\times\left(50+5\right)=1000+100=1100$; $24\times205=24\times200+24\times5=4800+120=4920$. $\blacksquare$
 
 ### Exercise 64
 
-(Lesson: Distributive Law of Multiplication, Practice 7, Problem 7) Are the results of each pair of expressions below equal? If equal, choose one and compute the result: $25\times(200+4)$ and $25\times200+25\times4$; $35\times201$ and $35\times200+35$; $265\times105-265\times5$ and $265\times(105-5)$; $25\times11\times4$ and $11\times(25\times4)$.
+(Lesson: Distributive Law of Multiplication, Practice 7, Problem 7) Are the results of each pair of expressions below equal? If equal, choose one and compute the result: $25\times\left(200+4\right)$ and $25\times200+25\times4$; $35\times201$ and $35\times200+35$; $265\times105-265\times5$ and $265\times\left(105-5\right)$; $25\times11\times4$ and $11\times\left(25\times4\right)$.
 
 ### Solution to Exercise 64
 
-Each pair is equal. By **Definition 8.3.6** (Distributive Law of Multiplication) and **Definition 8.3.5** (Associative Law of Multiplication): $25\times(200+4)=5100$; $35\times201=7035$; $265\times(105-5)=26500$; $11\times(25\times4)=1100$. $\blacksquare$
+Each pair is equal. By **Definition 8.3.6** (Distributive Law of Multiplication) and **Definition 8.3.5** (Associative Law of Multiplication): $25\times\left(200+4\right)=5100$; $35\times201=7035$; $265\times\left(105-5\right)=26500$; $11\times\left(25\times4\right)=1100$. $\blacksquare$
 
 ### Exercise 65
 
-(Lesson: Distributive Law of Multiplication, Practice 7, Problem 8) Which of the following expressions are correct? Mark correct ones with "√" and wrong ones with "×": (1) $26\times57+43\times26=26\times(57+43)$; (2) $35\times(100+1)=35\times100+1$; (3) $125\times(8\times4)=(125\times8)\times4$; (4) $64\times12=64\times10\times2$.
+(Lesson: Distributive Law of Multiplication, Practice 7, Problem 8) Which of the following expressions are correct? Mark correct ones with "√" and wrong ones with "×": (1) $26\times57+43\times26=26\times\left(57+43\right)$; (2) $35\times\left(100+1\right)=35\times100+1$; (3) $125\times\left(8\times4\right)=\left(125\times8\right)\times4$; (4) $64\times12=64\times10\times2$.
 
 ### Solution to Exercise 65
 
@@ -262,7 +262,7 @@ Each pair is equal. By **Definition 8.3.6** (Distributive Law of Multiplication)
 
 ### Solution to Exercise 66
 
-By **Definition 8.3.5** (Associative Law of Multiplication), $4\times7\times35=(4\times7)\times35=28\times35=980$ (sets). $\blacksquare$
+By **Definition 8.3.5** (Associative Law of Multiplication), $4\times7\times35=\left(4\times7\right)\times35=28\times35=980$ (sets). $\blacksquare$
 
 ### Exercise 67
 
@@ -270,7 +270,7 @@ By **Definition 8.3.5** (Associative Law of Multiplication), $4\times7\times35=(
 
 ### Solution to Exercise 67
 
-Using the distributive law in reverse by **Definition 8.3.6** (Distributive Law of Multiplication): $167\times2+167\times3+167\times5=167\times(2+3+5)=167\times10$; $28\times225-2\times225-6\times225=(28-2-6)\times225=20\times225$; $39\times8+6\times39-39\times4=39\times(8+6-4)=39\times10$. $\blacksquare$
+Using the distributive law in reverse by **Definition 8.3.6** (Distributive Law of Multiplication): $167\times2+167\times3+167\times5=167\times\left(2+3+5\right)=167\times10$; $28\times225-2\times225-6\times225=\left(28-2-6\right)\times225=20\times225$; $39\times8+6\times39-39\times4=39\times\left(8+6-4\right)=39\times10$. $\blacksquare$
 
 ### Exercise 68
 
@@ -282,11 +282,11 @@ $9$ yuan $5$ jiao $\times5=45$ yuan $25$ jiao $=47$ yuan $5$ jiao. By **Definiti
 
 ### Exercise 69
 
-(Lesson: Convenient Multiplication and Division, Try It) Calculate the following, as conveniently as possible: $35\times5\times20$; $25\times(4+8)$; $2000\div125\div8$.
+(Lesson: Convenient Multiplication and Division, Try It) Calculate the following, as conveniently as possible: $35\times5\times20$; $25\times\left(4+8\right)$; $2000\div125\div8$.
 
 ### Solution to Exercise 69
 
-By **Definition 8.3.5** (Associative Law of Multiplication), **Definition 8.3.6** (Distributive Law of Multiplication) and **Definition 8.3.7** (Operation Property of Division): $35\times5\times20=35\times100=3500$; $25\times(4+8)=25\times4+25\times8=100+200=300$; $2000\div125\div8=2000\div(125\times8)=2000\div1000=2$. $\blacksquare$
+By **Definition 8.3.5** (Associative Law of Multiplication), **Definition 8.3.6** (Distributive Law of Multiplication) and **Definition 8.3.7** (Operation Property of Division): $35\times5\times20=35\times100=3500$; $25\times\left(4+8\right)=25\times4+25\times8=100+200=300$; $2000\div125\div8=2000\div\left(125\times8\right)=2000\div1000=2$. $\blacksquare$
 
 ### Exercise 70
 
@@ -294,7 +294,7 @@ By **Definition 8.3.5** (Associative Law of Multiplication), **Definition 8.3.6*
 
 ### Solution to Exercise 70
 
-$98+265+202=(98+202)+265=565$; $273-73-27=273-100=173$; $250\times13\times4=(250\times4)\times13=13000$; $3200\div4\div25=3200\div100=32$; $88\times125=(80+8)\times125=10000+1000=11000$; $99\times38+38=(99+1)\times38=3800$; $17\times23-23\times7=(17-7)\times23=230$; $72\times125=9\times(8\times125)=9000$. $\blacksquare$
+$98+265+202=\left(98+202\right)+265=565$; $273-73-27=273-100=173$; $250\times13\times4=\left(250\times4\right)\times13=13000$; $3200\div4\div25=3200\div100=32$; $88\times125=\left(80+8\right)\times125=10000+1000=11000$; $99\times38+38=\left(99+1\right)\times38=3800$; $17\times23-23\times7=\left(17-7\right)\times23=230$; $72\times125=9\times\left(8\times125\right)=9000$. $\blacksquare$
 
 ### Exercise 71
 
@@ -314,11 +314,11 @@ $5$ albums hold $32\times6\times5=32\times30=960$ (photos); since $960>900$, the
 
 ### Exercise 73
 
-(Lesson: Convenient Multiplication and Division, Practice 8, Problem 4) Which operation laws of multiplication does each expression below use? $106\times25=25\times106$; $5\times17\times4=5\times4\times17$; $13\times3\times2=13\times(3\times2)$; $25\times8\times4=8\times(25\times4)$; $102\times23+102\times7=102\times(23+7)$; $125\times(8+4)=125\times8+125\times4$.
+(Lesson: Convenient Multiplication and Division, Practice 8, Problem 4) Which operation laws of multiplication does each expression below use? $106\times25=25\times106$; $5\times17\times4=5\times4\times17$; $13\times3\times2=13\times\left(3\times2\right)$; $25\times8\times4=8\times\left(25\times4\right)$; $102\times23+102\times7=102\times\left(23+7\right)$; $125\times\left(8+4\right)=125\times8+125\times4$.
 
 ### Solution to Exercise 73
 
-$106\times25=25\times106$ uses the commutative law; $5\times17\times4=5\times4\times17$ uses the commutative law; $13\times3\times2=13\times(3\times2)$ uses the associative law; $25\times8\times4=8\times(25\times4)$ uses both commutative and associative; $102\times23+102\times7=102\times(23+7)$ uses the distributive law; $125\times(8+4)=125\times8+125\times4$ uses the distributive law. $\blacksquare$
+$106\times25=25\times106$ uses the commutative law; $5\times17\times4=5\times4\times17$ uses the commutative law; $13\times3\times2=13\times\left(3\times2\right)$ uses the associative law; $25\times8\times4=8\times\left(25\times4\right)$ uses both commutative and associative; $102\times23+102\times7=102\times\left(23+7\right)$ uses the distributive law; $125\times\left(8+4\right)=125\times8+125\times4$ uses the distributive law. $\blacksquare$
 
 ### Exercise 74
 
@@ -330,11 +330,11 @@ The $3$rd month has $31$ days, the $4$th month $30$ days, the $5$th month $31$ d
 
 ### Exercise 75
 
-(Lesson: Convenient Multiplication and Division, Practice 8, Problem 6) Which of the following expressions are correct? Mark correct ones with "√" and wrong ones with "×": $29+22+78=29+100$; $35\times16=35\times2\times8$; $123-68+32=123-(68+32)$; $102\times56=100\times56+2$; $12\times97+3=12\times100$.
+(Lesson: Convenient Multiplication and Division, Practice 8, Problem 6) Which of the following expressions are correct? Mark correct ones with "√" and wrong ones with "×": $29+22+78=29+100$; $35\times16=35\times2\times8$; $123-68+32=123-\left(68+32\right)$; $102\times56=100\times56+2$; $12\times97+3=12\times100$.
 
 ### Solution to Exercise 75
 
-$29+22+78=29+100$ is correct; $35\times16=35\times2\times8$ is correct; $123-68+32=123-(68+32)$ is wrong, you cannot do this when it is not a continued subtraction; $102\times56=100\times56+2$ is wrong, it should be $100\times56+2\times56$; $12\times97+3=12\times100$ is wrong. $\blacksquare$
+$29+22+78=29+100$ is correct; $35\times16=35\times2\times8$ is correct; $123-68+32=123-\left(68+32\right)$ is wrong, you cannot do this when it is not a continued subtraction; $102\times56=100\times56+2$ is wrong, it should be $100\times56+2\times56$; $12\times97+3=12\times100$ is wrong. $\blacksquare$
 
 ### Exercise 76
 
@@ -342,7 +342,7 @@ $29+22+78=29+100$ is correct; $35\times16=35\times2\times8$ is correct; $123-68+
 
 ### Solution to Exercise 76
 
-By **Definition 8.3.6** (Distributive Law of Multiplication), $(4+2)\times7=6\times7=42$ (yuan). $\blacksquare$
+By **Definition 8.3.6** (Distributive Law of Multiplication), $\left(4+2\right)\times7=6\times7=42$ (yuan). $\blacksquare$
 
 ### Exercise 77
 
@@ -350,7 +350,7 @@ By **Definition 8.3.6** (Distributive Law of Multiplication), $(4+2)\times7=6\ti
 
 ### Solution to Exercise 77
 
-Split the plot into two rectangles and combine by **Definition 8.3.6** (Distributive Law of Multiplication): $9\times19+9\times(21-9)=9\times(19+12)=9\times31=279$ ($\mathrm{m^2}$). $\blacksquare$
+Split the plot into two rectangles and combine by **Definition 8.3.6** (Distributive Law of Multiplication): $9\times19+9\times\left(21-9\right)=9\times\left(19+12\right)=9\times31=279$ ($\mathrm{m^2}$). $\blacksquare$
 
 ### Exercise 78
 

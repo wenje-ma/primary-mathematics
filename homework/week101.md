@@ -60,7 +60,7 @@ $\blacksquare$
 
 ### 解答 练习四十一
 
-由**定义 12.4.2** (圆柱的侧面积与表面积). 帽子只有侧面和一个帽顶 (无下底). 侧面积 $=\pi\times20\times30=1884\,\mathrm{cm}^{2}$; 帽顶面积 $=\pi\times(20\div2)^{2}=314\,\mathrm{cm}^{2}$; 共 $1884+314=2198\approx2200\,\mathrm{cm}^{2}$ (用进一法). $\blacksquare$
+由**定义 12.4.2** (圆柱的侧面积与表面积). 帽子只有侧面和一个帽顶 (无下底). 侧面积 $=\pi\times20\times30=1884\,\mathrm{cm}^{2}$; 帽顶面积 $=\pi\times\left(20\div2\right)^{2}=314\,\mathrm{cm}^{2}$; 共 $1884+314=2198\approx2200\,\mathrm{cm}^{2}$ (用进一法). $\blacksquare$
 
 ### 练习四十二
 
@@ -92,7 +92,7 @@ $\blacksquare$
 
 ### 解答 练习四十五
 
-由**定义 12.4.2** (圆柱的侧面积与表面积), 侧面积 $=2\pi rh$, 故 $h=188.4\div(2\times3.14\times2)=188.4\div12.56=15\,\mathrm{dm}$. $\blacksquare$
+由**定义 12.4.2** (圆柱的侧面积与表面积), 侧面积 $=2\pi rh$, 故 $h=188.4\div\left(2\times3.14\times2\right)=188.4\div12.56=15\,\mathrm{dm}$. $\blacksquare$
 
 ### 练习四十六
 
@@ -124,7 +124,7 @@ $\blacksquare$
 
 ### 解答 练习四十九
 
-由**定义 12.4.3** (圆柱的体积), 杯子容积 $=\pi\times(8\div2)^{2}\times10=3.14\times16\times10=502.4\,\mathrm{cm}^{3}=502.4\,\mathrm{mL}$. 两袋牛奶 $=240\times2=480\,\mathrm{mL}$. $502.4>480$, 能装下. $\blacksquare$
+由**定义 12.4.3** (圆柱的体积), 杯子容积 $=\pi\times\left(8\div2\right)^{2}\times10=3.14\times16\times10=502.4\,\mathrm{cm}^{3}=502.4\,\mathrm{mL}$. 两袋牛奶 $=240\times2=480\,\mathrm{mL}$. $502.4>480$, 能装下. $\blacksquare$
 
 ### 练习五十
 
@@ -140,7 +140,7 @@ $\blacksquare$
 
 ### 解答 练习五十一
 
-由**定义 12.4.3** (圆柱的体积), 瓶子容积 $=$ 水的体积 $+$ 无水部分体积 $=\pi\times4^{2}\times(7+18)=3.14\times16\times25=1256\,\mathrm{cm}^{3}=1256\,\mathrm{mL}$. $\blacksquare$
+由**定义 12.4.3** (圆柱的体积), 瓶子容积 $=$ 水的体积 $+$ 无水部分体积 $=\pi\times4^{2}\times\left(7+18\right)=3.14\times16\times25=1256\,\mathrm{cm}^{3}=1256\,\mathrm{mL}$. $\blacksquare$
 
 ### 练习五十二
 
@@ -164,7 +164,7 @@ $\blacksquare$
 
 ### 解答 练习五十四
 
-由**定义 12.4.3** (圆柱的体积), 铁块体积等于下降的那部分水的体积: $V=\pi\times(10\div2)^{2}\times2=3.14\times25\times2=157\,\mathrm{cm}^{3}$. $\blacksquare$
+由**定义 12.4.3** (圆柱的体积), 铁块体积等于下降的那部分水的体积: $V=\pi\times\left(10\div2\right)^{2}\times2=3.14\times25\times2=157\,\mathrm{cm}^{3}$. $\blacksquare$
 
 ### 练习五十五
 
@@ -212,7 +212,7 @@ $\blacksquare$
 
 ### 解答 练习六十
 
-由**定义 12.4.5** (圆锥的体积), 半径 $r=31.4\div(2\times3.14)=5\,\mathrm{cm}$; 体积 $=\dfrac{1}{3}\times\pi\times5^{2}\times9=\dfrac{1}{3}\times3.14\times25\times9=235.5\,\mathrm{cm}^{3}$. $\blacksquare$
+由**定义 12.4.5** (圆锥的体积), 半径 $r=31.4\div\left(2\times3.14\right)=5\,\mathrm{cm}$; 体积 $=\dfrac{1}{3}\times\pi\times5^{2}\times9=\dfrac{1}{3}\times3.14\times25\times9=235.5\,\mathrm{cm}^{3}$. $\blacksquare$
 
 ### 练习六十一
 
@@ -236,7 +236,7 @@ $\blacksquare$
 
 ### 解答 练习六十三
 
-由**定义 12.4.2** (圆柱的侧面积与表面积), **定义 12.4.3** (圆柱的体积) 与**定义 12.4.5** (圆锥的体积). 圆柱 $r=5,h=4$: 表面积 $=2\pi\times5\times4+2\pi\times25=40\pi+50\pi=90\pi\approx282.6\,\mathrm{dm}^{2}$, 体积 $=\pi\times25\times4=100\pi\approx314\,\mathrm{dm}^{3}$. 圆柱 $r=2,h=0.7$: 表面积 $\approx33.9\,\mathrm{m}^{2}$, 体积 $\approx8.8\,\mathrm{m}^{3}$. 圆锥 $d=4(r=2),h=6$: 体积 $=\dfrac{1}{3}\pi\times4\times6=8\pi\approx25.12\,\mathrm{dm}^{3}$. 圆锥 $r=0.5,h=12$: 体积 $=\dfrac{1}{3}\pi\times0.25\times12=\pi\approx3.14\,\mathrm{m}^{3}$. $\blacksquare$
+由**定义 12.4.2** (圆柱的侧面积与表面积), **定义 12.4.3** (圆柱的体积) 与**定义 12.4.5** (圆锥的体积). 圆柱 $r=5,h=4$: 表面积 $=2\pi\times5\times4+2\pi\times25=40\pi+50\pi=90\pi\approx282.6\,\mathrm{dm}^{2}$, 体积 $=\pi\times25\times4=100\pi\approx314\,\mathrm{dm}^{3}$. 圆柱 $r=2,h=0.7$: 表面积 $\approx33.9\,\mathrm{m}^{2}$, 体积 $\approx8.8\,\mathrm{m}^{3}$. 圆锥 $d=4\left(r=2\right),h=6$: 体积 $=\dfrac{1}{3}\pi\times4\times6=8\pi\approx25.12\,\mathrm{dm}^{3}$. 圆锥 $r=0.5,h=12$: 体积 $=\dfrac{1}{3}\pi\times0.25\times12=\pi\approx3.14\,\mathrm{m}^{3}$. $\blacksquare$
 
 ### 练习六十四
 
@@ -244,4 +244,4 @@ $\blacksquare$
 
 ### 解答 练习六十四
 
-由**定义 12.4.5** (圆锥的体积) 与**定义 12.4.3** (圆柱的体积), 沙堆体积 $=\dfrac{1}{3}\times28.6\times3=28.6\,\mathrm{m}^{3}$. 铺成路面为长方体, 厚 $2\,\mathrm{cm}=0.02\,\mathrm{m}$, 长 $=28.6\div(10\times0.02)=143\,\mathrm{m}$. $\blacksquare$
+由**定义 12.4.5** (圆锥的体积) 与**定义 12.4.3** (圆柱的体积), 沙堆体积 $=\dfrac{1}{3}\times28.6\times3=28.6\,\mathrm{m}^{3}$. 铺成路面为长方体, 厚 $2\,\mathrm{cm}=0.02\,\mathrm{m}$, 长 $=28.6\div\left(10\times0.02\right)=143\,\mathrm{m}$. $\blacksquare$

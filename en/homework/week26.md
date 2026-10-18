@@ -130,7 +130,7 @@ Find how many copies of $7$ at most are in $65$: $65\div7=9$(ropes)……$2$(met
 
 ### Exercise 30
 
-(Lesson: Finding the Quotient by Trial, Practice) Divide $14$ lollipops equally into $4$ boxes; can you say what each number in the vertical form means? ($\begin{array}{r}3\\[-2pt]4\overline{)14}\\[-2pt]\underline{12}\\[-2pt]2\end{array}$)
+(Lesson: Finding the Quotient by Trial, Practice) Divide $14$ lollipops equally into $4$ boxes; can you say what each number in the vertical form means? ($\begin{array}{r}3\\[-2pt\right]4\overline{\right)14}\\[-2pt\right]\underline{12}\\[-2pt\right]2\end{array}$)
 
 ### Solution to Exercise 30
 

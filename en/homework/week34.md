@@ -26,7 +26,7 @@ Measure with a ruler: length about $26$ cm ($260$ mm), width about $18$ cm ($180
 
 ### Exercise 57
 
-(Lesson: Knowing the Decimeter, Example) Fill in: $3$ cm $=(\ )$ mm; $70$ cm $=(\ )$ dm.
+(Lesson: Knowing the Decimeter, Example) Fill in: $3$ cm $=\left(\ \right)$ mm; $70$ cm $=\left(\ \right)$ dm.
 
 ### Solution to Exercise 57
 
@@ -34,7 +34,7 @@ By **Definition 5.3.1** and **Definition 5.3.2**, $1$ cm is $10$ mm, so $3$ cm i
 
 ### Exercise 58
 
-(Lesson: Knowing the Decimeter, Do It) Fill in: $8$ dm $=(\ )$ cm; $5$ m $=(\ )$ dm; $60$ mm $=(\ )$ cm.
+(Lesson: Knowing the Decimeter, Do It) Fill in: $8$ dm $=\left(\ \right)$ cm; $5$ m $=\left(\ \right)$ dm; $60$ mm $=\left(\ \right)$ cm.
 
 ### Solution to Exercise 58
 
@@ -66,7 +66,7 @@ By **Definition 5.3.1** and **Definition 5.3.2**, the pencil is $16$ cm long, $7
 
 ### Exercise 62
 
-(Lesson: Practice 5, Problem 3) Fill in: $90$ cm $=(\ )$ dm; $100$ mm $=(\ )$ dm; $2$ m $=(\ )$ cm; $6$ dm $=(\ )$ cm.
+(Lesson: Practice 5, Problem 3) Fill in: $90$ cm $=\left(\ \right)$ dm; $100$ mm $=\left(\ \right)$ dm; $2$ m $=\left(\ \right)$ cm; $6$ dm $=\left(\ \right)$ cm.
 
 ### Solution to Exercise 62
 
@@ -130,7 +130,7 @@ $3$ unlinked rings are $4\times3=12$ cm $=120$ mm long. Each linkage overlaps th
 
 ### Exercise 70
 
-(Lesson: Knowing the Kilometer, Example) Fill in: $3$ km $=(\ )$ m; $5000$ m $=(\ )$ km.
+(Lesson: Knowing the Kilometer, Example) Fill in: $3$ km $=\left(\ \right)$ m; $5000$ m $=\left(\ \right)$ km.
 
 ### Solution to Exercise 70
 
@@ -170,7 +170,7 @@ Walking $1$ km takes about $15$ min, bicycle about $4$ min, car about $1$ min (d
 
 ### Exercise 75
 
-(Lesson: Practice 6, Problem 2) Fill in: $7$ dm $=(\ )$ cm; $6000$ m $=(\ )$ km; $300$ mm $=(\ )$ dm; $50$ dm $=(\ )$ m; $8$ km $=(\ )$ m; $3$ m $=(\ )$ mm.
+(Lesson: Practice 6, Problem 2) Fill in: $7$ dm $=\left(\ \right)$ cm; $6000$ m $=\left(\ \right)$ km; $300$ mm $=\left(\ \right)$ dm; $50$ dm $=\left(\ \right)$ m; $8$ km $=\left(\ \right)$ m; $3$ m $=\left(\ \right)$ mm.
 
 ### Solution to Exercise 75
 
@@ -202,7 +202,7 @@ One floor is about $3$ m, the building has about $4$ floors, so it is about $12$
 
 ### Exercise 79
 
-(Lesson: Practice 6, Problem 6) Compute: $20$ mm $+30$ mm $=(\ )$ cm; $1$ km $-700$ m $=(\ )$ m; $3$ m $-1$ m $=(\ )$ dm; $2$ m $+3$ cm $=(\ )$ cm.
+(Lesson: Practice 6, Problem 6) Compute: $20$ mm $+30$ mm $=\left(\ \right)$ cm; $1$ km $-700$ m $=\left(\ \right)$ m; $3$ m $-1$ m $=\left(\ \right)$ dm; $2$ m $+3$ cm $=\left(\ \right)$ cm.
 
 ### Solution to Exercise 79
 

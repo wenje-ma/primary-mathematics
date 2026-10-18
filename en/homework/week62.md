@@ -134,7 +134,7 @@ By **Definition 8.5.7** (Interior-Angle Sum of a Triangle $180^\circ$): (1) $180
 
 ### Solution to Exercise 161
 
-By **Definition 8.5.7** (Interior-Angle Sum) and **Definition 8.5.6** (Isosceles Triangle): (1) each angle of an equilateral triangle is $60^\circ$; (2) base angle $=(180^\circ-96^\circ)\div2=42^\circ$, the three angles are $96^\circ,42^\circ,42^\circ$; (3) the other acute angle $=90^\circ-40^\circ=50^\circ$, the three angles are $90^\circ,40^\circ,50^\circ$. $\blacksquare$
+By **Definition 8.5.7** (Interior-Angle Sum) and **Definition 8.5.6** (Isosceles Triangle): (1) each angle of an equilateral triangle is $60^\circ$; (2) base angle $=\left(180^\circ-96^\circ\right)\div2=42^\circ$, the three angles are $96^\circ,42^\circ,42^\circ$; (3) the other acute angle $=90^\circ-40^\circ=50^\circ$, the three angles are $90^\circ,40^\circ,50^\circ$. $\blacksquare$
 
 ### Exercise 162
 
@@ -150,7 +150,7 @@ By **Definition 8.5.7** (Interior-Angle Sum) and **Definition 8.5.6** (the two b
 
 ### Solution to Exercise 163
 
-A quadrilateral splits into $2$ triangles, interior-angle sum $180^\circ\times2=360^\circ$; a pentagon splits into $3$ triangles, interior-angle sum $180^\circ\times3=540^\circ$. The discovery: an $n$-gon's interior-angle sum $=180^\circ\times(n-2)$. $\blacksquare$
+A quadrilateral splits into $2$ triangles, interior-angle sum $180^\circ\times2=360^\circ$; a pentagon splits into $3$ triangles, interior-angle sum $180^\circ\times3=540^\circ$. The discovery: an $n$-gon's interior-angle sum $=180^\circ\times\left(n-2\right)$. $\blacksquare$
 
 ### Exercise 164
 

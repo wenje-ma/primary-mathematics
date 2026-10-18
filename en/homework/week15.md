@@ -48,7 +48,7 @@ By **Definition 2.7.2** (Conversion of Yuan, Jiao, and Fen): $1$ yuan $=10$ jiao
 
 ### Exercise 136
 
-(Lesson: Exchange It, Problem 3) Look at the picture and fill in: $(\_\_)$ yuan $(\_\_)$ jiao, $(\_\_)$ jiao $(\_\_)$ fen.
+(Lesson: Exchange It, Problem 3) Look at the picture and fill in: $\left(\_\_\right)$ yuan $\left(\_\_\right)$ jiao, $\left(\_\_\right)$ jiao $\left(\_\_\right)$ fen.
 
 ### Solution to Exercise 136
 

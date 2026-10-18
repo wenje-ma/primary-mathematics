@@ -198,7 +198,7 @@ By **Definition 5.8.1**, look at how many equal parts the board is divided into;
 
 ### Solution to Exercise 234
 
-By **Definition 5.8.2**, write the fractions first, then compare: for the same denominator look at the numerator, for the same numerator look at the denominator. Fill in $(\ )<(\ )$ according to the figure. $\blacksquare$
+By **Definition 5.8.2**, write the fractions first, then compare: for the same denominator look at the numerator, for the same numerator look at the denominator. Fill in $\left(\ \right)<\left(\ \right)$ according to the figure. $\blacksquare$
 
 ### Exercise 235
 
@@ -258,7 +258,7 @@ $1-\dfrac{2}{3}=\dfrac{1}{3}$. The four-person boats are $\dfrac{1}{3}$. $\black
 
 ### Exercise 242
 
-(Lesson: Practice 16, Problem 5) Fill in the numbers: (1) $\dfrac{(\ )}{5}+\dfrac{(\ )}{5}=\dfrac{4}{5}$; (2) $\dfrac{(\ )}{9}-\dfrac{(\ )}{9}=\dfrac{1}{9}$.
+(Lesson: Practice 16, Problem 5) Fill in the numbers: (1) $\dfrac{\left(\ \right)}{5}+\dfrac{\left(\ \right)}{5}=\dfrac{4}{5}$; (2) $\dfrac{\left(\ \right)}{9}-\dfrac{\left(\ \right)}{9}=\dfrac{1}{9}$.
 
 ### Solution to Exercise 242
 

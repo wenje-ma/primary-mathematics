@@ -38,7 +38,7 @@ By **Definition 3.1.1** (Classification) and **Definition 3.1.2** (Representing 
 
 ### Solution to Exercise 4
 
-By **Definition 3.1.1** (Classification) and **Definition 3.1.2** (Representing Classification Results), by vegetable kind count and represent the number of pieces of each vegetable (for example $(\;\;)$ pieces, $(\;\;)$ pieces, $(\;\;)$ pieces, $(\;\;)$ pieces); compare the counts, the vegetable with the most pieces is the most, and the one with the fewest pieces is the fewest. $\blacksquare$
+By **Definition 3.1.1** (Classification) and **Definition 3.1.2** (Representing Classification Results), by vegetable kind count and represent the number of pieces of each vegetable (for example $\left(\;\;\right)$ pieces, $\left(\;\;\right)$ pieces, $\left(\;\;\right)$ pieces, $\left(\;\;\right)$ pieces); compare the counts, the vegetable with the most pieces is the most, and the one with the fewest pieces is the fewest. $\blacksquare$
 
 ### Exercise 5
 

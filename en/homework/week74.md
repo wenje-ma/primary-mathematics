@@ -6,7 +6,7 @@
 >
 > **Definition 9.6.3** (Area of a Triangle) <br>Two identical triangles can form a parallelogram whose base equals the triangle's base and height equals the triangle's height. The triangle's area is half the parallelogram's: $S=ah\div2$.
 >
-> **Definition 9.6.4** (Area of a Trapezoid) <br>Two identical trapezoids can form a parallelogram whose base equals the trapezoid's upper base plus lower base and height equals the trapezoid's height. Trapezoid area: $S=(a+b)h\div2$.
+> **Definition 9.6.4** (Area of a Trapezoid) <br>Two identical trapezoids can form a parallelogram whose base equals the trapezoid's upper base plus lower base and height equals the trapezoid's height. Trapezoid area: $S=\left(a+b\right)h\div2$.
 >
 > **Definition 9.6.5** (Area of a Composite Figure) <br>A figure built from several simple figures is a composite figure. To compute its area, split it into basic figures, compute each area and add, or use the add-and-subtract method to remove the extra part.
 >
@@ -32,7 +32,7 @@ By **Definition 9.6.1**, $S=ah=300\times200=60000$ m$^2$. By **Definition 9.6.2*
 
 ### Exercise 155
 
-(Lesson: Area of a Parallelogram, Try It, Problem 1) Unit conversion: $7$ hectares $=(\ \ )$ m$^2$; $60000$ m$^2=(\ \ )$ hectares; $5$ km$^2=(\ \ )$ hectares; $12000000$ m$^2=(\ \ )$ hectares $=(\ \ )$ km$^2$.
+(Lesson: Area of a Parallelogram, Try It, Problem 1) Unit conversion: $7$ hectares $=\left(\ \ \right)$ m$^2$; $60000$ m$^2=\left(\ \ \right)$ hectares; $5$ km$^2=\left(\ \ \right)$ hectares; $12000000$ m$^2=\left(\ \ \right)$ hectares $=\left(\ \ \right)$ km$^2$.
 
 ### Solution to Exercise 155
 
@@ -124,7 +124,7 @@ Triangles: $6.2\times3.5\div2=10.85$; $9.6\times16\div2=76.8$ cm$^2$. Parallelog
 
 ### Solution to Exercise 166
 
-From triangle area $270=ah\div2$, taking $22.5$ m as base, height $=270\times2\div22.5=24$ m; the parallelogram's adjacent sides are $22.5$ m and $18$ m, so perimeter $=(22.5+18)\times2=81$ m. $\blacksquare$
+From triangle area $270=ah\div2$, taking $22.5$ m as base, height $=270\times2\div22.5=24$ m; the parallelogram's adjacent sides are $22.5$ m and $18$ m, so perimeter $=\left(22.5+18\right)\times2=81$ m. $\blacksquare$
 
 ### Exercise 167
 
@@ -140,7 +140,7 @@ By **Definition 9.6.3**, the shaded triangle has half the base and the same heig
 
 ### Solution to Exercise 168
 
-By **Definition 9.6.4**, $S=(a+b)h\div2=(36+120)\times135\div2=156\times135\div2=10530$ m$^2$. $\blacksquare$
+By **Definition 9.6.4**, $S=\left(a+b\right)h\div2=\left(36+120\right)\times135\div2=156\times135\div2=10530$ m$^2$. $\blacksquare$
 
 ### Exercise 169
 
@@ -148,7 +148,7 @@ By **Definition 9.6.4**, $S=(a+b)h\div2=(36+120)\times135\div2=156\times135\div2
 
 ### Solution to Exercise 169
 
-By **Definition 9.6.4**, $S=(2.8+1.4)\times1.2\div2=4.2\times1.2\div2=2.52$ m$^2$. $\blacksquare$
+By **Definition 9.6.4**, $S=\left(2.8+1.4\right)\times1.2\div2=4.2\times1.2\div2=2.52$ m$^2$. $\blacksquare$
 
 ### Exercise 170
 
@@ -156,7 +156,7 @@ By **Definition 9.6.4**, $S=(2.8+1.4)\times1.2\div2=4.2\times1.2\div2=2.52$ m$^2
 
 ### Solution to Exercise 170
 
-By **Definition 9.6.4**, $S=(a+b)h\div2$, substitute each. E.g. $(12+15)\times4.8\div2=27\times4.8\div2=64.8$ cm$^2$. $\blacksquare$
+By **Definition 9.6.4**, $S=\left(a+b\right)h\div2$, substitute each. E.g. $\left(12+15\right)\times4.8\div2=27\times4.8\div2=64.8$ cm$^2$. $\blacksquare$
 
 ### Exercise 171
 
@@ -172,7 +172,7 @@ The fence is the upper base plus lower base plus height (one side against the wa
 
 ### Solution to Exercise 172
 
-By **Definition 9.6.4**, $15=(4.5+b)\times3\div2$, $4.5+b=10$, $b=5.5$ cm. $\blacksquare$
+By **Definition 9.6.4**, $15=\left(4.5+b\right)\times3\div2$, $4.5+b=10$, $b=5.5$ cm. $\blacksquare$
 
 ### Exercise 173
 
@@ -212,7 +212,7 @@ By **Definition 9.6.5**, rectangle $50\times33=1650$ m$^2$, triangle $35\times12
 
 ### Solution to Exercise 177
 
-Trapezoid area $(40+70)\times30\div2=1650$ m$^2$, pond $30\times15=450$ m$^2$, grass $1650-450=1200$ m$^2$. $\blacksquare$
+Trapezoid area $\left(40+70\right)\times30\div2=1650$ m$^2$, pond $30\times15=450$ m$^2$, grass $1650-450=1200$ m$^2$. $\blacksquare$
 
 ### Exercise 178
 
@@ -236,7 +236,7 @@ By **Definition 9.6.7** (Pick's theorem), count interior points $a$ and boundary
 
 ### Solution to Exercise 180
 
-Rectangle $36\times18=648$ cm$^2$; parallelogram $1.9\times1.8=3.42$ m$^2$; triangle $3.1\times2.2\div2=3.41$ m$^2$; trapezoid by $(a+b)h\div2$. $\blacksquare$
+Rectangle $36\times18=648$ cm$^2$; parallelogram $1.9\times1.8=3.42$ m$^2$; triangle $3.1\times2.2\div2=3.41$ m$^2$; trapezoid by $\left(a+b\right)h\div2$. $\blacksquare$
 
 ### Exercise 181
 

@@ -130,7 +130,7 @@ $35\div5=7$; $76\div9=8\cdots\cdots4$; $55\div6=9\cdots\cdots1$; $81\div8=10\cdo
 
 ### 练习三十
 
-(课时 试商 练一练) 把 $14$ 根棒棒糖平均装到 $4$ 个盒子里, 你能说出竖式中每个数的含义吗? ($\begin{array}{r}3\\[-2pt]4\overline{)14}\\[-2pt]\underline{12}\\[-2pt]2\end{array}$)
+(课时 试商 练一练) 把 $14$ 根棒棒糖平均装到 $4$ 个盒子里, 你能说出竖式中每个数的含义吗? ($\begin{array}{r}3\\[-2pt\right]4\overline{\right)14}\\[-2pt\right]\underline{12}\\[-2pt\right]2\end{array}$)
 
 ### 解答 练习三十
 

@@ -134,7 +134,7 @@ From the carry situation in the ones and tens places, try one same digit in the 
 
 ### Solution to Exercise 160
 
-Put the middle number $154$ in the center, pair opposite corners $(150,158),(151,157),(152,156),(153,155)$; each line's two ends sum to $308$, and adding the center $154$ gives a row sum of $462$. $\blacksquare$
+Put the middle number $154$ in the center, pair opposite corners $\left(150,158\right),\left(151,157\right),\left(152,156\right),\left(153,155\right)$; each line's two ends sum to $308$, and adding the center $154$ gives a row sum of $462$. $\blacksquare$
 
 ### Exercise 161
 

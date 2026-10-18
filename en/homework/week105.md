@@ -2,11 +2,11 @@
 
 > **Definition 12.8.1** (Classification and Meaning of Numbers) <br>Integers include positive integers, $0$, and negative integers; natural numbers are the positive integers and $0$. Fractions include terminating decimals and infinite repeating decimals. $0$ is neither positive nor negative. Dividing the unit $1$ equally into a number of parts, a number representing one or several such parts is called a fraction; a number expressing what percent one number is of another is called a percentage.
 >
-> **Definition 12.8.2** (Laws of Operation) <br>Commutative law of addition $a+b=b+a$; associative law of addition $(a+b)+c=a+(b+c)$; commutative law of multiplication $ab=ba$; associative law of multiplication $(ab)c=a(bc)$; distributive law $(a+b)c=ac+bc$. Using these laws simplifies computation.
+> **Definition 12.8.2** (Laws of Operation) <br>Commutative law of addition $a+b=b+a$; associative law of addition $\left(a+b\right)+c=a+\left(b+c\right)$; commutative law of multiplication $ab=ba$; associative law of multiplication $\left(ab\right)c=a\left(bc\right)$; distributive law $\left(a+b\right)c=ac+bc$. Using these laws simplifies computation.
 >
 > **Definition 12.8.3** (Equations) <br>An equality containing an unknown is called an equation. Adding or subtracting the same number to both sides keeps the two sides equal; multiplying both sides by the same number, or dividing by the same number not equal to $0$, keeps the two sides equal.
 >
-> **Definition 12.8.4** (Common Perimeter, Area, and Volume Formulas) <br>Rectangle $C=2(a+b), S=ab$; square $C=4a, S=a^{2}$; parallelogram $S=ah$; triangle $S=\dfrac{1}{2}ah$; trapezoid $S=\dfrac{1}{2}(a+b)h$; circle $C=2\pi r, S=\pi r^{2}$; cuboid $V=abh$; cube $V=a^{3}$; cylinder $V=Sh$; cone $V=\dfrac{1}{3}Sh$.
+> **Definition 12.8.4** (Common Perimeter, Area, and Volume Formulas) <br>Rectangle $C=2\left(a+b\right), S=ab$; square $C=4a, S=a^{2}$; parallelogram $S=ah$; triangle $S=\dfrac{1}{2}ah$; trapezoid $S=\dfrac{1}{2}\left(a+b\right)h$; circle $C=2\pi r, S=\pi r^{2}$; cuboid $V=abh$; cube $V=a^{3}$; cylinder $V=Sh$; cone $V=\dfrac{1}{3}Sh$.
 
 ### Exercise 105
 
@@ -14,7 +14,7 @@
 
 ### Solution to Exercise 105
 
-By **Definition 12.1.1** (Positive and Negative Numbers), **Definition 12.8.1** (Classification and Meaning of Numbers), and **Definition 12.2.1** (Discount). (1) Above zero is recorded as positive: $+49.7\,^{\circ}\mathrm{C}$; below zero as negative: $-52.3\,^{\circ}\mathrm{C}$. (2) Since $a$ is a multiple of $b$, the greatest common factor is $b$ and the least common multiple is $a$. (3) 30% off means $70\%$; you pay $100\times(1-70\%)=30$ yuan less. $\blacksquare$
+By **Definition 12.1.1** (Positive and Negative Numbers), **Definition 12.8.1** (Classification and Meaning of Numbers), and **Definition 12.2.1** (Discount). (1) Above zero is recorded as positive: $+49.7\,^{\circ}\mathrm{C}$; below zero as negative: $-52.3\,^{\circ}\mathrm{C}$. (2) Since $a$ is a multiple of $b$, the greatest common factor is $b$ and the least common multiple is $a$. (3) 30% off means $70\%$; you pay $100\times\left(1-70\%\right)=30$ yuan less. $\blacksquare$
 
 ### Exercise 106
 
@@ -38,7 +38,7 @@ $27+68=95$; $910-540=370$; $18\times40=720$; $910\div70=13$; $78-0.8=77.2$; $6.3
 
 ### Solution to Exercise 108
 
-By **Definition 12.8.2** (Laws of Operation). $59\times101=59\times(100+1)=5900+59=5959$. $12.7-3.6-5.4=12.7-(3.6+5.4)=12.7-9=3.7$. $12.5\times8\div12.5\times8=(12.5\div12.5)\times(8\times8)=1\times64=64$. $\blacksquare$
+By **Definition 12.8.2** (Laws of Operation). $59\times101=59\times\left(100+1\right)=5900+59=5959$. $12.7-3.6-5.4=12.7-\left(3.6+5.4\right)=12.7-9=3.7$. $12.5\times8\div12.5\times8=\left(12.5\div12.5\right)\times\left(8\times8\right)=1\times64=64$. $\blacksquare$
 
 ### Exercise 109
 
@@ -54,7 +54,7 @@ By **Definition 12.5.4** (Inverse Proportion), the total number of sheets $=25\t
 
 ### Solution to Exercise 110
 
-The money for $10\,\mathrm{L}$ was $=12\times10=120$ yuan. The new price $=12\times(1+25\%)=15$ yuan per liter. Now $120\div15=8\,\mathrm{L}$ can be bought. $\blacksquare$
+The money for $10\,\mathrm{L}$ was $=12\times10=120$ yuan. The new price $=12\times\left(1+25\%\right)=15$ yuan per liter. Now $120\div15=8\,\mathrm{L}$ can be bought. $\blacksquare$
 
 ### Exercise 111
 
@@ -78,7 +78,7 @@ By **Definition 12.8.3** (Equations). $x-0.25=\dfrac{1}{4}$, so $x=0.25+0.25=0.5
 
 ### Solution to Exercise 113
 
-Each additional hexagon adds $5$ sticks. Making $n$ hexagons needs $6+5(n-1)=5n+1$ sticks. Making $150$ needs $5\times150+1=751$ sticks. $\blacksquare$
+Each additional hexagon adds $5$ sticks. Making $n$ hexagons needs $6+5\left(n-1\right)=5n+1$ sticks. Making $150$ needs $5\times150+1=751$ sticks. $\blacksquare$
 
 ### Exercise 114
 
@@ -102,7 +102,7 @@ By **Definition 12.8.3** (Equations), let the Miyun Reservoir's capacity be $x$ 
 
 ### Solution to Exercise 116
 
-By **Definition 12.8.3** (Equations), let the spiders be $x$ and the mantises $(25-x)$. Then $8x+6(25-x)=170$, $8x+150-6x=170$, $2x=20$, and $x=10$. There are $10$ spiders and $25-10=15$ mantises. $\blacksquare$
+By **Definition 12.8.3** (Equations), let the spiders be $x$ and the mantises $\left(25-x\right)$. Then $8x+6\left(25-x\right)=170$, $8x+150-6x=170$, $2x=20$, and $x=10$. There are $10$ spiders and $25-10=15$ mantises. $\blacksquare$
 
 ### Exercise 117
 
@@ -158,4 +158,4 @@ By **Definition 12.8.4** (Common Perimeter, Area, and Volume Formulas), a triang
 
 ### Solution to Exercise 123
 
-By **Definition 12.8.4** (Common Perimeter, Area, and Volume Formulas). The number of small cubes is $=(6\div2)^{3}=27$. The original large cube's surface area is $=6\times6^{2}=216\,\mathrm{cm}^{2}$. The sum of the surface areas of the $27$ small cubes is $=27\times6\times2^{2}=27\times24=648\,\mathrm{cm}^{2}$. The increase is $648-216=432\,\mathrm{cm}^{2}$. $\blacksquare$
+By **Definition 12.8.4** (Common Perimeter, Area, and Volume Formulas). The number of small cubes is $=\left(6\div2\right)^{3}=27$. The original large cube's surface area is $=6\times6^{2}=216\,\mathrm{cm}^{2}$. The sum of the surface areas of the $27$ small cubes is $=27\times6\times2^{2}=27\times24=648\,\mathrm{cm}^{2}$. The increase is $648-216=432\,\mathrm{cm}^{2}$. $\blacksquare$

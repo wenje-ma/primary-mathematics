@@ -124,7 +124,7 @@ The rectangle holds two equal circles; its length $10\,\text{cm}$ is two diamete
 
 ### Solution to Exercise 146
 
-$18\,\text{cm}$ is $3$ diameters, $d=18\div3=6\,\text{cm}$; rectangle width equals the diameter $6\,\text{cm}$, perimeter $=(18+6)\times2=48\,\text{cm}$. $\blacksquare$
+$18\,\text{cm}$ is $3$ diameters, $d=18\div3=6\,\text{cm}$; rectangle width equals the diameter $6\,\text{cm}$, perimeter $=\left(18+6\right)\times2=48\,\text{cm}$. $\blacksquare$
 
 ### Exercise 147
 
@@ -220,7 +220,7 @@ One wrap $2\times3.14\times15=94.2\,\text{m}$, $3$ wraps $282.6\,\text{m}$. Post
 
 ### Solution to Exercise 158
 
-(1) Square side $=d=4$, perimeter $16\,\text{cm}$; circle perimeter $3.14\times4=12.56\,\text{cm}$. (2) Circle perimeter $2\times3.14\times1.5=9.42\,\text{cm}$; rectangle length $=4r=6$, width $=2r=3$, perimeter $(6+3)\times2=18\,\text{cm}$. $\blacksquare$
+(1) Square side $=d=4$, perimeter $16\,\text{cm}$; circle perimeter $3.14\times4=12.56\,\text{cm}$. (2) Circle perimeter $2\times3.14\times1.5=9.42\,\text{cm}$; rectangle length $=4r=6$, width $=2r=3$, perimeter $\left(6+3\right)\times2=18\,\text{cm}$. $\blacksquare$
 
 ### Exercise 159
 
@@ -292,7 +292,7 @@ Table $r=0.5\,\text{m}$, $S=3.14\times0.5^2=0.785\,\text{m}^2$. Reservoir $r=31.
 
 ### Solution to Exercise 167
 
-Annulus area $=$ outer $-$ inner $=3.14\times(\frac{26.3}{2})^2-3.14\times(\frac{5.4}{2})^2=3.14\times(13.15^2-2.7^2)=3.14\times165.6325\approx520.1\,\text{cm}^2$. $\blacksquare$
+Annulus area $=$ outer $-$ inner $=3.14\times\left(\frac{26.3}{2}\right)^2-3.14\times\left(\frac{5.4}{2}\right)^2=3.14\times\left(13.15^2-2.7^2\right)=3.14\times165.6325\approx520.1\,\text{cm}^2$. $\blacksquare$
 
 ### Exercise 168
 
@@ -308,7 +308,7 @@ Annulus area $=$ outer $-$ inner $=3.14\times(\frac{26.3}{2})^2-3.14\times(\frac
 
 ### Solution to Exercise 169
 
-(1) Outer radius $6$, $3.14\times(6^2-4^2)=3.14\times20=62.8\,\text{cm}^2$; (2) rectangle length $5$, width $2$; shaded pieces form a rectangle $3\times2=6\,\text{cm}^2$; (3) use the annular-sector formula $\frac{n}{360}\pi(R^2-r^2)$. $\blacksquare$
+(1) Outer radius $6$, $3.14\times\left(6^2-4^2\right)=3.14\times20=62.8\,\text{cm}^2$; (2) rectangle length $5$, width $2$; shaded pieces form a rectangle $3\times2=6\,\text{cm}^2$; (3) use the annular-sector formula $\frac{n}{360}\pi\left(R^2-r^2\right)$. $\blacksquare$
 
 ### Exercise 170
 
@@ -364,7 +364,7 @@ $r=125.6\div3.14\div2=20\,\text{cm}$, $S=3.14\times20^2=1256\,\text{cm}^2$. $\bl
 
 ### Solution to Exercise 176
 
-$3.14\times(25^2-5^2)=3.14\times600=1884\,\text{m}^2$. $\blacksquare$
+$3.14\times\left(25^2-5^2\right)=3.14\times600=1884\,\text{m}^2$. $\blacksquare$
 
 ### Exercise 177
 
@@ -372,7 +372,7 @@ $3.14\times(25^2-5^2)=3.14\times600=1884\,\text{m}^2$. $\blacksquare$
 
 ### Solution to Exercise 177
 
-Let small radius $r$, large $2r$. Shaded $=\pi(2r)^2-\pi r^2=3\pi r^2$, i.e. $\frac{3}{4}$ of the large circle. $\blacksquare$
+Let small radius $r$, large $2r$. Shaded $=\pi\left(2r\right)^2-\pi r^2=3\pi r^2$, i.e. $\frac{3}{4}$ of the large circle. $\blacksquare$
 
 ### Exercise 178
 
@@ -388,7 +388,7 @@ $3.14\times14^2-6^2=615.44-36=579.44\,\text{mm}^2$. $\blacksquare$
 
 ### Solution to Exercise 179
 
-E.g. a toilet-paper tube cross-section, a metal washer. Measure outer radius $R$ and inner $r$; annulus area $=\pi(R^2-r^2)$. $\blacksquare$
+E.g. a toilet-paper tube cross-section, a metal washer. Measure outer radius $R$ and inner $r$; annulus area $=\pi\left(R^2-r^2\right)$. $\blacksquare$
 
 ### Exercise 180
 
@@ -412,7 +412,7 @@ Perimeter $=4\times\frac{1}{2}\times3.14\times1=6.28\,\text{m}$. Area $=$ square
 
 ### Solution to Exercise 182
 
-$3.14\times(17^2-7^2)-3.14\times(13^2-7^2)=3.14\times(289-49-169+49)=3.14\times120=376.8\,\text{m}^2$. $\blacksquare$
+$3.14\times\left(17^2-7^2\right)-3.14\times\left(13^2-7^2\right)=3.14\times\left(289-49-169+49\right)=3.14\times120=376.8\,\text{m}^2$. $\blacksquare$
 
 ### Exercise 183
 
@@ -420,7 +420,7 @@ $3.14\times(17^2-7^2)-3.14\times(13^2-7^2)=3.14\times(289-49-169+49)=3.14\times1
 
 ### Solution to Exercise 183
 
-Old $r=62.8\div3.14\div2=10\,\text{m}$, new $r=12\,\text{m}$. Increase $3.14\times(12^2-10^2)=3.14\times44=138.16\,\text{m}^2$. $\blacksquare$
+Old $r=62.8\div3.14\div2=10\,\text{m}$, new $r=12\,\text{m}$. Increase $3.14\times\left(12^2-10^2\right)=3.14\times44=138.16\,\text{m}^2$. $\blacksquare$
 
 ### Exercise 184
 
@@ -428,7 +428,7 @@ Old $r=62.8\div3.14\div2=10\,\text{m}$, new $r=12\,\text{m}$. Increase $3.14\tim
 
 ### Solution to Exercise 184
 
-Semicircle perimeter $=\pi r+2r=r(\pi+2)=128.5$, $r=128.5\div5.14=25\,\text{m}$. Two semicircles make one circle: area $3.14\times25^2=1962.5\,\text{m}^2$. $\blacksquare$
+Semicircle perimeter $=\pi r+2r=r\left(\pi+2\right)=128.5$, $r=128.5\div5.14=25\,\text{m}$. Two semicircles make one circle: area $3.14\times25^2=1962.5\,\text{m}^2$. $\blacksquare$
 
 ### Exercise 185
 
@@ -436,7 +436,7 @@ Semicircle perimeter $=\pi r+2r=r(\pi+2)=128.5$, $r=128.5\div5.14=25\,\text{m}$.
 
 ### Solution to Exercise 185
 
-Annular sector area $=\frac{90}{360}\times3.14\times(5^2-4^2)=\frac{1}{4}\times3.14\times9=7.065\,\text{dm}^2$. $\blacksquare$
+Annular sector area $=\frac{90}{360}\times3.14\times\left(5^2-4^2\right)=\frac{1}{4}\times3.14\times9=7.065\,\text{dm}^2$. $\blacksquare$
 
 ### Exercise 186
 
@@ -532,7 +532,7 @@ Four sectors make one circle of radius $1\,\text{cm}$. Perimeter $=2\times3.14\t
 
 ### Solution to Exercise 197
 
-Area ratio $=$ square of diameter ratio: $(\frac{0.5}{5.5})^2=\frac{1}{121}$. $\blacksquare$
+Area ratio $=$ square of diameter ratio: $\left(\frac{0.5}{5.5}\right)^2=\frac{1}{121}$. $\blacksquare$
 
 ### Exercise 198
 

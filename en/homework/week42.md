@@ -126,7 +126,7 @@ By **Definition 6.2.2** (Estimating Division): grade one $438\div6\approx73$, gr
 
 ### Exercise 29
 
-(Lesson: Practice 2, Problem 11) Fill in suitable numbers in the $\square$: $96\div3+\square=50$; $(47+19)\div\square=33$; $40+\square\times3=100$; $30+\square\div4=41$.
+(Lesson: Practice 2, Problem 11) Fill in suitable numbers in the $\square$: $96\div3+\square=50$; $\left(47+19\right)\div\square=33$; $40+\square\times3=100$; $30+\square\div4=41$.
 
 ### Solution to Exercise 29
 
@@ -290,7 +290,7 @@ By **Definition 6.2.6**, this segment can represent dividing $72$ equally into s
 
 ### Solution to Exercise 49
 
-The two facing pages are consecutive numbers, the right page being $1$ more than the left. $(185-1)\div2=92$, $92+1=93$; pages $92$ and $93$ are open. $\blacksquare$
+The two facing pages are consecutive numbers, the right page being $1$ more than the left. $\left(185-1\right)\div2=92$, $92+1=93$; pages $92$ and $93$ are open. $\blacksquare$
 
 ### Exercise 50
 
@@ -442,7 +442,7 @@ By **Definition 6.2.6**, first find one formation: $5\times4=20$ (people), then 
 
 ### Solution to Exercise 68
 
-By **Definition 6.2.6**, $960\div6\div8=20$ (cartons), or $960\div(6\times8)=20$ cartons. $\blacksquare$
+By **Definition 6.2.6**, $960\div6\div8=20$ (cartons), or $960\div\left(6\times8\right)=20$ cartons. $\blacksquare$
 
 ### Exercise 69
 
@@ -614,11 +614,11 @@ By **Definition 6.2.3**: $84\div6=14$, $576\div6=96$, $906\div3=302$, $800\div5=
 
 ### Exercise 90
 
-(Lesson: Practice 7, Problem 2) Compute: $503-278$, $267\times6$, $65\times6\div5$, $588\div3\div7$, $87\div3-26$, $(387+373)\div4$, $320+208\div2$, $296\div(2\times4)$.
+(Lesson: Practice 7, Problem 2) Compute: $503-278$, $267\times6$, $65\times6\div5$, $588\div3\div7$, $87\div3-26$, $\left(387+373\right)\div4$, $320+208\div2$, $296\div\left(2\times4\right)$.
 
 ### Solution to Exercise 90
 
-$503-278=225$, $267\times6=1602$, $65\times6\div5=78$, $588\div3\div7=28$, $87\div3-26=29-26=3$, $(387+373)\div4=760\div4=190$, $320+208\div2=320+104=424$, $296\div(2\times4)=296\div8=37$. $\blacksquare$
+$503-278=225$, $267\times6=1602$, $65\times6\div5=78$, $588\div3\div7=28$, $87\div3-26=29-26=3$, $\left(387+373\right)\div4=760\div4=190$, $320+208\div2=320+104=424$, $296\div\left(2\times4\right)=296\div8=37$. $\blacksquare$
 
 ### Exercise 91
 

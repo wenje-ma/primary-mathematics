@@ -24,7 +24,7 @@ By **Definition 10.8.1** (Adding/Subtracting Fractions with Like Denominators) a
 
 ### Solution to Exercise 147
 
-By **Definition 10.3.2** (Surface Area) and **Definition 10.3.4** (Volume Formula): surface area $S=(8\times5+8\times4+5\times4)\times2=(40+32+20)\times2=184\,\mathrm{cm^2}$; volume $V=8\times5\times4=160\,\mathrm{cm^3}$. $\blacksquare$
+By **Definition 10.3.2** (Surface Area) and **Definition 10.3.4** (Volume Formula): surface area $S=\left(8\times5+8\times4+5\times4\right)\times2=\left(40+32+20\right)\times2=184\,\mathrm{cm^2}$; volume $V=8\times5\times4=160\,\mathrm{cm^3}$. $\blacksquare$
 
 ### Exercise 148
 

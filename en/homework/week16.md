@@ -48,7 +48,7 @@ By **Definition 2.8.1** (Numbers within 100), each row increases by $1$ from lef
 
 ### Exercise 146
 
-(Lesson: Review and Connection, Practice, Problem 1) In the $7$th row, the $5$th number counting from the right is $(\_\_)$, and it is made up of $(\_\_)$ tens and $(\_\_)$ ones.
+(Lesson: Review and Connection, Practice, Problem 1) In the $7$th row, the $5$th number counting from the right is $\left(\_\_\right)$, and it is made up of $\left(\_\_\right)$ tens and $\left(\_\_\right)$ ones.
 
 ### Solution to Exercise 146
 
@@ -56,7 +56,7 @@ Count out the number by row and column in the hundreds chart, and then use **Def
 
 ### Exercise 147
 
-(Lesson: Review and Connection, Practice, Problem 2) (1) $54$ contains $(\_\_)$ tens and $(\_\_)$ ones. (2) The two-digit number whose ones digit and tens digit are both $9$ is $(\_\_)$, and the number that is $1$ greater than it is $(\_\_)$. (3) The two numbers adjacent to $90$ are $(\_\_)$ and $(\_\_)$.
+(Lesson: Review and Connection, Practice, Problem 2) (1) $54$ contains $\left(\_\_\right)$ tens and $\left(\_\_\right)$ ones. (2) The two-digit number whose ones digit and tens digit are both $9$ is $\left(\_\_\right)$, and the number that is $1$ greater than it is $\left(\_\_\right)$. (3) The two numbers adjacent to $90$ are $\left(\_\_\right)$ and $\left(\_\_\right)$.
 
 ### Solution to Exercise 147
 

@@ -128,11 +128,11 @@ By **Definition 8.6.1** (align the decimal points): $16.8+5.47=22.27$; $21.6-9.8
 
 ### Exercise 182
 
-(Lesson: Mixed Addition and Subtraction of Decimals, Practice 18, Problem 3) Calculate: $7.02+11.38+20.96$; $12.45-1.96-0.8$; $19.92+14.4-9.92$; $85.7-(15.3-4.8)$; $40-(2.75+0.86)$; $9.5+4.85-6.13$.
+(Lesson: Mixed Addition and Subtraction of Decimals, Practice 18, Problem 3) Calculate: $7.02+11.38+20.96$; $12.45-1.96-0.8$; $19.92+14.4-9.92$; $85.7-\left(15.3-4.8\right)$; $40-\left(2.75+0.86\right)$; $9.5+4.85-6.13$.
 
 ### Solution to Exercise 182
 
-By **Definition 8.6.2** (order of mixed operations): $7.02+11.38+20.96=39.36$; $12.45-1.96-0.8=9.69$; $19.92+14.4-9.92=24.4$; $85.7-(15.3-4.8)=85.7-10.5=75.2$; $40-(2.75+0.86)=40-3.61=36.39$; $9.5+4.85-6.13=8.22$. $\blacksquare$
+By **Definition 8.6.2** (order of mixed operations): $7.02+11.38+20.96=39.36$; $12.45-1.96-0.8=9.69$; $19.92+14.4-9.92=24.4$; $85.7-\left(15.3-4.8\right)=85.7-10.5=75.2$; $40-\left(2.75+0.86\right)=40-3.61=36.39$; $9.5+4.85-6.13=8.22$. $\blacksquare$
 
 ### Exercise 183
 
@@ -184,11 +184,11 @@ Choose the cheaper one for each item: long rope A $25.50$ yuan, basketball A $69
 
 ### Exercise 189
 
-(Lesson: Extending the Integer Addition Laws to Decimals, Try It, Problem 1) Fill the $\square$ with suitable numbers: (1) $6.7+4.95+3.3=6.7+\square+4.95$; (2) $(1.38+1.75)+0.25=\square+(\square+\square)$.
+(Lesson: Extending the Integer Addition Laws to Decimals, Try It, Problem 1) Fill the $\square$ with suitable numbers: (1) $6.7+4.95+3.3=6.7+\square+4.95$; (2) $\left(1.38+1.75\right)+0.25=\square+\left(\square+\square\right)$.
 
 ### Solution to Exercise 189
 
-By **Definition 8.6.3** (Extending the Integer Addition Laws to Decimals): (1) $6.7+4.95+3.3=6.7+3.3+4.95$; (2) $(1.38+1.75)+0.25=1.38+(1.75+0.25)$. $\blacksquare$
+By **Definition 8.6.3** (Extending the Integer Addition Laws to Decimals): (1) $6.7+4.95+3.3=6.7+3.3+4.95$; (2) $\left(1.38+1.75\right)+0.25=1.38+\left(1.75+0.25\right)$. $\blacksquare$
 
 ### Exercise 190
 
@@ -196,7 +196,7 @@ By **Definition 8.6.3** (Extending the Integer Addition Laws to Decimals): (1) $
 
 ### Solution to Exercise 190
 
-By **Definition 8.6.3** (Extending the Laws) and the subtraction property: $1.88+2.3+3.7=1.88+6=7.88$; $5.17-1.8-3.2=5.17-5=0.17$; $4.02-3.5+0.98=5-3.5=1.5$; $13.7+0.98+0.02+4.3=(13.7+4.3)+(0.98+0.02)=19$. $\blacksquare$
+By **Definition 8.6.3** (Extending the Laws) and the subtraction property: $1.88+2.3+3.7=1.88+6=7.88$; $5.17-1.8-3.2=5.17-5=0.17$; $4.02-3.5+0.98=5-3.5=1.5$; $13.7+0.98+0.02+4.3=\left(13.7+4.3\right)+\left(0.98+0.02\right)=19$. $\blacksquare$
 
 ### Exercise 191
 
@@ -204,7 +204,7 @@ By **Definition 8.6.3** (Extending the Laws) and the subtraction property: $1.88
 
 ### Solution to Exercise 191
 
-By **Definition 8.6.3** (Extending the Laws): $5.6+2.7+4.5=12.8$; $9.14-1.43-4.57=9.14-6=3.14$; $77+2.7+2.8+25=107.5$; $0.38+0.36+2.64=0.38+3=3.38$; $8.7-5.69+2.03=5.04$; $5.26+3.43+0.74=5.26+0.74+3.43=9.43$; $51.27-8.03-1.34=41.9$; $1.29+3.7+0.71+6.3=(1.29+0.71)+(3.7+6.3)=12$; $10.75+0.4-9.86=1.29$; $3.9+4.08+3.92+1.1=(3.9+1.1)+(4.08+3.92)=13$. $\blacksquare$
+By **Definition 8.6.3** (Extending the Laws): $5.6+2.7+4.5=12.8$; $9.14-1.43-4.57=9.14-6=3.14$; $77+2.7+2.8+25=107.5$; $0.38+0.36+2.64=0.38+3=3.38$; $8.7-5.69+2.03=5.04$; $5.26+3.43+0.74=5.26+0.74+3.43=9.43$; $51.27-8.03-1.34=41.9$; $1.29+3.7+0.71+6.3=\left(1.29+0.71\right)+\left(3.7+6.3\right)=12$; $10.75+0.4-9.86=1.29$; $3.9+4.08+3.92+1.1=\left(3.9+1.1\right)+\left(4.08+3.92\right)=13$. $\blacksquare$
 
 ### Exercise 192
 

@@ -102,7 +102,7 @@ The overlapping part in the middle is BC. (1) When $AB=CD$, $AC=AB+BC=CD+BC=BD$,
 
 ### Solution to Exercise 193
 
-$2$ points give $1$ segment; $3$ points give $2+1=3$ segments; $4$ points give $3+2+1=6$ segments; $5$ points give $4+3+2+1=10$ segments; $6$ points give $5+4+3+2+1=15$ segments. Pattern: n points give at most $1+2+\cdots+(n-1)$ segments. $\blacksquare$
+$2$ points give $1$ segment; $3$ points give $2+1=3$ segments; $4$ points give $3+2+1=6$ segments; $5$ points give $4+3+2+1=10$ segments; $6$ points give $5+4+3+2+1=15$ segments. Pattern: n points give at most $1+2+\cdots+\left(n-1\right)$ segments. $\blacksquare$
 
 ### Exercise 194
 

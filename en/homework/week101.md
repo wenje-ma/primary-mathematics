@@ -60,7 +60,7 @@ By **Definition 12.4.2** (Lateral Area and Surface Area of a Cylinder), the labe
 
 ### Solution to Exercise 41
 
-By **Definition 12.4.2** (Lateral Area and Surface Area of a Cylinder). The hat has only a lateral surface and a top (no bottom base). Lateral area $=\pi\times20\times30=1884\,\mathrm{cm}^{2}$; top area $=\pi\times(20\div2)^{2}=314\,\mathrm{cm}^{2}$; total $1884+314=2198\approx2200\,\mathrm{cm}^{2}$ (using rounding up). $\blacksquare$
+By **Definition 12.4.2** (Lateral Area and Surface Area of a Cylinder). The hat has only a lateral surface and a top (no bottom base). Lateral area $=\pi\times20\times30=1884\,\mathrm{cm}^{2}$; top area $=\pi\times\left(20\div2\right)^{2}=314\,\mathrm{cm}^{2}$; total $1884+314=2198\approx2200\,\mathrm{cm}^{2}$ (using rounding up). $\blacksquare$
 
 ### Exercise 42
 
@@ -92,7 +92,7 @@ Along the length place $6$ cans: length $=6\times6=36\,\mathrm{cm}$; along the w
 
 ### Solution to Exercise 45
 
-By **Definition 12.4.2** (Lateral Area and Surface Area of a Cylinder), lateral area $=2\pi rh$, so $h=188.4\div(2\times3.14\times2)=188.4\div12.56=15\,\mathrm{dm}$. $\blacksquare$
+By **Definition 12.4.2** (Lateral Area and Surface Area of a Cylinder), lateral area $=2\pi rh$, so $h=188.4\div\left(2\times3.14\times2\right)=188.4\div12.56=15\,\mathrm{dm}$. $\blacksquare$
 
 ### Exercise 46
 
@@ -124,7 +124,7 @@ By **Definition 12.4.3** (Volume of a Cylinder), the radius $=0.5\,\mathrm{m}$, 
 
 ### Solution to Exercise 49
 
-By **Definition 12.4.3** (Volume of a Cylinder), the cup's capacity $=\pi\times(8\div2)^{2}\times10=3.14\times16\times10=502.4\,\mathrm{cm}^{3}=502.4\,\mathrm{mL}$. Two bags of milk $=240\times2=480\,\mathrm{mL}$. Since $502.4>480$, it can hold them. $\blacksquare$
+By **Definition 12.4.3** (Volume of a Cylinder), the cup's capacity $=\pi\times\left(8\div2\right)^{2}\times10=3.14\times16\times10=502.4\,\mathrm{cm}^{3}=502.4\,\mathrm{mL}$. Two bags of milk $=240\times2=480\,\mathrm{mL}$. Since $502.4>480$, it can hold them. $\blacksquare$
 
 ### Exercise 50
 
@@ -140,7 +140,7 @@ By **Definition 12.4.3** (Volume of a Cylinder), the thermos's capacity $=\pi\ti
 
 ### Solution to Exercise 51
 
-By **Definition 12.4.3** (Volume of a Cylinder), the bottle's capacity $=$ volume of water $+$ volume of the air-filled part $=\pi\times4^{2}\times(7+18)=3.14\times16\times25=1256\,\mathrm{cm}^{3}=1256\,\mathrm{mL}$. $\blacksquare$
+By **Definition 12.4.3** (Volume of a Cylinder), the bottle's capacity $=$ volume of water $+$ volume of the air-filled part $=\pi\times4^{2}\times\left(7+18\right)=3.14\times16\times25=1256\,\mathrm{cm}^{3}=1256\,\mathrm{mL}$. $\blacksquare$
 
 ### Exercise 52
 
@@ -164,7 +164,7 @@ By **Definition 12.4.3** (Volume of a Cylinder), the capacity $=\pi\times1^{2}\t
 
 ### Solution to Exercise 54
 
-By **Definition 12.4.3** (Volume of a Cylinder), the iron block's volume equals the volume of the water that dropped: $V=\pi\times(10\div2)^{2}\times2=3.14\times25\times2=157\,\mathrm{cm}^{3}$. $\blacksquare$
+By **Definition 12.4.3** (Volume of a Cylinder), the iron block's volume equals the volume of the water that dropped: $V=\pi\times\left(10\div2\right)^{2}\times2=3.14\times25\times2=157\,\mathrm{cm}^{3}$. $\blacksquare$
 
 ### Exercise 55
 
@@ -212,7 +212,7 @@ By **Definition 12.4.5** (Volume of a Cone), with the same base and height a con
 
 ### Solution to Exercise 60
 
-By **Definition 12.4.5** (Volume of a Cone), the radius is $r=31.4\div(2\times3.14)=5\,\mathrm{cm}$; the volume $=\dfrac{1}{3}\times\pi\times5^{2}\times9=\dfrac{1}{3}\times3.14\times25\times9=235.5\,\mathrm{cm}^{3}$. $\blacksquare$
+By **Definition 12.4.5** (Volume of a Cone), the radius is $r=31.4\div\left(2\times3.14\right)=5\,\mathrm{cm}$; the volume $=\dfrac{1}{3}\times\pi\times5^{2}\times9=\dfrac{1}{3}\times3.14\times25\times9=235.5\,\mathrm{cm}^{3}$. $\blacksquare$
 
 ### Exercise 61
 
@@ -236,7 +236,7 @@ By **Definition 12.4.3** (Volume of a Cylinder), the total rain volume $=$ base 
 
 ### Solution to Exercise 63
 
-By **Definition 12.4.2** (Lateral Area and Surface Area of a Cylinder), **Definition 12.4.3** (Volume of a Cylinder), and **Definition 12.4.5** (Volume of a Cone). Cylinder $r=5,h=4$: surface area $=2\pi\times5\times4+2\pi\times25=40\pi+50\pi=90\pi\approx282.6\,\mathrm{dm}^{2}$, volume $=\pi\times25\times4=100\pi\approx314\,\mathrm{dm}^{3}$. Cylinder $r=2,h=0.7$: surface area $\approx33.9\,\mathrm{m}^{2}$, volume $\approx8.8\,\mathrm{m}^{3}$. Cone $d=4(r=2),h=6$: volume $=\dfrac{1}{3}\pi\times4\times6=8\pi\approx25.12\,\mathrm{dm}^{3}$. Cone $r=0.5,h=12$: volume $=\dfrac{1}{3}\pi\times0.25\times12=\pi\approx3.14\,\mathrm{m}^{3}$. $\blacksquare$
+By **Definition 12.4.2** (Lateral Area and Surface Area of a Cylinder), **Definition 12.4.3** (Volume of a Cylinder), and **Definition 12.4.5** (Volume of a Cone). Cylinder $r=5,h=4$: surface area $=2\pi\times5\times4+2\pi\times25=40\pi+50\pi=90\pi\approx282.6\,\mathrm{dm}^{2}$, volume $=\pi\times25\times4=100\pi\approx314\,\mathrm{dm}^{3}$. Cylinder $r=2,h=0.7$: surface area $\approx33.9\,\mathrm{m}^{2}$, volume $\approx8.8\,\mathrm{m}^{3}$. Cone $d=4\left(r=2\right),h=6$: volume $=\dfrac{1}{3}\pi\times4\times6=8\pi\approx25.12\,\mathrm{dm}^{3}$. Cone $r=0.5,h=12$: volume $=\dfrac{1}{3}\pi\times0.25\times12=\pi\approx3.14\,\mathrm{m}^{3}$. $\blacksquare$
 
 ### Exercise 64
 
@@ -244,4 +244,4 @@ By **Definition 12.4.2** (Lateral Area and Surface Area of a Cylinder), **Defini
 
 ### Solution to Exercise 64
 
-By **Definition 12.4.5** (Volume of a Cone) and **Definition 12.4.3** (Volume of a Cylinder), the sand pile's volume $=\dfrac{1}{3}\times28.6\times3=28.6\,\mathrm{m}^{3}$. The paved road surface is a cuboid of thickness $2\,\mathrm{cm}=0.02\,\mathrm{m}$, so the length $=28.6\div(10\times0.02)=143\,\mathrm{m}$. $\blacksquare$
+By **Definition 12.4.5** (Volume of a Cone) and **Definition 12.4.3** (Volume of a Cylinder), the sand pile's volume $=\dfrac{1}{3}\times28.6\times3=28.6\,\mathrm{m}^{3}$. The paved road surface is a cuboid of thickness $2\,\mathrm{cm}=0.02\,\mathrm{m}$, so the length $=28.6\div\left(10\times0.02\right)=143\,\mathrm{m}$. $\blacksquare$

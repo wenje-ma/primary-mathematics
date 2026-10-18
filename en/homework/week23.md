@@ -54,7 +54,7 @@ By **Definition 3.7.2** (Multiplication Rhymes of 8): one eight is eight, two ei
 
 ### Exercise 177
 
-(Lesson: Multiplication Rhymes of 8, Do It) Fill in the rhymes: five eight $(\;\;)$, two eight $(\;\;)$, eight eight $(\;\;)$; $(\;\;)$ eight twenty-four, $(\;\;)$ eight forty-eight, $(\;\;)$ eight fifty-six.
+(Lesson: Multiplication Rhymes of 8, Do It) Fill in the rhymes: five eight $\left(\;\;\right)$, two eight $\left(\;\;\right)$, eight eight $\left(\;\;\right)$; $\left(\;\;\right)$ eight twenty-four, $\left(\;\;\right)$ eight forty-eight, $\left(\;\;\right)$ eight fifty-six.
 
 ### Solution to Exercise 177
 
@@ -122,7 +122,7 @@ By **Definition 3.7.3** (Multiplication Rhymes of 9): $2\times9=18$ (two nine ei
 
 ### Solution to Exercise 185
 
-For example "three nine twenty-seven": bend the $3$rd finger from the left, there are $2$ fingers on the left (tens $2$) and $7$ fingers on the right (ones $7$), giving $27$. The idea: bend the $n$th finger, the $n-1$ fingers on the left show the tens and the $10-n$ fingers on the right show the ones, together making $10(n-1)+(10-n)=9n$. $\blacksquare$
+For example "three nine twenty-seven": bend the $3$rd finger from the left, there are $2$ fingers on the left (tens $2$) and $7$ fingers on the right (ones $7$), giving $27$. The idea: bend the $n$th finger, the $n-1$ fingers on the left show the tens and the $10-n$ fingers on the right show the ones, together making $10\left(n-1\right)+\left(10-n\right)=9n$. $\blacksquare$
 
 ### Exercise 186
 
@@ -190,7 +190,7 @@ For example a $4\times4$ arrangement: multiplication $4\times4=16$, addition $1+
 
 ### Exercise 194
 
-(Lesson: Finding the Quotient with the Rhymes of 7~9, Example) $7\times8=56$, which rhyme? Can you compute $56\div8=$? $56\div7=$? Think: $(\;\;)$ eight fifty-six, seven $(\;\;)$ fifty-six.
+(Lesson: Finding the Quotient with the Rhymes of 7~9, Example) $7\times8=56$, which rhyme? Can you compute $56\div8=$? $56\div7=$? Think: $\left(\;\;\right)$ eight fifty-six, seven $\left(\;\;\right)$ fifty-six.
 
 ### Solution to Exercise 194
 

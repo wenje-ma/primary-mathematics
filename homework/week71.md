@@ -160,7 +160,7 @@ $7.74\div3=2.58$ m. $\blacksquare$
 
 ### 解答 练习七十一
 
-(1) 上山: $7.2\div3=2.4$ km/h; 下山: $7.2\div2=3.6$ km/h. (2) 全程: $7.2\times2\div(3+2)=14.4\div5=2.88$ km/h. $\blacksquare$
+(1) 上山: $7.2\div3=2.4$ km/h; 下山: $7.2\div2=3.6$ km/h. (2) 全程: $7.2\times2\div\left(3+2\right)=14.4\div5=2.88$ km/h. $\blacksquare$
 
 ### 练习七十二
 

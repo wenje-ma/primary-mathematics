@@ -2,7 +2,7 @@
 
 > **Definition 9.9.1** (Review of Decimal Multiplication and Division) <br>Decimal multiplication is converted to integer multiplication, then the decimal point is placed by counting the total number of decimal places in the factors from the right of the product; decimal division first converts the divisor to an integer. Both multiplication and division can be converted to integer operations, using the rules for changes in products and the invariant-quotient rule.
 >
-> **Definition 9.9.2** (Review of Shapes and Geometry) <br>Viewing a composite solid from the front, top, and left reconstructs the solid; in axial symmetry, corresponding points are equidistant from the axis; translation and rotation do not change a figure's shape or size; parallelogram area $S=ah$, triangle $S=ah\div2$, trapezoid $S=(a+b)h\div2$.
+> **Definition 9.9.2** (Review of Shapes and Geometry) <br>Viewing a composite solid from the front, top, and left reconstructs the solid; in axial symmetry, corresponding points are equidistant from the axis; translation and rotation do not change a figure's shape or size; parallelogram area $S=ah$, triangle $S=ah\div2$, trapezoid $S=\left(a+b\right)h\div2$.
 >
 > **Definition 9.9.3** (Review of Likelihood) <br>Events are divided into certain, impossible, and random events; random events occur with greater or lesser likelihood, which can be inferred from experimental data.
 
@@ -52,7 +52,7 @@ By **Definition 9.9.2** (Review of Shapes and Geometry), observe the direction a
 
 ### Solution to Exercise 211
 
-By **Definition 9.9.1**: $1.36\times0.05=0.068$; $32.5\div2.5=13$; $0.06\times1.7=0.102$; $65\div2.6=25$; $2.08\times75=156$; $2.3\div0.46=5$; $2.73\times1.5=4.095$; $1.83+2.7=4.53$; $5.5\times17.3+6.7\times5.5=5.5\times(17.3+6.7)=5.5\times24=132$; $28.5\div15=1.9$; $8.3-2.63=5.67$; $3.8+4.29+2.1+4.2=14.39$. $\blacksquare$
+By **Definition 9.9.1**: $1.36\times0.05=0.068$; $32.5\div2.5=13$; $0.06\times1.7=0.102$; $65\div2.6=25$; $2.08\times75=156$; $2.3\div0.46=5$; $2.73\times1.5=4.095$; $1.83+2.7=4.53$; $5.5\times17.3+6.7\times5.5=5.5\times\left(17.3+6.7\right)=5.5\times24=132$; $28.5\div15=1.9$; $8.3-2.63=5.67$; $3.8+4.29+2.1+4.2=14.39$. $\blacksquare$
 
 ### Exercise 212
 
@@ -76,7 +76,7 @@ $1763.8\div12\approx147.0$ mm. $\blacksquare$
 
 ### Solution to Exercise 214
 
-By **Definition 9.6.4**, $S=(1+1.2)\times0.7\div2=2.2\times0.7\div2=0.77$ m$^2$. $\blacksquare$
+By **Definition 9.6.4**, $S=\left(1+1.2\right)\times0.7\div2=2.2\times0.7\div2=0.77$ m$^2$. $\blacksquare$
 
 ### Exercise 215
 
@@ -116,7 +116,7 @@ Two coins have $4$ possible face combinations: HH, HT, TH, TT. The same outcomes
 
 ### Solution to Exercise 219
 
-Triangle $180^\circ$, quadrilateral $360^\circ$, pentagon $540^\circ$. Rule: an $n$-gon's interior angle sum $=(n-2)\times180^\circ$. $\blacksquare$
+Triangle $180^\circ$, quadrilateral $360^\circ$, pentagon $540^\circ$. Rule: an $n$-gon's interior angle sum $=\left(n-2\right)\times180^\circ$. $\blacksquare$
 
 ### Exercise 220
 

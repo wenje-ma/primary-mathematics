@@ -134,7 +134,7 @@ Solution $=100+25=125\,\text{g}$, $25\div125=20\%$. $\blacksquare$
 
 ### Solution to Exercise 218
 
-$(50-40)\div40=25\%$. $\blacksquare$
+$\left(50-40\right)\div40=25\%$. $\blacksquare$
 
 ### Exercise 219
 
@@ -166,7 +166,7 @@ By **Definition 11.7.2** (Percent Rates): attendance $=$ attendees $\div$ expect
 
 ### Solution to Exercise 222
 
-$1400\times(1+12\%)=1400\times1.12=1568$ books. $\blacksquare$
+$1400\times\left(1+12\%\right)=1400\times1.12=1568$ books. $\blacksquare$
 
 ### Exercise 223
 
@@ -174,7 +174,7 @@ $1400\times(1+12\%)=1400\times1.12=1568$ books. $\blacksquare$
 
 ### Solution to Exercise 223
 
-$(1.62-1.5)\div1.5=8\%$. $\blacksquare$
+$\left(1.62-1.5\right)\div1.5=8\%$. $\blacksquare$
 
 ### Exercise 224
 
@@ -182,7 +182,7 @@ $(1.62-1.5)\div1.5=8\%$. $\blacksquare$
 
 ### Solution to Exercise 224
 
-Take month $3$ as $1$; month $4$ $0.8$; month $5$ $0.8\times1.2=0.96$. Month $5$ is down $(1-0.96)\div1=4\%$ vs. month $3$. $\blacksquare$
+Take month $3$ as $1$; month $4$ $0.8$; month $5$ $0.8\times1.2=0.96$. Month $5$ is down $\left(1-0.96\right)\div1=4\%$ vs. month $3$. $\blacksquare$
 
 ### Exercise 225
 
@@ -190,7 +190,7 @@ Take month $3$ as $1$; month $4$ $0.8$; month $5$ $0.8\times1.2=0.96$. Month $5$
 
 ### Solution to Exercise 225
 
-Take month $4$ as $1$; month $5$ $0.8$. Month $6$ returns to $1$, i.e. rise from $0.8$ to $1$, i.e. $(1-0.8)\div0.8=25\%$. $\blacksquare$
+Take month $4$ as $1$; month $5$ $0.8$. Month $6$ returns to $1$, i.e. rise from $0.8$ to $1$, i.e. $\left(1-0.8\right)\div0.8=25\%$. $\blacksquare$
 
 ### Exercise 226
 
@@ -222,7 +222,7 @@ $550\div760\approx72.4\%$. $\blacksquare$
 
 ### Solution to Exercise 229
 
-$(2500-1600)\div2500=36\%$. $\blacksquare$
+$\left(2500-1600\right)\div2500=36\%$. $\blacksquare$
 
 ### Exercise 230
 
@@ -230,7 +230,7 @@ $(2500-1600)\div2500=36\%$. $\blacksquare$
 
 ### Solution to Exercise 230
 
-$(920-800)\div800=15\%$. $\blacksquare$
+$\left(920-800\right)\div800=15\%$. $\blacksquare$
 
 ### Exercise 231
 
@@ -238,7 +238,7 @@ $(920-800)\div800=15\%$. $\blacksquare$
 
 ### Solution to Exercise 231
 
-$(1.29-1.25)\div1.25=3.2\%$. $\blacksquare$
+$\left(1.29-1.25\right)\div1.25=3.2\%$. $\blacksquare$
 
 ### Exercise 232
 
@@ -246,7 +246,7 @@ $(1.29-1.25)\div1.25=3.2\%$. $\blacksquare$
 
 ### Solution to Exercise 232
 
-$(30-7)\div7\approx328.6\%$. $\blacksquare$
+$\left(30-7\right)\div7\approx328.6\%$. $\blacksquare$
 
 ### Exercise 233
 
@@ -254,7 +254,7 @@ $(30-7)\div7\approx328.6\%$. $\blacksquare$
 
 ### Solution to Exercise 233
 
-$64\times(1+12.5\%)=64\times1.125=72$ members. $\blacksquare$
+$64\times\left(1+12.5\%\right)=64\times1.125=72$ members. $\blacksquare$
 
 ### Exercise 234
 
@@ -262,7 +262,7 @@ $64\times(1+12.5\%)=64\times1.125=72$ members. $\blacksquare$
 
 ### Solution to Exercise 234
 
-By **Definition 11.7.3** (Discounts and Cheng), 2.5 cheng $=25\%$: $500\times(1-25\%)=375$ ten-thousand tons. $\blacksquare$
+By **Definition 11.7.3** (Discounts and Cheng), 2.5 cheng $=25\%$: $500\times\left(1-25\%\right)=375$ ten-thousand tons. $\blacksquare$
 
 ### Exercise 235
 
@@ -278,7 +278,7 @@ Saving $20\%\times2000=400$ yuan. $\blacksquare$
 
 ### Solution to Exercise 236
 
-$(20-12)\div12\approx66.7\%$. $\blacksquare$
+$\left(20-12\right)\div12\approx66.7\%$. $\blacksquare$
 
 ### Exercise 237
 
@@ -318,7 +318,7 @@ $80\times65\%=52$ yuan; $120\times70\%=84$ yuan; $60\times88\%=52.8$ yuan. $\bla
 
 ### Solution to Exercise 241
 
-$240\times(1+15\%)=276$ ten-thousand tons. $\blacksquare$
+$240\times\left(1+15\%\right)=276$ ten-thousand tons. $\blacksquare$
 
 ### Exercise 242
 

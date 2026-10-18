@@ -36,7 +36,7 @@ By **Definition 3.3.1** (Equal Distribution), circle every $3$ bags; the $12$ ba
 
 ### Exercise 62
 
-(Lesson: An Introduction to Division, Do It, Problem 1) Which ways of dividing are equal distribution? For the correct ones, draw "$\sqrt{}$" in the $(\;\;)$.
+(Lesson: An Introduction to Division, Do It, Problem 1) Which ways of dividing are equal distribution? For the correct ones, draw "$\sqrt{}$" in the $\left(\;\;\right)$.
 
 ### Solution to Exercise 62
 
@@ -44,7 +44,7 @@ By **Definition 3.3.1** (Equal Distribution), only the way that gives the same a
 
 ### Exercise 63
 
-(Lesson: An Introduction to Division, Do It, Problem 2) There are $(\;\;)$ maple leaves in total, $(\;\;)$ leaves per share, divided equally into $(\;\;)$ shares.
+(Lesson: An Introduction to Division, Do It, Problem 2) There are $\left(\;\;\right)$ maple leaves in total, $\left(\;\;\right)$ leaves per share, divided equally into $\left(\;\;\right)$ shares.
 
 ### Solution to Exercise 63
 
@@ -52,7 +52,7 @@ By **Definition 3.3.1** (Equal Distribution), first count the total number of ma
 
 ### Exercise 64
 
-(Lesson: An Introduction to Division, Do It, Problem 3) Circle and fill in. (1) $10$ sticks, $2$ sticks per share, can be divided into $(\;\;)$ shares; $5$ sticks per share, into $(\;\;)$ shares. (2) $16$ cups, $2$ cups per box, can fill $(\;\;)$ boxes; $4$ cups per box, $(\;\;)$ boxes; $8$ cups per box, $(\;\;)$ boxes.
+(Lesson: An Introduction to Division, Do It, Problem 3) Circle and fill in. (1) $10$ sticks, $2$ sticks per share, can be divided into $\left(\;\;\right)$ shares; $5$ sticks per share, into $\left(\;\;\right)$ shares. (2) $16$ cups, $2$ cups per box, can fill $\left(\;\;\right)$ boxes; $4$ cups per box, $\left(\;\;\right)$ boxes; $8$ cups per box, $\left(\;\;\right)$ boxes.
 
 ### Solution to Exercise 64
 
@@ -68,7 +68,7 @@ By **Definition 3.3.1** (Equal Distribution), first put $1$ in each share, using
 
 ### Exercise 66
 
-(Lesson: An Introduction to Division, Do It, Problem 1) Divide $10$ cartons of yogurt equally into $2$ shares; $(\;\;)$ cartons per share.
+(Lesson: An Introduction to Division, Do It, Problem 1) Divide $10$ cartons of yogurt equally into $2$ shares; $\left(\;\;\right)$ cartons per share.
 
 ### Solution to Exercise 66
 
@@ -76,7 +76,7 @@ By **Definition 3.3.1** (Equal Distribution), distribute the $10$ cartons of yog
 
 ### Exercise 67
 
-(Lesson: An Introduction to Division, Do It, Problem 2) To make each bear get the same amount, each bear can get $(\;\;)$ jars of honey.
+(Lesson: An Introduction to Division, Do It, Problem 2) To make each bear get the same amount, each bear can get $\left(\;\;\right)$ jars of honey.
 
 ### Solution to Exercise 67
 
@@ -84,7 +84,7 @@ By **Definition 3.3.1** (Equal Distribution), count the total jars of honey and 
 
 ### Exercise 68
 
-(Lesson: An Introduction to Division, Do It, Problem 3) Use sticks to stand for bananas and divide them. (1) Divided equally among $2$ monkeys, each gets $(\;\;)$ sticks. (2) Divided among $3$ monkeys, each gets $(\;\;)$ sticks. (3) Divided among $6$ monkeys, each gets $(\;\;)$ sticks.
+(Lesson: An Introduction to Division, Do It, Problem 3) Use sticks to stand for bananas and divide them. (1) Divided equally among $2$ monkeys, each gets $\left(\;\;\right)$ sticks. (2) Divided among $3$ monkeys, each gets $\left(\;\;\right)$ sticks. (3) Divided among $6$ monkeys, each gets $\left(\;\;\right)$ sticks.
 
 ### Solution to Exercise 68
 
@@ -92,7 +92,7 @@ By **Definition 3.3.1** (Equal Distribution), suppose there are $12$ bananas in 
 
 ### Exercise 69
 
-(Lesson: Practice, Problem 1) Divide $8$ cucumbers equally among $4$ children. Which way below is correct? Draw "$\sqrt{}$" in the correct $(\;\;)$.
+(Lesson: Practice, Problem 1) Divide $8$ cucumbers equally among $4$ children. Which way below is correct? Draw "$\sqrt{}$" in the correct $\left(\;\;\right)$.
 
 ### Solution to Exercise 69
 
@@ -100,7 +100,7 @@ By **Definition 3.3.1** (Equal Distribution), only the way where every child get
 
 ### Exercise 70
 
-(Lesson: Practice, Problem 2) Circle and explain. $14$ ears of corn, $2$ per bag, can fill $(\;\;)$ bags. If there are $18$ ears of corn, $2$ per bag, can fill $(\;\;)$ bags.
+(Lesson: Practice, Problem 2) Circle and explain. $14$ ears of corn, $2$ per bag, can fill $\left(\;\;\right)$ bags. If there are $18$ ears of corn, $2$ per bag, can fill $\left(\;\;\right)$ bags.
 
 ### Solution to Exercise 70
 
@@ -108,7 +108,7 @@ By **Definition 3.3.1** (Equal Distribution), $14$ ears at $2$ per bag: $14\div2
 
 ### Exercise 71
 
-(Lesson: Practice, Problem 3) Divide $12$ pinwheels equally into $3$ shares; $(\;\;)$ per share. Explain how you divided them.
+(Lesson: Practice, Problem 3) Divide $12$ pinwheels equally into $3$ shares; $\left(\;\;\right)$ per share. Explain how you divided them.
 
 ### Solution to Exercise 71
 
@@ -116,7 +116,7 @@ By **Definition 3.3.1** (Equal Distribution), you can distribute them $1$ by $1$
 
 ### Exercise 72
 
-(Lesson: Practice, Problem 4) (1) Every $3$ cubes make one cuboid; you can make $(\;\;)$ cuboids. (2) Using all the cubes above, you made $5$ identical cuboids; each cuboid used $(\;\;)$ cubes.
+(Lesson: Practice, Problem 4) (1) Every $3$ cubes make one cuboid; you can make $\left(\;\;\right)$ cuboids. (2) Using all the cubes above, you made $5$ identical cuboids; each cuboid used $\left(\;\;\right)$ cubes.
 
 ### Solution to Exercise 72
 
@@ -124,7 +124,7 @@ By **Definition 3.3.1** (Equal Distribution), suppose there are $15$ cubes in to
 
 ### Exercise 73
 
-(Lesson: Practice, Problem 5) (1) There are $6$ peaches, $3$ per plate, can fill $(\;\;)$ plates. (2) There are $6$ peaches, divided equally onto $2$ plates, $(\;\;)$ per plate. (3) Xiaoming divided $12$ peaches as shown below; how did he divide them?
+(Lesson: Practice, Problem 5) (1) There are $6$ peaches, $3$ per plate, can fill $\left(\;\;\right)$ plates. (2) There are $6$ peaches, divided equally onto $2$ plates, $\left(\;\;\right)$ per plate. (3) Xiaoming divided $12$ peaches as shown below; how did he divide them?
 
 ### Solution to Exercise 73
 
@@ -132,7 +132,7 @@ By **Definition 3.3.1** (Equal Distribution), (1) $6$ peaches at $3$ per plate: 
 
 ### Exercise 74
 
-(Lesson: Practice, Problem 6) There are $(\;\;)$ little lanterns below in total. If $6$ lanterns are hung on each string, you can hang $(\;\;)$ strings.
+(Lesson: Practice, Problem 6) There are $\left(\;\;\right)$ little lanterns below in total. If $6$ lanterns are hung on each string, you can hang $\left(\;\;\right)$ strings.
 
 ### Solution to Exercise 74
 
@@ -156,7 +156,7 @@ By **Definition 3.3.2** (The Meaning of Division) and **Definition 3.3.3** (Name
 
 ### Exercise 77
 
-(Lesson: Division, Do It, Problem 1) Circle and fill in. $2$ per share, divided into $(\;\;)$ shares, $12\div\_\_=\_\_$; $3$ per share, into $(\;\;)$ shares, $12\div\_\_=\_\_$; $6$ per share, into $(\;\;)$ shares, $12\div\_\_=\_\_$.
+(Lesson: Division, Do It, Problem 1) Circle and fill in. $2$ per share, divided into $\left(\;\;\right)$ shares, $12\div\_\_=\_\_$; $3$ per share, into $\left(\;\;\right)$ shares, $12\div\_\_=\_\_$; $6$ per share, into $\left(\;\;\right)$ shares, $12\div\_\_=\_\_$.
 
 ### Solution to Exercise 77
 
@@ -180,7 +180,7 @@ By **Definition 3.3.2** (The Meaning of Division) and **Definition 3.3.3** (Name
 
 ### Exercise 80
 
-(Lesson: Division, Do It, Problem 1) Divide $15$ fish equally among $5$ fish tanks; each tank has $(\;\;)$ fish. $15\div5=\_\_$.
+(Lesson: Division, Do It, Problem 1) Divide $15$ fish equally among $5$ fish tanks; each tank has $\left(\;\;\right)$ fish. $15\div5=\_\_$.
 
 ### Solution to Exercise 80
 
@@ -196,7 +196,7 @@ By **Definition 3.3.3** (Names of the Parts of a Division Expression): in $12\di
 
 ### Exercise 82
 
-(Lesson: Practice, Problem 1) (1) To make each bear get the same amount, each bear should get $(\;\;)$ apples. $\_\_\div\_\_=\_\_$. (2) If these apples are bagged $2$ per bag, you can fill $(\;\;)$ bags. $\_\_\div\_\_=\_\_$.
+(Lesson: Practice, Problem 1) (1) To make each bear get the same amount, each bear should get $\left(\;\;\right)$ apples. $\_\_\div\_\_=\_\_$. (2) If these apples are bagged $2$ per bag, you can fill $\left(\;\;\right)$ bags. $\_\_\div\_\_=\_\_$.
 
 ### Solution to Exercise 82
 
@@ -204,7 +204,7 @@ By **Definition 3.3.2** (The Meaning of Division), suppose there are $8$ apples 
 
 ### Exercise 83
 
-(Lesson: Practice, Problem 2) $24$ contains $(\;\;)$ copies of $4$. $9$ contains $3$ copies of $(\;\;)$.
+(Lesson: Practice, Problem 2) $24$ contains $\left(\;\;\right)$ copies of $4$. $9$ contains $3$ copies of $\left(\;\;\right)$.
 
 ### Solution to Exercise 83
 
@@ -212,7 +212,7 @@ By **Definition 3.3.2** (The Meaning of Division), how many copies of $4$ in $24
 
 ### Exercise 84
 
-(Lesson: Practice, Problem 3) (1) $(\;\;)$ pens per box, can fill $(\;\;)$ boxes. (2) Divided equally into $(\;\;)$ boxes, each box holds $(\;\;)$ pens.
+(Lesson: Practice, Problem 3) (1) $\left(\;\;\right)$ pens per box, can fill $\left(\;\;\right)$ boxes. (2) Divided equally into $\left(\;\;\right)$ boxes, each box holds $\left(\;\;\right)$ pens.
 
 ### Solution to Exercise 84
 
@@ -268,7 +268,7 @@ By **Definition 3.3.4** (Finding the Quotient with Multiplication Rhymes), for $
 
 ### Exercise 91
 
-(Lesson: Finding the Quotient with the Multiplication Rhymes of $2\sim6$, Do It, Problem 2) Find the quotient using the rhymes. $12\div6=\_\_$, $10\div2=\_\_$, $8\div4=\_\_$. Rhymes: $(\;\;)$ six twelve, two $(\;\;)$ ten, $(\;\;)$ four is eight.
+(Lesson: Finding the Quotient with the Multiplication Rhymes of $2\sim6$, Do It, Problem 2) Find the quotient using the rhymes. $12\div6=\_\_$, $10\div2=\_\_$, $8\div4=\_\_$. Rhymes: $\left(\;\;\right)$ six twelve, two $\left(\;\;\right)$ ten, $\left(\;\;\right)$ four is eight.
 
 ### Solution to Exercise 91
 
@@ -276,7 +276,7 @@ By **Definition 3.3.4** (Finding the Quotient with Multiplication Rhymes): $12\d
 
 ### Exercise 92
 
-(Lesson: Finding the Quotient with the Multiplication Rhymes of $2\sim6$, Example, Steamed Buns) $4\times6=24$. $24\div4=\_\_$, $24\div6=\_\_$. Think: four $(\;\;)$ twenty-four, the quotient is $(\;\;)$; $(\;\;)$ six twenty-four, the quotient is $(\;\;)$.
+(Lesson: Finding the Quotient with the Multiplication Rhymes of $2\sim6$, Example, Steamed Buns) $4\times6=24$. $24\div4=\_\_$, $24\div6=\_\_$. Think: four $\left(\;\;\right)$ twenty-four, the quotient is $\left(\;\;\right)$; $\left(\;\;\right)$ six twenty-four, the quotient is $\left(\;\;\right)$.
 
 ### Solution to Exercise 92
 
@@ -284,7 +284,7 @@ By **Definition 3.3.5** (The Relation Between Multiplication and Division) and *
 
 ### Exercise 93
 
-(Lesson: Finding the Quotient with the Multiplication Rhymes of $2\sim6$, Do It, Write It) $16\div4=\_\_$, think: four $(\;\;)$ sixteen, the quotient is $(\;\;)$; $30\div5=\_\_$, think: five $(\;\;)$ thirty, the quotient is $(\;\;)$; $30\div6=\_\_$, think: $(\;\;)$ six thirty, the quotient is $(\;\;)$.
+(Lesson: Finding the Quotient with the Multiplication Rhymes of $2\sim6$, Do It, Write It) $16\div4=\_\_$, think: four $\left(\;\;\right)$ sixteen, the quotient is $\left(\;\;\right)$; $30\div5=\_\_$, think: five $\left(\;\;\right)$ thirty, the quotient is $\left(\;\;\right)$; $30\div6=\_\_$, think: $\left(\;\;\right)$ six thirty, the quotient is $\left(\;\;\right)$.
 
 ### Solution to Exercise 93
 

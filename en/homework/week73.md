@@ -4,7 +4,7 @@
 >
 > **Definition 9.5.2** (Writing Expressions with Letters) <br>When a number multiplies a letter, omit the multiplication sign and put the number before the letter, e.g. $m\times6=6m$; when $1$ multiplies a letter, omit the $1$; when a letter multiplies a letter, the sign may be written as "$\cdot$" or omitted; two identical letters multiplied are written $a^2$, read "a squared".
 >
-> **Definition 9.5.3** (Using Letters for the Operation Laws and Formulas) <br>Commutative law of addition $a+b=b+a$; associative law of addition $(a+b)+c=a+(b+c)$; commutative law of multiplication $ab=ba$; associative law of multiplication $(ab)c=a(bc)$; distributive law $(a+b)c=ac+bc$. Square perimeter $C=4a$, area $S=a^2$; rectangle perimeter $C=2(a+b)$, area $S=ab$.
+> **Definition 9.5.3** (Using Letters for the Operation Laws and Formulas) <br>Commutative law of addition $a+b=b+a$; associative law of addition $\left(a+b\right)+c=a+\left(b+c\right)$; commutative law of multiplication $ab=ba$; associative law of multiplication $\left(ab\right)c=a\left(bc\right)$; distributive law $\left(a+b\right)c=ac+bc$. Square perimeter $C=4a$, area $S=a^2$; rectangle perimeter $C=2\left(a+b\right)$, area $S=ab$.
 >
 > **Definition 9.5.4** (Properties of an Equation) <br>If $a=b$, then $a+c=b+c$, $a-c=b-c$, $ac=bc$, $a\div c=b\div c$ ($c\neq0$). Using these properties, the unknown in an equation can be found.
 >
@@ -88,7 +88,7 @@ $c=at$, $t=c\div a=900\div45=20$ min. $\blacksquare$
 
 ### Solution to Exercise 130
 
-By **Definition 9.5.1**, standard weight $=(a-105)$ kg. $\blacksquare$
+By **Definition 9.5.1**, standard weight $=\left(a-105\right)$ kg. $\blacksquare$
 
 ### Exercise 131
 
@@ -112,7 +112,7 @@ By **Definition 9.5.1** and **Definition 9.5.5**: (1) today $48+m$. (2) $48+10=5
 
 ### Solution to Exercise 133
 
-By **Definition 9.5.1**: (1) $(a+3)$ cm. (2) $0.18b$ kg. (3) $c\div80$ yuan/kWh. (4) $(d-2)$ cm. $\blacksquare$
+By **Definition 9.5.1**: (1) $\left(a+3\right)$ cm. (2) $0.18b$ kg. (3) $c\div80$ yuan/kWh. (4) $\left(d-2\right)$ cm. $\blacksquare$
 
 ### Exercise 134
 
@@ -120,15 +120,15 @@ By **Definition 9.5.1**: (1) $(a+3)$ cm. (2) $0.18b$ kg. (3) $c\div80$ yuan/kWh.
 
 ### Solution to Exercise 134
 
-$c=an$, $a=c\div n$, $n=c\div a$. A set of table and chairs $(120+m)$ yuan. When $m=80$, $120+80=200$ yuan. $\blacksquare$
+$c=an$, $a=c\div n$, $n=c\div a$. A set of table and chairs $\left(120+m\right)$ yuan. When $m=80$, $120+80=200$ yuan. $\blacksquare$
 
 ### Exercise 135
 
-(Lesson: Using Letters to Stand for Numbers, Practice 11, Integrated Use, Problem 3) Fill by the operation laws: $a+(2+c)=(\_\_+\_\_)+\_\_$; $a\cdot b\cdot4=\_\_\cdot(\_\_\cdot\_\_)$; $3x+5x=(\_\_+\_\_)\cdot\_\_$; $4(x+3)=\_\_\cdot\_\_+\_\_\cdot\_\_$.
+(Lesson: Using Letters to Stand for Numbers, Practice 11, Integrated Use, Problem 3) Fill by the operation laws: $a+\left(2+c\right)=\left(\_\_+\_\_\right)+\_\_$; $a\cdot b\cdot4=\_\_\cdot\left(\_\_\cdot\_\_\right)$; $3x+5x=\left(\_\_+\_\_\right)\cdot\_\_$; $4\left(x+3\right)=\_\_\cdot\_\_+\_\_\cdot\_\_$.
 
 ### Solution to Exercise 135
 
-By **Definition 9.5.3**: $a+(2+c)=(a+2)+c$; $a\cdot b\cdot4=a\cdot(b\cdot4)$; $3x+5x=(3+5)\cdot x=8x$; $4(x+3)=4\cdot x+4\cdot3=4x+12$. $\blacksquare$
+By **Definition 9.5.3**: $a+\left(2+c\right)=\left(a+2\right)+c$; $a\cdot b\cdot4=a\cdot\left(b\cdot4\right)$; $3x+5x=\left(3+5\right)\cdot x=8x$; $4\left(x+3\right)=4\cdot x+4\cdot3=4x+12$. $\blacksquare$
 
 ### Exercise 136
 
@@ -136,7 +136,7 @@ By **Definition 9.5.3**: $a+(2+c)=(a+2)+c$; $a\cdot b\cdot4=a\cdot(b\cdot4)$; $3
 
 ### Solution to Exercise 136
 
-By **Definition 9.5.3**, area $=$ length $\times$ width. The width-$a$ part has area $ac$, the width-$b$ part area $bc$, and the whole area $(a+b)c=ac+bc$. $\blacksquare$
+By **Definition 9.5.3**, area $=$ length $\times$ width. The width-$a$ part has area $ac$, the width-$b$ part area $bc$, and the whole area $\left(a+b\right)c=ac+bc$. $\blacksquare$
 
 ### Exercise 137
 
@@ -152,7 +152,7 @@ By **Definition 9.5.1**, the two ends seat a fixed $2$, and adding $1$ more tabl
 
 ### Solution to Exercise 138
 
-By **Definition 9.5.1** and **Definition 9.5.3**, $s=320(a+b)$. When $a=2,b=3$, $s=320\times5=1600$ km. When $s=2240,a=3$, $320(3+b)=2240$, $3+b=7$, $b=4$. $\blacksquare$
+By **Definition 9.5.1** and **Definition 9.5.3**, $s=320\left(a+b\right)$. When $a=2,b=3$, $s=320\times5=1600$ km. When $s=2240,a=3$, $320\left(3+b\right)=2240$, $3+b=7$, $b=4$. $\blacksquare$
 
 ### Exercise 139
 
@@ -168,7 +168,7 @@ By **Definition 9.5.1**: (1) the $n$th term is $n$. (2) the $n$th term is $2n$. 
 
 ### Solution to Exercise 140
 
-(1) Together $75x+60x=135x$ yuan; Zhang gets $(75-60)x=15x$ more. (2) When $x=3$, $15\times3=45$ yuan. $\blacksquare$
+(1) Together $75x+60x=135x$ yuan; Zhang gets $\left(75-60\right)x=15x$ more. (2) When $x=3$, $15\times3=45$ yuan. $\blacksquare$
 
 ### Exercise 141
 
@@ -176,7 +176,7 @@ By **Definition 9.5.1**: (1) the $n$th term is $n$. (2) the $n$th term is $2n$. 
 
 ### Solution to Exercise 141
 
-(1) Tunnel length $150(a+b)$ m. (2) $150\times(10+9)=150\times19=2850$ m. $\blacksquare$
+(1) Tunnel length $150\left(a+b\right)$ m. (2) $150\times\left(10+9\right)=150\times19=2850$ m. $\blacksquare$
 
 ### Exercise 142
 
@@ -192,7 +192,7 @@ By **Definition 9.5.1**, row $n$ has $2n$ disks. When $2n=100$, $n=50$ rows. $\b
 
 ### Solution to Exercise 143
 
-Charging per km $36\div100=0.36$ yuan, total cost $(0.36a+200)$ yuan. $\blacksquare$
+Charging per km $36\div100=0.36$ yuan, total cost $\left(0.36a+200\right)$ yuan. $\blacksquare$
 
 ### Exercise 144
 
@@ -200,7 +200,7 @@ Charging per km $36\div100=0.36$ yuan, total cost $(0.36a+200)$ yuan. $\blacksqu
 
 ### Solution to Exercise 144
 
-Together $(200+320)x=520x$ km. Fuxing goes $(320-200)x=120x$ km farther. $\blacksquare$
+Together $\left(200+320\right)x=520x$ km. Fuxing goes $\left(320-200\right)x=120x$ km farther. $\blacksquare$
 
 ### Exercise 145
 
@@ -208,7 +208,7 @@ Together $(200+320)x=520x$ km. Fuxing goes $(320-200)x=120x$ km farther. $\black
 
 ### Solution to Exercise 145
 
-When $x=8$, $x^2=64$, $4x=32$. $x^2=4x$ means $x^2-4x=0$, $x(x-4)=0$, so $x=0$ or $x=4$. $\blacksquare$
+When $x=8$, $x^2=64$, $4x=32$. $x^2=4x$ means $x^2-4x=0$, $x\left(x-4\right)=0$, so $x=0$ or $x=4$. $\blacksquare$
 
 ### Exercise 146
 
@@ -216,7 +216,7 @@ When $x=8$, $x^2=64$, $4x=32$. $x^2=4x$ means $x^2-4x=0$, $x(x-4)=0$, so $x=0$ o
 
 ### Solution to Exercise 146
 
-By **Definition 9.5.1**, the upper right is $a+1$, lower left $a+10$, lower right $a+11$. Diagonal sums: $a+(a+11)=2a+11$, $(a+1)+(a+10)=2a+11$, so they are equal. $\blacksquare$
+By **Definition 9.5.1**, the upper right is $a+1$, lower left $a+10$, lower right $a+11$. Diagonal sums: $a+\left(a+11\right)=2a+11$, $\left(a+1\right)+\left(a+10\right)=2a+11$, so they are equal. $\blacksquare$
 
 ### Exercise 147
 
@@ -224,11 +224,11 @@ By **Definition 9.5.1**, the upper right is $a+1$, lower left $a+10$, lower righ
 
 ### Solution to Exercise 147
 
-By **Definition 9.5.1**: (1) $(a+8)^\circ$C. (2) $(35-b)$ girls. (3) $3c$ points. (4) $d\div3$ balls. $\blacksquare$
+By **Definition 9.5.1**: (1) $\left(a+8\right)^\circ$C. (2) $\left(35-b\right)$ girls. (3) $3c$ points. (4) $d\div3$ balls. $\blacksquare$
 
 ### Exercise 148
 
-(Lesson: Using Letters to Stand for Numbers, Practice 13, Review and Consolidation, Problem 2) If $a=b$, fill by the equation properties: $a+3=b+(\ \ )$; $a-(\ \ )=b-9$; $a\times1.5=b\times(\ \ )$; $a-(\ \ )=b-c$.
+(Lesson: Using Letters to Stand for Numbers, Practice 13, Review and Consolidation, Problem 2) If $a=b$, fill by the equation properties: $a+3=b+\left(\ \ \right)$; $a-\left(\ \ \right)=b-9$; $a\times1.5=b\times\left(\ \ \right)$; $a-\left(\ \ \right)=b-c$.
 
 ### Solution to Exercise 148
 
@@ -240,7 +240,7 @@ By **Definition 9.5.4**: $a+3=b+3$; $a-9=b-9$; $a\times1.5=b\times1.5$; $a-c=b-c
 
 ### Solution to Exercise 149
 
-Remaining $(1200-3a)$ g. $\blacksquare$
+Remaining $\left(1200-3a\right)$ g. $\blacksquare$
 
 ### Exercise 150
 
@@ -264,4 +264,4 @@ Let Celsius be $t$ and Fahrenheit $F$, $F=1.8t+32$. $86=1.8t+32$, $1.8t=54$, $t=
 
 ### Solution to Exercise 152
 
-(1) From Chongqing $36t$ km; when $t=10$, $360$ km. (2) To Yichang $(648-36t)$ km; when $t=12$, $648-432=216$ km. $\blacksquare$
+(1) From Chongqing $36t$ km; when $t=10$, $360$ km. (2) To Yichang $\left(648-36t\right)$ km; when $t=12$, $648-432=216$ km. $\blacksquare$

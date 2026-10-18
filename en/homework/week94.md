@@ -24,7 +24,7 @@ The turns make one circle: $2\times3.14\times36.3\approx228.1\,\text{m}$; total 
 
 ### Solution to Exercise 201
 
-By **Definition 11.6.1** (Lane Circumference Difference), adjacent lanes differ by $1.25\times2\times3.14=7.85\,\text{m}$. The $n$-th lap length $=400+(n-1)\times7.85\,\text{m}$. $\blacksquare$
+By **Definition 11.6.1** (Lane Circumference Difference), adjacent lanes differ by $1.25\times2\times3.14=7.85\,\text{m}$. The $n$-th lap length $=400+\left(n-1\right)\times7.85\,\text{m}$. $\blacksquare$
 
 ### Exercise 202
 

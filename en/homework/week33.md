@@ -26,19 +26,19 @@ By **Definition 5.2.2** (Multiply/Divide Before Add/Subtract), first multiply/di
 
 ### Exercise 13
 
-(Lesson: Parentheses, Do It, Problem 1) First say the order of operations, then compute: $56\div(2\times4)$; $(72-18)\div9$; $(24-16)\times9$; $388-(27-18)$.
+(Lesson: Parentheses, Do It, Problem 1) First say the order of operations, then compute: $56\div\left(2\times4\right)$; $\left(72-18\right)\div9$; $\left(24-16\right)\times9$; $388-\left(27-18\right)$.
 
 ### Solution to Exercise 13
 
-By **Definition 5.2.3** (Parentheses), first compute inside: $56\div(2\times4)=56\div8=7$; $(72-18)\div9=54\div9=6$; $(24-16)\times9=8\times9=72$; $388-(27-18)=388-9=379$. $\blacksquare$
+By **Definition 5.2.3** (Parentheses), first compute inside: $56\div\left(2\times4\right)=56\div8=7$; $\left(72-18\right)\div9=54\div9=6$; $\left(24-16\right)\times9=8\times9=72$; $388-\left(27-18\right)=388-9=379$. $\blacksquare$
 
 ### Exercise 14
 
-(Lesson: Parentheses, Do It, Problem 2) Compare and compute: $4+5\times7$ with $(4+5)\times7$; $72-18\div9$ with $(72-18)\div9$; $24\div4+2$ with $24\div(4+2)$.
+(Lesson: Parentheses, Do It, Problem 2) Compare and compute: $4+5\times7$ with $\left(4+5\right)\times7$; $72-18\div9$ with $\left(72-18\right)\div9$; $24\div4+2$ with $24\div\left(4+2\right)$.
 
 ### Solution to Exercise 14
 
-$4+5\times7=4+35=39$, $(4+5)\times7=9\times7=63$; $72-18\div9=72-2=70$, $(72-18)\div9=54\div9=6$; $24\div4+2=6+2=8$, $24\div(4+2)=24\div6=4$. By **Definition 5.2.3** (Parentheses), adding parentheses changes both the order and the result. $\blacksquare$
+$4+5\times7=4+35=39$, $\left(4+5\right)\times7=9\times7=63$; $72-18\div9=72-2=70$, $\left(72-18\right)\div9=54\div9=6$; $24\div4+2=6+2=8$, $24\div\left(4+2\right)=24\div6=4$. By **Definition 5.2.3** (Parentheses), adding parentheses changes both the order and the result. $\blacksquare$
 
 ### Exercise 15
 
@@ -62,7 +62,7 @@ By **Definition 5.2.2** (Multiply/Divide Before Add/Subtract): $114-4\times6=114
 
 ### Solution to Exercise 17
 
-Science books $42-6=36$, in all $42+36=78$. Combined: $42+(42-6)=78$ books. $\blacksquare$
+Science books $42-6=36$, in all $42+36=78$. Combined: $42+\left(42-6\right)=78$ books. $\blacksquare$
 
 ### Exercise 18
 
@@ -102,23 +102,23 @@ Compute both sides: $15+25\div5=15+5=20>19$; $12+54\div6=12+9=21$, $21-5+7=23$, 
 
 ### Solution to Exercise 22
 
-First: $43-36=7$, then $7-5=2$; per the flow in the picture, first $43$ minus $36$ gives $7$, then $\times6$ gives $42$; the second, per the flow's order, fill the number and write the combined expression. Combined, e.g. $(43-36)\times6=42$. $\blacksquare$
+First: $43-36=7$, then $7-5=2$; per the flow in the picture, first $43$ minus $36$ gives $7$, then $\times6$ gives $42$; the second, per the flow's order, fill the number and write the combined expression. Combined, e.g. $\left(43-36\right)\times6=42$. $\blacksquare$
 
 ### Exercise 23
 
-(Lesson: Practice 2, Problem 9) First think about the order, then compute: $238-(112+23)$; $4\times(49\div7)$; $18\div6\times4$; $(25+17)\div6$; $160+5\times9$; $(387-323)\div8$.
+(Lesson: Practice 2, Problem 9) First think about the order, then compute: $238-\left(112+23\right)$; $4\times\left(49\div7\right)$; $18\div6\times4$; $\left(25+17\right)\div6$; $160+5\times9$; $\left(387-323\right)\div8$.
 
 ### Solution to Exercise 23
 
-$238-(112+23)=238-135=103$; $4\times(49\div7)=4\times7=28$; $18\div6\times4=3\times4=12$; $(25+17)\div6=42\div6=7$; $160+5\times9=160+45=205$; $(387-323)\div8=64\div8=8$. $\blacksquare$
+$238-\left(112+23\right)=238-135=103$; $4\times\left(49\div7\right)=4\times7=28$; $18\div6\times4=3\times4=12$; $\left(25+17\right)\div6=42\div6=7$; $160+5\times9=160+45=205$; $\left(387-323\right)\div8=64\div8=8$. $\blacksquare$
 
 ### Exercise 24
 
-(Lesson: Practice 2, Problem 10) First compute, then compare the order and result of each pair; what do you notice: $56-33-17$ with $56-(33+17)$; $6\div3\div2$ with $6\div(3\times2)$; $100-56-24$ with $100-(56+24)$; $8\div2\div2$ with $8\div(2\times2)$.
+(Lesson: Practice 2, Problem 10) First compute, then compare the order and result of each pair; what do you notice: $56-33-17$ with $56-\left(33+17\right)$; $6\div3\div2$ with $6\div\left(3\times2\right)$; $100-56-24$ with $100-\left(56+24\right)$; $8\div2\div2$ with $8\div\left(2\times2\right)$.
 
 ### Solution to Exercise 24
 
-$56-33-17=6$, $56-(33+17)=6$; $6\div3\div2=1$, $6\div(3\times2)=1$; $100-56-24=20$, $100-(56+24)=20$; $8\div2\div2=2$, $8\div(2\times2)=2$. Notice: subtracting two numbers in turn equals subtracting their sum; dividing by two numbers in turn equals dividing by their product. $\blacksquare$
+$56-33-17=6$, $56-\left(33+17\right)=6$; $6\div3\div2=1$, $6\div\left(3\times2\right)=1$; $100-56-24=20$, $100-\left(56+24\right)=20$; $8\div2\div2=2$, $8\div\left(2\times2\right)=2$. Notice: subtracting two numbers in turn equals subtracting their sum; dividing by two numbers in turn equals dividing by their product. $\blacksquare$
 
 ### Exercise 25
 
@@ -126,15 +126,15 @@ $56-33-17=6$, $56-(33+17)=6$; $6\div3\div2=1$, $6\div(3\times2)=1$; $100-56-24=2
 
 ### Solution to Exercise 25
 
-$7\times9-35=63-35=28$; $492-28=464$; $(42+14)-(15-3)=56-12=44$; $250-36\div6=250-6=244$. $(6+6)\div(16\div4)=12\div4=3$; $36\div3=12$; $(304-272)\div(83-76)=32\div7$; $14\div2=7$. $\blacksquare$
+$7\times9-35=63-35=28$; $492-28=464$; $\left(42+14\right)-\left(15-3\right)=56-12=44$; $250-36\div6=250-6=244$. $\left(6+6\right)\div\left(16\div4\right)=12\div4=3$; $36\div3=12$; $\left(304-272\right)\div\left(83-76\right)=32\div7$; $14\div2=7$. $\blacksquare$
 
 ### Exercise 26
 
-(Lesson: Practice 2, Problem 12) Compute and compare; what do you notice: $4\times5+4\times3$ with $4\times(5+3)$; $2\times6+5\times6$ with $(2+5)\times6$; $9\times9-9\times7$ with $9\times(9-7)$.
+(Lesson: Practice 2, Problem 12) Compute and compare; what do you notice: $4\times5+4\times3$ with $4\times\left(5+3\right)$; $2\times6+5\times6$ with $\left(2+5\right)\times6$; $9\times9-9\times7$ with $9\times\left(9-7\right)$.
 
 ### Solution to Exercise 26
 
-$4\times5+4\times3=20+12=32$, $4\times(5+3)=4\times8=32$; $2\times6+5\times6=12+30=42$, $(2+5)\times6=42$; $9\times9-9\times7=81-63=18$, $9\times(9-7)=9\times2=18$. Notice: when two multiply expressions are added (subtracted) and share a factor, add (subtract) the other two factors first, then multiply by the shared factor; the result is unchanged. $\blacksquare$
+$4\times5+4\times3=20+12=32$, $4\times\left(5+3\right)=4\times8=32$; $2\times6+5\times6=12+30=42$, $\left(2+5\right)\times6=42$; $9\times9-9\times7=81-63=18$, $9\times\left(9-7\right)=9\times2=18$. Notice: when two multiply expressions are added (subtracted) and share a factor, add (subtract) the other two factors first, then multiply by the shared factor; the result is unchanged. $\blacksquare$
 
 ### Exercise 27
 
@@ -150,7 +150,7 @@ $4\times5+4\times3=20+12=32$, $4\times(5+3)=4\times8=32$; $2\times6+5\times6=12+
 
 ### Solution to Exercise 28
 
-(1) $(54+9)\div7=63\div7=9$. (2) $48\div(14-6)=48\div8=6$. $\blacksquare$
+(1) $\left(54+9\right)\div7=63\div7=9$. (2) $48\div\left(14-6\right)=48\div8=6$. $\blacksquare$
 
 ### Exercise 29
 
@@ -166,7 +166,7 @@ Left side $39+8\times5=39+40=79$. Need $79<100-\square\times7$, i.e. $100-\squar
 
 ### Solution to Exercise 30
 
-By **Definition 5.2.4** (Solving Multi-Step Real Problems): $96-14-15=82-15=67$; or $96-(14+15)=96-29=67$. $67$ are left. $\blacksquare$
+By **Definition 5.2.4** (Solving Multi-Step Real Problems): $96-14-15=82-15=67$; or $96-\left(14+15\right)=96-29=67$. $67$ are left. $\blacksquare$
 
 ### Exercise 31
 
@@ -174,7 +174,7 @@ By **Definition 5.2.4** (Solving Multi-Step Real Problems): $96-14-15=82-15=67$;
 
 ### Solution to Exercise 31
 
-By **Definition 5.2.4** (Solving Multi-Step Real Problems): Xiaohong $8-3=5$, Xiaojun $5\times2=10$. Combined: $(8-3)\times2=5\times2=10$ flowers. $\blacksquare$
+By **Definition 5.2.4** (Solving Multi-Step Real Problems): Xiaohong $8-3=5$, Xiaojun $5\times2=10$. Combined: $\left(8-3\right)\times2=5\times2=10$ flowers. $\blacksquare$
 
 ### Exercise 32
 
@@ -182,7 +182,7 @@ By **Definition 5.2.4** (Solving Multi-Step Real Problems): Xiaohong $8-3=5$, Xi
 
 ### Solution to Exercise 32
 
-Method one: $72\div8-56\div8=9-7=2$. Method two: $(72-56)\div8=16\div8=2$. $2$ more bracelets. $\blacksquare$
+Method one: $72\div8-56\div8=9-7=2$. Method two: $\left(72-56\right)\div8=16\div8=2$. $2$ more bracelets. $\blacksquare$
 
 ### Exercise 33
 
@@ -190,7 +190,7 @@ Method one: $72\div8-56\div8=9-7=2$. Method two: $(72-56)\div8=16\div8=2$. $2$ m
 
 ### Solution to Exercise 33
 
-$80-25-38=55-38=17$, or $80-(25+38)=80-63=17$. $17$ are left. $\blacksquare$
+$80-25-38=55-38=17$, or $80-\left(25+38\right)=80-63=17$. $17$ are left. $\blacksquare$
 
 ### Exercise 34
 
@@ -206,7 +206,7 @@ The red team's second half equals the blue team's second half. The blue team's t
 
 ### Solution to Exercise 35
 
-$(13+11)\div8=24\div8=3$. $3$ rabbits in each hutch. $\blacksquare$
+$\left(13+11\right)\div8=24\div8=3$. $3$ rabbits in each hutch. $\blacksquare$
 
 ### Exercise 36
 
@@ -214,7 +214,7 @@ $(13+11)\div8=24\div8=3$. $3$ rabbits in each hutch. $\blacksquare$
 
 ### Solution to Exercise 36
 
-$(19-3)\div4=16\div4=4$ yuan. Each notebook is $4$ yuan. $\blacksquare$
+$\left(19-3\right)\div4=16\div4=4$ yuan. Each notebook is $4$ yuan. $\blacksquare$
 
 ### Exercise 37
 
@@ -222,11 +222,11 @@ $(19-3)\div4=16\div4=4$ yuan. Each notebook is $4$ yuan. $\blacksquare$
 
 ### Solution to Exercise 37
 
-$(12-3)\times3=9\times3=27$ yuan. Pay $27$ yuan. $\blacksquare$
+$\left(12-3\right)\times3=9\times3=27$ yuan. Pay $27$ yuan. $\blacksquare$
 
 ### Exercise 38
 
-(Lesson: Solving Problems, Do It, Problem 6) Aunt Wang buys vegetables: greens $3$ yuan/bunch, radishes $4$ yuan/bunch, tomatoes $5$ yuan/bunch. (1) Say what the expression $(4+3)\times2$ means. (2) Raise other problems and solve them.
+(Lesson: Solving Problems, Do It, Problem 6) Aunt Wang buys vegetables: greens $3$ yuan/bunch, radishes $4$ yuan/bunch, tomatoes $5$ yuan/bunch. (1) Say what the expression $\left(4+3\right)\times2$ means. (2) Raise other problems and solve them.
 
 ### Solution to Exercise 38
 
@@ -238,7 +238,7 @@ $(12-3)\times3=9\times3=27$ yuan. Pay $27$ yuan. $\blacksquare$
 
 ### Solution to Exercise 39
 
-$105-40-27=65-27=38$, or $105-(40+27)=105-67=38$. $38$ are left. $\blacksquare$
+$105-40-27=65-27=38$, or $105-\left(40+27\right)=105-67=38$. $38$ are left. $\blacksquare$
 
 ### Exercise 40
 
@@ -246,7 +246,7 @@ $105-40-27=65-27=38$, or $105-(40+27)=105-67=38$. $38$ are left. $\blacksquare$
 
 ### Solution to Exercise 40
 
-$(16+20)\div4=36\div4=9$. $9$ groups in all. $\blacksquare$
+$\left(16+20\right)\div4=36\div4=9$. $9$ groups in all. $\blacksquare$
 
 ### Exercise 41
 
@@ -286,7 +286,7 @@ Killer whale $2\times4=8$ meters, blue whale $8\times3+7=24+7=31$ meters. $\blac
 
 ### Solution to Exercise 45
 
-$(5-3)\times3=2\times3=6$ yuan, or $5\times3-3\times3=15-9=6$ yuan. $\blacksquare$
+$\left(5-3\right)\times3=2\times3=6$ yuan, or $5\times3-3\times3=15-9=6$ yuan. $\blacksquare$
 
 ### Exercise 46
 
@@ -322,11 +322,11 @@ minuend $=$ subtrahend $+$ difference, so minuend $+$ subtrahend $+$ difference 
 
 ### Exercise 50
 
-(Lesson: Practice 4, Problem 1) Compute and compare: $35-23+18$ with $35-(23-18)$; $24\div8\times2$ with $24\div(8\div2)$; $73-36+24$ with $73-(36-24)$; $18\div9\times3$ with $18\div(9\div3)$.
+(Lesson: Practice 4, Problem 1) Compute and compare: $35-23+18$ with $35-\left(23-18\right)$; $24\div8\times2$ with $24\div\left(8\div2\right)$; $73-36+24$ with $73-\left(36-24\right)$; $18\div9\times3$ with $18\div\left(9\div3\right)$.
 
 ### Solution to Exercise 50
 
-$35-23+18=30$, $35-(23-18)=35-5=30$; $24\div8\times2=6$, $24\div(8\div2)=24\div4=6$; $73-36+24=61$, $73-(36-24)=73-12=61$; $18\div9\times3=6$, $18\div(9\div3)=18\div3=6$. Each pair has the same result. $\blacksquare$
+$35-23+18=30$, $35-\left(23-18\right)=35-5=30$; $24\div8\times2=6$, $24\div\left(8\div2\right)=24\div4=6$; $73-36+24=61$, $73-\left(36-24\right)=73-12=61$; $18\div9\times3=6$, $18\div\left(9\div3\right)=18\div3=6$. Each pair has the same result. $\blacksquare$
 
 ### Exercise 51
 
@@ -346,11 +346,11 @@ $81-6\times9=81-54=27$ people. $\blacksquare$
 
 ### Exercise 53
 
-(Lesson: Practice 4, Problem 4) Use $6\times(5+4)$ to tell a little math story.
+(Lesson: Practice 4, Problem 4) Use $6\times\left(5+4\right)$ to tell a little math story.
 
 ### Solution to Exercise 53
 
-E.g. each box has $6$ cakes; first buy $5$ boxes then $4$ more; how many in all? $(5+4)$ boxes make $9$ boxes, $6\times9=54$ cakes. The story is not unique, as long as it says add first then multiply. $\blacksquare$
+E.g. each box has $6$ cakes; first buy $5$ boxes then $4$ more; how many in all? $\left(5+4\right)$ boxes make $9$ boxes, $6\times9=54$ cakes. The story is not unique, as long as it says add first then multiply. $\blacksquare$
 
 ### Exercise 54
 
@@ -358,4 +358,4 @@ E.g. each box has $6$ cakes; first buy $5$ boxes then $4$ more; how many in all?
 
 ### Solution to Exercise 54
 
-Add first then multiply: $(6+\square)\times5=40$, $6+\square=8$, $\square=2$. Correct: $6+2\times5=6+10=16$. $\blacksquare$
+Add first then multiply: $\left(6+\square\right)\times5=40$, $6+\square=8$, $\square=2$. Correct: $6+2\times5=6+10=16$. $\blacksquare$

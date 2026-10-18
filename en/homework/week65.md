@@ -10,7 +10,7 @@
 
 ### Solution to Exercise 214
 
-By **Definition 8.8.1** (Mean $=$ total $\div$ number of parts), $(8+6+9+8+14)\div5=45\div5=9$ (books). $\blacksquare$
+By **Definition 8.8.1** (Mean $=$ total $\div$ number of parts), $\left(8+6+9+8+14\right)\div5=45\div5=9$ (books). $\blacksquare$
 
 ### Exercise 215
 
@@ -18,7 +18,7 @@ By **Definition 8.8.1** (Mean $=$ total $\div$ number of parts), $(8+6+9+8+14)\d
 
 ### Solution to Exercise 215
 
-By **Definition 8.8.1** (Mean): average high $(21+21+22+24+22+21+23)\div7=154\div7=22^\circ\mathrm{C}$; average low $(10+10+12+12+11+11+11)\div7=77\div7=11^\circ\mathrm{C}$. $\blacksquare$
+By **Definition 8.8.1** (Mean): average high $\left(21+21+22+24+22+21+23\right)\div7=154\div7=22^\circ\mathrm{C}$; average low $\left(10+10+12+12+11+11+11\right)\div7=77\div7=11^\circ\mathrm{C}$. $\blacksquare$
 
 ### Exercise 216
 
@@ -26,7 +26,7 @@ By **Definition 8.8.1** (Mean): average high $(21+21+22+24+22+21+23)\div7=154\di
 
 ### Solution to Exercise 216
 
-By **Definition 8.8.1** (Mean), $(15+17+14+16+18)\div5=80\div5=16$ (min). $\blacksquare$
+By **Definition 8.8.1** (Mean), $\left(15+17+14+16+18\right)\div5=80\div5=16$ (min). $\blacksquare$
 
 ### Exercise 217
 
@@ -42,7 +42,7 @@ By **Definition 8.8.1** (the mean reflects the whole, not every data point): (1)
 
 ### Solution to Exercise 218
 
-By **Definition 8.8.1** (Mean): average height $(139+140+135+138+139+137)\div6=828\div6=138\,\mathrm{cm}$; average weight $(34+38+35+34+36+33)\div6=210\div6=35\,\mathrm{kg}$. $\blacksquare$
+By **Definition 8.8.1** (Mean): average height $\left(139+140+135+138+139+137\right)\div6=828\div6=138\,\mathrm{cm}$; average weight $\left(34+38+35+34+36+33\right)\div6=210\div6=35\,\mathrm{kg}$. $\blacksquare$
 
 ### Exercise 219
 
@@ -58,7 +58,7 @@ The numbers of people differ, so by **Definition 8.8.1** (Mean) compare the aver
 
 ### Solution to Exercise 220
 
-(1) By **Definition 8.8.1** (Mean), $(12+11+11+10+12+9+9)\div7=74\div7\approx10.6\,\mathrm{kg}$. (2) Stock about $10\sim11\,\mathrm{kg}$ per day on average, adjusting according to the sales trend. $\blacksquare$
+(1) By **Definition 8.8.1** (Mean), $\left(12+11+11+10+12+9+9\right)\div7=74\div7\approx10.6\,\mathrm{kg}$. (2) Stock about $10\sim11\,\mathrm{kg}$ per day on average, adjusting according to the sales trend. $\blacksquare$
 
 ### Exercise 221
 
@@ -114,4 +114,4 @@ By **Definition 8.8.2** (Double Bar Chart), landline users were most in $2016$ a
 
 ### Solution to Exercise 227
 
-By **Definition 8.8.1** (Mean), $(92+91+93+95+94)\div5=465\div5=93$ (points). Dropping the extreme scores avoids one judge's too-high or too-low score skewing the average, making the result fairer. $\blacksquare$
+By **Definition 8.8.1** (Mean), $\left(92+91+93+95+94\right)\div5=465\div5=93$ (points). Dropping the extreme scores avoids one judge's too-high or too-low score skewing the average, making the result fairer. $\blacksquare$

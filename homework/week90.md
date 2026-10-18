@@ -50,7 +50,7 @@
 
 ### 练习三十七
 
-(课时 一个数乘分数 练习三 复习巩固 第 1 题) 这块地为 $1$ 公顷, 先涂出 $\frac{1}{5}$ 公顷, 再涂出 $\frac{1}{5}$ 公顷的 $\frac{3}{4}$, 涂色部分是多少公顷? 列式 $(\;)\times(\;)$.
+(课时 一个数乘分数 练习三 复习巩固 第 1 题) 这块地为 $1$ 公顷, 先涂出 $\frac{1}{5}$ 公顷, 再涂出 $\frac{1}{5}$ 公顷的 $\frac{3}{4}$, 涂色部分是多少公顷? 列式 $\left(\;\right)\times\left(\;\right)$.
 
 ![week90-1.svg](../figures/week90-1.svg){width=50%}
 
@@ -188,27 +188,27 @@ $1.2\times\frac{3}{5}=0.72$; $2.5\times\frac{3}{5}=1.5$; $1.4\times\frac{5}{6}=\
 
 ### 练习五十四
 
-(课时 分数小数混合运算及运算律 想一想) 分数混合运算的顺序和整数相同. 你会计算 $(\frac{4}{5}+\frac{1}{2})\times2$ 与 $\frac{4}{5}\times2+\frac{1}{2}\times2$ 吗? 每组两个算式是否相等?
+(课时 分数小数混合运算及运算律 想一想) 分数混合运算的顺序和整数相同. 你会计算 $\left(\frac{4}{5}+\frac{1}{2}\right)\times2$ 与 $\frac{4}{5}\times2+\frac{1}{2}\times2$ 吗? 每组两个算式是否相等?
 
 ### 解答 练习五十四
 
-由**定义 11.2.3** (分数混合运算与运算律): $(\frac{4}{5}+\frac{1}{2})\times2=\frac{13}{10}\times2=\frac{13}{5}$; $\frac{4}{5}\times2+\frac{1}{2}\times2=\frac{8}{5}+1=\frac{13}{5}$. 两式相等, 正是乘法分配律. $\blacksquare$
+由**定义 11.2.3** (分数混合运算与运算律): $\left(\frac{4}{5}+\frac{1}{2}\right)\times2=\frac{13}{10}\times2=\frac{13}{5}$; $\frac{4}{5}\times2+\frac{1}{2}\times2=\frac{8}{5}+1=\frac{13}{5}$. 两式相等, 正是乘法分配律. $\blacksquare$
 
 ### 练习五十五
 
-(课时 分数小数混合运算及运算律 例4) 用简便方法计算: $\frac{3}{5}\times(\frac{1}{6}\times5)$; $(\frac{5}{6}+\frac{1}{4})\times12$; 连乘 $\frac{2}{3}\times\frac{8}{7}\times14\times\frac{9}{4}$.
+(课时 分数小数混合运算及运算律 例4) 用简便方法计算: $\frac{3}{5}\times\left(\frac{1}{6}\times5\right)$; $\left(\frac{5}{6}+\frac{1}{4}\right)\times12$; 连乘 $\frac{2}{3}\times\frac{8}{7}\times14\times\frac{9}{4}$.
 
 ### 解答 练习五十五
 
-由**定义 11.2.3** (分数混合运算与运算律): $\frac{3}{5}\times(\frac{1}{6}\times5)=\frac{3}{5}\times(5\times\frac{1}{6})=3\times\frac{1}{6}=\frac{1}{2}$ (交换律); $(\frac{5}{6}+\frac{1}{4})\times12=\frac{5}{6}\times12+\frac{1}{4}\times12=10+3=13$ (分配律); 连乘先约分得 $24$. $\blacksquare$
+由**定义 11.2.3** (分数混合运算与运算律): $\frac{3}{5}\times\left(\frac{1}{6}\times5\right)=\frac{3}{5}\times\left(5\times\frac{1}{6}\right)=3\times\frac{1}{6}=\frac{1}{2}$ (交换律); $\left(\frac{5}{6}+\frac{1}{4}\right)\times12=\frac{5}{6}\times12+\frac{1}{4}\times12=10+3=13$ (分配律); 连乘先约分得 $24$. $\blacksquare$
 
 ### 练习五十六
 
-(课时 分数小数混合运算及运算律 做一做 第 1 题) 运用运算律进行简便计算, 并说一说运用了什么运算律: $\frac{2}{3}\times\frac{1}{7}\times3$; $(\frac{8}{9}+\frac{4}{27})\times27$; $87\times\frac{3}{86}$.
+(课时 分数小数混合运算及运算律 做一做 第 1 题) 运用运算律进行简便计算, 并说一说运用了什么运算律: $\frac{2}{3}\times\frac{1}{7}\times3$; $\left(\frac{8}{9}+\frac{4}{27}\right)\times27$; $87\times\frac{3}{86}$.
 
 ### 解答 练习五十六
 
-由**定义 11.2.3** (分数混合运算与运算律): $\frac{2}{3}\times3\times\frac{1}{7}=\frac{2}{7}$ (交换律); $\frac{8}{9}\times27+\frac{4}{27}\times27=24+4=28$ (分配律); $87\times\frac{3}{86}=(86+1)\times\frac{3}{86}=3+\frac{3}{86}=3\frac{3}{86}$ (分配律). $\blacksquare$
+由**定义 11.2.3** (分数混合运算与运算律): $\frac{2}{3}\times3\times\frac{1}{7}=\frac{2}{7}$ (交换律); $\frac{8}{9}\times27+\frac{4}{27}\times27=24+4=28$ (分配律); $87\times\frac{3}{86}=\left(86+1\right)\times\frac{3}{86}=3+\frac{3}{86}=3\frac{3}{86}$ (分配律). $\blacksquare$
 
 ### 练习五十七
 
@@ -236,19 +236,19 @@ $\frac{27}{50}\times2=\frac{27}{25}$; $\frac{11}{28}\times\frac{8}{33}=\frac{2}{
 
 ### 练习六十
 
-(课时 分数小数混合运算及运算律 练习四 复习巩固 第 3 题) 计算: $\frac{1}{3}\times\frac{3}{5}+1$; $\frac{5}{7}-\frac{5}{9}\times\frac{5}{7}$; $1-\frac{15}{28}\times\frac{21}{25}$; $\frac{1}{2}+\frac{5}{4}\times\frac{4}{5}$; $\frac{1}{6}\times(5-\frac{2}{3})$; $\frac{7}{8}\times7+\frac{3}{8}$.
+(课时 分数小数混合运算及运算律 练习四 复习巩固 第 3 题) 计算: $\frac{1}{3}\times\frac{3}{5}+1$; $\frac{5}{7}-\frac{5}{9}\times\frac{5}{7}$; $1-\frac{15}{28}\times\frac{21}{25}$; $\frac{1}{2}+\frac{5}{4}\times\frac{4}{5}$; $\frac{1}{6}\times\left(5-\frac{2}{3}\right)$; $\frac{7}{8}\times7+\frac{3}{8}$.
 
 ### 解答 练习六十
 
-$\frac{1}{3}\times\frac{3}{5}+1=\frac{1}{5}+1=\frac{6}{5}$; $\frac{5}{7}-\frac{5}{9}\times\frac{5}{7}=\frac{5}{7}\times(1-\frac{5}{9})=\frac{20}{63}$; $1-\frac{15}{28}\times\frac{21}{25}=1-\frac{9}{20}=\frac{11}{20}$; $\frac{1}{2}+\frac{5}{4}\times\frac{4}{5}=\frac{1}{2}+1=\frac{3}{2}$; $\frac{1}{6}\times(5-\frac{2}{3})=\frac{1}{6}\times\frac{13}{3}=\frac{13}{18}$; $\frac{7}{8}\times7+\frac{3}{8}=\frac{49}{8}+\frac{3}{8}=\frac{13}{2}$. $\blacksquare$
+$\frac{1}{3}\times\frac{3}{5}+1=\frac{1}{5}+1=\frac{6}{5}$; $\frac{5}{7}-\frac{5}{9}\times\frac{5}{7}=\frac{5}{7}\times\left(1-\frac{5}{9}\right)=\frac{20}{63}$; $1-\frac{15}{28}\times\frac{21}{25}=1-\frac{9}{20}=\frac{11}{20}$; $\frac{1}{2}+\frac{5}{4}\times\frac{4}{5}=\frac{1}{2}+1=\frac{3}{2}$; $\frac{1}{6}\times\left(5-\frac{2}{3}\right)=\frac{1}{6}\times\frac{13}{3}=\frac{13}{18}$; $\frac{7}{8}\times7+\frac{3}{8}=\frac{49}{8}+\frac{3}{8}=\frac{13}{2}$. $\blacksquare$
 
 ### 练习六十一
 
-(课时 分数小数混合运算及运算律 练习四 复习巩固 第 4 题) 下面各题算得对吗? 把不对的改正过来: $5-3\times\frac{7}{9}=2\times\frac{7}{9}=\frac{14}{9}$; $(\frac{1}{6}+\frac{3}{4})\times6=1+\frac{3}{4}=\frac{7}{4}$.
+(课时 分数小数混合运算及运算律 练习四 复习巩固 第 4 题) 下面各题算得对吗? 把不对的改正过来: $5-3\times\frac{7}{9}=2\times\frac{7}{9}=\frac{14}{9}$; $\left(\frac{1}{6}+\frac{3}{4}\right)\times6=1+\frac{3}{4}=\frac{7}{4}$.
 
 ### 解答 练习六十一
 
-都不对. 由**定义 11.2.3** (分数混合运算与运算律), 先乘后减: $5-3\times\frac{7}{9}=5-\frac{7}{3}=\frac{8}{3}$; 分配律漏乘: $(\frac{1}{6}+\frac{3}{4})\times6=\frac{1}{6}\times6+\frac{3}{4}\times6=1+\frac{9}{2}=\frac{11}{2}$. $\blacksquare$
+都不对. 由**定义 11.2.3** (分数混合运算与运算律), 先乘后减: $5-3\times\frac{7}{9}=5-\frac{7}{3}=\frac{8}{3}$; 分配律漏乘: $\left(\frac{1}{6}+\frac{3}{4}\right)\times6=\frac{1}{6}\times6+\frac{3}{4}\times6=1+\frac{9}{2}=\frac{11}{2}$. $\blacksquare$
 
 ### 练习六十二
 
@@ -256,15 +256,15 @@ $\frac{1}{3}\times\frac{3}{5}+1=\frac{1}{5}+1=\frac{6}{5}$; $\frac{5}{7}-\frac{5
 
 ### 解答 练习六十二
 
-由**定义 11.2.3** (分数混合运算与运算律): $\frac{2}{9}\times(1-\frac{7}{16})=\frac{2}{9}\times\frac{9}{16}=\frac{1}{8}$; $\frac{2}{27}\times(4\times\frac{3}{4})=\frac{2}{27}\times3=\frac{2}{9}$; $\frac{5}{7}\times16\times\frac{42}{25}=\frac{96}{5}$; $\frac{1}{2}\times(\frac{1}{15}+\frac{1}{3})=\frac{1}{2}\times\frac{6}{15}=\frac{1}{5}$; $\frac{4}{5}\times\frac{7}{9}\times\frac{15}{8}=\frac{7}{6}$; $\frac{5}{9}\times(\frac{5}{6}+\frac{1}{6})=\frac{5}{9}$. $\blacksquare$
+由**定义 11.2.3** (分数混合运算与运算律): $\frac{2}{9}\times\left(1-\frac{7}{16}\right)=\frac{2}{9}\times\frac{9}{16}=\frac{1}{8}$; $\frac{2}{27}\times\left(4\times\frac{3}{4}\right)=\frac{2}{27}\times3=\frac{2}{9}$; $\frac{5}{7}\times16\times\frac{42}{25}=\frac{96}{5}$; $\frac{1}{2}\times\left(\frac{1}{15}+\frac{1}{3}\right)=\frac{1}{2}\times\frac{6}{15}=\frac{1}{5}$; $\frac{4}{5}\times\frac{7}{9}\times\frac{15}{8}=\frac{7}{6}$; $\frac{5}{9}\times\left(\frac{5}{6}+\frac{1}{6}\right)=\frac{5}{9}$. $\blacksquare$
 
 ### 练习六十三
 
-(课时 分数小数混合运算及运算律 练习四 复习巩固 第 6 题) 计算下面各题, 能用简便算法的就用简便算法: $\frac{11}{24}\times16$; $\frac{1}{4}\times\frac{2}{7}$; $\frac{7}{12}\times6+\frac{17}{12}\times6$; $\frac{3}{5}\times\frac{55}{6}$; $\frac{4}{9}\times5\times18$; $(14+\frac{7}{2})\times\frac{1}{14}$.
+(课时 分数小数混合运算及运算律 练习四 复习巩固 第 6 题) 计算下面各题, 能用简便算法的就用简便算法: $\frac{11}{24}\times16$; $\frac{1}{4}\times\frac{2}{7}$; $\frac{7}{12}\times6+\frac{17}{12}\times6$; $\frac{3}{5}\times\frac{55}{6}$; $\frac{4}{9}\times5\times18$; $\left(14+\frac{7}{2}\right)\times\frac{1}{14}$.
 
 ### 解答 练习六十三
 
-$\frac{11}{24}\times16=\frac{22}{3}$; $\frac{1}{4}\times\frac{2}{7}=\frac{1}{14}$; $(\frac{7}{12}+\frac{17}{12})\times6=2\times6=12$; $\frac{3}{5}\times\frac{55}{6}=\frac{11}{2}$; $\frac{4}{9}\times18\times5=40$; $14\times\frac{1}{14}+\frac{7}{2}\times\frac{1}{14}=1+\frac{1}{4}=\frac{5}{4}$. $\blacksquare$
+$\frac{11}{24}\times16=\frac{22}{3}$; $\frac{1}{4}\times\frac{2}{7}=\frac{1}{14}$; $\left(\frac{7}{12}+\frac{17}{12}\right)\times6=2\times6=12$; $\frac{3}{5}\times\frac{55}{6}=\frac{11}{2}$; $\frac{4}{9}\times18\times5=40$; $14\times\frac{1}{14}+\frac{7}{2}\times\frac{1}{14}=1+\frac{1}{4}=\frac{5}{4}$. $\blacksquare$
 
 ### 练习六十四
 
@@ -272,7 +272,7 @@ $\frac{11}{24}\times16=\frac{22}{3}$; $\frac{1}{4}\times\frac{2}{7}=\frac{1}{14}
 
 ### 解答 练习六十四
 
-三角形面积 $=\frac{1}{2}\times\frac{3}{4}\times\frac{4}{9}=\frac{1}{6}\,\text{dm}^2$; 梯形面积 $=\frac{1}{2}\times(\frac{11}{18}+\frac{8}{9})\times\frac{2}{3}=\frac{1}{2}\times\frac{27}{18}\times\frac{2}{3}=\frac{1}{2}\,\text{dm}^2$. $\blacksquare$
+三角形面积 $=\frac{1}{2}\times\frac{3}{4}\times\frac{4}{9}=\frac{1}{6}\,\text{dm}^2$; 梯形面积 $=\frac{1}{2}\times\left(\frac{11}{18}+\frac{8}{9}\right)\times\frac{2}{3}=\frac{1}{2}\times\frac{27}{18}\times\frac{2}{3}=\frac{1}{2}\,\text{dm}^2$. $\blacksquare$
 
 ### 练习六十五
 
@@ -280,7 +280,7 @@ $\frac{11}{24}\times16=\frac{22}{3}$; $\frac{1}{4}\times\frac{2}{7}=\frac{1}{14}
 
 ### 解答 练习六十五
 
-由**定义 11.2.3** (分数混合运算与运算律): $\frac{1}{4}\times(9+11)=\frac{1}{4}\times20=5$ (张). $\blacksquare$
+由**定义 11.2.3** (分数混合运算与运算律): $\frac{1}{4}\times\left(9+11\right)=\frac{1}{4}\times20=5$ (张). $\blacksquare$
 
 ### 练习六十六
 
@@ -296,7 +296,7 @@ $\frac{11}{24}\times16=\frac{22}{3}$; $\frac{1}{4}\times\frac{2}{7}=\frac{1}{14}
 
 ### 解答 练习六十七
 
-由**定义 11.2.3** (分数混合运算与运算律): $2400\times(\frac{1}{3}+\frac{3}{8}+\frac{1}{6})=2400\times\frac{5}{8}=1500$ (万千瓦时). $\blacksquare$
+由**定义 11.2.3** (分数混合运算与运算律): $2400\times\left(\frac{1}{3}+\frac{3}{8}+\frac{1}{6}\right)=2400\times\frac{5}{8}=1500$ (万千瓦时). $\blacksquare$
 
 ### 练习六十八
 
@@ -320,7 +320,7 @@ $6670\times\frac{9}{10}+297=6003+297=6300\,\text{km}$. $\blacksquare$
 
 ### 解答 练习七十
 
-规律: 分子为 $1$, 分母是相邻自然数的两个分数, 它们的差等于它们的积, 即 $\frac{1}{n}-\frac{1}{n+1}=\frac{1}{n(n+1)}=\frac{1}{n}\times\frac{1}{n+1}$. 如 $\frac{1}{5}-\frac{1}{6}=\frac{1}{30}=\frac{1}{5}\times\frac{1}{6}$. $\blacksquare$
+规律: 分子为 $1$, 分母是相邻自然数的两个分数, 它们的差等于它们的积, 即 $\frac{1}{n}-\frac{1}{n+1}=\frac{1}{n\left(n+1\right)}=\frac{1}{n}\times\frac{1}{n+1}$. 如 $\frac{1}{5}-\frac{1}{6}=\frac{1}{30}=\frac{1}{5}\times\frac{1}{6}$. $\blacksquare$
 
 ### 练习七十一
 
@@ -328,7 +328,7 @@ $6670\times\frac{9}{10}+297=6003+297=6300\,\text{km}$. $\blacksquare$
 
 ### 解答 练习七十一
 
-由**定义 11.2.4** (连续求一个数的几分之几): $4800\times\frac{3}{5}\times\frac{1}{4}=2880\times\frac{1}{4}=720\,\text{m}^2$. 或 $4800\times(\frac{3}{5}\times\frac{1}{4})=4800\times\frac{3}{20}=720\,\text{m}^2$. $\blacksquare$
+由**定义 11.2.4** (连续求一个数的几分之几): $4800\times\frac{3}{5}\times\frac{1}{4}=2880\times\frac{1}{4}=720\,\text{m}^2$. 或 $4800\times\left(\frac{3}{5}\times\frac{1}{4}\right)=4800\times\frac{3}{20}=720\,\text{m}^2$. $\blacksquare$
 
 ### 练习七十二
 
@@ -352,7 +352,7 @@ $6670\times\frac{9}{10}+297=6003+297=6300\,\text{km}$. $\blacksquare$
 
 ### 解答 练习七十四
 
-由**定义 11.2.2** (一个数乘分数): 先求减少量 $100\times\frac{1}{4}=25\,\text{kg}$, 再 $100-25=75\,\text{kg}$; 或先求现在是原来的几分之几 $100\times(1-\frac{1}{4})=100\times\frac{3}{4}=75\,\text{kg}$. $\blacksquare$
+由**定义 11.2.2** (一个数乘分数): 先求减少量 $100\times\frac{1}{4}=25\,\text{kg}$, 再 $100-25=75\,\text{kg}$; 或先求现在是原来的几分之几 $100\times\left(1-\frac{1}{4}\right)=100\times\frac{3}{4}=75\,\text{kg}$. $\blacksquare$
 
 ### 练习七十五
 
@@ -360,7 +360,7 @@ $6670\times\frac{9}{10}+297=6003+297=6300\,\text{km}$. $\blacksquare$
 
 ### 解答 练习七十五
 
-由**定义 11.2.2** (一个数乘分数): $75\times(1+\frac{4}{5})=75\times\frac{9}{5}=135$ (次). $\blacksquare$
+由**定义 11.2.2** (一个数乘分数): $75\times\left(1+\frac{4}{5}\right)=75\times\frac{9}{5}=135$ (次). $\blacksquare$
 
 ### 练习七十六
 
@@ -392,7 +392,7 @@ $6670\times\frac{9}{10}+297=6003+297=6300\,\text{km}$. $\blacksquare$
 
 ### 解答 练习七十九
 
-(1) $60\times(1+\frac{1}{3})=80$ (朵); (2) $180\times(1-\frac{1}{6})=150$ (人). $\blacksquare$
+(1) $60\times\left(1+\frac{1}{3}\right)=80$ (朵); (2) $180\times\left(1-\frac{1}{6}\right)=150$ (人). $\blacksquare$
 
 ### 练习八十
 
@@ -400,7 +400,7 @@ $6670\times\frac{9}{10}+297=6003+297=6300\,\text{km}$. $\blacksquare$
 
 ### 解答 练习八十
 
-由**定义 11.2.2** (一个数乘分数): $80\times(1+\frac{5}{8})=80\times\frac{13}{8}=130$ (千米/时). $\blacksquare$
+由**定义 11.2.2** (一个数乘分数): $80\times\left(1+\frac{5}{8}\right)=80\times\frac{13}{8}=130$ (千米/时). $\blacksquare$
 
 ### 练习八十一
 
@@ -408,7 +408,7 @@ $6670\times\frac{9}{10}+297=6003+297=6300\,\text{km}$. $\blacksquare$
 
 ### 解答 练习八十一
 
-由**定义 11.2.2** (一个数乘分数): $5\times(1-\frac{4}{5})=5\times\frac{1}{5}=1$ (小时). $\blacksquare$
+由**定义 11.2.2** (一个数乘分数): $5\times\left(1-\frac{4}{5}\right)=5\times\frac{1}{5}=1$ (小时). $\blacksquare$
 
 ### 练习八十二
 
@@ -416,7 +416,7 @@ $6670\times\frac{9}{10}+297=6003+297=6300\,\text{km}$. $\blacksquare$
 
 ### 解答 练习八十二
 
-由**定义 11.2.2** (一个数乘分数): (1) $4\times\frac{1}{20}=\frac{1}{5}\,\text{t}$; (2) $4\times(1+\frac{1}{2})=6\,\text{t}$. $\blacksquare$
+由**定义 11.2.2** (一个数乘分数): (1) $4\times\frac{1}{20}=\frac{1}{5}\,\text{t}$; (2) $4\times\left(1+\frac{1}{2}\right)=6\,\text{t}$. $\blacksquare$
 
 ### 练习八十三
 
@@ -444,11 +444,11 @@ $8$ 分钟的 $\frac{3}{4}$ 是 $6$ 分钟, 再加 $20$ 秒, 共 $6$ 分 $20$ �
 
 ### 练习八十六
 
-(课时 整理和复习 练习六 复习巩固 第 2 题) 用运算律进行简便计算: $\frac{1}{3}\times\frac{5}{16}\times\frac{3}{5}$; $(\frac{1}{5}+\frac{2}{3})\times15$; $\frac{4}{7}\times\frac{5}{9}+\frac{3}{7}\times\frac{5}{9}$; $\frac{11}{9}\times\frac{3}{20}\times\frac{9}{11}$; $\frac{2}{5}+\frac{1}{4}+\frac{3}{4}$; $0.75\times\frac{3}{7}+\frac{1}{4}\times\frac{3}{7}$.
+(课时 整理和复习 练习六 复习巩固 第 2 题) 用运算律进行简便计算: $\frac{1}{3}\times\frac{5}{16}\times\frac{3}{5}$; $\left(\frac{1}{5}+\frac{2}{3}\right)\times15$; $\frac{4}{7}\times\frac{5}{9}+\frac{3}{7}\times\frac{5}{9}$; $\frac{11}{9}\times\frac{3}{20}\times\frac{9}{11}$; $\frac{2}{5}+\frac{1}{4}+\frac{3}{4}$; $0.75\times\frac{3}{7}+\frac{1}{4}\times\frac{3}{7}$.
 
 ### 解答 练习八十六
 
-由**定义 11.2.3** (分数混合运算与运算律): $\frac{1}{3}\times\frac{3}{5}\times\frac{5}{16}=\frac{1}{16}$; $\frac{1}{5}\times15+\frac{2}{3}\times15=3+10=13$; $\frac{5}{9}\times(\frac{4}{7}+\frac{3}{7})=\frac{5}{9}$; $\frac{11}{9}\times\frac{9}{11}\times\frac{3}{20}=\frac{3}{20}$; $\frac{2}{5}+(\frac{1}{4}+\frac{3}{4})=\frac{7}{5}$; $\frac{3}{7}\times(0.75+0.25)=\frac{3}{7}$. $\blacksquare$
+由**定义 11.2.3** (分数混合运算与运算律): $\frac{1}{3}\times\frac{3}{5}\times\frac{5}{16}=\frac{1}{16}$; $\frac{1}{5}\times15+\frac{2}{3}\times15=3+10=13$; $\frac{5}{9}\times\left(\frac{4}{7}+\frac{3}{7}\right)=\frac{5}{9}$; $\frac{11}{9}\times\frac{9}{11}\times\frac{3}{20}=\frac{3}{20}$; $\frac{2}{5}+\left(\frac{1}{4}+\frac{3}{4}\right)=\frac{7}{5}$; $\frac{3}{7}\times\left(0.75+0.25\right)=\frac{3}{7}$. $\blacksquare$
 
 ### 练习八十七
 
@@ -456,7 +456,7 @@ $8$ 分钟的 $\frac{3}{4}$ 是 $6$ 分钟, 再加 $20$ 秒, 共 $6$ 分 $20$ �
 
 ### 解答 练习八十七
 
-由**定义 11.2.2** (一个数乘分数): $1850\times(1+\frac{15}{37})=1850\times\frac{52}{37}=2600$ (小时). $\blacksquare$
+由**定义 11.2.2** (一个数乘分数): $1850\times\left(1+\frac{15}{37}\right)=1850\times\frac{52}{37}=2600$ (小时). $\blacksquare$
 
 ### 练习八十八
 
@@ -480,4 +480,4 @@ $70\times\frac{1}{3}\times15=350\,\text{t}$. $\blacksquare$
 
 ### 解答 练习九十
 
-填表即行因子乘列因子. 不同行不同列取 $3$ 个数连乘, 每个行因子和列因子各用一次, 结果都等于 $(\frac{7}{4}\times\frac{6}{5}\times\frac{5}{8})\times(\frac{1}{2}\times\frac{2}{3}\times\frac{3}{5})=\frac{21}{16}\times\frac{1}{5}=\frac{21}{80}$, 与取法无关. $\blacksquare$
+填表即行因子乘列因子. 不同行不同列取 $3$ 个数连乘, 每个行因子和列因子各用一次, 结果都等于 $\left(\frac{7}{4}\times\frac{6}{5}\times\frac{5}{8}\right)\times\left(\frac{1}{2}\times\frac{2}{3}\times\frac{3}{5}\right)=\frac{21}{16}\times\frac{1}{5}=\frac{21}{80}$, 与取法无关. $\blacksquare$

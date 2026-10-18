@@ -42,7 +42,7 @@ By **Definition 5.9.3** (Review of Common Measures and Figures), match according
 
 ### Exercise 273
 
-(Lesson: Practice 19, Problem 1) Fill in the appropriate numbers: $4$ kilometers $=(\ )$ meters; $70$ centimeters $=(\ )$ decimeters; $5$ centimeters $=(\ )$ millimeters; $8000$ kilograms $=(\ )$ tons.
+(Lesson: Practice 19, Problem 1) Fill in the appropriate numbers: $4$ kilometers $=\left(\ \right)$ meters; $70$ centimeters $=\left(\ \right)$ decimeters; $5$ centimeters $=\left(\ \right)$ millimeters; $8000$ kilograms $=\left(\ \right)$ tons.
 
 ### Solution to Exercise 273
 
@@ -82,11 +82,11 @@ $42\times6=252$; $192\times3=576$; $302\times8=2416$; $1700\times3=5100$. $\blac
 
 ### Exercise 278
 
-(Lesson: Practice 19, Problem 6) Compute: $173-26+35$; $54-(62-34)$; $(182-18)\times8$; $63\div(44-37)$; $72+8\times65$; $87\times5+13\times5$.
+(Lesson: Practice 19, Problem 6) Compute: $173-26+35$; $54-\left(62-34\right)$; $\left(182-18\right)\times8$; $63\div\left(44-37\right)$; $72+8\times65$; $87\times5+13\times5$.
 
 ### Solution to Exercise 278
 
-By **Definition 5.9.1**: $173-26+35=182$; $54-(62-34)=54-28=26$; $(182-18)\times8=164\times8=1312$; $63\div(44-37)=63\div7=9$; $72+8\times65=72+520=592$; $87\times5+13\times5=(87+13)\times5=500$. $\blacksquare$
+By **Definition 5.9.1**: $173-26+35=182$; $54-\left(62-34\right)=54-28=26$; $\left(182-18\right)\times8=164\times8=1312$; $63\div\left(44-37\right)=63\div7=9$; $72+8\times65=72+520=592$; $87\times5+13\times5=\left(87+13\right)\times5=500$. $\blacksquare$
 
 ### Exercise 279
 
@@ -110,7 +110,7 @@ Xiaohong: $160-8=152$; Xiaoqiang jumped $180-152=28$ more than Xiaohong. $\black
 
 ### Solution to Exercise 281
 
-$(4+3)\times8=56$, and $56>50$, so they can finish. $\blacksquare$
+$\left(4+3\right)\times8=56$, and $56>50$, so they can finish. $\blacksquare$
 
 ### Exercise 282
 
@@ -118,7 +118,7 @@ $(4+3)\times8=56$, and $56>50$, so they can finish. $\blacksquare$
 
 ### Solution to Exercise 282
 
-$(20-4)\div2=16\div2=8$. Xiaojun collected $8$. $\blacksquare$
+$\left(20-4\right)\div2=16\div2=8$. Xiaojun collected $8$. $\blacksquare$
 
 ### Exercise 283
 

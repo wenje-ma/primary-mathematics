@@ -104,7 +104,7 @@ By **Definition 6.3.3** (Perimeter), measure the length of each side with a rule
 
 ### Solution to Exercise 109
 
-By **Definition 6.3.4** (Perimeters of Rectangles and Squares), $(5+3)\times2=16$ (meters). $\blacksquare$
+By **Definition 6.3.4** (Perimeters of Rectangles and Squares), $\left(5+3\right)\times2=16$ (meters). $\blacksquare$
 
 ### Exercise 110
 
@@ -120,7 +120,7 @@ By **Definition 6.3.3**, lay the sides of the figure end to end into one segment
 
 ### Solution to Exercise 111
 
-$16=1\times16=2\times8=4\times4$. The perimeters of the three arrangements: $(1+16)\times2=34$, $(2+8)\times2=20$, $4\times4=16$. The $4\times4$ square has the shortest perimeter. $\blacksquare$
+$16=1\times16=2\times8=4\times4$. The perimeters of the three arrangements: $\left(1+16\right)\times2=34$, $\left(2+8\right)\times2=20$, $4\times4=16$. The $4\times4$ square has the shortest perimeter. $\blacksquare$
 
 ### Exercise 112
 
@@ -168,7 +168,7 @@ By **Definition 6.3.3**, use the compass to lay each figure's perimeter into a s
 
 ### Solution to Exercise 117
 
-By **Definition 6.3.4**, $(28+15)\times2=86$ (meters). $\blacksquare$
+By **Definition 6.3.4**, $\left(28+15\right)\times2=86$ (meters). $\blacksquare$
 
 ### Exercise 118
 
@@ -184,7 +184,7 @@ By **Definition 6.3.3**, add up each figure's side lengths to compare. Figures o
 
 ### Solution to Exercise 119
 
-All four sides: $(6+3)\times2=18$ (meters). To minimize with one side against a wall, put the long side against the wall, needing only $6+3+3=12$ (meters). $\blacksquare$
+All four sides: $\left(6+3\right)\times2=18$ (meters). To minimize with one side against a wall, put the long side against the wall, needing only $6+3+3=12$ (meters). $\blacksquare$
 
 ### Exercise 120
 
@@ -192,7 +192,7 @@ All four sides: $(6+3)\times2=18$ (meters). To minimize with one side against a 
 
 ### Solution to Exercise 120
 
-Exercise book perimeter $(21+15)\times2=72$ (cm); desk width $24\div2-7=5$ (dm); blackboard length $10\div2-1=4$ (m). $\blacksquare$
+Exercise book perimeter $\left(21+15\right)\times2=72$ (cm); desk width $24\div2-7=5$ (dm); blackboard length $10\div2-1=4$ (m). $\blacksquare$
 
 ### Exercise 121
 
@@ -208,7 +208,7 @@ By **Definition 6.3.4**, the side length is $=320\div4=80$ (cm). $\blacksquare$
 
 ### Solution to Exercise 122
 
-The length is $=4\times3=12$ (cm), perimeter $(12+4)\times2=32$ (cm). $\blacksquare$
+The length is $=4\times3=12$ (cm), perimeter $\left(12+4\right)\times2=32$ (cm). $\blacksquare$
 
 ### Exercise 123
 
@@ -216,7 +216,7 @@ The length is $=4\times3=12$ (cm), perimeter $(12+4)\times2=32$ (cm). $\blacksqu
 
 ### Solution to Exercise 123
 
-$6=1\times6=2\times3$. Arranged in $2$ rows of $3$ each (length $6$ cm width $4$ cm), the perimeter $(6+4)\times2=20$ cm is smallest. To form a square needs $3\times3=9$, adding at least $9-6=3$ more; the square has side $6$ cm and perimeter $6\times4=24$ cm. $\blacksquare$
+$6=1\times6=2\times3$. Arranged in $2$ rows of $3$ each (length $6$ cm width $4$ cm), the perimeter $\left(6+4\right)\times2=20$ cm is smallest. To form a square needs $3\times3=9$, adding at least $9-6=3$ more; the square has side $6$ cm and perimeter $6\times4=24$ cm. $\blacksquare$
 
 ### Exercise 124
 
@@ -224,7 +224,7 @@ $6=1\times6=2\times3$. Arranged in $2$ rows of $3$ each (length $6$ cm width $4$
 
 ### Solution to Exercise 124
 
-$18=1\times18=2\times9=3\times6$; arranged in $3$ rows of $6$ each, closest to a square, the length is $6\times2=12$ dm, width $3\times2=6$ dm, and the border $(12+6)\times2=36$ dm is minimal. $\blacksquare$
+$18=1\times18=2\times9=3\times6$; arranged in $3$ rows of $6$ each, closest to a square, the length is $6\times2=12$ dm, width $3\times2=6$ dm, and the border $\left(12+6\right)\times2=36$ dm is minimal. $\blacksquare$
 
 ### Exercise 125
 
@@ -264,7 +264,7 @@ By **Definition 6.3.3**, add up the outer sides of the combined figure in order 
 
 ### Solution to Exercise 129
 
-The rectangle's length is two square side lengths; the square side is $36\div2=18$ (cm), square perimeter $18\times4=72$ (cm); the rectangle's width is $18$ cm, perimeter $(36+18)\times2=108$ (cm). $\blacksquare$
+The rectangle's length is two square side lengths; the square side is $36\div2=18$ (cm), square perimeter $18\times4=72$ (cm); the rectangle's width is $18$ cm, perimeter $\left(36+18\right)\times2=108$ (cm). $\blacksquare$
 
 ### Exercise 130
 

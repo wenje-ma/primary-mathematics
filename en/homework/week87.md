@@ -18,7 +18,7 @@ By **Definition 10.10.1** (Optimal Strategy for Finding the Defective), put 1 bo
 
 ### Solution to Exercise 139
 
-By **Definition 10.10.1** (Optimal Strategy for Finding the Defective) and **Definition 10.10.2** (Number of Weighings Rule), 8 is in the $4\sim9$ range, so at least $2$ weighings. Split 8 into $(3,3,2)$: put 3 on each side; if balanced, the defective is among the remaining 2 and needs 1 more weighing; if not, the heavier side's 3 need 1 more. Total 2. $\blacksquare$
+By **Definition 10.10.1** (Optimal Strategy for Finding the Defective) and **Definition 10.10.2** (Number of Weighings Rule), 8 is in the $4\sim9$ range, so at least $2$ weighings. Split 8 into $\left(3,3,2\right)$: put 3 on each side; if balanced, the defective is among the remaining 2 and needs 1 more weighing; if not, the heavier side's 3 need 1 more. Total 2. $\blacksquare$
 
 ### Exercise 140
 
@@ -26,7 +26,7 @@ By **Definition 10.10.1** (Optimal Strategy for Finding the Defective) and **Def
 
 ### Solution to Exercise 140
 
-By **Definition 10.10.1** (Optimal Strategy for Finding the Defective), split 9 evenly into $(3,3,3)$: put 3 on each side to find the group of 3 containing the defective; then weigh 2 of those 3 a second time — if balanced the remaining is defective, if not the heavier is. Total $2$ weighings. $\blacksquare$
+By **Definition 10.10.1** (Optimal Strategy for Finding the Defective), split 9 evenly into $\left(3,3,3\right)$: put 3 on each side to find the group of 3 containing the defective; then weigh 2 of those 3 a second time — if balanced the remaining is defective, if not the heavier is. Total $2$ weighings. $\blacksquare$
 
 ### Exercise 141
 
@@ -34,7 +34,7 @@ By **Definition 10.10.1** (Optimal Strategy for Finding the Defective), split 9 
 
 ### Solution to Exercise 141
 
-By **Definition 10.10.2** (Number of Weighings Rule), 5 is in the $4\sim9$ range, so at least $2$ weighings. Split 5 into $(2,2,1)$: put 2 on each side; if balanced, the remaining 1 is defective; if not, weigh the lighter side's 2 once more. $\blacksquare$
+By **Definition 10.10.2** (Number of Weighings Rule), 5 is in the $4\sim9$ range, so at least $2$ weighings. Split 5 into $\left(2,2,1\right)$: put 2 on each side; if balanced, the remaining 1 is defective; if not, weigh the lighter side's 2 once more. $\blacksquare$
 
 ### Exercise 142
 

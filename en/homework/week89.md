@@ -1,42 +1,42 @@
 # Assignment 89
 
-> **Definition 11.1.1** (Ordered Pairs) <br>Two numbers give a point's position in the plane; the first is the column, the second is the row, written $(a,b)$. Points in the same column share the first number; points in the same row share the second.
+> **Definition 11.1.1** (Ordered Pairs) <br>Two numbers give a point's position in the plane; the first is the column, the second is the row, written $\left(a,b\right)$. Points in the same column share the first number; points in the same row share the second.
 >
 > **Definition 11.1.2** (Determining Position by Direction and Distance) <br>To fix an object's exact position in the plane, first choose a reference point, then know the object's direction and distance from it. Direction is usually described by an angle no more than $45^{\circ}$, e.g. "north by west $40^{\circ}$"; on a map, segment length represents actual distance at the given scale.
 
 ### Exercise 1
 
-(Lesson: Determining Position by Ordered Pairs, Example 1) In the teacher's seating chart, Zhang Liang is in column $2$, row $3$, written as $(2,3)$. (1) What ordered pairs give Wang Yan's and Zhao Xue's positions? What's the difference? (2) $(6,3)$ is Wang Le's position; what column and row?
+(Lesson: Determining Position by Ordered Pairs, Example 1) In the teacher's seating chart, Zhang Liang is in column $2$, row $3$, written as $\left(2,3\right)$. (1) What ordered pairs give Wang Yan's and Zhao Xue's positions? What's the difference? (2) $\left(6,3\right)$ is Wang Le's position; what column and row?
 
 ### Solution to Exercise 1
 
-By **Definition 11.1.1** (Ordered Pairs), first number = column, second = row: Wang Yan is column $3$ row $4$, i.e. $(3,4)$; Zhao Xue is column $4$ row $3$, i.e. $(4,3)$. The two numbers are swapped. $(6,3)$ means column $6$, row $3$. $\blacksquare$
+By **Definition 11.1.1** (Ordered Pairs), first number = column, second = row: Wang Yan is column $3$ row $4$, i.e. $\left(3,4\right)$; Zhao Xue is column $4$ row $3$, i.e. $\left(4,3\right)$. The two numbers are swapped. $\left(6,3\right)$ means column $6$, row $3$. $\blacksquare$
 
 ### Exercise 2
 
-(Lesson: Ordered Pairs, Say It) If Zhou Ming is at $(1,3)$, can you give Zhang Liang, Sun Fang, Li Xiaodong, Wang Yan, Zhao Xue? Say: which classmates are at $(2,a)$? At $(b,3)$? ($a,b$ are nonzero integers.)
+(Lesson: Ordered Pairs, Say It) If Zhou Ming is at $\left(1,3\right)$, can you give Zhang Liang, Sun Fang, Li Xiaodong, Wang Yan, Zhao Xue? Say: which classmates are at $\left(2,a\right)$? At $\left(b,3\right)$? ($a,b$ are nonzero integers.)
 
 ### Solution to Exercise 2
 
-By **Definition 11.1.1** (Ordered Pairs): Zhang Liang $(2,3)$, Sun Fang $(2,2)$, Li Xiaodong $(2,1)$, Wang Yan $(3,4)$, Zhao Xue $(4,3)$. $(2,a)$ means classmates in column $2$ (Zhang Liang, Sun Fang, Li Xiaodong); $(b,3)$ means classmates in row $3$ (Zhou Ming, Zhang Liang, Zhao Xue). $\blacksquare$
+By **Definition 11.1.1** (Ordered Pairs): Zhang Liang $\left(2,3\right)$, Sun Fang $\left(2,2\right)$, Li Xiaodong $\left(2,1\right)$, Wang Yan $\left(3,4\right)$, Zhao Xue $\left(4,3\right)$. $\left(2,a\right)$ means classmates in column $2$ (Zhang Liang, Sun Fang, Li Xiaodong); $\left(b,3\right)$ means classmates in row $3$ (Zhou Ming, Zhang Liang, Zhao Xue). $\blacksquare$
 
 ### Exercise 3
 
-(Lesson: Ordered Pairs, Do It Problem 1) Write the letters' positions as in the example: $A(5,9)$, $B(\;,\;)$, $C(\;,\;)$, $D(\;,\;)$.
+(Lesson: Ordered Pairs, Do It Problem 1) Write the letters' positions as in the example: $A\left(5,9\right)$, $B\left(\;,\;\right)$, $C\left(\;,\;\right)$, $D\left(\;,\;\right)$.
 
 ![week89-1.svg](../../figures/week89-1.svg){width=50%}
 
 ### Solution to Exercise 3
 
-By **Definition 11.1.1** (Ordered Pairs), read each point's column and row: $A(5,9)$, $B(1,5)$, $C(5,1)$, $D(9,5)$. $\blacksquare$
+By **Definition 11.1.1** (Ordered Pairs), read each point's column and row: $A\left(5,9\right)$, $B\left(1,5\right)$, $C\left(5,1\right)$, $D\left(9,5\right)$. $\blacksquare$
 
 ### Exercise 4
 
-(Lesson: Ordered Pairs, Do It Problem 2) Plot these points and join them in order to close the figure; what is it? $A(5,9)$, $B(1,6)$, $C(2,1)$, $D(8,1)$, $E(9,6)$.
+(Lesson: Ordered Pairs, Do It Problem 2) Plot these points and join them in order to close the figure; what is it? $A\left(5,9\right)$, $B\left(1,6\right)$, $C\left(2,1\right)$, $D\left(8,1\right)$, $E\left(9,6\right)$.
 
 ### Solution to Exercise 4
 
-On grid paper plot $A(5,9)$, $B(1,6)$, $C(2,1)$, $D(8,1)$, $E(9,6)$ in order, join and close back to $A$; you get a pentagon shaped like a small house roof. $\blacksquare$
+On grid paper plot $A\left(5,9\right)$, $B\left(1,6\right)$, $C\left(2,1\right)$, $D\left(8,1\right)$, $E\left(9,6\right)$ in order, join and close back to $A$; you get a pentagon shaped like a small house roof. $\blacksquare$
 
 ### Exercise 5
 
@@ -52,11 +52,11 @@ E.g. cinema "row, seat", bookshelf "shelf level, book number", chess piece posit
 
 ### Solution to Exercise 6
 
-By **Definition 11.1.1** (Ordered Pairs): Xiao Gang $(10,8)$; row ahead same seat = $(10,7)$; same row seat $1$ = $(1,8)$. Color the corresponding cells. $\blacksquare$
+By **Definition 11.1.1** (Ordered Pairs): Xiao Gang $\left(10,8\right)$; row ahead same seat = $\left(10,7\right)$; same row seat $1$ = $\left(1,8\right)$. Color the corresponding cells. $\blacksquare$
 
 ### Exercise 7
 
-(Lesson: Ordered Pairs, Exercise 1 Review Problem 3) The cell $(9,8)$ is already colored; continue coloring: points $(6,10)$, $(12,10)$, $(4,6)$, $(14,6)$, $(4,5)$, $(14,5)$, $(5,4)$, $(13,4)$, $(6,3)$, $(12,3)$, $(7,2)$, $(11,2)$, $(8,1)$, $(9,1)$, $(10,1)$.
+(Lesson: Ordered Pairs, Exercise 1 Review Problem 3) The cell $\left(9,8\right)$ is already colored; continue coloring: points $\left(6,10\right)$, $\left(12,10\right)$, $\left(4,6\right)$, $\left(14,6\right)$, $\left(4,5\right)$, $\left(14,5\right)$, $\left(5,4\right)$, $\left(13,4\right)$, $\left(6,3\right)$, $\left(12,3\right)$, $\left(7,2\right)$, $\left(11,2\right)$, $\left(8,1\right)$, $\left(9,1\right)$, $\left(10,1\right)$.
 
 ![week89-2.svg](../../figures/week89-2.svg){width=50%}
 
@@ -74,11 +74,11 @@ By **Definition 11.1.1** (Ordered Pairs): shift right $5$ units, add $5$ to each
 
 ### Exercise 9
 
-(Lesson: Ordered Pairs, Exercise 1 Integrated Problem 2) A sorting robot delivers parcels: picks up at $(3,0)$, goes to $(3,1)$, then horizontally to $(7,1)$, then vertically to $(7,8)$, finally delivers at $(8,8)$. (1) From chute ③ to the Jiangxi delivery point, what other route? (2) To the Zhejiang delivery point? (3) With multiple robots delivering at once, how to avoid collisions?
+(Lesson: Ordered Pairs, Exercise 1 Integrated Problem 2) A sorting robot delivers parcels: picks up at $\left(3,0\right)$, goes to $\left(3,1\right)$, then horizontally to $\left(7,1\right)$, then vertically to $\left(7,8\right)$, finally delivers at $\left(8,8\right)$. (1) From chute ③ to the Jiangxi delivery point, what other route? (2) To the Zhejiang delivery point? (3) With multiple robots delivering at once, how to avoid collisions?
 
 ### Solution to Exercise 9
 
-The robot can only move horizontally or vertically. By **Definition 11.1.1** (Ordered Pairs), moving along a row changes the first number; moving along a column changes the second. (1) You may also go horizontal first then vertical, e.g. $(3,0)\to(8,0)\to(8,8)$, as long as the route avoids other chutes; (2) similarly go in horizontal/vertical segments to the Zhejiang point; (3) assign different robots different times or lanes so no two share a point at any moment. $\blacksquare$
+The robot can only move horizontally or vertically. By **Definition 11.1.1** (Ordered Pairs), moving along a row changes the first number; moving along a column changes the second. (1) You may also go horizontal first then vertical, e.g. $\left(3,0\right)\to\left(8,0\right)\to\left(8,8\right)$, as long as the route avoids other chutes; (2) similarly go in horizontal/vertical segments to the Zhejiang point; (3) assign different robots different times or lanes so no two share a point at any moment. $\blacksquare$
 
 ### Exercise 10
 
@@ -172,7 +172,7 @@ Mark the start, draw due south $50\,\text{m}$ to the corner; then with the corne
 
 ### Exercise 21
 
-(Lesson: Direction and Distance, Exercise 2 Review Problem 1) A Chinese-medicine cabinet grid. (1) Write Maidong, Danggui, Wuweizi as ordered pairs. (2) Sanqi is at $(8,6)$; mark it. (3) What other math questions can you ask?
+(Lesson: Direction and Distance, Exercise 2 Review Problem 1) A Chinese-medicine cabinet grid. (1) Write Maidong, Danggui, Wuweizi as ordered pairs. (2) Sanqi is at $\left(8,6\right)$; mark it. (3) What other math questions can you ask?
 
 ### Solution to Exercise 21
 
@@ -180,11 +180,11 @@ By **Definition 11.1.1** (Ordered Pairs), read each herb's column and row from t
 
 ### Exercise 22
 
-(Lesson: Direction and Distance, Exercise 2 Review Problem 2) The Teaching Building is $(2,5)$. (1) Write the Gym, Library, Canteen as ordered pairs. (2) Mark the Flower Bed $(6,5)$, Lab $(4,1)$, Small Playground $(8,6)$, Basketball Court $(7,4)$.
+(Lesson: Direction and Distance, Exercise 2 Review Problem 2) The Teaching Building is $\left(2,5\right)$. (1) Write the Gym, Library, Canteen as ordered pairs. (2) Mark the Flower Bed $\left(6,5\right)$, Lab $\left(4,1\right)$, Small Playground $\left(8,6\right)$, Basketball Court $\left(7,4\right)$.
 
 ### Solution to Exercise 22
 
-By **Definition 11.1.1** (Ordered Pairs): set the coordinate system from the Teaching Building $(2,5)$ and read (column, row) of Gym, Library, Canteen; then plot the four new spots. $\blacksquare$
+By **Definition 11.1.1** (Ordered Pairs): set the coordinate system from the Teaching Building $\left(2,5\right)$ and read (column, row) of Gym, Library, Canteen; then plot the four new spots. $\blacksquare$
 
 ### Exercise 23
 
@@ -220,19 +220,19 @@ Split the route into legs, each with a clear reference point, direction, and dis
 
 ### Exercise 27
 
-(Lesson: Direction and Distance, Exercise 2 Integrated Problem 2) The Library is at $(4,3)$, i.e. $400\,\text{m}$ east of school and $300\,\text{m}$ north (scale $100\,\text{m}$ per segment). (1) Describe the Mall, Post Office, Gym, Children's Palace, Park, Hospital similarly. (2) Wang Ling's home is $300\,\text{m}$ east and $400\,\text{m}$ north of school; Zhao Hua's home is $800\,\text{m}$ east and $700\,\text{m}$ north; mark them. (3) Wang Ling's route $(3,4)\to(4,3)\to(6,5)\to(3,6)\to(3,4)$ — where did she go?
+(Lesson: Direction and Distance, Exercise 2 Integrated Problem 2) The Library is at $\left(4,3\right)$, i.e. $400\,\text{m}$ east of school and $300\,\text{m}$ north (scale $100\,\text{m}$ per segment). (1) Describe the Mall, Post Office, Gym, Children's Palace, Park, Hospital similarly. (2) Wang Ling's home is $300\,\text{m}$ east and $400\,\text{m}$ north of school; Zhao Hua's home is $800\,\text{m}$ east and $700\,\text{m}$ north; mark them. (3) Wang Ling's route $\left(3,4\right)\to\left(4,3\right)\to\left(6,5\right)\to\left(3,6\right)\to\left(3,4\right)$ — where did she go?
 
 ### Solution to Exercise 27
 
-By **Definition 11.1.1** (Ordered Pairs): (1) read each spot's coordinates and convert to "east _ hundred meters, north _ hundred meters"; (2) Wang Ling's home $(3,4)$, Zhao Hua's $(8,7)$; (3) $(4,3)$ is the Library; $(6,5)$, $(3,6)$ match spots on the map in order; finally back to $(3,4)$ = home. $\blacksquare$
+By **Definition 11.1.1** (Ordered Pairs): (1) read each spot's coordinates and convert to "east _ hundred meters, north _ hundred meters"; (2) Wang Ling's home $\left(3,4\right)$, Zhao Hua's $\left(8,7\right)$; (3) $\left(4,3\right)$ is the Library; $\left(6,5\right)$, $\left(3,6\right)$ match spots on the map in order; finally back to $\left(3,4\right)$ = home. $\blacksquare$
 
 ### Exercise 28
 
-(Lesson: Direction and Distance, Exercise 2 Integrated Problem 3) If each small square's diagonal is $10\,\text{m}$, then: point $(0,0)$ east-by-north $45^{\circ}$ $30\,\text{m}$ away is point $(\;,\;)$; point $(4,2)$ south-by-west $45^{\circ}$ $20\,\text{m}$ away is $(\;,\;)$; point $(6,7)$ north-by-east $45^{\circ}$ $10\,\text{m}$ away is $(\;,\;)$; point $(4,4)$ west-by-north $45^{\circ}$ $40\,\text{m}$ away is $(\;,\;)$.
+(Lesson: Direction and Distance, Exercise 2 Integrated Problem 3) If each small square's diagonal is $10\,\text{m}$, then: point $\left(0,0\right)$ east-by-north $45^{\circ}$ $30\,\text{m}$ away is point $\left(\;,\;\right)$; point $\left(4,2\right)$ south-by-west $45^{\circ}$ $20\,\text{m}$ away is $\left(\;,\;\right)$; point $\left(6,7\right)$ north-by-east $45^{\circ}$ $10\,\text{m}$ away is $\left(\;,\;\right)$; point $\left(4,4\right)$ west-by-north $45^{\circ}$ $40\,\text{m}$ away is $\left(\;,\;\right)$.
 
 ### Solution to Exercise 28
 
-Walking one diagonal changes column and row by the same number of cells. $30\,\text{m}$ = $3$ diagonals: $(0,0)$ east-by-north $45^{\circ}$ → $(3,3)$; $(4,2)$ south-by-west $45^{\circ}$ $20\,\text{m}$ → $(2,0)$; $(6,7)$ north-by-east $45^{\circ}$ $10\,\text{m}$ → $(7,8)$; $(4,4)$ west-by-north $45^{\circ}$ $40\,\text{m}$ → $(0,8)$. $\blacksquare$
+Walking one diagonal changes column and row by the same number of cells. $30\,\text{m}$ = $3$ diagonals: $\left(0,0\right)$ east-by-north $45^{\circ}$ → $\left(3,3\right)$; $\left(4,2\right)$ south-by-west $45^{\circ}$ $20\,\text{m}$ → $\left(2,0\right)$; $\left(6,7\right)$ north-by-east $45^{\circ}$ $10\,\text{m}$ → $\left(7,8\right)$; $\left(4,4\right)$ west-by-north $45^{\circ}$ $40\,\text{m}$ → $\left(0,8\right)$. $\blacksquare$
 
 ### Exercise 29
 

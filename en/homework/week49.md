@@ -312,7 +312,7 @@ By **Definition 7.1.1** (Counting Units and Digit Places) and **Definition 7.1.5
 
 ### Exercise 38
 
-(Lesson: Practice 4, Problem 1) Fill in. (1) $631020500$ is ( ) digits, its highest place is ( ), the $3$ is in the ( ) place, and the hundred-thousands place is ( ). (2) $5$ ten-millions, $7$ hundred-thousands and $8$ thousands is ( ). (3) $38204000000$ contains ( ) hundred-millions and ( ) ten-thousands. (4) $930701000=900000000+30000000+(\ \ )+(\ \ )$.
+(Lesson: Practice 4, Problem 1) Fill in. (1) $631020500$ is ( ) digits, its highest place is ( ), the $3$ is in the ( ) place, and the hundred-thousands place is ( ). (2) $5$ ten-millions, $7$ hundred-thousands and $8$ thousands is ( ). (3) $38204000000$ contains ( ) hundred-millions and ( ) ten-thousands. (4) $930701000=900000000+30000000+\left(\ \ \right)+\left(\ \ \right)$.
 
 ### Solution to Exercise 38
 

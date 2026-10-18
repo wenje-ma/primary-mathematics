@@ -16,11 +16,11 @@ $419+387=806$; $2.84+3.76=6.60$; $16.32-7.95=8.37$; $100-74.5=25.5$; $80\times64
 
 ### 练习二百四十二
 
-(课时 总复习 练习二十五 第 2 题) 在 $\square$ 里填适当的数: (1) $3.6+8.59+6.4=3.6+\square+8.59$; (2) $(25.8+7.5)+2.5=\square+(\square+\square)$; (3) $42\times4\times25=\square\times(\square\times\square)$; (4) $(125+70)\times8=8\times\square+8\times\square$; (5) $(b+20)\times3=\square\times\square+\square\times\square$.
+(课时 总复习 练习二十五 第 2 题) 在 $\square$ 里填适当的数: (1) $3.6+8.59+6.4=3.6+\square+8.59$; (2) $\left(25.8+7.5\right)+2.5=\square+\left(\square+\square\right)$; (3) $42\times4\times25=\square\times\left(\square\times\square\right)$; (4) $\left(125+70\right)\times8=8\times\square+8\times\square$; (5) $\left(b+20\right)\times3=\square\times\square+\square\times\square$.
 
 ### 解答 练习二百四十二
 
-由**定义 8.11.1** (运算律推广): (1) $3.6+6.4+8.59$; (2) $25.8+(7.5+2.5)$; (3) $42\times(4\times25)$; (4) $8\times125+8\times70$; (5) $b\times3+20\times3$. $\blacksquare$
+由**定义 8.11.1** (运算律推广): (1) $3.6+6.4+8.59$; (2) $25.8+\left(7.5+2.5\right)$; (3) $42\times\left(4\times25\right)$; (4) $8\times125+8\times70$; (5) $b\times3+20\times3$. $\blacksquare$
 
 ### 练习二百四十三
 
@@ -52,7 +52,7 @@ $419+387=806$; $2.84+3.76=6.60$; $16.32-7.95=8.37$; $100-74.5=25.5$; $80\times64
 
 ### 解答 练习二百四十六
 
-由**定义 8.11.1** (运算律): $312\times4+188\times4=(312+188)\times4=2000$; $101\times87=(100+1)\times87=8787$; $135\times50\times2=135\times100=13500$; $25\times33\times4=25\times4\times33=3300$. $\blacksquare$
+由**定义 8.11.1** (运算律): $312\times4+188\times4=\left(312+188\right)\times4=2000$; $101\times87=\left(100+1\right)\times87=8787$; $135\times50\times2=135\times100=13500$; $25\times33\times4=25\times4\times33=3300$. $\blacksquare$
 
 ### 练习二百四十七
 

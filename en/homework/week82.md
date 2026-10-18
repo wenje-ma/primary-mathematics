@@ -74,7 +74,7 @@ By **Definition 10.5.5** (Basic Property of Fractions): $\dfrac{3}{5}=\dfrac{3\t
 
 ### Exercise 103
 
-(Lesson: Basic Property of Fractions, Exercise 14, Problem 3) Fill in the blanks: $\dfrac{3}{4}=\dfrac{(\, )}{12}$, $\dfrac{4}{8}=\dfrac{(\, )}{2}$, $\dfrac{5}{9}=\dfrac{15}{(\, )}$, $\dfrac{16}{24}=\dfrac{(\, )}{3}$.
+(Lesson: Basic Property of Fractions, Exercise 14, Problem 3) Fill in the blanks: $\dfrac{3}{4}=\dfrac{\left(\, \right)}{12}$, $\dfrac{4}{8}=\dfrac{\left(\, \right)}{2}$, $\dfrac{5}{9}=\dfrac{15}{\left(\, \right)}$, $\dfrac{16}{24}=\dfrac{\left(\, \right)}{3}$.
 
 ### Solution to Exercise 103
 
@@ -94,7 +94,7 @@ By **Definition 10.5.6** (Greatest Common Factor and Reducing): factors of 16 ar
 
 ### Solution to Exercise 105
 
-By **Definition 10.5.6** (Greatest Common Factor and Reducing), the square side must divide both 70 and 50; the largest is $(70,50)=10$, so the largest side is $10\,\mathrm{cm}$. $\blacksquare$
+By **Definition 10.5.6** (Greatest Common Factor and Reducing), the square side must divide both 70 and 50; the largest is $\left(70,50\right)=10$, so the largest side is $10\,\mathrm{cm}$. $\blacksquare$
 
 ### Exercise 106
 
@@ -102,7 +102,7 @@ By **Definition 10.5.6** (Greatest Common Factor and Reducing), the square side 
 
 ### Solution to Exercise 106
 
-By **Definition 10.5.6** (Greatest Common Factor and Reducing), the row size is a common factor of 48 and 36; the maximum is $(48,36)=12$; boys $48\div12=4$ rows, girls $36\div12=3$ rows. $\blacksquare$
+By **Definition 10.5.6** (Greatest Common Factor and Reducing), the row size is a common factor of 48 and 36; the maximum is $\left(48,36\right)=12$; boys $48\div12=4$ rows, girls $36\div12=3$ rows. $\blacksquare$
 
 ### Exercise 107
 
@@ -182,4 +182,4 @@ By **Definition 10.5.8** (Converting Fractions and Decimals), $\dfrac{5}{6}\appr
 
 ### Solution to Exercise 116
 
-By **Definition 10.5.7** (Least Common Multiple and Common Denominators), the side is a multiple of both 8 and 10; the least is $[8,10]=40$, so the side is at least $40\,\mathrm{cm}$. $\blacksquare$
+By **Definition 10.5.7** (Least Common Multiple and Common Denominators), the side is a multiple of both 8 and 10; the least is $\left[8,10\right]=40$, so the side is at least $40\,\mathrm{cm}$. $\blacksquare$

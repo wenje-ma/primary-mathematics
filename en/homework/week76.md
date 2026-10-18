@@ -116,7 +116,7 @@ By **Definition 9.8.2**, let "1" be most numerous (e.g. $4$ cards), "5" least (e
 
 ### Solution to Exercise 202
 
-The sum of two dice may be $2\sim12$. A sum of $2$ has only $(1,1)$; a sum of $3$ has $(1,2)(2,1)$, two ways; a sum of $4$ has $3$ ways; $5$ has $4$ ways; $6$ has $5$ ways; $7$ has $6$ ways; $8$ has $5$ ways; $9$ has $4$ ways; $10$ has $3$ ways; $11$ has $2$ ways; $12$ has $1$ way. The teacher wins in $4+5+6+5+4=24$ ways, and the students in $1+2+3+3+2+1=12$ ways; it is not fair, and the teacher is more likely to win. $\blacksquare$
+The sum of two dice may be $2\sim12$. A sum of $2$ has only $\left(1,1\right)$; a sum of $3$ has $\left(1,2\right)\left(2,1\right)$, two ways; a sum of $4$ has $3$ ways; $5$ has $4$ ways; $6$ has $5$ ways; $7$ has $6$ ways; $8$ has $5$ ways; $9$ has $4$ ways; $10$ has $3$ ways; $11$ has $2$ ways; $12$ has $1$ way. The teacher wins in $4+5+6+5+4=24$ ways, and the students in $1+2+3+3+2+1=12$ ways; it is not fair, and the teacher is more likely to win. $\blacksquare$
 
 ### Exercise 203
 

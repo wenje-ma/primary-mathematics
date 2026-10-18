@@ -8,7 +8,7 @@
 
 ### Solution to Exercise 250
 
-$125\times(1-\frac{1}{5})=125\times\frac{4}{5}=100$ (yuan). $\blacksquare$
+$125\times\left(1-\frac{1}{5}\right)=125\times\frac{4}{5}=100$ (yuan). $\blacksquare$
 
 ### Exercise 251
 
@@ -16,7 +16,7 @@ $125\times(1-\frac{1}{5})=125\times\frac{4}{5}=100$ (yuan). $\blacksquare$
 
 ### Solution to Exercise 251
 
-$100\div(1-\frac{1}{5})=100\div\frac{4}{5}=125$ (yuan). $\blacksquare$
+$100\div\left(1-\frac{1}{5}\right)=100\div\frac{4}{5}=125$ (yuan). $\blacksquare$
 
 ### Exercise 252
 
@@ -24,7 +24,7 @@ $100\div(1-\frac{1}{5})=100\div\frac{4}{5}=125$ (yuan). $\blacksquare$
 
 ### Solution to Exercise 252
 
-$125\times(1-20\%)=125\times0.8=100$ (yuan). $\blacksquare$
+$125\times\left(1-20\%\right)=125\times0.8=100$ (yuan). $\blacksquare$
 
 ### Exercise 253
 
@@ -32,7 +32,7 @@ $125\times(1-20\%)=125\times0.8=100$ (yuan). $\blacksquare$
 
 ### Solution to Exercise 253
 
-$100\div(1-20\%)=100\div0.8=125$ (yuan). $\blacksquare$
+$100\div\left(1-20\%\right)=100\div0.8=125$ (yuan). $\blacksquare$
 
 ### Exercise 254
 
@@ -64,7 +64,7 @@ The north gate is due north of the south gate, and the distance equals the diame
 
 ### Solution to Exercise 257
 
-$3.14\times(1^2-0.2^2)=3.14\times0.96=3.0144\,\text{km}^2$. $\blacksquare$
+$3.14\times\left(1^2-0.2^2\right)=3.14\times0.96=3.0144\,\text{km}^2$. $\blacksquare$
 
 ### Exercise 258
 
@@ -116,11 +116,11 @@ $36000\div\frac{71}{100}\approx50704$ (ten-thousand square kilometers). $\blacks
 
 ### Exercise 264
 
-(Lesson: Exercise 9, Review and Consolidation, Problem 5) Compute the following, using shortcut methods where possible: $\frac{5}{9}\times\frac{3}{4}+\frac{5}{9}\times\frac{1}{4}$; $3.7\times\frac{6}{13}+1.3\div\frac{13}{6}$; $0.5\times(\frac{3}{5}+\frac{6}{25})$.
+(Lesson: Exercise 9, Review and Consolidation, Problem 5) Compute the following, using shortcut methods where possible: $\frac{5}{9}\times\frac{3}{4}+\frac{5}{9}\times\frac{1}{4}$; $3.7\times\frac{6}{13}+1.3\div\frac{13}{6}$; $0.5\times\left(\frac{3}{5}+\frac{6}{25}\right)$.
 
 ### Solution to Exercise 264
 
-$\frac{5}{9}\times(\frac{3}{4}+\frac{1}{4})=\frac{5}{9}$; $(3.7+1.3)\times\frac{6}{13}=5\times\frac{6}{13}=\frac{30}{13}$; $0.5\times\frac{21}{25}=\frac{21}{50}$. $\blacksquare$
+$\frac{5}{9}\times\left(\frac{3}{4}+\frac{1}{4}\right)=\frac{5}{9}$; $\left(3.7+1.3\right)\times\frac{6}{13}=5\times\frac{6}{13}=\frac{30}{13}$; $0.5\times\frac{21}{25}=\frac{21}{50}$. $\blacksquare$
 
 ### Exercise 265
 
@@ -144,7 +144,7 @@ Car $=300\times\frac{1}{3}=100\,\text{km/h}$; plane $=100\div\frac{1}{9}=900\,\t
 
 ### Solution to Exercise 267
 
-Drying rate $=428\div500\times100\%=85.6\%$; moisture content $=(500-428)\div500\times100\%=14.4\%$. $\blacksquare$
+Drying rate $=428\div500\times100\%=85.6\%$; moisture content $=\left(500-428\right)\div500\times100\%=14.4\%$. $\blacksquare$
 
 ### Exercise 268
 
@@ -164,11 +164,11 @@ Let each square have side length $1$; the shaded part is a triangle of area $\fr
 
 ### Exercise 270
 
-(Lesson: Exercise 9, Comprehensive Application, Problem 11) An isosceles right triangle $ABC$ has $A(5,5)$, $B(2,2)$, $C(5,2)$. Draw this triangle. Where else can vertex $C$ be?
+(Lesson: Exercise 9, Comprehensive Application, Problem 11) An isosceles right triangle $ABC$ has $A\left(5,5\right)$, $B\left(2,2\right)$, $C\left(5,2\right)$. Draw this triangle. Where else can vertex $C$ be?
 
 ### Solution to Exercise 270
 
-Plot the points $A$, $B$, and $C$ on grid paper and join them into the right triangle. Since $AB$ can serve as the hypotenuse, the other possible position of $C$ is $(2,5)$. $\blacksquare$
+Plot the points $A$, $B$, and $C$ on grid paper and join them into the right triangle. Since $AB$ can serve as the hypotenuse, the other possible position of $C$ is $\left(2,5\right)$. $\blacksquare$
 
 ### Exercise 271
 
@@ -176,7 +176,7 @@ Plot the points $A$, $B$, and $C$ on grid paper and join them into the right tri
 
 ### Solution to Exercise 271
 
-Let the length be $x$ and the width $\frac{2}{5}x$. Then $2(x+\frac{2}{5}x)=84$, $\frac{7}{5}x=42$, $x=30\,\text{cm}$; the width $=12\,\text{cm}$. $\blacksquare$
+Let the length be $x$ and the width $\frac{2}{5}x$. Then $2\left(x+\frac{2}{5}x\right)=84$, $\frac{7}{5}x=42$, $x=30\,\text{cm}$; the width $=12\,\text{cm}$. $\blacksquare$
 
 ### Exercise 272
 
@@ -184,7 +184,7 @@ Let the length be $x$ and the width $\frac{2}{5}x$. Then $2(x+\frac{2}{5}x)=84$,
 
 ### Solution to Exercise 272
 
-Drive A has $8-6.4=1.6\,\text{GB}<1.8$ left; drive B has $16\times30\%=4.8\,\text{GB}>1.8$ left, so choose B. Copying the whole file takes $0.5\div15\%=\frac{10}{3}$ minutes, and the remaining time is $\frac{10}{3}\times(1-15\%)=\frac{17}{6}\approx2.83$ minutes. $\blacksquare$
+Drive A has $8-6.4=1.6\,\text{GB}<1.8$ left; drive B has $16\times30\%=4.8\,\text{GB}>1.8$ left, so choose B. Copying the whole file takes $0.5\div15\%=\frac{10}{3}$ minutes, and the remaining time is $\frac{10}{3}\times\left(1-15\%\right)=\frac{17}{6}\approx2.83$ minutes. $\blacksquare$
 
 ### Exercise 273
 
@@ -204,11 +204,11 @@ Large circle: $d=1.8$, $C=5.652\,\text{m}$; medium circle: $d=0.9$, $C=2.826\,\t
 
 ### Exercise 275
 
-(Lesson: Exercise 9, Comprehensive Application, Problem 16) Three vertices of a parallelogram are $A(6,5)$, $B(8,8)$, $C(12,8)$. Find the fourth vertex $D$. How many parallelograms can be drawn?
+(Lesson: Exercise 9, Comprehensive Application, Problem 16) Three vertices of a parallelogram are $A\left(6,5\right)$, $B\left(8,8\right)$, $C\left(12,8\right)$. Find the fourth vertex $D$. How many parallelograms can be drawn?
 
 ### Solution to Exercise 275
 
-Three possibilities, taking $AB$, $AC$, and $BC$ as the diagonal respectively: $D=(10,5)$, or $(16,11)$, or $(2,5)$. Altogether $3$ parallelograms. $\blacksquare$
+Three possibilities, taking $AB$, $AC$, and $BC$ as the diagonal respectively: $D=\left(10,5\right)$, or $\left(16,11\right)$, or $\left(2,5\right)$. Altogether $3$ parallelograms. $\blacksquare$
 
 ### Exercise 276
 

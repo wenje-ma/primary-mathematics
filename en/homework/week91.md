@@ -156,7 +156,7 @@ By **Definition 11.3.2** (Rule for Fraction Division): $5200\div\frac{52}{55}=52
 
 ### Solution to Exercise 109
 
-Trapezoid area $=\frac{1}{2}\times(\frac{3}{5}+\frac{4}{5})\times\frac{3}{4}=\frac{1}{2}\times\frac{7}{5}\times\frac{3}{4}=\frac{21}{40}\,\text{m}^2$. Taking the shorter upper base as the rectangle's length, max area $\frac{3}{5}\times\frac{3}{4}=\frac{9}{20}\,\text{m}^2$. $\blacksquare$
+Trapezoid area $=\frac{1}{2}\times\left(\frac{3}{5}+\frac{4}{5}\right)\times\frac{3}{4}=\frac{1}{2}\times\frac{7}{5}\times\frac{3}{4}=\frac{21}{40}\,\text{m}^2$. Taking the shorter upper base as the rectangle's length, max area $\frac{3}{5}\times\frac{3}{4}=\frac{9}{20}\,\text{m}^2$. $\blacksquare$
 
 ### Exercise 110
 
@@ -180,7 +180,7 @@ $\div\frac{2}{3}\div\frac{3}{4}\times\frac{1}{2}=\times\frac{3}{2}\times\frac{4}
 
 ### Solution to Exercise 112
 
-By **Definition 11.3.3** (Work Problems), take the whole as unit "$1$": $1\div(\frac{1}{12}+\frac{1}{18})=1\div\frac{5}{36}=7.2$ days. $\blacksquare$
+By **Definition 11.3.3** (Work Problems), take the whole as unit "$1$": $1\div\left(\frac{1}{12}+\frac{1}{18}\right)=1\div\frac{5}{36}=7.2$ days. $\blacksquare$
 
 ### Exercise 113
 
@@ -196,7 +196,7 @@ By **Definition 11.3.3** (Work Problems): combined rate $\frac{1}{3}+\frac{1}{6}
 
 ### Solution to Exercise 114
 
-By **Definition 11.3.3** (Work Problems): $1\div(\frac{1}{2}+\frac{1}{3})=1\div\frac{5}{6}=\frac{6}{5}$ hours. $\blacksquare$
+By **Definition 11.3.3** (Work Problems): $1\div\left(\frac{1}{2}+\frac{1}{3}\right)=1\div\frac{5}{6}=\frac{6}{5}$ hours. $\blacksquare$
 
 ### Exercise 115
 
@@ -204,7 +204,7 @@ By **Definition 11.3.3** (Work Problems): $1\div(\frac{1}{2}+\frac{1}{3})=1\div\
 
 ### Solution to Exercise 115
 
-By **Definition 11.3.3** (Work Problems): together $1\div(\frac{1}{12}+\frac{1}{10})=1\div\frac{11}{60}=\frac{60}{11}\approx5.45$ days $<6$, so yes. $\blacksquare$
+By **Definition 11.3.3** (Work Problems): together $1\div\left(\frac{1}{12}+\frac{1}{10}\right)=1\div\frac{11}{60}=\frac{60}{11}\approx5.45$ days $<6$, so yes. $\blacksquare$
 
 ### Exercise 116
 
@@ -212,7 +212,7 @@ By **Definition 11.3.3** (Work Problems): together $1\div(\frac{1}{12}+\frac{1}{
 
 ### Solution to Exercise 116
 
-In $3$ hours they finish $(\frac{1}{5}+\frac{1}{9})\times3=\frac{14}{45}\times3=\frac{14}{15}$; the remaining $1-\frac{14}{15}=\frac{1}{15}$ is $100$ parts, so total $100\div\frac{1}{15}=1500$. $\blacksquare$
+In $3$ hours they finish $\left(\frac{1}{5}+\frac{1}{9}\right)\times3=\frac{14}{45}\times3=\frac{14}{15}$; the remaining $1-\frac{14}{15}=\frac{1}{15}$ is $100$ parts, so total $100\div\frac{1}{15}=1500$. $\blacksquare$
 
 ### Exercise 117
 
@@ -240,11 +240,11 @@ Take total money as "$1$": each pen $\frac{1}{6}$, each refill $\frac{1}{12}$. A
 
 ### Exercise 120
 
-(Lesson: Summary and Review, Exercise 9 Review Problem 2) Compute: $\frac{15}{22}\div10$; $45\div\frac{9}{14}$; $\frac{3}{5}\div\frac{1}{6}$; $\frac{2}{7}\div\frac{8}{21}$; $\frac{2}{9}\times\frac{3}{8}\div\frac{6}{7}$; $4\div\frac{8}{3}-\frac{3}{5}$; $\frac{3}{4}\times\frac{5}{6}+\frac{3}{4}\times\frac{1}{6}$; $7-\frac{7}{9}\div\frac{7}{3}-\frac{2}{3}$; $\frac{15}{16}\div\frac{5}{8}\times8$; $26\div\frac{13}{25}\div\frac{15}{22}$; $35\div(1-\frac{2}{7})$; $\frac{21}{40}\div(\frac{1}{10}+\frac{3}{5})$.
+(Lesson: Summary and Review, Exercise 9 Review Problem 2) Compute: $\frac{15}{22}\div10$; $45\div\frac{9}{14}$; $\frac{3}{5}\div\frac{1}{6}$; $\frac{2}{7}\div\frac{8}{21}$; $\frac{2}{9}\times\frac{3}{8}\div\frac{6}{7}$; $4\div\frac{8}{3}-\frac{3}{5}$; $\frac{3}{4}\times\frac{5}{6}+\frac{3}{4}\times\frac{1}{6}$; $7-\frac{7}{9}\div\frac{7}{3}-\frac{2}{3}$; $\frac{15}{16}\div\frac{5}{8}\times8$; $26\div\frac{13}{25}\div\frac{15}{22}$; $35\div\left(1-\frac{2}{7}\right)$; $\frac{21}{40}\div\left(\frac{1}{10}+\frac{3}{5}\right)$.
 
 ### Solution to Exercise 120
 
-$\frac{15}{22}\div10=\frac{3}{44}$; $45\div\frac{9}{14}=70$; $\frac{3}{5}\div\frac{1}{6}=\frac{18}{5}$; $\frac{2}{7}\div\frac{8}{21}=\frac{3}{4}$; $\frac{2}{9}\times\frac{3}{8}\times\frac{7}{6}=\frac{7}{72}$; $4\times\frac{3}{8}-\frac{3}{5}=\frac{3}{2}-\frac{3}{5}=\frac{9}{10}$; $\frac{3}{4}\times(\frac{5}{6}+\frac{1}{6})=\frac{3}{4}$; $7-\frac{1}{3}-\frac{2}{3}=6$; $\frac{15}{16}\times\frac{8}{5}\times8=12$; $26\times\frac{25}{13}\times\frac{22}{15}=\frac{220}{3}$; $35\div\frac{5}{7}=49$; $\frac{21}{40}\div\frac{7}{10}=\frac{3}{4}$. $\blacksquare$
+$\frac{15}{22}\div10=\frac{3}{44}$; $45\div\frac{9}{14}=70$; $\frac{3}{5}\div\frac{1}{6}=\frac{18}{5}$; $\frac{2}{7}\div\frac{8}{21}=\frac{3}{4}$; $\frac{2}{9}\times\frac{3}{8}\times\frac{7}{6}=\frac{7}{72}$; $4\times\frac{3}{8}-\frac{3}{5}=\frac{3}{2}-\frac{3}{5}=\frac{9}{10}$; $\frac{3}{4}\times\left(\frac{5}{6}+\frac{1}{6}\right)=\frac{3}{4}$; $7-\frac{1}{3}-\frac{2}{3}=6$; $\frac{15}{16}\times\frac{8}{5}\times8=12$; $26\times\frac{25}{13}\times\frac{22}{15}=\frac{220}{3}$; $35\div\frac{5}{7}=49$; $\frac{21}{40}\div\frac{7}{10}=\frac{3}{4}$. $\blacksquare$
 
 ### Exercise 121
 
@@ -260,11 +260,11 @@ By **Definition 11.3.2** (Rule for Fraction Division): $35\div\frac{5}{7}=35\tim
 
 ### Solution to Exercise 122
 
-By **Definition 11.3.3** (Work Problems): $1\div(\frac{1}{6}+\frac{1}{3})=1\div\frac{1}{2}=2$ trips. $\blacksquare$
+By **Definition 11.3.3** (Work Problems): $1\div\left(\frac{1}{6}+\frac{1}{3}\right)=1\div\frac{1}{2}=2$ trips. $\blacksquare$
 
 ### Exercise 123
 
-(Lesson: Summary and Review, Exercise 9 Integrated Problem 5) If $a$ and $b$ are reciprocals, then $\frac{a}{9}\times\frac{b}{8}=(\;)$, $\frac{5}{a}\times\frac{4}{b}=(\;)$, $\frac{a}{6}\div\frac{5}{b}=(\;)$, $\frac{7}{a}\div\frac{b}{6}=(\;)$.
+(Lesson: Summary and Review, Exercise 9 Integrated Problem 5) If $a$ and $b$ are reciprocals, then $\frac{a}{9}\times\frac{b}{8}=\left(\;\right)$, $\frac{5}{a}\times\frac{4}{b}=\left(\;\right)$, $\frac{a}{6}\div\frac{5}{b}=\left(\;\right)$, $\frac{7}{a}\div\frac{b}{6}=\left(\;\right)$.
 
 ### Solution to Exercise 123
 
@@ -276,7 +276,7 @@ By **Definition 11.3.1** (Reciprocals), $ab=1$: $\frac{a}{9}\times\frac{b}{8}=\f
 
 ### Solution to Exercise 124
 
-By **Definition 11.3.3** (Work Problems): $1\div(\frac{1}{6}+\frac{1}{4})=1\div\frac{5}{12}=\frac{12}{5}$ minutes. $\blacksquare$
+By **Definition 11.3.3** (Work Problems): $1\div\left(\frac{1}{6}+\frac{1}{4}\right)=1\div\frac{5}{12}=\frac{12}{5}$ minutes. $\blacksquare$
 
 ### Exercise 125
 
@@ -284,7 +284,7 @@ By **Definition 11.3.3** (Work Problems): $1\div(\frac{1}{6}+\frac{1}{4})=1\div\
 
 ### Solution to Exercise 125
 
-(1) $140\times\frac{1}{5}=28$ teeth; (2) $28\div\frac{1}{5}=140$ teeth; (3) $400\times(1-\frac{4}{5})=80$ rpm. $\blacksquare$
+(1) $140\times\frac{1}{5}=28$ teeth; (2) $28\div\frac{1}{5}=140$ teeth; (3) $400\times\left(1-\frac{4}{5}\right)=80$ rpm. $\blacksquare$
 
 ### Exercise 126
 
@@ -300,4 +300,4 @@ $\frac{3}{4}\div\frac{b}{a}=\frac{3}{4}\times\frac{a}{b}$. Compare $\frac{b}{a}$
 
 ### Solution to Exercise 127
 
-Take day as unit "$1$"; whole day $=$ day $\times(1+\frac{5}{7})=$ day $\times\frac{12}{7}$. Day $=24\div\frac{12}{7}=14$ hours, night $=24-14=10$ hours. $\blacksquare$
+Take day as unit "$1$"; whole day $=$ day $\times\left(1+\frac{5}{7}\right)=$ day $\times\frac{12}{7}$. Day $=24\div\frac{12}{7}=14$ hours, night $=24-14=10$ hours. $\blacksquare$

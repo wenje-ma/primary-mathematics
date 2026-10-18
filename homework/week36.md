@@ -108,11 +108,11 @@ $40\times4=160$ 千米. $\blacksquare$
 
 ### 练习一百一十三
 
-(课时 练习八 第 8 题) 计算: $7\times8+6$; $20\times3+98$; $2000\times4+1980$; $4\times6+6$; $70\times9-120$; $(406-385)\times3$.
+(课时 练习八 第 8 题) 计算: $7\times8+6$; $20\times3+98$; $2000\times4+1980$; $4\times6+6$; $70\times9-120$; $\left(406-385\right)\times3$.
 
 ### 解答 练习一百一十三
 
-$7\times8+6=62$; $20\times3+98=158$; $2000\times4+1980=9980$; $4\times6+6=30$; $70\times9-120=510$; $(406-385)\times3=63$. $\blacksquare$
+$7\times8+6=62$; $20\times3+98=158$; $2000\times4+1980=9980$; $4\times6+6=30$; $70\times9-120=510$; $\left(406-385\right)\times3=63$. $\blacksquare$
 
 ### 练习一百一十四
 
@@ -140,7 +140,7 @@ $21\times2+5=42+5=47$ 棵. $\blacksquare$
 
 ### 练习一百一十七
 
-(课时 练习八 第 12 题) 填一填: $432=(\ )\times100+(\ )\times10+(\ )\times1$; $1597=(\ )\times1000+(\ )\times100+(\ )\times10+(\ )\times1$.
+(课时 练习八 第 12 题) 填一填: $432=\left(\ \right)\times100+\left(\ \right)\times10+\left(\ \right)\times1$; $1597=\left(\ \right)\times1000+\left(\ \right)\times100+\left(\ \right)\times10+\left(\ \right)\times1$.
 
 ### 解答 练习一百一十七
 

@@ -146,27 +146,27 @@ By **Definition 8.1.2** (Subtraction is the inverse of addition), subtracting on
 
 ### Exercise 17
 
-(Lesson: Parentheses, Try It) First state the order of operations, then calculate: $360\div(70-4\times16)$; $168\div[(28+44)\div9]$.
+(Lesson: Parentheses, Try It) First state the order of operations, then calculate: $360\div\left(70-4\times16\right)$; $168\div\left[\left(28+44\right)\div9\right]$.
 
 ### Solution to Exercise 17
 
-By **Definition 8.1.7** (Order of Four-Operation Mixed Calculations), first inside the parentheses, then inside the square brackets: $360\div(70-4\times16)=360\div(70-64)=360\div6=60$; $168\div[(28+44)\div9]=168\div[72\div9]=168\div8=21$. $\blacksquare$
+By **Definition 8.1.7** (Order of Four-Operation Mixed Calculations), first inside the parentheses, then inside the square brackets: $360\div\left(70-4\times16\right)=360\div\left(70-64\right)=360\div6=60$; $168\div\left[\left(28+44\right)\div9\right]=168\div\left[72\div9\right]=168\div8=21$. $\blacksquare$
 
 ### Exercise 18
 
-(Lesson: Parentheses, Practice 3, Problem 1) First state the order of operations, then calculate: $450+390\div130-123$; $38+56\div7\times4$; $209+102\div(52-35)$; $940\times[128-(154-31)]$.
+(Lesson: Parentheses, Practice 3, Problem 1) First state the order of operations, then calculate: $450+390\div130-123$; $38+56\div7\times4$; $209+102\div\left(52-35\right)$; $940\times\left[128-\left(154-31\right)\right]$.
 
 ### Solution to Exercise 18
 
-By **Definition 8.1.7** (Order of Four-Operation Mixed Calculations): $450+390\div130-123=450+3-123=330$; $38+56\div7\times4=38+8\times4=38+32=70$; $209+102\div(52-35)=209+102\div17=209+6=215$; $940\times[128-(154-31)]=940\times[128-123]=940\times5=4700$. $\blacksquare$
+By **Definition 8.1.7** (Order of Four-Operation Mixed Calculations): $450+390\div130-123=450+3-123=330$; $38+56\div7\times4=38+8\times4=38+32=70$; $209+102\div\left(52-35\right)=209+102\div17=209+6=215$; $940\times\left[128-\left(154-31\right)\right]=940\times\left[128-123\right]=940\times5=4700$. $\blacksquare$
 
 ### Exercise 19
 
-(Lesson: Parentheses, Practice 3, Problem 2) Calculate the following: $72-4\times6\div3$; $6000\div75-60-10$; $(72-4)\times6\div3$; $6000\div(75-60)-10$; $(72-4)\times(6\div3)$; $6000\div[75-(60-10)]$.
+(Lesson: Parentheses, Practice 3, Problem 2) Calculate the following: $72-4\times6\div3$; $6000\div75-60-10$; $\left(72-4\right)\times6\div3$; $6000\div\left(75-60\right)-10$; $\left(72-4\right)\times\left(6\div3\right)$; $6000\div\left[75-\left(60-10\right)\right]$.
 
 ### Solution to Exercise 19
 
-By **Definition 8.1.7** (Order of Four-Operation Mixed Calculations): $72-4\times6\div3=72-8=64$; $6000\div75-60-10=80-70=10$; $(72-4)\times6\div3=68\times2=136$; $6000\div(75-60)-10=6000\div15-10=390$; $(72-4)\times(6\div3)=68\times2=136$; $6000\div[75-(60-10)]=6000\div[75-50]=6000\div25=240$. $\blacksquare$
+By **Definition 8.1.7** (Order of Four-Operation Mixed Calculations): $72-4\times6\div3=72-8=64$; $6000\div75-60-10=80-70=10$; $\left(72-4\right)\times6\div3=68\times2=136$; $6000\div\left(75-60\right)-10=6000\div15-10=390$; $\left(72-4\right)\times\left(6\div3\right)=68\times2=136$; $6000\div\left[75-\left(60-10\right)\right]=6000\div\left[75-50\right]=6000\div25=240$. $\blacksquare$
 
 ### Exercise 20
 
@@ -190,7 +190,7 @@ Total people $18+322=340$ (people). Per seat: large car $900\div40=22.5$ (yuan),
 
 ### Solution to Exercise 22
 
-(1) Plan 1: $6\times150+4\times60=900+240=1140$ (yuan); Plan 2: $(6+4)\times100=1000$ (yuan), so Plan 2 is the better deal. (2) Plan 1: $4\times150+6\times60=600+360=960$ (yuan); Plan 2: $(4+6)\times100=1000$ (yuan), so Plan 1 is the better deal. $\blacksquare$
+(1) Plan 1: $6\times150+4\times60=900+240=1140$ (yuan); Plan 2: $\left(6+4\right)\times100=1000$ (yuan), so Plan 2 is the better deal. (2) Plan 1: $4\times150+6\times60=600+360=960$ (yuan); Plan 2: $\left(4+6\right)\times100=1000$ (yuan), so Plan 1 is the better deal. $\blacksquare$
 
 ### Exercise 23
 
@@ -198,7 +198,7 @@ Total people $18+322=340$ (people). Per seat: large car $900\div40=22.5$ (yuan),
 
 ### Solution to Exercise 23
 
-The answer is not unique, for example: $3\div3+3-3=1$; $3\div3+3\div3=2$; $(3+3+3)\div3=3$; $3+3+3\div3=7$; $3\times3-3\div3=8$; $3\times3+3-3=9$. $\blacksquare$
+The answer is not unique, for example: $3\div3+3-3=1$; $3\div3+3\div3=2$; $\left(3+3+3\right)\div3=3$; $3+3+3\div3=7$; $3\times3-3\div3=8$; $3\times3+3-3=9$. $\blacksquare$
 
 ### Exercise 24
 
@@ -206,4 +206,4 @@ The answer is not unique, for example: $3\div3+3-3=1$; $3\div3+3\div3=2$; $(3+3+
 
 ### Solution to Exercise 24
 
-Using the point values on the $4$ cards, add $+$, $-$, $\times$, $\div$ and parentheses so that the result equals $24$. For example, with cards $6,4,3,2$, $(6+4-2)\times3=24$. Just try combinations with the $4$ point values in hand. $\blacksquare$
+Using the point values on the $4$ cards, add $+$, $-$, $\times$, $\div$ and parentheses so that the result equals $24$. For example, with cards $6,4,3,2$, $\left(6+4-2\right)\times3=24$. Just try combinations with the $4$ point values in hand. $\blacksquare$

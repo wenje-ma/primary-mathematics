@@ -160,7 +160,7 @@ Total money $24.2+16.4=40.6$ yuan. Juvenile Science per copy $40.6\div7=5.8$ yua
 
 ### Solution to Exercise 71
 
-(1) Up: $7.2\div3=2.4$ km/h; down: $7.2\div2=3.6$ km/h. (2) Whole route: $7.2\times2\div(3+2)=14.4\div5=2.88$ km/h. $\blacksquare$
+(1) Up: $7.2\div3=2.4$ km/h; down: $7.2\div2=3.6$ km/h. (2) Whole route: $7.2\times2\div\left(3+2\right)=14.4\div5=2.88$ km/h. $\blacksquare$
 
 ### Exercise 72
 

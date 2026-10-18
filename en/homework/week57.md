@@ -88,11 +88,11 @@ By **Definition 7.4.2** (Written Multiplication): $39\times84=3276$, $207\times2
 
 ### Exercise 229
 
-(Lesson: Practice 20, Problem 7) Write the products directly without calculating. (1) $43\times7=301$, then $43\times21=$, $43\times700=$. (2) $75\times40=3000$, then $150\times40=$, $75\times20=$. (3) $\star\times\bigtriangleup=180$, then $(★\times2)\times\bigtriangleup=$, $(★\div9)\times\bigtriangleup=$.
+(Lesson: Practice 20, Problem 7) Write the products directly without calculating. (1) $43\times7=301$, then $43\times21=$, $43\times700=$. (2) $75\times40=3000$, then $150\times40=$, $75\times20=$. (3) $\star\times\bigtriangleup=180$, then $\left(★\times2\right)\times\bigtriangleup=$, $\left(★\div9\right)\times\bigtriangleup=$.
 
 ### Solution to Exercise 229
 
-By **Definition 7.4.3** (Rules for How the Product Changes): (1) $43\times21=903$, $43\times700=30100$; (2) $150\times40=6000$, $75\times20=1500$; (3) $(★\times2)\times\triangle=360$, $(★\div9)\times\triangle=20$. $\blacksquare$
+By **Definition 7.4.3** (Rules for How the Product Changes): (1) $43\times21=903$, $43\times700=30100$; (2) $150\times40=6000$, $75\times20=1500$; (3) $\left(★\times2\right)\times\triangle=360$, $\left(★\div9\right)\times\triangle=20$. $\blacksquare$
 
 ### Exercise 230
 
@@ -188,4 +188,4 @@ The ancient method: $94\div2=47$, rabbits $=47-35=12$, chickens $=35-12=23$. $\b
 
 ### Solution to Exercise 241
 
-Let there be $x$ big monks and $100-x$ little monks. $3x+(100-x)\div3=100$, solving gives $x=25$, so there are $25$ big monks and $75$ little monks. $\blacksquare$
+Let there be $x$ big monks and $100-x$ little monks. $3x+\left(100-x\right)\div3=100$, solving gives $x=25$, so there are $25$ big monks and $75$ little monks. $\blacksquare$

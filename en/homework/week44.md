@@ -158,7 +158,7 @@ By **Definition 6.4.3**, first estimate by eye, then measure the length and widt
 
 ### Solution to Exercise 151
 
-(1) Area $5\times2=10$ (square meters). (2) The fence length is the perimeter $(5+2)\times2=14$ (meters). $\blacksquare$
+(1) Area $5\times2=10$ (square meters). (2) The fence length is the perimeter $\left(5+2\right)\times2=14$ (meters). $\blacksquare$
 
 ### Exercise 152
 
@@ -238,4 +238,4 @@ length$+$width$=16\div2=8$ (cm); you can draw: length $7$ width $1$ area $7$, le
 
 ### Solution to Exercise 161
 
-Let the flower bed's side be $a$ m; the outer square of the path has side $(a+2)$ m. $(a+2)^2-a^2=4a+4=16$, giving $a=3$ (m); the flower bed's area is $3\times3=9$ (square meters). $\blacksquare$
+Let the flower bed's side be $a$ m; the outer square of the path has side $\left(a+2\right)$ m. $\left(a+2\right)^2-a^2=4a+4=16$, giving $a=3$ (m); the flower bed's area is $3\times3=9$ (square meters). $\blacksquare$

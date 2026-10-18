@@ -898,19 +898,19 @@ A hundred-something-ten number times a one-digit: first do two-digit times one-d
 
 **Definition 8.3.1** (Commutative Law of Addition): Adding two numbers, swapping the addends does not change the sum. In letters: $a+b=b+a$.
 
-**Definition 8.3.2** (Associative Law of Addition): Adding three numbers, whether you add the first two first or the last two first, the sum is the same. In letters: $(a+b)+c=a+(b+c)$.
+**Definition 8.3.2** (Associative Law of Addition): Adding three numbers, whether you add the first two first or the last two first, the sum is the same. In letters: $\left(a+b\right)+c=a+\left(b+c\right)$.
 
-**Definition 8.3.3** (Subtraction Properties): A number subtracted consecutively by two numbers equals subtracting their sum: $a-b-c=a-(b+c)$; you may also subtract the second subtrahend first: $a-b-c=a-c-b$.
+**Definition 8.3.3** (Subtraction Properties): A number subtracted consecutively by two numbers equals subtracting their sum: $a-b-c=a-\left(b+c\right)$; you may also subtract the second subtrahend first: $a-b-c=a-c-b$.
 
 #### Multiplication Operation Laws
 
 **Definition 8.3.4** (Commutative Law of Multiplication): Multiplying two numbers, swapping the factors does not change the product. In letters: $a\times b=b\times a$.
 
-**Definition 8.3.5** (Associative Law of Multiplication): Multiplying three numbers, whether you multiply the first two first or the last two first, the product is the same. In letters: $(a\times b)\times c=a\times(b\times c)$.
+**Definition 8.3.5** (Associative Law of Multiplication): Multiplying three numbers, whether you multiply the first two first or the last two first, the product is the same. In letters: $\left(a\times b\right)\times c=a\times\left(b\times c\right)$.
 
-**Definition 8.3.6** (Distributive Law): The sum of two numbers times a number can be multiplied separately then added. In letters: $(a+b)\times c=a\times c+b\times c$, and conversely $a\times c+b\times c=(a+b)\times c$.
+**Definition 8.3.6** (Distributive Law): The sum of two numbers times a number can be multiplied separately then added. In letters: $\left(a+b\right)\times c=a\times c+b\times c$, and conversely $a\times c+b\times c=\left(a+b\right)\times c$.
 
-**Definition 8.3.7** (Division Properties): A number divided consecutively by two numbers equals dividing by their product: $a\div b\div c=a\div(b\times c)$.
+**Definition 8.3.7** (Division Properties): A number divided consecutively by two numbers equals dividing by their product: $a\div b\div c=a\div\left(b\times c\right)$.
 
 **Definition 8.3.8** (Efficient Calculation): Using addition and multiplication laws and subtraction and division properties, combine numbers that make round tens or hundreds first to make calculation easier.
 
@@ -1056,7 +1056,7 @@ A hundred-something-ten number times a one-digit: first do two-digit times one-d
 
 #### Extending Integer Multiplication Laws to Decimals
 
-**Definition 9.2.5** (Extending Integer Multiplication Laws to Decimals): The commutative, associative, and distributive laws apply to decimal multiplication: $a\times b=b\times a$, $(a\times b)\times c=a\times(b\times c)$, $(a+b)\times c=a\times c+b\times c$.
+**Definition 9.2.5** (Extending Integer Multiplication Laws to Decimals): The commutative, associative, and distributive laws apply to decimal multiplication: $a\times b=b\times a$, $\left(a\times b\right)\times c=a\times\left(b\times c\right)$, $\left(a+b\right)\times c=a\times c+b\times c$.
 
 #### Solving Problems
 
@@ -1106,7 +1106,7 @@ A hundred-something-ten number times a one-digit: first do two-digit times one-d
 
 **Definition 9.5.2** (Writing Algebraic Expressions): When a number times a letter, omit the multiplication sign and write the number before the letter; when $1$ times a letter, omit the $1$; when letters multiply, omit the sign; two identical letters multiply as $a^2$, read "$a$ squared."
 
-**Definition 9.5.3** (Using Letters for Laws and Formulas): Commutative law $a+b=b+a$; associative law $(a+b)+c=a+(b+c)$; commutative multiplication $ab=ba$; associative multiplication $(ab)c=a(bc)$; distributive $(a+b)c=ac+bc$. Square perimeter $C=4a$, area $S=a^2$; rectangle perimeter $C=2(a+b)$, area $S=ab$.
+**Definition 9.5.3** (Using Letters for Laws and Formulas): Commutative law $a+b=b+a$; associative law $\left(a+b\right)+c=a+\left(b+c\right)$; commutative multiplication $ab=ba$; associative multiplication $\left(ab\right)c=a\left(bc\right)$; distributive $\left(a+b\right)c=ac+bc$. Square perimeter $C=4a$, area $S=a^2$; rectangle perimeter $C=2\left(a+b\right)$, area $S=ab$.
 
 #### Properties of Equations
 
@@ -1128,7 +1128,7 @@ A hundred-something-ten number times a one-digit: first do two-digit times one-d
 
 #### Trapezoid Area
 
-**Definition 9.6.4** (Trapezoid Area): Two identical trapezoids form a parallelogram; the formed parallelogram's base equals the trapezoid's upper plus lower base, and height equals the trapezoid's height. Trapezoid area: $S=(a+b)h\div2$.
+**Definition 9.6.4** (Trapezoid Area): Two identical trapezoids form a parallelogram; the formed parallelogram's base equals the trapezoid's upper plus lower base, and height equals the trapezoid's height. Trapezoid area: $S=\left(a+b\right)h\div2$.
 
 #### Composite Figure Area
 
@@ -1164,7 +1164,7 @@ A hundred-something-ten number times a one-digit: first do two-digit times one-d
 
 #### Shapes and Geometry Organization
 
-**Definition 9.9.2** (Shapes and Geometry Organization): From front, top, and left, views can reconstruct a solid; axisymmetric corresponding points equidistant from axis; translation and rotation do not change shape/size; parallelogram $S=ah$, triangle $S=ah\div2$, trapezoid $S=(a+b)h\div2$.
+**Definition 9.9.2** (Shapes and Geometry Organization): From front, top, and left, views can reconstruct a solid; axisymmetric corresponding points equidistant from axis; translation and rotation do not change shape/size; parallelogram $S=ah$, triangle $S=ah\div2$, trapezoid $S=\left(a+b\right)h\div2$.
 
 #### Possibility Organization
 
@@ -1206,7 +1206,7 @@ A hundred-something-ten number times a one-digit: first do two-digit times one-d
 
 #### Surface Area of Cuboids and Cubes
 
-**Definition 10.3.2** (Surface Area): The total area of the $6$ faces of a cuboid or cube is its surface area. Cuboid surface area $S=(ab+ah+bh)\times2$; cube surface area $S=6a^2$.
+**Definition 10.3.2** (Surface Area): The total area of the $6$ faces of a cuboid or cube is its surface area. Cuboid surface area $S=\left(ab+ah+bh\right)\times2$; cube surface area $S=6a^2$.
 
 #### Volume of Cuboids and Cubes
 
@@ -1224,7 +1224,7 @@ A hundred-something-ten number times a one-digit: first do two-digit times one-d
 
 #### Painted Cube Surfaces
 
-**Definition 10.4.1** (Painted Cube Surfaces): After painting the surface of a large cube of side $n$ small cubes, three-face-painted small cubes are at the vertices, $8$ total; two-face-painted are on edges (excluding vertices), $12(n-2)$ total; one-face-painted are on faces (excluding the border), $6(n-2)^2$ total; unpainted are inside, $(n-2)^3$ total.
+**Definition 10.4.1** (Painted Cube Surfaces): After painting the surface of a large cube of side $n$ small cubes, three-face-painted small cubes are at the vertices, $8$ total; two-face-painted are on edges (excluding vertices), $12\left(n-2\right)$ total; one-face-painted are on faces (excluding the border), $6\left(n-2\right)^2$ total; unpainted are inside, $\left(n-2\right)^3$ total.
 
 ### Unit 5: Fraction Meaning and Properties
 
@@ -1314,7 +1314,7 @@ A hundred-something-ten number times a one-digit: first do two-digit times one-d
 
 #### Position
 
-**Definition 11.1.1** (Ordered Pairs): Two numbers represent a point's position on a plane, written as (column, row); the order cannot be swapped. E.g. $(3, 4)$ means column $3$, row $4$.
+**Definition 11.1.1** (Ordered Pairs): Two numbers represent a point's position on a plane, written as (column, row); the order cannot be swapped. E.g. $\left(3, 4\right)$ means column $3$, row $4$.
 
 **Definition 11.1.2** (Position by Direction and Distance): On a plane, first choose an observation point, then by the target's direction (e.g. $30^{\circ}$ east of north) and distance, the position is determined.
 
@@ -1374,7 +1374,7 @@ A hundred-something-ten number times a one-digit: first do two-digit times one-d
 
 #### Circle Area
 
-**Definition 11.5.5** (Circle Area): The area the circle occupies. Divide the circle into equal sectors and rearrange into an approximate rectangle, length $\pi r$, width $r$, so $S=\pi r^2$. Annulus area $=\pi(R^2-r^2)$.
+**Definition 11.5.5** (Circle Area): The area the circle occupies. Divide the circle into equal sectors and rearrange into an approximate rectangle, length $\pi r$, width $r$, so $S=\pi r^2$. Annulus area $=\pi\left(R^2-r^2\right)$.
 
 ### Unit 6: Mathematics in Sports
 
@@ -1494,10 +1494,10 @@ A hundred-something-ten number times a one-digit: first do two-digit times one-d
 
 **Definition 12.8.1** (Number Classification and Meaning): Integers include positive integers,$0$, negative integers; natural numbers are positive integers and $0$. Fractions include terminating and repeating decimals. $0$ is neither positive nor negative. Dividing unit $1$ equally into several parts, one or several parts is a fraction; a number that is some percent of another is a percentage.
 
-**Definition 12.8.2** (Operation Laws): Commutative addition $a+b=b+a$; associative addition $(a+b)+c=a+(b+c)$; commutative multiplication $ab=ba$; associative multiplication $(ab)c=a(bc)$; distributive $(a+b)c=ac+bc$. Use laws to simplify.
+**Definition 12.8.2** (Operation Laws): Commutative addition $a+b=b+a$; associative addition $\left(a+b\right)+c=a+\left(b+c\right)$; commutative multiplication $ab=ba$; associative multiplication $\left(ab\right)c=a\left(bc\right)$; distributive $\left(a+b\right)c=ac+bc$. Use laws to simplify.
 
 **Definition 12.8.3** (Equations): An equation with an unknown is an equation. Adding or subtracting the same number from both sides keeps equality; multiplying both sides by the same number, or dividing by the same number that is not $0$, keeps equality.
 
 #### Shapes and Geometry
 
-**Definition 12.8.4** (Common Shape Perimeter/Area/Volume Formulas): Rectangle $C=2(a+b)$, $S=ab$; square $C=4a$, $S=a^2$; parallelogram $S=ah$; triangle $S=\frac{1}{2}ah$; trapezoid $S=\frac{1}{2}(a+b)h$; circle $C=2\pi r$, $S=\pi r^2$; cuboid $V=abh$; cube $V=a^3$; cylinder $V=Sh$; cone $V=\frac{1}{3}Sh$.
+**Definition 12.8.4** (Common Shape Perimeter/Area/Volume Formulas): Rectangle $C=2\left(a+b\right)$, $S=ab$; square $C=4a$, $S=a^2$; parallelogram $S=ah$; triangle $S=\frac{1}{2}ah$; trapezoid $S=\frac{1}{2}\left(a+b\right)h$; circle $C=2\pi r$, $S=\pi r^2$; cuboid $V=abh$; cube $V=a^3$; cylinder $V=Sh$; cone $V=\frac{1}{3}Sh$.

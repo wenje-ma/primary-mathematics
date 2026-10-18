@@ -24,7 +24,7 @@ By **Definition 3.4.1** (East, South, West, North), when you get up in the morni
 
 ### Exercise 115
 
-(Lesson: Recognizing East, South, West, North, Do It, Record Sheet) Recognize directions on campus and complete the record sheet. 1. Facing north, the back is $(\;\;)$, the left is $(\;\;)$, the right is $(\;\;)$. 2. $(\;\;)$ is opposite to $(\;\;)$, $(\;\;)$ is opposite to $(\;\;)$. 3. To the east of the campus there is $(\;\;)$, to the south $(\;\;)$, to the west $(\;\;)$, to the north $(\;\;)$.
+(Lesson: Recognizing East, South, West, North, Do It, Record Sheet) Recognize directions on campus and complete the record sheet. 1. Facing north, the back is $\left(\;\;\right)$, the left is $\left(\;\;\right)$, the right is $\left(\;\;\right)$. 2. $\left(\;\;\right)$ is opposite to $\left(\;\;\right)$, $\left(\;\;\right)$ is opposite to $\left(\;\;\right)$. 3. To the east of the campus there is $\left(\;\;\right)$, to the south $\left(\;\;\right)$, to the west $\left(\;\;\right)$, to the north $\left(\;\;\right)$.
 
 ### Solution to Exercise 115
 

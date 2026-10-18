@@ -8,7 +8,7 @@
 
 ### 解答 练习二百五十
 
-$125\times(1-\frac{1}{5})=125\times\frac{4}{5}=100$ (元). $\blacksquare$
+$125\times\left(1-\frac{1}{5}\right)=125\times\frac{4}{5}=100$ (元). $\blacksquare$
 
 ### 练习二百五十一
 
@@ -16,7 +16,7 @@ $125\times(1-\frac{1}{5})=125\times\frac{4}{5}=100$ (元). $\blacksquare$
 
 ### 解答 练习二百五十一
 
-$100\div(1-\frac{1}{5})=100\div\frac{4}{5}=125$ (元). $\blacksquare$
+$100\div\left(1-\frac{1}{5}\right)=100\div\frac{4}{5}=125$ (元). $\blacksquare$
 
 ### 练习二百五十二
 
@@ -24,7 +24,7 @@ $100\div(1-\frac{1}{5})=100\div\frac{4}{5}=125$ (元). $\blacksquare$
 
 ### 解答 练习二百五十二
 
-$125\times(1-20\%)=125\times0.8=100$ (元). $\blacksquare$
+$125\times\left(1-20\%\right)=125\times0.8=100$ (元). $\blacksquare$
 
 ### 练习二百五十三
 
@@ -32,7 +32,7 @@ $125\times(1-20\%)=125\times0.8=100$ (元). $\blacksquare$
 
 ### 解答 练习二百五十三
 
-$100\div(1-20\%)=100\div0.8=125$ (元). $\blacksquare$
+$100\div\left(1-20\%\right)=100\div0.8=125$ (元). $\blacksquare$
 
 ### 练习二百五十四
 
@@ -64,7 +64,7 @@ $C=2\times3.14\times1=6.28\,\text{km}$. $\blacksquare$
 
 ### 解答 练习二百五十七
 
-$3.14\times(1^2-0.2^2)=3.14\times0.96=3.0144\,\text{km}^2$. $\blacksquare$
+$3.14\times\left(1^2-0.2^2\right)=3.14\times0.96=3.0144\,\text{km}^2$. $\blacksquare$
 
 ### 练习二百五十八
 
@@ -116,11 +116,11 @@ $36000\div\frac{71}{100}\approx50704$ (万平方千米). $\blacksquare$
 
 ### 练习二百六十四
 
-(课时 练习九 复习巩固 第 5 题) 计算下面各题, 能用简便算法的用简便算法: $\frac{5}{9}\times\frac{3}{4}+\frac{5}{9}\times\frac{1}{4}$; $3.7\times\frac{6}{13}+1.3\div\frac{13}{6}$; $0.5\times(\frac{3}{5}+\frac{6}{25})$.
+(课时 练习九 复习巩固 第 5 题) 计算下面各题, 能用简便算法的用简便算法: $\frac{5}{9}\times\frac{3}{4}+\frac{5}{9}\times\frac{1}{4}$; $3.7\times\frac{6}{13}+1.3\div\frac{13}{6}$; $0.5\times\left(\frac{3}{5}+\frac{6}{25}\right)$.
 
 ### 解答 练习二百六十四
 
-$\frac{5}{9}\times(\frac{3}{4}+\frac{1}{4})=\frac{5}{9}$; $(3.7+1.3)\times\frac{6}{13}=5\times\frac{6}{13}=\frac{30}{13}$; $0.5\times\frac{21}{25}=\frac{21}{50}$. $\blacksquare$
+$\frac{5}{9}\times\left(\frac{3}{4}+\frac{1}{4}\right)=\frac{5}{9}$; $\left(3.7+1.3\right)\times\frac{6}{13}=5\times\frac{6}{13}=\frac{30}{13}$; $0.5\times\frac{21}{25}=\frac{21}{50}$. $\blacksquare$
 
 ### 练习二百六十五
 
@@ -144,7 +144,7 @@ $\frac{5}{9}\times(\frac{3}{4}+\frac{1}{4})=\frac{5}{9}$; $(3.7+1.3)\times\frac{
 
 ### 解答 练习二百六十七
 
-烘干率 $=428\div500\times100\%=85.6\%$; 含水率 $=(500-428)\div500\times100\%=14.4\%$. $\blacksquare$
+烘干率 $=428\div500\times100\%=85.6\%$; 含水率 $=\left(500-428\right)\div500\times100\%=14.4\%$. $\blacksquare$
 
 ### 练习二百六十八
 
@@ -164,11 +164,11 @@ $\frac{5}{9}\times(\frac{3}{4}+\frac{1}{4})=\frac{5}{9}$; $(3.7+1.3)\times\frac{
 
 ### 练习二百七十
 
-(课时 练习九 综合运用 第 11 题) 等腰直角三角形 $ABC$, $A(5,5)$, $B(2,2)$, $C(5,2)$. 画出这个三角形. 顶点 $C$ 还可以在哪里?
+(课时 练习九 综合运用 第 11 题) 等腰直角三角形 $ABC$, $A\left(5,5\right)$, $B\left(2,2\right)$, $C\left(5,2\right)$. 画出这个三角形. 顶点 $C$ 还可以在哪里?
 
 ### 解答 练习二百七十
 
-在方格纸上标出 $A$, $B$, $C$ 三点连成直角三角形. 因为 $AB$ 可作斜边, 另一个 $C$ 的位置是 $(2,5)$. $\blacksquare$
+在方格纸上标出 $A$, $B$, $C$ 三点连成直角三角形. 因为 $AB$ 可作斜边, 另一个 $C$ 的位置是 $\left(2,5\right)$. $\blacksquare$
 
 ### 练习二百七十一
 
@@ -176,7 +176,7 @@ $\frac{5}{9}\times(\frac{3}{4}+\frac{1}{4})=\frac{5}{9}$; $(3.7+1.3)\times\frac{
 
 ### 解答 练习二百七十一
 
-设长 $x$, 宽 $\frac{2}{5}x$, $2(x+\frac{2}{5}x)=84$, $\frac{7}{5}x=42$, $x=30\,\text{cm}$; 宽 $=12\,\text{cm}$. $\blacksquare$
+设长 $x$, 宽 $\frac{2}{5}x$, $2\left(x+\frac{2}{5}x\right)=84$, $\frac{7}{5}x=42$, $x=30\,\text{cm}$; 宽 $=12\,\text{cm}$. $\blacksquare$
 
 ### 练习二百七十二
 
@@ -184,7 +184,7 @@ $\frac{5}{9}\times(\frac{3}{4}+\frac{1}{4})=\frac{5}{9}$; $(3.7+1.3)\times\frac{
 
 ### 解答 练习二百七十二
 
-U 盘 A 剩余 $8-6.4=1.6\,\text{GB}<1.8$; U 盘 B 剩余 $16\times30\%=4.8\,\text{GB}>1.8$, 选 B. 拷贝全部需 $0.5\div15\%=\frac{10}{3}$ 分, 还需 $\frac{10}{3}\times(1-15\%)=\frac{17}{6}\approx2.83$ 分. $\blacksquare$
+U 盘 A 剩余 $8-6.4=1.6\,\text{GB}<1.8$; U 盘 B 剩余 $16\times30\%=4.8\,\text{GB}>1.8$, 选 B. 拷贝全部需 $0.5\div15\%=\frac{10}{3}$ 分, 还需 $\frac{10}{3}\times\left(1-15\%\right)=\frac{17}{6}\approx2.83$ 分. $\blacksquare$
 
 ### 练习二百七十三
 
@@ -204,11 +204,11 @@ U 盘 A 剩余 $8-6.4=1.6\,\text{GB}<1.8$; U 盘 B 剩余 $16\times30\%=4.8\,\te
 
 ### 练习二百七十五
 
-(课时 练习九 综合运用 第 16 题) 平行四边形三个顶点 $A(6,5)$, $B(8,8)$, $C(12,8)$. 求第四个顶点 $D$. 能画几个平行四边形?
+(课时 练习九 综合运用 第 16 题) 平行四边形三个顶点 $A\left(6,5\right)$, $B\left(8,8\right)$, $C\left(12,8\right)$. 求第四个顶点 $D$. 能画几个平行四边形?
 
 ### 解答 练习二百七十五
 
-三种可能: 以 $AB$, $AC$, $BC$ 为对角线. $D=(10,5)$ 或 $(16,11)$ 或 $(2,5)$. 共 $3$ 个平行四边形. $\blacksquare$
+三种可能: 以 $AB$, $AC$, $BC$ 为对角线. $D=\left(10,5\right)$ 或 $\left(16,11\right)$ 或 $\left(2,5\right)$. 共 $3$ 个平行四边形. $\blacksquare$
 
 ### 练习二百七十六
 

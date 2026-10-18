@@ -14,7 +14,7 @@
 
 ### Solution to Exercise 12
 
-By **Definition 12.2.1** (Discount). (1) Current price $=280\times85\%=238$ (yuan). (2) Selling at 10% off means $90\%$ of the original price; the saving is $1-90\%=10\%$ of the original price: $160\times(1-90\%)=160\times10\%=16$ (yuan). $\blacksquare$
+By **Definition 12.2.1** (Discount). (1) Current price $=280\times85\%=238$ (yuan). (2) Selling at 10% off means $90\%$ of the original price; the saving is $1-90\%=10\%$ of the original price: $160\times\left(1-90\%\right)=160\times10\%=16$ (yuan). $\blacksquare$
 
 ### Exercise 13
 
@@ -30,7 +30,7 @@ By **Definition 12.2.1** (Discount), current price $=$ original price $\times$ d
 
 ### Solution to Exercise 14
 
-By **Definition 12.2.2** (Tenths, or Cheng), reducing consumption by 25% means using $25\%$ less, so this year's usage is $1-25\%=75\%$ of last year's: $350\times(1-25\%)=350\times75\%=262.5$ (ten-thousand kWh). $\blacksquare$
+By **Definition 12.2.2** (Tenths, or Cheng), reducing consumption by 25% means using $25\%$ less, so this year's usage is $1-25\%=75\%$ of last year's: $350\times\left(1-25\%\right)=350\times75\%=262.5$ (ten-thousand kWh). $\blacksquare$
 
 ### Exercise 15
 
@@ -38,7 +38,7 @@ By **Definition 12.2.2** (Tenths, or Cheng), reducing consumption by 25% means u
 
 ### Solution to Exercise 15
 
-By **Definition 12.2.2** (Tenths, or Cheng), a 20% increase means 2019 is $1+20\%=120\%$ of 2018. The 2018 number of visitors $=96\div(1+20\%)=96\div1.2=80$ (ten thousand). $\blacksquare$
+By **Definition 12.2.2** (Tenths, or Cheng), a 20% increase means 2019 is $1+20\%=120\%$ of 2018. The 2018 number of visitors $=96\div\left(1+20\%\right)=96\div1.2=80$ (ten thousand). $\blacksquare$
 
 ### Exercise 16
 
@@ -110,7 +110,7 @@ By **Definition 12.2.1** (Discount), 20% off means $80\%$ of the original price.
 
 ### Solution to Exercise 24
 
-By **Definition 12.2.1** (Discount), 20% off means paying only $80\%$ of the original price, so the saving is $1-80\%=20\%$ of the original price; this $20\%$ equals $9.6$ yuan. The original price $=9.6\div(1-80\%)=9.6\div20\%=48$ (yuan). $\blacksquare$
+By **Definition 12.2.1** (Discount), 20% off means paying only $80\%$ of the original price, so the saving is $1-80\%=20\%$ of the original price; this $20\%$ equals $9.6$ yuan. The original price $=9.6\div\left(1-80\%\right)=9.6\div20\%=48$ (yuan). $\blacksquare$
 
 ### Exercise 25
 
@@ -118,7 +118,7 @@ By **Definition 12.2.1** (Discount), 20% off means paying only $80\%$ of the ori
 
 ### Solution to Exercise 25
 
-By **Definition 12.2.2** (Tenths, or Cheng), a 20% increase means last year was $1+20\%=120\%$ of the year before last: $48\times(1+20\%)=48\times1.2=57.6$ (ten-thousand tons). $\blacksquare$
+By **Definition 12.2.2** (Tenths, or Cheng), a 20% increase means last year was $1+20\%=120\%$ of the year before last: $48\times\left(1+20\%\right)=48\times1.2=57.6$ (ten-thousand tons). $\blacksquare$
 
 ### Exercise 26
 
@@ -126,7 +126,7 @@ By **Definition 12.2.2** (Tenths, or Cheng), a 20% increase means last year was 
 
 ### Solution to Exercise 26
 
-By **Definition 12.2.2** (Tenths, or Cheng), February's 30% growth over January means February was $1+30\%=130\%$ of January. January's exports $=1.3\div(1+30\%)=1.3\div1.3=1$ (ten thousand). $\blacksquare$
+By **Definition 12.2.2** (Tenths, or Cheng), February's 30% growth over January means February was $1+30\%=130\%$ of January. January's exports $=1.3\div\left(1+30\%\right)=1.3\div1.3=1$ (ten thousand). $\blacksquare$
 
 ### Exercise 27
 
