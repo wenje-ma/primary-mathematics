@@ -8,7 +8,7 @@
 >
 > **定义 12.4.4** (圆锥的认识) <br>圆锥的底面是一个圆, 侧面是曲面; 从圆锥的顶点到底面圆心的距离是圆锥的高.
 >
-> **定义 12.4.5** (圆锥的体积) <br>通过实验, 等底等高的圆锥形容器正好用 $3$ 次倒满圆柱形容器, 即圆锥体积是与它等底等高的圆柱体积的 $\dfrac{1}{3}$. 圆锥体积 $=\dfrac{1}{3}Sh=\dfrac{1}{3}\pi r^{2}h$.
+> **定义 12.4.5** (圆锥的体积) <br>通过实验, 等底等高的圆锥形容器正好用 $3$ 次倒满圆柱形容器, 即圆锥体积是与它等底等高的圆柱体积的 $\frac{1}{3}$. 圆锥体积 $=\frac{1}{3}Sh=\frac{1}{3}\pi r^{2}h$.
 
 ### 练习三十六
 
@@ -180,7 +180,7 @@ $\blacksquare$
 
 ### 解答 练习五十六
 
-由**定义 12.4.5** (圆锥的体积), 底面积 $=\pi\times2^{2}=12.56\,\mathrm{m}^{2}$; 体积 $=\dfrac{1}{3}\times12.56\times1.5=6.28\,\mathrm{m}^{3}$; 重 $=6.28\times1.5=9.42\,\mathrm{t}$. $\blacksquare$
+由**定义 12.4.5** (圆锥的体积), 底面积 $=\pi\times2^{2}=12.56\,\mathrm{m}^{2}$; 体积 $=\frac{1}{3}\times12.56\times1.5=6.28\,\mathrm{m}^{3}$; 重 $=6.28\times1.5=9.42\,\mathrm{t}$. $\blacksquare$
 
 ### 练习五十七
 
@@ -188,7 +188,7 @@ $\blacksquare$
 
 ### 解答 练习五十七
 
-由**定义 12.4.5** (圆锥的体积), $V=\dfrac{1}{3}Sh=\dfrac{1}{3}\times19\times12=76\,\mathrm{cm}^{3}$. $\blacksquare$
+由**定义 12.4.5** (圆锥的体积), $V=\frac{1}{3}Sh=\frac{1}{3}\times19\times12=76\,\mathrm{cm}^{3}$. $\blacksquare$
 
 ### 练习五十八
 
@@ -196,7 +196,7 @@ $\blacksquare$
 
 ### 解答 练习五十八
 
-由**定义 12.4.5** (圆锥的体积), 体积 $=\dfrac{1}{3}\times\pi\times2^{2}\times6=\dfrac{1}{3}\times3.14\times4\times6=25.12\,\mathrm{cm}^{3}$; 重 $=25.12\times7.9\approx198\,\mathrm{g}$. $\blacksquare$
+由**定义 12.4.5** (圆锥的体积), 体积 $=\frac{1}{3}\times\pi\times2^{2}\times6=\frac{1}{3}\times3.14\times4\times6=25.12\,\mathrm{cm}^{3}$; 重 $=25.12\times7.9\approx198\,\mathrm{g}$. $\blacksquare$
 
 ### 练习五十九
 
@@ -204,7 +204,7 @@ $\blacksquare$
 
 ### 解答 练习五十九
 
-由**定义 12.4.5** (圆锥的体积), 等底等高时圆锥体积是圆柱的 $\dfrac{1}{3}$. (1) 圆锥 $=75.36\div3=25.12\,\mathrm{m}^{3}$. (2) 圆柱 $=141.3\times3=423.9\,\mathrm{m}^{3}$. $\blacksquare$
+由**定义 12.4.5** (圆锥的体积), 等底等高时圆锥体积是圆柱的 $\frac{1}{3}$. (1) 圆锥 $=75.36\div3=25.12\,\mathrm{m}^{3}$. (2) 圆柱 $=141.3\times3=423.9\,\mathrm{m}^{3}$. $\blacksquare$
 
 ### 练习六十
 
@@ -212,7 +212,7 @@ $\blacksquare$
 
 ### 解答 练习六十
 
-由**定义 12.4.5** (圆锥的体积), 半径 $r=31.4\div\left(2\times3.14\right)=5\,\mathrm{cm}$; 体积 $=\dfrac{1}{3}\times\pi\times5^{2}\times9=\dfrac{1}{3}\times3.14\times25\times9=235.5\,\mathrm{cm}^{3}$. $\blacksquare$
+由**定义 12.4.5** (圆锥的体积), 半径 $r=31.4\div\left(2\times3.14\right)=5\,\mathrm{cm}$; 体积 $=\frac{1}{3}\times\pi\times5^{2}\times9=\frac{1}{3}\times3.14\times25\times9=235.5\,\mathrm{cm}^{3}$. $\blacksquare$
 
 ### 练习六十一
 
@@ -236,7 +236,7 @@ $\blacksquare$
 
 ### 解答 练习六十三
 
-由**定义 12.4.2** (圆柱的侧面积与表面积), **定义 12.4.3** (圆柱的体积) 与**定义 12.4.5** (圆锥的体积). 圆柱 $r=5,h=4$: 表面积 $=2\pi\times5\times4+2\pi\times25=40\pi+50\pi=90\pi\approx282.6\,\mathrm{dm}^{2}$, 体积 $=\pi\times25\times4=100\pi\approx314\,\mathrm{dm}^{3}$. 圆柱 $r=2,h=0.7$: 表面积 $\approx33.9\,\mathrm{m}^{2}$, 体积 $\approx8.8\,\mathrm{m}^{3}$. 圆锥 $d=4\left(r=2\right),h=6$: 体积 $=\dfrac{1}{3}\pi\times4\times6=8\pi\approx25.12\,\mathrm{dm}^{3}$. 圆锥 $r=0.5,h=12$: 体积 $=\dfrac{1}{3}\pi\times0.25\times12=\pi\approx3.14\,\mathrm{m}^{3}$. $\blacksquare$
+由**定义 12.4.2** (圆柱的侧面积与表面积), **定义 12.4.3** (圆柱的体积) 与**定义 12.4.5** (圆锥的体积). 圆柱 $r=5,h=4$: 表面积 $=2\pi\times5\times4+2\pi\times25=40\pi+50\pi=90\pi\approx282.6\,\mathrm{dm}^{2}$, 体积 $=\pi\times25\times4=100\pi\approx314\,\mathrm{dm}^{3}$. 圆柱 $r=2,h=0.7$: 表面积 $\approx33.9\,\mathrm{m}^{2}$, 体积 $\approx8.8\,\mathrm{m}^{3}$. 圆锥 $d=4\left(r=2\right),h=6$: 体积 $=\frac{1}{3}\pi\times4\times6=8\pi\approx25.12\,\mathrm{dm}^{3}$. 圆锥 $r=0.5,h=12$: 体积 $=\frac{1}{3}\pi\times0.25\times12=\pi\approx3.14\,\mathrm{m}^{3}$. $\blacksquare$
 
 ### 练习六十四
 
@@ -244,4 +244,4 @@ $\blacksquare$
 
 ### 解答 练习六十四
 
-由**定义 12.4.5** (圆锥的体积) 与**定义 12.4.3** (圆柱的体积), 沙堆体积 $=\dfrac{1}{3}\times28.6\times3=28.6\,\mathrm{m}^{3}$. 铺成路面为长方体, 厚 $2\,\mathrm{cm}=0.02\,\mathrm{m}$, 长 $=28.6\div\left(10\times0.02\right)=143\,\mathrm{m}$. $\blacksquare$
+由**定义 12.4.5** (圆锥的体积) 与**定义 12.4.3** (圆柱的体积), 沙堆体积 $=\frac{1}{3}\times28.6\times3=28.6\,\mathrm{m}^{3}$. 铺成路面为长方体, 厚 $2\,\mathrm{cm}=0.02\,\mathrm{m}$, 长 $=28.6\div\left(10\times0.02\right)=143\,\mathrm{m}$. $\blacksquare$
