@@ -6,7 +6,7 @@
 >
 > **Definition 12.8.3** (Equations) <br>An equality containing an unknown is called an equation. Adding or subtracting the same number to both sides keeps the two sides equal; multiplying both sides by the same number, or dividing by the same number not equal to $0$, keeps the two sides equal.
 >
-> **Definition 12.8.4** (Common Perimeter, Area, and Volume Formulas) <br>Rectangle $C=2\left(a+b\right), S=ab$; square $C=4a, S=a^{2}$; parallelogram $S=ah$; triangle $S=\dfrac{1}{2}ah$; trapezoid $S=\dfrac{1}{2}\left(a+b\right)h$; circle $C=2\pi r, S=\pi r^{2}$; cuboid $V=abh$; cube $V=a^{3}$; cylinder $V=Sh$; cone $V=\dfrac{1}{3}Sh$.
+> **Definition 12.8.4** (Common Perimeter, Area, and Volume Formulas) <br>Rectangle $C=2\left(a+b\right), S=ab$; square $C=4a, S=a^{2}$; parallelogram $S=ah$; triangle $S=\frac{1}{2}ah$; trapezoid $S=\frac{1}{2}\left(a+b\right)h$; circle $C=2\pi r, S=\pi r^{2}$; cuboid $V=abh$; cube $V=a^{3}$; cylinder $V=Sh$; cone $V=\frac{1}{3}Sh$.
 
 ### Exercise 105
 
@@ -66,11 +66,11 @@ By **Definition 12.8.3** (Equations), where letters stand for numbers. $9a$ is t
 
 ### Exercise 112
 
-(Lesson: Exercise 16, Problem 3) Solve the equations: $x-0.25=\dfrac{1}{4}$; $4+0.7x=102$.
+(Lesson: Exercise 16, Problem 3) Solve the equations: $x-0.25=\frac{1}{4}$; $4+0.7x=102$.
 
 ### Solution to Exercise 112
 
-By **Definition 12.8.3** (Equations). $x-0.25=\dfrac{1}{4}$, so $x=0.25+0.25=0.5$. $4+0.7x=102$, so $0.7x=98$, and $x=140$. $\blacksquare$
+By **Definition 12.8.3** (Equations). $x-0.25=\frac{1}{4}$, so $x=0.25+0.25=0.5$. $4+0.7x=102$, so $0.7x=98$, and $x=140$. $\blacksquare$
 
 ### Exercise 113
 
@@ -114,11 +114,11 @@ By **Definition 12.8.3** (Equations), let the spiders be $x$ and the mantises $\
 
 ### Exercise 118
 
-(Lesson: Exercise 17, Problem 2) Determine whether the two quantities in each case are directly or inversely proportional. (1) With a fixed class size, the number present and the number absent; (2) given $\dfrac{y}{x}=3$, $y$ and $x$; (3) with a fixed triangle area, the base and the height; (4) the surface area of a cube and the area of one face; (5) given $xy=1$, $y$ and $x$; (6) with a fixed oil extraction rate, the mass of peanut oil and the mass of peanuts.
+(Lesson: Exercise 17, Problem 2) Determine whether the two quantities in each case are directly or inversely proportional. (1) With a fixed class size, the number present and the number absent; (2) given $\frac{y}{x}=3$, $y$ and $x$; (3) with a fixed triangle area, the base and the height; (4) the surface area of a cube and the area of one face; (5) given $xy=1$, $y$ and $x$; (6) with a fixed oil extraction rate, the mass of peanut oil and the mass of peanuts.
 
 ### Solution to Exercise 118
 
-By **Definition 12.5.3** (Direct Proportion) and **Definition 12.5.4** (Inverse Proportion). (1) Present $+$ absent $=$ class size (a constant sum), so neither. (2) $\dfrac{y}{x}=3$ (constant ratio), so directly proportional. (3) Base $\times$ height $=2S$ (constant product), so inversely proportional. (4) Surface area $\div$ area of one face $=6$ (constant ratio), so directly proportional. (5) $xy=1$ (constant product), so inversely proportional. (6) Peanut-oil mass $\div$ peanut mass $=$ oil extraction rate (constant), so directly proportional. $\blacksquare$
+By **Definition 12.5.3** (Direct Proportion) and **Definition 12.5.4** (Inverse Proportion). (1) Present $+$ absent $=$ class size (a constant sum), so neither. (2) $\frac{y}{x}=3$ (constant ratio), so directly proportional. (3) Base $\times$ height $=2S$ (constant product), so inversely proportional. (4) Surface area $\div$ area of one face $=6$ (constant ratio), so directly proportional. (5) $xy=1$ (constant product), so inversely proportional. (6) Peanut-oil mass $\div$ peanut mass $=$ oil extraction rate (constant), so directly proportional. $\blacksquare$
 
 ### Exercise 119
 
@@ -126,7 +126,7 @@ By **Definition 12.5.3** (Direct Proportion) and **Definition 12.5.4** (Inverse 
 
 ### Solution to Exercise 119
 
-The total number of parts is $7+2=9$. Flour $=1.8\times\dfrac{7}{9}=1.4\,\mathrm{kg}$; water $=1.8\times\dfrac{2}{9}=0.4\,\mathrm{kg}$. $\blacksquare$
+The total number of parts is $7+2=9$. Flour $=1.8\times\frac{7}{9}=1.4\,\mathrm{kg}$; water $=1.8\times\frac{2}{9}=0.4\,\mathrm{kg}$. $\blacksquare$
 
 ### Exercise 120
 
@@ -134,7 +134,7 @@ The total number of parts is $7+2=9$. Flour $=1.8\times\dfrac{7}{9}=1.4\,\mathrm
 
 ### Solution to Exercise 120
 
-By **Definition 12.5.5** (Scale), since the scale is fixed on one map, the on-paper distance is directly proportional to the actual distance. Let the actual distance A-C be $x\,\mathrm{km}$. Then $\dfrac{20}{1600}=\dfrac{12}{x}$, $20x=19200$, and $x=960\,\mathrm{km}$. $\blacksquare$
+By **Definition 12.5.5** (Scale), since the scale is fixed on one map, the on-paper distance is directly proportional to the actual distance. Let the actual distance A-C be $x\,\mathrm{km}$. Then $\frac{20}{1600}=\frac{12}{x}$, $20x=19200$, and $x=960\,\mathrm{km}$. $\blacksquare$
 
 ### Exercise 121
 

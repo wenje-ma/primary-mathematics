@@ -26,11 +26,11 @@ By **Definition 5.7.3**, first count the existing angles and right angles; then 
 
 ### Exercise 271
 
-(Lesson: Application Improvement, Problem 3) Fraction wall: (1) Which fractions can you find? Arrange them from smallest to largest. (2) How many of $\dfrac{1}{2}$, $\dfrac{1}{3}$, $\cdots$, $\dfrac{1}{9}$ are in $1$? (3) Which different fractions add up to $1$? (4) Raise other questions and answer them.
+(Lesson: Application Improvement, Problem 3) Fraction wall: (1) Which fractions can you find? Arrange them from smallest to largest. (2) How many of $\frac{1}{2}$, $\frac{1}{3}$, $\cdots$, $\frac{1}{9}$ are in $1$? (3) Which different fractions add up to $1$? (4) Raise other questions and answer them.
 
 ### Solution to Exercise 271
 
-(1) $\dfrac{1}{9}<\dfrac{1}{8}<\dfrac{1}{7}<\dfrac{1}{6}<\dfrac{1}{5}<\dfrac{1}{4}<\dfrac{1}{3}<\dfrac{1}{2}$. (2) In $1$ there are $2$ of $\dfrac{1}{2}$, $3$ of $\dfrac{1}{3}$, $\cdots$, $9$ of $\dfrac{1}{9}$. (3) For example, $\dfrac{1}{2}+\dfrac{1}{2}=1$, $\dfrac{1}{3}+\dfrac{1}{3}+\dfrac{1}{3}=1$, $\dfrac{1}{4}+\dfrac{1}{4}+\dfrac{1}{4}+\dfrac{1}{4}=1$. (4) Answers may vary. $\blacksquare$
+(1) $\frac{1}{9}<\frac{1}{8}<\frac{1}{7}<\frac{1}{6}<\frac{1}{5}<\frac{1}{4}<\frac{1}{3}<\frac{1}{2}$. (2) In $1$ there are $2$ of $\frac{1}{2}$, $3$ of $\frac{1}{3}$, $\cdots$, $9$ of $\frac{1}{9}$. (3) For example, $\frac{1}{2}+\frac{1}{2}=1$, $\frac{1}{3}+\frac{1}{3}+\frac{1}{3}=1$, $\frac{1}{4}+\frac{1}{4}+\frac{1}{4}+\frac{1}{4}=1$. (4) Answers may vary. $\blacksquare$
 
 ### Exercise 272
 
@@ -90,11 +90,11 @@ By **Definition 5.9.1**: $173-26+35=182$; $54-\left(62-34\right)=54-28=26$; $\le
 
 ### Exercise 279
 
-(Lesson: Practice 19, Problem 7) Compute: $\dfrac{3}{7}+\dfrac{1}{7}$; $\dfrac{5}{7}-\dfrac{2}{7}$; $\dfrac{4}{9}+\dfrac{1}{9}$; $\dfrac{6}{6}-\dfrac{3}{6}$; $1-\dfrac{2}{3}$; $\dfrac{1}{6}+\dfrac{5}{6}$; $\dfrac{7}{8}-\dfrac{4}{8}$; $\dfrac{1}{4}+\dfrac{3}{4}$.
+(Lesson: Practice 19, Problem 7) Compute: $\frac{3}{7}+\frac{1}{7}$; $\frac{5}{7}-\frac{2}{7}$; $\frac{4}{9}+\frac{1}{9}$; $\frac{6}{6}-\frac{3}{6}$; $1-\frac{2}{3}$; $\frac{1}{6}+\frac{5}{6}$; $\frac{7}{8}-\frac{4}{8}$; $\frac{1}{4}+\frac{3}{4}$.
 
 ### Solution to Exercise 279
 
-$\dfrac{3}{7}+\dfrac{1}{7}=\dfrac{4}{7}$; $\dfrac{5}{7}-\dfrac{2}{7}=\dfrac{3}{7}$; $\dfrac{4}{9}+\dfrac{1}{9}=\dfrac{5}{9}$; $\dfrac{6}{6}-\dfrac{3}{6}=\dfrac{3}{6}$; $1-\dfrac{2}{3}=\dfrac{1}{3}$; $\dfrac{1}{6}+\dfrac{5}{6}=1$; $\dfrac{7}{8}-\dfrac{4}{8}=\dfrac{3}{8}$; $\dfrac{1}{4}+\dfrac{3}{4}=1$. $\blacksquare$
+$\frac{3}{7}+\frac{1}{7}=\frac{4}{7}$; $\frac{5}{7}-\frac{2}{7}=\frac{3}{7}$; $\frac{4}{9}+\frac{1}{9}=\frac{5}{9}$; $\frac{6}{6}-\frac{3}{6}=\frac{3}{6}$; $1-\frac{2}{3}=\frac{1}{3}$; $\frac{1}{6}+\frac{5}{6}=1$; $\frac{7}{8}-\frac{4}{8}=\frac{3}{8}$; $\frac{1}{4}+\frac{3}{4}=1$. $\blacksquare$
 
 ### Exercise 280
 
@@ -162,7 +162,7 @@ There are $4$ people, so a round trip is $4\times2=8$ tickets; $245\times8=1960$
 
 ### Exercise 288
 
-(Lesson: Practice 19, Problem 16) Grandpa is $64$ years old; Xiaohong's age is $\dfrac{1}{8}$ of Grandpa's, and Dad's age is $4$ times Xiaohong's. How old are Xiaohong and Dad?
+(Lesson: Practice 19, Problem 16) Grandpa is $64$ years old; Xiaohong's age is $\frac{1}{8}$ of Grandpa's, and Dad's age is $4$ times Xiaohong's. How old are Xiaohong and Dad?
 
 ### Solution to Exercise 288
 
@@ -170,7 +170,7 @@ Xiaohong: $64\div8=8$ years old; Dad: $8\times4=32$ years old. $\blacksquare$
 
 ### Exercise 289
 
-(Lesson: Practice 19, Problem 17) The garbage station receives $90$ tons of waste; other waste is $\dfrac{2}{3}$ of it, of which $\dfrac{1}{2}$ is sorted out for recycling. How many tons of other waste are recycled?
+(Lesson: Practice 19, Problem 17) The garbage station receives $90$ tons of waste; other waste is $\frac{2}{3}$ of it, of which $\frac{1}{2}$ is sorted out for recycling. How many tons of other waste are recycled?
 
 ### Solution to Exercise 289
 
@@ -178,11 +178,11 @@ Other waste: $90\div3\times2=60$ tons; recycled: $60\div2=30$ tons. $\blacksquar
 
 ### Exercise 290
 
-(Lesson: Thinking Problem 1) Uncle Wang's home and Uncle Li's home are $18$ kilometers apart; they ride toward each other at the same time, and after $10$ minutes their positions are as in the figure (together they have covered $\dfrac{2}{3}$ of the whole route). (1) What fraction have they covered by then? How many kilometers is that? (2) In how many more minutes will they meet?
+(Lesson: Thinking Problem 1) Uncle Wang's home and Uncle Li's home are $18$ kilometers apart; they ride toward each other at the same time, and after $10$ minutes their positions are as in the figure (together they have covered $\frac{2}{3}$ of the whole route). (1) What fraction have they covered by then? How many kilometers is that? (2) In how many more minutes will they meet?
 
 ### Solution to Exercise 290
 
-(1) Together they covered $\dfrac{2}{3}$ of the whole route, $18\div3\times2=12$ kilometers. (2) $10$ minutes covers $\dfrac{2}{3}$, so covering the whole route takes $10\div2\times3=15$ minutes; in another $15-10=5$ minutes they meet. $\blacksquare$
+(1) Together they covered $\frac{2}{3}$ of the whole route, $18\div3\times2=12$ kilometers. (2) $10$ minutes covers $\frac{2}{3}$, so covering the whole route takes $10\div2\times3=15$ minutes; in another $15-10=5$ minutes they meet. $\blacksquare$
 
 ### Exercise 291
 

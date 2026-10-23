@@ -220,7 +220,7 @@ Trapezoid area $\left(40+70\right)\times30\div2=1650$ m$^2$, pond $30\times15=45
 
 ### Solution to Exercise 178
 
-Total square area $12\times12=144$ cm$^2$. By ratio: the two large triangles each take $\dfrac{1}{4}$, i.e. $36$ cm$^2$; the medium triangle takes $\dfrac{1}{8}$, i.e. $18$ cm$^2$; the two small triangles each take $\dfrac{1}{16}$, i.e. $9$ cm$^2$; the square takes $\dfrac{1}{8}$, i.e. $18$ cm$^2$; the parallelogram takes $\dfrac{1}{8}$, i.e. $18$ cm$^2$. $\blacksquare$
+Total square area $12\times12=144$ cm$^2$. By ratio: the two large triangles each take $\frac{1}{4}$, i.e. $36$ cm$^2$; the medium triangle takes $\frac{1}{8}$, i.e. $18$ cm$^2$; the two small triangles each take $\frac{1}{16}$, i.e. $9$ cm$^2$; the square takes $\frac{1}{8}$, i.e. $18$ cm$^2$; the parallelogram takes $\frac{1}{8}$, i.e. $18$ cm$^2$. $\blacksquare$
 
 ### Exercise 179
 

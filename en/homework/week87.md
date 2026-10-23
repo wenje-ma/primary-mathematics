@@ -1,6 +1,6 @@
 # Assignment 87
 
-> **Definition 10.10.1** (Optimal Strategy for Finding the Defective) <br>When using a balance to find a defective (exactly 1 defective, known lighter or heavier than the good ones), split the items into $3$ groups; divide evenly when possible, and when not, make the largest and smallest groups differ by $1$. One weighing then narrows the defective to $\dfrac{1}{3}$ of the original range.
+> **Definition 10.10.1** (Optimal Strategy for Finding the Defective) <br>When using a balance to find a defective (exactly 1 defective, known lighter or heavier than the good ones), split the items into $3$ groups; divide evenly when possible, and when not, make the largest and smallest groups differ by $1$. One weighing then narrows the defective to $\frac{1}{3}$ of the original range.
 >
 > **Definition 10.10.2** (Number of Weighings Rule for Finding the Defective) <br>The minimum weighings that guarantee finding the defective vs. the number of items: $2\sim3$ items need $1$ weighing, $4\sim9$ need $2$, $10\sim27$ need $3$, $28\sim81$ need $4$, $82\sim243$ need $5$.
 
@@ -42,7 +42,7 @@ By **Definition 10.10.2** (Number of Weighings Rule), 5 is in the $4\sim9$ range
 
 ### Solution to Exercise 142
 
-By **Definition 10.10.2** (Number of Weighings Rule), 28 is in the $28\sim81$ range, so at least $4$ weighings. Each time split the bottles as evenly as possible into 3 groups, and one weighing narrows the range to $\dfrac{1}{3}$: $28\to10\to4\to2\to1$, totaling $4$ weighings. $\blacksquare$
+By **Definition 10.10.2** (Number of Weighings Rule), 28 is in the $28\sim81$ range, so at least $4$ weighings. Each time split the bottles as evenly as possible into 3 groups, and one weighing narrows the range to $\frac{1}{3}$: $28\to10\to4\to2\to1$, totaling $4$ weighings. $\blacksquare$
 
 ### Exercise 143
 

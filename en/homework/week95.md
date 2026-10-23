@@ -2,7 +2,7 @@
 
 > **Definition 11.7.1** (Percentages) <br>Numbers like $14\%$, $65.5\%$, $120\%$ are percentages, expressing what fraction one number is of another out of a hundred. Also called percent rate or percent; no unit follows.
 >
-> **Definition 11.7.2** (Percent Rates) <br>Meeting rate $=\dfrac{\text{达标人数}}{\text{总人数}}$; germination rate $=\dfrac{\text{发芽种子数}}{\text{试验种子总数}}$; attendance rate $=\dfrac{\text{出勤人数}}{\text{应出勤人数}}$; hit rate $=\dfrac{\text{命中次数}}{\text{总射击次数}}$.
+> **Definition 11.7.2** (Percent Rates) <br>Meeting rate $=\frac{\text{达标人数}}{\text{总人数}}$; germination rate $=\frac{\text{发芽种子数}}{\text{试验种子总数}}$; attendance rate $=\frac{\text{出勤人数}}{\text{应出勤人数}}$; hit rate $=\frac{\text{命中次数}}{\text{总射击次数}}$.
 >
 > **Definition 11.7.3** (Discounts and Cheng) <br>A "zhe" means tenths, i.e. tens of percent; a "cheng" also means tenths. "7 zhe" means selling at $70\%$ of the original; "2.5 cheng" means $25\%$.
 >

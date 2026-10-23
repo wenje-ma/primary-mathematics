@@ -164,7 +164,7 @@ By **Definition 9.2.2**, the product's decimal places equal the sum of the facto
 
 ### Solution to Exercise 33
 
-From $\square+\triangle=\square\times\triangle$, rearrange to $\triangle=\dfrac{\square}{\square-1}$. Try $\square=2$, $\triangle=2$; try $\square=3$, $\triangle=\dfrac{3}{2}=1.5$, check $3+1.5=4.5=3\times1.5$. One solution is $\square=3$, $\triangle=1.5$. $\blacksquare$
+From $\square+\triangle=\square\times\triangle$, rearrange to $\triangle=\frac{\square}{\square-1}$. Try $\square=2$, $\triangle=2$; try $\square=3$, $\triangle=\frac{3}{2}=1.5$, check $3+1.5=4.5=3\times1.5$. One solution is $\square=3$, $\triangle=1.5$. $\blacksquare$
 
 ### Exercise 34
 

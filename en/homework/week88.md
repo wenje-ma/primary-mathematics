@@ -4,19 +4,19 @@
 
 ### Exercise 145
 
-(Lesson: General Review, Problem 1) From $219$, $512$, $329$, find the multiples of 3; how many $\dfrac{1}{8}$ are in $\dfrac{3}{8}$? $11\div6=\_\_$.
+(Lesson: General Review, Problem 1) From $219$, $512$, $329$, find the multiples of 3; how many $\frac{1}{8}$ are in $\frac{3}{8}$? $11\div6=\_\_$.
 
 ### Solution to Exercise 145
 
-By **Definition 10.2.4** (Features of Multiples of 2, 5, 3) and **Definition 10.5.2** (Fraction Unit): the one whose digit sum is a multiple of 3 is $219$ ($2+1+9=12$); $\dfrac{3}{8}$ contains $3$ copies of $\dfrac{1}{8}$; $11\div6=\dfrac{11}{6}=1\dfrac{5}{6}$. $\blacksquare$
+By **Definition 10.2.4** (Features of Multiples of 2, 5, 3) and **Definition 10.5.2** (Fraction Unit): the one whose digit sum is a multiple of 3 is $219$ ($2+1+9=12$); $\frac{3}{8}$ contains $3$ copies of $\frac{1}{8}$; $11\div6=\frac{11}{6}=1\frac{5}{6}$. $\blacksquare$
 
 ### Exercise 146
 
-(Lesson: General Review, Problem 2) Compute: $\dfrac{5}{6}+\dfrac{1}{6}$, $\dfrac{11}{12}-\dfrac{5}{12}$, $\dfrac{1}{4}+\dfrac{3}{8}$, $\dfrac{7}{9}-\dfrac{2}{3}$.
+(Lesson: General Review, Problem 2) Compute: $\frac{5}{6}+\frac{1}{6}$, $\frac{11}{12}-\frac{5}{12}$, $\frac{1}{4}+\frac{3}{8}$, $\frac{7}{9}-\frac{2}{3}$.
 
 ### Solution to Exercise 146
 
-By **Definition 10.8.1** (Adding/Subtracting Fractions with Like Denominators) and **Definition 10.8.2** (Adding/Subtracting Fractions with Unlike Denominators): $\dfrac{5}{6}+\dfrac{1}{6}=1$; $\dfrac{11}{12}-\dfrac{5}{12}=\dfrac{6}{12}=\dfrac{1}{2}$; $\dfrac{1}{4}+\dfrac{3}{8}=\dfrac{2}{8}+\dfrac{3}{8}=\dfrac{5}{8}$; $\dfrac{7}{9}-\dfrac{2}{3}=\dfrac{7}{9}-\dfrac{6}{9}=\dfrac{1}{9}$. $\blacksquare$
+By **Definition 10.8.1** (Adding/Subtracting Fractions with Like Denominators) and **Definition 10.8.2** (Adding/Subtracting Fractions with Unlike Denominators): $\frac{5}{6}+\frac{1}{6}=1$; $\frac{11}{12}-\frac{5}{12}=\frac{6}{12}=\frac{1}{2}$; $\frac{1}{4}+\frac{3}{8}=\frac{2}{8}+\frac{3}{8}=\frac{5}{8}$; $\frac{7}{9}-\frac{2}{3}=\frac{7}{9}-\frac{6}{9}=\frac{1}{9}$. $\blacksquare$
 
 ### Exercise 147
 

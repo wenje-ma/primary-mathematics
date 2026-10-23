@@ -1,6 +1,6 @@
 # Assignment 103
 
-> **Definition 12.6.1** (Mathematics in a Bicycle) <br>The pedals drive the front chainring, the front chainring drives the rear sprocket, and the rear sprocket drives the rear wheel. Front chainring teeth $\times$ front chainring revolutions $=$ rear sprocket teeth $\times$ rear sprocket revolutions; that is, rear sprocket revolutions $=\dfrac{\text{前齿轮齿数}}{\text{后齿轮齿数}}\times$ front chainring revolutions. The distance traveled in one pedal revolution $=\dfrac{\text{前齿轮齿数}}{\text{后齿轮齿数}}\times$ wheel circumference. With the same number of pedal revolutions, the larger the ratio of front to rear teeth, the farther the bicycle travels.
+> **Definition 12.6.1** (Mathematics in a Bicycle) <br>The pedals drive the front chainring, the front chainring drives the rear sprocket, and the rear sprocket drives the rear wheel. Front chainring teeth $\times$ front chainring revolutions $=$ rear sprocket teeth $\times$ rear sprocket revolutions; that is, rear sprocket revolutions $=\frac{\text{前齿轮齿数}}{\text{后齿轮齿数}}\times$ front chainring revolutions. The distance traveled in one pedal revolution $=\frac{\text{前齿轮齿数}}{\text{后齿轮齿数}}\times$ wheel circumference. With the same number of pedal revolutions, the larger the ratio of front to rear teeth, the farther the bicycle travels.
 
 ### Exercise 91
 
@@ -8,7 +8,7 @@
 
 ### Solution to Exercise 91
 
-By **Definition 12.6.1** (Mathematics in a Bicycle), the rear sprocket (rear wheel) makes $=\dfrac{48}{16}=3$ revolutions. The wheel circumference $=\pi d=3.14\times60=188.4\,\mathrm{cm}$. One pedal revolution travels $3\times188.4=565.2\,\mathrm{cm}\approx5.65\,\mathrm{m}$. $\blacksquare$
+By **Definition 12.6.1** (Mathematics in a Bicycle), the rear sprocket (rear wheel) makes $=\frac{48}{16}=3$ revolutions. The wheel circumference $=\pi d=3.14\times60=188.4\,\mathrm{cm}$. One pedal revolution travels $3\times188.4=565.2\,\mathrm{cm}\approx5.65\,\mathrm{m}$. $\blacksquare$
 
 ### Exercise 92
 

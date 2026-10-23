@@ -208,7 +208,7 @@ By **Definition 8.6.3** (Extending the Laws): $5.6+2.7+4.5=12.8$; $9.14-1.43-4.5
 
 ### Exercise 192
 
-(Lesson: Extending the Integer Addition Laws to Decimals, Practice 19, Problem 2) Convert the following fractions to decimals and then calculate: $\dfrac{7}{10}+\dfrac{5}{10}$; $\dfrac{93}{100}-\dfrac{76}{100}$; $\dfrac{61}{100}+\dfrac{7}{10}$; $\dfrac{3}{10}-\dfrac{1}{100}$.
+(Lesson: Extending the Integer Addition Laws to Decimals, Practice 19, Problem 2) Convert the following fractions to decimals and then calculate: $\frac{7}{10}+\frac{5}{10}$; $\frac{93}{100}-\frac{76}{100}$; $\frac{61}{100}+\frac{7}{10}$; $\frac{3}{10}-\frac{1}{100}$.
 
 ### Solution to Exercise 192
 

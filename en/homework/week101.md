@@ -8,7 +8,7 @@
 >
 > **Definition 12.4.4** (Understanding Cones) <br>A cone has a circular base and a curved lateral surface; the distance from the cone's apex to the center of the base is the cone's height.
 >
-> **Definition 12.4.5** (Volume of a Cone) <br>By experiment, a cone-shaped container with the same base and height exactly fills a cylinder-shaped container in $3$ pours; that is, a cone's volume is $\dfrac{1}{3}$ of the volume of a cylinder with the same base and height. Cone volume $=\dfrac{1}{3}Sh=\dfrac{1}{3}\pi r^{2}h$.
+> **Definition 12.4.5** (Volume of a Cone) <br>By experiment, a cone-shaped container with the same base and height exactly fills a cylinder-shaped container in $3$ pours; that is, a cone's volume is $\frac{1}{3}$ of the volume of a cylinder with the same base and height. Cone volume $=\frac{1}{3}Sh=\frac{1}{3}\pi r^{2}h$.
 
 ### Exercise 36
 
@@ -180,7 +180,7 @@ By **Definition 12.4.4** (Understanding Cones), the circle at the bottom is the 
 
 ### Solution to Exercise 56
 
-By **Definition 12.4.5** (Volume of a Cone), the base area $=\pi\times2^{2}=12.56\,\mathrm{m}^{2}$; the volume $=\dfrac{1}{3}\times12.56\times1.5=6.28\,\mathrm{m}^{3}$; the weight $=6.28\times1.5=9.42\,\mathrm{t}$. $\blacksquare$
+By **Definition 12.4.5** (Volume of a Cone), the base area $=\pi\times2^{2}=12.56\,\mathrm{m}^{2}$; the volume $=\frac{1}{3}\times12.56\times1.5=6.28\,\mathrm{m}^{3}$; the weight $=6.28\times1.5=9.42\,\mathrm{t}$. $\blacksquare$
 
 ### Exercise 57
 
@@ -188,7 +188,7 @@ By **Definition 12.4.5** (Volume of a Cone), the base area $=\pi\times2^{2}=12.5
 
 ### Solution to Exercise 57
 
-By **Definition 12.4.5** (Volume of a Cone), $V=\dfrac{1}{3}Sh=\dfrac{1}{3}\times19\times12=76\,\mathrm{cm}^{3}$. $\blacksquare$
+By **Definition 12.4.5** (Volume of a Cone), $V=\frac{1}{3}Sh=\frac{1}{3}\times19\times12=76\,\mathrm{cm}^{3}$. $\blacksquare$
 
 ### Exercise 58
 
@@ -196,7 +196,7 @@ By **Definition 12.4.5** (Volume of a Cone), $V=\dfrac{1}{3}Sh=\dfrac{1}{3}\time
 
 ### Solution to Exercise 58
 
-By **Definition 12.4.5** (Volume of a Cone), the volume $=\dfrac{1}{3}\times\pi\times2^{2}\times6=\dfrac{1}{3}\times3.14\times4\times6=25.12\,\mathrm{cm}^{3}$; the weight $=25.12\times7.9\approx198\,\mathrm{g}$. $\blacksquare$
+By **Definition 12.4.5** (Volume of a Cone), the volume $=\frac{1}{3}\times\pi\times2^{2}\times6=\frac{1}{3}\times3.14\times4\times6=25.12\,\mathrm{cm}^{3}$; the weight $=25.12\times7.9\approx198\,\mathrm{g}$. $\blacksquare$
 
 ### Exercise 59
 
@@ -204,7 +204,7 @@ By **Definition 12.4.5** (Volume of a Cone), the volume $=\dfrac{1}{3}\times\pi\
 
 ### Solution to Exercise 59
 
-By **Definition 12.4.5** (Volume of a Cone), with the same base and height a cone's volume is $\dfrac{1}{3}$ of a cylinder's. (1) Cone $=75.36\div3=25.12\,\mathrm{m}^{3}$. (2) Cylinder $=141.3\times3=423.9\,\mathrm{m}^{3}$. $\blacksquare$
+By **Definition 12.4.5** (Volume of a Cone), with the same base and height a cone's volume is $\frac{1}{3}$ of a cylinder's. (1) Cone $=75.36\div3=25.12\,\mathrm{m}^{3}$. (2) Cylinder $=141.3\times3=423.9\,\mathrm{m}^{3}$. $\blacksquare$
 
 ### Exercise 60
 
@@ -212,7 +212,7 @@ By **Definition 12.4.5** (Volume of a Cone), with the same base and height a con
 
 ### Solution to Exercise 60
 
-By **Definition 12.4.5** (Volume of a Cone), the radius is $r=31.4\div\left(2\times3.14\right)=5\,\mathrm{cm}$; the volume $=\dfrac{1}{3}\times\pi\times5^{2}\times9=\dfrac{1}{3}\times3.14\times25\times9=235.5\,\mathrm{cm}^{3}$. $\blacksquare$
+By **Definition 12.4.5** (Volume of a Cone), the radius is $r=31.4\div\left(2\times3.14\right)=5\,\mathrm{cm}$; the volume $=\frac{1}{3}\times\pi\times5^{2}\times9=\frac{1}{3}\times3.14\times25\times9=235.5\,\mathrm{cm}^{3}$. $\blacksquare$
 
 ### Exercise 61
 
@@ -236,7 +236,7 @@ By **Definition 12.4.3** (Volume of a Cylinder), the total rain volume $=$ base 
 
 ### Solution to Exercise 63
 
-By **Definition 12.4.2** (Lateral Area and Surface Area of a Cylinder), **Definition 12.4.3** (Volume of a Cylinder), and **Definition 12.4.5** (Volume of a Cone). Cylinder $r=5,h=4$: surface area $=2\pi\times5\times4+2\pi\times25=40\pi+50\pi=90\pi\approx282.6\,\mathrm{dm}^{2}$, volume $=\pi\times25\times4=100\pi\approx314\,\mathrm{dm}^{3}$. Cylinder $r=2,h=0.7$: surface area $\approx33.9\,\mathrm{m}^{2}$, volume $\approx8.8\,\mathrm{m}^{3}$. Cone $d=4\left(r=2\right),h=6$: volume $=\dfrac{1}{3}\pi\times4\times6=8\pi\approx25.12\,\mathrm{dm}^{3}$. Cone $r=0.5,h=12$: volume $=\dfrac{1}{3}\pi\times0.25\times12=\pi\approx3.14\,\mathrm{m}^{3}$. $\blacksquare$
+By **Definition 12.4.2** (Lateral Area and Surface Area of a Cylinder), **Definition 12.4.3** (Volume of a Cylinder), and **Definition 12.4.5** (Volume of a Cone). Cylinder $r=5,h=4$: surface area $=2\pi\times5\times4+2\pi\times25=40\pi+50\pi=90\pi\approx282.6\,\mathrm{dm}^{2}$, volume $=\pi\times25\times4=100\pi\approx314\,\mathrm{dm}^{3}$. Cylinder $r=2,h=0.7$: surface area $\approx33.9\,\mathrm{m}^{2}$, volume $\approx8.8\,\mathrm{m}^{3}$. Cone $d=4\left(r=2\right),h=6$: volume $=\frac{1}{3}\pi\times4\times6=8\pi\approx25.12\,\mathrm{dm}^{3}$. Cone $r=0.5,h=12$: volume $=\frac{1}{3}\pi\times0.25\times12=\pi\approx3.14\,\mathrm{m}^{3}$. $\blacksquare$
 
 ### Exercise 64
 
@@ -244,4 +244,4 @@ By **Definition 12.4.2** (Lateral Area and Surface Area of a Cylinder), **Defini
 
 ### Solution to Exercise 64
 
-By **Definition 12.4.5** (Volume of a Cone) and **Definition 12.4.3** (Volume of a Cylinder), the sand pile's volume $=\dfrac{1}{3}\times28.6\times3=28.6\,\mathrm{m}^{3}$. The paved road surface is a cuboid of thickness $2\,\mathrm{cm}=0.02\,\mathrm{m}$, so the length $=28.6\div\left(10\times0.02\right)=143\,\mathrm{m}$. $\blacksquare$
+By **Definition 12.4.5** (Volume of a Cone) and **Definition 12.4.3** (Volume of a Cylinder), the sand pile's volume $=\frac{1}{3}\times28.6\times3=28.6\,\mathrm{m}^{3}$. The paved road surface is a cuboid of thickness $2\,\mathrm{cm}=0.02\,\mathrm{m}$, so the length $=28.6\div\left(10\times0.02\right)=143\,\mathrm{m}$. $\blacksquare$

@@ -358,4 +358,4 @@ $29+22+78=29+100$ 正确; $35\times16=35\times2\times8$ 正确; $123-68+32=123-\
 
 ### 解答 练习七十八
 
-由 $\bigcirc+\bigcirc+\bigcirc=\triangle+\triangle$, 得 $3\bigcirc=2\triangle$, 即 $\bigcirc=\dfrac{2}{3}\triangle$; 由 $\triangle+\triangle+\triangle+\triangle=\square+\square+\square$, 得 $4\triangle=3\square$, 即 $\square=\dfrac{4}{3}\triangle$. 代入 $\bigcirc+\triangle+\triangle+\square=400$, 得 $\dfrac{2}{3}\triangle+2\triangle+\dfrac{4}{3}\triangle=4\triangle=400$, 故 $\triangle=100$, $\bigcirc=\dfrac{200}{3}$ (按教材实际图形关系代换求解即可). $\blacksquare$
+由 $\bigcirc+\bigcirc+\bigcirc=\triangle+\triangle$, 得 $3\bigcirc=2\triangle$, 即 $\bigcirc=\frac{2}{3}\triangle$; 由 $\triangle+\triangle+\triangle+\triangle=\square+\square+\square$, 得 $4\triangle=3\square$, 即 $\square=\frac{4}{3}\triangle$. 代入 $\bigcirc+\triangle+\triangle+\square=400$, 得 $\frac{2}{3}\triangle+2\triangle+\frac{4}{3}\triangle=4\triangle=400$, 故 $\triangle=100$, $\bigcirc=\frac{200}{3}$ (按教材实际图形关系代换求解即可). $\blacksquare$

@@ -10,7 +10,7 @@
 >
 > **Definition 8.4.5** (Comparing Decimals) <br>First compare the integer parts; the one with the larger integer part is larger. If the integer parts are equal, the one with the larger digit in the tenths place is larger; if the tenths digits are also equal, the one with the larger hundredths digit is larger $\cdots$
 >
-> **Definition 8.4.6** (How Moving the Decimal Point Changes a Decimal) <br>When the decimal point moves one, two, three $\cdots$ places to the right, the original number is multiplied by $10$, $100$, $1000\cdots$, expanding to $10$, $100$, $1000$ times the original; when it moves one, two $\cdots$ places to the left, the original number is divided by $10$, $100\cdots$, shrinking to $\dfrac{1}{10}$, $\dfrac{1}{100}$ of the original.
+> **Definition 8.4.6** (How Moving the Decimal Point Changes a Decimal) <br>When the decimal point moves one, two, three $\cdots$ places to the right, the original number is multiplied by $10$, $100$, $1000\cdots$, expanding to $10$, $100$, $1000$ times the original; when it moves one, two $\cdots$ places to the left, the original number is divided by $10$, $100\cdots$, shrinking to $\frac{1}{10}$, $\frac{1}{100}$ of the original.
 >
 > **Definition 8.4.7** (Decimals and Unit Conversion) <br>Rewriting a number from a lower unit to a higher unit requires dividing by the conversion rate, and rewriting from a higher unit to a lower unit requires multiplying by the conversion rate; this can be done using the rule for moving the decimal point.
 >
@@ -20,11 +20,11 @@
 
 ### Exercise 79
 
-(Lesson: Meaning of Decimals, Try It) Divide $1\,\mathrm{m}$ equally into $1000$ parts, and express some of the parts as a fraction and a decimal (e.g. $1\,\mathrm{mm}$ is $\dfrac{1}{1000}\,\mathrm{m}$, i.e. $0.001\,\mathrm{m}$). What is the rate of conversion between two adjacent counting units?
+(Lesson: Meaning of Decimals, Try It) Divide $1\,\mathrm{m}$ equally into $1000$ parts, and express some of the parts as a fraction and a decimal (e.g. $1\,\mathrm{mm}$ is $\frac{1}{1000}\,\mathrm{m}$, i.e. $0.001\,\mathrm{m}$). What is the rate of conversion between two adjacent counting units?
 
 ### Solution to Exercise 79
 
-By **Definition 8.4.1** (Meaning of Decimals and Counting Units), $1\,\mathrm{mm}=\dfrac{1}{1000}\,\mathrm{m}=0.001\,\mathrm{m}$; a few millimeters is a few thousandths of a meter, written as zero point zero zero something. The rate of conversion between two adjacent counting units is $10$. $\blacksquare$
+By **Definition 8.4.1** (Meaning of Decimals and Counting Units), $1\,\mathrm{mm}=\frac{1}{1000}\,\mathrm{m}=0.001\,\mathrm{m}$; a few millimeters is a few thousandths of a meter, written as zero point zero zero something. The rate of conversion between two adjacent counting units is $10$. $\blacksquare$
 
 ### Exercise 80
 
@@ -52,11 +52,11 @@ By **Definition 8.4.3** (Reading and Writing Decimals): three hundred point seve
 
 ### Exercise 83
 
-(Lesson: Meaning, Reading and Writing of Decimals, Practice 9, Problem 1) Connect the equal pairs: $\dfrac{13}{100}$, $\dfrac{47}{1000}$, $\dfrac{9}{10}$, $\dfrac{1}{10000}$ with $0.13$, $0.047$, $0.9$, $0.0001$.
+(Lesson: Meaning, Reading and Writing of Decimals, Practice 9, Problem 1) Connect the equal pairs: $\frac{13}{100}$, $\frac{47}{1000}$, $\frac{9}{10}$, $\frac{1}{10000}$ with $0.13$, $0.047$, $0.9$, $0.0001$.
 
 ### Solution to Exercise 83
 
-By **Definition 8.4.1** (Meaning of Decimals), $\dfrac{13}{100}=0.13$; $\dfrac{47}{1000}=0.047$; $\dfrac{9}{10}=0.9$; $\dfrac{1}{10000}=0.0001$. $\blacksquare$
+By **Definition 8.4.1** (Meaning of Decimals), $\frac{13}{100}=0.13$; $\frac{47}{1000}=0.047$; $\frac{9}{10}=0.9$; $\frac{1}{10000}=0.0001$. $\blacksquare$
 
 ### Exercise 84
 
@@ -236,7 +236,7 @@ Two-decimal-place numbers: $2.34$, $2.43$, $3.24$, $3.42$, $4.23$, $4.32$, $6$ i
 
 ### Exercise 106
 
-(Lesson: Moving the Decimal Point, Try It) Expand $4.8$, $0.735$, $12.6$ to $10$, $100$, $1000$ times the original; shrink $93.5$, $500$, $9999$ to $\dfrac{1}{10}$, $\dfrac{1}{100}$, $\dfrac{1}{1000}$ of the original.
+(Lesson: Moving the Decimal Point, Try It) Expand $4.8$, $0.735$, $12.6$ to $10$, $100$, $1000$ times the original; shrink $93.5$, $500$, $9999$ to $\frac{1}{10}$, $\frac{1}{100}$, $\frac{1}{1000}$ of the original.
 
 ### Solution to Exercise 106
 
@@ -248,7 +248,7 @@ By **Definition 8.4.6** (Moving the Decimal Point): $4.8\to48,480,4800$; $0.735\
 
 ### Solution to Exercise 107
 
-By **Definition 8.4.6** (Moving the Decimal Point): $0.372\to372$ expands $1000$ times, $\to3.72$ expands $10$ times, $\to37.2$ expands $100$ times; $506\to0.506$ shrinks to $\dfrac{1}{1000}$, $\to5.06$ shrinks to $\dfrac{1}{100}$, $\to50.6$ shrinks to $\dfrac{1}{10}$, $\to0.0506$ shrinks to $\dfrac{1}{10000}$. $\blacksquare$
+By **Definition 8.4.6** (Moving the Decimal Point): $0.372\to372$ expands $1000$ times, $\to3.72$ expands $10$ times, $\to37.2$ expands $100$ times; $506\to0.506$ shrinks to $\frac{1}{1000}$, $\to5.06$ shrinks to $\frac{1}{100}$, $\to50.6$ shrinks to $\frac{1}{10}$, $\to0.0506$ shrinks to $\frac{1}{10000}$. $\blacksquare$
 
 ### Exercise 108
 
@@ -256,7 +256,7 @@ By **Definition 8.4.6** (Moving the Decimal Point): $0.372\to372$ expands $1000$
 
 ### Solution to Exercise 108
 
-By **Definition 8.4.6** (Moving the Decimal Point): $6.25\to62.5$ expands to $10$ times the original; $\to0.625$ shrinks to $\dfrac{1}{10}$ of the original; $\to625$ expands to $100$ times the original; $\to0.0625$ shrinks to $\dfrac{1}{100}$ of the original. $\blacksquare$
+By **Definition 8.4.6** (Moving the Decimal Point): $6.25\to62.5$ expands to $10$ times the original; $\to0.625$ shrinks to $\frac{1}{10}$ of the original; $\to625$ expands to $100$ times the original; $\to0.0625$ shrinks to $\frac{1}{100}$ of the original. $\blacksquare$
 
 ### Exercise 109
 
@@ -272,7 +272,7 @@ By **Definition 8.4.6** (Moving the Decimal Point): eraser $2.63\to26.3,263,2630
 
 ### Solution to Exercise 110
 
-By **Definition 8.4.6** (Moving the Decimal Point): $4.35\times10=43.5$, $43.5\times100=4350$; $4.35\div10=0.435$, $0.435\div100=0.00435$. $0.729\to72.9$ expands $100$ times, $\to7.29$ expands $10$ times, $\to7290$ expands $10000$ times, $\to0.0729$ shrinks to $\dfrac{1}{10}$. $\blacksquare$
+By **Definition 8.4.6** (Moving the Decimal Point): $4.35\times10=43.5$, $43.5\times100=4350$; $4.35\div10=0.435$, $0.435\div100=0.00435$. $0.729\to72.9$ expands $100$ times, $\to7.29$ expands $10$ times, $\to7290$ expands $10000$ times, $\to0.0729$ shrinks to $\frac{1}{10}$. $\blacksquare$
 
 ### Exercise 111
 
@@ -280,7 +280,7 @@ By **Definition 8.4.6** (Moving the Decimal Point): $4.35\times10=43.5$, $43.5\t
 
 ### Solution to Exercise 111
 
-By **Definition 8.4.6** (Moving the Decimal Point): (1) $3.6$ moved one place left is $0.36$; (2) $3.14$ moved two places right is $314$; (3) $0.03$ expanded to its $1000$ times is $30$; (4) $42$ shrunk to its $\dfrac{1}{1000}$ is $0.042$. $\blacksquare$
+By **Definition 8.4.6** (Moving the Decimal Point): (1) $3.6$ moved one place left is $0.36$; (2) $3.14$ moved two places right is $314$; (3) $0.03$ expanded to its $1000$ times is $30$; (4) $42$ shrunk to its $\frac{1}{1000}$ is $0.042$. $\blacksquare$
 
 ### Exercise 112
 
@@ -480,7 +480,7 @@ By **Definition 8.4.5** (Comparing Decimals): $8.7>7.9$; $4.300=4.3$; $2.613<2.6
 
 ### Solution to Exercise 136
 
-By **Definition 8.4.6** (Moving the Decimal Point): $354$ is $3.54$ expanded $100$ times; $0.354$ shrunk to $\dfrac{1}{10}$; $35.4$ expanded $10$ times; $0.0354$ shrunk to $\dfrac{1}{100}$; $3540$ expanded $1000$ times. $\blacksquare$
+By **Definition 8.4.6** (Moving the Decimal Point): $354$ is $3.54$ expanded $100$ times; $0.354$ shrunk to $\frac{1}{10}$; $35.4$ expanded $10$ times; $0.0354$ shrunk to $\frac{1}{100}$; $3540$ expanded $1000$ times. $\blacksquare$
 
 ### Exercise 137
 
@@ -520,11 +520,11 @@ By **Definition 8.4.7** (Unit Conversion) and **Definition 8.4.9** (Rewriting): 
 
 ### Solution to Exercise 141
 
-By **Definition 8.4.6** (Moving the Decimal Point): $0.25$ expanded to its $100$ times is $25$; $30.5$ shrunk to its $\dfrac{1}{10}$ is $3.05$; $15.3$ shrunk to its $\dfrac{1}{100}$ is $0.153$. $\blacksquare$
+By **Definition 8.4.6** (Moving the Decimal Point): $0.25$ expanded to its $100$ times is $25$; $30.5$ shrunk to its $\frac{1}{10}$ is $3.05$; $15.3$ shrunk to its $\frac{1}{100}$ is $0.153$. $\blacksquare$
 
 ### Exercise 142
 
-(Lesson: Review and Consolidation, Practice 14, Problem 5) Are the following statements correct? (1) $0.05$ contains $5$ pieces of $\dfrac{1}{100}$; (2) $3.007$ rounded to one decimal place is $3.0$; (3) $0.1000$ is greater than $0.0999$; (4) the largest three-decimal number with approximate value $5.20$ is $5.204$.
+(Lesson: Review and Consolidation, Practice 14, Problem 5) Are the following statements correct? (1) $0.05$ contains $5$ pieces of $\frac{1}{100}$; (2) $3.007$ rounded to one decimal place is $3.0$; (3) $0.1000$ is greater than $0.0999$; (4) the largest three-decimal number with approximate value $5.20$ is $5.204$.
 
 ### Solution to Exercise 142
 

@@ -4,7 +4,7 @@
 >
 > **Definition 5.8.2** (Comparing the Sizes of Fractions) <br>For fractions with the same denominator, the one with the larger numerator is larger; for fractions with the same numerator, the one with the larger denominator is smaller (the more equal parts it is divided into, the smaller each part is).
 >
-> **Definition 5.8.3** (Adding and Subtracting Fractions with the Same Denominator) <br>To add or subtract fractions with the same denominator, the denominator stays unchanged and the numerators are added or subtracted. $1$ can be written as a fraction whose numerator and denominator are the same, for example $1=\dfrac{4}{4}$.
+> **Definition 5.8.3** (Adding and Subtracting Fractions with the Same Denominator) <br>To add or subtract fractions with the same denominator, the denominator stays unchanged and the numerators are added or subtracted. $1$ can be written as a fraction whose numerator and denominator are the same, for example $1=\frac{4}{4}$.
 >
 > **Definition 5.8.4** (Finding a Fraction of a Number) <br>To find one over-some-number of a number, divide the number into as many equal parts as the denominator and find one part; to find some-number-over-that-number, multiply the size of one part by the numerator.
 
@@ -14,15 +14,15 @@
 
 ### Solution to Exercise 211
 
-By **Definition 5.8.1** (An Initial Look at Fractions), each part is one half of the mooncake, written $\dfrac{1}{2}$. Half a mooncake is also $\dfrac{1}{2}$ of a mooncake. $\blacksquare$
+By **Definition 5.8.1** (An Initial Look at Fractions), each part is one half of the mooncake, written $\frac{1}{2}$. Half a mooncake is also $\frac{1}{2}$ of a mooncake. $\blacksquare$
 
 ### Exercise 212
 
-(Lesson: One Over Some Number — Do It Yourself) Fold and color sheets of paper of different shapes to show their $\dfrac{1}{2}$. Why can the colored parts, though different in shape, all represent $\dfrac{1}{2}$?
+(Lesson: One Over Some Number — Do It Yourself) Fold and color sheets of paper of different shapes to show their $\frac{1}{2}$. Why can the colored parts, though different in shape, all represent $\frac{1}{2}$?
 
 ### Solution to Exercise 212
 
-By **Definition 5.8.1**, as long as the figure is folded into $2$ equal parts and $1$ part is colored, the colored part is $\dfrac{1}{2}$ of the figure. It does not matter that the shapes differ; the key is equal division. $\blacksquare$
+By **Definition 5.8.1**, as long as the figure is folded into $2$ equal parts and $1$ part is colored, the colored part is $\frac{1}{2}$ of the figure. It does not matter that the shapes differ; the key is equal division. $\blacksquare$
 
 ### Exercise 213
 
@@ -30,23 +30,23 @@ By **Definition 5.8.1**, as long as the figure is folded into $2$ equal parts an
 
 ### Solution to Exercise 213
 
-By **Definition 5.8.1**, each part is $\dfrac{1}{4}$ of the mooncake, i.e. $\dfrac{1}{4}$ of a mooncake. $\blacksquare$
+By **Definition 5.8.1**, each part is $\frac{1}{4}$ of the mooncake, i.e. $\frac{1}{4}$ of a mooncake. $\blacksquare$
 
 ### Exercise 214
 
-(Lesson: Names of the Parts of a Fraction) Say the names of the parts of $\dfrac{1}{2}$ and how it is read.
+(Lesson: Names of the Parts of a Fraction) Say the names of the parts of $\frac{1}{2}$ and how it is read.
 
 ### Solution to Exercise 214
 
-By **Definition 5.8.1**, the horizontal bar in the middle of $\dfrac{1}{2}$ is the fraction bar, $2$ is the denominator, $1$ is the numerator, and it is read as "one half". $\blacksquare$
+By **Definition 5.8.1**, the horizontal bar in the middle of $\frac{1}{2}$ is the fraction bar, $2$ is the denominator, $1$ is the numerator, and it is read as "one half". $\blacksquare$
 
 ### Exercise 215
 
-(Lesson: Try It) Use your own method to represent $\dfrac{1}{3}$ and $\dfrac{1}{5}$.
+(Lesson: Try It) Use your own method to represent $\frac{1}{3}$ and $\frac{1}{5}$.
 
 ### Solution to Exercise 215
 
-By **Definition 5.8.1**, divide a figure into $3$ equal parts and color $1$ part to show $\dfrac{1}{3}$; divide into $5$ equal parts and color $1$ part to show $\dfrac{1}{5}$. $\blacksquare$
+By **Definition 5.8.1**, divide a figure into $3$ equal parts and color $1$ part to show $\frac{1}{3}$; divide into $5$ equal parts and color $1$ part to show $\frac{1}{5}$. $\blacksquare$
 
 ### Exercise 216
 
@@ -54,19 +54,19 @@ By **Definition 5.8.1**, divide a figure into $3$ equal parts and color $1$ part
 
 ### Solution to Exercise 216
 
-By **Definition 5.8.1**, take the total number of equal parts as the denominator and the number of colored parts as the numerator; for example, divided into $3$ equal parts with $1$ colored gives $\dfrac{1}{3}$. Fill in according to each figure. $\blacksquare$
+By **Definition 5.8.1**, take the total number of equal parts as the denominator and the number of colored parts as the numerator; for example, divided into $3$ equal parts with $1$ colored gives $\frac{1}{3}$. Fill in according to each figure. $\blacksquare$
 
 ### Exercise 217
 
-(Lesson: Do It Yourself) You drank $\dfrac{1}{2}$ of a cup of juice; what fraction of a cup is left?
+(Lesson: Do It Yourself) You drank $\frac{1}{2}$ of a cup of juice; what fraction of a cup is left?
 
 ### Solution to Exercise 217
 
-Take a cup of juice as $1$; having drunk $\dfrac{1}{2}$, what remains is $1-\dfrac{1}{2}=\dfrac{1}{2}$ cup. $\blacksquare$
+Take a cup of juice as $1$; having drunk $\frac{1}{2}$, what remains is $1-\frac{1}{2}=\frac{1}{2}$ cup. $\blacksquare$
 
 ### Exercise 218
 
-(Lesson: Do It Yourself) $\dfrac{1}{4}$ is part of a figure; what shape might this figure be? Draw it on grid paper.
+(Lesson: Do It Yourself) $\frac{1}{4}$ is part of a figure; what shape might this figure be? Draw it on grid paper.
 
 ### Solution to Exercise 218
 
@@ -78,39 +78,39 @@ By **Definition 5.8.1**, just put together $3$ more equal parts with the drawn p
 
 ### Solution to Exercise 219
 
-Each part is $1$ centimeter, which is $\dfrac{1}{10}$ of $1$ decimeter, i.e. $\dfrac{1}{10}$ decimeter. $\blacksquare$
+Each part is $1$ centimeter, which is $\frac{1}{10}$ of $1$ decimeter, i.e. $\frac{1}{10}$ decimeter. $\blacksquare$
 
 ### Exercise 220
 
-(Lesson: Some Number Over That Number — Count) How many cups is $\dfrac{1}{5}$ of $1$ cup of juice? What are $2$ of the $\dfrac{1}{5}$ cups? What about $3$ or $4$ of them?
+(Lesson: Some Number Over That Number — Count) How many cups is $\frac{1}{5}$ of $1$ cup of juice? What are $2$ of the $\frac{1}{5}$ cups? What about $3$ or $4$ of them?
 
 ### Solution to Exercise 220
 
-$1$ of the $\dfrac{1}{5}$ cups is $\dfrac{1}{5}$ cup; $2$ of the $\dfrac{1}{5}$ cups is $\dfrac{2}{5}$ cups; $3$ of the $\dfrac{1}{5}$ cups is $\dfrac{3}{5}$ cups; $4$ of the $\dfrac{1}{5}$ cups is $\dfrac{4}{5}$ cups. $\blacksquare$
+$1$ of the $\frac{1}{5}$ cups is $\frac{1}{5}$ cup; $2$ of the $\frac{1}{5}$ cups is $\frac{2}{5}$ cups; $3$ of the $\frac{1}{5}$ cups is $\frac{3}{5}$ cups; $4$ of the $\frac{1}{5}$ cups is $\frac{4}{5}$ cups. $\blacksquare$
 
 ### Exercise 221
 
-(Lesson: Simple Fraction Calculations — Example) Of a watermelon, the younger brother ate $\dfrac{1}{8}$ and the older brother ate $\dfrac{2}{8}$. (1) What fraction did the two eat altogether? (2) How much more did the older brother eat than the younger one?
+(Lesson: Simple Fraction Calculations — Example) Of a watermelon, the younger brother ate $\frac{1}{8}$ and the older brother ate $\frac{2}{8}$. (1) What fraction did the two eat altogether? (2) How much more did the older brother eat than the younger one?
 
 ### Solution to Exercise 221
 
-By **Definition 5.8.3** (Adding and Subtracting Fractions with the Same Denominator): (1) $\dfrac{1}{8}+\dfrac{2}{8}=\dfrac{3}{8}$; (2) $\dfrac{2}{8}-\dfrac{1}{8}=\dfrac{1}{8}$. $\blacksquare$
+By **Definition 5.8.3** (Adding and Subtracting Fractions with the Same Denominator): (1) $\frac{1}{8}+\frac{2}{8}=\frac{3}{8}$; (2) $\frac{2}{8}-\frac{1}{8}=\frac{1}{8}$. $\blacksquare$
 
 ### Exercise 222
 
-(Lesson: Simple Fraction Calculations — Do It Yourself) Compute: $\dfrac{2}{7}+\dfrac{2}{7}$; $\dfrac{1}{2}+\dfrac{1}{2}$; $\dfrac{5}{6}-\dfrac{1}{6}$; $\dfrac{8}{9}-\dfrac{7}{9}$; $\dfrac{4}{5}-\dfrac{2}{5}$; $\dfrac{1}{5}+\dfrac{3}{5}$.
+(Lesson: Simple Fraction Calculations — Do It Yourself) Compute: $\frac{2}{7}+\frac{2}{7}$; $\frac{1}{2}+\frac{1}{2}$; $\frac{5}{6}-\frac{1}{6}$; $\frac{8}{9}-\frac{7}{9}$; $\frac{4}{5}-\frac{2}{5}$; $\frac{1}{5}+\frac{3}{5}$.
 
 ### Solution to Exercise 222
 
-By **Definition 5.8.3**: $\dfrac{2}{7}+\dfrac{2}{7}=\dfrac{4}{7}$; $\dfrac{1}{2}+\dfrac{1}{2}=1$; $\dfrac{5}{6}-\dfrac{1}{6}=\dfrac{4}{6}$; $\dfrac{8}{9}-\dfrac{7}{9}=\dfrac{1}{9}$; $\dfrac{4}{5}-\dfrac{2}{5}=\dfrac{2}{5}$; $\dfrac{1}{5}+\dfrac{3}{5}=\dfrac{4}{5}$. $\blacksquare$
+By **Definition 5.8.3**: $\frac{2}{7}+\frac{2}{7}=\frac{4}{7}$; $\frac{1}{2}+\frac{1}{2}=1$; $\frac{5}{6}-\frac{1}{6}=\frac{4}{6}$; $\frac{8}{9}-\frac{7}{9}=\frac{1}{9}$; $\frac{4}{5}-\frac{2}{5}=\frac{2}{5}$; $\frac{1}{5}+\frac{3}{5}=\frac{4}{5}$. $\blacksquare$
 
 ### Exercise 223
 
-(Lesson: Simple Fraction Calculations — Example) Of a sheet of colored paper, $\dfrac{3}{4}$ has been used; what fraction of it remains?
+(Lesson: Simple Fraction Calculations — Example) Of a sheet of colored paper, $\frac{3}{4}$ has been used; what fraction of it remains?
 
 ### Solution to Exercise 223
 
-By **Definition 5.8.3**, take $1$ as $\dfrac{4}{4}$; $\dfrac{4}{4}-\dfrac{3}{4}=\dfrac{1}{4}$. What remains is $\dfrac{1}{4}$. $\blacksquare$
+By **Definition 5.8.3**, take $1$ as $\frac{4}{4}$; $\frac{4}{4}-\frac{3}{4}=\frac{1}{4}$. What remains is $\frac{1}{4}$. $\blacksquare$
 
 ### Exercise 224
 
@@ -126,15 +126,15 @@ By **Definition 5.8.3**, add or subtract the colored parts in the figure, keepin
 
 ### Solution to Exercise 225
 
-(1) Each person drank $\dfrac{1}{5}$ of the bottle. (2) The children drank $\dfrac{3}{5}$ of the bottle, the elderly drank $\dfrac{2}{5}$, which is $\dfrac{3}{5}-\dfrac{2}{5}=\dfrac{1}{5}$ of a bottle more. $\blacksquare$
+(1) Each person drank $\frac{1}{5}$ of the bottle. (2) The children drank $\frac{3}{5}$ of the bottle, the elderly drank $\frac{2}{5}$, which is $\frac{3}{5}-\frac{2}{5}=\frac{1}{5}$ of a bottle more. $\blacksquare$
 
 ### Exercise 226
 
-(Lesson: Simple Fraction Calculations — Do It Yourself) Lingling used $\dfrac{7}{10}$ of a colored cord to braid a Chinese knot and the rest to braid a bracelet. What fraction was used for the bracelet? How much less than the Chinese knot?
+(Lesson: Simple Fraction Calculations — Do It Yourself) Lingling used $\frac{7}{10}$ of a colored cord to braid a Chinese knot and the rest to braid a bracelet. What fraction was used for the bracelet? How much less than the Chinese knot?
 
 ### Solution to Exercise 226
 
-$1-\dfrac{7}{10}=\dfrac{3}{10}$; $\dfrac{7}{10}-\dfrac{3}{10}=\dfrac{4}{10}$. The bracelet used $\dfrac{3}{10}$, which is $\dfrac{4}{10}$ less than the Chinese knot. $\blacksquare$
+$1-\frac{7}{10}=\frac{3}{10}$; $\frac{7}{10}-\frac{3}{10}=\frac{4}{10}$. The bracelet used $\frac{3}{10}$, which is $\frac{4}{10}$ less than the Chinese knot. $\blacksquare$
 
 ### Exercise 227
 
@@ -146,7 +146,7 @@ By **Definition 5.8.2** (Comparing the Sizes of Fractions), with the same denomi
 
 ### Exercise 228
 
-(Lesson: Practice 15, Problem 2) Can the fractions below represent the colored part of each figure? Draw √ if yes and × if no: $\dfrac{1}{2}$, $\dfrac{1}{3}$, $\dfrac{1}{5}$, $\dfrac{1}{4}$.
+(Lesson: Practice 15, Problem 2) Can the fractions below represent the colored part of each figure? Draw √ if yes and × if no: $\frac{1}{2}$, $\frac{1}{3}$, $\frac{1}{5}$, $\frac{1}{4}$.
 
 ### Solution to Exercise 228
 
@@ -154,7 +154,7 @@ By **Definition 5.8.1**, only an evenly divided colored part can be represented 
 
 ### Exercise 229
 
-(Lesson: Practice 15, Problem 3) You have already cut out $\dfrac{1}{2}$ of a colored sheet; complete the whole sheet.
+(Lesson: Practice 15, Problem 3) You have already cut out $\frac{1}{2}$ of a colored sheet; complete the whole sheet.
 
 ### Solution to Exercise 229
 
@@ -162,11 +162,11 @@ By **Definition 5.8.1**, add the other half, equal in size to the existing part,
 
 ### Exercise 230
 
-(Lesson: Practice 15, Problem 4) Color to represent the fractions below each figure: $\dfrac{2}{5}$, $\dfrac{4}{9}$.
+(Lesson: Practice 15, Problem 4) Color to represent the fractions below each figure: $\frac{2}{5}$, $\frac{4}{9}$.
 
 ### Solution to Exercise 230
 
-By **Definition 5.8.1**, divide into $5$ equal parts and color $2$ to show $\dfrac{2}{5}$; divide into $9$ equal parts and color $4$ to show $\dfrac{4}{9}$. $\blacksquare$
+By **Definition 5.8.1**, divide into $5$ equal parts and color $2$ to show $\frac{2}{5}$; divide into $9$ equal parts and color $4$ to show $\frac{4}{9}$. $\blacksquare$
 
 ### Exercise 231
 
@@ -178,11 +178,11 @@ By **Definition 5.8.1**, take the total number of parts as the denominator, the 
 
 ### Exercise 232
 
-(Lesson: Practice 15, Problem 6) Compare: $\dfrac{5}{9}$ and $\dfrac{4}{9}$, and so on.
+(Lesson: Practice 15, Problem 6) Compare: $\frac{5}{9}$ and $\frac{4}{9}$, and so on.
 
 ### Solution to Exercise 232
 
-By **Definition 5.8.2**, with the same denominator the larger numerator is larger, for example $\dfrac{5}{9}>\dfrac{4}{9}$. $\blacksquare$
+By **Definition 5.8.2**, with the same denominator the larger numerator is larger, for example $\frac{5}{9}>\frac{4}{9}$. $\blacksquare$
 
 ### Exercise 233
 
@@ -190,7 +190,7 @@ By **Definition 5.8.2**, with the same denominator the larger numerator is large
 
 ### Solution to Exercise 233
 
-By **Definition 5.8.1**, look at how many equal parts the board is divided into; for example, divided into $2$ equal parts gives $\dfrac{1}{2}$ each, and into $4$ gives $\dfrac{1}{4}$ each. Estimate according to the figure. $\blacksquare$
+By **Definition 5.8.1**, look at how many equal parts the board is divided into; for example, divided into $2$ equal parts gives $\frac{1}{2}$ each, and into $4$ gives $\frac{1}{4}$ each. Estimate according to the figure. $\blacksquare$
 
 ### Exercise 234
 
@@ -206,7 +206,7 @@ By **Definition 5.8.2**, write the fractions first, then compare: for the same d
 
 ### Solution to Exercise 235
 
-Suppose it is divided into $10$ equal pieces: Xiaoming $\dfrac{2}{10}$, Mom $\dfrac{3}{10}$, Dad $\dfrac{4}{10}$, and the $1$ remaining piece is $\dfrac{1}{10}$. Fill in according to the actual total number of pieces in the figure. $\blacksquare$
+Suppose it is divided into $10$ equal pieces: Xiaoming $\frac{2}{10}$, Mom $\frac{3}{10}$, Dad $\frac{4}{10}$, and the $1$ remaining piece is $\frac{1}{10}$. Fill in according to the actual total number of pieces in the figure. $\blacksquare$
 
 ### Exercise 236
 
@@ -234,51 +234,51 @@ By **Definition 5.8.3**, to add or subtract fractions with the same denominator,
 
 ### Exercise 239
 
-(Lesson: Practice 16, Problem 2) Compute: $\dfrac{7}{9}+\dfrac{2}{9}$; $\dfrac{6}{6}-\dfrac{1}{6}$; $\dfrac{9}{9}-\dfrac{4}{9}$; the $\dfrac{7}{5}$ series; $\dfrac{4}{6}-\dfrac{3}{6}$; $\dfrac{1}{7}+\dfrac{4}{7}$; $\dfrac{8}{8}-\dfrac{4}{8}$; $\dfrac{2}{3}+\dfrac{1}{3}$; $\dfrac{7}{10}+\dfrac{3}{10}$; $\dfrac{8}{5}+\dfrac{2}{5}$; $\dfrac{4}{9}-\dfrac{1}{9}$.
+(Lesson: Practice 16, Problem 2) Compute: $\frac{7}{9}+\frac{2}{9}$; $\frac{6}{6}-\frac{1}{6}$; $\frac{9}{9}-\frac{4}{9}$; the $\frac{7}{5}$ series; $\frac{4}{6}-\frac{3}{6}$; $\frac{1}{7}+\frac{4}{7}$; $\frac{8}{8}-\frac{4}{8}$; $\frac{2}{3}+\frac{1}{3}$; $\frac{7}{10}+\frac{3}{10}$; $\frac{8}{5}+\frac{2}{5}$; $\frac{4}{9}-\frac{1}{9}$.
 
 ### Solution to Exercise 239
 
-By **Definition 5.8.3**: $\dfrac{7}{9}+\dfrac{2}{9}=1$; $\dfrac{6}{6}-\dfrac{1}{6}=\dfrac{5}{6}$; $\dfrac{9}{9}-\dfrac{4}{9}=\dfrac{5}{9}$; $\dfrac{4}{6}-\dfrac{3}{6}=\dfrac{1}{6}$; $\dfrac{1}{7}+\dfrac{4}{7}=\dfrac{5}{7}$; $\dfrac{8}{8}-\dfrac{4}{8}=\dfrac{4}{8}$; $\dfrac{2}{3}+\dfrac{1}{3}=1$; $\dfrac{7}{10}+\dfrac{3}{10}=1$; $\dfrac{8}{5}+\dfrac{2}{5}=2$; $\dfrac{4}{9}-\dfrac{1}{9}=\dfrac{3}{9}$. $\blacksquare$
+By **Definition 5.8.3**: $\frac{7}{9}+\frac{2}{9}=1$; $\frac{6}{6}-\frac{1}{6}=\frac{5}{6}$; $\frac{9}{9}-\frac{4}{9}=\frac{5}{9}$; $\frac{4}{6}-\frac{3}{6}=\frac{1}{6}$; $\frac{1}{7}+\frac{4}{7}=\frac{5}{7}$; $\frac{8}{8}-\frac{4}{8}=\frac{4}{8}$; $\frac{2}{3}+\frac{1}{3}=1$; $\frac{7}{10}+\frac{3}{10}=1$; $\frac{8}{5}+\frac{2}{5}=2$; $\frac{4}{9}-\frac{1}{9}=\frac{3}{9}$. $\blacksquare$
 
 ### Exercise 240
 
-(Lesson: Practice 16, Problem 3) Of a chocolate bar, the younger sister ate $\dfrac{1}{8}$ and the older sister ate $\dfrac{3}{8}$. What fraction did the two eat altogether? How much less did the younger sister eat than the older one?
+(Lesson: Practice 16, Problem 3) Of a chocolate bar, the younger sister ate $\frac{1}{8}$ and the older sister ate $\frac{3}{8}$. What fraction did the two eat altogether? How much less did the younger sister eat than the older one?
 
 ### Solution to Exercise 240
 
-Altogether $\dfrac{1}{8}+\dfrac{3}{8}=\dfrac{4}{8}$; the lesser amount is $\dfrac{3}{8}-\dfrac{1}{8}=\dfrac{2}{8}$. $\blacksquare$
+Altogether $\frac{1}{8}+\frac{3}{8}=\frac{4}{8}$; the lesser amount is $\frac{3}{8}-\frac{1}{8}=\frac{2}{8}$. $\blacksquare$
 
 ### Exercise 241
 
-(Lesson: Practice 16, Problem 4) Of the pedal boats in the park, $\dfrac{2}{3}$ are two-person boats and the rest are four-person boats. What fraction are four-person boats?
+(Lesson: Practice 16, Problem 4) Of the pedal boats in the park, $\frac{2}{3}$ are two-person boats and the rest are four-person boats. What fraction are four-person boats?
 
 ### Solution to Exercise 241
 
-$1-\dfrac{2}{3}=\dfrac{1}{3}$. The four-person boats are $\dfrac{1}{3}$. $\blacksquare$
+$1-\frac{2}{3}=\frac{1}{3}$. The four-person boats are $\frac{1}{3}$. $\blacksquare$
 
 ### Exercise 242
 
-(Lesson: Practice 16, Problem 5) Fill in the numbers: (1) $\dfrac{\left(\ \right)}{5}+\dfrac{\left(\ \right)}{5}=\dfrac{4}{5}$; (2) $\dfrac{\left(\ \right)}{9}-\dfrac{\left(\ \right)}{9}=\dfrac{1}{9}$.
+(Lesson: Practice 16, Problem 5) Fill in the numbers: (1) $\frac{\left(\ \right)}{5}+\frac{\left(\ \right)}{5}=\frac{4}{5}$; (2) $\frac{\left(\ \right)}{9}-\frac{\left(\ \right)}{9}=\frac{1}{9}$.
 
 ### Solution to Exercise 242
 
-(1) The sum of the two numerators is $4$: $\dfrac{1}{5}+\dfrac{3}{5}=\dfrac{4}{5}$ (or $\dfrac{2}{5}+\dfrac{2}{5}$). (2) The difference of the two numerators is $1$: $\dfrac{5}{9}-\dfrac{4}{9}=\dfrac{1}{9}$, and so on. Answers may vary. $\blacksquare$
+(1) The sum of the two numerators is $4$: $\frac{1}{5}+\frac{3}{5}=\frac{4}{5}$ (or $\frac{2}{5}+\frac{2}{5}$). (2) The difference of the two numerators is $1$: $\frac{5}{9}-\frac{4}{9}=\frac{1}{9}$, and so on. Answers may vary. $\blacksquare$
 
 ### Exercise 243
 
-(Lesson: Practice 16, Problem 6) Of a vegetable plot, $\dfrac{1}{10}$ is planted with celery and $\dfrac{3}{10}$ with cabbage, and the rest with green beans. What fraction is green beans?
+(Lesson: Practice 16, Problem 6) Of a vegetable plot, $\frac{1}{10}$ is planted with celery and $\frac{3}{10}$ with cabbage, and the rest with green beans. What fraction is green beans?
 
 ### Solution to Exercise 243
 
-$1-\dfrac{1}{10}-\dfrac{3}{10}=\dfrac{6}{10}$. The green beans are $\dfrac{6}{10}$. $\blacksquare$
+$1-\frac{1}{10}-\frac{3}{10}=\frac{6}{10}$. The green beans are $\frac{6}{10}$. $\blacksquare$
 
 ### Exercise 244
 
-(Lesson: Practice 16, Problem 7) Tiles are being laid in an auditorium; $\dfrac{1}{5}$ is laid in the morning and $\dfrac{2}{5}$ in the afternoon. Raise a math question and answer it.
+(Lesson: Practice 16, Problem 7) Tiles are being laid in an auditorium; $\frac{1}{5}$ is laid in the morning and $\frac{2}{5}$ in the afternoon. Raise a math question and answer it.
 
 ### Solution to Exercise 244
 
-For example, what fraction is laid altogether: $\dfrac{1}{5}+\dfrac{2}{5}=\dfrac{3}{5}$; what fraction remains: $1-\dfrac{3}{5}=\dfrac{2}{5}$. $\blacksquare$
+For example, what fraction is laid altogether: $\frac{1}{5}+\frac{2}{5}=\frac{3}{5}$; what fraction remains: $1-\frac{3}{5}=\frac{2}{5}$. $\blacksquare$
 
 ### Exercise 245
 
@@ -294,7 +294,7 @@ Count the integer ways to add or subtract the numerators: when the sum (differen
 
 ### Solution to Exercise 246
 
-After $1$ fold it is divided into $2$ parts, each $\dfrac{1}{2}$; after $2$ folds, $4$ parts, each $\dfrac{1}{4}$; after $3$ folds, $8$ parts, each $\dfrac{1}{8}$; after $4$ folds, $16$ parts, each $\dfrac{1}{16}$. Pattern: each fold doubles the number of parts and halves the size of each part. $\blacksquare$
+After $1$ fold it is divided into $2$ parts, each $\frac{1}{2}$; after $2$ folds, $4$ parts, each $\frac{1}{4}$; after $3$ folds, $8$ parts, each $\frac{1}{8}$; after $4$ folds, $16$ parts, each $\frac{1}{16}$. Pattern: each fold doubles the number of parts and halves the size of each part. $\blacksquare$
 
 ### Exercise 247
 
@@ -302,7 +302,7 @@ After $1$ fold it is divided into $2$ parts, each $\dfrac{1}{2}$; after $2$ fold
 
 ### Solution to Exercise 247
 
-By **Definition 5.8.4** (Finding a Fraction of a Number), each part is $\dfrac{1}{2}$ box; of the $24$ bottles divided into $3$ equal parts, $1$ part is $\dfrac{1}{3}$ and has $24\div3=8$ bottles; $2$ parts is $\dfrac{2}{3}$ and has $16$ bottles. $\blacksquare$
+By **Definition 5.8.4** (Finding a Fraction of a Number), each part is $\frac{1}{2}$ box; of the $24$ bottles divided into $3$ equal parts, $1$ part is $\frac{1}{3}$ and has $24\div3=8$ bottles; $2$ parts is $\frac{2}{3}$ and has $16$ bottles. $\blacksquare$
 
 ### Exercise 248
 
@@ -310,7 +310,7 @@ By **Definition 5.8.4** (Finding a Fraction of a Number), each part is $\dfrac{1
 
 ### Solution to Exercise 248
 
-$1$ part is $\dfrac{1}{6}$, $24\div6=4$ bottles; $2$ parts is $\dfrac{2}{6}$, $8$ bottles; $3$ parts is $\dfrac{3}{6}$, $12$ bottles. $\blacksquare$
+$1$ part is $\frac{1}{6}$, $24\div6=4$ bottles; $2$ parts is $\frac{2}{6}$, $8$ bottles; $3$ parts is $\frac{3}{6}$, $12$ bottles. $\blacksquare$
 
 ### Exercise 249
 
@@ -330,7 +330,7 @@ Divide evenly according to the actual number in the box; for example, $12$ erase
 
 ### Exercise 251
 
-(Lesson: Do It Yourself) There are $9$ circles; color $\dfrac{1}{3}$ of them red and $\dfrac{2}{3}$ blue.
+(Lesson: Do It Yourself) There are $9$ circles; color $\frac{1}{3}$ of them red and $\frac{2}{3}$ blue.
 
 ### Solution to Exercise 251
 
@@ -338,7 +338,7 @@ By **Definition 5.8.4**, $9\div3=3$ circles, so $3$ are red and $3\times2=6$ are
 
 ### Exercise 252
 
-(Lesson: Do It Yourself) There are $10$ sticks; take out $\dfrac{2}{5}$ of them. How many sticks are taken out?
+(Lesson: Do It Yourself) There are $10$ sticks; take out $\frac{2}{5}$ of them. How many sticks are taken out?
 
 ### Solution to Exercise 252
 
@@ -346,7 +346,7 @@ $10\div5=2$ sticks (each part), $2\times2=4$ sticks. $4$ sticks are taken out. $
 
 ### Exercise 253
 
-(Lesson: Solving Problems — Example) The model-airplane club has $12$ students; $\dfrac{1}{3}$ are girls and $\dfrac{2}{3}$ are boys. How many boys and girls are there?
+(Lesson: Solving Problems — Example) The model-airplane club has $12$ students; $\frac{1}{3}$ are girls and $\frac{2}{3}$ are boys. How many boys and girls are there?
 
 ### Solution to Exercise 253
 
@@ -354,7 +354,7 @@ By **Definition 5.8.4** (Finding a Fraction of a Number), the girls number $12\d
 
 ### Exercise 254
 
-(Lesson: Solving Problems — Do It Yourself) The book corner has $45$ books, of which $\dfrac{4}{9}$ are storybooks. How many storybooks are there?
+(Lesson: Solving Problems — Do It Yourself) The book corner has $45$ books, of which $\frac{4}{9}$ are storybooks. How many storybooks are there?
 
 ### Solution to Exercise 254
 
@@ -366,19 +366,19 @@ $45\div9=5$ books (each part), $5\times4=20$ books. There are $20$ storybooks. $
 
 ### Solution to Exercise 255
 
-$8\div4=2$ circles. $1$ part is $\dfrac{1}{4}$ with $2$ circles; $2$ parts is $\dfrac{2}{4}$ with $4$ circles. $\blacksquare$
+$8\div4=2$ circles. $1$ part is $\frac{1}{4}$ with $2$ circles; $2$ parts is $\frac{2}{4}$ with $4$ circles. $\blacksquare$
 
 ### Exercise 256
 
-(Lesson: Practice 17, Problem 2) Color to represent the $\dfrac{2}{5}$ below each figure.
+(Lesson: Practice 17, Problem 2) Color to represent the $\frac{2}{5}$ below each figure.
 
 ### Solution to Exercise 256
 
-By **Definition 5.8.1**, divide each figure into $5$ equal parts and color $2$ of them. Note that the total number differs between figures, so each part has a different count, but it is always $\dfrac{2}{5}$. $\blacksquare$
+By **Definition 5.8.1**, divide each figure into $5$ equal parts and color $2$ of them. Note that the total number differs between figures, so each part has a different count, but it is always $\frac{2}{5}$. $\blacksquare$
 
 ### Exercise 257
 
-(Lesson: Practice 17, Problem 3) Divide and compare: how many is $\dfrac{3}{4}$ of these pineapples? How many is $\dfrac{3}{4}$ of these strawberries?
+(Lesson: Practice 17, Problem 3) Divide and compare: how many is $\frac{3}{4}$ of these pineapples? How many is $\frac{3}{4}$ of these strawberries?
 
 ### Solution to Exercise 257
 
@@ -386,7 +386,7 @@ By **Definition 5.8.4**, the count is total $\div4\times3$. Calculate according 
 
 ### Exercise 258
 
-(Lesson: Practice 17, Problem 4) The breeding group keeps $20$ rabbits, of which $\dfrac{1}{4}$ are black. How many black rabbits are there?
+(Lesson: Practice 17, Problem 4) The breeding group keeps $20$ rabbits, of which $\frac{1}{4}$ are black. How many black rabbits are there?
 
 ### Solution to Exercise 258
 
@@ -394,7 +394,7 @@ $20\div4=5$ rabbits. There are $5$ black rabbits. $\blacksquare$
 
 ### Exercise 259
 
-(Lesson: Practice 17, Problem 5) A bag of flour is $25$ kilograms; $\dfrac{2}{5}$ has already been eaten. How many kilograms remain?
+(Lesson: Practice 17, Problem 5) A bag of flour is $25$ kilograms; $\frac{2}{5}$ has already been eaten. How many kilograms remain?
 
 ### Solution to Exercise 259
 
@@ -402,7 +402,7 @@ Each part is $25\div5=5$ kilograms; $5\times2=10$ kilograms are eaten, leaving $
 
 ### Exercise 260
 
-(Lesson: Practice 17, Problem 6) In each figure, color to show its $\dfrac{3}{5}$.
+(Lesson: Practice 17, Problem 6) In each figure, color to show its $\frac{3}{5}$.
 
 ### Solution to Exercise 260
 
@@ -410,15 +410,15 @@ By **Definition 5.8.1**, divide each figure into $5$ equal parts and color $3$. 
 
 ### Exercise 261
 
-(Lesson: Practice 17, Problem 7) The minute hand turns from "12" to various positions: how many hours and minutes are $6$ of the $\dfrac{1}{12}$ hours? What about $11$ of the $\dfrac{1}{12}$ hours?
+(Lesson: Practice 17, Problem 7) The minute hand turns from "12" to various positions: how many hours and minutes are $6$ of the $\frac{1}{12}$ hours? What about $11$ of the $\frac{1}{12}$ hours?
 
 ### Solution to Exercise 261
 
-The clock face is divided into $12$ large divisions, each $5$ minutes. $6$ of the $\dfrac{1}{12}$ hours is $\dfrac{6}{12}$ hour $=30$ minutes; $11$ of the $\dfrac{1}{12}$ hours is $\dfrac{11}{12}$ hour $=55$ minutes. $\blacksquare$
+The clock face is divided into $12$ large divisions, each $5$ minutes. $6$ of the $\frac{1}{12}$ hours is $\frac{6}{12}$ hour $=30$ minutes; $11$ of the $\frac{1}{12}$ hours is $\frac{11}{12}$ hour $=55$ minutes. $\blacksquare$
 
 ### Exercise 262
 
-(Lesson: Practice 17, Problem 8) A plate of fish has $15$ fish; the white cat ate $\dfrac{1}{3}$ and the black cat ate $\dfrac{1}{5}$. Who ate more?
+(Lesson: Practice 17, Problem 8) A plate of fish has $15$ fish; the white cat ate $\frac{1}{3}$ and the black cat ate $\frac{1}{5}$. Who ate more?
 
 ### Solution to Exercise 262
 
@@ -426,7 +426,7 @@ The white cat ate $15\div3=5$ fish, and the black cat $15\div5=3$ fish. $5>3$, s
 
 ### Exercise 263
 
-(Lesson: Practice 17, Problem 9) A rope is $63$ meters long; the first time $\dfrac{2}{7}$ of its length is used, and the second time $\dfrac{3}{7}$ of its length. How many meters are used in the two times?
+(Lesson: Practice 17, Problem 9) A rope is $63$ meters long; the first time $\frac{2}{7}$ of its length is used, and the second time $\frac{3}{7}$ of its length. How many meters are used in the two times?
 
 ### Solution to Exercise 263
 
@@ -434,11 +434,11 @@ Each part is $63\div7=9$ meters; the first time $9\times2=18$ meters, the second
 
 ### Exercise 264
 
-(Lesson: Practice 18, Problem 1) Fill in "$>$" or "$<$": $\dfrac{2}{5}\bigcirc\dfrac{4}{5}$; $\dfrac{1}{4}\bigcirc\dfrac{1}{6}$; $\dfrac{7}{7}\bigcirc\dfrac{5}{7}$; $\dfrac{3}{20}\bigcirc\dfrac{7}{20}$.
+(Lesson: Practice 18, Problem 1) Fill in "$>$" or "$<$": $\frac{2}{5}\bigcirc\frac{4}{5}$; $\frac{1}{4}\bigcirc\frac{1}{6}$; $\frac{7}{7}\bigcirc\frac{5}{7}$; $\frac{3}{20}\bigcirc\frac{7}{20}$.
 
 ### Solution to Exercise 264
 
-By **Definition 5.8.2**: $\dfrac{2}{5}<\dfrac{4}{5}$; $\dfrac{1}{4}>\dfrac{1}{6}$; $\dfrac{7}{7}>\dfrac{5}{7}$; $\dfrac{3}{20}<\dfrac{7}{20}$. The figure shows four pairs of shaded fraction diagrams (each pair has two identical shapes divided into equal parts and shaded, representing $\dfrac{2}{5}$ vs $\dfrac{4}{5}$, $\dfrac{1}{4}$ vs $\dfrac{1}{6}$, $\dfrac{7}{7}$ vs $\dfrac{5}{7}$, and $\dfrac{3}{20}$ vs $\dfrac{7}{20}$), visually illustrating the comparisons above. $\blacksquare$
+By **Definition 5.8.2**: $\frac{2}{5}<\frac{4}{5}$; $\frac{1}{4}>\frac{1}{6}$; $\frac{7}{7}>\frac{5}{7}$; $\frac{3}{20}<\frac{7}{20}$. The figure shows four pairs of shaded fraction diagrams (each pair has two identical shapes divided into equal parts and shaded, representing $\frac{2}{5}$ vs $\frac{4}{5}$, $\frac{1}{4}$ vs $\frac{1}{6}$, $\frac{7}{7}$ vs $\frac{5}{7}$, and $\frac{3}{20}$ vs $\frac{7}{20}$), visually illustrating the comparisons above. $\blacksquare$
 
 ### Exercise 265
 
@@ -450,24 +450,24 @@ By **Definition 5.8.4**, the total is divided into several equal parts; the frac
 
 ### Exercise 266
 
-(Lesson: Practice 18, Problem 3) Compute: $\dfrac{1}{4}+\dfrac{2}{4}$; $\dfrac{4}{5}-\dfrac{1}{5}$; $\dfrac{5}{7}-\dfrac{4}{7}$; $\dfrac{3}{8}+\dfrac{5}{8}$; $\dfrac{2}{7}+\dfrac{3}{7}$; $1-\dfrac{2}{9}$; $\dfrac{4}{6}+\dfrac{1}{6}$; $\dfrac{4}{6}-\dfrac{1}{6}$.
+(Lesson: Practice 18, Problem 3) Compute: $\frac{1}{4}+\frac{2}{4}$; $\frac{4}{5}-\frac{1}{5}$; $\frac{5}{7}-\frac{4}{7}$; $\frac{3}{8}+\frac{5}{8}$; $\frac{2}{7}+\frac{3}{7}$; $1-\frac{2}{9}$; $\frac{4}{6}+\frac{1}{6}$; $\frac{4}{6}-\frac{1}{6}$.
 
 ### Solution to Exercise 266
 
-By **Definition 5.8.3**: $\dfrac{1}{4}+\dfrac{2}{4}=\dfrac{3}{4}$; $\dfrac{4}{5}-\dfrac{1}{5}=\dfrac{3}{5}$; $\dfrac{5}{7}-\dfrac{4}{7}=\dfrac{1}{7}$; $\dfrac{3}{8}+\dfrac{5}{8}=1$; $\dfrac{2}{7}+\dfrac{3}{7}=\dfrac{5}{7}$; $1-\dfrac{2}{9}=\dfrac{7}{9}$; $\dfrac{4}{6}+\dfrac{1}{6}=\dfrac{5}{6}$; $\dfrac{4}{6}-\dfrac{1}{6}=\dfrac{3}{6}$. $\blacksquare$
+By **Definition 5.8.3**: $\frac{1}{4}+\frac{2}{4}=\frac{3}{4}$; $\frac{4}{5}-\frac{1}{5}=\frac{3}{5}$; $\frac{5}{7}-\frac{4}{7}=\frac{1}{7}$; $\frac{3}{8}+\frac{5}{8}=1$; $\frac{2}{7}+\frac{3}{7}=\frac{5}{7}$; $1-\frac{2}{9}=\frac{7}{9}$; $\frac{4}{6}+\frac{1}{6}=\frac{5}{6}$; $\frac{4}{6}-\frac{1}{6}=\frac{3}{6}$. $\blacksquare$
 
 ### Exercise 267
 
-(Lesson: Practice 18, Problem 4) The chorus has $24$ students, of whom $\dfrac{1}{4}$ are boys. How many boys are there? What fraction are girls? How many girls?
+(Lesson: Practice 18, Problem 4) The chorus has $24$ students, of whom $\frac{1}{4}$ are boys. How many boys are there? What fraction are girls? How many girls?
 
 ### Solution to Exercise 267
 
-The boys number $24\div4=6$; the girls are $1-\dfrac{1}{4}=\dfrac{3}{4}$; the girls number $6\times3=18$. $\blacksquare$
+The boys number $24\div4=6$; the girls are $1-\frac{1}{4}=\frac{3}{4}$; the girls number $6\times3=18$. $\blacksquare$
 
 ### Exercise 268
 
-(Lesson: Practice 18, Problem 5) A self-driving trip covered $\dfrac{5}{10}$ of the whole route, and then another $\dfrac{3}{10}$ of the whole route. What fraction of the whole route remains?
+(Lesson: Practice 18, Problem 5) A self-driving trip covered $\frac{5}{10}$ of the whole route, and then another $\frac{3}{10}$ of the whole route. What fraction of the whole route remains?
 
 ### Solution to Exercise 268
 
-Traveled so far: $\dfrac{5}{10}+\dfrac{3}{10}=\dfrac{8}{10}$; remaining: $1-\dfrac{8}{10}=\dfrac{2}{10}$. $\blacksquare$
+Traveled so far: $\frac{5}{10}+\frac{3}{10}=\frac{8}{10}$; remaining: $1-\frac{8}{10}=\frac{2}{10}$. $\blacksquare$

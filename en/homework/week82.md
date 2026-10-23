@@ -4,7 +4,7 @@
 >
 > **Definition 10.5.2** (Fraction Unit) <br>Dividing the unit "$1$" equally into several parts, the number representing one part is the fraction unit. Whatever the denominator of a fraction, its fraction unit is that fraction over one.
 >
-> **Definition 10.5.3** (Fractions and Division) <br>dividend$\div$divisor$=\dfrac{\text{被除数}}{\text{除数}}$, i.e. $a\div b=\dfrac{a}{b}$ ($b\ne0$). To find what fraction one number is of another, use division.
+> **Definition 10.5.3** (Fractions and Division) <br>dividend$\div$divisor$=\frac{\text{被除数}}{\text{除数}}$, i.e. $a\div b=\frac{a}{b}$ ($b\ne0$). To find what fraction one number is of another, use division.
 >
 > **Definition 10.5.4** (Proper and Improper Fractions) <br>A fraction whose numerator is smaller than its denominator is a proper fraction, which is less than $1$; a fraction whose numerator is larger than or equal to its denominator is an improper fraction, which is greater than $1$ or equal to $1$. A number made from an integer and a proper fraction is a mixed number.
 >
@@ -18,11 +18,11 @@
 
 ### Exercise 96
 
-(Lesson: Meaning of Fractions, Do It) State the meaning and fraction unit of each: $\dfrac{3}{5}$, $\dfrac{7}{10}$, $\dfrac{5}{8}$, $\dfrac{3}{4}$. Divide a $1$$m$ ribbon equally into $5$ pieces; how long is each piece?
+(Lesson: Meaning of Fractions, Do It) State the meaning and fraction unit of each: $\frac{3}{5}$, $\frac{7}{10}$, $\frac{5}{8}$, $\frac{3}{4}$. Divide a $1$$m$ ribbon equally into $5$ pieces; how long is each piece?
 
 ### Solution to Exercise 96
 
-By **Definition 10.5.1** (Meaning of Fractions) and **Definition 10.5.2** (Fraction Unit): $\dfrac{3}{5}$ means dividing the unit "$1$" into $5$ parts and taking $3$, with fraction unit $\dfrac{1}{5}$; $\dfrac{7}{10}$ has unit $\dfrac{1}{10}$; $\dfrac{5}{8}$ has unit $\dfrac{1}{8}$; $\dfrac{3}{4}$ has unit $\dfrac{1}{4}$. Each piece is $1\div5=\dfrac{1}{5}\,\mathrm{m}$. $\blacksquare$
+By **Definition 10.5.1** (Meaning of Fractions) and **Definition 10.5.2** (Fraction Unit): $\frac{3}{5}$ means dividing the unit "$1$" into $5$ parts and taking $3$, with fraction unit $\frac{1}{5}$; $\frac{7}{10}$ has unit $\frac{1}{10}$; $\frac{5}{8}$ has unit $\frac{1}{8}$; $\frac{3}{4}$ has unit $\frac{1}{4}$. Each piece is $1\div5=\frac{1}{5}\,\mathrm{m}$. $\blacksquare$
 
 ### Exercise 97
 
@@ -30,7 +30,7 @@ By **Definition 10.5.1** (Meaning of Fractions) and **Definition 10.5.2** (Fract
 
 ### Solution to Exercise 97
 
-By **Definition 10.5.1** (Meaning of Fractions) and **Definition 10.5.3** (Fractions and Division): each child gets $8\div4=2$ apples, which is $\dfrac{1}{4}$ of the apples; each piece is $3\div5=\dfrac{3}{5}\,\mathrm{m}$, and each piece is $\dfrac{1}{5}$ of the whole. $\blacksquare$
+By **Definition 10.5.1** (Meaning of Fractions) and **Definition 10.5.3** (Fractions and Division): each child gets $8\div4=2$ apples, which is $\frac{1}{4}$ of the apples; each piece is $3\div5=\frac{3}{5}\,\mathrm{m}$, and each piece is $\frac{1}{5}$ of the whole. $\blacksquare$
 
 ### Exercise 98
 
@@ -38,7 +38,7 @@ By **Definition 10.5.1** (Meaning of Fractions) and **Definition 10.5.3** (Fract
 
 ### Solution to Exercise 98
 
-By **Definition 10.5.3** (Fractions and Division): (1) $7\div10=\dfrac{7}{10}$; (2) the sugar-water totals $10+90=100\,\mathrm{g}$, and sugar is $10\div100=\dfrac{10}{100}=\dfrac{1}{10}$. $\blacksquare$
+By **Definition 10.5.3** (Fractions and Division): (1) $7\div10=\frac{7}{10}$; (2) the sugar-water totals $10+90=100\,\mathrm{g}$, and sugar is $10\div100=\frac{10}{100}=\frac{1}{10}$. $\blacksquare$
 
 ### Exercise 99
 
@@ -46,39 +46,39 @@ By **Definition 10.5.3** (Fractions and Division): (1) $7\div10=\dfrac{7}{10}$; 
 
 ### Solution to Exercise 99
 
-By **Definition 10.5.3** (Fractions and Division): the monkeys are $4\div9=\dfrac{4}{9}$ of the elephants; per minute he walks $1\div15=\dfrac{1}{15}\,\mathrm{km}$. $\blacksquare$
+By **Definition 10.5.3** (Fractions and Division): the monkeys are $4\div9=\frac{4}{9}$ of the elephants; per minute he walks $1\div15=\frac{1}{15}\,\mathrm{km}$. $\blacksquare$
 
 ### Exercise 100
 
-(Lesson: Proper and Improper Fractions, Do It) Which of these are proper and which improper? $\dfrac{1}{3}$, $\dfrac{3}{3}$, $\dfrac{5}{3}$, $\dfrac{1}{6}$, $\dfrac{6}{6}$, $\dfrac{7}{6}$, $\dfrac{13}{6}$.
+(Lesson: Proper and Improper Fractions, Do It) Which of these are proper and which improper? $\frac{1}{3}$, $\frac{3}{3}$, $\frac{5}{3}$, $\frac{1}{6}$, $\frac{6}{6}$, $\frac{7}{6}$, $\frac{13}{6}$.
 
 ### Solution to Exercise 100
 
-By **Definition 10.5.4** (Proper and Improper Fractions): proper fractions are $\dfrac{1}{3}$, $\dfrac{1}{6}$ (numerator smaller than denominator); improper fractions are $\dfrac{3}{3}$, $\dfrac{5}{3}$, $\dfrac{6}{6}$, $\dfrac{7}{6}$, $\dfrac{13}{6}$ (numerator greater than or equal to denominator). $\blacksquare$
+By **Definition 10.5.4** (Proper and Improper Fractions): proper fractions are $\frac{1}{3}$, $\frac{1}{6}$ (numerator smaller than denominator); improper fractions are $\frac{3}{3}$, $\frac{5}{3}$, $\frac{6}{6}$, $\frac{7}{6}$, $\frac{13}{6}$ (numerator greater than or equal to denominator). $\blacksquare$
 
 ### Exercise 101
 
-(Lesson: Proper and Improper Fractions, Exercise 13, Problem 4) Convert $\dfrac{7}{3}$ and $\dfrac{6}{2}$ to mixed numbers or integers.
+(Lesson: Proper and Improper Fractions, Exercise 13, Problem 4) Convert $\frac{7}{3}$ and $\frac{6}{2}$ to mixed numbers or integers.
 
 ### Solution to Exercise 101
 
-By **Definition 10.5.4** (Proper and Improper Fractions), $\dfrac{7}{3}=7\div3=2\dfrac{1}{3}$; $\dfrac{6}{2}=6\div2=3$. $\blacksquare$
+By **Definition 10.5.4** (Proper and Improper Fractions), $\frac{7}{3}=7\div3=2\frac{1}{3}$; $\frac{6}{2}=6\div2=3$. $\blacksquare$
 
 ### Exercise 102
 
-(Lesson: Basic Property of Fractions, Do It) Convert $\dfrac{3}{5}$ to a fraction over 20 with the same value; convert $\dfrac{16}{24}$ to a fraction over 12 with the same value.
+(Lesson: Basic Property of Fractions, Do It) Convert $\frac{3}{5}$ to a fraction over 20 with the same value; convert $\frac{16}{24}$ to a fraction over 12 with the same value.
 
 ### Solution to Exercise 102
 
-By **Definition 10.5.5** (Basic Property of Fractions): $\dfrac{3}{5}=\dfrac{3\times4}{5\times4}=\dfrac{12}{20}$; $\dfrac{16}{24}=\dfrac{16\div2}{24\div2}=\dfrac{8}{12}$. $\blacksquare$
+By **Definition 10.5.5** (Basic Property of Fractions): $\frac{3}{5}=\frac{3\times4}{5\times4}=\frac{12}{20}$; $\frac{16}{24}=\frac{16\div2}{24\div2}=\frac{8}{12}$. $\blacksquare$
 
 ### Exercise 103
 
-(Lesson: Basic Property of Fractions, Exercise 14, Problem 3) Fill in the blanks: $\dfrac{3}{4}=\dfrac{\left(\, \right)}{12}$, $\dfrac{4}{8}=\dfrac{\left(\, \right)}{2}$, $\dfrac{5}{9}=\dfrac{15}{\left(\, \right)}$, $\dfrac{16}{24}=\dfrac{\left(\, \right)}{3}$.
+(Lesson: Basic Property of Fractions, Exercise 14, Problem 3) Fill in the blanks: $\frac{3}{4}=\frac{\left(\, \right)}{12}$, $\frac{4}{8}=\frac{\left(\, \right)}{2}$, $\frac{5}{9}=\frac{15}{\left(\, \right)}$, $\frac{16}{24}=\frac{\left(\, \right)}{3}$.
 
 ### Solution to Exercise 103
 
-By **Definition 10.5.5** (Basic Property of Fractions): $\dfrac{3}{4}=\dfrac{9}{12}$; $\dfrac{4}{8}=\dfrac{1}{2}$; $\dfrac{5}{9}=\dfrac{15}{27}$; $\dfrac{16}{24}=\dfrac{2}{3}$. $\blacksquare$
+By **Definition 10.5.5** (Basic Property of Fractions): $\frac{3}{4}=\frac{9}{12}$; $\frac{4}{8}=\frac{1}{2}$; $\frac{5}{9}=\frac{15}{27}$; $\frac{16}{24}=\frac{2}{3}$. $\blacksquare$
 
 ### Exercise 104
 
@@ -106,11 +106,11 @@ By **Definition 10.5.6** (Greatest Common Factor and Reducing), the row size is 
 
 ### Exercise 107
 
-(Lesson: Reducing Fractions, Do It) Which fractions below are in lowest terms? Reduce the others: $\dfrac{15}{16}$, $\dfrac{10}{21}$, $\dfrac{17}{30}$, $\dfrac{20}{45}$, $\dfrac{31}{91}$.
+(Lesson: Reducing Fractions, Do It) Which fractions below are in lowest terms? Reduce the others: $\frac{15}{16}$, $\frac{10}{21}$, $\frac{17}{30}$, $\frac{20}{45}$, $\frac{31}{91}$.
 
 ### Solution to Exercise 107
 
-By **Definition 10.5.6** (Greatest Common Factor and Reducing): $\dfrac{15}{16}$, $\dfrac{10}{21}$, $\dfrac{17}{30}$, $\dfrac{31}{91}$ are in lowest terms; $\dfrac{20}{45}=\dfrac{20\div5}{45\div5}=\dfrac{4}{9}$. $\blacksquare$
+By **Definition 10.5.6** (Greatest Common Factor and Reducing): $\frac{15}{16}$, $\frac{10}{21}$, $\frac{17}{30}$, $\frac{31}{91}$ are in lowest terms; $\frac{20}{45}=\frac{20\div5}{45\div5}=\frac{4}{9}$. $\blacksquare$
 
 ### Exercise 108
 
@@ -118,7 +118,7 @@ By **Definition 10.5.6** (Greatest Common Factor and Reducing): $\dfrac{15}{16}$
 
 ### Solution to Exercise 108
 
-By **Definition 10.5.6** (Greatest Common Factor and Reducing): liked $\dfrac{35}{80}=\dfrac{7}{16}$; the rest $\dfrac{80-35}{80}=\dfrac{45}{80}=\dfrac{9}{16}$. $\blacksquare$
+By **Definition 10.5.6** (Greatest Common Factor and Reducing): liked $\frac{35}{80}=\frac{7}{16}$; the rest $\frac{80-35}{80}=\frac{45}{80}=\frac{9}{16}$. $\blacksquare$
 
 ### Exercise 109
 
@@ -146,35 +146,35 @@ By **Definition 10.5.7** (Least Common Multiple and Common Denominators), the ti
 
 ### Exercise 112
 
-(Lesson: Common Denominators, Do It) Compare: $\dfrac{3}{5}\bigcirc\dfrac{4}{5}$, $\dfrac{5}{6}\bigcirc\dfrac{5}{8}$, $\dfrac{3}{4}\bigcirc\dfrac{5}{6}$.
+(Lesson: Common Denominators, Do It) Compare: $\frac{3}{5}\bigcirc\frac{4}{5}$, $\frac{5}{6}\bigcirc\frac{5}{8}$, $\frac{3}{4}\bigcirc\frac{5}{6}$.
 
 ### Solution to Exercise 112
 
-By **Definition 10.5.7** (Least Common Multiple and Common Denominators): same denominators, compare numerators, $\dfrac{3}{5}<\dfrac{4}{5}$; same numerators, compare denominators, $\dfrac{5}{6}>\dfrac{5}{8}$; common denominator $\dfrac{3}{4}=\dfrac{9}{12}$, $\dfrac{5}{6}=\dfrac{10}{12}$, so $\dfrac{3}{4}<\dfrac{5}{6}$. $\blacksquare$
+By **Definition 10.5.7** (Least Common Multiple and Common Denominators): same denominators, compare numerators, $\frac{3}{5}<\frac{4}{5}$; same numerators, compare denominators, $\frac{5}{6}>\frac{5}{8}$; common denominator $\frac{3}{4}=\frac{9}{12}$, $\frac{5}{6}=\frac{10}{12}$, so $\frac{3}{4}<\frac{5}{6}$. $\blacksquare$
 
 ### Exercise 113
 
-(Lesson: Common Denominators, Exercise 18, Problem 1) Compare each pair: $\dfrac{3}{8}$ and $\dfrac{5}{8}$, $\dfrac{7}{9}$ and $\dfrac{5}{9}$, $\dfrac{2}{5}$ and $\dfrac{2}{7}$, $\dfrac{11}{12}$ and $\dfrac{13}{16}$.
+(Lesson: Common Denominators, Exercise 18, Problem 1) Compare each pair: $\frac{3}{8}$ and $\frac{5}{8}$, $\frac{7}{9}$ and $\frac{5}{9}$, $\frac{2}{5}$ and $\frac{2}{7}$, $\frac{11}{12}$ and $\frac{13}{16}$.
 
 ### Solution to Exercise 113
 
-By **Definition 10.5.7** (Least Common Multiple and Common Denominators): $\dfrac{3}{8}<\dfrac{5}{8}$; $\dfrac{7}{9}>\dfrac{5}{9}$; $\dfrac{2}{5}>\dfrac{2}{7}$; common denominator $\dfrac{11}{12}=\dfrac{44}{48}$, $\dfrac{13}{16}=\dfrac{39}{48}$, so $\dfrac{11}{12}>\dfrac{13}{16}$. $\blacksquare$
+By **Definition 10.5.7** (Least Common Multiple and Common Denominators): $\frac{3}{8}<\frac{5}{8}$; $\frac{7}{9}>\frac{5}{9}$; $\frac{2}{5}>\frac{2}{7}$; common denominator $\frac{11}{12}=\frac{44}{48}$, $\frac{13}{16}=\frac{39}{48}$, so $\frac{11}{12}>\frac{13}{16}$. $\blacksquare$
 
 ### Exercise 114
 
-(Lesson: Converting Fractions and Decimals, Do It) Convert $0.7$, $0.25$, $0.123$ to fractions; convert $\dfrac{3}{4}$, $\dfrac{9}{40}$, $\dfrac{2}{9}$, $\dfrac{5}{14}$ to decimals (round to two places).
+(Lesson: Converting Fractions and Decimals, Do It) Convert $0.7$, $0.25$, $0.123$ to fractions; convert $\frac{3}{4}$, $\frac{9}{40}$, $\frac{2}{9}$, $\frac{5}{14}$ to decimals (round to two places).
 
 ### Solution to Exercise 114
 
-By **Definition 10.5.8** (Converting Fractions and Decimals): $0.7=\dfrac{7}{10}$, $0.25=\dfrac{25}{100}=\dfrac{1}{4}$, $0.123=\dfrac{123}{1000}$; $\dfrac{3}{4}=0.75$, $\dfrac{9}{40}=0.225$, $\dfrac{2}{9}\approx0.22$, $\dfrac{5}{14}\approx0.36$. $\blacksquare$
+By **Definition 10.5.8** (Converting Fractions and Decimals): $0.7=\frac{7}{10}$, $0.25=\frac{25}{100}=\frac{1}{4}$, $0.123=\frac{123}{1000}$; $\frac{3}{4}=0.75$, $\frac{9}{40}=0.225$, $\frac{2}{9}\approx0.22$, $\frac{5}{14}\approx0.36$. $\blacksquare$
 
 ### Exercise 115
 
-(Lesson: Converting Fractions and Decimals, Exercise 19, Problem 9) Aunt Li types $0.9$ characters per second on average, and Uncle Wang types $\dfrac{5}{6}$ characters per second; who types faster?
+(Lesson: Converting Fractions and Decimals, Exercise 19, Problem 9) Aunt Li types $0.9$ characters per second on average, and Uncle Wang types $\frac{5}{6}$ characters per second; who types faster?
 
 ### Solution to Exercise 115
 
-By **Definition 10.5.8** (Converting Fractions and Decimals), $\dfrac{5}{6}\approx0.83$, and $0.9>0.83$, so Aunt Li types faster. $\blacksquare$
+By **Definition 10.5.8** (Converting Fractions and Decimals), $\frac{5}{6}\approx0.83$, and $0.9>0.83$, so Aunt Li types faster. $\blacksquare$
 
 ### Exercise 116
 

@@ -4,7 +4,7 @@
 >
 > **Definition 12.5.2** (Basic Property of a Proportion and Solving Proportions) <br>In a proportion, the product of the two outer terms equals the product of the two inner terms; this is called the basic property of a proportion. If $a:b=c:d$, then $ad=bc$. Given any three terms of a proportion, finding the unknown term is called solving the proportion.
 >
-> **Definition 12.5.3** (Direct Proportion) <br>Two related quantities: when one changes, the other changes along with it. If the ratio of each pair of corresponding values is constant, the two quantities are said to be directly proportional, and their relationship is called a direct proportion. In symbols, $\dfrac{y}{x}=k$ (constant). Its graph is a straight line through the origin.
+> **Definition 12.5.3** (Direct Proportion) <br>Two related quantities: when one changes, the other changes along with it. If the ratio of each pair of corresponding values is constant, the two quantities are said to be directly proportional, and their relationship is called a direct proportion. In symbols, $\frac{y}{x}=k$ (constant). Its graph is a straight line through the origin.
 >
 > **Definition 12.5.4** (Inverse Proportion) <br>Two related quantities: if the product of each pair of corresponding values is constant, the two quantities are said to be inversely proportional, and their relationship is called an inverse proportion. In symbols, $xy=k$ (constant). Its graph is a smooth curve.
 >
@@ -12,11 +12,11 @@
 
 ### Exercise 65
 
-(Lesson: Meaning of a Proportion, Do It) In which of the following pairs can the two ratios form a proportion? (1) $6:10$ and $9:15$; (2) $20:5$ and $1:4$; (3) $\dfrac{1}{2}:\dfrac{1}{3}$ and $6:4$; (4) $0.6:0.2$ and $\dfrac{3}{4}:\dfrac{1}{4}$.
+(Lesson: Meaning of a Proportion, Do It) In which of the following pairs can the two ratios form a proportion? (1) $6:10$ and $9:15$; (2) $20:5$ and $1:4$; (3) $\frac{1}{2}:\frac{1}{3}$ and $6:4$; (4) $0.6:0.2$ and $\frac{3}{4}:\frac{1}{4}$.
 
 ### Solution to Exercise 65
 
-By **Definition 12.5.1** (Meaning of a Proportion), two ratios form a proportion only when their values are equal. (1) $6:10=0.6$, $9:15=0.6$, so they form $6:10=9:15$. (2) $20:5=4$, $1:4=0.25$, so they cannot. (3) $\dfrac{1}{2}:\dfrac{1}{3}=1.5$, $6:4=1.5$, so they can. (4) $0.6:0.2=3$, $\dfrac{3}{4}:\dfrac{1}{4}=3$, so they can. $\blacksquare$
+By **Definition 12.5.1** (Meaning of a Proportion), two ratios form a proportion only when their values are equal. (1) $6:10=0.6$, $9:15=0.6$, so they form $6:10=9:15$. (2) $20:5=4$, $1:4=0.25$, so they cannot. (3) $\frac{1}{2}:\frac{1}{3}=1.5$, $6:4=1.5$, so they can. (4) $0.6:0.2=3$, $\frac{3}{4}:\frac{1}{4}=3$, so they can. $\blacksquare$
 
 ### Exercise 66
 
@@ -148,7 +148,7 @@ Enlarging at $2:1$ means scaling every side to $2$ times its original length. Af
 
 ### Solution to Exercise 81
 
-By **Definition 12.5.3** (Direct Proportion), since the price per ton of water is fixed, the water bill is directly proportional to the tons of water used. Let Grandma Li's bill be $x$ yuan. Then $\dfrac{40}{8}=\dfrac{x}{10}$, $8x=400$, $x=50$ yuan. $\blacksquare$
+By **Definition 12.5.3** (Direct Proportion), since the price per ton of water is fixed, the water bill is directly proportional to the tons of water used. Let Grandma Li's bill be $x$ yuan. Then $\frac{40}{8}=\frac{x}{10}$, $8x=400$, $x=50$ yuan. $\blacksquare$
 
 ### Exercise 82
 
@@ -156,7 +156,7 @@ By **Definition 12.5.3** (Direct Proportion), since the price per ton of water i
 
 ### Solution to Exercise 82
 
-By **Definition 12.5.3** (Direct Proportion), since the unit price is fixed, the total cost is directly proportional to the quantity. Let the cost be $x$ yuan. Then $\dfrac{6}{4}=\dfrac{x}{3}$, $4x=18$, $x=4.5$ yuan. $\blacksquare$
+By **Definition 12.5.3** (Direct Proportion), since the unit price is fixed, the total cost is directly proportional to the quantity. Let the cost be $x$ yuan. Then $\frac{6}{4}=\frac{x}{3}$, $4x=18$, $x=4.5$ yuan. $\blacksquare$
 
 ### Exercise 83
 
@@ -180,7 +180,7 @@ By **Definition 12.5.4** (Inverse Proportion), since the total money is fixed, t
 
 ### Solution to Exercise 85
 
-By **Definition 12.5.3** (Direct Proportion), at the same instant the ratio of object height to shadow length is constant. Let the tree's height be $x\,\mathrm{m}$. Then $\dfrac{1.5}{2.4}=\dfrac{x}{4}$, $2.4x=6$, $x=2.5\,\mathrm{m}$. $\blacksquare$
+By **Definition 12.5.3** (Direct Proportion), at the same instant the ratio of object height to shadow length is constant. Let the tree's height be $x\,\mathrm{m}$. Then $\frac{1.5}{2.4}=\frac{x}{4}$, $2.4x=6$, $x=2.5\,\mathrm{m}$. $\blacksquare$
 
 ### Exercise 86
 
@@ -188,7 +188,7 @@ By **Definition 12.5.3** (Direct Proportion), at the same instant the ratio of o
 
 ### Solution to Exercise 86
 
-By **Definition 12.5.3** (Direct Proportion), since the time per orbit is fixed, the number of orbits is directly proportional to the time. Let the time be $x$ hours. Then $\dfrac{9}{6}=\dfrac{x}{15}$, $6x=135$, $x=22.5$ hours. $\blacksquare$
+By **Definition 12.5.3** (Direct Proportion), since the time per orbit is fixed, the number of orbits is directly proportional to the time. Let the time be $x$ hours. Then $\frac{9}{6}=\frac{x}{15}$, $6x=135$, $x=22.5$ hours. $\blacksquare$
 
 ### Exercise 87
 
@@ -196,7 +196,7 @@ By **Definition 12.5.3** (Direct Proportion), since the time per orbit is fixed,
 
 ### Solution to Exercise 87
 
-By **Definition 12.5.3** (Direct Proportion), since the speed is fixed, the distance is directly proportional to the time. Let the time be $x$ hours. Then $\dfrac{160}{2}=\dfrac{400}{x}$, $160x=800$, $x=5$ hours. $\blacksquare$
+By **Definition 12.5.3** (Direct Proportion), since the speed is fixed, the distance is directly proportional to the time. Let the time be $x$ hours. Then $\frac{160}{2}=\frac{400}{x}$, $160x=800$, $x=5$ hours. $\blacksquare$
 
 ### Exercise 88
 

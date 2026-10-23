@@ -164,7 +164,7 @@ $1.28\times30=38.4$ 万千米. $\blacksquare$
 
 ### 解答 练习三十三
 
-由 $\square+\triangle=\square\times\triangle$, 变形得 $\triangle=\dfrac{\square}{\square-1}$. 试 $\square=2$, $\triangle=2$; 试 $\square=3$, $\triangle=\dfrac{3}{2}=1.5$, 检验 $3+1.5=4.5=3\times1.5$. 一组解为 $\square=3$, $\triangle=1.5$. $\blacksquare$
+由 $\square+\triangle=\square\times\triangle$, 变形得 $\triangle=\frac{\square}{\square-1}$. 试 $\square=2$, $\triangle=2$; 试 $\square=3$, $\triangle=\frac{3}{2}=1.5$, 检验 $3+1.5=4.5=3\times1.5$. 一组解为 $\square=3$, $\triangle=1.5$. $\blacksquare$
 
 ### 练习三十四
 

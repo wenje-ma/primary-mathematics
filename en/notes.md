@@ -1234,7 +1234,7 @@ A hundred-something-ten number times a one-digit: first do two-digit times one-d
 
 **Definition 10.5.2** (Fraction Units): Dividing unit "$1$" equally into several parts, the number representing one part is the fraction unit. Whatever the denominator, the fraction unit is one over that number.
 
-**Definition 10.5.3** (Fractions and Division): Dividend $\div$ divisor $=$ $\dfrac{\text{被除数}}{\text{除数}}$, i.e. $a\div b=\dfrac{a}{b}$($b\ne0$). To find what fraction one number is of another, use division.
+**Definition 10.5.3** (Fractions and Division): Dividend $\div$ divisor $=$ $\frac{\text{被除数}}{\text{除数}}$, i.e. $a\div b=\frac{a}{b}$($b\ne0$). To find what fraction one number is of another, use division.
 
 #### Proper and Improper Fractions
 
@@ -1298,7 +1298,7 @@ A hundred-something-ten number times a one-digit: first do two-digit times one-d
 
 #### Finding the Defective Item
 
-**Definition 10.10.1** (Optimal Strategy for Finding the Defective Item): Using a balance to find the defective item (only $1$ defective, known lighter or heavier), divide items into $3$ groups; divide evenly if possible, otherwise make the largest and smallest group differ by $1$. One weighing narrows the suspect range to $\dfrac{1}{3}$ of the original.
+**Definition 10.10.1** (Optimal Strategy for Finding the Defective Item): Using a balance to find the defective item (only $1$ defective, known lighter or heavier), divide items into $3$ groups; divide evenly if possible, otherwise make the largest and smallest group differ by $1$. One weighing narrows the suspect range to $\frac{1}{3}$ of the original.
 
 **Definition 10.10.2** (Weighing Count Pattern): Guaranteed minimum weighings vs. item count: $2\sim3$ items need $1$ weighing, $4\sim9$ need $2$, $10\sim27$ need $3$, $28\sim81$ need $4$, $82\sim243$ need $5$.
 
@@ -1480,7 +1480,7 @@ A hundred-something-ten number times a one-digit: first do two-digit times one-d
 
 #### Bicycle Gear Transmission
 
-**Definition 12.6.1** (Mathematics in Bicycles): Pedals drive the front chainring, which drives the rear sprocket, which drives the rear wheel. Front teeth $\times$ front turns $=$ rear teeth $\times$ rear turns, i.e. rear turns $=\dfrac{\text{前齿轮齿数}}{\text{后齿轮齿数}}\times$ front turns. Distance per pedal revolution $=\dfrac{\text{前齿轮齿数}}{\text{后齿轮齿数}}\times$ wheel circumference. Same pedal revolutions, larger front/rear teeth ratio means farther.
+**Definition 12.6.1** (Mathematics in Bicycles): Pedals drive the front chainring, which drives the rear sprocket, which drives the rear wheel. Front teeth $\times$ front turns $=$ rear teeth $\times$ rear turns, i.e. rear turns $=\frac{\text{前齿轮齿数}}{\text{后齿轮齿数}}\times$ front turns. Distance per pedal revolution $=\frac{\text{前齿轮齿数}}{\text{后齿轮齿数}}\times$ wheel circumference. Same pedal revolutions, larger front/rear teeth ratio means farther.
 
 ### Unit 7: Math Corner — Pigeonhole Problems
 
