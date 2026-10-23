@@ -12,9 +12,7 @@
 
 ### Solution to Exercise 182
 
-By **Definition 5.7.1** (Line Segment, Ray, Straight Line), a line segment has two endpoints and its length can be measured; a ray has only one endpoint, a straight line has no endpoint, and both a ray and a straight line can extend infinitely.
-
-![week38-1.svg](../../figures/week38-1.svg){width=50%} $\blacksquare$
+By **Definition 5.7.1** (Line Segment, Ray, Straight Line), a line segment has two endpoints and its length can be measured; a ray has only one endpoint, a straight line has no endpoint, and both a ray and a straight line can extend infinitely. The figure shows from top to bottom: a line segment marked with two endpoints A and B; a ray with endpoint O extending infinitely to one side; and a straight line with no endpoints extending infinitely in both directions. $\blacksquare$
 
 ### Exercise 183
 

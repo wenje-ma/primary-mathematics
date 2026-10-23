@@ -30,7 +30,7 @@ By **Definition 12.1.1** (Positive and Negative Numbers) and **Definition 12.1.2
 
 By **Definition 12.1.3** (Representing Positive and Negative Numbers on the Number Line), to the right of $0$ mark $1.5$, $2.5$ in order; to the left of $0$ mark $-0.5$, $-2$, $-\frac{5}{2}=-2.5$, $-4$ in order. Their positions are shown below.
 
-![week98-1.svg](../../figures/week98-1.svg){width=50%}
+(Figure: a horizontal number line with arrow, origin $0$ in the middle, $1.5$ and $2.5$ marked to the right, and $-0.5$, $-2$, $-2.5$, $-4$ marked to the left.)
 
 $\blacksquare$
 

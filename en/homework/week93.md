@@ -30,7 +30,7 @@ A circle has infinitely many radii and infinitely many diameters; in the same ci
 
 (Lesson: Understanding Circles, Do It Problem 2) Draw a circle of radius $2\,\text{cm}$ and mark its center, radius, and diameter with $O$, $r$, $d$.
 
-![week93-1.svg](../../figures/week93-1.svg){width=50%}
+The figure: a circle with center marked $O$, a segment from $O$ to a point on the circle labeled radius $r$, and a segment through $O$ with both endpoints on the circle labeled diameter $d$.
 
 ### Solution to Exercise 135
 
@@ -56,7 +56,7 @@ By **Definition 11.5.2** (Arcs, Sectors, Central Angles), draw sectors of differ
 
 (Lesson: Understanding Circles, Do It) Point out sectors in objects. First draw a circle of radius $2\,\text{cm}$, then a sector of central angle $100^{\circ}$ in it.
 
-![week93-2.svg](../../figures/week93-2.svg){width=50%}
+The figure: a circle of radius $2\,\text{cm}$, with two radii at the center and the intercepted arc enclosing a $100^{\circ}$ central angle forming a shaded sector.
 
 ### Solution to Exercise 138
 

@@ -8,7 +8,7 @@
 >
 > **Definition 7.6.4** (Trapezoid) <br>A quadrilateral with only one pair of parallel sides is called a trapezoid. A trapezoid with equal legs is called an isosceles trapezoid, and a trapezoid with a right angle is called a right trapezoid.
 
-![week54-1.svg](../../figures/week54-1.svg){width=50%}
+(Unit illustration: above, two non-intersecting lines $a$ and $b$ extending infinitely in both directions, labeled $a\parallel b$; below, two lines intersecting at right angles, the intersection labeled foot $O$, with $a\perp b$.)
 
 ### Exercise 155
 
@@ -154,7 +154,7 @@ By **Definition 7.6.1** (Parallel and Perpendicular): take a few points on $a$ a
 
 When a line cuts two parallel lines, corresponding angles are equal, i.e. $\angle1=\angle2$. $\blacksquare$
 
-![week54-2.svg](../../figures/week54-2.svg){width=50%}
+(Figure: two horizontal parallel lines $a$ and $b$, cut by a slanting transversal intersecting $a$ at one point and $b$ at another; the corresponding angles to the right of the transversal and below each parallel line are labeled $\angle1$ and $\angle2$.)
 
 ### Exercise 173
 

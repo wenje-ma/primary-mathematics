@@ -10,7 +10,7 @@
 >
 > **Definition 7.3.5** (How to Draw an Angle) <br>First draw a ray, matching the protractor center with the ray's endpoint and the $0^{\circ}$ graduation line with the ray; mark a point at the target graduation; taking the ray's endpoint as endpoint, draw another ray through the point just marked.
 
-![week51-1.svg](../../figures/week51-1.svg){width=100%}
+(Unit illustration: a set of angle-classification diagrams, showing in order an acute angle (opening smaller than a right angle), a right angle (two sides perpendicular), an obtuse angle (opening larger than a right angle but smaller than a straight angle), a straight angle (two sides forming a straight line), and a full angle (one side rotating a full turn around the endpoint to coincide with the other side).)
 
 ### Exercise 50
 
@@ -168,7 +168,7 @@ By **Definition 7.3.2** (Classification of Angles): (1) Folding the rectangular 
 
 (Lesson: Practice 6, Problem 5) Look at the picture and fill in. (1) Given $\angle1=70^{\circ}$, find $\angle2$. (2) Given $\angle1=40^{\circ}$, find $\angle2$, $\angle3$, $\angle4$.
 
-![week51-2.svg](../../figures/week51-2.svg){width=50%}
+The figure: (1) on a straight line there is a vertex, from which a ray is drawn dividing the straight angle into two parts labeled $\angle1$ and $\angle2$; (2) two straight lines intersect at one point, forming four angles labeled clockwise as $\angle1$, $\angle2$, $\angle3$, and $\angle4$.
 
 ### Solution to Exercise 69
 

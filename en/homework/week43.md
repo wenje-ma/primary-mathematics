@@ -52,7 +52,7 @@ By **Definition 6.3.1**, each fold of the square paper increases the number of s
 
 (Lesson: Practice 8, Problem 2) Draw on the grid (each cell $1$ cm) as required: (1) a rectangle $4$ cm long and $2$ cm wide; (2) a square with side $3$ cm.
 
-![week43-1.svg](../../figures/week43-1.svg){width=50%}
+The figure shows grid paper (each cell $1$ cm), on which a rectangle occupying $4$ cells by $2$ cells and a square occupying $3$ cells by $3$ cells have been drawn as a model.
 
 ### Solution to Exercise 103
 

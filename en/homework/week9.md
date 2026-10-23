@@ -12,9 +12,7 @@
 
 ### Solution to Exercise 1
 
-By **Definition 2.1.1** (Plane Shapes), sort the shapes into five categories—rectangles, squares, parallelograms, triangles, and circles—according to shape, placing the same kind together.
-
-![week9-1.svg](../../figures/week9-1.svg){width=50%} $\blacksquare$
+By **Definition 2.1.1** (Plane Shapes), sort the shapes into five categories—rectangles, squares, parallelograms, triangles, and circles—according to shape, placing the same kind together. The figure shows a mixed set of the learned plane shapes (several rectangles, squares, parallelograms, triangles, and circles); classify them by shape. $\blacksquare$
 
 ### Exercise 2
 

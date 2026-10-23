@@ -438,9 +438,7 @@ Each part is $63\div7=9$ meters; the first time $9\times2=18$ meters, the second
 
 ### Solution to Exercise 264
 
-By **Definition 5.8.2**: $\dfrac{2}{5}<\dfrac{4}{5}$; $\dfrac{1}{4}>\dfrac{1}{6}$; $\dfrac{7}{7}>\dfrac{5}{7}$; $\dfrac{3}{20}<\dfrac{7}{20}$.
-
-![week39-1.svg](../../figures/week39-1.svg){width=50%} $\blacksquare$
+By **Definition 5.8.2**: $\dfrac{2}{5}<\dfrac{4}{5}$; $\dfrac{1}{4}>\dfrac{1}{6}$; $\dfrac{7}{7}>\dfrac{5}{7}$; $\dfrac{3}{20}<\dfrac{7}{20}$. The figure shows four pairs of shaded fraction diagrams (each pair has two identical shapes divided into equal parts and shaded, representing $\dfrac{2}{5}$ vs $\dfrac{4}{5}$, $\dfrac{1}{4}$ vs $\dfrac{1}{6}$, $\dfrac{7}{7}$ vs $\dfrac{5}{7}$, and $\dfrac{3}{20}$ vs $\dfrac{7}{20}$), visually illustrating the comparisons above. $\blacksquare$
 
 ### Exercise 265
 

@@ -6,7 +6,7 @@
 
 ### Exercise 117
 
-(Lesson: Single Line Graphs, Do It) Below is a graph of China's high-speed rail operating mileage from 2009 to 2021 ![week83-1.svg](../../figures/week83-1.svg){width=50%}. (1) How did China's high-speed rail mileage change from 2009 to 2021? (2) Which year saw the largest increase over the previous year? (3) What else can you find?
+(Lesson: Single Line Graphs, Do It) Below is a graph of China's high-speed rail operating mileage from 2009 to 2021 (a single line graph: the horizontal axis shows years 2009 through 2021, the vertical axis shows operating mileage in tens of thousands of kilometers; data points rise year by year and are connected by line segments into an upward-trending broken line). (1) How did China's high-speed rail mileage change from 2009 to 2021? (2) Which year saw the largest increase over the previous year? (3) What else can you find?
 
 ### Solution to Exercise 117
 

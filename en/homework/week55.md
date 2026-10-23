@@ -4,7 +4,7 @@
 >
 > **Definition 7.7.2** (Double Bar Chart) <br>A bar chart that uses two different kinds of bars (with a legend) to simultaneously represent two categories of data is called a double bar chart, which makes it easy to compare two groups of data.
 
-![week55-1.svg](../../figures/week55-1.svg){width=50%}
+(Unit illustration: a single bar chart, with categories on the horizontal axis and a quantity scale on the vertical axis; each category corresponds to a vertical bar whose height represents that category's quantity.)
 
 ### Exercise 199
 
@@ -70,7 +70,7 @@ By **Definition 7.7.1** (Bar Chart): (1) each grid represents $10$ years; (2) th
 
 By **Definition 7.7.1** (Bar Chart): draw two single bar charts separately and compare the bar heights — in September the number of rainy days increases as autumn begins. $\blacksquare$
 
-![week55-2.svg](../../figures/week55-2.svg){width=50%}
+(Figure: two side-by-side single bar charts, the left showing weather conditions in City A in August 2022 (bars for sunny, cloudy, rainy, etc., corresponding to number of days), the right showing September weather; the horizontal axis in both is weather category and the vertical axis is number of days.)
 
 ### Exercise 207
 

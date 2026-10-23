@@ -66,7 +66,7 @@ By **Definition 12.5.2** (Basic Property of a Proportion and Solving Proportions
 
 By **Definition 12.5.3** (Direct Proportion). (1) $80:1=80$, $160:2=80$, $240:3=80$, so the values are all equal. (2) The value $80$ means the car travels $80\,\mathrm{km}$ per hour, i.e. its speed. (3) Since the ratio of distance to time (speed) is constant, distance and time are directly proportional; the graph is a straight line through the origin (right figure).
 
-![week102-1.svg](../../figures/week102-1.svg){width=100%}
+(Figure: on the left a data table of time vs. distance; on the right a coordinate system with the horizontal axis for time (hours) and the vertical axis for distance ($\mathrm{km}$), plotting $(1,80),(2,160),(3,240),(4,320),(5,400),(6,480)$ and connecting them into an upward straight line through the origin.)
 
 $\blacksquare$
 

@@ -24,7 +24,7 @@ By **Definition 11.4.2** (Positive/Negative Numbers for Opposite Quantities), ea
 
 (Lesson: Understanding Negative Numbers, Think) Where on the number line should negative numbers go? Mark $-1$, $-2$, $-3$, $-4$. Is $0$ positive or negative?
 
-![week92-1.svg](../../figures/week92-1.svg){width=50%}
+The figure: a horizontal number line, with $0$ in the middle, $1,2,3,4$ marked to the right in order, and blank space to the left for marking $-1,-2,-3,-4$.
 
 ### Solution to Exercise 130
 

@@ -34,7 +34,7 @@ Rotating about the long edge $2\,\mathrm{cm}$ as axis gives height $2\,\mathrm{c
 
 By **Definition 12.4.2** (Lateral Area and Surface Area of a Cylinder), the unrolled rectangle's length $=$ base circumference $=2\pi r=2\times3.14\times5=31.4\,\mathrm{cm}$; its width $=$ the cylinder's height $=20\,\mathrm{cm}$. As shown.
 
-![week101-1.svg](../../figures/week101-1.svg){width=50%}
+(Figure: a cylindrical tea canister with a label around its side, beside which the unrolled rectangle is drawn, $31.4\,\mathrm{cm}$ long and $20\,\mathrm{cm}$ wide.)
 
 $\blacksquare$
 

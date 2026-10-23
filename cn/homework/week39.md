@@ -438,9 +438,7 @@ $20\div4=5$ 只. 黑兔 $5$ 只. $\blacksquare$
 
 ### 解答 练习二百六十四
 
-由**定义 5.8.2**: $\dfrac{2}{5}<\dfrac{4}{5}$; $\dfrac{1}{4}>\dfrac{1}{6}$; $\dfrac{7}{7}>\dfrac{5}{7}$; $\dfrac{3}{20}<\dfrac{7}{20}$.
-
-![week39-1.svg](../figures/week39-1.svg){width=50%} $\blacksquare$
+由**定义 5.8.2**: $\dfrac{2}{5}<\dfrac{4}{5}$; $\dfrac{1}{4}>\dfrac{1}{6}$; $\dfrac{7}{7}>\dfrac{5}{7}$; $\dfrac{3}{20}<\dfrac{7}{20}$. 题图为四组涂色分数图示 (每组两个同样大小的图形平均分后涂色, 分别表示 $\dfrac{2}{5}$ 与 $\dfrac{4}{5}$, $\dfrac{1}{4}$ 与 $\dfrac{1}{6}$, $\dfrac{7}{7}$ 与 $\dfrac{5}{7}$, $\dfrac{3}{20}$ 与 $\dfrac{7}{20}$), 直观显示上述大小关系. $\blacksquare$
 
 ### 练习二百六十五
 

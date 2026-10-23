@@ -24,7 +24,7 @@ By **Definition 11.1.1** (Ordered Pairs): Zhang Liang $\left(2,3\right)$, Sun Fa
 
 (Lesson: Ordered Pairs, Do It Problem 1) Write the letters' positions as in the example: $A\left(5,9\right)$, $B\left(\;,\;\right)$, $C\left(\;,\;\right)$, $D\left(\;,\;\right)$.
 
-![week89-1.svg](../../figures/week89-1.svg){width=50%}
+The figure: a grid with the horizontal axis (column) numbered $1$ to $10$ left to right and the vertical axis (row) numbered $1$ to $10$ bottom to top; four letters are marked at grid intersections: $A$ at column $5$, row $9$; $B$ at column $1$, row $5$; $C$ at column $5$, row $1$; $D$ at column $9$, row $5$.
 
 ### Solution to Exercise 3
 
@@ -58,7 +58,7 @@ By **Definition 11.1.1** (Ordered Pairs): Xiao Gang $\left(10,8\right)$; row ahe
 
 (Lesson: Ordered Pairs, Exercise 1 Review Problem 3) The cell $\left(9,8\right)$ is already colored; continue coloring: points $\left(6,10\right)$, $\left(12,10\right)$, $\left(4,6\right)$, $\left(14,6\right)$, $\left(4,5\right)$, $\left(14,5\right)$, $\left(5,4\right)$, $\left(13,4\right)$, $\left(6,3\right)$, $\left(12,3\right)$, $\left(7,2\right)$, $\left(11,2\right)$, $\left(8,1\right)$, $\left(9,1\right)$, $\left(10,1\right)$.
 
-![week89-2.svg](../../figures/week89-2.svg){width=50%}
+The figure: a grid with intersections numbered by column (horizontal) and row (vertical); the cell at column $9$, row $8$ is already black as the starting point, and the rest are to be colored.
 
 ### Solution to Exercise 7
 
@@ -92,7 +92,7 @@ Draw the figure, record each vertex's ordered pair, give only the coordinates; y
 
 (Lesson: Direction and Distance, Example 2) A fishing boat is $1500\,\text{m}$ from the rescue ship. How to describe its position? The boat is on the east-by-south $25^{\circ}$ bearing (or south-by-east $65^{\circ}$). On the map $1\,\text{cm}$ represents $500\,\text{m}$, so $1500\,\text{m}$ is drawn as $3\,\text{cm}$.
 
-![week89-3.svg](../../figures/week89-3.svg){width=50%}
+The figure: a bearing diagram with the rescue ship as observation point, showing a direction marker (north up, south down, west left, east right); from the rescue ship a segment $3\,\text{cm}$ long is drawn in the east-by-south $25^{\circ}$ direction, the endpoint is marked as the fishing boat, and the angle $25^{\circ}$ and scale are labeled.
 
 ### Solution to Exercise 11
 

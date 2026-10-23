@@ -104,9 +104,7 @@ By **Definition 2.3.2** (Place Value), those with ones digit $5$ are $45,65,55,7
 
 ### Solution to Exercise 56
 
-By **Definition 2.3.3** (Comparing Two-Digit Numbers), each row from left to right increases by $1$, and each column from top to bottom increases by $10$; numbers with the same tens digit or same ones digit form a row or column.
-
-![week11-1.svg](../../figures/week11-1.svg){width=50%} $\blacksquare$
+By **Definition 2.3.3** (Comparing Two-Digit Numbers), each row from left to right increases by $1$, and each column from top to bottom increases by $10$; numbers with the same tens digit or same ones digit form a row or column. The figure is a $10\times10$ hundreds table with some cells already filled (the first row is $1,2,\ldots,10$, the second row $11,12,\ldots,20$, and so on); fill the blanks in numerical order. $\blacksquare$
 
 ### Exercise 57
 

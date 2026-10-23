@@ -52,7 +52,7 @@ By **Definition 11.2.2** (A Number Times a Fraction): $\frac{4}{7}\times\frac{1}
 
 (Lesson: A Number Times a Fraction, Exercise 3 Review Problem 1) This plot is $1$ hectare; first shade $\frac{1}{5}$ hectare, then shade $\frac{3}{4}$ of $\frac{1}{5}$ hectare. How many hectares are shaded? Write $\left(\;\right)\times\left(\;\right)$.
 
-![week90-1.svg](../../figures/week90-1.svg){width=50%}
+The figure: a rectangle representing $1$ hectare, first divided evenly into $5$ strips along the width, with $1$ strip (occupying $\frac{1}{5}$) shaded lightly; then within that $\frac{1}{5}$ strip, divided evenly into $4$ parts along the length, with $3$ parts shaded darkly; the dark part is what is asked for.
 
 ### Solution to Exercise 37
 
