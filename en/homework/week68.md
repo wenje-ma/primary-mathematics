@@ -1,9 +1,9 @@
 # Assignment 68
 
 > **Definition 8.11.1** (General Review: The Four Operations and the Operation Laws) <br>In the four operations, addition and subtraction are inverse operations, and multiplication and division are inverse operations. The commutative and associative laws of integer addition and the commutative, associative and distributive laws of multiplication also apply to decimals and can be used for convenient calculation.
->
+> 
 > **Definition 8.11.2** (General Review: Meaning of Decimals and Addition/Subtraction) <br>The counting units of a decimal are one tenth, one hundredth, one thousandth, and so on, and the rate between two adjacent counting units is $10$. To add or subtract decimals, first align the decimal points and then compute.
->
+> 
 > **Definition 8.11.3** (General Review: Figures and Statistics) <br>A triangle's interior-angle sum is $180^\circ$, and the sum of any two sides is greater than the third; in an axially symmetric figure, corresponding points are equidistant from the axis; translation does not change a figure's shape or size; a double bar chart makes comparing two data sets easy; the mean $=$ total $\div$ number of parts.
 
 ### Exercise 241
@@ -76,7 +76,7 @@ By **Definition 8.5.7** (a triangle's interior-angle sum $180^\circ$), $180^\cir
 
 ### Solution to Exercise 249
 
-By **Definition 8.5.4** (Relationship Among the Three Sides), $7-4<$ third side $<7+4$, i.e. $3<$ third side $<11$, so it can be $4,5,6,7,8,9,10\,\mathrm{cm}$. $\blacksquare$
+By **Definition 8.5.4** (Relationship Among the Three Sides), $7-4< $ third side $< 7+4$, i.e. $3< $ third side $< 11$, so it can be $4,5,6,7,8,9,10\,\mathrm{cm}$. $\blacksquare$
 
 ### Exercise 250
 

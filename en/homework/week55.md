@@ -1,7 +1,7 @@
 ﻿# Assignment 55
 
 > **Definition 7.7.1** (Bar Chart) <br>A statistical chart that uses the length of bars to represent quantities is called a bar chart. It clearly shows the quantities and makes comparison easy. When the data are large, $1$ grid can represent multiple units (e.g. $2$, $5$, or $10$), and half a grid represents half a unit.
->
+> 
 > **Definition 7.7.2** (Double Bar Chart) <br>A bar chart that uses two different kinds of bars (with a legend) to simultaneously represent two categories of data is called a double bar chart, which makes it easy to compare two groups of data.
 
 (Unit illustration: a single bar chart, with categories on the horizontal axis and a quantity scale on the vertical axis; each category corresponds to a vertical bar whose height represents that category's quantity.)

@@ -1,15 +1,15 @@
 # Assignment 28
 
 > **Definition 4.4.1** (The Decimal Relation of Counting Units) <br>Counting one by one, $10$ ones make ten; counting by tens, $10$ tens make a hundred; $10$ hundreds make a thousand; $10$ thousands make ten thousand. One, ten, hundred, thousand, and ten-thousand are all counting units, and neighboring units differ by $10$ times.
->
+> 
 > **Definition 4.4.2** (Place-Value Order) <br>From the right, the places are the ones, tens, hundreds, thousands, ten-thousands $\cdots\cdots$ whatever digit is in a place means that many of that counting unit. For example the $5$ in the hundreds place means $5$ hundreds.
->
+> 
 > **Definition 4.4.3** (Reading Numbers up to Ten Thousand) <br>Read from the highest place, in place order: read however many thousands are in the thousands place, however many hundreds in the hundreds place $\cdots\cdots$; if there is one $0$ or two $0$'s in the middle, read only one "zero"; no matter how many $0$'s are at the end, do not read them.
->
+> 
 > **Definition 4.4.4** (Writing Numbers up to Ten Thousand) <br>Write from the highest place, in place order: write however many thousands in the thousands place, however many hundreds in the hundreds place $\cdots\cdots$; if a place in the middle or at the end has nothing, write $0$ in that place.
->
+> 
 > **Definition 4.4.5** (Comparing Numbers up to Ten Thousand) <br>If the number of digits differs, the one with more digits is larger; if the digits are the same, compare from the highest place, the one with the larger highest digit is larger, if the highest is equal compare the next place, until a larger one is found.
->
+> 
 > **Definition 4.4.6** (Approximate Numbers and the Approximation Sign) <br>In daily life we sometimes use an approximate number instead of an exact one. Numbers close to a round thousand or hundred can be written as an approximate number, joined by the approximation sign $\approx$, read as "approximately equals". For example $6988\approx7000$, and $7000$ is the approximate number of $6988$.
 
 ### Exercise 91
@@ -286,11 +286,11 @@ The ones is $7$; the tens plus ones is $12$, so the tens is $12-7=5$; the hundre
 
 ### Exercise 125
 
-(Lesson: Comparing Numbers up to Ten Thousand, Do It) Compare the numbers of saplings. (1) Cedar $843$ vs willow $1215$. (2) Poplar $2757$ vs pine $1614$. (3) Pine $1614$ vs willow $1215$. Fill the $\bigcirc$ with $>$ or $<$.
+(Lesson: Comparing Numbers up to Ten Thousand, Do It) Compare the numbers of saplings. (1) Cedar $843$ vs willow $1215$. (2) Poplar $2757$ vs pine $1614$. (3) Pine $1614$ vs willow $1215$. Fill the $\bigcirc$ with $> $ or $< $.
 
 ### Solution to Exercise 125
 
-By **Definition 4.4.5**: $843$ is three-digit and $1215$ is four-digit, $843<1215$; $2757$ and $1614$ are both four-digit, the highest digit $2>1$, so $2757>1614$; $1614$ and $1215$ have the same highest digit, the hundreds $6>2$, so $1614>1215$. $\blacksquare$
+By **Definition 4.4.5**: $843$ is three-digit and $1215$ is four-digit, $843< 1215$; $2757$ and $1614$ are both four-digit, the highest digit $2> 1$, so $2757> 1614$; $1614$ and $1215$ have the same highest digit, the hundreds $6> 2$, so $1614> 1215$. $\blacksquare$
 
 ### Exercise 126
 
@@ -298,7 +298,7 @@ By **Definition 4.4.5**: $843$ is three-digit and $1215$ is four-digit, $843<121
 
 ### Solution to Exercise 126
 
-By **Definition 4.4.5**, (1) $893<914<941<1001$ ($1001$ is four-digit and largest). (2) $3005<3049<3050<3500$. $\blacksquare$
+By **Definition 4.4.5**, (1) $893< 914< 941< 1001$ ($1001$ is four-digit and largest). (2) $3005< 3049< 3050< 3500$. $\blacksquare$
 
 ### Exercise 127
 
@@ -322,7 +322,7 @@ $200+400=600$; $3000+6000=9000$; $800+900=1700$; $600-400=200$; $9000-3000=6000$
 
 ### Solution to Exercise 129
 
-Right. The $3$ in the thousands place means $3000$, and the $3$ in the tens place means $30$; $3000>30$, so the number meant by the thousands-place $3$ is larger. $\blacksquare$
+Right. The $3$ in the thousands place means $3000$, and the $3$ in the tens place means $30$; $3000> 30$, so the number meant by the thousands-place $3$ is larger. $\blacksquare$
 
 ### Exercise 130
 
@@ -354,15 +354,15 @@ Four beads all as lower beads in the thousands, hundreds, tens, and ones places 
 
 ### Solution to Exercise 133
 
-(1) $895>804>673>621$; month $4$ is most, month $6$ least. (2) $673\approx700$, $895\approx900$, $804\approx800$, $621\approx600$. $\blacksquare$
+(1) $895> 804> 673> 621$; month $4$ is most, month $6$ least. (2) $673\approx700$, $895\approx900$, $804\approx800$, $621\approx600$. $\blacksquare$
 
 ### Exercise 134
 
-(Lesson: Approximate Numbers and Add/Subtract, Practice) Which digits can go in the $\square$? $2317>2\square17$; $999<\square6000$.
+(Lesson: Approximate Numbers and Add/Subtract, Practice) Which digits can go in the $\square$? $2317> 2\square17$; $999< \square6000$.
 
 ### Solution to Exercise 134
 
-For $2317>2\square17$, the thousands, ones, and tens are the same, so the hundreds must be smaller than $3$; fill $0,1,2$. For $999<\square6000$, $999$ is three-digit and the right side is four-digit, so the thousands place cannot be $0$; any of $1\sim9$ works. $\blacksquare$
+For $2317> 2\square17$, the thousands, ones, and tens are the same, so the hundreds must be smaller than $3$; fill $0,1,2$. For $999< \square6000$, $999$ is three-digit and the right side is four-digit, so the thousands place cannot be $0$; any of $1\sim9$ works. $\blacksquare$
 
 ### Exercise 135
 
@@ -382,11 +382,11 @@ Six thousand three is $6003$; six thousand thirty-three is $6033$; six thousand 
 
 ### Exercise 137
 
-(Lesson: Organization and Review, Practice) Fill the $\bigcirc$ with $>$ or $<$: $1020\bigcirc999$, $398\bigcirc402$, $5940\bigcirc5230$.
+(Lesson: Organization and Review, Practice) Fill the $\bigcirc$ with $> $ or $< $: $1020\bigcirc999$, $398\bigcirc402$, $5940\bigcirc5230$.
 
 ### Solution to Exercise 137
 
-By **Definition 4.4.5**, $1020>999$ (four-digit is greater than three-digit); $398<402$; $5940>5230$ (thousands equal, compare hundreds, $9>2$). $\blacksquare$
+By **Definition 4.4.5**, $1020> 999$ (four-digit is greater than three-digit); $398< 402$; $5940> 5230$ (thousands equal, compare hundreds, $9> 2$). $\blacksquare$
 
 ### Exercise 138
 
@@ -394,7 +394,7 @@ By **Definition 4.4.5**, $1020>999$ (four-digit is greater than three-digit); $3
 
 ### Solution to Exercise 138
 
-By **Definition 4.4.5**, compare: both four-digit, compare from the thousands, $8>7$, so $8530>7421$. When making a number, put the larger digits in the higher places to make it larger. $\blacksquare$
+By **Definition 4.4.5**, compare: both four-digit, compare from the thousands, $8> 7$, so $8530> 7421$. When making a number, put the larger digits in the higher places to make it larger. $\blacksquare$
 
 ### Exercise 139
 
@@ -430,11 +430,11 @@ $9007=9000+7$; $1640=1000+600+40$; $6085=6000+80+5$; $2831=2000+800+30+1$. $\bla
 
 ### Exercise 143
 
-(Lesson: Organization and Review, Practice) Fill the $\square$ with a suitable digit: $52\square6<861$; $5265>\square86$; $1000>\square99$; $362>\square79$; $710>7\square$; $145<\square53$.
+(Lesson: Organization and Review, Practice) Fill the $\square$ with a suitable digit: $52\square6< 861$; $5265> \square86$; $1000> \square99$; $362> \square79$; $710> 7\square$; $145< \square53$.
 
 ### Solution to Exercise 143
 
-Compare digit by digit per **Definition 4.4.5**; for example $52\square6$ is four-digit and greater than $861$, so any digit works; for $1000>\square99$, the right side is three-digit, so $\square$ is $1\sim9$; fill suitable digits per place for the rest; the answer is not unique. $\blacksquare$
+Compare digit by digit per **Definition 4.4.5**; for example $52\square6$ is four-digit and greater than $861$, so any digit works; for $1000> \square99$, the right side is three-digit, so $\square$ is $1\sim9$; fill suitable digits per place for the rest; the answer is not unique. $\blacksquare$
 
 ### Exercise 144
 

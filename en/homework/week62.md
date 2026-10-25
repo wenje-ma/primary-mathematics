@@ -1,19 +1,19 @@
 # Assignment 62
 
 > **Definition 8.5.1** (A Triangle and Its Parts) <br>A figure enclosed by $3$ line segments (the endpoints of every two adjacent segments meeting) is called a triangle. A triangle has $3$ sides, $3$ angles and $3$ vertices. Drawing a perpendicular from a vertex of the triangle to its opposite side, the segment between the vertex and the foot of the perpendicular is called the height of the triangle, and that opposite side is called the base.
->
+> 
 > **Definition 8.5.2** (Stability of a Triangle) <br>With $3$ sticks only one shape of triangle can be enclosed, while a quadrilateral can be pulled and deformed, showing that a triangle has stability.
->
+> 
 > **Definition 8.5.3** (Distance Between Two Points) <br>Among all the segments joining two points, the line segment is the shortest, and its length is called the distance between the two points.
->
+> 
 > **Definition 8.5.4** (Relationship Among the Three Sides of a Triangle) <br>The sum of any two sides of a triangle is greater than the third side.
->
+> 
 > **Definition 8.5.5** (Classification of Triangles by Angles) <br>A triangle whose three angles are all acute is called an acute triangle; a triangle with one right angle is called a right triangle; a triangle with one obtuse angle is called an obtuse triangle.
->
+> 
 > **Definition 8.5.6** (Isosceles and Equilateral Triangles) <br>A triangle with two equal sides is called an isosceles triangle; the two equal sides are called the legs, the other side the base, the angle between the legs the vertex angle, and the two angles between the base and the legs the base angles. A triangle with three equal sides is called an equilateral triangle (regular triangle); an equilateral triangle is also isosceles.
->
+> 
 > **Definition 8.5.7** (Interior-Angle Sum of a Triangle) <br>The interior-angle sum of a triangle is $180^\circ$.
->
+> 
 > **Definition 8.5.8** (Interior-Angle Sum of a Quadrilateral) <br>Splitting a quadrilateral into $2$ triangles, its interior-angle sum is $180^\circ\times2=360^\circ$.
 
 ### Exercise 147
@@ -70,7 +70,7 @@ By **Definition 8.5.5** (Classification by Angles) and **Definition 8.5.6** (Iso
 
 ### Solution to Exercise 153
 
-By **Definition 8.5.4** (Relationship Among the Three Sides of a Triangle), it works when the sum of the two shorter sides is greater than the third side: (1) $6+7>8$, yes; (2) $3+3=6$, no; (3) $3+3>3$, yes; (4) $2+2<6$, no; (5) $3+3>5$, yes. $\blacksquare$
+By **Definition 8.5.4** (Relationship Among the Three Sides of a Triangle), it works when the sum of the two shorter sides is greater than the third side: (1) $6+7> 8$, yes; (2) $3+3=6$, no; (3) $3+3> 3$, yes; (4) $2+2< 6$, no; (5) $3+3> 5$, yes. $\blacksquare$
 
 ### Exercise 154
 
@@ -166,7 +166,7 @@ By **Definition 8.5.5** and **Definition 8.5.6**: one right angle and two equal 
 
 ### Solution to Exercise 165
 
-(1) By **Definition 8.5.7** (Interior-Angle Sum), the sum of the other two angles is $90^\circ$, e.g. $30^\circ$ and $60^\circ$, or $45^\circ$ and $45^\circ$. (2) By **Definition 8.5.4** (Relationship Among the Three Sides), $4-3<$ third side $<4+3$, i.e. $1<$ third side $<7$, so it can be $2,3,4,5,6\,\mathrm{cm}$. $\blacksquare$
+(1) By **Definition 8.5.7** (Interior-Angle Sum), the sum of the other two angles is $90^\circ$, e.g. $30^\circ$ and $60^\circ$, or $45^\circ$ and $45^\circ$. (2) By **Definition 8.5.4** (Relationship Among the Three Sides), $4-3< $ third side $< 4+3$, i.e. $1< $ third side $< 7$, so it can be $2,3,4,5,6\,\mathrm{cm}$. $\blacksquare$
 
 ### Exercise 166
 

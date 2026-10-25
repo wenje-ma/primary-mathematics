@@ -1,7 +1,7 @@
 ﻿# Assignment 92
 
 > **Definition 11.4.1** (Positive and Negative Numbers) <br>Numbers like $6$, $4.7$, $\frac{3}{5}$ are positive; numbers like $-6$, $-4.7$, $-\frac{3}{5}$ (with a leading "$-$" sign) are negative. $0$ is neither positive nor negative.
->
+> 
 > **Definition 11.4.2** (Positive/Negative Numbers for Opposite Quantities) <br>Positive and negative numbers express opposite quantities: declare one sense positive, and its opposite sense is negative. E.g. income positive, expense negative; temperature above zero positive, below zero negative; above sea level positive, below negative.
 
 ### Exercise 128

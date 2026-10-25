@@ -1,13 +1,13 @@
 # Assignment 18
 
 > **Definition 3.2.1** (The Meaning of Multiplication) <br>Finding the sum of several identical addends can be expressed by multiplication. For example, $5$ copies of $3$ added together is written as $3\times5=15$, read as "$3$ times $5$ equals $15$".
->
+> 
 > **Definition 3.2.2** (Names of the Parts of a Multiplication Expression) <br>The numbers on both sides of the multiplication sign are called factors, and the result of multiplication is called the product. For example, in $3\times5=15$, $3$ and $5$ are factors, and $15$ is the product.
->
+> 
 > **Definition 3.2.3** (Multiplication Rhymes) <br>Rhyming phrases composed for quickly calculating multiplication, such as "two times three is six" and "three times five is fifteen". One rhyme can usually be used to compute two multiplication expressions.
->
+> 
 > **Definition 3.2.4** (Multiplication-Addition and Multiplication-Subtraction) <br>Expressions of the form $3\times3+2$ and $3\times4-1$ are called multiplication-addition and multiplication-subtraction; in such expressions, compute the multiplication first, and then the addition or subtraction.
->
+> 
 > **Definition 3.2.5** (Solving Problems with Multiplication) <br>To find how much several groups of a certain number amount to, use multiplication; problems of repeatedly adding identical addends can all be solved conveniently with multiplication.
 
 ### Exercise 18
@@ -336,5 +336,5 @@ By **Definition 3.2.5** (Solving Problems with Multiplication), $1$ set has $5$ 
 
 ### Solution to Exercise 58
 
-By **Definition 3.2.5** (Solving Problems with Multiplication), $5$ kittens: $6\times5=30$ (fish); $7$ kittens: $6\times7=42$ (fish), and $42>40$, which is more than $40$. $\blacksquare$
+By **Definition 3.2.5** (Solving Problems with Multiplication), $5$ kittens: $6\times5=30$ (fish); $7$ kittens: $6\times7=42$ (fish), and $42> 40$, which is more than $40$. $\blacksquare$
 

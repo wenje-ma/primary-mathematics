@@ -1,9 +1,9 @@
 # Assignment 77
 
 > **Definition 9.9.1** (Review of Decimal Multiplication and Division) <br>Decimal multiplication is converted to integer multiplication, then the decimal point is placed by counting the total number of decimal places in the factors from the right of the product; decimal division first converts the divisor to an integer. Both multiplication and division can be converted to integer operations, using the rules for changes in products and the invariant-quotient rule.
->
+> 
 > **Definition 9.9.2** (Review of Shapes and Geometry) <br>Viewing a composite solid from the front, top, and left reconstructs the solid; in axial symmetry, corresponding points are equidistant from the axis; translation and rotation do not change a figure's shape or size; parallelogram area $S=ah$, triangle $S=ah\div2$, trapezoid $S=\left(a+b\right)h\div2$.
->
+> 
 > **Definition 9.9.3** (Review of Likelihood) <br>Events are divided into certain, impossible, and random events; random events occur with greater or lesser likelihood, which can be inferred from experimental data.
 
 ### Exercise 206
@@ -56,11 +56,11 @@ By **Definition 9.9.1**: $1.36\times0.05=0.068$; $32.5\div2.5=13$; $0.06\times1.
 
 ### Exercise 212
 
-(Lesson: Review and Connections, Exercise 21, Review, Problem 2) Fill in $\bigcirc$ with $>$, $<$, or $=$: (1) when $x=50$, $2x-16\bigcirc68$, $2x+16\bigcirc68$; (2) when $x=5$, $4x+3x\bigcirc35$, $4+3x\bigcirc35$.
+(Lesson: Review and Connections, Exercise 21, Review, Problem 2) Fill in $\bigcirc$ with $> $, $< $, or $=$: (1) when $x=50$, $2x-16\bigcirc68$, $2x+16\bigcirc68$; (2) when $x=5$, $4x+3x\bigcirc35$, $4+3x\bigcirc35$.
 
 ### Solution to Exercise 212
 
-(1) $x=50$: $2x-16=84>68$; $2x+16=116>68$. (2) $x=5$: $4x+3x=35=35$; $4+3x=19<35$. $\blacksquare$
+(1) $x=50$: $2x-16=84> 68$; $2x+16=116> 68$. (2) $x=5$: $4x+3x=35=35$; $4+3x=19< 35$. $\blacksquare$
 
 ### Exercise 213
 

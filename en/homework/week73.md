@@ -1,13 +1,13 @@
 # Assignment 73
 
 > **Definition 9.5.1** (Using Letters to Stand for Numbers) <br>In mathematics, letters or expressions containing letters are often used to concisely represent numbers or relations between quantities. For example, if Dad is $25$ years older than Xiao Hong and her age is $a$, then Dad's age is $a+25$. Letters can stand for varying numbers, and a letter expression both stands for a quantity and expresses a quantitative relation.
->
+> 
 > **Definition 9.5.2** (Writing Expressions with Letters) <br>When a number multiplies a letter, omit the multiplication sign and put the number before the letter, e.g. $m\times6=6m$; when $1$ multiplies a letter, omit the $1$; when a letter multiplies a letter, the sign may be written as "$\cdot$" or omitted; two identical letters multiplied are written $a^2$, read "a squared".
->
+> 
 > **Definition 9.5.3** (Using Letters for the Operation Laws and Formulas) <br>Commutative law of addition $a+b=b+a$; associative law of addition $\left(a+b\right)+c=a+\left(b+c\right)$; commutative law of multiplication $ab=ba$; associative law of multiplication $\left(ab\right)c=a\left(bc\right)$; distributive law $\left(a+b\right)c=ac+bc$. Square perimeter $C=4a$, area $S=a^2$; rectangle perimeter $C=2\left(a+b\right)$, area $S=ab$.
->
+> 
 > **Definition 9.5.4** (Properties of an Equation) <br>If $a=b$, then $a+c=b+c$, $a-c=b-c$, $ac=bc$, $a\div c=b\div c$ ($c\neq0$). Using these properties, the unknown in an equation can be found.
->
+> 
 > **Definition 9.5.5** (Using Letters for Relations and Substituting Values) <br>Use an expression with letters to represent the quantitative relation in a real problem, then substitute specific values for the letters to compute the result.
 
 ### Exercise 121

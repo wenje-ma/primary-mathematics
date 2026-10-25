@@ -1,9 +1,9 @@
 # Assignment 9
 
 > **Definition 2.1.1** (Plane Shapes) <br>From solid shapes one can find plane shapes such as rectangles, squares, parallelograms, triangles, and circles; their faces are flat.
->
+> 
 > **Definition 2.1.2** (Combining and Dividing Shapes) <br>Several identical plane shapes can form a new plane shape, and one plane shape can also be divided into several plane shapes. For example, $2$ identical rectangles can form a new rectangle, and $2$ identical triangles can form a parallelogram.
->
+> 
 > **Definition 2.1.3** (Tangram) <br>The tangram is a traditional Chinese puzzle toy consisting of $7$ pieces, with which one can form a great variety of patterns.
 
 ### Exercise 1

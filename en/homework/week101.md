@@ -1,13 +1,13 @@
 ﻿# Assignment 101
 
 > **Definition 12.4.1** (Understanding Cylinders) <br>A cylinder is bounded by $3$ surfaces: the upper and lower bases are circles of exactly the same size; the surrounding surface (excluding the upper and lower bases) is called the lateral surface and is a curved surface; the distance between the two bases is called the height.
->
+> 
 > **Definition 12.4.2** (Lateral Area and Surface Area of a Cylinder) <br>Unrolling the lateral surface of a cylinder along its height gives a rectangle whose length equals the circumference of the cylinder's base and whose width equals the cylinder's height. Lateral area $=$ base circumference $\times$ height $=2\pi rh$; area of one base $=\pi r^{2}$; surface area $=$ lateral area $+$ the two base areas.
->
+> 
 > **Definition 12.4.3** (Volume of a Cylinder) <br>Divide the cylinder's base into equal sectors, cut them apart, and rearrange them into an approximate cuboid whose base area equals the cylinder's base area and whose height equals the cylinder's height. Cylinder volume $=$ base area $\times$ height $=Sh=\pi r^{2}h$.
->
+> 
 > **Definition 12.4.4** (Understanding Cones) <br>A cone has a circular base and a curved lateral surface; the distance from the cone's apex to the center of the base is the cone's height.
->
+> 
 > **Definition 12.4.5** (Volume of a Cone) <br>By experiment, a cone-shaped container with the same base and height exactly fills a cylinder-shaped container in $3$ pours; that is, a cone's volume is $\frac{1}{3}$ of the volume of a cylinder with the same base and height. Cone volume $=\frac{1}{3}Sh=\frac{1}{3}\pi r^{2}h$.
 
 ### Exercise 36
@@ -124,7 +124,7 @@ By **Definition 12.4.3** (Volume of a Cylinder), the radius $=0.5\,\mathrm{m}$, 
 
 ### Solution to Exercise 49
 
-By **Definition 12.4.3** (Volume of a Cylinder), the cup's capacity $=\pi\times\left(8\div2\right)^{2}\times10=3.14\times16\times10=502.4\,\mathrm{cm}^{3}=502.4\,\mathrm{mL}$. Two bags of milk $=240\times2=480\,\mathrm{mL}$. Since $502.4>480$, it can hold them. $\blacksquare$
+By **Definition 12.4.3** (Volume of a Cylinder), the cup's capacity $=\pi\times\left(8\div2\right)^{2}\times10=3.14\times16\times10=502.4\,\mathrm{cm}^{3}=502.4\,\mathrm{mL}$. Two bags of milk $=240\times2=480\,\mathrm{mL}$. Since $502.4> 480$, it can hold them. $\blacksquare$
 
 ### Exercise 50
 
@@ -132,7 +132,7 @@ By **Definition 12.4.3** (Volume of a Cylinder), the cup's capacity $=\pi\times\
 
 ### Solution to Exercise 50
 
-By **Definition 12.4.3** (Volume of a Cylinder), the thermos's capacity $=\pi\times4^{2}\times15=3.14\times16\times15=753.6\,\mathrm{cm}^{3}=753.6\,\mathrm{mL}$. Since $1\,\mathrm{L}=1000\,\mathrm{mL}$ and $753.6<1000$, it is not enough. $\blacksquare$
+By **Definition 12.4.3** (Volume of a Cylinder), the thermos's capacity $=\pi\times4^{2}\times15=3.14\times16\times15=753.6\,\mathrm{cm}^{3}=753.6\,\mathrm{mL}$. Since $1\,\mathrm{L}=1000\,\mathrm{mL}$ and $753.6< 1000$, it is not enough. $\blacksquare$
 
 ### Exercise 51
 
@@ -228,7 +228,7 @@ By **Definition 12.4.3** (Volume of a Cylinder) and **Definition 12.4.5** (Volum
 
 ### Solution to Exercise 62
 
-By **Definition 12.4.3** (Volume of a Cylinder), the total rain volume $=$ base area $\times$ water depth $=200\times10^{6}\times0.05=10^{7}\,\mathrm{m}^{3}=1000$ ten-thousand $\mathrm{m}^{3}$. The rainwater $25\%=1000\times25\%=250$ ten-thousand $\mathrm{m}^{3}>200$ ten-thousand $\mathrm{m}^{3}$, so it can meet the greening need. $\blacksquare$
+By **Definition 12.4.3** (Volume of a Cylinder), the total rain volume $=$ base area $\times$ water depth $=200\times10^{6}\times0.05=10^{7}\,\mathrm{m}^{3}=1000$ ten-thousand $\mathrm{m}^{3}$. The rainwater $25\%=1000\times25\%=250$ ten-thousand $\mathrm{m}^{3}> 200$ ten-thousand $\mathrm{m}^{3}$, so it can meet the greening need. $\blacksquare$
 
 ### Exercise 63
 

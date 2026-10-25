@@ -1,6 +1,6 @@
 # Assignment 104
 
-> **Definition 12.7.1** (Pigeonhole Principle) <br>Put more than $n$ objects into $n$ drawers, and some drawer contains at least $2$ objects. Put more than $kn$ objects into $n$ drawers, and some drawer contains at least $k+1$ objects. Computation: divide the number of objects by the number of drawers; if the quotient is $k$ with remainder $r$ ($r>0$), then some drawer contains at least $k+1$ objects.
+> **Definition 12.7.1** (Pigeonhole Principle) <br>Put more than $n$ objects into $n$ drawers, and some drawer contains at least $2$ objects. Put more than $kn$ objects into $n$ drawers, and some drawer contains at least $k+1$ objects. Computation: divide the number of objects by the number of drawers; if the quotient is $k$ with remainder $r$ ($r> 0$), then some drawer contains at least $k+1$ objects.
 
 ### Exercise 93
 

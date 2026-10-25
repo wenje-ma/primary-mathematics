@@ -1,9 +1,9 @@
 ﻿# Assignment 7
 
 > **Definition 1.5.1** (Make-a-Ten Method) <br>When calculating carrying addition, make one addend up to $10$, then add the remaining part. For example, for $9+4$, split $4$ into $1$ and $3$; $9+1=10$, $10+3=13$.
->
+> 
 > **Definition 1.5.2** (Swapping Addends) <br>Swapping the two addends does not change the sum. For example, $8+5=13$, $5+8=13$; you may use the larger plus the smaller to calculate.
->
+> 
 > **Definition 1.5.3** (Using Addition to Solve Problems) <br>To find the total or "how many there were originally," combine two parts with addition; e.g. the $6$ taken out plus the $5$ remaining gives $6+5=11$.
 
 ### Exercise 175
@@ -48,11 +48,11 @@ By **Definition 1.5.1** (Make-a-Ten Method): $9+1=10$, $9+2=11$, $9+3=12$, $9+4=
 
 ### Exercise 180
 
-(Lesson: 9 Plus Something, Practice, Problem 4) Fill "$>$" "$<$" or "$=$" in $\bigcirc$: $9+5\bigcirc15$; $9+3\bigcirc12$; $9+10\bigcirc20$; $9+8\bigcirc16$; $9+6\bigcirc16$; $9+9\bigcirc17$.
+(Lesson: 9 Plus Something, Practice, Problem 4) Fill "$> $" "$< $" or "$=$" in $\bigcirc$: $9+5\bigcirc15$; $9+3\bigcirc12$; $9+10\bigcirc20$; $9+8\bigcirc16$; $9+6\bigcirc16$; $9+9\bigcirc17$.
 
 ### Solution to Exercise 180
 
-Calculate first, then compare: $9+5=14<15$; $9+3=12$, so $=$; $9+10=19<20$; $9+8=17>16$; $9+6=15<16$; $9+9=18>17$. $\blacksquare$
+Calculate first, then compare: $9+5=14< 15$; $9+3=12$, so $=$; $9+10=19< 20$; $9+8=17> 16$; $9+6=15< 16$; $9+9=18> 17$. $\blacksquare$
 
 ### Exercise 181
 
@@ -160,11 +160,11 @@ By **Definition 1.5.3** (Using Addition to Solve Problems): $7+6=13$ (items); $4
 
 ### Exercise 194
 
-(Lesson: 5, 4, 3, 2 Plus Something, Practice, Problem 6) Fill "$>$" "$<$" or "$=$" in $\bigcirc$: $9+4\bigcirc13$; $7+9\bigcirc15$; $4+6\bigcirc11$; $6+7\bigcirc12$; $8+5\bigcirc14$; $9+8\bigcirc16$.
+(Lesson: 5, 4, 3, 2 Plus Something, Practice, Problem 6) Fill "$> $" "$< $" or "$=$" in $\bigcirc$: $9+4\bigcirc13$; $7+9\bigcirc15$; $4+6\bigcirc11$; $6+7\bigcirc12$; $8+5\bigcirc14$; $9+8\bigcirc16$.
 
 ### Solution to Exercise 194
 
-Calculate first, then compare: $9+4=13$, so $=$; $7+9=16>15$; $4+6=10<11$; $6+7=13>12$; $8+5=13<14$; $9+8=17>16$. $\blacksquare$
+Calculate first, then compare: $9+4=13$, so $=$; $7+9=16> 15$; $4+6=10< 11$; $6+7=13> 12$; $8+5=13< 14$; $9+8=17> 16$. $\blacksquare$
 
 ### Exercise 195
 
@@ -248,11 +248,11 @@ By **Definition 1.5.3** (Using Addition to Solve Problems), count the sticks use
 
 ### Exercise 205
 
-(Lesson: Solving Problems, Practice, Problem 6) Fill "$>$" "$<$" or "$=$" in $\bigcirc$: $13\bigcirc4+8$; $3+9\bigcirc14$; $7+6\bigcirc12$; $11\bigcirc5+7$; $6+5\bigcirc12$; $3+8\bigcirc11$.
+(Lesson: Solving Problems, Practice, Problem 6) Fill "$> $" "$< $" or "$=$" in $\bigcirc$: $13\bigcirc4+8$; $3+9\bigcirc14$; $7+6\bigcirc12$; $11\bigcirc5+7$; $6+5\bigcirc12$; $3+8\bigcirc11$.
 
 ### Solution to Exercise 205
 
-Calculate first, then compare: $4+8=12$, $13>12$; $3+9=12<14$; $7+6=13>12$; $5+7=12$, $11<12$; $6+5=11<12$; $3+8=11$, so $=$. $\blacksquare$
+Calculate first, then compare: $4+8=12$, $13> 12$; $3+9=12< 14$; $7+6=13> 12$; $5+7=12$, $11< 12$; $6+5=11< 12$; $3+8=11$, so $=$. $\blacksquare$
 
 ### Exercise 206
 

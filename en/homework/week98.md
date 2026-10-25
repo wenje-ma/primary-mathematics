@@ -1,9 +1,9 @@
 ﻿# Assignment 98
 
 > **Definition 12.1.1** (Positive and Negative Numbers) <br>To denote quantities of opposite meaning, such as temperatures above and below zero, or income and expenditure, two kinds of numbers are needed. The numbers studied before (such as $6, 500, 4.7, \frac{3}{8}$) are positive numbers; numbers obtained by prefixing a "-" (minus sign) to them (such as $-6, -500, -4.7, -\frac{3}{8}$) are negative numbers. The "+" (plus sign) in front of a positive number may be omitted. $0$ is neither positive nor negative.
->
+> 
 > **Definition 12.1.2** (Reading Positive and Negative Numbers) <br>For a negative number, read "negative" first and then the number; for example, $-3$ is read "negative three", and $-\frac{3}{8}$ is read "negative three eighths". When a "+" is prefixed to a positive number it is read "positive ..."; for example, $+3$ is read "positive three". Usually the "+" is omitted and the number is read directly.
->
+> 
 > **Definition 12.1.3** (Representing Positive and Negative Numbers on the Number Line) <br>Numbers are represented by points on an arrowed line; the point $0$ on the line is the dividing point (origin). Numbers to the right of $0$ are positive, and numbers to the left of $0$ are negative. Positive and negative numbers denote quantities of opposite meaning: opposite directions correspond to opposite signs.
 
 ### Exercise 1

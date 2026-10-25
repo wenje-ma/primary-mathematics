@@ -1,7 +1,7 @@
 # Assignment 78
 
 > **Definition 10.1.1** (Directions for Observing Objects) <br>Viewing a solid built from identical small cubes from three directions — front, left, and top — yields a plane figure each; these three plane figures are called the three views of the solid. Viewing different solids from the same direction may yield the same plane figure.
->
+> 
 > **Definition 10.1.2** (Building a Solid from Views) <br>Building a solid from only one view does not give a unique arrangement; the solid's shape is determined only by the front, left, and top views. The number marked on each small square in the top view tells how many cubes stack at that position.
 
 ### Exercise 1

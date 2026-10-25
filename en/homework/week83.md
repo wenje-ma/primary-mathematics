@@ -1,7 +1,7 @@
 ﻿# Assignment 83
 
 > **Definition 10.6.1** (Line Graphs) <br>A line graph uses points at different heights to show data values, then joins the points in order into a line. It not only shows data values but also clearly reveals the rising or falling trend. A bar chart only presents the data values visually.
->
+> 
 > **Definition 10.6.2** (Double Line Graphs) <br>A graph using two or more distinct lines to represent two or more data sets is a double line graph. It makes it easy to compare the trends of two data sets; when drawing, mark a legend and distinguish the lines by color or line style.
 
 ### Exercise 117

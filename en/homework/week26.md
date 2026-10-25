@@ -1,11 +1,11 @@
 # Assignment 26
 
 > **Definition 4.2.1** (The Remainder) <br>When some items are divided evenly and some are left over, the leftover part is the remainder. For example, $9$ sticks, $4$ per square, make $2$ squares with $1$ stick left: $9\div4=2$(squares)……$1$(stick), read as "$9$ divided by $4$ equals $2$ remainder $1$", and the leftover $1$ is called the remainder.
->
+> 
 > **Definition 4.2.2** (The Remainder Must Be Smaller Than the Divisor) <br>When even division leaves a remainder, the remainder must be smaller than the divisor. For example, making triangles from sticks (divisor $3$) may leave $1$ or $2$ sticks over, but never $3$ or more.
->
+> 
 > **Definition 4.2.3** (Relations Among the Parts of Division with Remainder) <br>dividend $\div$ divisor $=$ quotient……remainder, and dividend $=$ divisor $\times$ quotient $+$ remainder. For example $13\div4=3\cdots\cdots1$, $13=4\times3+1$.
->
+> 
 > **Definition 4.2.4** (Finding the Quotient by Trial) <br>To find the quotient, think: what times the divisor gives a product close to, but less than, the dividend; that is the quotient; afterward check that the remainder is smaller than the divisor.
 
 ### Exercise 15
@@ -98,11 +98,11 @@ By **Definition 4.2.3** (Relations Among the Parts of Division with Remainder), 
 
 ### Exercise 26
 
-(Lesson: Finding the Quotient by Trial, Do It) What is the largest that can go in the $\_\_$? $\_\_\times6<57$, $\_\_\times8<26$, $\_\_\times4<31$.
+(Lesson: Finding the Quotient by Trial, Do It) What is the largest that can go in the $\_\_$? $\_\_\times6< 57$, $\_\_\times8< 26$, $\_\_\times4< 31$.
 
 ### Solution to Exercise 26
 
-By **Definition 4.2.4** (Finding the Quotient by Trial): $9\times6=54<57$, $10\times6=60>57$, so the largest is $9$; $3\times8=24<26$, $4\times8=32>26$, so the largest is $3$; $7\times4=28<31$, $8\times4=32>31$, so the largest is $7$. $\blacksquare$
+By **Definition 4.2.4** (Finding the Quotient by Trial): $9\times6=54< 57$, $10\times6=60> 57$, so the largest is $9$; $3\times8=24< 26$, $4\times8=32> 26$, so the largest is $3$; $7\times4=28< 31$, $8\times4=32> 31$, so the largest is $7$. $\blacksquare$
 
 ### Exercise 27
 
@@ -110,7 +110,7 @@ By **Definition 4.2.4** (Finding the Quotient by Trial): $9\times6=54<57$, $10\t
 
 ### Solution to Exercise 27
 
-By **Definition 4.2.4** (Finding the Quotient by Trial), $4\times6=24<26$, $26\div4=6\cdots\cdots2$; $7\times8=56<59$, $59\div7=8\cdots\cdots3$. The remainders $2,3$ are both smaller than the divisor. $\blacksquare$
+By **Definition 4.2.4** (Finding the Quotient by Trial), $4\times6=24< 26$, $26\div4=6\cdots\cdots2$; $7\times8=56< 59$, $59\div7=8\cdots\cdots3$. The remainders $2,3$ are both smaller than the divisor. $\blacksquare$
 
 ### Exercise 28
 
@@ -134,7 +134,7 @@ Find how many copies of $7$ at most are in $65$: $65\div7=9$(ropes)……$2$(met
 
 ### Solution to Exercise 30
 
-$14$ is the total number of lollipops (dividend), $4$ is the number of boxes (divisor), $3$ is the number in each box (quotient), $12$ is the $12$ sticks placed in the $4$ boxes in all (the product $4\times3$), and $2$ is the number left (remainder), with $2<4$. $\blacksquare$
+$14$ is the total number of lollipops (dividend), $4$ is the number of boxes (divisor), $3$ is the number in each box (quotient), $12$ is the $12$ sticks placed in the $4$ boxes in all (the product $4\times3$), and $2$ is the number left (remainder), with $2< 4$. $\blacksquare$
 
 ### Exercise 31
 
@@ -150,7 +150,7 @@ By **Definition 4.2.3**, $21\div5=4\cdots\cdots1$, $4\times5+1=21$; $17\div6=2\c
 
 ### Solution to Exercise 32
 
-By **Definition 4.2.4** (Finding the Quotient by Trial), $3\times8=24<26$, $3\times9=27>26$, so $26$ contains at most $8$ copies of $3$; $5\times5=25<27$, $5\times6=30>27$, so $27$ contains at most $5$ copies of $5$. $\blacksquare$
+By **Definition 4.2.4** (Finding the Quotient by Trial), $3\times8=24< 26$, $3\times9=27> 26$, so $26$ contains at most $8$ copies of $3$; $5\times5=25< 27$, $5\times6=30> 27$, so $27$ contains at most $5$ copies of $5$. $\blacksquare$
 
 ### Exercise 33
 
@@ -262,7 +262,7 @@ By **Definition 4.2.3**, dividend $=$ divisor $\times$ quotient $+$ remainder. T
 
 ### Solution to Exercise 46
 
-Organize it into a map as "equal distribution — no remainder / with remainder — table division / division with remainder — solving real problems", marking remainder $<$ divisor and dividend $=$ divisor $\times$ quotient $+$ remainder. $\blacksquare$
+Organize it into a map as "equal distribution — no remainder / with remainder — table division / division with remainder — solving real problems", marking remainder $< $ divisor and dividend $=$ divisor $\times$ quotient $+$ remainder. $\blacksquare$
 
 ### Exercise 47
 

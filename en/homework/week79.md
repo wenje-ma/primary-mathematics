@@ -1,13 +1,13 @@
 # Assignment 79
 
 > **Definition 10.2.1** (Factors and Multiples) <br>In integer division, if the quotient is an integer with no remainder (remainder $0$), the divisor is a factor (also called a divisor) of the dividend, and the dividend is a multiple of the divisor. Factors and multiples depend on each other; the numbers used when studying factors and multiples are generally natural numbers excluding $0$.
->
+> 
 > **Definition 10.2.2** (Properties of Factors and Multiples) <br>A number has finitely many factors; its smallest factor is $1$ and its largest is itself. A number has infinitely many multiples; its smallest multiple is itself and it has no largest multiple.
->
+> 
 > **Definition 10.2.3** (Even and Odd Numbers) <br>Among integers, a multiple of $2$ is called even ($0$ is also even), and a number that is not a multiple of $2$ is called odd.
->
+> 
 > **Definition 10.2.4** (Properties of Multiples of 2, 5, 3) <br>Numbers ending in $0,2,4,6,8$ are multiples of $2$; numbers ending in $0$ or $5$ are multiples of $5$; a number whose digit sum is a multiple of $3$ is a multiple of $3$.
->
+> 
 > **Definition 10.2.5** (Prime and Composite Numbers) <br>A number with only two factors, $1$ and itself, is called prime; a number with other factors besides $1$ and itself is called composite. $1$ is neither prime nor composite.
 
 ### Exercise 7

@@ -1,7 +1,7 @@
 # Assignment 56
 
 > **Definition 7.8.1** (The Eight Directions) <br>Besides the four directions east, south, west and north, there are four more: northeast, northwest, southeast and southwest. Northeast lies between east and north, southeast between east and south, northwest between west and north, and southwest between west and south. Northeast is opposite to southwest, and northwest is opposite to southeast.
->
+> 
 > **Definition 7.8.2** (Position and Direction) <br>Describing an object's position requires a direction and a reference point (landmark). When drawing a plan map, mark the direction (north up, south down, west left, east right) and the positions of the landmarks. A compass can be used to tell directions.
 
 ### Exercise 213

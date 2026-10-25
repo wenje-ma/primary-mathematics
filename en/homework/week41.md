@@ -1,9 +1,9 @@
 # Assignment 41
 
 > **Definition 6.1.1** (Axisymmetric Figures and Axes of Symmetry) <br>If a figure is folded along a straight line and the two sides of the crease coincide completely, the figure is axisymmetric, and the straight line along which it is folded is the axis of symmetry. By folding paper, we find that a rectangle has $2$ axes of symmetry and a square has $4$ axes of symmetry.
->
+> 
 > **Definition 6.1.2** (Translation) <br>If an object moves a certain distance in a certain direction without changing its shape, size or orientation, such a motion is a translation. For example, an elevator moving straight up and down, or a child sliding diagonally down a slide.
->
+> 
 > **Definition 6.1.3** (Rotation) <br>A motion that turns about a certain point (the center), like the blades of a windmill or a helicopter's propeller, is a rotation. Turning in the same direction as the hour hand on a clock face is clockwise rotation; turning in the opposite direction is counterclockwise rotation.
 
 ### Exercise 1

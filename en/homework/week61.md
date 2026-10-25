@@ -1,21 +1,21 @@
 # Assignment 61
 
 > **Definition 8.4.1** (Meaning of Decimals and Counting Units) <br>Fractions with denominator $10$, $100$, $1000\cdots$ can be expressed as decimals. The counting units of a decimal are one tenth, one hundredth, one thousandth $\cdots$, written respectively as $0.1$, $0.01$, $0.001\cdots$. The rate of conversion between two adjacent counting units is $10$.
->
+> 
 > **Definition 8.4.2** (Place-Value Order of Decimals) <br>To the left of the decimal point is the integer part (ones, tens, hundreds $\cdots$), and to the right is the decimal part (tenths, hundredths, thousandths $\cdots$); the counting unit of the tenths place is one tenth, and that of the hundredths place is one hundredth.
->
+> 
 > **Definition 8.4.3** (Reading and Writing Decimals) <br>When reading a decimal, read the integer part as an integer, read the decimal point as "point", and read out each digit of the decimal part in turn; when writing a decimal, write out each digit of the decimal part in turn.
->
+> 
 > **Definition 8.4.4** (Property of Decimals) <br>Adding "$0$" to the end of a decimal or removing "$0$" from the end does not change its size. Applying this property, one can simplify decimals or rewrite them as needed.
->
+> 
 > **Definition 8.4.5** (Comparing Decimals) <br>First compare the integer parts; the one with the larger integer part is larger. If the integer parts are equal, the one with the larger digit in the tenths place is larger; if the tenths digits are also equal, the one with the larger hundredths digit is larger $\cdots$
->
+> 
 > **Definition 8.4.6** (How Moving the Decimal Point Changes a Decimal) <br>When the decimal point moves one, two, three $\cdots$ places to the right, the original number is multiplied by $10$, $100$, $1000\cdots$, expanding to $10$, $100$, $1000$ times the original; when it moves one, two $\cdots$ places to the left, the original number is divided by $10$, $100\cdots$, shrinking to $\frac{1}{10}$, $\frac{1}{100}$ of the original.
->
+> 
 > **Definition 8.4.7** (Decimals and Unit Conversion) <br>Rewriting a number from a lower unit to a higher unit requires dividing by the conversion rate, and rewriting from a higher unit to a lower unit requires multiplying by the conversion rate; this can be done using the rule for moving the decimal point.
->
+> 
 > **Definition 8.4.8** (Approximate Values of Decimals) <br>Use the "rounding" method to keep a certain number of decimal places. Keeping the integer rounds to the ones place, keeping one decimal rounds to the tenths place, and keeping two decimals rounds to the hundredths place. When expressing an approximate value, the trailing $0$ of the decimal must not be removed.
->
+> 
 > **Definition 8.4.9** (Rewriting Larger Numbers in Units of "Ten Thousand" or "Hundred Million") <br>Put a decimal point to the right of the ten-thousand (or hundred-million) place, add the word "ten thousand" (or "hundred million") after the number, and then take an approximate value as needed.
 
 ### Exercise 79
@@ -152,7 +152,7 @@ By **Definition 8.4.4** (Property of Decimals), append $0$ at the end: $0.2=0.20
 
 ### Solution to Exercise 95
 
-By **Definition 8.4.5** (Comparing Decimals): $3$ yuan $>2.6$ yuan; $6.35\,\mathrm{m}<6.53\,\mathrm{m}$; $4.79>4.723$; $0.458<0.54$. $\blacksquare$
+By **Definition 8.4.5** (Comparing Decimals): $3$ yuan $> 2.6$ yuan; $6.35\,\mathrm{m}< 6.53\,\mathrm{m}$; $4.79> 4.723$; $0.458< 0.54$. $\blacksquare$
 
 ### Exercise 96
 
@@ -196,11 +196,11 @@ $6$ jiao $=0.60$ yuan; $15$ yuan $5$ jiao $=15.50$ yuan; $8$ yuan $=8.00$ yuan; 
 
 ### Exercise 101
 
-(Lesson: Property and Comparison of Decimals, Practice 10, Problem 6) Fill in the $\bigcirc$ with "$>$", "$<$" or "$=$": $7.9\bigcirc8.2$; $0.51\bigcirc0.509$; $1.374\bigcirc1.3$; $5.7\bigcirc5.8$; $0.6\bigcirc0.60$; $1.23\bigcirc1.32$.
+(Lesson: Property and Comparison of Decimals, Practice 10, Problem 6) Fill in the $\bigcirc$ with "$> $", "$< $" or "$=$": $7.9\bigcirc8.2$; $0.51\bigcirc0.509$; $1.374\bigcirc1.3$; $5.7\bigcirc5.8$; $0.6\bigcirc0.60$; $1.23\bigcirc1.32$.
 
 ### Solution to Exercise 101
 
-By **Definition 8.4.5** (Comparing Decimals) and **Definition 8.4.4** (Property of Decimals): $7.9<8.2$; $0.51>0.509$; $1.374>1.3$; $5.7<5.8$; $0.6=0.60$; $1.23<1.32$. $\blacksquare$
+By **Definition 8.4.5** (Comparing Decimals) and **Definition 8.4.4** (Property of Decimals): $7.9< 8.2$; $0.51> 0.509$; $1.374> 1.3$; $5.7< 5.8$; $0.6=0.60$; $1.23< 1.32$. $\blacksquare$
 
 ### Exercise 102
 
@@ -216,7 +216,7 @@ By **Definition 8.4.5** (Comparing Decimals): for product 1, store B at $28.89$ 
 
 ### Solution to Exercise 103
 
-By **Definition 8.4.5** (Comparing Decimals), numbers to the right on the line are larger: $0.09<0.12$; $0.28<0.3$; $0.4>0.04$. $\blacksquare$
+By **Definition 8.4.5** (Comparing Decimals), numbers to the right on the line are larger: $0.09< 0.12$; $0.28< 0.3$; $0.4> 0.04$. $\blacksquare$
 
 ### Exercise 104
 
@@ -224,7 +224,7 @@ By **Definition 8.4.5** (Comparing Decimals), numbers to the right on the line a
 
 ### Solution to Exercise 104
 
-By **Definition 8.4.5** (Comparing Decimals), from heaviest to lightest: $43.9>43.6>38.5>37.8$, i.e. Xiao Gang, Xiao Fang, Xiao Jun, Xiao Li. $\blacksquare$
+By **Definition 8.4.5** (Comparing Decimals), from heaviest to lightest: $43.9> 43.6> 38.5> 37.8$, i.e. Xiao Gang, Xiao Fang, Xiao Jun, Xiao Li. $\blacksquare$
 
 ### Exercise 105
 
@@ -324,11 +324,11 @@ By **Definition 8.4.7** (Decimals and Unit Conversion): $1980\,\mathrm{kg}=1.98\
 
 ### Exercise 117
 
-(Lesson: Decimals and Unit Conversion, Practice 12, Problem 3) Fill in the $\bigcirc$ with "$>$", "$<$" or "$=$": $284\,\mathrm{g}\bigcirc0.284\,\mathrm{kg}$; $362\,\mathrm{cm}\bigcirc3.61\,\mathrm{m}$; $1480\,\mathrm{m}\bigcirc1.5\,\mathrm{km}$; $532\,\mathrm{cm}\bigcirc5.3\,\mathrm{m}$.
+(Lesson: Decimals and Unit Conversion, Practice 12, Problem 3) Fill in the $\bigcirc$ with "$> $", "$< $" or "$=$": $284\,\mathrm{g}\bigcirc0.284\,\mathrm{kg}$; $362\,\mathrm{cm}\bigcirc3.61\,\mathrm{m}$; $1480\,\mathrm{m}\bigcirc1.5\,\mathrm{km}$; $532\,\mathrm{cm}\bigcirc5.3\,\mathrm{m}$.
 
 ### Solution to Exercise 117
 
-Compare after unifying units: $284\,\mathrm{g}=0.284\,\mathrm{kg}$, so $=$; $362\,\mathrm{cm}=3.62\,\mathrm{m}>3.61\,\mathrm{m}$; $1480\,\mathrm{m}=1.48\,\mathrm{m}<1.5\,\mathrm{km}$; $532\,\mathrm{cm}=5.32\,\mathrm{m}>5.3\,\mathrm{m}$. $\blacksquare$
+Compare after unifying units: $284\,\mathrm{g}=0.284\,\mathrm{kg}$, so $=$; $362\,\mathrm{cm}=3.62\,\mathrm{m}> 3.61\,\mathrm{m}$; $1480\,\mathrm{m}=1.48\,\mathrm{m}< 1.5\,\mathrm{km}$; $532\,\mathrm{cm}=5.32\,\mathrm{m}> 5.3\,\mathrm{m}$. $\blacksquare$
 
 ### Exercise 118
 
@@ -392,7 +392,7 @@ By **Definition 8.4.8** (Approximate Values of Decimals): $9.956\approx10,\ 10.0
 
 ### Solution to Exercise 125
 
-$5<5.28<6$, approximates $5$; $12<12.71<13$, approximates $13$; $4<4.86<5$, approximates $5$; $7<7.05<8$, approximates $7$. $\blacksquare$
+$5< 5.28< 6$, approximates $5$; $12< 12.71< 13$, approximates $13$; $4< 4.86< 5$, approximates $5$; $7< 7.05< 8$, approximates $7$. $\blacksquare$
 
 ### Exercise 126
 
@@ -448,7 +448,7 @@ By **Definition 8.4.7** (Unit Conversion): $25.52\,\mathrm{m}=25\,\mathrm{m}\,52
 
 ### Solution to Exercise 132
 
-Running the same distance, the shorter the time the faster: $8.50<8.92<9.23<10.01$, so the ranking is $8.50$s first, $8.92$s second, $9.23$s third, $10.01$s fourth. $\blacksquare$
+Running the same distance, the shorter the time the faster: $8.50< 8.92< 9.23< 10.01$, so the ranking is $8.50$s first, $8.92$s second, $9.23$s third, $10.01$s fourth. $\blacksquare$
 
 ### Exercise 133
 
@@ -472,7 +472,7 @@ By **Definition 8.4.1** (Meaning of Decimals): $0.3$ is $3$ pieces of $0.1$; $0.
 
 ### Solution to Exercise 135
 
-By **Definition 8.4.5** (Comparing Decimals): $8.7>7.9$; $4.300=4.3$; $2.613<2.614$; $0.41>0.409$; $570\,\mathrm{cm}=5.70\,\mathrm{m}$; $70\,\mathrm{g}=0.07\,\mathrm{kg}<0.7\,\mathrm{kg}$. $\blacksquare$
+By **Definition 8.4.5** (Comparing Decimals): $8.7> 7.9$; $4.300=4.3$; $2.613< 2.614$; $0.41> 0.409$; $570\,\mathrm{cm}=5.70\,\mathrm{m}$; $70\,\mathrm{g}=0.07\,\mathrm{kg}< 0.7\,\mathrm{kg}$. $\blacksquare$
 
 ### Exercise 136
 
@@ -540,11 +540,11 @@ By **Definition 8.4.8** (Approximate Values) and **Definition 8.4.9** (Rewriting
 
 ### Exercise 144
 
-(Lesson: Review and Consolidation, Practice 14, Problem 7) Fill in the $\square$ with suitable digits: $0.\square4\,\mathrm{m}>14\,\mathrm{cm}$; $\square\,\mathrm{g}<0.018\,\mathrm{kg}$; $694\,\mathrm{cm}>6.\square8\,\mathrm{m}$; $12.\square3\,\mathrm{km^2}>1252$ hectares.
+(Lesson: Review and Consolidation, Practice 14, Problem 7) Fill in the $\square$ with suitable digits: $0.\square4\,\mathrm{m}> 14\,\mathrm{cm}$; $\square\,\mathrm{g}< 0.018\,\mathrm{kg}$; $694\,\mathrm{cm}> 6.\square8\,\mathrm{m}$; $12.\square3\,\mathrm{km^2}> 1252$ hectares.
 
 ### Solution to Exercise 144
 
-Unify units: $14\,\mathrm{cm}=0.14\,\mathrm{m}$, so $0.\square4>0.14$, $\square$ can be $2\sim9$; $0.018\,\mathrm{kg}=18\,\mathrm{g}$, so $\square<18$, can be $1\sim17$; $694\,\mathrm{cm}=6.94\,\mathrm{m}$, $6.94>6.\square8$, $\square$ can be $0\sim8$; $1252$ hectares $=12.52\,\mathrm{km^2}$, $12.\square3>12.52$, $\square$ can be $5\sim9$. $\blacksquare$
+Unify units: $14\,\mathrm{cm}=0.14\,\mathrm{m}$, so $0.\square4> 0.14$, $\square$ can be $2\sim9$; $0.018\,\mathrm{kg}=18\,\mathrm{g}$, so $\square< 18$, can be $1\sim17$; $694\,\mathrm{cm}=6.94\,\mathrm{m}$, $6.94> 6.\square8$, $\square$ can be $0\sim8$; $1252$ hectares $=12.52\,\mathrm{km^2}$, $12.\square3> 12.52$, $\square$ can be $5\sim9$. $\blacksquare$
 
 ### Exercise 145
 

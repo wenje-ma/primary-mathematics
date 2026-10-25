@@ -1,13 +1,13 @@
 ﻿# Assignment 4
 
 > **Definition 1.2.5** (Understanding 10) <br>$9$ plus $1$ is $10$; $10$ ones make $1$ ten; $0\sim10$ are arranged in order, with the later number larger than the earlier.
->
+> 
 > **Definition 1.2.6** (Addition and Subtraction of 10) <br>Based on the composition of $10$, calculate $10$ plus a number, a number plus $10$, and $10$ minus a number; e.g. $1+9=10$, $9+1=10$, $10-1=9$, $10-9=1$.
->
+> 
 > **Definition 1.2.7** (Continuous Addition) <br>Adding three numbers consecutively: from left to right, first add the first two, then add the third; e.g. $5+2+1=8$.
->
+> 
 > **Definition 1.2.8** (Continuous Subtraction) <br>Subtracting two numbers consecutively from a number: from left to right, subtract one at a time; e.g. $8-2-2=4$.
->
+> 
 > **Definition 1.2.9** (Mixed Addition and Subtraction) <br>An expression containing both addition and subtraction, calculated from left to right; e.g. $4+3-2=5$.
 
 ### Exercise 83
@@ -324,11 +324,11 @@ By **Definition 1.2.4** (Four Sentences from One Picture), e.g. "how many in the
 
 ### Exercise 122
 
-(Lesson: Review and Organization, Practice, Problem 6) Fill "$>$" "$<$" or "$=$" in $\bigcirc$: $3+6\bigcirc9$; $2+4\bigcirc7$; $7+3\bigcirc9$; $10-4\bigcirc8$; $9-3\bigcirc5$; $9+0\bigcirc9$.
+(Lesson: Review and Organization, Practice, Problem 6) Fill "$> $" "$< $" or "$=$" in $\bigcirc$: $3+6\bigcirc9$; $2+4\bigcirc7$; $7+3\bigcirc9$; $10-4\bigcirc8$; $9-3\bigcirc5$; $9+0\bigcirc9$.
 
 ### Solution to Exercise 122
 
-Calculate both sides first, then compare: $3+6=9$, so $=$; $2+4=6<7$, so $<$; $7+3=10>9$, so $>$; $10-4=6<8$, so $<$; $9-3=6>5$, so $>$; $9+0=9$, so $=$. $\blacksquare$
+Calculate both sides first, then compare: $3+6=9$, so $=$; $2+4=6< 7$, so $< $; $7+3=10> 9$, so $> $; $10-4=6< 8$, so $< $; $9-3=6> 5$, so $> $; $9+0=9$, so $=$. $\blacksquare$
 
 ### Exercise 123
 
@@ -340,8 +340,8 @@ Choose three numbers with an addition/subtraction relationship from these; e.g. 
 
 ### Exercise 124
 
-(Lesson: Review and Organization, Practice, Problem 8) What is the smallest number that can go in $\square$? $2<\square$; $5<\square$; $\square>6$; $\square>8$.
+(Lesson: Review and Organization, Practice, Problem 8) What is the smallest number that can go in $\square$? $2< \square$; $5< \square$; $\square> 6$; $\square> 8$.
 
 ### Solution to Exercise 124
 
-$2<\square$, smallest is $3$; $5<\square$, smallest is $6$; $\square>6$, smallest is $7$; $\square>8$, smallest is $9$. $\blacksquare$
+$2< \square$, smallest is $3$; $5< \square$, smallest is $6$; $\square> 6$, smallest is $7$; $\square> 8$, smallest is $9$. $\blacksquare$

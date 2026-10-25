@@ -1,9 +1,9 @@
 # Assignment 85
 
 > **Definition 10.8.1** (Adding/Subtracting Fractions with Like Denominators) <br>To add or subtract fractions with like denominators, keep the denominator and only add or subtract the numerators. Reduce the result to lowest terms.
->
+> 
 > **Definition 10.8.2** (Adding/Subtracting Fractions with Unlike Denominators) <br>To add or subtract fractions with unlike denominators, first find a common denominator, convert them to like denominators, then add or subtract as with like denominators.
->
+> 
 > **Definition 10.8.3** (Mixed Addition and Subtraction of Fractions) <br>Mixed fraction addition/subtraction follows the same order as integers: left to right when there are no parentheses, and inside parentheses first when there are. The commutative and associative laws of integer addition also hold for fraction addition.
 
 ### Exercise 129

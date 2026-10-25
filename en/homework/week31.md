@@ -1,9 +1,9 @@
 # Assignment 31
 
 > **Definition 4.7.1** (Review of Numbers and Operations) <br>On the basis of ones, tens, and hundreds we also learned thousands and ten-thousands; neighboring counting units differ by $10$ times. The ways to compose, read/write, order, compare, and approximate numbers within ten thousand are the same as for numbers within a hundred.
->
+> 
 > **Definition 4.7.2** (Review of Division and Multiply/Divide Relations) <br>For equal sharing with no remainder use table division; with a remainder use division with remainder, and the remainder must be smaller than the divisor; to find how many times one number is another use division, to find several times a number use multiplication, and the key is to tell what is taken as $1$ share.
->
+> 
 > **Definition 4.7.3** (Review of Add/Subtract Relations) <br>Addition and subtraction are inverses: sum $=$ addend $+$ addend, minuend $=$ subtrahend $+$ difference; these relations can be used to check and to find unknowns.
 
 ### Exercise 202

@@ -1,17 +1,17 @@
 # Assignment 74
 
 > **Definition 9.6.1** (Area of a Parallelogram) <br>From a point on one side of a parallelogram, drop a perpendicular to the opposite side; the segment from the point to the foot is the height of the parallelogram, and the side on which the foot lies is the base. Cut along the height and translate the triangle to form a rectangle whose length equals the parallelogram's base and width its height. Hence $S=ah$.
->
+> 
 > **Definition 9.6.2** (Hectare and Square Kilometer) <br>A square of side $100$ m has area $1$ hectare, $1$ hectare $=10000$ m$^2$. A square of side $1$ km has area $1$ km$^2$, $1$ km$^2=1000000$ m$^2=100$ hectares.
->
+> 
 > **Definition 9.6.3** (Area of a Triangle) <br>Two identical triangles can form a parallelogram whose base equals the triangle's base and height equals the triangle's height. The triangle's area is half the parallelogram's: $S=ah\div2$.
->
+> 
 > **Definition 9.6.4** (Area of a Trapezoid) <br>Two identical trapezoids can form a parallelogram whose base equals the trapezoid's upper base plus lower base and height equals the trapezoid's height. Trapezoid area: $S=\left(a+b\right)h\div2$.
->
+> 
 > **Definition 9.6.5** (Area of a Composite Figure) <br>A figure built from several simple figures is a composite figure. To compute its area, split it into basic figures, compute each area and add, or use the add-and-subtract method to remove the extra part.
->
+> 
 > **Definition 9.6.6** (Estimating the Area of an Irregular Figure) <br>The area of an irregular figure can be estimated by counting squares: full squares give a lower bound, full plus partial squares an upper bound, and partial squares count as half; or approximate the irregular figure by a known regular figure.
->
+> 
 > **Definition 9.6.7** (Area of a Lattice Polygon) <br>A polygon whose vertices are lattice points is a lattice polygon. Let $a$ be interior lattice points and $b$ boundary lattice points; then its area is $S=a+b\div2-1$ (Pick's theorem).
 
 ### Exercise 153

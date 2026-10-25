@@ -1,7 +1,7 @@
 # Assignment 89
 
 > **Definition 11.1.1** (Ordered Pairs) <br>Two numbers give a point's position in the plane; the first is the column, the second is the row, written $\left(a,b\right)$. Points in the same column share the first number; points in the same row share the second.
->
+> 
 > **Definition 11.1.2** (Determining Position by Direction and Distance) <br>To fix an object's exact position in the plane, first choose a reference point, then know the object's direction and distance from it. Direction is usually described by an angle no more than $45^{\circ}$, e.g. "north by west $40^{\circ}$"; on a map, segment length represents actual distance at the given scale.
 
 ### Exercise 1

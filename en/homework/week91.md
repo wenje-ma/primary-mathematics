@@ -1,9 +1,9 @@
 # Assignment 91
 
 > **Definition 11.3.1** (Reciprocals) <br>Two numbers whose product is $1$ are reciprocals of each other. To get a fraction's reciprocal, swap numerator and denominator. The reciprocal of $1$ is $1$; $0$ has no reciprocal.
->
+> 
 > **Definition 11.3.2** (Rule for Fraction Division) <br>Dividing by a number (except $0$) equals multiplying by its reciprocal: $\frac{b}{a}\div\frac{d}{c}=\frac{b}{a}\times\frac{c}{d}$ ($a,c,d\neq0$). An integer is a fraction over $1$.
->
+> 
 > **Definition 11.3.3** (Work Problems) <br>Take the total work as unit "$1$", and express work rate as the fraction of the total done per day; two crews working together take $=1\div$ (sum of rates).
 
 ### Exercise 91
@@ -204,7 +204,7 @@ By **Definition 11.3.3** (Work Problems): $1\div\left(\frac{1}{2}+\frac{1}{3}\ri
 
 ### Solution to Exercise 115
 
-By **Definition 11.3.3** (Work Problems): together $1\div\left(\frac{1}{12}+\frac{1}{10}\right)=1\div\frac{11}{60}=\frac{60}{11}\approx5.45$ days $<6$, so yes. $\blacksquare$
+By **Definition 11.3.3** (Work Problems): together $1\div\left(\frac{1}{12}+\frac{1}{10}\right)=1\div\frac{11}{60}=\frac{60}{11}\approx5.45$ days $< 6$, so yes. $\blacksquare$
 
 ### Exercise 116
 
@@ -288,11 +288,11 @@ By **Definition 11.3.3** (Work Problems): $1\div\left(\frac{1}{6}+\frac{1}{4}\ri
 
 ### Exercise 126
 
-(Lesson: Summary and Review, Exercise 9 Extension Problem 8) Observe $\frac{3}{4}\times\frac{b}{a}$ and $\frac{3}{4}\div\frac{b}{a}$ ($a,b\neq0$). (1) If $\frac{3}{4}\times\frac{b}{a}>\frac{3}{4}\div\frac{b}{a}$, then $a\bigcirc b$; (2) if $\frac{3}{4}\times\frac{b}{a}=\frac{3}{4}\div\frac{b}{a}$, then $a\bigcirc b$; (3) if $\frac{3}{4}\times\frac{b}{a}<\frac{3}{4}\div\frac{b}{a}$, then $a\bigcirc b$. Also: if $\frac{3}{4}\times c=\frac{3}{4}\div d$, what is the relation of $c$ and $d$?
+(Lesson: Summary and Review, Exercise 9 Extension Problem 8) Observe $\frac{3}{4}\times\frac{b}{a}$ and $\frac{3}{4}\div\frac{b}{a}$ ($a,b\neq0$). (1) If $\frac{3}{4}\times\frac{b}{a}> \frac{3}{4}\div\frac{b}{a}$, then $a\bigcirc b$; (2) if $\frac{3}{4}\times\frac{b}{a}=\frac{3}{4}\div\frac{b}{a}$, then $a\bigcirc b$; (3) if $\frac{3}{4}\times\frac{b}{a}< \frac{3}{4}\div\frac{b}{a}$, then $a\bigcirc b$. Also: if $\frac{3}{4}\times c=\frac{3}{4}\div d$, what is the relation of $c$ and $d$?
 
 ### Solution to Exercise 126
 
-$\frac{3}{4}\div\frac{b}{a}=\frac{3}{4}\times\frac{a}{b}$. Compare $\frac{b}{a}$ with $\frac{a}{b}$: (1) $\frac{b}{a}>\frac{a}{b}$, i.e. $b^2>a^2$, $b>a$, fill $<$; (2) $\frac{b}{a}=\frac{a}{b}$, $a=b$; (3) $\frac{b}{a}<\frac{a}{b}$, $b<a$, fill $>$. If $\frac{3}{4}\times c=\frac{3}{4}\div d=\frac{3}{4}\times\frac{1}{d}$, then $c=\frac{1}{d}$, i.e. $c,d$ are reciprocals. $\blacksquare$
+$\frac{3}{4}\div\frac{b}{a}=\frac{3}{4}\times\frac{a}{b}$. Compare $\frac{b}{a}$ with $\frac{a}{b}$: (1) $\frac{b}{a}> \frac{a}{b}$, i.e. $b^2> a^2$, $b> a$, fill $< $; (2) $\frac{b}{a}=\frac{a}{b}$, $a=b$; (3) $\frac{b}{a}< \frac{a}{b}$, $b< a$, fill $> $. If $\frac{3}{4}\times c=\frac{3}{4}\div d=\frac{3}{4}\times\frac{1}{d}$, then $c=\frac{1}{d}$, i.e. $c,d$ are reciprocals. $\blacksquare$
 
 ### Exercise 127
 

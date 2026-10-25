@@ -1,15 +1,15 @@
 # Assignment 42
 
 > **Definition 6.2.1** (Mental Division) <br>To divide a whole-ten or whole-hundred number by a one-digit number, regard the dividend as so many tens or hundreds and then divide; to divide a two-digit number by a one-digit number, split it into a ten and a one-digit number, divide each separately and add. For example, $60\div3=20$, $69\div3=23$, $600\div3=200$.
->
+> 
 > **Definition 6.2.2** (Estimating Division) <br>Regard the dividend as a nearby whole-ten or whole-hundred number and then divide, estimating only an approximate result without computing the exact value. For example, $283\div3$ lies between $90$ and $100$.
->
+> 
 > **Definition 6.2.3** (Rules of Written Division) <br>Start dividing from the highest place of the dividend: first try to divide the highest digit by the divisor; if it is smaller than the divisor, try the first two digits. The quotient digit is written above the place being divided. When a quotient of $1$ cannot be made, write a $0$ as a placeholder; after each quotient digit is found, the remainder must be smaller than the divisor.
->
+> 
 > **Definition 6.2.4** (Checking Division) <br>When there is no remainder, quotient $\times$ divisor $=$ dividend; when there is a remainder, quotient $\times$ divisor $+$ remainder $=$ dividend.
->
+> 
 > **Definition 6.2.5** (Division by 0) <br>$0$ divided by any number that is not $0$ gives $0$; $0$ cannot be the divisor.
->
+> 
 > **Definition 6.2.6** (Solving Two-Step Problems with Multiplication and Division) <br>Analyze the quantitative relations: you may start from the conditions and think about what can be found, or start from the question and think about what to find first, then write step-by-step or a combined expression. In unit-rate problems, first find the single quantity; in total-amount problems, first find the total.
 
 ### Exercise 15
@@ -382,11 +382,11 @@ Xiaoming per week: $609\div3=203$ (characters); Xiaoliang per week: $964\div4=24
 
 ### Exercise 61
 
-(Lesson: Practice 4, Problem 7) Fill in "$>$", "$<$" or "$=$": $504\div6\bigcirc504\div7$; $304\div8\bigcirc342\div9$; $708\div6\bigcirc891\div9$; $736\div8\bigcirc816\div8$; $405\div5\bigcirc315\div5$; $204\div4\bigcirc204\div3$.
+(Lesson: Practice 4, Problem 7) Fill in "$> $", "$< $" or "$=$": $504\div6\bigcirc504\div7$; $304\div8\bigcirc342\div9$; $708\div6\bigcirc891\div9$; $736\div8\bigcirc816\div8$; $405\div5\bigcirc315\div5$; $204\div4\bigcirc204\div3$.
 
 ### Solution to Exercise 61
 
-Compute first, then compare: $504\div6=84$, $504\div7=72$, hence $>$; $304\div8=38$, $342\div9=38$, hence $=$; $708\div6=118$, $891\div9=99$, hence $>$; $736\div8=92$, $816\div8=102$, hence $<$; $405\div5=81$, $315\div5=63$, hence $>$; $204\div4=51$, $204\div3=68$, hence $<$. $\blacksquare$
+Compute first, then compare: $504\div6=84$, $504\div7=72$, hence $> $; $304\div8=38$, $342\div9=38$, hence $=$; $708\div6=118$, $891\div9=99$, hence $> $; $736\div8=92$, $816\div8=102$, hence $< $; $405\div5=81$, $315\div5=63$, hence $> $; $204\div4=51$, $204\div3=68$, hence $< $. $\blacksquare$
 
 ### Exercise 62
 
@@ -514,7 +514,7 @@ By **Definition 6.2.6**, divide the total shown in the diagram equally by the nu
 
 ### Solution to Exercise 77
 
-(1) $72\div2\div4=9$ (specimens). (2) In $7$ days he can collect $9\times4\times7=252$ (specimens), $252>224$, so he can finish. $\blacksquare$
+(1) $72\div2\div4=9$ (specimens). (2) In $7$ days he can collect $9\times4\times7=252$ (specimens), $252> 224$, so he can finish. $\blacksquare$
 
 ### Exercise 78
 
@@ -666,7 +666,7 @@ The second per day: $608\div8=76$ (insects), $645-76=569$ (insects). $\blacksqua
 
 ### Solution to Exercise 96
 
-(1) $4\times2\times15=120$ (apples). (2) There are $3\times36=108$ (people), $120>108$, so it is enough. (3) For example, how much are these apples in total, $120\div4\times6=180$ yuan; answers may vary. $\blacksquare$
+(1) $4\times2\times15=120$ (apples). (2) There are $3\times36=108$ (people), $120> 108$, so it is enough. (3) For example, how much are these apples in total, $120\div4\times6=180$ yuan; answers may vary. $\blacksquare$
 
 ### Exercise 97
 

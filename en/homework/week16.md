@@ -1,9 +1,9 @@
 # Assignment 16
 
 > **Definition 2.8.1** (Numbers within 100) <br>$2$ tens and $5$ ones combined make $25$; $9$ tens and $9$ ones combined make $99$, and adding $1$ more gives $100$, that is, $1$ hundred.
->
+> 
 > **Definition 2.8.2** (Addition and Subtraction within 100) <br>When calculating, add and subtract ones with ones, and add and subtract tens with tens; when the ones place adds up to ten, carry $1$, and when there is not enough to subtract, borrow $1$.
->
+> 
 > **Definition 2.8.3** (Quantity Relations) <br>Addition and subtraction can be used to solve problems of "how many in total", "how many are left", and "how many more or fewer".
 
 ### Exercise 141
@@ -68,7 +68,7 @@ By **Definition 2.8.1** (Numbers within 100): (1) $54$ contains $5$ tens and $4$
 
 ### Solution to Exercise 148
 
-Written as $5$, $57$, $15$, $75$, $50$. By **Definition 2.3.3** (Comparing the Sizes of Two-Digit Numbers), $5<15<50<57<75$. $\blacksquare$
+Written as $5$, $57$, $15$, $75$, $50$. By **Definition 2.3.3** (Comparing the Sizes of Two-Digit Numbers), $5< 15< 50< 57< 75$. $\blacksquare$
 
 ### Exercise 149
 
@@ -80,11 +80,11 @@ By **Definition 2.8.2** (Addition and Subtraction within 100): $48+2=50$, $63-6=
 
 ### Exercise 150
 
-(Lesson: Review and Connection, Practice, Problem 5) Fill in $\bigcirc$ with "$>$", "$<$" or "$=$": $39-4\bigcirc35$, $35+20\bigcirc32$, $86\bigcirc76+6$, $66-30\bigcirc63$, $56-40\bigcirc69$, $87\bigcirc81+7$.
+(Lesson: Review and Connection, Practice, Problem 5) Fill in $\bigcirc$ with "$> $", "$< $" or "$=$": $39-4\bigcirc35$, $35+20\bigcirc32$, $86\bigcirc76+6$, $66-30\bigcirc63$, $56-40\bigcirc69$, $87\bigcirc81+7$.
 
 ### Solution to Exercise 150
 
-$39-4=35$, $35+20=55$, $76+6=82$, $66-30=36$, $56-40=16$, $81+7=88$. Therefore $39-4=35$, $35+20>32$, $86>76+6$, $66-30<63$, $56-40<69$, $87<81+7$. $\blacksquare$
+$39-4=35$, $35+20=55$, $76+6=82$, $66-30=36$, $56-40=16$, $81+7=88$. Therefore $39-4=35$, $35+20> 32$, $86> 76+6$, $66-30< 63$, $56-40< 69$, $87< 81+7$. $\blacksquare$
 
 ### Exercise 151
 

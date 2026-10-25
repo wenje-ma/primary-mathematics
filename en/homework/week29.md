@@ -1,11 +1,11 @@
 # Assignment 29
 
 > **Definition 4.5.1** (Written Addition within Ten Thousand) <br>In vertical addition, align the same places and add from the ones place; whenever a place adds up to ten, carry $1$ to the next place. Aligning the same places lets the counts of the same counting unit be added.
->
+> 
 > **Definition 4.5.2** (Written Subtraction within Ten Thousand) <br>In vertical subtraction, align the same places and subtract from the ones place; whenever a place is not enough to subtract, borrow $1$ from the previous place and add $10$ to this place before subtracting.
->
+> 
 > **Definition 4.5.3** (Relations Among the Parts of Addition) <br>The operation of combining two numbers into one is called addition. sum $=$ addend $+$ addend, addend $=$ sum $-$ the other addend.
->
+> 
 > **Definition 4.5.4** (Relations Among the Parts of Subtraction) <br>Knowing the sum of two addends and one of them, the operation of finding the other addend is subtraction; subtraction is the inverse of addition. difference $=$ minuend $-$ subtrahend, subtrahend $=$ minuend $-$ difference, minuend $=$ subtrahend $+$ difference.
 
 ### Exercise 145
@@ -294,7 +294,7 @@ Check by difference $+$ subtrahend $=$ minuend: $254+178=432$, equal to the minu
 
 ### Solution to Exercise 180
 
-Estimate: $298\approx300$, $187\approx200$, $300+200=500$; actually $298<300$, $187<200$, so the actual sum is less than $500$, and they can sit. $\blacksquare$
+Estimate: $298\approx300$, $187\approx200$, $300+200=500$; actually $298< 300$, $187< 200$, so the actual sum is less than $500$, and they can sit. $\blacksquare$
 
 ### Exercise 181
 
@@ -326,7 +326,7 @@ By **Definition 4.5.3** and **Definition 4.5.4**: $\square=37-18=19$; $\square=1
 
 ### Solution to Exercise 184
 
-The rest is $237-143=94$ pages, and $94<100$, so "the rest is less than $100$ pages" is correct. $\blacksquare$
+The rest is $237-143=94$ pages, and $94< 100$, so "the rest is less than $100$ pages" is correct. $\blacksquare$
 
 ### Exercise 185
 
@@ -350,7 +350,7 @@ $420+384=804$ picks ①morning $420$, ②afternoon $384$, question C how many in
 
 ### Solution to Exercise 187
 
-(1) $219+402=621$ popsicles, and $621>600$, so Xiaojun is wrong. (2) For example the afternoon sold $402-219=183$ more than the morning. The answer is not unique. $\blacksquare$
+(1) $219+402=621$ popsicles, and $621> 600$, so Xiaojun is wrong. (2) For example the afternoon sold $402-219=183$ more than the morning. The answer is not unique. $\blacksquare$
 
 ### Exercise 188
 
@@ -414,7 +414,7 @@ List several feasible routes, add up each segment, compare, and the smallest tot
 
 ### Solution to Exercise 195
 
-In all $279+405=684$ orders, and $684>600$, so not enough; short by $684-600=84$ boxes. $\blacksquare$
+In all $279+405=684$ orders, and $684> 600$, so not enough; short by $684-600=84$ boxes. $\blacksquare$
 
 ### Exercise 196
 

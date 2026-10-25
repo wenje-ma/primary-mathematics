@@ -1,11 +1,11 @@
 # Assignment 90
 
 > **Definition 11.2.1** (Fraction Times an Integer) <br>To multiply a fraction by an integer, multiply the numerator by the integer and keep the denominator. Reduce first when possible. E.g. $\frac{3}{8}\times2=\frac{3\times2}{8}=\frac{3}{4}$.
->
+> 
 > **Definition 11.2.2** (A Number Times a Fraction) <br>To multiply by a fraction, multiply numerators for the new numerator and denominators for the new denominator: $\frac{b}{a}\times\frac{d}{c}=\frac{bd}{ac}$ ($a,c\neq0$). An integer is a fraction over $1$. To find a fraction of a number, multiply.
->
+> 
 > **Definition 11.2.3** (Mixed Operations and Laws for Fractions) <br>The order of mixed fraction operations is the same as for integers; the commutative, associative, and distributive laws of integer multiplication also hold, and applying them sometimes simplifies the work.
->
+> 
 > **Definition 11.2.4** (Successive Fraction-of-a-Number) <br>To repeatedly take a fraction of a number, multiply in sequence; or first multiply the two fractions to get the fraction of the whole, then multiply by the whole.
 
 ### Exercise 32
@@ -136,7 +136,7 @@ By **Definition 11.2.2** (A Number Times a Fraction): (1) $80\times\frac{4}{5}=6
 
 ### Solution to Exercise 47
 
-By **Definition 11.2.2** (A Number Times a Fraction): safe load $40\times\frac{3}{20}=6\,\text{kg}$. The bag $5\,\text{kg}<6\,\text{kg}$, so not overweight. (2) Multiply your own weight by $\frac{3}{20}$. $\blacksquare$
+By **Definition 11.2.2** (A Number Times a Fraction): safe load $40\times\frac{3}{20}=6\,\text{kg}$. The bag $5\,\text{kg}< 6\,\text{kg}$, so not overweight. (2) Multiply your own weight by $\frac{3}{20}$. $\blacksquare$
 
 ### Exercise 48
 

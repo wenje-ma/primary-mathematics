@@ -1,9 +1,9 @@
 # Assignment 63
 
 > **Definition 8.6.1** (How to Add and Subtract Decimals) <br>To add or subtract decimals, first align the decimal points of the numbers (i.e. align the digits in the same places), then calculate by the rules for integer addition and subtraction, and finally place the decimal point in the result. If there is a $0$ at the end of the result's decimal part, the $0$ may be removed.
->
+> 
 > **Definition 8.6.2** (Mixed Addition and Subtraction of Decimals) <br>The order of mixed addition and subtraction of decimals is the same as for integers: without parentheses, compute from left to right; with parentheses, compute inside the parentheses first.
->
+> 
 > **Definition 8.6.3** (Extending the Integer Addition Laws to Decimals) <br>The commutative and associative laws of integer addition also apply to decimal addition; applying them can make some decimal calculations easier.
 
 ### Exercise 167

@@ -1,11 +1,11 @@
 # Assignment 27
 
 > **Definition 4.3.1** (The Meaning of "Times") <br>Comparing two quantities, take the smaller amount as $1$ share; if the larger amount contains several such shares, we say the larger amount is several times the smaller. For example $2$ geese as $1$ share, and the chickens contain $3$ copies of $2$, so the number of chickens is $3$ times the number of geese.
->
+> 
 > **Definition 4.3.2** (Finding How Many Times One Number Is Another) <br>To find how many times number A is number B, find how many copies of B are in A, using division. For example to find how many times $12$ pots is $4$ pots, $12\div4=3$.
->
+> 
 > **Definition 4.3.3** (Finding a Multiple of a Number) <br>To find what a multiple of a number is, find how much several copies of some amount are, using multiplication. For example there are $8$ cows, and the sheep are $4$ times the cows, so the sheep are $4$ copies of $8$, $8\times4=32$ sheep.
->
+> 
 > **Definition 4.3.4** (Given the Multiple, Finding What $1$ Share Is) <br>Knowing that one number is several times another number and knowing that number, to find what $1$ share is, use division. For example a jump distance of $12$ meters is $6$ times the body length, and $12\div6=2$ meters is the body length.
 
 ### Exercise 55

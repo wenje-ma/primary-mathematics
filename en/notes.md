@@ -12,7 +12,7 @@
 
 **Definition 1.1.2** (Same Amount, More, Fewer): Compare two classes of objects by one-to-one correspondence: if both sides match up completely, it is called "the same amount"; if some are left over, that class is "more" and the other class is "fewer".
 
-**Definition 1.1.3** (Equals Sign, Greater-Than Sign, Less-Than Sign): Symbols expressing the size relation between two numbers: the equals sign "$=$" (read "equals"), the greater-than sign "$>$" (read "is greater than"), the less-than sign "$<$" (read "is less than"), with the opening facing the larger number.
+**Definition 1.1.3** (Equals Sign, Greater-Than Sign, Less-Than Sign): Symbols expressing the size relation between two numbers: the equals sign "$=$" (read "equals"), the greater-than sign "$> $" (read "is greater than"), the less-than sign "$< $" (read "is less than"), with the opening facing the larger number.
 
 #### Which Position
 
@@ -40,7 +40,7 @@
 
 #### Comparing Size, Which Position
 
-**Definition 1.2.2** (Comparing Size, Which Position): In numerical order, the later number is larger than the earlier, e.g. $6>5$, $7>6$, $8>7$, $9>8$; "which position" tells the order (ordinal number), which is different from "how many" (cardinal number).
+**Definition 1.2.2** (Comparing Size, Which Position): In numerical order, the later number is larger than the earlier, e.g. $6> 5$, $7> 6$, $8> 7$, $9> 8$; "which position" tells the order (ordinal number), which is different from "how many" (cardinal number).
 
 #### Decomposition and Composition
 
@@ -600,7 +600,7 @@
 
 #### Organization of Common Quantities and Shapes
 
-**Definition 5.9.3** (Organization of Common Quantities and Shapes): Length units: millimeter, centimeter, decimeter, meter, kilometer (adjacent rates $10$, $10$, $10$, $1000$); mass units: gram, kilogram, ton (all rate $1000$). Lines: segments, rays, lines; angles: acute, right, obtuse (acute $<$ right $<$ obtuse). Observing objects from different directions often gives different shapes.
+**Definition 5.9.3** (Organization of Common Quantities and Shapes): Length units: millimeter, centimeter, decimeter, meter, kilometer (adjacent rates $10$, $10$, $10$, $1000$); mass units: gram, kilogram, ton (all rate $1000$). Lines: segments, rays, lines; angles: acute, right, obtuse (acute $< $ right $< $ obtuse). Observing objects from different directions often gives different shapes.
 
 #### Matching Problems
 
@@ -766,7 +766,7 @@
 
 **Definition 7.3.1** (Re-Understanding Angles): An angle can be seen as the figure formed by a ray rotating around its endpoint from one position to another. Rotating half a turn forms a straight angle; a full turn forms a full angle; a quarter turn forms a right angle.
 
-**Definition 7.3.2** (Classification of Angles): Acute angle: $0^{\circ}<$ acute angle $<90^{\circ}$; right angle $=90^{\circ}$; obtuse angle: $90^{\circ}<$ obtuse angle $<180^{\circ}$; straight angle $=180^{\circ}$; full angle $=360^{\circ}$. $1$ full angle $=2$ straight angles $=4$ right angles.
+**Definition 7.3.2** (Classification of Angles): Acute angle: $0^{\circ}< $ acute angle $< 90^{\circ}$; right angle $=90^{\circ}$; obtuse angle: $90^{\circ}< $ obtuse angle $< 180^{\circ}$; straight angle $=180^{\circ}$; full angle $=360^{\circ}$. $1$ full angle $=2$ straight angles $=4$ right angles.
 
 #### Angle Measurement
 
@@ -858,7 +858,7 @@ A hundred-something-ten number times a one-digit: first do two-digit times one-d
 
 **Definition 7.9.2** (Organization of Quantitative Relationships): Addition model: total $=$ part $+$ part. Multiplication model: total price $=$ unit price $\times$ quantity, distance $=$ speed $\times$ time.
 
-**Definition 7.9.3** (Organization of Shapes and Statistics): Lines: parallel and perpendicular; angles: acute $<$ right $<$ obtuse $<$ straight $<$ full; quadrilaterals: parallelograms (two pairs of parallel sides), trapezoids (one pair of parallel sides); bar graphs make data clearer.
+**Definition 7.9.3** (Organization of Shapes and Statistics): Lines: parallel and perpendicular; angles: acute $< $ right $< $ obtuse $< $ straight $< $ full; quadrilaterals: parallelograms (two pairs of parallel sides), trapezoids (one pair of parallel sides); bar graphs make data clearer.
 
 ## Fourth Grade, Volume 2
 
@@ -1404,7 +1404,7 @@ A hundred-something-ten number times a one-digit: first do two-digit times one-d
 
 #### Math Corner: Pigeonhole Problems
 
-**Definition 11.9.1** (Pigeonhole / Drawer Principle): Putting $m$ objects into $n$ drawers ($m>n$), some drawer has at least $\lceil\frac{m}{n}\rceil$ objects. Calculation: $m\div n=q\cdots\cdots r$; if $r>0$, at least $q+1$; if $r=0$, at least $q$.
+**Definition 11.9.1** (Pigeonhole / Drawer Principle): Putting $m$ objects into $n$ drawers ($m> n$), some drawer has at least $\lceil\frac{m}{n}\rceil$ objects. Calculation: $m\div n=q\cdots\cdots r$; if $r> 0$, at least $q+1$; if $r=0$, at least $q$.
 
 ## Sixth Grade, Volume 2
 
@@ -1486,7 +1486,7 @@ A hundred-something-ten number times a one-digit: first do two-digit times one-d
 
 #### Pigeonhole Principle
 
-**Definition 12.7.1** (Pigeonhole Principle): Putting more than $n$ objects into $n$ drawers, some drawer has at least $2$ objects. Putting more than $kn$ objects into $n$ drawers, some drawer has at least $k+1$ objects. Calculation: divide objects by drawers; if quotient $k$ remainder $r$($r>0$), some drawer has at least $k+1$.
+**Definition 12.7.1** (Pigeonhole Principle): Putting more than $n$ objects into $n$ drawers, some drawer has at least $2$ objects. Putting more than $kn$ objects into $n$ drawers, some drawer has at least $k+1$ objects. Calculation: divide objects by drawers; if quotient $k$ remainder $r$($r> 0$), some drawer has at least $k+1$.
 
 ### Unit 8: Organization and Review
 

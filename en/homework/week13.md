@@ -1,9 +1,9 @@
 # Assignment 13
 
 > **Definition 2.5.1** (Vertical Form) <br>Written addition and subtraction use vertical form: align the same place values, and calculate from the ones place.
->
+> 
 > **Definition 2.5.2** (Written Addition) <br>When the ones sum to ten or more, carry $1$ to the tens place.
->
+> 
 > **Definition 2.5.3** (Written Subtraction) <br>When the ones digit is not enough to subtract, borrow $1$ from the tens place.
 
 ### Exercise 93
@@ -64,11 +64,11 @@ By **Definition 2.5.2** (Written Addition), correct: $49+44=93$, $21+39=60$, $26
 
 ### Exercise 100
 
-(Lesson: Written Addition, Practice, Problem 4) Fill "$>$""$<$" or "$=$" in $\bigcirc$: $4+38\bigcirc40+38$, $38+17\bigcirc57-5$, $25+47\bigcirc35+35$.
+(Lesson: Written Addition, Practice, Problem 4) Fill "$> $""$< $" or "$=$" in $\bigcirc$: $4+38\bigcirc40+38$, $38+17\bigcirc57-5$, $25+47\bigcirc35+35$.
 
 ### Solution to Exercise 100
 
-Calculate both sides first: $4+38=42$, $40+38=78$; $38+17=55$, $57-5=52$; $25+47=72$, $35+35=70$. Thus $4+38<40+38$, $38+17>57-5$, $25+47>35+35$. $\blacksquare$
+Calculate both sides first: $4+38=42$, $40+38=78$; $38+17=55$, $57-5=52$; $25+47=72$, $35+35=70$. Thus $4+38< 40+38$, $38+17> 57-5$, $25+47> 35+35$. $\blacksquare$
 
 ### Exercise 101
 
@@ -152,11 +152,11 @@ By **Definition 2.5.2** (Written Addition) and **Definition 2.5.3** (Written Sub
 
 ### Exercise 111
 
-(Lesson: Written Addition and Subtraction Within 100, Practice, Problem 3) Fill "$>$""$<$" or "$=$" in $\bigcirc$: $53+13\bigcirc66$, $46-7\bigcirc41$, $42-18\bigcirc34$, $72+9\bigcirc73$.
+(Lesson: Written Addition and Subtraction Within 100, Practice, Problem 3) Fill "$> $""$< $" or "$=$" in $\bigcirc$: $53+13\bigcirc66$, $46-7\bigcirc41$, $42-18\bigcirc34$, $72+9\bigcirc73$.
 
 ### Solution to Exercise 111
 
-$53+13=66$, $46-7=39$, $42-18=24$, $72+9=81$. Thus $53+13=66$, $46-7<41$, $42-18<34$, $72+9>73$. $\blacksquare$
+$53+13=66$, $46-7=39$, $42-18=24$, $72+9=81$. Thus $53+13=66$, $46-7< 41$, $42-18< 34$, $72+9> 73$. $\blacksquare$
 
 ### Exercise 112
 

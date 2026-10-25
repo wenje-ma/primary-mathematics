@@ -1,7 +1,7 @@
 # Assignment 30
 
 > **Definition 4.6.1** (Math Picture-Strip) <br>Use several pictures connected in order to tell a story that contains math information or quantitative relations; each picture has a caption, and a math problem can be raised from it. For example, in the pictures mark the order of each frame.
->
+> 
 > **Definition 4.6.2** (Division Situations in the Picture-Strip) <br>Express the quantitative relations in the picture-strip story by an expression. For example bought $11$ cans, eating $5$ per day, $11\div5=2$(days)……$1$(can), meaning enough for $2$ days, with $1$ can left.
 
 ### Exercise 198

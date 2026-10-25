@@ -1,9 +1,9 @@
 ﻿# Assignment 38
 
 > **Definition 5.7.1** (Line Segment, Ray, Straight Line) <br>A stretched taut string can be regarded as a line segment; a line segment has two endpoints and its length can be measured. Extending a line segment infinitely in one direction gives a ray, which has only one endpoint. Extending a line segment infinitely in both directions gives a straight line, which has no endpoint and is infinitely long. Among all the connecting lines between two points, the line segment is the shortest, and the length of this segment is called the distance between the two points.
->
+> 
 > **Definition 5.7.2** (Angle) <br>The figure obtained by drawing two rays out from one point is an angle; this point is the vertex of the angle, and the two rays are the two sides of the angle. An angle is denoted by the symbol "$\angle$". The wider the two sides of an angle open, the larger the angle is.
->
+> 
 > **Definition 5.7.3** (Right Angle, Acute Angle, Obtuse Angle) <br>The angle on a triangular ruler is a right angle. An angle smaller than a right angle is an acute angle, and an angle larger than a right angle is an obtuse angle. To tell whether an angle is a right angle, you can compare it with the right angle on a triangular ruler.
 
 ### Exercise 182
@@ -36,7 +36,7 @@ By **Definition 5.7.1** (Line Segment, Ray, Straight Line), Xiaoming has several
 
 ### Solution to Exercise 185
 
-You can measure each length with a ruler and then compare; you can also make one endpoint of the two segments coincide and look at the position of the other endpoint: if the other endpoints coincide they are equal, and if the other endpoint falls inside it is shorter, denoted $AB<CD$. You can also compare by stepping off with a compass. $\blacksquare$
+You can measure each length with a ruler and then compare; you can also make one endpoint of the two segments coincide and look at the position of the other endpoint: if the other endpoints coincide they are equal, and if the other endpoint falls inside it is shorter, denoted $AB< CD$. You can also compare by stepping off with a compass. $\blacksquare$
 
 ### Exercise 186
 
@@ -44,7 +44,7 @@ You can measure each length with a ruler and then compare; you can also make one
 
 ### Solution to Exercise 186
 
-(1) Endpoints B and D coincide, so the two segments are equally long, $AB=CD$. (2) B is to the right of D, showing that AB is longer, $AB>CD$. $\blacksquare$
+(1) Endpoints B and D coincide, so the two segments are equally long, $AB=CD$. (2) B is to the right of D, showing that AB is longer, $AB> CD$. $\blacksquare$
 
 ### Exercise 187
 
@@ -88,11 +88,11 @@ Measuring shows that the side lengths of the rectangle are unchanged before and 
 
 ### Exercise 192
 
-(Lesson: Practice 12, Problem 6) Two strips of wood AC and BD overlap. (1) If $AB=CD$, then AC ( ) BD. (2) If $AB>CD$, then AC ( ) BD.
+(Lesson: Practice 12, Problem 6) Two strips of wood AC and BD overlap. (1) If $AB=CD$, then AC ( ) BD. (2) If $AB> CD$, then AC ( ) BD.
 
 ### Solution to Exercise 192
 
-The overlapping part in the middle is BC. (1) When $AB=CD$, $AC=AB+BC=CD+BC=BD$, so $AC=BD$. (2) When $AB>CD$, $AC=AB+BC>CD+BC=BD$. $\blacksquare$
+The overlapping part in the middle is BC. (1) When $AB=CD$, $AC=AB+BC=CD+BC=BD$, so $AC=BD$. (2) When $AB> CD$, $AC=AB+BC> CD+BC=BD$. $\blacksquare$
 
 ### Exercise 193
 

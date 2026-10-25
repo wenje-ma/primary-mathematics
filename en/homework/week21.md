@@ -1,11 +1,11 @@
 # Assignment 21
 
 > **Definition 3.5.1** (Centimeter) <br>The "centimeter" is a unified unit of length, written as "$\mathrm{cm}$". To measure shorter objects, you can use centimeters. The width of an index finger and the width of a certain sticky note are about $1$ centimeter.
->
+> 
 > **Definition 3.5.2** (Meter) <br>To measure longer objects, you usually use the "meter" as the unit, written as "$\mathrm{m}$". $1$ meter $=100$ centimeters.
->
+> 
 > **Definition 3.5.3** (Line Segment) <br>A pulled-straight string can be regarded as a line segment. A line segment is straight and its length can be measured. The edge of a blackboard, the edge of a desk, and the edge of a book can all be regarded as line segments.
->
+> 
 > **Definition 3.5.4** (How to Measure) <br>When measuring the length of an object, line up the ruler's mark $0$ with one end of the object, then read which mark the other end points to; that is the number of centimeters.
 
 ### Exercise 123
@@ -114,11 +114,11 @@ By **Definition 3.5.4** (How to Measure), line up one end of the three pencils, 
 
 ### Exercise 136
 
-(Lesson: Practice, Problem 3) Fill the $\bigcirc$ with "$>$", "$<$", or "$=$". $10$ meters $\bigcirc$ $10$ centimeters, $100$ centimeters $\bigcirc$ $1$ meter, $80$ centimeters $\bigcirc$ $1$ meter.
+(Lesson: Practice, Problem 3) Fill the $\bigcirc$ with "$> $", "$< $", or "$=$". $10$ meters $\bigcirc$ $10$ centimeters, $100$ centimeters $\bigcirc$ $1$ meter, $80$ centimeters $\bigcirc$ $1$ meter.
 
 ### Solution to Exercise 136
 
-By **Definition 3.5.2** (Meter), $1$ meter $=100$ centimeters: $10$ meters $>10$ centimeters; $100$ centimeters $=1$ meter; $80$ centimeters $<1$ meter. $\blacksquare$
+By **Definition 3.5.2** (Meter), $1$ meter $=100$ centimeters: $10$ meters $> 10$ centimeters; $100$ centimeters $=1$ meter; $80$ centimeters $< 1$ meter. $\blacksquare$
 
 ### Exercise 137
 

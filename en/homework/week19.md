@@ -1,13 +1,13 @@
 # Assignment 19
 
 > **Definition 3.3.1** (Equal Distribution) <br>When every share gets the same amount, it is called equal distribution. For example, dividing $6$ candies into $3$ shares with $2$ candies in each share is equal distribution.
->
+> 
 > **Definition 3.3.2** (The Meaning of Division) <br>The process of equal distribution can be expressed by division. For example, $12$ bamboo shoots, $4$ on each plate, fill $3$ plates, written as $12\div4=3$, read as "$12$ divided by $4$ equals $3$".
->
+> 
 > **Definition 3.3.3** (Names of the Parts of a Division Expression) <br>The number before the division sign is called the dividend, the number after it is called the divisor, and the result of the division is called the quotient. For example, in $12\div4=3$, $12$ is the dividend, $4$ is the divisor, and $3$ is the quotient.
->
+> 
 > **Definition 3.3.4** (Finding the Quotient with Multiplication Rhymes) <br>When doing division, think "what times the divisor gives the dividend", and the product in that multiplication rhyme is the quotient. For example, for $12\div3$, think "three (four) twelve", and the quotient is $4$.
->
+> 
 > **Definition 3.3.5** (The Relation Between Multiplication and Division) <br>Multiplication and division are related and can be computed with the same multiplication rhyme. For example, from "three four is twelve" one computes $3\times4=12$, $4\times3=12$, $12\div3=4$, $12\div4=3$.
 
 ### Exercise 59
@@ -304,7 +304,7 @@ By **Definition 3.3.2** (The Meaning of Division), the first problem is "divide 
 
 ### Solution to Exercise 95
 
-By **Definition 3.3.2** (The Meaning of Division), first compute the price per pair: the first is $20\div5=4$ (yuan), the second is $30\div6=5$ (yuan); since $4<5$, the pack of $5$ pairs priced at $20$ yuan is cheaper. $\blacksquare$
+By **Definition 3.3.2** (The Meaning of Division), first compute the price per pair: the first is $20\div5=4$ (yuan), the second is $30\div6=5$ (yuan); since $4< 5$, the pack of $5$ pairs priced at $20$ yuan is cheaper. $\blacksquare$
 
 ### Exercise 96
 

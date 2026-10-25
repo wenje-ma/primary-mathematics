@@ -1,17 +1,17 @@
 # Assignment 70
 
 > **Definition 9.2.1** (Multiplying a Decimal by an Integer) <br>First convert the decimal to an integer (multiply by $10,100,\cdots$), compute the product by integer multiplication, then divide the product by the same factor and place the decimal point. For example, $9.5\times3$: treat $9.5$ as $95$ jiao, $95\times3=285$ jiao $=28.5$ yuan.
->
+> 
 > **Definition 9.2.2** (Multiplying a Decimal by a Decimal) <br>First compute the product by integer multiplication, then count the total number of decimal places in the two factors, count that many places from the right end of the product and place the decimal point; when the product has too few decimal places, pad with $0$ on the front before placing the point.
->
+> 
 > **Definition 9.2.3** (Approximate Value of a Product) <br>As needed, use the "rounding" method to keep a certain number of decimal places and find the approximate value of the product.
->
+> 
 > **Definition 9.2.4** (Multiples That Are Decimals) <br>A number (except $0$) multiplied by a number greater than $1$ gives a product larger than the original; multiplied by a number less than $1$, the product is smaller. When the multiple relation is expressed as a decimal, multiplication is also used.
->
+> 
 > **Definition 9.2.5** (Extending the Integer Multiplication Laws to Decimals) <br>The commutative, associative and distributive laws of integer multiplication also apply to decimal multiplication: $a\times b=b\times a$, $\left(a\times b\right)\times c=a\times\left(b\times c\right)$, $\left(a+b\right)\times c=a\times c+b\times c$.
->
+> 
 > **Definition 9.2.6** (Estimation to Solve Real Problems) <br>Sometimes only the rough range of a result is needed; judge by estimating upward or downward, and choose the direction according to the actual problem.
->
+> 
 > **Definition 9.2.7** (Tiered Billing) <br>For tiered billing such as taxis and water fees, first split into several tiers by the standard, compute each tier's cost separately, then add them; less than $1$ unit is billed as $1$ unit.
 
 ### Exercise 15
@@ -36,7 +36,7 @@ By **Definition 9.2.1**, expand $0.72$ by $100$ to get $72$, $72\times60=4320$, 
 
 ### Solution to Exercise 17
 
-By **Definition 9.2.1**, $6$ items: $8.6\times6=51.6$ yuan. $7$ items: $8.6\times7=60.2$ yuan; $60.2>40$, so not enough. $\blacksquare$
+By **Definition 9.2.1**, $6$ items: $8.6\times6=51.6$ yuan. $7$ items: $8.6\times7=60.2$ yuan; $60.2> 40$, so not enough. $\blacksquare$
 
 ### Exercise 18
 
@@ -76,7 +76,7 @@ By **Definition 9.2.2**: $0.56\times0.04=0.0224$ (pad $0$ on the front when ther
 
 ### Solution to Exercise 22
 
-By **Definition 9.2.3** (Approximate Value of a Product), $0.049\times45=2.205$; keeping one decimal, look at the hundredths digit $0<5$, discard it, giving $2.2$ hundred million. $\blacksquare$
+By **Definition 9.2.3** (Approximate Value of a Product), $0.049\times45=2.205$; keeping one decimal, look at the hundredths digit $0< 5$, discard it, giving $2.2$ hundred million. $\blacksquare$
 
 ### Exercise 23
 
@@ -184,11 +184,11 @@ By **Definition 9.2.4**: $3.2\times0.8=2.56$ yuan; $3.2\times0.5=1.6$ yuan; $3.2
 
 ### Exercise 36
 
-(Lesson: Multiples That Are Decimals, Try It, Problem 2) Fill the $\bigcirc$ with $>$, $<$ or $=$: $756\times0.9\bigcirc756$; $1\times0.94\bigcirc1$; $4.25\times1.1\bigcirc4.25$; $31.4\times1.2\bigcirc31.4$.
+(Lesson: Multiples That Are Decimals, Try It, Problem 2) Fill the $\bigcirc$ with $> $, $< $ or $=$: $756\times0.9\bigcirc756$; $1\times0.94\bigcirc1$; $4.25\times1.1\bigcirc4.25$; $31.4\times1.2\bigcirc31.4$.
 
 ### Solution to Exercise 36
 
-By **Definition 9.2.4**, multiplying by a number less than $1$ shrinks the product and by a number greater than $1$ enlarges it: $756\times0.9<756$; $1\times0.94<1$; $4.25\times1.1>4.25$; $31.4\times1.2>31.4$. $\blacksquare$
+By **Definition 9.2.4**, multiplying by a number less than $1$ shrinks the product and by a number greater than $1$ enlarges it: $756\times0.9< 756$; $1\times0.94< 1$; $4.25\times1.1> 4.25$; $31.4\times1.2> 31.4$. $\blacksquare$
 
 ### Exercise 37
 
@@ -260,7 +260,7 @@ $3.3\times6.7=22.11$; $3.33\times66.7=222.111$; $3.333\times666.7=2222.1111$; $3
 
 ### Solution to Exercise 45
 
-By **Definition 9.2.6** (Estimation), estimating upward: $31\times2+27\times0.8=62+21.6=83.6<89$, so the actual total is less than $89$ yuan; estimating downward: $30\times2+25\times0.8=60+20=80$, so the actual total is more than $80$ yuan. The remaining money is between $11$ and $20$ yuan, enough for the $10$-yuan eggs but not the $20$-yuan eggs. $\blacksquare$
+By **Definition 9.2.6** (Estimation), estimating upward: $31\times2+27\times0.8=62+21.6=83.6< 89$, so the actual total is less than $89$ yuan; estimating downward: $30\times2+25\times0.8=60+20=80$, so the actual total is more than $80$ yuan. The remaining money is between $11$ and $20$ yuan, enough for the $10$-yuan eggs but not the $20$-yuan eggs. $\blacksquare$
 
 ### Exercise 46
 
@@ -276,7 +276,7 @@ By **Definition 9.2.7** (Tiered Billing), $6.3$ km is billed as $7$ km, and the 
 
 ### Solution to Exercise 47
 
-By **Definition 9.2.6** (Estimation), round each price upward: $3+6+2+4+7=22$ yuan; $22<40$, so enough. $\blacksquare$
+By **Definition 9.2.6** (Estimation), round each price upward: $3+6+2+4+7=22$ yuan; $22< 40$, so enough. $\blacksquare$
 
 ### Exercise 48
 
@@ -284,7 +284,7 @@ By **Definition 9.2.6** (Estimation), round each price upward: $3+6+2+4+7=22$ yu
 
 ### Solution to Exercise 48
 
-By **Definition 9.2.7**: (1) $11<12$, $11\times2.5=27.5$ yuan. (2) $12\times2.5+\left(17-12\right)\times3.8=30+19=49$ yuan. $\blacksquare$
+By **Definition 9.2.7**: (1) $11< 12$, $11\times2.5=27.5$ yuan. (2) $12\times2.5+\left(17-12\right)\times3.8=30+19=49$ yuan. $\blacksquare$
 
 ### Exercise 49
 
@@ -300,7 +300,7 @@ By **Definition 9.2.2** and **Definition 9.2.5**: $54.9\times0.38=20.862$; $4.05
 
 ### Solution to Exercise 50
 
-Room area $8.1\times5.2=42.12$ m$^2$. Each tile $0.6\times0.6=0.36$ m$^2$; $100$ tiles total $36$ m$^2<42.12$ m$^2$, so not enough. $\blacksquare$
+Room area $8.1\times5.2=42.12$ m$^2$. Each tile $0.6\times0.6=0.36$ m$^2$; $100$ tiles total $36$ m$^2< 42.12$ m$^2$, so not enough. $\blacksquare$
 
 ### Exercise 51
 
@@ -316,4 +316,4 @@ Room area $8.1\times5.2=42.12$ m$^2$. Each tile $0.6\times0.6=0.36$ m$^2$; $100$
 
 ### Solution to Exercise 52
 
-By **Definition 9.2.2**, $1.\square2\times5.3$ has three decimal places, ruling out B ($0.996<1\times5.3=5.3$, too small). Estimate the range: $1.02\times5.3=5.406$, $1.92\times5.3=10.176$. A $7.526$ ends in $6=2\times3$, correct; D $7.562$ ends in $2\neq2\times3=6$, wrong. Choose A or C; substituting to check: $1.42\times5.3=7.526$, choose A. $\blacksquare$
+By **Definition 9.2.2**, $1.\square2\times5.3$ has three decimal places, ruling out B ($0.996< 1\times5.3=5.3$, too small). Estimate the range: $1.02\times5.3=5.406$, $1.92\times5.3=10.176$. A $7.526$ ends in $6=2\times3$, correct; D $7.562$ ends in $2\neq2\times3=6$, wrong. Choose A or C; substituting to check: $1.42\times5.3=7.526$, choose A. $\blacksquare$

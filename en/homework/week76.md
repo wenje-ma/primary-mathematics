@@ -1,9 +1,9 @@
 # Assignment 76
 
 > **Definition 9.8.1** (Certain and Uncertain Events) <br>Under given conditions, an event that must occur is called a certain event (e.g. the sun rises in the east), an event that cannot occur is called an impossible event (e.g. the sun rises in the west), and an event that may or may not occur is called a random or uncertain event (e.g. which program you draw by lottery).
->
+> 
 > **Definition 9.8.2** (Magnitude of Likelihood) <br>Random events occur with greater or lesser likelihood. The larger the share of the total count, the greater the likelihood; the smaller the share, the smaller the likelihood.
->
+> 
 > **Definition 9.8.3** (Inferring from Experimental Data) <br>By recording data through repeated trials, one can infer which colored balls in a box are more numerous and which fewer, based on how often each result appears. The more trials, the more reliable the inference.
 
 ### Exercise 189
@@ -140,4 +140,4 @@ By **Definition 9.8.2**, make the number of red faces exceed the blue faces, e.g
 
 ### Solution to Exercise 205
 
-(1) False; each toss may be heads or tails independently. (2) False; e.g. $1+1=2>1\times1=1$. (3) False; a triangle's interior angle sum must be $180^\circ$. (4) True; for a fixed perimeter, the closer length and width are, the larger the area, and a square (length equal to width) has the largest area. $\blacksquare$
+(1) False; each toss may be heads or tails independently. (2) False; e.g. $1+1=2> 1\times1=1$. (3) False; a triangle's interior angle sum must be $180^\circ$. (4) True; for a fixed perimeter, the closer length and width are, the larger the area, and a square (length equal to width) has the largest area. $\blacksquare$

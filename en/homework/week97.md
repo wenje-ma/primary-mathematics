@@ -1,6 +1,6 @@
 # Assignment 97
 
-> **Definition 11.9.1** (Pigeonhole Principle, Drawer Principle) <br>Distribute $m$ objects arbitrarily into $n$ drawers ($m>n$); then there must be one drawer containing at least $\lceil \frac{m}{n}\rceil$ objects. Computation: $m\div n=q\cdots\cdots r$; when $r>0$ there are at least $q+1$, and when $r=0$ there are at least $q$.
+> **Definition 11.9.1** (Pigeonhole Principle, Drawer Principle) <br>Distribute $m$ objects arbitrarily into $n$ drawers ($m> n$); then there must be one drawer containing at least $\lceil \frac{m}{n}\rceil$ objects. Computation: $m\div n=q\cdots\cdots r$; when $r> 0$ there are at least $q+1$, and when $r=0$ there are at least $q$.
 
 ### Exercise 250
 
@@ -80,7 +80,7 @@ The road is the chord between two adjacent gates; the four gates lie on the circ
 
 ### Solution to Exercise 259
 
-Plan A has total satisfied $600\times60\%+400\times50\%=360+200=560$, i.e. $56\%<60\%$; B $=330+280=610$, i.e. $61\%$; C $=390+220=610$, i.e. $61\%$. Thus plan A needs to be adjusted. $\blacksquare$
+Plan A has total satisfied $600\times60\%+400\times50\%=360+200=560$, i.e. $56\%< 60\%$; B $=330+280=610$, i.e. $61\%$; C $=390+220=610$, i.e. $61\%$. Thus plan A needs to be adjusted. $\blacksquare$
 
 ### Exercise 260
 
@@ -184,7 +184,7 @@ Let the length be $x$ and the width $\frac{2}{5}x$. Then $2\left(x+\frac{2}{5}x\
 
 ### Solution to Exercise 272
 
-Drive A has $8-6.4=1.6\,\text{GB}<1.8$ left; drive B has $16\times30\%=4.8\,\text{GB}>1.8$ left, so choose B. Copying the whole file takes $0.5\div15\%=\frac{10}{3}$ minutes, and the remaining time is $\frac{10}{3}\times\left(1-15\%\right)=\frac{17}{6}\approx2.83$ minutes. $\blacksquare$
+Drive A has $8-6.4=1.6\,\text{GB}< 1.8$ left; drive B has $16\times30\%=4.8\,\text{GB}> 1.8$ left, so choose B. Copying the whole file takes $0.5\div15\%=\frac{10}{3}$ minutes, and the remaining time is $\frac{10}{3}\times\left(1-15\%\right)=\frac{17}{6}\approx2.83$ minutes. $\blacksquare$
 
 ### Exercise 273
 

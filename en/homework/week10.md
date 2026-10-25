@@ -1,9 +1,9 @@
 # Assignment 10
 
 > **Definition 2.2.1** (Ten-Something Minus $9$) <br>To calculate ten-something minus $9$, you may "think addition to do subtraction"; e.g. think $9+6=15$, so $15-9=6$. You may also use the "break-ten method": first calculate $10-9=1$, then add the ones digit.
->
+> 
 > **Definition 2.2.2** (Regrouping Subtraction) <br>When the ones digit is not enough to subtract, borrow $1$ from the tens place as $10$, combine it with the ones digit, then subtract.
->
+> 
 > **Definition 2.2.3** (Solving Word Problems) <br>After reading the problem, first identify the given conditions and the question, select the conditions relevant to the question to write the sentence, do not use irrelevant conditions in the calculation, and check afterward.
 
 ### Exercise 19
@@ -136,11 +136,11 @@ By **Definition 2.2.2** (Regrouping Subtraction): $12-7=5$, $16-7=9$, $14-6=8$, 
 
 ### Exercise 35
 
-(Lesson: Ten-Something Minus 8, 7, 6, Practice, Problem 2) Fill "$>$""$<$" or "$=$" in $\bigcirc$: $14-8\bigcirc12-6$, $15-8\bigcirc13-7$, $11-6\bigcirc14-7$.
+(Lesson: Ten-Something Minus 8, 7, 6, Practice, Problem 2) Fill "$> $""$< $" or "$=$" in $\bigcirc$: $14-8\bigcirc12-6$, $15-8\bigcirc13-7$, $11-6\bigcirc14-7$.
 
 ### Solution to Exercise 35
 
-Calculate both sides: $14-8=6$, $12-6=6$; $15-8=7$, $13-7=6$; $11-6=5$, $14-7=7$. Thus $14-8=12-6$, $15-8>13-7$, $11-6<14-7$. $\blacksquare$
+Calculate both sides: $14-8=6$, $12-6=6$; $15-8=7$, $13-7=6$; $11-6=5$, $14-7=7$. Thus $14-8=12-6$, $15-8> 13-7$, $11-6< 14-7$. $\blacksquare$
 
 ### Exercise 36
 

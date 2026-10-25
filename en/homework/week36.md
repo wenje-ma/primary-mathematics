@@ -1,13 +1,13 @@
 # Assignment 36
 
 > **Definition 5.5.1** (Mental Multiplication) <br>To multiply a round-ten or round-hundred number by a one-digit number, first multiply the digits before the $0$ by the one-digit number, then append the corresponding number of $0$s to the end of the product. To multiply a two-digit number by a one-digit number, split the two-digit number into a round ten and a one-digit number, multiply them separately, and then add the results.
->
+> 
 > **Definition 5.5.2** (Written Multiplication) <br>Vertical form for multiplying a multi-digit number by a one-digit number: starting from the ones place, multiply each digit of the multi-digit number by the one-digit number in turn; whenever the product at a place reaches several tens, carry that number over to the preceding place.
->
+> 
 > **Definition 5.5.3** (Multiplication by 0) <br>$0$ multiplied by any number gives $0$.
->
+> 
 > **Definition 5.5.4** (Multiplication with a 0 in the Middle or at the End of a Factor) <br>If a factor has a $0$ in the middle, that digit must also be multiplied; if a factor has a $0$ at the end, you may first multiply the digits before the $0$, and then append the same number of $0$s to the end of the product.
->
+> 
 > **Definition 5.5.5** (Solving Problems by Estimation) <br>Sometimes it is only necessary to judge "whether it is enough", without an exact calculation; you may round the numbers up or down: if you estimate the number of people upward and the money is then enough, then in reality it is certainly enough.
 
 ### Exercise 101
@@ -200,7 +200,7 @@ $39\times2=78$; $41\times8=328$; $52\times4=208$; $27\times4=108$; $612\times7=4
 
 ### Solution to Exercise 124
 
-$24\times9=216$ bottles. Estimate: $20<24<30$, $180<24\times9<270$, so the result is reasonable. $\blacksquare$
+$24\times9=216$ bottles. Estimate: $20< 24< 30$, $180< 24\times9< 270$, so the result is reasonable. $\blacksquare$
 
 ### Exercise 125
 
@@ -408,7 +408,7 @@ $106\times4=424$; $205\times3=615$; $207\times8=1656$; $408\times5=2040$; $420\t
 
 ### Solution to Exercise 150
 
-By **Definition 5.5.5** (Solving Problems by Estimation), take $987$ as $1000$; since $987<1000$, $1000\times8=8000$, so $987\times8<8000$. $8000$ yuan is enough. $\blacksquare$
+By **Definition 5.5.5** (Solving Problems by Estimation), take $987$ as $1000$; since $987< 1000$, $1000\times8=8000$, so $987\times8< 8000$. $8000$ yuan is enough. $\blacksquare$
 
 ### Exercise 151
 
@@ -416,7 +416,7 @@ By **Definition 5.5.5** (Solving Problems by Estimation), take $987$ as $1000$; 
 
 ### Solution to Exercise 151
 
-Take $218$ as $200$; $200\times5=1000$. Actually $218>200$, so $218\times5>1000$, and $218\times5=1090$ yuan. $1000$ yuan is not enough. $\blacksquare$
+Take $218$ as $200$; $200\times5=1000$. Actually $218> 200$, so $218\times5> 1000$, and $218\times5=1090$ yuan. $1000$ yuan is not enough. $\blacksquare$
 
 ### Exercise 152
 
@@ -428,11 +428,11 @@ By **Definition 5.5.3** (Multiplication by 0), the multiplication expression end
 
 ### Exercise 153
 
-(Lesson: Practice 10, Problem 2) Fill in "$>$", "$<$" or "$=$": $8\times0\bigcirc8+0$; $14\times6\bigcirc16\times4$; $130\times0\bigcirc130-0$; $54-0\bigcirc54+0$; $400+9\bigcirc400\times9$; $304\times8\bigcirc2400$.
+(Lesson: Practice 10, Problem 2) Fill in "$> $", "$< $" or "$=$": $8\times0\bigcirc8+0$; $14\times6\bigcirc16\times4$; $130\times0\bigcirc130-0$; $54-0\bigcirc54+0$; $400+9\bigcirc400\times9$; $304\times8\bigcirc2400$.
 
 ### Solution to Exercise 153
 
-$8\times0=0<8+0=8$; $14\times6=84>16\times4=64$; $130\times0=0<130-0=130$; $54-0=54=54+0$; $400+9=409<400\times9=3600$; $304\times8=2432>2400$. $\blacksquare$
+$8\times0=0< 8+0=8$; $14\times6=84> 16\times4=64$; $130\times0=0< 130-0=130$; $54-0=54=54+0$; $400+9=409< 400\times9=3600$; $304\times8=2432> 2400$. $\blacksquare$
 
 ### Exercise 154
 
@@ -488,7 +488,7 @@ $208\times4=832$ (the original missed multiplying the middle tens $0$, so it sho
 
 ### Solution to Exercise 160
 
-Each vehicle actually carries $49-1=48$ students; $8$ vehicles carry $48\times8=384$ people, and $384<417$, so it is not enough. $\blacksquare$
+Each vehicle actually carries $49-1=48$ students; $8$ vehicles carry $48\times8=384$ people, and $384< 417$, so it is not enough. $\blacksquare$
 
 ### Exercise 161
 
@@ -496,7 +496,7 @@ Each vehicle actually carries $49-1=48$ students; $8$ vehicles carry $48\times8=
 
 ### Solution to Exercise 161
 
-For $5$ people: $197\times5=985$ yuan $<1000$; $208\times5=1040$ yuan $>1000$; $242\times5=1210$ yuan $>1000$. She bought the $197$ yuan fare. $\blacksquare$
+For $5$ people: $197\times5=985$ yuan $< 1000$; $208\times5=1040$ yuan $> 1000$; $242\times5=1210$ yuan $> 1000$. She bought the $197$ yuan fare. $\blacksquare$
 
 ### Exercise 162
 
@@ -536,7 +536,7 @@ One round trip is $490\times2=980$ meters, and two round trips are $980\times2=1
 
 ### Solution to Exercise 166
 
-Altogether about $60\times8=480$ kilograms; precisely: $59+63+62+60+57+58+62+58=479$ kilograms $<500$ kilograms, so it can carry them in one trip. $\blacksquare$
+Altogether about $60\times8=480$ kilograms; precisely: $59+63+62+60+57+58+62+58=479$ kilograms $< 500$ kilograms, so it can carry them in one trip. $\blacksquare$
 
 ### Exercise 167
 
@@ -544,7 +544,7 @@ Altogether about $60\times8=480$ kilograms; precisely: $59+63+62+60+57+58+62+58=
 
 ### Solution to Exercise 167
 
-Try the most expensive as first, next as second, cheapest as third: $3999+2998\times5+200\times10=3999+14990+2000=20989$, which exceeds the limit. Adjust: first prize tablet $3999$, second prize fitness card $998\times5=4990$, third prize book card $200\times10=2000$, total $3999+4990+2000=10989$, still exceeds. First prize refrigerator $1968$, second prize fitness card $4990$, third prize book card $2000$, total $8958$ yuan $<10000$. $\blacksquare$
+Try the most expensive as first, next as second, cheapest as third: $3999+2998\times5+200\times10=3999+14990+2000=20989$, which exceeds the limit. Adjust: first prize tablet $3999$, second prize fitness card $998\times5=4990$, third prize book card $200\times10=2000$, total $3999+4990+2000=10989$, still exceeds. First prize refrigerator $1968$, second prize fitness card $4990$, third prize book card $2000$, total $8958$ yuan $< 10000$. $\blacksquare$
 
 ### Exercise 168
 
@@ -568,7 +568,7 @@ $96\times4=384$; $905\times9=8145$; $680\times7=4760$; $234\times9=2106$. $\blac
 
 ### Solution to Exercise 170
 
-(1) $200\times2=400$ students. (2) $126\times6=756$ pots. (3) $65\times7=455$ meters $>400$ meters, so he can arrive. $\blacksquare$
+(1) $200\times2=400$ students. (2) $126\times6=756$ pots. (3) $65\times7=455$ meters $> 400$ meters, so he can arrive. $\blacksquare$
 
 ### Exercise 171
 
@@ -576,7 +576,7 @@ $96\times4=384$; $905\times9=8145$; $680\times7=4760$; $234\times9=2106$. $\blac
 
 ### Solution to Exercise 171
 
-$58\times4=232$ yuan? No, $58\times4=232>200$, which is not enough. According to the figure the soccer ball is $46$ yuan: $46\times4=184$ yuan, and the change is $200-184=16$ yuan. $\blacksquare$
+$58\times4=232$ yuan? No, $58\times4=232> 200$, which is not enough. According to the figure the soccer ball is $46$ yuan: $46\times4=184$ yuan, and the change is $200-184=16$ yuan. $\blacksquare$
 
 ### Exercise 172
 
@@ -584,7 +584,7 @@ $58\times4=232$ yuan? No, $58\times4=232>200$, which is not enough. According to
 
 ### Solution to Exercise 172
 
-$7\times68$; take $68$ as $70$, $7\times70=490$. $400<490$, not enough; $500>490$, enough. Precisely $7\times68=476$ buttons. $\blacksquare$
+$7\times68$; take $68$ as $70$, $7\times70=490$. $400< 490$, not enough; $500> 490$, enough. Precisely $7\times68=476$ buttons. $\blacksquare$
 
 ### Exercise 173
 

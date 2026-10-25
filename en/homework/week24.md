@@ -1,11 +1,11 @@
 # Assignment 24
 
 > **Definition 3.8.1** (Reviewing Multiplication-Division Relations) <br>Repeated addition with the same addend is more simply written as multiplication, and the process of equal distribution is more simply written as division; multiplication and division are inverse operations, and the same rhyme computes two multiplication expressions and two division expressions. For example, from "two three is six" compute $2\times3=6$, $3\times2=6$, $6\div2=3$, $6\div3=2$.
->
+> 
 > **Definition 3.8.2** (Quantity Relations) <br>Given the amount per share and the number of shares, use multiplication to find the total: amount per share $\times$ number of shares $=$ total; given the total and the amount per share, use division to find the number of shares; given the total and the number of shares, use division to find the amount per share.
->
+> 
 > **Definition 3.8.3** (Reviewing Directions and Measurement) <br>We learned the four directions east, south, west, north, and maps are drawn with north on top, south at the bottom, west on the left, east on the right; the length units are the centimeter and the meter, and $1$ meter $=100$ centimeters; a line segment is straight and can be measured; we also learned body rulers such as the hand-span, pace, and arm-span.
->
+> 
 > **Definition 3.8.4** (Reviewing Classification and Organization) <br>Classification must follow a certain standard; with a different standard the result may differ, but the total number of things being classified stays the same; the result of a first classification can be further divided by another standard.
 
 ### Exercise 223
@@ -90,11 +90,11 @@ $30\div5=6$, $4\times9=36$, $6\times7=42$, $18\div3=6$, $7\times9=63$, $6\times8
 
 ### Exercise 233
 
-(Lesson: Practice, Problem 4, Fill in the Symbol) Fill the $\bigcirc$ with "$\times$", "$\div$", or "$>$", "$<$", "$=$": $6\bigcirc6=36$, $30\bigcirc6=5$, $8\div2\bigcirc8$, $5\times7\bigcirc32$, $2\times6\bigcirc12$, $8\times9\bigcirc73$, $4\times9\bigcirc34$, $9\div3\bigcirc3$.
+(Lesson: Practice, Problem 4, Fill in the Symbol) Fill the $\bigcirc$ with "$\times$", "$\div$", or "$> $", "$< $", "$=$": $6\bigcirc6=36$, $30\bigcirc6=5$, $8\div2\bigcirc8$, $5\times7\bigcirc32$, $2\times6\bigcirc12$, $8\times9\bigcirc73$, $4\times9\bigcirc34$, $9\div3\bigcirc3$.
 
 ### Solution to Exercise 233
 
-$6\times6=36$; $30\div6=5$; $8\div2=4<8$; $5\times7=35>32$; $2\times6=12$, so $=$; $8\times9=72<73$; $4\times9=36>34$; $9\div3=3$, so $=$. $\blacksquare$
+$6\times6=36$; $30\div6=5$; $8\div2=4< 8$; $5\times7=35> 32$; $2\times6=12$, so $=$; $8\times9=72< 73$; $4\times9=36> 34$; $9\div3=3$, so $=$. $\blacksquare$
 
 ### Exercise 234
 

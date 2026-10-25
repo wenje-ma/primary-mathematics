@@ -1,13 +1,13 @@
 # Assignment 93
 
 > **Definition 11.5.1** (Parts of a Circle) <br>The fixed point of the compass needle is the center, written $O$; the segment from center to any point on the circle is the radius, $r$; the segment through the center with both ends on the circle is the diameter, $d$. In the same circle $d=2r$. Mozi: "A circle has one center, equidistant everywhere."
->
+> 
 > **Definition 11.5.2** (Arcs, Sectors, Central Angles) <br>The part of a circle between two points is an arc; a figure bounded by an arc and the two radii to its endpoints is a sector; an angle with vertex at the center is a central angle. In the same circle, the sector's size depends on the central angle.
->
+> 
 > **Definition 11.5.3** (Pi) <br>Dividing any circle's circumference by its diameter gives a fixed number, pi, written $\pi$. It is an infinite non-repeating decimal; in computation use $\pi\approx3.14$.
->
+> 
 > **Definition 11.5.4** (Circumference) <br>The length of the curve enclosing the circle is the circumference, $C=\pi d=2\pi r$.
->
+> 
 > **Definition 11.5.5** (Area of a Circle) <br>The area the circle occupies. Cutting the circle into equal sectors and rearranging into an approximate rectangle gives length $\pi r$ and width $r$, so $S=\pi r^2$.
 
 ### Exercise 133

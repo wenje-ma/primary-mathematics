@@ -1,17 +1,17 @@
 # Assignment 49
 
 > **Definition 7.1.1** (Counting Units and Digit Places) <br>One (unit), ten, hundred, thousand, ten-thousand, hundred-thousand, million, ten-million, hundred-million, thousand-million, ten-thousand-million, hundred-thousand-million are all counting units. The rate between every two adjacent counting units is ten; this method of counting is called the decimal system. Counting units are arranged in a certain order, and the positions they occupy are called digit places. Starting from the right, every four digit places form a level: the unit level (one, ten, hundred, thousand), the ten-thousand level (ten-thousand, hundred-thousand, million, ten-million), the hundred-million level (hundred-million, thousand-million, ten-thousand-million, hundred-thousand-million).
->
+> 
 > **Definition 7.1.2** (Natural Numbers) <br>The numbers $1,2,3,\cdots$ that count objects are all natural numbers. Having no objects at all is represented by $0$, and $0$ is also a natural number. The smallest natural number is $0$, there is no largest natural number, and the number of natural numbers is infinite.
->
+> 
 > **Definition 7.1.3** (Reading Large Numbers) <br>First split into levels, then read from the highest place. Read the hundred-million level first, then the ten-thousand level, and finally the unit level; the numbers in the hundred-million and ten-thousand levels are read as in the unit level, followed by the word "hundred-million" or "ten-thousand". However many $0$s are at the end of a level, they are not read; a single $0$ or several consecutive $0$s in other places are read as only one zero.
->
+> 
 > **Definition 7.1.4** (Writing Large Numbers) <br>First write the higher level, then the lower. If a digit place has no unit at all, write $0$ in that place.
->
+> 
 > **Definition 7.1.5** (Comparing the Size of Numbers) <br>When the number of digits differs, the number with more digits is larger. When the number of digits is the same, compare from the highest place; the number with the larger digit at the highest place is larger; if the highest place is the same, compare the digit in the next place.
->
+> 
 > **Definition 7.1.6** (Rewriting Numbers) <br>To rewrite a whole ten-thousand number in units of "ten-thousand", remove the trailing $4$ $0$s and add the word "ten-thousand"; to rewrite a whole hundred-million number in units of "hundred-million", remove the trailing $8$ $0$s and add the word "hundred-million". The size does not change before and after rewriting, and the two are joined by "$=$".
->
+> 
 > **Definition 7.1.7** (Finding Approximate Numbers by Rounding) <br>When dropping the tail, look at the digit in the highest place of the tail part: if it is less than $5$, drop the tail (round down); if it is greater than or equal to $5$, carry $1$ to the previous place and then drop the tail (round up). The approximate number and the original number are joined by "$\approx$".
 
 ### Exercise 1
@@ -236,7 +236,7 @@ By common sense and a feel for large numbers: (1) unreasonable, a school usually
 
 ### Solution to Exercise 28
 
-By **Definition 7.1.5** (Comparing the Size of Numbers): $92504$ is five digits, $103600$ is six digits, hence $<$; $830207000$ is nine digits, $1020010000$ is ten digits, hence $<$; $28906$ and $28890$ are both five digits with the same thousands digit, and the hundreds digit $9>8$, hence $>$; $100388770000$ is twelve digits, $99385270000$ is eleven digits, hence $>$. $\blacksquare$
+By **Definition 7.1.5** (Comparing the Size of Numbers): $92504$ is five digits, $103600$ is six digits, hence $< $; $830207000$ is nine digits, $1020010000$ is ten digits, hence $< $; $28906$ and $28890$ are both five digits with the same thousands digit, and the hundreds digit $9> 8$, hence $> $; $100388770000$ is twelve digits, $99385270000$ is eleven digits, hence $> $. $\blacksquare$
 
 ### Exercise 29
 
@@ -260,7 +260,7 @@ By **Definition 7.1.7** (Rounding to find approximate numbers): $25520\approx3$ 
 
 ### Solution to Exercise 31
 
-By **Definition 7.1.7** (Rounding to find approximate numbers): in $1034500000$ the ten-million digit is $3<5$, drop it, $\approx10$ hundred-millions; in $9876540000$ the ten-million digit is $7\ge5$, carry $1$, $\approx99$ hundred-millions. $\blacksquare$
+By **Definition 7.1.7** (Rounding to find approximate numbers): in $1034500000$ the ten-million digit is $3< 5$, drop it, $\approx10$ hundred-millions; in $9876540000$ the ten-million digit is $7\ge5$, carry $1$, $\approx99$ hundred-millions. $\blacksquare$
 
 ### Exercise 32
 
@@ -268,7 +268,7 @@ By **Definition 7.1.7** (Rounding to find approximate numbers): in $1034500000$ 
 
 ### Solution to Exercise 32
 
-By **Definition 7.1.5** (Comparing the Size of Numbers): $208808$ is six digits $>$ $99999$ five digits; $26090800000$ and $26900800000$ are both eleven digits, and the hundred-million digit $0<9$, hence $<$; $30500000$ is eight digits $>$ $3050000$ seven digits; $7451030000$ is ten digits $<$ $54284000000$ eleven digits. $\blacksquare$
+By **Definition 7.1.5** (Comparing the Size of Numbers): $208808$ is six digits $> $ $99999$ five digits; $26090800000$ and $26900800000$ are both eleven digits, and the hundred-million digit $0< 9$, hence $< $; $30500000$ is eight digits $> $ $3050000$ seven digits; $7451030000$ is ten digits $< $ $54284000000$ eleven digits. $\blacksquare$
 
 ### Exercise 33
 
@@ -332,7 +332,7 @@ By **Definition 7.1.4** (Writing Large Numbers) and **Definition 7.1.7** (Roundi
 
 ### Solution to Exercise 40
 
-By **Definition 7.1.5** (Comparing the Size of Numbers) and **Definition 7.1.6** (Rewriting Numbers): $27$ ten-thousands $=270000>260800$; $500000000=5$ hundred-millions; $40$ ten-thousands $=400000<4000000$; $297860000<3$ hundred-millions $=300000000$. $\blacksquare$
+By **Definition 7.1.5** (Comparing the Size of Numbers) and **Definition 7.1.6** (Rewriting Numbers): $27$ ten-thousands $=270000> 260800$; $500000000=5$ hundred-millions; $40$ ten-thousands $=400000< 4000000$; $297860000< 3$ hundred-millions $=300000000$. $\blacksquare$
 
 ### Exercise 41
 
@@ -360,8 +360,8 @@ By **Definition 7.1.7** (Rounding to find approximate numbers): $247482\approx25
 
 ### Exercise 44
 
-(Lesson: Practice 4, Problem 7) Fill the $\square$ with suitable digits: $8\square765000\approx9$ hundred-millions; $3562100000<\square103270000$; $\square00\square00\approx69$ ten-thousands; $\square00800000>2810800000$.
+(Lesson: Practice 4, Problem 7) Fill the $\square$ with suitable digits: $8\square765000\approx9$ hundred-millions; $3562100000< \square103270000$; $\square00\square00\approx69$ ten-thousands; $\square00800000> 2810800000$.
 
 ### Solution to Exercise 44
 
-By **Definition 7.1.5** (Comparing the Size of Numbers) and **Definition 7.1.7** (Rounding to find approximate numbers): $8\square765000\approx9$ hundred-millions, the ten-million digit must be $\ge5$, fill $5\sim9$; $3562100000<\square103270000$, fill $\ge4$; $\square00\square00\approx69$ ten-thousands, the ten-thousand level is $69$ and the thousands digit is $0\sim4$, fill $690000\sim694000$; $\square00800000>2810800000$, fill $\ge3$. $\blacksquare$
+By **Definition 7.1.5** (Comparing the Size of Numbers) and **Definition 7.1.7** (Rounding to find approximate numbers): $8\square765000\approx9$ hundred-millions, the ten-million digit must be $\ge5$, fill $5\sim9$; $3562100000< \square103270000$, fill $\ge4$; $\square00\square00\approx69$ ten-thousands, the ten-thousand level is $69$ and the thousands digit is $0\sim4$, fill $690000\sim694000$; $\square00800000> 2810800000$, fill $\ge3$. $\blacksquare$

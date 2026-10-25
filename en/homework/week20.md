@@ -1,9 +1,9 @@
 # Assignment 20
 
 > **Definition 3.4.1** (East, South, West, North) <br>The four basic directions. When you get up in the morning facing the sun, the front is east, the back is west, the left is north, and the right is south; you can also use a compass to tell directions.
->
+> 
 > **Definition 3.4.2** (The Relative Relations of Directions) <br>East is opposite to west, and south is opposite to north. Once one direction is fixed, the other three are fixed.
->
+> 
 > **Definition 3.4.3** (Directions on a Map) <br>Maps are drawn with north at the top, south at the bottom, west on the left, and east on the right; on different direction boards, the order of east, south, west, and north follows the direction the hands of a clock turn, and is fixed.
 
 ### Exercise 113

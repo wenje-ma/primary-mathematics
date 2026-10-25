@@ -1,7 +1,7 @@
 # Assignment 84
 
 > **Definition 10.7.1** (Rotation) <br>An object turning about a point (or an axis) is rotation. To describe rotation, state three elements: the point (center of rotation), the direction (clockwise or counterclockwise), and the angle. Rotation does not change a figure's shape or size, only its position and orientation.
->
+> 
 > **Definition 10.7.2** (Features of Rotation) <br>After a figure rotates about a point, the center stays fixed; every edge of the figure rotates about that point by the same angle in the same direction, and corresponding points keep the same distance from the center.
 
 ### Exercise 122

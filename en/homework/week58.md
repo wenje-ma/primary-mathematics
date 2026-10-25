@@ -1,19 +1,19 @@
 # Assignment 58
 
 > **Definition 8.1.1** (Meaning of Addition and the Relationships Among Its Parts) <br>The operation of combining two numbers into one number is called addition. The two numbers being added are called addends, and the resulting number is called the sum. Sum $=$ addend $+$ addend, addend $=$ sum $-$ the other addend.
->
+> 
 > **Definition 8.1.2** (Meaning of Subtraction and the Relationships Among Its Parts) <br>Given the sum of two addends and one of them, the operation of finding the other addend is called subtraction. In subtraction, the given sum is called the minuend. Subtraction is the inverse operation of addition. Difference $=$ minuend $-$ subtrahend, minuend $=$ subtrahend $+$ difference, subtrahend $=$ minuend $-$ difference.
->
+> 
 > **Definition 8.1.3** (Meaning of Multiplication and the Relationships Among Its Parts) <br>The convenient operation of finding the sum of several equal addends is called multiplication. The two numbers being multiplied are called factors, and the resulting number is called the product. Product $=$ factor $\times$ factor, factor $=$ product $\div$ the other factor.
->
+> 
 > **Definition 8.1.4** (Meaning of Division and the Relationships Among Its Parts) <br>Given the product of two factors and one of them, the operation of finding the other factor is called division. In division, the given product is called the dividend. Division is the inverse operation of multiplication. Quotient $=$ dividend $\div$ divisor, divisor $=$ dividend $\div$ quotient, dividend $=$ quotient $\times$ divisor.
->
+> 
 > **Definition 8.1.5** (Operations Involving 0) <br>A number plus $0$ still gives the original number; when the minuend equals the subtrahend, the difference is $0$; a number multiplied by $0$ still gives $0$; and $0$ divided by a non-$0$ number still gives $0$. $0$ cannot be the divisor.
->
+> 
 > **Definition 8.1.6** (Relationships Among the Parts in Division with Remainder) <br>In division with a remainder, dividend $=$ quotient $\times$ divisor $+$ remainder, and the remainder must be smaller than the divisor.
->
+> 
 > **Definition 8.1.7** (Order of Four-Operation Mixed Calculations) <br>The four operations of addition, subtraction, multiplication and division are collectively called the four operations. In an expression with both parentheses and square brackets, first calculate inside the parentheses, then inside the square brackets, and finally outside the brackets.
->
+> 
 > **Definition 8.1.8** (Strategy for Boat/Car-Rental Problems) <br>To solve the problem of how to rent boats (or cars) most cheaply, first compute the unit price per seat for each kind of boat (or car), prefer renting the cheaper one, then adjust so as to leave as few empty seats as possible, and after comparing several plans choose the cheapest.
 
 ### Exercise 1

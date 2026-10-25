@@ -1,13 +1,13 @@
 # Assignment 71
 
 > **Definition 9.3.1** (Dividing a Decimal by an Integer) <br>Divide by the rules of integer division; the decimal point of the quotient must align with that of the dividend; if a remainder remains after dividing to the end of the dividend, append a $0$ to the remainder and continue; when the integer part is not enough for a quotient of $1$, first write a $0$ and then place the decimal point.
->
+> 
 > **Definition 9.3.2** (Repeating Decimals and Repeating Cycles) <br>When, from a certain digit on, one digit or several digits in a number's decimal part repeat without end, such a decimal is a repeating decimal; the repeating digits form the repeating cycle of the decimal. When writing a repeating decimal, write only the first cycle and mark a dot above its first and last digits.
->
+> 
 > **Definition 9.3.3** (Terminating and Non-terminating Decimals) <br>A decimal whose decimal part has a finite number of digits is a terminating decimal; one whose decimal part has infinitely many digits is a non-terminating decimal, and repeating decimals are non-terminating.
->
+> 
 > **Definition 9.3.4** (Dividing by a Decimal) <br>First move the divisor's decimal point to make it an integer; move the dividend's decimal point the same number of places to the right (padding with $0$ at the end if there are too few places), then compute as division by an integer.
->
+> 
 > **Definition 9.3.5** (Approximate Value of a Quotient) <br>In solving real problems, take the quotient's approximate value as needed: usually the "rounding" method; for how many containers are needed, the "round up" method; for how many items can be bought, the "round down" method.
 
 ### Exercise 53
@@ -40,7 +40,7 @@ By **Definition 9.3.1**: $42\div3=14$, $4.2\div3=1.4$; $84\div4=21$, $8.4\div4=2
 
 ### Solution to Exercise 56
 
-By **Definition 9.3.1**: $72\div15=4.8$; $9\div4=2.25$; $14.21\div7=2.03$; $25.5\div6=4.25$; $5.6\div7=0.8$ (integer part $5<7$, first write a $0$). $\blacksquare$
+By **Definition 9.3.1**: $72\div15=4.8$; $9\div4=2.25$; $14.21\div7=2.03$; $25.5\div6=4.25$; $5.6\div7=0.8$ (integer part $5< 7$, first write a $0$). $\blacksquare$
 
 ### Exercise 57
 

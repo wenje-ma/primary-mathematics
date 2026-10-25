@@ -1,11 +1,11 @@
 # Assignment 25
 
 > **Definition 4.1.1** (Structure of the Clock Face) <br>The clock face has three hands: the hour hand, the minute hand, and the second hand, as well as divisions and numbers. The face is divided evenly by the numbers into $12$ big divisions, each big division into $5$ small divisions, and the face has $60$ small divisions in all.
->
+> 
 > **Definition 4.1.2** (Hours, Minutes, Seconds) <br>The hour hand moving $1$ big division is $1$ hour, the minute hand moving $1$ small division is $1$ minute, and the second hand moving $1$ small division is $1$ second. Hours, minutes, and seconds are units for recording time.
->
+> 
 > **Definition 4.1.3** (Rates Between Hours/Minutes and Minutes/Seconds) <br>The hour hand going $1$ full turn is $12$ hours, the minute hand going $1$ full turn is $60$ minutes, and the second hand going $1$ full turn is $60$ seconds. $1$ hour $=60$ minutes, $1$ minute $=60$ seconds. In daily life, $30$ minutes is called half an hour, and $30$ seconds half a minute.
->
+> 
 > **Definition 4.1.4** (Reading Hours and Minutes) <br>To read the time on the clock, first see which hour the hour hand has passed for the hour, then see how many small divisions the minute hand has moved from $12$ for the minutes. When the hour hand points to $7$ and the minute hand to $12$, it is $7$ o'clock; for example $4$ hours $5$ minutes, $4$ hours $30$ minutes ($4$ thirty), $4$ hours $45$ minutes.
 
 ### Exercise 1

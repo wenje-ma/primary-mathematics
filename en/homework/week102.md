@@ -1,13 +1,13 @@
 # Assignment 102
 
 > **Definition 12.5.1** (Meaning of a Proportion) <br>An expression stating that two ratios are equal is called a proportion. The four numbers forming a proportion are called its terms; the two end terms are the outer terms, and the two middle terms are the inner terms. For example, in $2.4:1.6=60:40$, $2.4$ and $40$ are the outer terms, and $1.6$ and $60$ are the inner terms.
->
+> 
 > **Definition 12.5.2** (Basic Property of a Proportion and Solving Proportions) <br>In a proportion, the product of the two outer terms equals the product of the two inner terms; this is called the basic property of a proportion. If $a:b=c:d$, then $ad=bc$. Given any three terms of a proportion, finding the unknown term is called solving the proportion.
->
+> 
 > **Definition 12.5.3** (Direct Proportion) <br>Two related quantities: when one changes, the other changes along with it. If the ratio of each pair of corresponding values is constant, the two quantities are said to be directly proportional, and their relationship is called a direct proportion. In symbols, $\frac{y}{x}=k$ (constant). Its graph is a straight line through the origin.
->
+> 
 > **Definition 12.5.4** (Inverse Proportion) <br>Two related quantities: if the product of each pair of corresponding values is constant, the two quantities are said to be inversely proportional, and their relationship is called an inverse proportion. In symbols, $xy=k$ (constant). Its graph is a smooth curve.
->
+> 
 > **Definition 12.5.5** (Scale) <br>The ratio of the on-paper distance to the actual distance on a map is called its scale. On-paper distance $:$ actual distance $=$ scale. For convenience, the scale is usually written so that the first or last term is $1$.
 
 ### Exercise 65

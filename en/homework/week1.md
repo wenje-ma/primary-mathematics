@@ -1,13 +1,13 @@
 # Assignment 1
 
 > **Definition 1.1.1** (Cardinal Number) <br>A number can represent the count of a class of objects; for example, $1$ represents $1$ house, and $5$ represents $5$ ducks. How far you count is how many there are.
->
+> 
 > **Definition 1.1.2** (Same Amount, More, Fewer) <br>Compare two classes of objects by one-to-one correspondence: if both sides match up completely, it is called "the same amount"; if some are left over, that class is "more" and the other class is "fewer".
->
-> **Definition 1.1.3** (Equals Sign, Greater-Than Sign, Less-Than Sign) <br>Symbols expressing the size relation between two numbers: the equals sign "$=$" (read "equals"), the greater-than sign "$>$" (read "is greater than"), the less-than sign "$<$" (read "is less than"), with the opening facing the larger number.
->
+> 
+> **Definition 1.1.3** (Equals Sign, Greater-Than Sign, Less-Than Sign) <br>Symbols expressing the size relation between two numbers: the equals sign "$=$" (read "equals"), the greater-than sign "$> $" (read "is greater than"), the less-than sign "$< $" (read "is less than"), with the opening facing the larger number.
+> 
 > **Definition 1.1.4** (Cardinal Number and Ordinal Number) <br>"How many" tells the quantity, which is a cardinal number; "which position" tells the position in a line, which is an ordinal number. For example, when $5$ people line up, "there are $5$ people" is cardinal, and "standing $2$nd" is ordinal.
->
+> 
 > **Definition 1.1.5** (Decomposition and Composition of Numbers) <br>A number can be split into two numbers, and two numbers can also combine to form this number. For example, $5$ can be split into $1$ and $4$, $2$ and $3$, $3$ and $2$, $4$ and $1$; conversely, these pairs all combine to make $5$.
 
 ### Exercise 1
@@ -60,13 +60,13 @@ By **Definition 1.1.2** (Same Amount, More, Fewer), the roosters are fewer, so d
 
 ### Exercise 7
 
-(Lesson: Comparing Size, Practice, Problem 3) Fill in "$>$" "$<$" "$=$": $4>3$; $3\;\_\_\;4$; $3\;\_\_\;2$; $2\;\_\_\;3$.
+(Lesson: Comparing Size, Practice, Problem 3) Fill in "$> $" "$< $" "$=$": $4> 3$; $3\;\_\_\;4$; $3\;\_\_\;2$; $2\;\_\_\;3$.
 
 ### Solution to Exercise 7
 
 By **Definition 1.1.3** (Equals Sign, Greater-Than Sign, Less-Than Sign), the opening faces the larger number:
 
-$4>3$, $3<4$, $3>2$, $2<3$. $\blacksquare$
+$4> 3$, $3< 4$, $3> 2$, $2< 3$. $\blacksquare$
 
 ### Exercise 8
 
@@ -74,15 +74,15 @@ $4>3$, $3<4$, $3>2$, $2<3$. $\blacksquare$
 
 ### Solution to Exercise 8
 
-By **Definition 1.1.2** (Same Amount, More, Fewer), the rabbits and blocks are the same amount; the rabbits are more than the carrots (or the carrots are fewer than the rabbits). Write the comparison sentence according to the actual quantities in the picture; for example, if there are $3$ rabbits and $1$ carrot, then $3>1$. You can also compare the numbers of bears and chairs, etc. $\blacksquare$
+By **Definition 1.1.2** (Same Amount, More, Fewer), the rabbits and blocks are the same amount; the rabbits are more than the carrots (or the carrots are fewer than the rabbits). Write the comparison sentence according to the actual quantities in the picture; for example, if there are $3$ rabbits and $1$ carrot, then $3> 1$. You can also compare the numbers of bears and chairs, etc. $\blacksquare$
 
 ### Exercise 9
 
-(Lesson: Comparing Size, Practice, Problem 5) Fill in "$>$" "$<$" "$=$": $5>2$; $3\;\_\_\;5$; $4\;\_\_\;3$; $5\;\_\_\;5$; $4\;\_\_\;1$.
+(Lesson: Comparing Size, Practice, Problem 5) Fill in "$> $" "$< $" "$=$": $5> 2$; $3\;\_\_\;5$; $4\;\_\_\;3$; $5\;\_\_\;5$; $4\;\_\_\;1$.
 
 ### Solution to Exercise 9
 
-By **Definition 1.1.3** (Equals Sign, Greater-Than Sign, Less-Than Sign): $5>2$, $3<5$, $4>3$, $5=5$, $4>1$. $\blacksquare$
+By **Definition 1.1.3** (Equals Sign, Greater-Than Sign, Less-Than Sign): $5> 2$, $3< 5$, $4> 3$, $5=5$, $4> 1$. $\blacksquare$
 
 ### Exercise 10
 
@@ -90,7 +90,7 @@ By **Definition 1.1.3** (Equals Sign, Greater-Than Sign, Less-Than Sign): $5>2$,
 
 ### Solution to Exercise 10
 
-By **Definition 1.1.2** (Same Amount, More, Fewer), draw $4$ $\triangle$, draw more than $4$ $\circ$ (e.g. $5$), and draw fewer than $4$ $\diamond$ (e.g. $3$), corresponding to $4=4$, $4<5$, $4>3$. $\blacksquare$
+By **Definition 1.1.2** (Same Amount, More, Fewer), draw $4$ $\triangle$, draw more than $4$ $\circ$ (e.g. $5$), and draw fewer than $4$ $\diamond$ (e.g. $3$), corresponding to $4=4$, $4< 5$, $4> 3$. $\blacksquare$
 
 ### Exercise 11
 
@@ -98,7 +98,7 @@ By **Definition 1.1.2** (Same Amount, More, Fewer), draw $4$ $\triangle$, draw m
 
 ### Solution to Exercise 11
 
-$4>2$, $4<5$, $3>1$. $\blacksquare$
+$4> 2$, $4< 5$, $3> 1$. $\blacksquare$
 
 ### Exercise 12
 

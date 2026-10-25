@@ -1,10 +1,10 @@
 # Assignment 57
 
 > **Definition 7.9.1** (Review of Numbers and Operations) <br>Understanding numbers beyond ten thousand covers counting units and digit places, reading and writing, comparing sizes, rewriting and taking approximations; multiplying a multi-digit number by a two-digit number covers mental arithmetic, written calculation and the rules for how the product changes. Both reading and writing require first grouping the digits.
->
+> 
 > **Definition 7.9.2** (Review of Quantity Relationships) <br>Addition model: total $=$ parts $+$ parts. Multiplication model: total price $=$ unit price $\times$ quantity, distance $=$ speed $\times$ time.
->
-> **Definition 7.9.3** (Review of Figures and Statistics) <br>Lines: parallel and perpendicular; angles: acute angle $<$ right angle $<$ obtuse angle $<$ straight angle $<$ full angle; quadrilaterals: parallelogram (two pairs of opposite sides parallel), trapezoid (one pair of opposite sides parallel); data are more intuitive when shown with a bar chart.
+> 
+> **Definition 7.9.3** (Review of Figures and Statistics) <br>Lines: parallel and perpendicular; angles: acute angle $< $ right angle $< $ obtuse angle $< $ straight angle $< $ full angle; quadrilaterals: parallelogram (two pairs of opposite sides parallel), trapezoid (one pair of opposite sides parallel); data are more intuitive when shown with a bar chart.
 
 ### Exercise 219
 
@@ -68,7 +68,7 @@ By **Definition 7.1.6** (Rewriting Numbers): (1) $2718$ ten thousand vehicles, $
 
 ### Solution to Exercise 226
 
-By **Definition 7.9.1** (Review of Numbers and Operations): (1) a ten-digit number, the highest place is the ten-billion place, and $7$ is in the million place representing $7$ millions; (2) $40200<42000$, $70$ hundred million $>69$ hundred million, $125\times80=10000>430\times30=12900$? Actually $10000<12900$, $43\times300=12900=1250\times40=50000$? $43\times300=12900<1250\times40=50000$; (3) $50\times12=600$. $\blacksquare$
+By **Definition 7.9.1** (Review of Numbers and Operations): (1) a ten-digit number, the highest place is the ten-billion place, and $7$ is in the million place representing $7$ millions; (2) $40200< 42000$, $70$ hundred million $> 69$ hundred million, $125\times80=10000> 430\times30=12900$? Actually $10000< 12900$, $43\times300=12900=1250\times40=50000$? $43\times300=12900< 1250\times40=50000$; (3) $50\times12=600$. $\blacksquare$
 
 ### Exercise 227
 

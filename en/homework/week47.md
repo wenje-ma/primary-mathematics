@@ -1,9 +1,9 @@
 # Assignment 47
 
 > **Definition 6.7.1** (Understanding Decimals) <br>Numbers like $3.45$, $0.85$, $2.60$, $36.6$ are called decimals, and the "$.$" is called the decimal point. $1$ decimeter $=\frac{1}{10}$ meter $=0.1$ meter, $1$ centimeter $=\frac{1}{100}$ meter $=0.01$ meter; $1$ jiao $=0.1$ yuan, $1$ fen $=0.01$ yuan.
->
+> 
 > **Definition 6.7.2** (Comparing Decimals) <br>First compare the integer parts; the number with the larger integer part is larger. If the integer parts are equal, compare the decimal part digit by digit starting from the highest place.
->
+> 
 > **Definition 6.7.3** (Simple Decimal Addition and Subtraction) <br>When writing the vertical calculation, the decimal points must line up, that is, numbers in the same units must line up; then compute as with integer addition and subtraction, and the decimal point of the result must line up too.
 
 ### Exercise 186
@@ -36,7 +36,7 @@ By **Definition 6.7.1**, split $1$ meter evenly into $10$ parts, each small divi
 
 ### Solution to Exercise 189
 
-By **Definition 6.7.2** (Comparing Decimals): $0.4<0.6$; $2.5>1.8$. $\blacksquare$
+By **Definition 6.7.2** (Comparing Decimals): $0.4< 0.6$; $2.5> 1.8$. $\blacksquare$
 
 ### Exercise 190
 
@@ -44,7 +44,7 @@ By **Definition 6.7.2** (Comparing Decimals): $0.4<0.6$; $2.5>1.8$. $\blacksquar
 
 ### Solution to Exercise 190
 
-By **Definition 6.7.3**, (1) $13.2-1.5=11.7$ (yuan). (2) $15.8+3.8=19.6$ (yuan), $19.6<20$, enough. $\blacksquare$
+By **Definition 6.7.3**, (1) $13.2-1.5=11.7$ (yuan). (2) $15.8+3.8=19.6$ (yuan), $19.6< 20$, enough. $\blacksquare$
 
 ### Exercise 191
 
@@ -68,7 +68,7 @@ By **Definition 6.7.1**, write the yuan in the integer part, the jiao in the fir
 
 ### Solution to Exercise 193
 
-By **Definition 6.7.2**: $0.6<0.9$; $10>9.9$; $0.27$ m $=\frac{27}{100}$ m; $3.8<4.5$; $1.15<1.51$; $2$ dm $=0.2$ m $<\frac{7}{10}=0.7$ m. $\blacksquare$
+By **Definition 6.7.2**: $0.6< 0.9$; $10> 9.9$; $0.27$ m $=\frac{27}{100}$ m; $3.8< 4.5$; $1.15< 1.51$; $2$ dm $=0.2$ m $< \frac{7}{10}=0.7$ m. $\blacksquare$
 
 ### Exercise 194
 
@@ -76,7 +76,7 @@ By **Definition 6.7.2**: $0.6<0.9$; $10>9.9$; $0.27$ m $=\frac{27}{100}$ m; $3.8
 
 ### Solution to Exercise 194
 
-(1) $16.7<18$, not overloaded. (2) $16.7-6.8=9.9$ (tons). $\blacksquare$
+(1) $16.7< 18$, not overloaded. (2) $16.7-6.8=9.9$ (tons). $\blacksquare$
 
 ### Exercise 195
 
@@ -116,7 +116,7 @@ Integers: $20,3,100,7,4,35$; fractions: $\frac{10}{3}$; decimals: $0.9,4.20,18.5
 
 ### Solution to Exercise 199
 
-By **Definition 6.7.1**: $3$ yuan $5$ jiao $=3.5$ yuan, $5$ jiao $=0.5$ yuan, $4$ yuan $9$ jiao $9$ fen $=4.99$ yuan, $3$ yuan $4$ jiao $9$ fen $=3.49$ yuan. From smallest to largest: $0.5<3.49<3.5<4.99$. $\blacksquare$
+By **Definition 6.7.1**: $3$ yuan $5$ jiao $=3.5$ yuan, $5$ jiao $=0.5$ yuan, $4$ yuan $9$ jiao $9$ fen $=4.99$ yuan, $3$ yuan $4$ jiao $9$ fen $=3.49$ yuan. From smallest to largest: $0.5< 3.49< 3.5< 4.99$. $\blacksquare$
 
 ### Exercise 200
 
@@ -124,7 +124,7 @@ By **Definition 6.7.1**: $3$ yuan $5$ jiao $=3.5$ yuan, $5$ jiao $=0.5$ yuan, $4
 
 ### Solution to Exercise 200
 
-By **Definition 6.7.3**, (1) $12.5-8.4=4.1$ (yuan). (2) $8.4+12.5=20.9$ (yuan), $20.9>20$, not enough. (3) For example, 《Children's Literature》 is $10.8-8.4=2.4$ yuan more expensive than 《Selected Fairy Tales》; answers may vary. $\blacksquare$
+By **Definition 6.7.3**, (1) $12.5-8.4=4.1$ (yuan). (2) $8.4+12.5=20.9$ (yuan), $20.9> 20$, not enough. (3) For example, 《Children's Literature》 is $10.8-8.4=2.4$ yuan more expensive than 《Selected Fairy Tales》; answers may vary. $\blacksquare$
 
 ### Exercise 201
 

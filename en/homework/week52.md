@@ -1,11 +1,11 @@
 # Assignment 52
 
 > **Definition 7.4.1** (Mental Multiplication) <br>A two-digit number times a one-digit number can be split up, e.g. $16\times3=10\times3+6\times3=30+18=48$. For a hundreds-and-tens number times a one-digit number, first do it mentally as a two-digit times a one-digit number, then append one $0$ to the end of the product. Multiplying a number by $10$ appends one $0$ to the end.
->
+> 
 > **Definition 7.4.2** (Written Multiplication) <br>A three-digit number times a two-digit number: first use the ones digit of the two-digit number to multiply the three-digit number, aligning the last digit with the ones place; then use the tens digit of the two-digit number to multiply the three-digit number, aligning the last digit with the tens place; then add the two products.
->
+> 
 > **Definition 7.4.3** (How the Product Changes) <br>If one factor stays fixed and the other factor is multiplied by some number (or divided by it, except $0$), the product is also multiplied by that number (or divided by it).
->
+> 
 > **Definition 7.4.4** (Estimation in Multiplication) <br>According to what the problem needs, round the factors up or down to quickly judge the range of the result, then decide whether to compute exactly.
 
 ### Exercise 74
@@ -102,7 +102,7 @@ By **Definition 7.4.1** (Mental Multiplication): (1) $12\times30=360$ hawthorns;
 
 ### Solution to Exercise 85
 
-$10$ m $=1000$ cm, $90\times8=720$ cm, $1000>720$, enough. $\blacksquare$
+$10$ m $=1000$ cm, $90\times8=720$ cm, $1000> 720$, enough. $\blacksquare$
 
 ### Exercise 86
 
@@ -110,7 +110,7 @@ $10$ m $=1000$ cm, $90\times8=720$ cm, $1000>720$, enough. $\blacksquare$
 
 ### Solution to Exercise 86
 
-By **Definition 7.4.1** (Mental Multiplication): (1) $21\times3=63$ people; (2) $21\times4=84$ people, $84>80$, they fit. $\blacksquare$
+By **Definition 7.4.1** (Mental Multiplication): (1) $21\times3=63$ people; (2) $21\times4=84$ people, $84> 80$, they fit. $\blacksquare$
 
 ### Exercise 87
 
@@ -222,7 +222,7 @@ $\left(125+18\right)\times3=143\times3=429$ yuan. $\blacksquare$
 
 ### Solution to Exercise 100
 
-$5$ t $=5000$ kg, $350\times20=7000$ kg, $5000<7000$, not enough. $\blacksquare$
+$5$ t $=5000$ kg, $350\times20=7000$ kg, $5000< 7000$, not enough. $\blacksquare$
 
 ### Exercise 101
 
@@ -282,11 +282,11 @@ By **Definition 7.4.2** (Written Multiplication): $480\times50=24000$, $506\time
 
 ### Exercise 108
 
-(Lesson: Practice 9, Problem 3) Fill in $\bigcirc$ with $>$, $<$ or $=$: $120\times20\bigcirc12\times200$; $500\times10\bigcirc10\times550$; $16\times400\bigcirc210\times4$; $19\times300\bigcirc30\times180$.
+(Lesson: Practice 9, Problem 3) Fill in $\bigcirc$ with $> $, $< $ or $=$: $120\times20\bigcirc12\times200$; $500\times10\bigcirc10\times550$; $16\times400\bigcirc210\times4$; $19\times300\bigcirc30\times180$.
 
 ### Solution to Exercise 108
 
-By **Definition 7.4.3** (How the Product Changes): $120\times20=12\times200$; $500\times10=5000<10\times550=5500$; $16\times400=6400>210\times4=840$; $19\times300=5700>30\times180=5400$. $\blacksquare$
+By **Definition 7.4.3** (How the Product Changes): $120\times20=12\times200$; $500\times10=5000< 10\times550=5500$; $16\times400=6400> 210\times4=840$; $19\times300=5700> 30\times180=5400$. $\blacksquare$
 
 ### Exercise 109
 
@@ -334,7 +334,7 @@ Pattern: (some $3$s) times (some $3$s plus $4$) gives some $1$s followed by some
 
 ### Solution to Exercise 114
 
-Each bus actually carries $47$ teachers/students, $47\times19\approx50\times20=1000<1026$, not enough. Computing exactly, $47\times19=893<1026$, not enough. $\blacksquare$
+Each bus actually carries $47$ teachers/students, $47\times19\approx50\times20=1000< 1026$, not enough. Computing exactly, $47\times19=893< 1026$, not enough. $\blacksquare$
 
 ### Exercise 115
 
@@ -342,7 +342,7 @@ Each bus actually carries $47$ teachers/students, $47\times19\approx50\times20=1
 
 ### Solution to Exercise 115
 
-$105\times30=3150$ characters, $3150>3000$, he can finish. $\blacksquare$
+$105\times30=3150$ characters, $3150> 3000$, he can finish. $\blacksquare$
 
 ### Exercise 116
 
@@ -358,7 +358,7 @@ By **Definition 7.4.4** (Estimation in Multiplication), $19\times18\approx20\tim
 
 ### Solution to Exercise 117
 
-$293\times18\approx300\times20=6000$ kg $=6$ t; computing exactly, $293\times18=5274$ kg $<6000$ kg, it can carry them. $\blacksquare$
+$293\times18\approx300\times20=6000$ kg $=6$ t; computing exactly, $293\times18=5274$ kg $< 6000$ kg, it can carry them. $\blacksquare$
 
 ### Exercise 118
 
@@ -374,7 +374,7 @@ By **Definition 7.4.2** (Written Multiplication), $90\times201=18090$ minutes. $
 
 ### Solution to Exercise 119
 
-$192\times38\approx200\times40=8000$; computing exactly, $192\times38=7296<8000$, enough. $\blacksquare$
+$192\times38\approx200\times40=8000$; computing exactly, $192\times38=7296< 8000$, enough. $\blacksquare$
 
 ### Exercise 120
 
@@ -414,7 +414,7 @@ By **Definition 7.4.2** (Written Multiplication): (1) $124\times32=3968$ t; (2) 
 
 ### Solution to Exercise 124
 
-$108\times52=5616$ yuan, $5616>5000$, not enough. $\blacksquare$
+$108\times52=5616$ yuan, $5616> 5000$, not enough. $\blacksquare$
 
 ### Exercise 125
 
@@ -430,7 +430,7 @@ By **Definition 7.4.2** (Written Multiplication): (1) $1$ hour $=3600$ seconds, 
 
 ### Solution to Exercise 126
 
-Compute the total for $15$ units of each: $128\times15=1920$ yuan, leaving $1080$; $198\times15=2970$ yuan, leaving $30$; $108\times15=1620$ yuan, leaving $1380$; $210\times15=3150$ yuan $>3000$, not allowed. That gives $3$ options. $\blacksquare$
+Compute the total for $15$ units of each: $128\times15=1920$ yuan, leaving $1080$; $198\times15=2970$ yuan, leaving $30$; $108\times15=1620$ yuan, leaving $1380$; $210\times15=3150$ yuan $> 3000$, not allowed. That gives $3$ options. $\blacksquare$
 
 ### Exercise 127
 

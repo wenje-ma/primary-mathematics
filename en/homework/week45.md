@@ -1,9 +1,9 @@
 # Assignment 45
 
 > **Definition 6.5.1** (Collecting and Recording Data) <br>Collect data by raising hands, filling out questionnaires, and so on, recording by tally marks: each tally group has $5$ strokes and represents $5$. Then fill the results into a tally table; each person chooses only one item, with no repetition or omission.
->
+> 
 > **Definition 6.5.2** (Two-Way Tally Table) <br>Combine two (or more) related one-way tally tables into one table that can show several groups of data at once, making comparison and analysis easier.
->
+> 
 > **Definition 6.5.3** (Binning Data into Intervals) <br>When there is much data, sort it into several intervals by a certain standard; this is also classification by a standard. To solve a problem with statistics: first collect and organize the data, then analyze, and finally draw a conclusion.
 
 ### Exercise 162

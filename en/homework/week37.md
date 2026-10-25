@@ -1,7 +1,7 @@
 # Assignment 37
 
 > **Definition 5.6.1** (Numeral Codes) <br>There are many numeral codes in daily life; they are "identity numbers" that people assign to objects according to a certain standard based on actual needs, and each part of the digits stands for specific information. The citizen identity number consists of $18$ digits: an address code, a birth-date code, a sequence code and a check code; the $17$th digit is odd for male and even for female; the check code is computed from the first $17$ digits and may be $0\sim10$, written as the Roman numeral X when it is $10$.
->
+> 
 > **Definition 5.6.2** (Designing a Coding Scheme) <br>To design a coding scheme, first decide which information it must contain (such as grade, class, sequence number, and gender), then specify a fixed number of digits and an order for each part; when the coding range is expanded (whole class, whole school, whole city), the scheme must add corresponding digits so that there is no repetition.
 
 ### Exercise 174

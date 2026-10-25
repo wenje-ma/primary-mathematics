@@ -1,11 +1,11 @@
 ﻿# Assignment 6
 
 > **Definition 1.4.1** (10 Ones Make 1 Ten) <br>$10$ sticks are bundled into $1$ bunch, and $10$ ones make $1$ ten; in $10$, the "$1$" represents $1$ ten, and the "$0$" represents that there are no ones in the ones place.
->
+> 
 > **Definition 1.4.2** (Ones Place and Tens Place) <br>From the right, the first digit is the ones place, and the second is the tens place; how many tens there are, write that number in the tens place, and how many ones there are, write that number in the ones place.
->
+> 
 > **Definition 1.4.3** (Composition of Numbers 11–20) <br>$1$ ten plus some ones makes a ten-something; $2$ tens is $20$; $11\sim20$ are arranged in order, with the later number larger than the earlier.
->
+> 
 > **Definition 1.4.4** (Ten-Something Plus a Number and Corresponding Subtraction) <br>$10$ plus a number gives a ten-something; ten-something minus a number gives $10$; ten-something minus $10$ gives the number; addend + addend = sum, minuend $-$ subtrahend = difference.
 
 ### Exercise 139
@@ -242,11 +242,11 @@ By **Definition 1.2.7** (Continuous Addition), **Definition 1.2.8** (Continuous 
 
 ### Exercise 168
 
-(Lesson: Simple Addition and Subtraction, Practice, Problem 7) Fill "$>$" "$<$" or "$=$" in $\bigcirc$: $15\bigcirc16$; $9\bigcirc11$; $20\bigcirc19$; $10+7\bigcirc14$; $19-5\bigcirc14$; $16-6\bigcirc12$.
+(Lesson: Simple Addition and Subtraction, Practice, Problem 7) Fill "$> $" "$< $" or "$=$" in $\bigcirc$: $15\bigcirc16$; $9\bigcirc11$; $20\bigcirc19$; $10+7\bigcirc14$; $19-5\bigcirc14$; $16-6\bigcirc12$.
 
 ### Solution to Exercise 168
 
-By **Definition 1.4.3** (Composition of Numbers 11–20): $15<16$; $9<11$; $20>19$; $10+7=17>14$; $19-5=14$, so $=$; $16-6=10<12$. $\blacksquare$
+By **Definition 1.4.3** (Composition of Numbers 11–20): $15< 16$; $9< 11$; $20> 19$; $10+7=17> 14$; $19-5=14$, so $=$; $16-6=10< 12$. $\blacksquare$
 
 ### Exercise 169
 

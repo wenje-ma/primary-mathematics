@@ -1,9 +1,9 @@
 # Assignment 22
 
 > **Definition 3.6.1** (Body Ruler) <br>The hand-span, pace, arm-span, foot, finger, hand, and elbow are length units used in ancient times, also called "body rulers". When you have no ruler or it is inconvenient to use one, you can choose a suitable body ruler to measure length.
->
+> 
 > **Definition 3.6.2** (One Hand-span) <br>Spread your fingers wide; the distance from the tip of the thumb to the tip of the middle finger is $1$ hand-span.
->
+> 
 > **Definition 3.6.3** (One Arm-span) <br>Stretch both arms straight out sideways; the distance between the two middle fingertips is $1$ arm-span; the length of $1$ arm-span is about your height.
 
 ### Exercise 162

@@ -1,9 +1,9 @@
 # Assignment 32
 
 > **Definition 5.1.1** (Observing an Object from Different Directions) <br>Observing the same object from different directions (front, top, side), the shapes you see are often different. To judge from which position a picture was seen, catch the features of the face seen in that direction.
->
+> 
 > **Definition 5.1.2** (Inferring a Solid from a Seen Face) <br>Looking at a solid from one direction, you see only one of its faces. If a seen face is a square, the solid may be a cube, or may be another solid that has one square face.
->
+> 
 > **Definition 5.1.3** (The Net of a Cuboid) <br>Cutting a cuboid box open along its edges and laying it flat on the table gives the flat net of the cuboid. A cuboid has $6$ faces, and each two opposite faces have the same shape and size; cutting different edges gives nets of different shapes, and in the net every face is joined to the others along at least one edge.
 
 ### Exercise 1

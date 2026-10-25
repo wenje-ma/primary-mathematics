@@ -1,7 +1,7 @@
 # Assignment 65
 
 > **Definition 8.8.1** (Mean) <br>The quotient obtained by dividing the sum of a set of data by the number of data points is called the mean of the set. Mean $=$ total quantity $\div$ number of parts. The mean reflects the overall situation of a data set well.
->
+> 
 > **Definition 8.8.2** (Double Bar Chart) <br>A bar chart that uses two bars of different colors or shading to represent two sets of data is called a double bar chart. It clearly shows the amounts of the two data sets and makes comparison easy.
 
 ### Exercise 214

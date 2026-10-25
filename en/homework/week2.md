@@ -1,9 +1,9 @@
 # Assignment 2
 
 > **Definition 1.1.6** (Meaning of Addition) <br>Combining two parts together to find the total uses addition. The plus sign "$+$"; for example, $3+1=4$, read "$3$ plus $1$ equals $4$". When calculating, you may count on from the first number.
->
+> 
 > **Definition 1.1.7** (Meaning of Subtraction) <br>Removing one part from the total to find what remains uses subtraction. The minus sign "$-$"; for example, $4-1=3$, read "$4$ minus $1$ equals $3$". When calculating, you may count backward from the total.
->
+> 
 > **Definition 1.1.8** (Meaning and Operations of 0) <br>$0$ means "nothing at all"; it also represents the starting point on the number line. Adding $0$ to or subtracting $0$ from a number does not change it: $a+0=a$, $a-0=a$; subtracting a number from itself gives $0$: $a-a=0$.
 
 ### Exercise 23
@@ -192,8 +192,8 @@ According to the numbers of foxes and frogs in the picture, by **Definition 1.1.
 
 ### Exercise 46
 
-(Review and Organization, Practice, Problem 5) What can go in $\square$: $\square>3$; $\square<5$; $4>\square$; $2<\square$.
+(Review and Organization, Practice, Problem 5) What can go in $\square$: $\square> 3$; $\square< 5$; $4> \square$; $2< \square$.
 
 ### Solution to Exercise 46
 
-$\square>3$, can fill $4,5$; $\square<5$, can fill $0\sim4$; $4>\square$, can fill $0\sim3$; $2<\square$, can fill $3,4,5$. Answers are not unique. $\blacksquare$
+$\square> 3$, can fill $4,5$; $\square< 5$, can fill $0\sim4$; $4> \square$, can fill $0\sim3$; $2< \square$, can fill $3,4,5$. Answers are not unique. $\blacksquare$

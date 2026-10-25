@@ -1,9 +1,9 @@
 # Assignment 64
 
 > **Definition 8.7.1** (Axially Symmetric Figures) <br>If a figure can be folded along a straight line so that the parts on both sides of the line coincide completely, the figure is called an axially symmetric figure, and the line is called its axis of symmetry. In an axially symmetric figure, corresponding points are equidistant from the axis of symmetry.
->
+> 
 > **Definition 8.7.2** (Translation) <br>When an object or figure moves along a straight line while its own shape, size and direction remain unchanged, this phenomenon is called translation. The corresponding points move the same number of grid squares before and after translation.
->
+> 
 > **Definition 8.7.3** (Finding Area and Perimeter by Translation) <br>Translating the protruding parts of an irregular figure into the recessed parts transforms the figure into a rectangle or square, after which the area or perimeter can be computed.
 
 ### Exercise 198

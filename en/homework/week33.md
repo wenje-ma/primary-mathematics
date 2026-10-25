@@ -1,11 +1,11 @@
 # Assignment 33
 
 > **Definition 5.2.1** (Combined Expressions and Same-Level Order) <br>Merging two step-by-step expressions into one gives a combined expression. In an expression without parentheses, if there are only add/subtract or only multiply/divide, compute from left to right in order.
->
+> 
 > **Definition 5.2.2** (Multiply/Divide Before Add/Subtract) <br>In an expression without parentheses, if there are multiply/divide as well as add/subtract, first do the multiply/divide, then the add/subtract.
->
+> 
 > **Definition 5.2.3** (Parentheses) <br>If an expression has parentheses, first compute inside them. Parentheses can change the order of operations.
->
+> 
 > **Definition 5.2.4** (Solving Multi-Step Real Problems) <br>When solving a real problem needing several steps, usually break it into several related small problems, solving one at a time; you may draw a line-segment diagram to analyze the relations and write a combined expression.
 
 ### Exercise 11
@@ -90,11 +90,11 @@ $25+8\times4=25+32=57$ yuan. By **Definition 5.2.2** (Multiply/Divide Before Add
 
 ### Exercise 21
 
-(Lesson: Practice 2, Problem 7) Fill in "$>$" "$<$" or "$=$": $15+25\div5$ $\bigcirc$ $19$; $12+54\div6$ $\bigcirc$ $21-5+7$; $9\times7-53$ $\bigcirc$ $10$; $24\div8\times3$ $\bigcirc$ $32-24\div4$.
+(Lesson: Practice 2, Problem 7) Fill in "$> $" "$< $" or "$=$": $15+25\div5$ $\bigcirc$ $19$; $12+54\div6$ $\bigcirc$ $21-5+7$; $9\times7-53$ $\bigcirc$ $10$; $24\div8\times3$ $\bigcirc$ $32-24\div4$.
 
 ### Solution to Exercise 21
 
-Compute both sides: $15+25\div5=15+5=20>19$; $12+54\div6=12+9=21$, $21-5+7=23$, so $21<23$; $9\times7-53=63-53=10=10$; $24\div8\times3=9$, $32-24\div4=32-6=26$, so $9<26$. $\blacksquare$
+Compute both sides: $15+25\div5=15+5=20> 19$; $12+54\div6=12+9=21$, $21-5+7=23$, so $21< 23$; $9\times7-53=63-53=10=10$; $24\div8\times3=9$, $32-24\div4=32-6=26$, so $9< 26$. $\blacksquare$
 
 ### Exercise 22
 
@@ -154,11 +154,11 @@ $4\times5+4\times3=20+12=32$, $4\times\left(5+3\right)=4\times8=32$; $2\times6+5
 
 ### Exercise 29
 
-(Lesson: Practice 2, Problem 15, Thinking Question) Given $39+8\times5<100-\square\times7$, what can go in the $\square$?
+(Lesson: Practice 2, Problem 15, Thinking Question) Given $39+8\times5< 100-\square\times7$, what can go in the $\square$?
 
 ### Solution to Exercise 29
 
-Left side $39+8\times5=39+40=79$. Need $79<100-\square\times7$, i.e. $100-\square\times7>79$, $\square\times7<21$, $\square<3$. The $\square$ can take $0,1,2$. $\blacksquare$
+Left side $39+8\times5=39+40=79$. Need $79< 100-\square\times7$, i.e. $100-\square\times7> 79$, $\square\times7< 21$, $\square< 3$. The $\square$ can take $0,1,2$. $\blacksquare$
 
 ### Exercise 30
 

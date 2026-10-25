@@ -1,11 +1,11 @@
 # Assignment 35
 
 > **Definition 5.4.1** (Equals of Equals are Equal, and the Whole Equals the Sum of Its Parts) <br>The principle of Cao Chong weighing the elephant: lead the elephant onto the boat and draw a line on the gunwale; lead the elephant off and load stones onto the boat until it sinks to the drawn line; then the elephant's mass equals the total mass of the stones. The stones are weighed in several batches, and the total mass of the stones equals the sum of the masses weighed each time. Equals of equals are equal; the whole equals the sum of its parts.
->
+> 
 > **Definition 5.4.2** (The Gram and the Kilogram) <br>The gram (g) and the kilogram (kg) are common units for measuring the mass of objects. Grams are used for lighter items and kilograms for heavier ones. $1$ kilogram $=1000$ grams. In daily life the kilogram is also called the kilo.
->
+> 
 > **Definition 5.4.3** (The Ton) <br>The ton (t) is usually used to measure the mass of heavier or bulk goods. $1$ ton $=1000$ kilograms.
->
+> 
 > **Definition 5.4.4** (Weighing an Object by Using a Known Mass as a Standard) <br>When there is no scale, items of known mass (such as bags of salt each weighing $200$ grams) can be used as a standard, and the mass of other objects can be found by lifting to compare or by equal-mass substitution. In daily life there are also the units kilo, jin and liang: $1$ kilo $=1$ kilogram, $1$ jin $=500$ grams, $1$ kilo $=2$ jin, $1$ jin $=10$ liang.
 
 ### Exercise 89

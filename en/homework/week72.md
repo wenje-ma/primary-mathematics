@@ -1,9 +1,9 @@
 # Assignment 72
 
 > **Definition 9.4.1** (Axially Symmetric Figures) <br>If a figure folded along a line has the parts on both sides coincide exactly, it is an axially symmetric figure and the line is its axis of symmetry. On an axially symmetric figure, corresponding points are equidistant from the axis, and the segment joining corresponding points is perpendicular to the axis.
->
+> 
 > **Definition 9.4.2** (Translation) <br>After a figure is translated, its shape, size and direction are unchanged; corresponding points move in the same direction by equal distances. To draw the translated figure, first find the translated positions of key points, then connect them.
->
+> 
 > **Definition 9.4.3** (Rotation) <br>The turning of an object about a point or axis is rotation. During rotation the center stays fixed, and all corresponding points turn about the center in the same direction through the same angle, keeping the figure's shape and size unchanged.
 
 ### Exercise 93

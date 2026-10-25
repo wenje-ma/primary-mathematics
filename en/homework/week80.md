@@ -1,15 +1,15 @@
 # Assignment 80
 
 > **Definition 10.3.1** (Features of Cuboids and Cubes) <br>A cuboid has $6$ faces, $12$ edges, and $8$ vertices; opposite faces are identical and opposite edges are equal in length; the three edges meeting at a vertex are called its length, width, and height. A cube is a cuboid whose length, width, and height are all equal, with $6$ identical square faces.
->
+> 
 > **Definition 10.3.2** (Surface Area) <br>The total area of a cuboid's or cube's $6$ faces is its surface area. Cuboid surface area $S=\left(ab+ah+bh\right)\times2$; cube surface area $S=6a^2$.
->
+> 
 > **Definition 10.3.3** (Volume and Volume Units) <br>The amount of space an object occupies is its volume. Common volume units are the cubic centimeter ($\mathrm{cm^3}$), cubic decimeter ($\mathrm{dm^3}$), and cubic meter ($\mathrm{m^3}$).
->
+> 
 > **Definition 10.3.4** (Volume Formulas) <br>Cuboid volume $V=abh$; cube volume $V=a^3$; a cuboid (or cube)'s volume $V=Sh$ (base area times height).
->
+> 
 > **Definition 10.3.5** (Conversion Between Volume Units) <br>$1\,\mathrm{dm^3}=1000\,\mathrm{cm^3}$, $1\,\mathrm{m^3}=1000\,\mathrm{dm^3}$.
->
+> 
 > **Definition 10.3.6** (Capacity and Capacity Units) <br>The volume a container can hold is its capacity. Liquids are commonly measured in liters ($\mathrm{L}$) and milliliters ($\mathrm{mL}$); $1\,\mathrm{L}=1\,\mathrm{dm^3}$, $1\,\mathrm{mL}=1\,\mathrm{cm^3}$, $1\,\mathrm{L}=1000\,\mathrm{mL}$.
 
 ### Exercise 37
@@ -138,7 +138,7 @@ By **Definition 10.3.2** (Surface Area), in a cube net, faces with one gap in a 
 
 ### Solution to Exercise 52
 
-By **Definition 10.3.1** (Features of Cuboids and Cubes) and **Definition 10.3.2** (Surface Area): (1) $6\times46^2=6\times2116=12696\,\mathrm{cm^2}$; (2) total edge length $=46\times12=552\,\mathrm{cm}=5.52\,\mathrm{m}$, and $5.52>4.5$, so the tape is not enough. $\blacksquare$
+By **Definition 10.3.1** (Features of Cuboids and Cubes) and **Definition 10.3.2** (Surface Area): (1) $6\times46^2=6\times2116=12696\,\mathrm{cm^2}$; (2) total edge length $=46\times12=552\,\mathrm{cm}=5.52\,\mathrm{m}$, and $5.52> 4.5$, so the tape is not enough. $\blacksquare$
 
 ### Exercise 53
 
@@ -290,7 +290,7 @@ By **Definition 10.3.5** (Conversion Between Volume Units) and area conversions:
 
 ### Solution to Exercise 71
 
-By **Definition 10.3.4** (Volume Formulas), $11.76\,\mathrm{dm^3}=11760\,\mathrm{cm^3}$; the box height $=11760\div\left(28\times20\right)=21\,\mathrm{cm}$. Inside, length $28>25$, width $20>16$, height $21>18$; all three directions fit, so yes it holds. $\blacksquare$
+By **Definition 10.3.4** (Volume Formulas), $11.76\,\mathrm{dm^3}=11760\,\mathrm{cm^3}$; the box height $=11760\div\left(28\times20\right)=21\,\mathrm{cm}$. Inside, length $28> 25$, width $20> 16$, height $21> 18$; all three directions fit, so yes it holds. $\blacksquare$
 
 ### Exercise 72
 

@@ -1,11 +1,11 @@
 # Assignment 40
 
 > **Definition 5.9.1** (Review of Numbers and Operations) <br>Multiplying a multi-digit number by a one-digit number can all be turned into table multiplication: in mental math, split the number into thousands, hundreds, tens and ones, multiply and then add; in written calculation, multiply from the ones place in turn, carrying several tens. Mixed operations: operations of the same level are done from left to right, multiplication and division before addition and subtraction, and parentheses are computed first. Fractions can express the relation between a part and the whole; for fractions with the same denominator, keep the denominator unchanged and add or subtract the numerators.
->
+> 
 > **Definition 5.9.2** (Review of Quantitative Relations and Problem Solving) <br>To solve multi-step problems, first find the quantitative relations; you may draw a line-segment diagram to analyze and write step-by-step or a combined expression; choose estimation or exact calculation as needed. If the money is enough when the number of people is over-estimated, then in reality it is certainly enough.
->
-> **Definition 5.9.3** (Review of Common Measures and Figures) <br>Length units: millimeter, centimeter, decimeter, meter, kilometer (successive rates $10$, $10$, $10$, $1000$); mass units: gram, kilogram, ton (all with rate $1000$). Lines include line segments, rays and straight lines; angles include acute, right and obtuse angles (acute $<$ right $<$ obtuse). Viewing an object from different directions, the shape seen is often different.
->
+> 
+> **Definition 5.9.3** (Review of Common Measures and Figures) <br>Length units: millimeter, centimeter, decimeter, meter, kilometer (successive rates $10$, $10$, $10$, $1000$); mass units: gram, kilogram, ton (all with rate $1000$). Lines include line segments, rays and straight lines; angles include acute, right and obtuse angles (acute $< $ right $< $ obtuse). Viewing an object from different directions, the shape seen is often different.
+> 
 > **Definition 5.9.4** (Matching Problems) <br>If doing a task takes two steps and each step has several choices, the total is found by multiplication; for example, $2$ tops and $3$ bottoms give $2\times3=6$ outfits. If doing a task falls into two categories, the total is found by addition; for example, $2$ flights and $3$ high-speed trains give $2+3=5$ choices.
 
 ### Exercise 269
@@ -14,7 +14,7 @@
 
 ### Solution to Exercise 269
 
-(1) Flight $900$ kilometers, takeoff mass $72$ tons, fuselage $39$ meters. (2) $1908+690=2598$ kilometers, $2598-2543=55$ kilometers. (3) $164<200$, $200\times5=1000$; actually $164\times5=820<1000$, so it cannot. (4) $745\times4\approx2980$ yuan. $\blacksquare$
+(1) Flight $900$ kilometers, takeoff mass $72$ tons, fuselage $39$ meters. (2) $1908+690=2598$ kilometers, $2598-2543=55$ kilometers. (3) $164< 200$, $200\times5=1000$; actually $164\times5=820< 1000$, so it cannot. (4) $745\times4\approx2980$ yuan. $\blacksquare$
 
 ### Exercise 270
 
@@ -30,7 +30,7 @@ By **Definition 5.7.3**, first count the existing angles and right angles; then 
 
 ### Solution to Exercise 271
 
-(1) $\frac{1}{9}<\frac{1}{8}<\frac{1}{7}<\frac{1}{6}<\frac{1}{5}<\frac{1}{4}<\frac{1}{3}<\frac{1}{2}$. (2) In $1$ there are $2$ of $\frac{1}{2}$, $3$ of $\frac{1}{3}$, $\cdots$, $9$ of $\frac{1}{9}$. (3) For example, $\frac{1}{2}+\frac{1}{2}=1$, $\frac{1}{3}+\frac{1}{3}+\frac{1}{3}=1$, $\frac{1}{4}+\frac{1}{4}+\frac{1}{4}+\frac{1}{4}=1$. (4) Answers may vary. $\blacksquare$
+(1) $\frac{1}{9}< \frac{1}{8}< \frac{1}{7}< \frac{1}{6}< \frac{1}{5}< \frac{1}{4}< \frac{1}{3}< \frac{1}{2}$. (2) In $1$ there are $2$ of $\frac{1}{2}$, $3$ of $\frac{1}{3}$, $\cdots$, $9$ of $\frac{1}{9}$. (3) For example, $\frac{1}{2}+\frac{1}{2}=1$, $\frac{1}{3}+\frac{1}{3}+\frac{1}{3}=1$, $\frac{1}{4}+\frac{1}{4}+\frac{1}{4}+\frac{1}{4}=1$. (4) Answers may vary. $\blacksquare$
 
 ### Exercise 272
 
@@ -78,7 +78,7 @@ $42\times6=252$; $192\times3=576$; $302\times8=2416$; $1700\times3=5100$. $\blac
 
 ### Solution to Exercise 277
 
-(1) Teacher Li's home is in the middle: school $4000$ meters, supermarket $2500$ meters, bookstore $2000$ meters, so the bookstore to the supermarket is $2500-2000=500$ meters (according to the positions in the figure). (2) $220\times20=4400$ meters $>4000$ meters, so he can arrive. $\blacksquare$
+(1) Teacher Li's home is in the middle: school $4000$ meters, supermarket $2500$ meters, bookstore $2000$ meters, so the bookstore to the supermarket is $2500-2000=500$ meters (according to the positions in the figure). (2) $220\times20=4400$ meters $> 4000$ meters, so he can arrive. $\blacksquare$
 
 ### Exercise 278
 
@@ -110,7 +110,7 @@ Xiaohong: $160-8=152$; Xiaoqiang jumped $180-152=28$ more than Xiaohong. $\black
 
 ### Solution to Exercise 281
 
-$\left(4+3\right)\times8=56$, and $56>50$, so they can finish. $\blacksquare$
+$\left(4+3\right)\times8=56$, and $56> 50$, so they can finish. $\blacksquare$
 
 ### Exercise 282
 
@@ -158,7 +158,7 @@ One pineapple is $6\div3=2$ kilograms, one apple $2\div3$? According to the figu
 
 ### Solution to Exercise 287
 
-There are $4$ people, so a round trip is $4\times2=8$ tickets; $245\times8=1960$ yuan $<2000$ yuan, so it is enough. $\blacksquare$
+There are $4$ people, so a round trip is $4\times2=8$ tickets; $245\times8=1960$ yuan $< 2000$ yuan, so it is enough. $\blacksquare$
 
 ### Exercise 288
 

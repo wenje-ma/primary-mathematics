@@ -1,9 +1,9 @@
 # Assignment 53
 
 > **Definition 7.5.1** (Addition Model) <br>To combine several parts to find the total, use addition: the total $=$ the part $+$ the part. Given the total and one part, use subtraction to find the other part: the part $=$ the total $-$ the part.
->
+> 
 > **Definition 7.5.2** (Unit Price, Quantity, Total Price) <br>The price of each item is called the unit price; how many are bought is called the quantity; the total amount spent is called the total price. Total price $=$ unit price $\times$ quantity; unit price $=$ total price $\div$ quantity; quantity $=$ total price $\div$ unit price.
->
+> 
 > **Definition 7.5.3** (Speed, Time, Distance) <br>The distance traveled per hour (or per minute, etc.) is called the speed; the total length of the road traveled is called the distance; how many hours (or minutes, etc.) it has traveled is called the time. Distance $=$ speed $\times$ time; speed $=$ distance $\div$ time; time $=$ distance $\div$ speed.
 
 ### Exercise 130
@@ -92,7 +92,7 @@ By **Definition 7.5.2** (Unit Price, Quantity, Total Price), use total price $=$
 
 ### Solution to Exercise 140
 
-All Combo 1: $21\times3=63>60$, not allowed; all Combo 2: $18\times3=54\le60$, allowed; $2$ of Combo 1 and $1$ of Combo 2: $42+18=60$, allowed; $1$ of Combo 1 and $2$ of Combo 2: $21+36=57$, allowed. There are $3$ ways in total. $\blacksquare$
+All Combo 1: $21\times3=63> 60$, not allowed; all Combo 2: $18\times3=54\le60$, allowed; $2$ of Combo 1 and $1$ of Combo 2: $42+18=60$, allowed; $1$ of Combo 1 and $2$ of Combo 2: $21+36=57$, allowed. There are $3$ ways in total. $\blacksquare$
 
 ### Exercise 141
 
@@ -172,7 +172,7 @@ By **Definition 7.5.3** (Speed, Time, Distance), the time is $=2$ hours, and the
 
 ### Solution to Exercise 150
 
-By **Definition 7.5.3** (Speed, Time, Distance), Xiao Dong's speed is $=400\div5=80$ meters/minute; $80>72$, so Xiao Dong is faster. $\blacksquare$
+By **Definition 7.5.3** (Speed, Time, Distance), Xiao Dong's speed is $=400\div5=80$ meters/minute; $80> 72$, so Xiao Dong is faster. $\blacksquare$
 
 ### Exercise 151
 
@@ -196,7 +196,7 @@ By **Definition 7.5.3** (Speed, Time, Distance), she has traveled $305-20=285$ k
 
 ### Solution to Exercise 153
 
-The distance from Service Area B to City B is $=500-115-117=268$ km; $95\times3=285>268$, so it can be reached. $\blacksquare$
+The distance from Service Area B to City B is $=500-115-117=268$ km; $95\times3=285> 268$, so it can be reached. $\blacksquare$
 
 ### Exercise 154
 

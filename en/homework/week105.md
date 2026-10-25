@@ -1,11 +1,11 @@
 # Assignment 105
 
 > **Definition 12.8.1** (Classification and Meaning of Numbers) <br>Integers include positive integers, $0$, and negative integers; natural numbers are the positive integers and $0$. Fractions include terminating decimals and infinite repeating decimals. $0$ is neither positive nor negative. Dividing the unit $1$ equally into a number of parts, a number representing one or several such parts is called a fraction; a number expressing what percent one number is of another is called a percentage.
->
+> 
 > **Definition 12.8.2** (Laws of Operation) <br>Commutative law of addition $a+b=b+a$; associative law of addition $\left(a+b\right)+c=a+\left(b+c\right)$; commutative law of multiplication $ab=ba$; associative law of multiplication $\left(ab\right)c=a\left(bc\right)$; distributive law $\left(a+b\right)c=ac+bc$. Using these laws simplifies computation.
->
+> 
 > **Definition 12.8.3** (Equations) <br>An equality containing an unknown is called an equation. Adding or subtracting the same number to both sides keeps the two sides equal; multiplying both sides by the same number, or dividing by the same number not equal to $0$, keeps the two sides equal.
->
+> 
 > **Definition 12.8.4** (Common Perimeter, Area, and Volume Formulas) <br>Rectangle $C=2\left(a+b\right), S=ab$; square $C=4a, S=a^{2}$; parallelogram $S=ah$; triangle $S=\frac{1}{2}ah$; trapezoid $S=\frac{1}{2}\left(a+b\right)h$; circle $C=2\pi r, S=\pi r^{2}$; cuboid $V=abh$; cube $V=a^{3}$; cylinder $V=Sh$; cone $V=\frac{1}{3}Sh$.
 
 ### Exercise 105
@@ -142,7 +142,7 @@ By **Definition 12.5.5** (Scale), since the scale is fixed on one map, the on-pa
 
 ### Solution to Exercise 121
 
-For a triangle, the sum of any two sides must exceed the third. Since $3+4>5$, the $3, 4, 5$ sides form a triangle. Since $3+5<8$ and $4+5<8$, the other combinations cannot. Only the $3\,\mathrm{cm}, 4\,\mathrm{cm}, 5\,\mathrm{cm}$ sticks form a triangle. $\blacksquare$
+For a triangle, the sum of any two sides must exceed the third. Since $3+4> 5$, the $3, 4, 5$ sides form a triangle. Since $3+5< 8$ and $4+5< 8$, the other combinations cannot. Only the $3\,\mathrm{cm}, 4\,\mathrm{cm}, 5\,\mathrm{cm}$ sticks form a triangle. $\blacksquare$
 
 ### Exercise 122
 

@@ -1,13 +1,13 @@
 # Assignment 51
 
 > **Definition 7.3.1** (Angles Revisited) <br>An angle can be seen as the figure formed by a ray rotating about its endpoint from one position to another. Rotating half a turn forms a straight angle, rotating a full turn forms a full angle, and rotating a quarter turn forms a right angle.
->
-> **Definition 7.3.2** (Classification of Angles) <br>Acute angle: $0^{\circ}<$ acute angle $<90^{\circ}$; right angle $=90^{\circ}$; obtuse angle: $90^{\circ}<$ obtuse angle $<180^{\circ}$; straight angle $=180^{\circ}$; full angle $=360^{\circ}$. $1$ full angle $=2$ straight angles $=4$ right angles.
->
+> 
+> **Definition 7.3.2** (Classification of Angles) <br>Acute angle: $0^{\circ}< $ acute angle $< 90^{\circ}$; right angle $=90^{\circ}$; obtuse angle: $90^{\circ}< $ obtuse angle $< 180^{\circ}$; straight angle $=180^{\circ}$; full angle $=360^{\circ}$. $1$ full angle $=2$ straight angles $=4$ right angles.
+> 
 > **Definition 7.3.3** (The Unit for Measuring Angles) <br>Divide a circle evenly into $360$ parts; the angle facing $1$ of these parts is taken as the unit for measuring angles, and its size is $1$ degree, written $1^{\circ}$. A protractor is made by dividing a semicircle into $180$ equal parts.
->
+> 
 > **Definition 7.3.4** (How to Measure an Angle) <br>Match the center of the protractor with the vertex of the angle, match the $0^{\circ}$ graduation line with one side of the angle, and the graduation on the protractor opposite the other side is the degree measure of this angle.
->
+> 
 > **Definition 7.3.5** (How to Draw an Angle) <br>First draw a ray, matching the protractor center with the ray's endpoint and the $0^{\circ}$ graduation line with the ray; mark a point at the target graduation; taking the ray's endpoint as endpoint, draw another ray through the point just marked.
 
 (Unit illustration: a set of angle-classification diagrams, showing in order an acute angle (opening smaller than a right angle), a right angle (two sides perpendicular), an obtuse angle (opening larger than a right angle but smaller than a straight angle), a straight angle (two sides forming a straight line), and a full angle (one side rotating a full turn around the endpoint to coincide with the other side).)
@@ -154,7 +154,7 @@ By **Definition 7.3.5** (How to Draw an Angle) draw the angles, and by **Definit
 
 ### Solution to Exercise 67
 
-By **Definition 7.3.2** (Classification of Angles): (1) Correct; a straight angle $180^{\circ}$ minus an acute angle (less than $90^{\circ}$) is greater than $90^{\circ}$ and less than $180^{\circ}$, so it is obtuse. (2) Wrong; $1$ full angle $=4$ right angles. (3) Wrong; for example $30^{\circ}+40^{\circ}=70^{\circ}<90^{\circ}$. (4) Correct; an acute angle plus a right angle is greater than $90^{\circ}$ and less than $180^{\circ}$, so it is obtuse. $\blacksquare$
+By **Definition 7.3.2** (Classification of Angles): (1) Correct; a straight angle $180^{\circ}$ minus an acute angle (less than $90^{\circ}$) is greater than $90^{\circ}$ and less than $180^{\circ}$, so it is obtuse. (2) Wrong; $1$ full angle $=4$ right angles. (3) Wrong; for example $30^{\circ}+40^{\circ}=70^{\circ}< 90^{\circ}$. (4) Correct; an acute angle plus a right angle is greater than $90^{\circ}$ and less than $180^{\circ}$, so it is obtuse. $\blacksquare$
 
 ### Exercise 68
 

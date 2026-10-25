@@ -1,9 +1,9 @@
 # Assignment 46
 
 > **Definition 6.6.1** (Year, Month, Day) <br>A year has $12$ months. A month with $31$ days is called a long month ($1,3,5,7,8,10,12$ months), a month with $30$ days is called a short month ($4,6,9,11$ months), and month $2$ is neither a long nor a short month. The time for the Earth to rotate once is $1$ day.
->
+> 
 > **Definition 6.6.2** (Common Year and Leap Year) <br>A year in which month $2$ has $28$ days is a common year, and one with $29$ days is a leap year. A Gregorian year that is a multiple of $4$ is usually a leap year; when the year is a multiple of $100$, it must also be a multiple of $400$ to be a leap year (e.g. $1900$ is not a leap year, $2000$ is a leap year).
->
+> 
 > **Definition 6.6.3** (The 24-Hour Clock) <br>$1$ day has $24$ hours; over a day the hour hand turns $2$ full circles. The timekeeping that runs from $0$ o'clock to $24$ o'clock is called the $24$-hour clock; for afternoon and evening times, add $12$ to the ordinary-clock time.
 
 ### Exercise 178

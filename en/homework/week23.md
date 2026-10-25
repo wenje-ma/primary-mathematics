@@ -1,15 +1,15 @@
 # Assignment 23
 
 > **Definition 3.7.1** (Multiplication Rhymes of 7) <br>one seven is seven, two seven fourteen, three seven twenty-one, four seven twenty-eight, five seven thirty-five, six seven forty-two, seven seven forty-nine. The products of two neighboring rhymes differ by $7$; one rhyme usually lets you compute two multiplication expressions.
->
+> 
 > **Definition 3.7.2** (Multiplication Rhymes of 8) <br>one eight is eight, two eight sixteen, three eight twenty-four, four eight thirty-two, five eight forty, six eight forty-eight, seven eight fifty-six, eight eight sixty-four. The products of two neighboring rhymes differ by $8$.
->
+> 
 > **Definition 3.7.3** (Multiplication Rhymes of 9) <br>one nine is nine, two nine eighteen, three nine twenty-seven, four nine thirty-six, five nine forty-five, six nine fifty-four, seven nine sixty-three, eight nine seventy-two, nine nine eighty-one. How many nines is how many tens minus that many, for example $9\times5$ is $50-5=45$; the sum of the tens digit and the ones digit of the product is always $9$.
->
+> 
 > **Definition 3.7.4** (Finding the Quotient with the Rhymes of 7~9) <br>When computing division with divisor $7,8,9$, think "what times the divisor gives the dividend", and the missing factor in that rhyme is the quotient. For example $56\div8$, think "seven eight fifty-six", and the quotient is $7$.
->
+> 
 > **Definition 3.7.5** (Two-Step Multiplication-Division Problems) <br>First use multiplication to find the total, then use division to find the amount per share or the number of shares; the result of the first step is the given condition for the second, and neither step can be omitted.
->
+> 
 > **Definition 3.7.6** (The Multiplication Rhyme Table) <br>The little nine-nine rhyme table has $45$ rhymes in total, arranged in a triangle, from "one one is one" to "nine nine eighty-one"; apart from the rhymes whose two factors are equal, each rhyme lets you compute two multiplication expressions and two division expressions.
 
 ### Exercise 172
@@ -378,7 +378,7 @@ Dividing into $2$: fold along the center line to get $2$ identical rectangles; i
 
 ### Solution to Exercise 217
 
-$54\div9=6$, $24-6=18$, $36\div4=9$, $7\times7=49$, $63\div9=7$, $8\times3=24$, $9\times8=72$. Smallest to largest: $54\div9<63\div9<36\div4<24-6<8\times3<7\times7<9\times8$. $\blacksquare$
+$54\div9=6$, $24-6=18$, $36\div4=9$, $7\times7=49$, $63\div9=7$, $8\times3=24$, $9\times8=72$. Smallest to largest: $54\div9< 63\div9< 36\div4< 24-6< 8\times3< 7\times7< 9\times8$. $\blacksquare$
 
 ### Exercise 218
 

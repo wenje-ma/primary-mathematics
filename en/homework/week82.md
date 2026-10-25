@@ -1,19 +1,19 @@
 # Assignment 82
 
 > **Definition 10.5.1** (Meaning of Fractions) <br>An object, a unit of measure, or a collection of objects can be regarded as a whole. Dividing this whole equally into several parts, one or several of those parts can be represented by a fraction. A whole can be represented by the natural number $1$, usually called the unit "$1$".
->
+> 
 > **Definition 10.5.2** (Fraction Unit) <br>Dividing the unit "$1$" equally into several parts, the number representing one part is the fraction unit. Whatever the denominator of a fraction, its fraction unit is that fraction over one.
->
+> 
 > **Definition 10.5.3** (Fractions and Division) <br>dividend$\div$divisor$=\frac{\text{被除数}}{\text{除数}}$, i.e. $a\div b=\frac{a}{b}$ ($b\ne0$). To find what fraction one number is of another, use division.
->
+> 
 > **Definition 10.5.4** (Proper and Improper Fractions) <br>A fraction whose numerator is smaller than its denominator is a proper fraction, which is less than $1$; a fraction whose numerator is larger than or equal to its denominator is an improper fraction, which is greater than $1$ or equal to $1$. A number made from an integer and a proper fraction is a mixed number.
->
+> 
 > **Definition 10.5.5** (Basic Property of Fractions) <br>Multiplying or dividing both numerator and denominator by the same number (except $0$) does not change the fraction's value.
->
+> 
 > **Definition 10.5.6** (Greatest Common Factor and Reducing) <br>Factors shared by several numbers are their common factors, the largest of which is the greatest common factor. Rewriting a fraction as an equal one with smaller numerator and denominator is reducing; reduce until the fraction is in lowest terms (numerator and denominator sharing only factor $1$).
->
+> 
 > **Definition 10.5.7** (Least Common Multiple and Common Denominators) <br>Multiples shared by several numbers are their common multiples, the smallest of which is the least common multiple. Rewriting fractions with unlike denominators into equal fractions with a common denominator is finding a common denominator.
->
+> 
 > **Definition 10.5.8** (Converting Fractions and Decimals) <br>A decimal represents tenths, hundredths, or thousandths and can be written directly as a fraction over $10,100,1000,\cdots$ and then simplified; to turn a fraction into a decimal, divide the numerator by the denominator, rounding when it does not divide evenly.
 
 ### Exercise 96
@@ -150,7 +150,7 @@ By **Definition 10.5.7** (Least Common Multiple and Common Denominators), the ti
 
 ### Solution to Exercise 112
 
-By **Definition 10.5.7** (Least Common Multiple and Common Denominators): same denominators, compare numerators, $\frac{3}{5}<\frac{4}{5}$; same numerators, compare denominators, $\frac{5}{6}>\frac{5}{8}$; common denominator $\frac{3}{4}=\frac{9}{12}$, $\frac{5}{6}=\frac{10}{12}$, so $\frac{3}{4}<\frac{5}{6}$. $\blacksquare$
+By **Definition 10.5.7** (Least Common Multiple and Common Denominators): same denominators, compare numerators, $\frac{3}{5}< \frac{4}{5}$; same numerators, compare denominators, $\frac{5}{6}> \frac{5}{8}$; common denominator $\frac{3}{4}=\frac{9}{12}$, $\frac{5}{6}=\frac{10}{12}$, so $\frac{3}{4}< \frac{5}{6}$. $\blacksquare$
 
 ### Exercise 113
 
@@ -158,7 +158,7 @@ By **Definition 10.5.7** (Least Common Multiple and Common Denominators): same d
 
 ### Solution to Exercise 113
 
-By **Definition 10.5.7** (Least Common Multiple and Common Denominators): $\frac{3}{8}<\frac{5}{8}$; $\frac{7}{9}>\frac{5}{9}$; $\frac{2}{5}>\frac{2}{7}$; common denominator $\frac{11}{12}=\frac{44}{48}$, $\frac{13}{16}=\frac{39}{48}$, so $\frac{11}{12}>\frac{13}{16}$. $\blacksquare$
+By **Definition 10.5.7** (Least Common Multiple and Common Denominators): $\frac{3}{8}< \frac{5}{8}$; $\frac{7}{9}> \frac{5}{9}$; $\frac{2}{5}> \frac{2}{7}$; common denominator $\frac{11}{12}=\frac{44}{48}$, $\frac{13}{16}=\frac{39}{48}$, so $\frac{11}{12}> \frac{13}{16}$. $\blacksquare$
 
 ### Exercise 114
 
@@ -174,7 +174,7 @@ By **Definition 10.5.8** (Converting Fractions and Decimals): $0.7=\frac{7}{10}$
 
 ### Solution to Exercise 115
 
-By **Definition 10.5.8** (Converting Fractions and Decimals), $\frac{5}{6}\approx0.83$, and $0.9>0.83$, so Aunt Li types faster. $\blacksquare$
+By **Definition 10.5.8** (Converting Fractions and Decimals), $\frac{5}{6}\approx0.83$, and $0.9> 0.83$, so Aunt Li types faster. $\blacksquare$
 
 ### Exercise 116
 

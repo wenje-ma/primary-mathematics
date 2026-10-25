@@ -1,11 +1,11 @@
 ﻿# Assignment 43
 
 > **Definition 6.3.1** (Polygons) <br>A closed figure bounded by line segments is a polygon; it has as many angles as it has sides. A triangle has $3$ sides, a quadrilateral $4$ sides, a pentagon $5$ sides, a hexagon $6$ sides. A polygon whose sides are all equal is called a regular polygon.
->
+> 
 > **Definition 6.3.2** (Features of Rectangles and Squares) <br>A rectangle has equal opposite sides and $4$ right angles; a square has $4$ equal sides and $4$ right angles. Folding the largest square out of a rectangle, the side length of the square is exactly the width of the rectangle.
->
+> 
 > **Definition 6.3.3** (Perimeter) <br>The length around a closed figure is its perimeter. For a figure bounded by line segments, adding up the lengths of all its sides gives the perimeter.
->
+> 
 > **Definition 6.3.4** (Perimeters of Rectangles and Squares) <br>The perimeter of a rectangle is $=$(length$+$width)$\times2$; the perimeter of a square is $=$ side length$\times4$.
 
 ### Exercise 98

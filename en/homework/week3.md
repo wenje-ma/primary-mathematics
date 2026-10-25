@@ -1,11 +1,11 @@
 ﻿# Assignment 3
 
 > **Definition 1.2.1** (Understanding 6–9) <br>When counting, after $5$ comes $6$, and continuing gives $7,8,9$; represent each number with sticks, a counter, or pictures; know how to read and write them, and arrange them in order from smallest to largest.
->
-> **Definition 1.2.2** (Comparing Size, Which Position) <br>In numerical order, the later number is larger than the earlier one; for example, $6>5$, $7>6$, $8>7$, $9>8$; "which position" tells the order (ordinal number), which is different from "how many" (cardinal number).
->
+> 
+> **Definition 1.2.2** (Comparing Size, Which Position) <br>In numerical order, the later number is larger than the earlier one; for example, $6> 5$, $7> 6$, $8> 7$, $9> 8$; "which position" tells the order (ordinal number), which is different from "how many" (cardinal number).
+> 
 > **Definition 1.2.3** (Decomposition and Composition) <br>A number can be split into two numbers, and two numbers can combine to form this number; split them in order and write them in pairs, neither repeating nor omitting. For example, $6=1+5=2+4=3+3$.
->
+> 
 > **Definition 1.2.4** (Four Sentences from One Picture) <br>From one picture one can write two addition sentences and two subtraction sentences; for example, $5+1=6$, $1+5=6$, $6-1=5$, $6-5=1$, all expressing the relationship among the three parts in the picture.
 
 ### Exercise 47
@@ -134,7 +134,7 @@ By **Definition 1.2.3** (Decomposition and Composition), find the two cards summ
 
 ### Solution to Exercise 62
 
-By **Definition 1.2.2** (Comparing Size, Which Position): $6<7$, $8>6$, $7<9$, $8<9$. $\blacksquare$
+By **Definition 1.2.2** (Comparing Size, Which Position): $6< 7$, $8> 6$, $7< 9$, $8< 9$. $\blacksquare$
 
 ### Exercise 63
 

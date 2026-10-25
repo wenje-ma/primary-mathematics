@@ -1,9 +1,9 @@
 # 作业 91
 
 > **定义 11.3.1** (倒数) <br>乘积是 $1$ 的两个数互为倒数. 求一个分数的倒数, 把它的分子, 分母交换位置. $1$ 的倒数是 $1$, $0$ 没有倒数.
->
+> 
 > **定义 11.3.2** (分数除法法则) <br>除以一个数 ($0$ 除外), 等于乘这个数的倒数: $\frac{b}{a}\div\frac{d}{c}=\frac{b}{a}\times\frac{c}{d}$ ($a,c,d\neq0$). 整数可以看成分母为 $1$ 的分数.
->
+> 
 > **定义 11.3.3** (工程问题) <br>把工作总量看作单位"$1$", 用每天完成总量的几分之几表示工作效率; 两队合作的工作时间 $=1\div$ 效率和.
 
 ### 练习九十一
@@ -204,7 +204,7 @@ $\div\frac{2}{3}\div\frac{3}{4}\times\frac{1}{2}=\times\frac{3}{2}\times\frac{4}
 
 ### 解答 练习一百一十五
 
-由**定义 11.3.3** (工程问题): 合种需 $1\div\left(\frac{1}{12}+\frac{1}{10}\right)=1\div\frac{11}{60}=\frac{60}{11}\approx5.45$ (天) $<6$ 天, 能种完. $\blacksquare$
+由**定义 11.3.3** (工程问题): 合种需 $1\div\left(\frac{1}{12}+\frac{1}{10}\right)=1\div\frac{11}{60}=\frac{60}{11}\approx5.45$ (天) $< 6$ 天, 能种完. $\blacksquare$
 
 ### 练习一百一十六
 
@@ -288,11 +288,11 @@ $\frac{15}{22}\div10=\frac{3}{44}$; $45\div\frac{9}{14}=70$; $\frac{3}{5}\div\fr
 
 ### 练习一百二十六
 
-(课时 整理和复习 练习九 拓展提升 第 8 题) 观察 $\frac{3}{4}\times\frac{b}{a}$ 和 $\frac{3}{4}\div\frac{b}{a}$ ($a,b\neq0$). (1) 如果 $\frac{3}{4}\times\frac{b}{a}>\frac{3}{4}\div\frac{b}{a}$, 那么 $a\bigcirc b$; (2) 如果 $\frac{3}{4}\times\frac{b}{a}=\frac{3}{4}\div\frac{b}{a}$, 那么 $a\bigcirc b$; (3) 如果 $\frac{3}{4}\times\frac{b}{a}<\frac{3}{4}\div\frac{b}{a}$, 那么 $a\bigcirc b$. 又: 如果 $\frac{3}{4}\times c=\frac{3}{4}\div d$, 那么 $c$ 和 $d$ 是什么关系?
+(课时 整理和复习 练习九 拓展提升 第 8 题) 观察 $\frac{3}{4}\times\frac{b}{a}$ 和 $\frac{3}{4}\div\frac{b}{a}$ ($a,b\neq0$). (1) 如果 $\frac{3}{4}\times\frac{b}{a}> \frac{3}{4}\div\frac{b}{a}$, 那么 $a\bigcirc b$; (2) 如果 $\frac{3}{4}\times\frac{b}{a}=\frac{3}{4}\div\frac{b}{a}$, 那么 $a\bigcirc b$; (3) 如果 $\frac{3}{4}\times\frac{b}{a}< \frac{3}{4}\div\frac{b}{a}$, 那么 $a\bigcirc b$. 又: 如果 $\frac{3}{4}\times c=\frac{3}{4}\div d$, 那么 $c$ 和 $d$ 是什么关系?
 
 ### 解答 练习一百二十六
 
-$\frac{3}{4}\div\frac{b}{a}=\frac{3}{4}\times\frac{a}{b}$. 比较 $\frac{b}{a}$ 与 $\frac{a}{b}$: (1) $\frac{b}{a}>\frac{a}{b}$, 即 $b^2>a^2$, $b>a$, 填 $<$; (2) $\frac{b}{a}=\frac{a}{b}$, $a=b$; (3) $\frac{b}{a}<\frac{a}{b}$, $b<a$, 填 $>$. 若 $\frac{3}{4}\times c=\frac{3}{4}\div d=\frac{3}{4}\times\frac{1}{d}$, 则 $c=\frac{1}{d}$, $c,d$ 互为倒数. $\blacksquare$
+$\frac{3}{4}\div\frac{b}{a}=\frac{3}{4}\times\frac{a}{b}$. 比较 $\frac{b}{a}$ 与 $\frac{a}{b}$: (1) $\frac{b}{a}> \frac{a}{b}$, 即 $b^2> a^2$, $b> a$, 填 $< $; (2) $\frac{b}{a}=\frac{a}{b}$, $a=b$; (3) $\frac{b}{a}< \frac{a}{b}$, $b< a$, 填 $> $. 若 $\frac{3}{4}\times c=\frac{3}{4}\div d=\frac{3}{4}\times\frac{1}{d}$, 则 $c=\frac{1}{d}$, $c,d$ 互为倒数. $\blacksquare$
 
 ### 练习一百二十七
 

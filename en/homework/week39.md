@@ -1,11 +1,11 @@
 ﻿# Assignment 39
 
 > **Definition 5.8.1** (An Initial Look at Fractions) <br>Divide an object into several equal parts; one of the parts is one over some number, and several parts are some number over that number. The horizontal bar in the middle of a fraction is called the fraction bar, the number below it is called the denominator (telling into how many equal parts it is divided), and the number above it is called the numerator (telling how many parts are taken).
->
+> 
 > **Definition 5.8.2** (Comparing the Sizes of Fractions) <br>For fractions with the same denominator, the one with the larger numerator is larger; for fractions with the same numerator, the one with the larger denominator is smaller (the more equal parts it is divided into, the smaller each part is).
->
+> 
 > **Definition 5.8.3** (Adding and Subtracting Fractions with the Same Denominator) <br>To add or subtract fractions with the same denominator, the denominator stays unchanged and the numerators are added or subtracted. $1$ can be written as a fraction whose numerator and denominator are the same, for example $1=\frac{4}{4}$.
->
+> 
 > **Definition 5.8.4** (Finding a Fraction of a Number) <br>To find one over-some-number of a number, divide the number into as many equal parts as the denominator and find one part; to find some-number-over-that-number, multiply the size of one part by the numerator.
 
 ### Exercise 211
@@ -182,7 +182,7 @@ By **Definition 5.8.1**, take the total number of parts as the denominator, the 
 
 ### Solution to Exercise 232
 
-By **Definition 5.8.2**, with the same denominator the larger numerator is larger, for example $\frac{5}{9}>\frac{4}{9}$. $\blacksquare$
+By **Definition 5.8.2**, with the same denominator the larger numerator is larger, for example $\frac{5}{9}> \frac{4}{9}$. $\blacksquare$
 
 ### Exercise 233
 
@@ -198,7 +198,7 @@ By **Definition 5.8.1**, look at how many equal parts the board is divided into;
 
 ### Solution to Exercise 234
 
-By **Definition 5.8.2**, write the fractions first, then compare: for the same denominator look at the numerator, for the same numerator look at the denominator. Fill in $\left(\ \right)<\left(\ \right)$ according to the figure. $\blacksquare$
+By **Definition 5.8.2**, write the fractions first, then compare: for the same denominator look at the numerator, for the same numerator look at the denominator. Fill in $\left(\ \right)< \left(\ \right)$ according to the figure. $\blacksquare$
 
 ### Exercise 235
 
@@ -422,7 +422,7 @@ The clock face is divided into $12$ large divisions, each $5$ minutes. $6$ of th
 
 ### Solution to Exercise 262
 
-The white cat ate $15\div3=5$ fish, and the black cat $15\div5=3$ fish. $5>3$, so the white cat ate more. $\blacksquare$
+The white cat ate $15\div3=5$ fish, and the black cat $15\div5=3$ fish. $5> 3$, so the white cat ate more. $\blacksquare$
 
 ### Exercise 263
 
@@ -434,11 +434,11 @@ Each part is $63\div7=9$ meters; the first time $9\times2=18$ meters, the second
 
 ### Exercise 264
 
-(Lesson: Practice 18, Problem 1) Fill in "$>$" or "$<$": $\frac{2}{5}\bigcirc\frac{4}{5}$; $\frac{1}{4}\bigcirc\frac{1}{6}$; $\frac{7}{7}\bigcirc\frac{5}{7}$; $\frac{3}{20}\bigcirc\frac{7}{20}$.
+(Lesson: Practice 18, Problem 1) Fill in "$> $" or "$< $": $\frac{2}{5}\bigcirc\frac{4}{5}$; $\frac{1}{4}\bigcirc\frac{1}{6}$; $\frac{7}{7}\bigcirc\frac{5}{7}$; $\frac{3}{20}\bigcirc\frac{7}{20}$.
 
 ### Solution to Exercise 264
 
-By **Definition 5.8.2**: $\frac{2}{5}<\frac{4}{5}$; $\frac{1}{4}>\frac{1}{6}$; $\frac{7}{7}>\frac{5}{7}$; $\frac{3}{20}<\frac{7}{20}$. The figure shows four pairs of shaded fraction diagrams (each pair has two identical shapes divided into equal parts and shaded, representing $\frac{2}{5}$ vs $\frac{4}{5}$, $\frac{1}{4}$ vs $\frac{1}{6}$, $\frac{7}{7}$ vs $\frac{5}{7}$, and $\frac{3}{20}$ vs $\frac{7}{20}$), visually illustrating the comparisons above. $\blacksquare$
+By **Definition 5.8.2**: $\frac{2}{5}< \frac{4}{5}$; $\frac{1}{4}> \frac{1}{6}$; $\frac{7}{7}> \frac{5}{7}$; $\frac{3}{20}< \frac{7}{20}$. The figure shows four pairs of shaded fraction diagrams (each pair has two identical shapes divided into equal parts and shaded, representing $\frac{2}{5}$ vs $\frac{4}{5}$, $\frac{1}{4}$ vs $\frac{1}{6}$, $\frac{7}{7}$ vs $\frac{5}{7}$, and $\frac{3}{20}$ vs $\frac{7}{20}$), visually illustrating the comparisons above. $\blacksquare$
 
 ### Exercise 265
 

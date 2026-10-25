@@ -1,9 +1,9 @@
 # Assignment 69
 
 > **Definition 9.1.1** (Views) <br>When observing an object from a certain direction, the planar figure seen is called a view of the object. By viewing direction it is divided into the front view (seen from the front), the top view (seen from above), the left view (seen from the left), and so on.
->
+> 
 > **Definition 9.1.2** (Observing Different Combinations from the Same Direction) <br>Observing different combinations from the same direction, the seen figures may be the same or different; observing the same combination from different directions, the seen figures are generally also different.
->
+> 
 > **Definition 9.1.3** (Reconstructing a Combination from Its Views) <br>From the figures seen from the front, top and left, the shape of a combination built from small cubes can be determined; if only one direction's view is given, the arrangement is often not unique.
 
 ### Exercise 1

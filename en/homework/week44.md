@@ -1,11 +1,11 @@
 # Assignment 44
 
 > **Definition 6.4.1** (Area) <br>The size of an object's surface or of a closed figure is its area. To compare areas, measure with a unified area unit and count how many such units it contains.
->
+> 
 > **Definition 6.4.2** (Area Units) <br>Common area units are the square centimeter ($cm^2$), the square decimeter ($dm^2$) and the square meter ($m^2$). A square of side $1$ cm has area $1$ square centimeter, a square of side $1$ dm has area $1$ square decimeter, and a square of side $1$ m has area $1$ square meter.
->
+> 
 > **Definition 6.4.3** (Areas of Rectangles and Squares) <br>The area of a rectangle is $=$ length$\times$width; the area of a square is $=$ side$\times$side. To find an area, count how many area units it contains.
->
+> 
 > **Definition 6.4.4** (Rates Between Area Units) <br>The rate between two adjacent common area units is $100$: $1$ square decimeter $=100$ square centimeters, $1$ square meter $=100$ square decimeters.
 
 ### Exercise 133
@@ -186,11 +186,11 @@ Tree height $16$ m, crayon length $1$ dm, dictionary thickness $5$ cm, school ar
 
 ### Exercise 155
 
-(Lesson: Practice 13, Problem 2) Fill in "$>$", "$<$" or "$=$": $100$ square meters$\bigcirc10$ square meters; $10$ square decimeters$\bigcirc999$ square centimeters; $400$ square centimeters$\bigcirc4$ square decimeters; $1000$ square centimeters$\bigcirc1$ square meter.
+(Lesson: Practice 13, Problem 2) Fill in "$> $", "$< $" or "$=$": $100$ square meters$\bigcirc10$ square meters; $10$ square decimeters$\bigcirc999$ square centimeters; $400$ square centimeters$\bigcirc4$ square decimeters; $1000$ square centimeters$\bigcirc1$ square meter.
 
 ### Solution to Exercise 155
 
-By **Definition 6.4.4**: $100$ square meters $>10$ square meters; $10$ square decimeters $=1000$ square centimeters $>999$ square centimeters; $400$ square centimeters $=4$ square decimeters; $1000$ square centimeters $<1$ square meter ($1$ square meter $=10000$ square centimeters). $\blacksquare$
+By **Definition 6.4.4**: $100$ square meters $> 10$ square meters; $10$ square decimeters $=1000$ square centimeters $> 999$ square centimeters; $400$ square centimeters $=4$ square decimeters; $1000$ square centimeters $< 1$ square meter ($1$ square meter $=10000$ square centimeters). $\blacksquare$
 
 ### Exercise 156
 

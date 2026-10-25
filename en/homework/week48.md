@@ -1,7 +1,7 @@
 # Assignment 48
 
 > **Definition 6.8.1** (Structure of the Whole Book) <br>Numbers and operations: understanding decimals, comparing decimals, decimal addition and subtraction (lining up decimal points), division by a one-digit divisor (mental and written). Shapes: axisymmetry, translation, rotation; the properties of rectangles and squares, perimeter and area. Collecting and organizing data, common quantities (year, month, day, the 24-hour clock).
->
+> 
 > **Definition 6.8.2** (The Overlap Problem) <br>When two parts overlap, the total $=$ the sum of the two parts $-$ the overlapping part; adding directly would count the overlap twice.
 
 ### Exercise 202

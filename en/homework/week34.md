@@ -1,11 +1,11 @@
 # Assignment 34
 
 > **Definition 5.3.1** (The Relation between Millimeters and Centimeters) <br>The millimeter (mm) is a length unit smaller than the centimeter; use it for short objects or when a more precise measure is needed. On a ruler, each small grid between $1$ centimeter is $1$ millimeter, and $1$ centimeter $=10$ millimeters.
->
+> 
 > **Definition 5.3.2** (The Relation between the Decimeter, Centimeter, and Meter) <br>The decimeter (dm) is a length unit larger than the centimeter but smaller than the meter. On a ruler, $10$ centimeters is $1$ decimeter, $1$ decimeter $=10$ centimeters, and $1$ meter $=10$ decimeters.
->
+> 
 > **Definition 5.3.3** (The Kilometer) <br>Long distances are usually measured in kilometers (km), and $1$ kilometer $=1000$ meters. The kilometer is also called a kilometer in daily life.
->
+> 
 > **Definition 5.3.4** (Conversion Rates and Estimation of Length Units) <br>Length units from large to small: kilometer, meter, decimeter, centimeter, millimeter. Between two neighboring units, it is $1000$ only between kilometer and meter, and $10$ for all the rest. To estimate a distance, first pick one length as a standard.
 
 ### Exercise 55
@@ -74,11 +74,11 @@ By **Definition 5.3.4** (Conversion Rates and Estimation of Length Units): $90$ 
 
 ### Exercise 63
 
-(Lesson: Practice 5, Problem 4) Fill in "$>$" "$<$" or "$=$": $5$ dm $\bigcirc$ $5$ mm; $8$ mm $\bigcirc$ $2$ cm; $6$ cm $\bigcirc$ $60$ mm; $1$ m $\bigcirc$ $7$ dm; $9$ mm $\bigcirc$ $3$ dm; $4$ m $\bigcirc$ $4$ dm.
+(Lesson: Practice 5, Problem 4) Fill in "$> $" "$< $" or "$=$": $5$ dm $\bigcirc$ $5$ mm; $8$ mm $\bigcirc$ $2$ cm; $6$ cm $\bigcirc$ $60$ mm; $1$ m $\bigcirc$ $7$ dm; $9$ mm $\bigcirc$ $3$ dm; $4$ m $\bigcirc$ $4$ dm.
 
 ### Solution to Exercise 63
 
-Unify units then compare: $5$ dm $=500$ mm $>5$ mm; $8$ mm $<20$ mm $=2$ cm; $6$ cm $=60$ mm; $1$ m $=10$ dm $>7$ dm; $9$ mm $<300$ mm $=3$ dm; $4$ m $=40$ dm $>4$ dm. $\blacksquare$
+Unify units then compare: $5$ dm $=500$ mm $> 5$ mm; $8$ mm $< 20$ mm $=2$ cm; $6$ cm $=60$ mm; $1$ m $=10$ dm $> 7$ dm; $9$ mm $< 300$ mm $=3$ dm; $4$ m $=40$ dm $> 4$ dm. $\blacksquare$
 
 ### Exercise 64
 
@@ -222,7 +222,7 @@ $3$ km $=3000$ m; walking $3000$ m takes $3000\div100=30$ minutes. Leaving at $7
 
 ### Solution to Exercise 81
 
-From $8$ o'clock to $12$ o'clock is $4$ hours, traveling $80\times4=320$ km; $320>308$, so by noon at $12$ they can arrive. $\blacksquare$
+From $8$ o'clock to $12$ o'clock is $4$ hours, traveling $80\times4=320$ km; $320> 308$, so by noon at $12$ they can arrive. $\blacksquare$
 
 ### Exercise 82
 
@@ -242,11 +242,11 @@ Marathon $42$ km; Chinese textbook thickness $6$ mm; footbridge length $30$ m. $
 
 ### Exercise 84
 
-(Lesson: Practice 7, Problem 2) Fill in "$>$" "$<$" or "$=$": $90$ mm $\bigcirc$ $9$ cm; $4$ m $\bigcirc$ $30$ dm; $2$ km $\bigcirc$ $3000$ m; $400$ cm $\bigcirc$ $3$ m; $5$ cm $\bigcirc$ $5$ dm; $6$ dm $\bigcirc$ $500$ mm.
+(Lesson: Practice 7, Problem 2) Fill in "$> $" "$< $" or "$=$": $90$ mm $\bigcirc$ $9$ cm; $4$ m $\bigcirc$ $30$ dm; $2$ km $\bigcirc$ $3000$ m; $400$ cm $\bigcirc$ $3$ m; $5$ cm $\bigcirc$ $5$ dm; $6$ dm $\bigcirc$ $500$ mm.
 
 ### Solution to Exercise 84
 
-$90$ mm $=9$ cm; $4$ m $=40$ dm $>30$ dm; $2$ km $=2000$ m $<3000$ m; $400$ cm $=4$ m $>3$ m; $5$ cm $<50$ cm $=5$ dm; $6$ dm $=600$ mm $>500$ mm. $\blacksquare$
+$90$ mm $=9$ cm; $4$ m $=40$ dm $> 30$ dm; $2$ km $=2000$ m $< 3000$ m; $400$ cm $=4$ m $> 3$ m; $5$ cm $< 50$ cm $=5$ dm; $6$ dm $=600$ mm $> 500$ mm. $\blacksquare$
 
 ### Exercise 85
 

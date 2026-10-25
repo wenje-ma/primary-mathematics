@@ -1,9 +1,9 @@
 # Assignment 14
 
 > **Definition 2.6.1** (Solving Problems with Addition) <br>Knowing two parts and asking for the total uses addition; knowing one number and "how much more it is," asking for the larger number, also uses addition.
->
+> 
 > **Definition 2.6.2** (Solving Problems with Subtraction) <br>Knowing the total and one part and asking for the other part uses subtraction; asking how much more (or less) one number is than another, subtract the smaller from the larger.
->
+> 
 > **Definition 2.6.3** (Comparing More and Less) <br>To find the number that is several more than a given number, use addition; to find the number that is several less than a given number, use subtraction; drawing pictures can make the quantitative relationships clearer.
 
 ### Exercise 115

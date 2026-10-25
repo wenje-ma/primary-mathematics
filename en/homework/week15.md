@@ -1,9 +1,9 @@
 # Assignment 15
 
 > **Definition 2.7.1** (Renminbi Units) <br>Renminbi is the legal tender of our country, in both banknotes and coins. The units of Renminbi are yuan, jiao, and fen.
->
+> 
 > **Definition 2.7.2** (Conversion of Yuan, Jiao, and Fen) <br>$1$ yuan $=10$ jiao, $1$ jiao $=10$ fen.
->
+> 
 > **Definition 2.7.3** (Renminbi Exchange and Change) <br>$1$ $20$-yuan note can be exchanged for $2$ $10$-yuan notes or $4$ $5$-yuan notes; when shopping, pay correctly and learn to make change.
 
 ### Exercise 131

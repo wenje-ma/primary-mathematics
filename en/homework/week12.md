@@ -1,9 +1,9 @@
 # Assignment 12
 
 > **Definition 2.4.1** (Mental Addition) <br>In mental addition, add the ones to the ones and the tens to the tens; when the ones sum to ten or more, carry $1$ to the tens place.
->
+> 
 > **Definition 2.4.2** (Mental Subtraction) <br>In mental subtraction, subtract the ones from the ones and the tens from the tens; when the ones digit is not enough to subtract, borrow $1$ from the tens place as $10$ and then subtract.
->
+> 
 > **Definition 2.4.3** (Solving Problems with Continuous Subtraction) <br>"Putting several in one portion, asking how many portions can be filled and how many remain," you may circle out $8$ groups of $8$, or subtract consecutively.
 
 ### Exercise 69

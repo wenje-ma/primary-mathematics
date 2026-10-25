@@ -1,9 +1,9 @@
 ﻿# Assignment 8
 
 > **Definition 1.6.1** (Understanding Numbers Within 20) <br>$0\sim20$ are arranged in order, with the later number larger than the earlier; $10$ ones make $1$ ten; from the right, the first digit is the ones place and the second is the tens place; how many tens there are, write that number in the tens place, and how many ones there are, write that number in the ones place.
->
+> 
 > **Definition 1.6.2** (Addition and Subtraction Within 20) <br>Combine two parts with addition, and remove a part from the total with subtraction; use the make-a-ten method for carrying addition, making one addend up to $10$ first.
->
+> 
 > **Definition 1.6.3** (Solid Shapes) <br>Cuboids and cubes have flat faces; cylinders can stand upright or roll; spheres can roll in all directions.
 
 ### Exercise 218
@@ -72,11 +72,11 @@ By **Definition 1.6.2** (Addition and Subtraction Within 20): $8+7=15$, $6+9=15$
 
 ### Exercise 226
 
-(Lesson: Practice, Problem 5) Fill "$>$" "$<$" or "$=$" in $\bigcirc$: $5+9\bigcirc14$; $9\bigcirc18-10$; $7+8\bigcirc16$; $10-8\bigcirc7$; $12\bigcirc3+8$; $9+6\bigcirc15$.
+(Lesson: Practice, Problem 5) Fill "$> $" "$< $" or "$=$" in $\bigcirc$: $5+9\bigcirc14$; $9\bigcirc18-10$; $7+8\bigcirc16$; $10-8\bigcirc7$; $12\bigcirc3+8$; $9+6\bigcirc15$.
 
 ### Solution to Exercise 226
 
-Calculate first, then compare: $5+9=14$, so $=$; $18-10=8$, $9>8$; $7+8=15<16$; $10-8=2<7$; $3+8=11$, $12>11$; $9+6=15$, so $=$. $\blacksquare$
+Calculate first, then compare: $5+9=14$, so $=$; $18-10=8$, $9> 8$; $7+8=15< 16$; $10-8=2< 7$; $3+8=11$, $12> 11$; $9+6=15$, so $=$. $\blacksquare$
 
 ### Exercise 227
 
@@ -128,11 +128,11 @@ By **Definition 1.6.2** (Addition and Subtraction Within 20), choose $2$ of the 
 
 ### Exercise 233
 
-(Lesson: Practice, Problem 12) What can go in $\square$? $9+\square+6<15$; $18-\square>10$; $13+\square<19$.
+(Lesson: Practice, Problem 12) What can go in $\square$? $9+\square+6< 15$; $18-\square> 10$; $13+\square< 19$.
 
 ### Solution to Exercise 233
 
-$9+\square+6<15$, i.e. $15+\square<15$, $\square$ can be $0$; $18-\square>10$, $\square$ can be $0\sim7$; $13+\square<19$, $\square$ can be $0\sim5$. $\blacksquare$
+$9+\square+6< 15$, i.e. $15+\square< 15$, $\square$ can be $0$; $18-\square> 10$, $\square$ can be $0\sim7$; $13+\square< 19$, $\square$ can be $0\sim5$. $\blacksquare$
 
 ### Exercise 234
 
@@ -140,4 +140,4 @@ $9+\square+6<15$, i.e. $15+\square<15$, $\square$ can be $0$; $18-\square>10$, $
 
 ### Solution to Exercise 234
 
-The same book has the same total pages; whoever read less has more left. Xiaoming read $8$ pages and Xiaohua read $9$ pages, $8<9$, so Xiaoming has more left. $\blacksquare$
+The same book has the same total pages; whoever read less has more left. Xiaoming read $8$ pages and Xiaohua read $9$ pages, $8< 9$, so Xiaoming has more left. $\blacksquare$

@@ -1,13 +1,13 @@
 # Assignment 11
 
 > **Definition 2.3.1** (Counting and Number Composition) <br>$10$ ones make $1$ ten, and $10$ tens make one hundred. Some tens and some ones combine to make a ten-something; for example, $4$ tens and $6$ ones combine to make forty-six.
->
+> 
 > **Definition 2.3.2** (Place Value) <br>From the right, the first digit is the ones place, the second is the tens place, and the third is the hundreds place. Reading and writing numbers both start from the highest place.
->
+> 
 > **Definition 2.3.3** (Comparing Two-Digit Numbers) <br>To compare two two-digit numbers, first compare the tens digit; the number with the larger tens digit is larger. If the tens digits are the same, then compare the ones digit.
->
+> 
 > **Definition 2.3.4** (A Little More and Much More More) <br>When two numbers differ little, say "a little larger" or "a little smaller"; when they differ greatly, say "much larger" or "much smaller."
->
+> 
 > **Definition 2.3.5** (Round-Tens Plus a One-Digit Number and Corresponding Subtraction) <br>Some tens and some ones combine to make a ten-something; e.g. $30+2=32$, $32-2=30$, $32-30=2$.
 
 ### Exercise 45
@@ -108,11 +108,11 @@ By **Definition 2.3.3** (Comparing Two-Digit Numbers), each row from left to rig
 
 ### Exercise 57
 
-(Lesson: Number Order and Comparing Size, Compare) Fill "$>$""$<$" or "$=$" in $\bigcirc$: $41\bigcirc45$, $63\bigcirc53$, $89\bigcirc98$, $47\bigcirc32$, $63\bigcirc68$, $37\bigcirc73$, $81\bigcirc18$, $29\bigcirc30$.
+(Lesson: Number Order and Comparing Size, Compare) Fill "$> $""$< $" or "$=$" in $\bigcirc$: $41\bigcirc45$, $63\bigcirc53$, $89\bigcirc98$, $47\bigcirc32$, $63\bigcirc68$, $37\bigcirc73$, $81\bigcirc18$, $29\bigcirc30$.
 
 ### Solution to Exercise 57
 
-By **Definition 2.3.3** (Comparing Two-Digit Numbers): $41<45$, $63>53$, $89<98$, $47>32$, $63<68$, $37<73$, $81>18$, $29<30$. $\blacksquare$
+By **Definition 2.3.3** (Comparing Two-Digit Numbers): $41< 45$, $63> 53$, $89< 98$, $47> 32$, $63< 68$, $37< 73$, $81> 18$, $29< 30$. $\blacksquare$
 
 ### Exercise 58
 
@@ -120,7 +120,7 @@ By **Definition 2.3.3** (Comparing Two-Digit Numbers): $41<45$, $63>53$, $89<98$
 
 ### Solution to Exercise 58
 
-By **Definition 2.3.4** (A Little More and Much More More), from smallest to largest $25<31<87<99$; $87$ is much larger than $25$, $31$ is a little larger than $25$, and $99$ is a little larger than $87$. $\blacksquare$
+By **Definition 2.3.4** (A Little More and Much More More), from smallest to largest $25< 31< 87< 99$; $87$ is much larger than $25$, $31$ is a little larger than $25$, and $99$ is a little larger than $87$. $\blacksquare$
 
 ### Exercise 59
 

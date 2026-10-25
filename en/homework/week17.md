@@ -1,11 +1,11 @@
 # Assignment 17
 
 > **Definition 3.1.1** (Classification) <br>Divide objects into several groups according to a certain criterion; the objects in the same group share the same characteristics under this criterion. For example, classify balloons by shape, and classify vegetables by kind.
->
+> 
 > **Definition 3.1.2** (Representing Classification Results) <br>The results of classification can be represented by counting, drawing, filling in a table, and so on, so that the number of objects in each category is clear at a glance.
->
+> 
 > **Definition 3.1.3** (Different Criteria, Different Results) <br>With different classification criteria, the resulting groups may be different, but the total number of objects being classified does not change. For example, grouping by adults and children versus grouping by gender gives different results, but the total number of people is the same.
->
+> 
 > **Definition 3.1.4** (Layer-by-Layer Classification) <br>After dividing objects into several categories by one criterion, one can further divide within each category by another criterion; continuing layer by layer in this way makes the results easier to use.
 
 ### Exercise 1

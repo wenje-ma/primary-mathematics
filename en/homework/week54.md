@@ -1,11 +1,11 @@
 ﻿# Assignment 54
 
 > **Definition 7.6.1** (Parallel and Perpendicular) <br>Two lines in the same plane that do not intersect are called parallel lines, and one may say the two lines are parallel to each other, denoted $a\parallel b$. When two lines intersect at a right angle, the two lines are said to be perpendicular to each other; one is called the perpendicular line of the other, and the intersection point is called the foot of the perpendicular, denoted $a\perp b$.
->
+> 
 > **Definition 7.6.2** (Distance from a Point to a Line) <br>The perpendicular segment drawn from a point outside a line to that line is the shortest, and its length is called the distance from the point to the line. The perpendicular segments between two parallel lines all have the same length.
->
+> 
 > **Definition 7.6.3** (Parallelogram) <br>A quadrilateral with two pairs of opposite sides parallel is called a parallelogram. In a parallelogram, opposite sides are equal and opposite angles are equal.
->
+> 
 > **Definition 7.6.4** (Trapezoid) <br>A quadrilateral with only one pair of parallel sides is called a trapezoid. A trapezoid with equal legs is called an isosceles trapezoid, and a trapezoid with a right angle is called a right trapezoid.
 
 (Unit illustration: above, two non-intersecting lines $a$ and $b$ extending infinitely in both directions, labeled $a\parallel b$; below, two lines intersecting at right angles, the intersection labeled foot $O$, with $a\perp b$.)

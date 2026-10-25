@@ -1,19 +1,19 @@
 # Assignment 60
 
 > **Definition 8.3.1** (Commutative Law of Addition) <br>When adding two numbers, swapping the positions of the two addends leaves the sum unchanged. In letters: $a+b=b+a$.
->
+> 
 > **Definition 8.3.2** (Associative Law of Addition) <br>When adding three numbers, adding the first two first, or adding the last two first, leaves the sum unchanged. In letters: $\left(a+b\right)+c=a+\left(b+c\right)$.
->
+> 
 > **Definition 8.3.3** (Operation Property of Subtraction) <br>A number minus two numbers in a row equals minus the sum of those two numbers: $a-b-c=a-\left(b+c\right)$; you may also subtract the second subtrahend first and then the first: $a-b-c=a-c-b$.
->
+> 
 > **Definition 8.3.4** (Commutative Law of Multiplication) <br>When multiplying two numbers, swapping the positions of the two factors leaves the product unchanged. In letters: $a\times b=b\times a$.
->
+> 
 > **Definition 8.3.5** (Associative Law of Multiplication) <br>When multiplying three numbers, multiplying the first two first, or multiplying the last two first, leaves the product unchanged. In letters: $\left(a\times b\right)\times c=a\times\left(b\times c\right)$.
->
+> 
 > **Definition 8.3.6** (Distributive Law of Multiplication) <br>The sum of two numbers multiplied by a number may be multiplied separately by that number first and then added. In letters: $\left(a+b\right)\times c=a\times c+b\times c$, or conversely $a\times c+b\times c=\left(a+b\right)\times c$.
->
+> 
 > **Definition 8.3.7** (Operation Property of Division) <br>A number divided by two numbers in a row equals divided by the product of those two divisors: $a\div b\div c=a\div\left(b\times c\right)$.
->
+> 
 > **Definition 8.3.8** (Convenient Calculation) <br>Using the operation laws of addition and multiplication and the operation properties of subtraction and division, calculate first the numbers that can be rounded to tens or hundreds, making the calculation easier.
 
 ### Exercise 36
@@ -310,7 +310,7 @@ By **Definition 8.3.7** (Operation Property of Division), $350\div14=350\div7\di
 
 ### Solution to Exercise 72
 
-$5$ albums hold $32\times6\times5=32\times30=960$ (photos); since $960>900$, they are enough. $\blacksquare$
+$5$ albums hold $32\times6\times5=32\times30=960$ (photos); since $960> 900$, they are enough. $\blacksquare$
 
 ### Exercise 73
 
