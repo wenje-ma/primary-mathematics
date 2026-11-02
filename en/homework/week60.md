@@ -1,12 +1,28 @@
 # week60
-> **Definition 8.3.1 (加法交换律)**<br>两个数相加, 交换两个加数的位置, 和不变. 用字母表示: $a+b=b+a$.
-> **Definition 8.3.2 (加法结合律)**<br>三个数相加, 先把前两个数相加, 或者先把后两个数相加, 和不变. 用字母表示: $\left(a+b\right)+c=a+\left(b+c\right)$.
-> **Definition 8.3.3 (减法的运算性质)**<br>一个数连续减去两个数, 等于减去这两个数的和: $a-b-c=a-\left(b+c\right)$; 也可以先减后一个减数再减前一个: $a-b-c=a-c-b$.
-> **Definition 8.3.4 (乘法交换律)**<br>两个数相乘, 交换两个因数的位置, 积不变. 用字母表示: $a\times b=b\times a$.
-> **Definition 8.3.5 (乘法结合律)**<br>三个数相乘, 先乘前两个数, 或者先乘后两个数, 积不变. 用字母表示: $\left(a\times b\right)\times c=a\times\left(b\times c\right)$.
-> **Definition 8.3.6 (乘法分配律)**<br>两个数的和与一个数相乘, 可以先把它们与这个数分别相乘, 再相加. 用字母表示: $\left(a+b\right)\times c=a\times c+b\times c$, 也可反过来 $a\times c+b\times c=\left(a+b\right)\times c$.
-> **Definition 8.3.7 (除法的运算性质)**<br>一个数连续除以两个数, 等于除以这两个除数的积: $a\div b\div c=a\div\left(b\times c\right)$.
-> **Definition 8.3.8 (简便计算)**<br>利用加法, 乘法的运算律和减法, 除法的运算性质, 把能凑成整十, 整百的数先算, 使计算更简便.
+> **Definition 8.3.1 (加法交换律)**
+>
+> 两个数相加, 交换两个加数的位置, 和不变. 用字母表示: $a+b=b+a$.
+> **Definition 8.3.2 (加法结合律)**
+>
+> 三个数相加, 先把前两个数相加, 或者先把后两个数相加, 和不变. 用字母表示: $\left(a+b\right)+c=a+\left(b+c\right)$.
+> **Definition 8.3.3 (减法的运算性质)**
+>
+> 一个数连续减去两个数, 等于减去这两个数的和: $a-b-c=a-\left(b+c\right)$; 也可以先减后一个减数再减前一个: $a-b-c=a-c-b$.
+> **Definition 8.3.4 (乘法交换律)**
+>
+> 两个数相乘, 交换两个因数的位置, 积不变. 用字母表示: $a\times b=b\times a$.
+> **Definition 8.3.5 (乘法结合律)**
+>
+> 三个数相乘, 先乘前两个数, 或者先乘后两个数, 积不变. 用字母表示: $\left(a\times b\right)\times c=a\times\left(b\times c\right)$.
+> **Definition 8.3.6 (乘法分配律)**
+>
+> 两个数的和与一个数相乘, 可以先把它们与这个数分别相乘, 再相加. 用字母表示: $\left(a+b\right)\times c=a\times c+b\times c$, 也可反过来 $a\times c+b\times c=\left(a+b\right)\times c$.
+> **Definition 8.3.7 (除法的运算性质)**
+>
+> 一个数连续除以两个数, 等于除以这两个除数的积: $a\div b\div c=a\div\left(b\times c\right)$.
+> **Definition 8.3.8 (简便计算)**
+>
+> 利用加法, 乘法的运算律和减法, 除法的运算性质, 把能凑成整十, 整百的数先算, 使计算更简便.
 
 ---
 
