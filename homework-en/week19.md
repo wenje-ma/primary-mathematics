@@ -18,8 +18,6 @@
 > 
 > 乘法和除法有关系, 可以用同一句乘法口诀计算. 如由"三四十二"可算 $3\times4=12$, $4\times3=12$, $12\div3=4$, $12\div4=3$.
 
----
-
 ## Exercise 59
 
 (Lesson: An Introduction to Division, Example, Candies) Divide $6$ candies into $3$ shares; how can you divide them?

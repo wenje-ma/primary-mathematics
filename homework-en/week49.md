@@ -21,8 +21,6 @@
 > 
 > 省略尾数时, 看尾数部分最高位上的数: 小于 $5$ 就把尾数舍去 (四舍), 大于或等于 $5$ 就向前一位进 $1$ 再舍去尾数 (五入). 近似数与原数之间用 "$\approx$" 连接.
 
----
-
 ## Exercise 1
 
 (Lesson: Understanding Numbers within Hundred-Million — Do It, Problem 1) On the counter, dial and count. (1) Count by ten-thousands from nine-hundred-sixty-thousand to one-million-thirty-thousand. (2) Count by hundred-thousands from seven-hundred-thousand to one-million. (3) Count by millions from six-million to ten-million. (4) Count by ten-millions from eighty-million to one-hundred-million.

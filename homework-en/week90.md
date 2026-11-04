@@ -12,8 +12,6 @@
 > 
 > 连续求一个数的几分之几是多少, 用连乘; 也可以先把两个几分之几相乘, 求出占整体的几分之几, 再乘整体.
 
----
-
 ## Exercise 32
 
 (Lesson: Fraction Times an Integer, Example 1) An eco-club makes paper flowers from recycled wrapping paper; each flower uses $\frac{3}{8}$ sheet. (1) How many sheets for $2$ flowers? (2) How many sheets for $8$ flowers?

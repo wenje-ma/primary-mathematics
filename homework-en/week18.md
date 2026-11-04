@@ -15,8 +15,6 @@
 > 
 > 求几个几是多少, 用乘法计算; 把相同加数连加的问题, 都可以用乘法简便地解决.
 
----
-
 ## Exercise 18
 
 (Lesson: An Introduction to Multiplication, Example, Small Plane) (1) How many people are in the small plane in total? $5$ copies of $3$ added: $3+3+3+3+3=15$. (2) How many people are in the small train in total? $\left(\;\;\right)$ copies of $6$ added: $6+6+6+6=24$. (3) How many people are in the roller coaster in total? $\left(\;\;\right)$ copies of $\left(\;\;\right)$ added: $2+2+2+2+2+2+2=14$. What common feature do the above addition expressions share? Please write a few more expressions with identical addends.

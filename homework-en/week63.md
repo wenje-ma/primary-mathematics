@@ -12,8 +12,6 @@
 > 
 > 整数加法的交换律, 结合律对小数加法同样适用, 应用运算律可以使一些小数计算更简便.
 
----
-
 ## Exercise 167
 
 (Lesson: Adding and Subtracting Decimals, Try It) Calculate the following and check: $2.98+0.56$; $12.53+4.67$; $6.07+4.89$; $5.64-1.78$; $7.2-0.8$; $15.62-7.46$.

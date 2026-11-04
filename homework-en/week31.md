@@ -12,8 +12,6 @@
 > 
 > 加法和减法互为逆运算: 和 $=$ 加数 $+$ 加数, 被减数 $=$ 减数 $+$ 差, 利用这些关系可以验算和求未知数.
 
----
-
 ## Exercise 202
 
 (Lesson: Applying and Improving) Use $0,3,6,8$ to make four-digit numbers. (1) The largest four-digit number is $\_\_$, its approximate number is $\_\_$; the smallest four-digit number is $\_\_$, its approximate number is $\_\_$ (rounded to a round thousand). (2) A four-digit number that does not read "zero" may be $\_\_$; one that reads one "zero" may be $\_\_$. (3) Show the largest and smallest four-digit numbers on a counter, and say how many counting units are in each place. (4) The computer price is made of $0,3,6,8$ and is a round ten; guess what it is.

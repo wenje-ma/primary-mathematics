@@ -6,8 +6,6 @@
 > 
 > 把连环画故事里的数量关系用算式表示. 如买了 $11$ 个罐头, 每天吃 $5$ 个, $11\div5=2$(天)……$1$(个), 表示够吃 $2$ 天, 还剩 $1$ 个.
 
----
-
 ## Exercise 198
 
 (Lesson: Picture-Strip Sharing) Xiaodong's strip "The Kitten Buys Cans": the kitten family goes to the supermarket, buys $11$ cans and goes home happily, and they eat $5$ cans each day. What math knowledge does this strip contain? Eating $5$ cans a day, for how many days is it enough? How many cans will the kitten family eat in $2$ days?

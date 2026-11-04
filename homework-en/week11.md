@@ -15,8 +15,6 @@
 > 
 > 几个十和几个一合起来是几十几, 如 $30+2=32$, $32-2=30$, $32-30=2$.
 
----
-
 ## Exercise 45
 
 (Lesson: Counting and Number Composition, Try It) Count: adding $1$ to thirty-nine is $\_\_$; $10$ ones is $1$ $\_\_$; $\_\_$ tens is $\_\_$.

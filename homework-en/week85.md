@@ -9,8 +9,6 @@
 > 
 > 分数加减混合运算的运算顺序与整数相同: 没有括号的从左往右算, 有括号的先算括号里面的. 整数加法的交换律, 结合律对分数加法同样适用.
 
----
-
 ## Exercise 129
 
 (Lesson: Like-Denominator Addition/Subtraction, Do It) Compute: $\frac{2}{9}+\frac{5}{9}$, $\frac{6}{7}-\frac{2}{7}$, $\frac{7}{10}-\frac{1}{10}$, $\frac{5}{8}+\frac{1}{8}$.

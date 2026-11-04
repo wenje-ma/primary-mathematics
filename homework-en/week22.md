@@ -9,8 +9,6 @@
 > 
 > 两臂左右平伸, 两个中指指尖之间的距离是 $1$ 庹; $1$ 庹的长和身高差不多.
 
----
-
 ## Exercise 162
 
 (Lesson: Lengths on the Body, Example) In daily life, when do you need to know the lengths of parts of your body? When buying you clothes, your height needs to be measured; when buying pants, your waist circumference; when buying a shirt, your shoulder width.

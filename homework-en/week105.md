@@ -27,8 +27,6 @@
 > 
 > 长方形 $C=2\left(a+b\right), S=ab$; 正方形 $C=4a, S=a^{2}$; 平行四边形 $S=ah$; 三角形 $S=\frac{1}{2}ah$; 梯形 $S=\frac{1}{2}\left(a+b\right)h$; 圆 $C=2\pi r, S=\pi r^{2}$; 长方体 $V=abh$; 正方体 $V=a^{3}$; 圆柱 $V=Sh$; 圆锥 $V=\frac{1}{3}Sh$.
 
----
-
 ## Exercise 105
 
 (Lesson: Exercise 14, Problem 1) Fill in the blanks. (1) The highest temperature $49.7\,^{\circ}\mathrm{C}$ is recorded as $\_\_$, and the lowest temperature, $52.3\,^{\circ}\mathrm{C}$ below zero, is recorded as $\_\_$. (2) If $a\div b=c$ ($a,b,c$ are integers, $b\neq0$), then the greatest common factor of $a$ and $b$ is $\_\_$, and the least common multiple is $\_\_$. (3) A commodity is sold at 30% off; "30% off" means the current price is $\_\_\%$ of the original price, and on a $100$-yuan original price you pay $\_\_$ yuan less.

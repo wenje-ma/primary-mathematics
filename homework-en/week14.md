@@ -9,8 +9,6 @@
 > 
 > 求一个数比另一个数多 (或少) 多少, 用减法计算.
 
----
-
 ## Exercise 115
 
 (Lesson: Addition-Subtraction Relationships Between Quantities, Introduction) There were originally $5$ boxes, and $1$ more was brought; how many boxes are there now? There are $3$ flowers on the left and $4$ flowers on the right; how many flowers in total?

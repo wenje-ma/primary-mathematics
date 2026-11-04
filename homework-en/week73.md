@@ -15,8 +15,6 @@
 > 
 > 用含有字母的式子表示实际问题中的数量关系, 再把字母取具体数值代入式子计算结果.
 
----
-
 ## Exercise 121
 
 (Lesson: Using Letters to Stand for Numbers, Example 1) Dad is $25$ years older than Xiao Hong. Use $a$ for Xiao Hong's age; how is Dad's age written? When $a=11$, how old is Dad? When Dad is $57$, what is $a$?

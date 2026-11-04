@@ -12,8 +12,6 @@
 > 
 > 只有一组对边平行的四边形叫做梯形.
 
----
-
 ## Exercise 155
 
 (Lesson: Parallel and Perpendicular, Try It) Where in daily life have you seen parallel and perpendicular phenomena?

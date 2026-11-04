@@ -21,8 +21,6 @@
 > 
 > 两部分有重叠时, 总数 $=$ 两部分的和 $-$ 重叠部分, 直接相加会把重叠的重复计算.
 
----
-
 ## Exercise 202
 
 (Lesson: Application Practice, Problem 1) Three families' May electricity use: Xiaohong's family $3$ people used $189$ kWh, Xiaoli's family $4$ people used $276$ kWh, Xiaojun's family $5$ people used $260$ kWh. (1) Fill in the electricity use per person on average. (2) Xiaohong's family used $9$ tons of water per month last year, and the half-year water bill was $270$ yuan; how much is each ton of water?

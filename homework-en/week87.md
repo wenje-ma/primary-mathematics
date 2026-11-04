@@ -6,8 +6,6 @@
 > 
 > 用天平找次品时, 所测物品数目与测试次数的关系: 2-3 个物品称 1 次, 4-9 个称 2 次, 10-27 个称 3 次.
 
----
-
 ## Exercise 138
 
 (Lesson: Finding the Defective, Example 1) There are 3 bottles of calcium tablets; one is short 3 tablets (the defective is lighter). Using a balance, at least how many weighings guarantee finding it?

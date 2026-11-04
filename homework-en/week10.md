@@ -9,8 +9,6 @@
 > 
 > 读题后先找出已知条件和问题, 选择与问题有关的条件列式, 多余的条件不参与计算, 算后再检查.
 
----
-
 ## Exercise 19
 
 (Lesson: Ten-Something Minus 9, Do It, Problem 1) Place and calculate: $17-9=\square$, $16-9=\square$.

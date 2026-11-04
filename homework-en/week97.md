@@ -3,8 +3,6 @@
 > 
 > 把 $m$ 个物体任意分放进 $n$ 个抽屉 ($m> n$), 那么一定有一个抽屉里至少放了 $\lceil \frac{m}{n}\rceil$ 个物体. 计算方法: $m\div n=q\cdots\cdots r$, 当 $r> 0$ 时至少 $q+1$ 个, 当 $r=0$ 时至少 $q$ 个.
 
----
-
 ## Exercise 250
 
 (Lesson: Review and Consolidation, Numbers and Algebra, Problem (1)) A shirt originally cost $125$ yuan and is now reduced by $\frac{1}{5}$. What is its current selling price?

@@ -15,8 +15,6 @@
 > 
 > 一个数可以分成两个数, 两个数也可以组成这个数. 如 $5$ 可以分成 $1$ 和 $4$, $2$ 和 $3$, $3$ 和 $2$, $4$ 和 $1$; 反之这些数对都可以组成 $5$.
 
----
-
 ## Exercise 1
 
 (Lesson: Understanding 1–5, Do It, Problem 1) Circle as shown: circle out $5$ cucumbers, $3$ eggplants, $2$ tomatoes, and $4$ green peppers respectively.

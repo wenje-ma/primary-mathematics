@@ -12,8 +12,6 @@
 > 
 > 认读钟面上的时间, 先看时针指过几就是几时多, 再看分针从 $12$ 起转了多少个小格就是几分. 时针指向 $7$, 分针指向 $12$, 是 $7$ 时; 如 $4$ 时 $5$ 分, $4$ 时 $30$ 分 ($4$ 时半), $4$ 时 $45$ 分.
 
----
-
 ## Exercise 1
 
 (Lesson: Where Is Time, Say) Day and night alternate, and a day has passed. Say how Xiaoyun's day is arranged.

@@ -12,8 +12,6 @@
 > 
 > 分类要按照一定的标准进行, 标准不同分得的结果可能不同, 但被分类事物的总数不变; 可以对第一次分类的结果按另一个标准继续分下去.
 
----
-
 ## Exercise 223
 
 (Lesson: Numbers and Operations, Knowledge Map) This semester, on the basis of addition and subtraction, you learned multiplication and division. Look at the knowledge map: general addition such as $28+37$, and special addition (same addends) uses multiplication; general subtraction such as $31-19$, and special subtraction (equal distribution) uses division. What have you gained?

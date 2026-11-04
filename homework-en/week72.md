@@ -9,8 +9,6 @@
 > 
 > 物体绕着一个点或轴转动叫旋转. 旋转时旋转中心位置不变, 对应点都绕旋转中心按同一方向旋转相同的角度, 图形的形和大小不变.
 
----
-
 ## Exercise 93
 
 (Lesson: Axial Symmetry, Example) Observe the axially symmetric figure: points A and A' are both $3$ small squares from the axis. What do you notice?

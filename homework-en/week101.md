@@ -15,8 +15,6 @@
 > 
 > 通过实验, 等底等高的圆锥形容器正好用 $3$ 次倒满圆柱形容器, 即圆锥体积是与它等底等高的圆柱体积的 $\frac{1}{3}$. 圆锥体积 $=\frac{1}{3}Sh=\frac{1}{3}\pi r^{2}h$.
 
----
-
 ## Exercise 36
 
 (Lesson: Understanding Cylinders, Do It, Problem 1) Observe a cylindrical object and mark its bases, lateral surface, and height.

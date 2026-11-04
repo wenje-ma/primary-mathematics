@@ -3,8 +3,6 @@
 > 
 > 队长通知任务, 每人接到通知后都立即继续一对一通知下一个人, 每分钟通知 1 人. 第 $n$ 分钟新接到通知的人数是 $2^{n-1}$, 到第 $n$ 分钟接到通知的队员总数 (不含队长) 是 $2^n-1$. 这种"人人不空闲"的方案最快.
 
----
-
 ## Exercise 136
 
 (Lesson: Fastest Way to Notify) An emergency squad's leader must notify 15 members as soon as possible; the task must be relayed one-to-one, 1 person per minute. (1) How long to notify all? (2) In this scheme, at most how many can be notified in 5 minutes? (3) If there are 50 members, what is the minimum time to notify everyone?

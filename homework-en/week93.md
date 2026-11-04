@@ -15,8 +15,6 @@
 > 
 > 圆所占平面的大小叫圆的面积. 把圆等分拼成近似长方形, 长为 $\pi r$, 宽为 $r$, 故 $S=\pi r^2$.
 
----
-
 ## Exercise 133
 
 (Lesson: Understanding Circles, Example 1) Draw a circle with a compass: mark point $O$, set the compass spread, fix the needle at $O$, and rotate the pencil leg a full turn. Say what to watch for.

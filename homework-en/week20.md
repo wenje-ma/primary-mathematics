@@ -9,8 +9,6 @@
 > 
 > 地图是按上北,下南,左西,右东的方式绘制的; 在不同的方向上, 东,南,西,北的排列顺序与时针转动方向一致, 是不变的.
 
----
-
 ## Exercise 113
 
 (Lesson: Recognizing East, South, West, North, Example, Campus) Walking north from the gate, you reach the teaching building. Is the teaching building on the left or the right of the playground?

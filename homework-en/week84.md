@@ -6,8 +6,6 @@
 > 
 > 一个图形绕某点旋转后, 旋转中心的位置不变, 图形上每条边都绕该点按同一方向旋转相同的角度, 对应点到旋转中心的距离保持不变.
 
----
-
 ## Exercise 122
 
 (Lesson: Rotation, Do It) On a clock face, the hand turns from "12" to "1" about point O clockwise by how many degrees? From "1" to "3"? From "3" to "6"? From "6" to "12"?

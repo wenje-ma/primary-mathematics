@@ -18,8 +18,6 @@
 > 
 > 生活中有时不用准确数而用近似数. 接近整千, 整百的数可写成近似数, 用约等号 $\approx$ 连接, 读作约等于. 如 $6988\approx7000$, $7000$ 是 $6988$ 的近似数.
 
----
-
 ## Exercise 91
 
 (Lesson: Numbers within 1000, Do It) Count on the counter, moving beads as you count. (1) Starting from one hundred ninety-eight, count one by one to two hundred three. (2) Starting from two hundred twenty, count by tens to three hundred ten.

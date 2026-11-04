@@ -3,8 +3,6 @@
 > 
 > 把棱长为 $n$ 个小正方体的大正方体表面涂上颜色后, 三面涂色的小正方体在顶点处, 共 $8$ 个; 两面涂色的在棱上 (去掉两端顶点), 共 $12\left(n-2\right)$ 个; 一面涂色的在面上 (去掉周围一圈), 共 $6\left(n-2\right)^2$ 个; 没有涂色的在内部, 共 $\left(n-2\right)^3$ 个.
 
----
-
 ## Exercise 94
 
 (Lesson: Exploring Figures) Build cubes ① ($2\times2\times2$), ② ($3\times3\times3$), ③ ($4\times4\times4$) from $1\,\mathrm{cm}$ small cubes and paint their surfaces. How many small cubes are painted on three, two, one, and zero faces? Complete the table and find the rule.

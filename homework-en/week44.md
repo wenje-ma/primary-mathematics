@@ -18,8 +18,6 @@
 > 
 > 相邻两个常用面积单位间的进率是 $100$: $1$ 平方分米 $=100$ 平方厘米, $1$ 平方米 $=100$ 平方分米.
 
----
-
 ## Exercise 133
 
 (Lesson: Area and Area Units — Do It, Problem 1) Feel the cover of an exercise book and the surface of a pencil-box lid, and say which surface has the smaller area.

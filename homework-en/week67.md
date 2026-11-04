@@ -3,8 +3,6 @@
 > 
 > 鸡兔同笼: 笼子里鸡和兔共若干只, 已知头的总数和脚的总数, 求鸡和兔各几只. 用假设法: 先假设全是鸡, 脚数 $=$ 头数 $\times2$, 比实际少的脚数除以每只兔比鸡多的 $2$ 只脚, 就是兔的只数.
 
----
-
 ## Exercise 232
 
 (Lesson: Chickens and Rabbits in a Cage, Try It) There are $10$ bicycles and tricycles altogether, with $26$ wheels in total. How many bicycles and how many tricycles are there?

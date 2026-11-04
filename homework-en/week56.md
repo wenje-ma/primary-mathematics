@@ -6,8 +6,6 @@
 > 
 > 描述物体位置需要方向和参照物 (标志物). 画平面图时要标出方向 (上北下南左西右东) 和标志物位置. 借助指南针可以辨别方向.
 
----
-
 ## Exercise 213
 
 (Lesson: Campus Treasure Hunt, Discuss) The treasure map marks the cafeteria, the teaching building, the multi-purpose hall, the gymnasium, the library, the playground, the national flag, the bicycle shed, the science and technology hall, and the main gate. Treasure-hunt instructions: Treasure No. $1$ is on the $2$nd floor of the middle building on the north side of campus, in the $1$st classroom counted from the west, $1$ m from the front blackboard; Treasure No. $3$ is under the largest tree at the southeast corner of the science and technology hall. What does "southeast corner" mean?

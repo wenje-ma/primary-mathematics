@@ -6,8 +6,6 @@
 > 
 > 确定平面内一个物体的准确位置, 先确定参照点, 再知道物体相对于参照点的方向和距离. 方向一般用不大于 $45^{\circ}$ 的角描述, 如"北偏西 $40^{\circ}$"; 平面图上线段长度按比例尺表示实际距离.
 
----
-
 ## Exercise 1
 
 (Lesson: Determining Position by Ordered Pairs, Example 1) In the teacher's seating chart, Zhang Liang is in column $2$, row $3$, written as $\left(2,3\right)$. (1) What ordered pairs give Wang Yan's and Zhao Xue's positions? What's the difference? (2) $\left(6,3\right)$ is Wang Le's position; what column and row?

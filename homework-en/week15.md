@@ -9,8 +9,6 @@
 > 
 > $1$ 张 $20$ 元可以换 $2$ 张 $10$ 元或 $4$ 张 $5$ 元; 购物时要正确付款, 并学会找零.
 
----
-
 ## Exercise 131
 
 (Lesson: Happy Shopping Street, Introduction) I have $20$ yuan; what can I buy? How many $1$-yuan notes can one $20$-yuan note be exchanged for?

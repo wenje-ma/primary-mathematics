@@ -45,8 +45,6 @@
 > 
 > 线: 平行与垂直; 角: 锐角 $< $ 直角 $< $ 钝角 $< $ 平角 $< $ 周角; 四边形: 平行四边形 (两组对边平行), 梯形 (一组对边平行); 数据用条形统计图表示更直观.
 
----
-
 ## Exercise 219
 
 (Lesson: Application and Improvement, Problem 1) Write a number larger than $1$ hundred million in the place-value table and have a classmate read it aloud; point to a digit and explain its meaning; rewrite it in units of "ten thousand" or "hundred million".

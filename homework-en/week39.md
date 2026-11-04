@@ -12,8 +12,6 @@
 > 
 > 求一个数的几分之一, 把这个数平均分成分母那么多份, 求出一份; 求几分之几, 再用一份的数乘分子.
 
----
-
 ## Exercise 211
 
 (Lesson: One Over Some Number — Example 1) Divide a mooncake into two equal parts; each part is half of the mooncake. How is this written?

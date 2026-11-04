@@ -21,8 +21,6 @@
 > 
 > 以格点为顶点的多边形叫格点多边形. 用 $a$ 表示内部格点数, $b$ 表示边界格点数, 则格点多边形面积 $S=a+b\div2-1$ (皮克定理).
 
----
-
 ## Exercise 153
 
 (Lesson: Area of a Parallelogram, Example 1) A parallelogram field has base $300$ m and height $200$ m; what is its area? How many hectares?

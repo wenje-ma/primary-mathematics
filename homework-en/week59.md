@@ -3,8 +3,6 @@
 > 
 > 从前面, 上面, 左面 (或右面) 观察由小正方体搭成的物体, 看到的平面图形叫作这个方向看到的形. 从不同方向看同一个物体, 看到的图形一般不同; 从同一个位置看不同的物体, 看到的图形也可能相同.
 
----
-
 ## Exercise 25
 
 (Lesson: Observing Objects, Try It) From which positions did Xiao Hua see the following figures? Build it, look, and draw the matching connections (view from the front, view from the top, view from the left side).

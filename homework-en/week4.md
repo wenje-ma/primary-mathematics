@@ -24,8 +24,6 @@
 > 
 > 一道算式里既有加法又有减法, 从左到右依次计算, 如 $4+3-2=5$.
 
----
-
 ## Exercise 83
 
 (Lesson: Addition and Subtraction of 8 and 9, Practice, Problem 1) Write the sentence from the picture: $5+4=\square$; $9-4=\square$; $6+2=\square$; $8-2=\square$; $4+\square=\square$; $2+\square=\square$; $8-\square=\square$.

@@ -18,8 +18,6 @@
 > 
 > 小九九口诀表共 $45$ 句, 呈三角形排列, 从"一一得一"到"九九八十一"; 除两个乘数相同的口诀外, 每句口诀可计算两个乘法算式和两个除法算式.
 
----
-
 ## Exercise 172
 
 (Lesson: Multiplication Rhymes of 7, Example, Puzzle) You have studied the rhymes of $1\sim6$; now try to make up the rhymes of $7$: for puzzle piece counts $1\sim7$, the number of tiles is each a multiple of $7$, and write out each rhyme and the two corresponding multiplication expressions.

@@ -18,8 +18,6 @@
 > 
 > 容器所能容纳物体的体积, 通常叫作它们的容积. 计量液体常用升 ($\mathrm{L}$) 和毫升 ($\mathrm{mL}$), $1\,\mathrm{L}=1\,\mathrm{dm^3}$, $1\,\mathrm{mL}=1\,\mathrm{cm^3}$, $1\,\mathrm{L}=1000\,\mathrm{mL}$.
 
----
-
 ## Exercise 37
 
 (Lesson: Understanding Cuboids and Cubes, Do It) After folding, which of the figures below can enclose the cube on the left? Mark "$\surd$" in the parentheses.

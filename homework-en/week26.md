@@ -12,8 +12,6 @@
 > 
 > 求商时想: 除数和几相乘的积接近被除数, 并且小于被除数, 商就是几; 算出后要检查余数是否比除数小.
 
----
-
 ## Exercise 15
 
 (Lesson: Introduction to Division with Remainder, Do It) Circle and fill in. (1) $17$ $\star$, circled $4$ by $4$, circled $\_\_$ groups, $\_\_$ left over, $17\div4=\_\_$(groups)……$\_\_$(items). (2) $19$ $\star$, circled $4$ by $4$, circled $\_\_$ groups, $\_\_$ left over.

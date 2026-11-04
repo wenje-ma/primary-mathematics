@@ -12,8 +12,6 @@
 > 
 > 按一定标准把事物分成若干类后, 还可以按另一个标准在每一类内部继续分, 这样逐层分下去, 结果更便于使用.
 
----
-
 ## Exercise 1
 
 (Lesson: Classification, Example, Balloons) Classify the balloons below. Classified by shape, how many balloons of each kind are there? Represent the results. Which kind of balloon is the most? Which is the fewest? Classified by color, how did you represent the results?

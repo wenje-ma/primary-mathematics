@@ -6,8 +6,6 @@
 > 
 > 只根据从一个方向看到的平面图形摆几何体, 摆法不唯一; 根据从正面, 左面, 上面三个方向看到的平面图形, 才能确定这个几何体的形. 从上面看到的图形中每个小正方形上标出的数, 表示该位置上小正方体的个数.
 
----
-
 ## Exercise 1
 
 (Lesson: Observing Objects, Do It) Build a solid with $5$ identical small cubes as required: (1) From the front it looks like a row of $3$ small squares placed horizontally; (2) Building on (1), make the top view also a row of $3$ small squares placed horizontally.

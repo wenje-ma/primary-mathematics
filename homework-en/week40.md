@@ -18,8 +18,6 @@
 > 
 > 完成一件事要分两步, 每步分别有几种选择, 总数用乘法, 如上装 $2$ 种下装 $3$ 种共 $2\times3=6$ 种搭配; 完成一件事分两类, 总数用加法, 如 $2$ 班飞机和 $3$ 班高铁共 $2+3=5$ 种选择.
 
----
-
 ## Exercise 269
 
 (Lesson: Application Improvement, Problem 1) Route distances: Beijing–Chengdu $1542$ kilometers, Beijing–Guangzhou $1908$ kilometers, Beijing–Sanya $2543$ kilometers, Beijing–Urumqi $2464$ kilometers. (1) Fill in the units: $1$ hour of flight is about $900$ ( ), maximum takeoff mass about $72$ ( ), total fuselage length about $39$ ( ). (2) Flying from Beijing to Guangzhou and then $690$ kilometers to Sanya, how many kilometers more is that than flying directly to Sanya? (3) One plane carries $164$ people; estimate whether $5$ planes can carry $1000$ people in one trip. (4) A hard-sleeper ticket is $745$ yuan; an air ticket is about $4$ times that. About how much is an air ticket?

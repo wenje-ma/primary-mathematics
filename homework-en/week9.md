@@ -9,8 +9,6 @@
 > 
 > 七巧板是我国的一种传统益智玩具, 由 $7$ 块板组成, 用它们可以拼出千变万化的图案.
 
----
-
 ## Exercise 1
 
 (Lesson: Recognizing Plane Shapes, Draw and Sort) Draw and sort: classify rectangles, squares, parallelograms, triangles, and circles.

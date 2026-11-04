@@ -9,8 +9,6 @@
 > 
 > $1$ 天 (日) 是 $24$ 小时, 经过一天时针转 $2$ 圈. 采用从 $0$ 时到 $24$ 时的计时法叫 $24$ 时计时法; 下午和晚上的时刻, 用普通计时法的时刻加上 $12$.
 
----
-
 ## Exercise 178
 
 (Lesson: Remember It) On a blank calendar, fill in every day of the month in which your birthday falls this year, and circle the days of special meaning.

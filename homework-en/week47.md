@@ -9,8 +9,6 @@
 > 
 > 列竖式时小数点要对齐, 也就是相同单位上的数对齐, 再按整数加减法计算, 得数的小数点也要对齐.
 
----
-
 ## Exercise 186
 
 (Lesson: Understanding Decimals — Do It, Problem 1) Look at the picture and fill in the blanks: $1$ centimeter is $\left(\ \ \right)$ centimeters, $0.1$ decimeter is $\left(\ \ \right)$ decimeters, and so on; express the graduations with decimals.

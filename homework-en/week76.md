@@ -9,8 +9,6 @@
 > 
 > 通过重复试验记录数据, 根据数据中各结果出现的次数多少, 可以推测盒子中哪种颜色的球多, 哪种少. 试验次数越多, 推测越可靠.
 
----
-
 ## Exercise 189
 
 (Lesson: Likelihood, Example 1) Three students draw lots to perform; three cards read sing, dance, and recite. (1) Xiaoming draws first; what might he draw? (2) After Xiaoming draws dance, what might Xiaoli draw? (3) After Xiaoli draws recite, what will Xiaohong draw?

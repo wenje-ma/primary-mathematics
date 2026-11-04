@@ -12,8 +12,6 @@
 > 
 > 解决需要多步计算的实际问题时, 通常把问题分解为几个关联的小问题, 一步解决一个小问题; 可以画线段图分析数量关系, 列综合算式解答.
 
----
-
 ## Exercise 11
 
 (Lesson: Same-Level Mixed Operations, Do It) First say the order of operations, then compute: $120+40-51$; $2\times8\div4$; $56\div7\div2$.

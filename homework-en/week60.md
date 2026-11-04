@@ -24,8 +24,6 @@
 > 
 > 利用加法, 乘法的运算律和减法, 除法的运算性质, 把能凑成整十, 整百的数先算, 使计算更简便.
 
----
-
 ## Exercise 36
 
 (Lesson: Operation Laws of Addition, Try It) Fill in the blanks by the commutative law of addition: $300+600=600+$ ___; $78+$ ___ $=43+$ ___; $a+12=12+$ ___; ___ $+65=65+35$.

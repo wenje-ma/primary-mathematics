@@ -21,8 +21,6 @@
 > 
 > 出租车, 水费等分段计费问题, 先按标准分成几段, 分别计算每段费用, 再相加; 不足 $1$ 单位按 $1$ 单位计算.
 
----
-
 ## Exercise 15
 
 (Lesson: Multiplying a Decimal by an Integer, Example 1) An item costs $9.5$ yuan; how much do $3$ cost? $9.5\times3=\_\_$.

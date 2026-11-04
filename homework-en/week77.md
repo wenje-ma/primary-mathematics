@@ -21,8 +21,6 @@
 > 
 > 事件分为必然事件, 不可能事件和随机事件; 随机事件发生的可能性有大有小, 可通过试验数据推测.
 
----
-
 ## Exercise 206
 
 (Lesson: Review and Connections, Application, Problem 1) Compute and compare: $27\times3$ vs $2.7\times3$ vs $2.7\times0.3$ vs $2.7\times0.03$; $24\div6$ vs $2.4\div6$ vs $2.4\div0.6$ vs $2.4\div0.06$.

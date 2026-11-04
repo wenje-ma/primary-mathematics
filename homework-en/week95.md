@@ -12,8 +12,6 @@
 > 
 > 应纳税额与各种收入中应纳税部分的比率叫税率; 单位时间内利息与本金的比率叫利率. 利息 $=$ 本金 $\times$ 利率 $\times$ 存期.
 
----
-
 ## Exercise 203
 
 (Lesson: Meaning of Percent, Do It Problem 1) Explain: a high school's freshman admission rate is $85\%$; Beijing's urban green coverage is $35\%$.

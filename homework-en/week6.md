@@ -24,8 +24,6 @@
 > 
 > 11-20 各数加上一个一位数, 以及相应的减法, 可以用数的组成来计算.
 
----
-
 ## Exercise 139
 
 (Lesson: Re-Understanding 10, Count It) Choose one object from the picture on the previous page and count it.

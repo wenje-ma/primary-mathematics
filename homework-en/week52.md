@@ -12,8 +12,6 @@
 > 
 > 根据问题需要把乘数估大或估小, 快速判断结果范围, 再决定精确计算.
 
----
-
 ## Exercise 74
 
 (Lesson: Mental Multiplication — Do It, Problem 1) Mental math: $11\times5$, $14\times4$, $15\times6$, $23\times4$; $110\times5$, $140\times4$, $150\times6$, $230\times4$.

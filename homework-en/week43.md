@@ -12,8 +12,6 @@
 > 
 > 长方形周长 $=$(长$+$宽)$\times2$; 正方形周长 $=$ 边长$\times4$.
 
----
-
 ## Exercise 98
 
 (Lesson: Polygons — Do It, Problem 1) Find objects around you whose surfaces contain polygons, and say what shapes they are.

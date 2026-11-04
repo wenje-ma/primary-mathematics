@@ -15,8 +15,6 @@
 > 
 > 有时只需判断"够不够", 不必精确计算, 可把数往大估或往小估: 把人数往大估, 钱数都够, 实际一定够.
 
----
-
 ## Exercise 101
 
 (Lesson: Mental Multiplication — Example 1) Riding the roller coaster costs $20$ yuan per person; how much do $3$ people need?

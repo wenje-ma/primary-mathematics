@@ -9,8 +9,6 @@
 > 
 > "每几个装一份, 求能装满几份还剩几个", 可以 $8$ 个 $8$ 个地圈一圈, 也可以连续减.
 
----
-
 ## Exercise 69
 
 (Lesson: Mental Addition, Example 1) I wrote $26$ characters and still need to write $2$; how many characters in total? I wrote $20$ characters; how many characters have Xiaoliang and Xiaoli written in total?

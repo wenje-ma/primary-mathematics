@@ -3,8 +3,6 @@
 > 
 > 遇到 $1$ 亿这样很大的数无法直接测量时, 可以先测量较小数量 (如 $100$ 张纸的厚度, $100$ 粒大米的质量), 再利用 $1$ 亿 $=100000000=10000\times10000$ 的倍数关系推算出 $1$ 亿对应的量.
 
----
-
 ## Exercise 45
 
 (Lesson: How High Are 100 Million Sheets of Paper — Think About It) Xiaoli estimates that a stack of paper in the printing factory has $1$ hundred-million sheets; how can we tell whether her estimate is accurate?

@@ -6,8 +6,6 @@
 > 
 > 用两种不同直条 (配合图例) 同时表示两类数据的条形统计图叫复式条形统计图, 便于两组数据的比较.
 
----
-
 ## Exercise 199
 
 (Lesson: Single Bar Chart, Try It, Problem 1) Survey the birth months of your classmates and draw a bar chart. (1) How many people are there in total? (2) Are there any months with the same number of births? (3) In which month are the most and fewest people born?

@@ -12,8 +12,6 @@
 > 
 > 求总数,求"原来有多少", 把两部分合起来用加法, 如领走的 $6$ 个加剩下的 $5$ 个, $6+5=11$.
 
----
-
 ## Exercise 175
 
 (Lesson: 9 Plus Something, Do It, Problem 1) Circle, calculate, and explain: $9+8=\square$; $9+3=\square$.

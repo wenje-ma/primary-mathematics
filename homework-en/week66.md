@@ -6,8 +6,6 @@
 > 
 > $10$ 岁左右的儿童从每顿午餐中获取的热量应不低于 $2926$ 千焦, 脂肪应不超过 $50\,\mathrm{g}$. 搭配午餐时要同时满足热量和脂肪两项要求.
 
----
-
 ## Exercise 228
 
 (Lesson: Nutritious Lunch) The energy (kilojoules), fat ($\mathrm{g}$) and protein ($\mathrm{g}$) content of $9$ dishes in a cafeteria: fried chicken cutlet $1254,19,20$; tomato scrambled eggs $899,15,11$; mushroom bok choy $911,11,7$; sweet-and-sour fish $2112,18,14$; home-style tofu $1020,16,13$; coriander winter melon $564,7,1$; kung pao chicken $1033,18,7$; potato beef stew $1095,23,16$; leek stir-fried bean sprouts $497,12,3$. Which dishes would you choose?

@@ -12,8 +12,6 @@
 > 
 > $0$ 表示"一个也没有", 也表示数轴上起点. 一个数加 $0$ 或减 $0$, 大小不变: $a+0=a$, $a-0=a$; 两个相同的数相减得 $0$: $a-a=0$.
 
----
-
 ## Exercise 23
 
 (Lesson: Addition and Subtraction Within 1–5, Do It, Problem 1) Look at the picture and explain what the expressions mean: $2+2=4$; $4+1=5$.

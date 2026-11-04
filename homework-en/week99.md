@@ -15,8 +15,6 @@
 > 
 > 存入银行的钱叫做本金, 取款时银行多支付的钱叫做利息, 单位时间内利息与本金的比率叫做利率. 利息 = 本金 * 利率 * 存期.
 
----
-
 ## Exercise 12
 
 (Lesson: Discount, Example 1) (1) Dad buys Xiaoyu a bicycle originally priced at $280$ yuan, now sold at 15% off. How much does the bicycle cost? (2) An electric kettle originally priced at $160$ yuan is now sold at 10% off. How much cheaper is it than the original price?

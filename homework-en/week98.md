@@ -9,8 +9,6 @@
 > 
 > 用带箭头的直线上的点表示数, 直线上的 $0$ 是分界点 (原点), $0$ 右边的数是正数, $0$ 左边的数是负数. 正数和负数表示相反意义的量, 方向相反则符号相反.
 
----
-
 ## Exercise 1
 
 (Lesson: Understanding Negative Numbers, Do It, Problem 1) Which temperature is lower, $-3\,^{\circ}\mathrm{C}$ or $-18\,^{\circ}\mathrm{C}$?

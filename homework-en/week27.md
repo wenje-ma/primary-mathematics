@@ -12,8 +12,6 @@
 > 
 > 知道一个数是另一个数的几倍和这个数, 求 $1$ 份是多少, 用除法计算. 如跳的距离 $12$ 米是体长的 $6$ 倍, $12\div6=2$ 米就是体长.
 
----
-
 ## Exercise 55
 
 (Lesson: Understanding Times, Do It) Say from the picture: the number of $\bigcirc$ is $\_\_$ times the number of $\triangle$, and the number of $\square$ is $\_\_$ times the number of $\triangle$.

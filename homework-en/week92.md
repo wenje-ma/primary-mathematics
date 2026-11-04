@@ -6,8 +6,6 @@
 > 
 > 正数和负数可以用来表示相反意义的量: 把一种意义的量规定为正, 与它相反意义的量就用负表示. 如收入为正, 支出为负; 零上温度为正, 零下温度为负; 海平面以上为正, 海平面以下为负.
 
----
-
 ## Exercise 128
 
 (Lesson: Finding Negative Numbers, Pre-class Survey) Find some numbers with "$-$" in daily life and learn their meanings, e.g. weather forecasts, electronic bills, altitude.

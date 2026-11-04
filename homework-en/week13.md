@@ -9,8 +9,6 @@
 > 
 > 个位不够减, 从十位退 $1$.
 
----
-
 ## Exercise 93
 
 (Lesson: Written Addition, Example 1) Class 1(1) has $35$ students, and Class 1(2) has $32$; how many students in total? $35+32=\square$.

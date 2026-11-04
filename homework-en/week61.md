@@ -30,8 +30,6 @@
 > 
 > 数的改写和求近似数 有时为了读写方便,会把整万或整亿的数改写成用万或 亿作单位的数. 白细胞:能消灭病菌, 清洁血液. 红细胞:能输送 氧气. 一小滴血液大约含有: 红细胞:25000000个=2500万个 白细胞: 30000个= 万个 想一想:怎样把下面的数改写成用亿作单位的数? 200000000=2亿 可以先分级,找到 1000000000= 亿位,再改写. 530500000000= 做一做 把下面各数改写成用万或亿作单位的数. 25:0000= 3580:0000= 460:0000:0000= 705:0000:0000= 16 万以上数的认识
 
----
-
 ## Exercise 79
 
 (Lesson: Meaning of Decimals, Try It) Divide $1\,\mathrm{m}$ equally into $1000$ parts, and express some of the parts as a fraction and a decimal (e.g. $1\,\mathrm{mm}$ is $\frac{1}{1000}\,\mathrm{m}$, i.e. $0.001\,\mathrm{m}$). What is the rate of conversion between two adjacent counting units?

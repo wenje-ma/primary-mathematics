@@ -24,8 +24,6 @@
 > 
 > 小数表示的就是十分之几, 百分之几, 千分之几的数, 可以直接写成分母是 $10,100,1000,\cdots$ 的分数再化简; 分数化成小数, 用分子除以分母, 除不尽时按"四舍五入"法取近似数.
 
----
-
 ## Exercise 96
 
 (Lesson: Meaning of Fractions, Do It) State the meaning and fraction unit of each: $\frac{3}{5}$, $\frac{7}{10}$, $\frac{5}{8}$, $\frac{3}{4}$. Divide a $1$$m$ ribbon equally into $5$ pieces; how long is each piece?

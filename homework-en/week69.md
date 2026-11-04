@@ -9,8 +9,6 @@
 > 
 > 根据从前面, 上面, 左面三个方向看到的图形, 可以确定由小正方体摆成的组合体的形; 若只给出一个方向的视图, 组合体的摆法往往不唯一.
 
----
-
 ## Exercise 1
 
 (Lesson: Observing Simple Combinations, Example 1) Build a combination from $4$ identical small cubes, with every cube in the combination sharing at least one face with another cube. How many different arrangements do you have?

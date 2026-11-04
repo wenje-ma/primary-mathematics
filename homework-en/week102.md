@@ -18,8 +18,6 @@
 > 
 > 一幅图的图上距离和实际距离的比, 叫做这幅图的比例尺. 比例尺 = 图上距离 / 实际距离.
 
----
-
 ## Exercise 65
 
 (Lesson: Meaning of a Proportion, Do It) In which of the following pairs can the two ratios form a proportion? (1) $6:10$ and $9:15$; (2) $20:5$ and $1:4$; (3) $\frac{1}{2}:\frac{1}{3}$ and $6:4$; (4) $0.6:0.2$ and $\frac{3}{4}:\frac{1}{4}$.

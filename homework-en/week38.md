@@ -9,8 +9,6 @@
 > 
 > 三角尺上的角是直角. 比直角小的角是锐角, 比直角大的角是钝角. 要知道一个角是不是直角, 可以用三角尺上的直角比一比.
 
----
-
 ## Exercise 182
 
 (Lesson: Line Segment, Ray, Straight Line — Example) Tell about the connections and differences among a line segment, a ray and a straight line.

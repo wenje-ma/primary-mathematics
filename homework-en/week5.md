@@ -6,8 +6,6 @@
 > 
 > 圆柱上下两个面是圆形, 可以立起来, 也可以滚动; 球能向四面八方滚动.
 
----
-
 ## Exercise 125
 
 (Lesson: Recognizing Solid Shapes, Sort It) Sort by shape: what shape are these objects?

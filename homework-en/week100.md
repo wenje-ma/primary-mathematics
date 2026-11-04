@@ -6,8 +6,6 @@
 > 
 > 千分数表示一个数是另一个数的千分之几, 也叫千分率, 千分号写作 "$\perthousand$". 万分数表示一个数是另一个数的万分之几, 也叫万分率, 万分号写作 "$\pertenthousand$". 它们与百分数一样, 只是把分母换成 $1000$ 或 $10000$.
 
----
-
 ## Exercise 33
 
 (Lesson: Activity 1) Visit a nearby bank to investigate the latest deposit interest rates, and compare them with the rate table on page 11 of the textbook (demand deposit $0.35\%$, three months $1.10\%$, six months $1.30\%$, one year $1.50\%$, two years $2.10\%$, three years $2.75\%$) to see what has changed.

@@ -9,8 +9,6 @@
 > 
 > 把工作总量看作单位"$1$", 用每天完成总量的几分之几表示工作效率; 两队合作的工作时间 $=1\div$ 效率和.
 
----
-
 ## Exercise 91
 
 (Lesson: Understanding Reciprocals, Example 1) Compute then observe: $\frac{3}{8}\times\frac{8}{3}$; $\frac{7}{15}\times\frac{15}{7}$; $5\times\frac{1}{5}$; $\frac{1}{12}\times12$. Which two are reciprocals? $\frac{3}{5}$, $6$, $\frac{7}{2}$, $\frac{5}{3}$, $\frac{1}{6}$, $1$, $\frac{2}{7}$, $0$.

@@ -24,8 +24,6 @@
 > 
 > 把四边形分成 $2$ 个三角形, 四边形的内角和是 $180^\circ\times2=360^\circ$.
 
----
-
 ## Exercise 147
 
 (Lesson: Properties of Triangles, Try It) State the names of the parts of each triangle below, and draw the height on the specified base. How many heights can one triangle have?

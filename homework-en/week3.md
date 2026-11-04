@@ -12,8 +12,6 @@
 > 
 > 根据一幅图可以列出两道加法算式和两道减法算式, 称为一图四式.
 
----
-
 ## Exercise 47
 
 (Lesson: Understanding 6–9, Say It) What other objects in daily life can $6$ represent the quantity of? What about $7$, $8$, $9$?

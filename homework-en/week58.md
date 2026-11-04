@@ -24,8 +24,6 @@
 > 
 > 解决怎样租船 (租车) 最省钱的问题, 先算每种船 (车) 每个座位的单价, 优先租单价便宜的, 再调整尽量不空座位, 比较几种方案后选最便宜的.
 
----
-
 ## Exercise 1
 
 (Lesson: Meaning of Addition and Subtraction and Their Parts, Try It) Based on $2468+575=3043$, write the answers to the following two directly: $3043-2468=$ ___; $3043-575=$ ___.

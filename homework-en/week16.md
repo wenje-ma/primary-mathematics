@@ -15,8 +15,6 @@
 > 
 > 用加,减法可以解决一共有多少, 还剩多少, 比多少的问题.
 
----
-
 ## Exercise 141
 
 (Lesson: Review and Connection, Knowledge Map) What knowledge did you learn this semester? Organize "Numbers within 100", "Addition and Subtraction within 100", and "The Addition-Subtraction Relations Among Quantities" into a knowledge map.

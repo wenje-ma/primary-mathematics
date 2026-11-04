@@ -15,8 +15,6 @@
 > 
 > 在解决实际问题时, 根据需要取商的近似值: 一般用"四舍五入"法; 装东西需要几个容器用"进一"法; 买东西能买几个用"去尾"法.
 
----
-
 ## Exercise 53
 
 (Lesson: Dividing a Decimal by an Integer, Example 1) $4$ students exchanged $22$ yuan; how much per person on average? $22\div4=\_\_$.

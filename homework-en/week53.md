@@ -9,8 +9,6 @@
 > 
 > 每小时 (或每分钟等) 行的路程叫速度, 一共行多长的路叫路程, 行了几小时 (或几分钟等) 叫时间. 路程 $=$ 速度 $\times$ 时间; 速度 $=$ 路程 $\div$ 时间; 时间 $=$ 路程 $\div$ 速度.
 
----
-
 ## Exercise 130
 
 (Lesson: Addition Model, Try It) $95$ primary-school students join after-school clubs (one club per person). The science club has $5$ boys and some girls; the dance club has $27$ boys and $22$ girls; the art club has $18$ boys and $18$ girls. (1) How many people are in the dance and art clubs altogether? (2) How many girls joined the clubs in total? (3) Pose a question and answer it.

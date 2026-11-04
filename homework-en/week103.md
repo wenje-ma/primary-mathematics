@@ -3,8 +3,6 @@
 > 
 > 脚踏板带动前齿轮, 前齿轮带动后齿轮, 后齿轮带动后轮转动. 前齿轮齿数 $\times$ 前齿轮转数 $=$ 后齿轮齿数 $\times$ 后齿轮转数, 即后齿轮转数 $=\frac{\text{前齿轮齿数}}{\text{后齿轮齿数}}\times$ 前齿轮转数. 蹬一圈走的距离 $=\frac{\text{前齿轮齿数}}{\text{后齿轮齿数}}\times$ 车轮周长. 蹬同样圈数, 前后齿轮齿数的比值越大, 自行车走得越远.
 
----
-
 ## Exercise 91
 
 (Lesson: Activity 1) For a bicycle, how far does it travel in one pedal revolution? Given the front chainring has $48$ teeth, the rear sprocket has $16$ teeth, and the wheel diameter is $60\,\mathrm{cm}$.

@@ -9,8 +9,6 @@
 > 
 > 复式条形统计图可以同时表示多组数据, 便于直观比较.
 
----
-
 ## Exercise 214
 
 (Lesson: The Mean, Try It) $5$ students donated books: Yang Liang $8$, Wang Bo $6$, Liu Fei $9$, Zhang Li $8$, Tang Xiaodong $14$. On average, how many books did each student donate?

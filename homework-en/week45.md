@@ -9,8 +9,6 @@
 > 
 > 数据较多时, 按一定标准把数据分成几段整理, 这也是按标准分类. 用统计解决问题: 先收集整理数据, 再分析, 最后得出结论.
 
----
-
 ## Exercise 162
 
 (Lesson: Data Collection — Do It, Problem 1) Count the numbers of trucks, buses, cars and motorcycles passing an intersection in $10$ minutes (record with tally marks). (1) Fill the table. (2) Which kind of vehicle is most numerous? Which is least?

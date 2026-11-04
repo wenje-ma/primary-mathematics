@@ -15,8 +15,6 @@
 > 
 > 先画一条射线, 使量角器中心和射线端点重合, $0^{\circ}$ 刻度线和射线重合; 在目标刻度处点一个点; 以射线端点为端点, 通过刚画的点再画一条射线.
 
----
-
 ## Exercise 50
 
 (Lesson: Angles Revisited — Do It) What kind of angle is each of the following? Write the name of each angle.

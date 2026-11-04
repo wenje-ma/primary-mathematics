@@ -18,8 +18,6 @@
 > 
 > 分析数量关系, 可从条件出发想能求什么, 也可从问题出发想先求什么, 分步列式或列综合算式. 归一问题先求单一量, 归总问题先求总量.
 
----
-
 ## Exercise 15
 
 (Lesson: Mental Division — Do It, Problem 1) Mental math: $6\div2$, $80\div4$, $90\div3$, $60\div2$, $800\div4$, $900\div3$.

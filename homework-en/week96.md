@@ -3,8 +3,6 @@
 > 
 > 先由小样本 (一分钟, 一个家庭) 测量用水量, 再按时间或人数比例推算到一小时, 一天, 一年, 全班或全校的总用水量. $1\,\text{L}=1000\,\text{mL}$, $1\,\text{m}^3=1000\,\text{L}$.
 
----
-
 ## Exercise 245
 
 (Lesson: Water and Life, Pre-class Survey) Investigate roughly how many tons of water your own household uses in a month, and find out how the water bill is calculated.

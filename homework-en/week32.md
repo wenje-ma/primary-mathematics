@@ -9,8 +9,6 @@
 > 
 > 把长方体纸盒沿棱剪开, 平铺在桌面上得到的平面图形是长方体的展开图. 长方体有 $6$ 个面, 相对的两个面形, 大小相同; 剪开不同的棱得到不同形的展开图, 展开图中每个面都至少有一条边与其他的面相连.
 
----
-
 ## Exercise 1
 
 (Lesson: Observing Objects from Different Directions, Example 1) Who saw each of the four pictures on the left? Why do they look different? Who saw each of the three pictures on the right? (Four people observe the same object from the front, back, side, and top.)

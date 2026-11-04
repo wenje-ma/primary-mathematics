@@ -9,8 +9,6 @@
 > 
 > 长方体,正方体有平平的面; 圆柱可以立起来也可以滚动; 球能向四面八方滚动.
 
----
-
 ## Exercise 218
 
 (Lesson: Application and Improvement, Problem 1) Carefully observe the table below and answer the questions after it. (1) The number before $14$ is (), and the number after $14$ is (). (2) In the $9$th row, the $7$th number counting from the left is (), which is composed of () tens and () ones. (3) Fill in the blanks; can you walk from the entrance to the exit in order from $1\sim19$? (4) Color the $11$s in the table red. What do you notice? Draw $11$ on the counter. (5) Explain how the numbers in the table are arranged.

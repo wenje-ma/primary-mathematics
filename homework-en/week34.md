@@ -12,8 +12,6 @@
 > 
 > 长度单位从大到小: 千米, 米, 分米, 厘米, 毫米. 相邻两个单位间, 除千米与米间是 $1000$, 其余都是 $10$. 估计一段距离要先选定一个长度作为标准.
 
----
-
 ## Exercise 55
 
 (Lesson: Knowing the Millimeter, Do It) Say: in daily life, which objects are usually measured in millimeters? Show the length of $1$ millimeter with a hand gesture.

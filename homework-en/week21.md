@@ -12,8 +12,6 @@
 > 
 > 量物体长度时, 把尺子的刻度 $0$ 对准物体的一端, 再看物体的另一端对着刻度几, 就是几厘米.
 
----
-
 ## Exercise 123
 
 (Lesson: Centimeters and Meters, Example, Desk) Long ago, how did people measure length? They used the arm-span, the hand-span, and the like as units of length. Using the hand-span to measure the desk, some say it is $5$ hand-spans long, others $3$. They measure the same length, so why are the results different?

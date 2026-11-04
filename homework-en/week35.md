@@ -12,8 +12,6 @@
 > 
 > 没有秤时, 可以用已知质量的物品 (如每袋 $200$ 克的盐) 作标准, 通过拎一拎比较或等量替换称出其他物体的质量. 生活中还有公斤, 斤, 两等单位: $1$ 公斤 $=1$ 千克, $1$ 斤 $=500$ 克, $1$ 公斤 $=2$ 斤, $1$ 斤 $=10$ 两.
 
----
-
 ## Exercise 89
 
 (Lesson: The Story of Cao Chong Weighing the Elephant — Share Your Thoughts) Do you know the story of Cao Chong weighing the elephant? Tell about the steps and method of how Cao Chong weighed the elephant.

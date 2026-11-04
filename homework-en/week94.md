@@ -3,8 +3,6 @@
 > 
 > 标准 $400\,\text{m}$ 跑道直道部分各圈相同, 周长的差别在两端半圆形弯道. 相邻跑道宽 $1.25\,\text{m}$, 外圈弯道半径大 $1.25\,\text{m}$, 相邻跑道一圈相差 $1.25\times2\pi\approx7.85\,\text{m}$.
 
----
-
 ## Exercise 199
 
 (Lesson: The 400 m Track, Pre-class Survey) Gather data on your school or a nearby stadium's track; describe its shape and parts.

@@ -15,8 +15,6 @@
 > 
 > 一个数, 如果只有 $1$ 和它本身两个因数, 叫作质数 (素数); 如果除了 $1$ 和它本身还有别的因数, 叫作合数. $1$ 既不是质数, 也不是合数.
 
----
-
 ## Exercise 7
 
 (Lesson: Understanding Factors and Multiples, Do It) Among the following $4$ pairs, who is a factor of whom? Who is a multiple of whom? $4$ and $24$, $26$ and $13$, $75$ and $25$, $81$ and $9$.

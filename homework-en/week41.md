@@ -9,8 +9,6 @@
 > 
 > 物体绕着一个点或轴进行圆周运动的现象叫做旋转.
 
----
-
 ## Exercise 1
 
 (Lesson: Axisymmetric Figures — Do It, Problem 1) Which of the figures below are axisymmetric? Mark "√" in the ( ).

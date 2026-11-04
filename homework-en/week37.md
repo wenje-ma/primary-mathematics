@@ -6,8 +6,6 @@
 > 
 > 设计一个编码方案, 要先确定需要包含哪些信息 (如年级, 班级, 序号, 性别), 再给每部分规定固定的位数和顺序; 编码范围扩大 (全班, 全校, 全市) 时, 方案要相应增加位数才能不重复.
 
----
-
 ## Exercise 174
 
 (Lesson: Numeral Codes — Activity Preparation) Choose a numeral code you have seen in daily life and investigate the information it represents (such as a phone number, an ID card number, a bank card number, or a book ISBN).
