@@ -1,160 +1,228 @@
 # week16
-> **Definition 2.3.3 (Comparing Two-digit Numbers)**
+> **Definition 2.5.1 (竖式)**
 > 
-> 比较两位数大小时, 先看十位上的数, 十位上数大的那个数就大; 十位相同再看个位.
+> 笔算加,减法用竖式计算: 相同数位要对齐, 从个位算起.
+> **Definition 2.5.2 (笔算加法)**
+> 
+> 个位相加满十, 向十位进 $1$.
+> **Definition 2.5.3 (笔算减法)**
+> 
+> 个位不够减, 从十位退 $1$.
+> **Definition 2.6.1 (用加法解决问题)**
+> 
+> 知道两部分数量求总数, 用加法; 知道一个数和"比它多几", 求较大数, 也用加法.
+> **Definition 2.6.2 (用减法解决问题)**
+> 
+> 知道总数和其中一部分求另一部分, 用减法; 求一个数比另一个数多 (少) 几, 用大数减小数.
 > **Definition 2.6.3 (比多少)**
 > 
 > 求一个数比另一个数多 (或少) 多少, 用减法计算.
-> **Definition 2.8.1 (100 以内的数)**
+> **Definition 2.7.1 (人民币的单位)**
 > 
-> $2$ 个十和 $5$ 个一合起来是 $25$; $9$ 个十和 $9$ 个一合起来是 $99$, 再添 $1$ 就是 $100$, 也就是 $1$ 个百.
-> **Definition 2.8.2 (100 以内的加,减法)**
+> 人民币是我国的法定货币, 有纸币和硬币. 人民币的单位有元, 角, 分.
+> **Definition 2.7.2 (元角分的换算)**
 > 
-> 计算时几个一和几个一相加, 减, 几个十和几个十相加, 减; 个位相加满十进 $1$, 不够减退 $1$.
-> **Definition 2.8.3 (数量关系)**
+> $1$ 元 $=10$ 角, $1$ 角 $=10$ 分.
+> **Definition 2.7.3 (人民币的兑换与找零)**
 > 
-> 用加,减法可以解决一共有多少, 还剩多少, 比多少的问题.
+> $1$ 张 $20$ 元可以换 $2$ 张 $10$ 元或 $4$ 张 $5$ 元; 购物时要正确付款, 并学会找零.
 
-## Exercise 141
+## Exercise 1
 
-(Lesson: Review and Connection, Knowledge Map) What knowledge did you learn this semester? Organize "Numbers within 100", "Addition and Subtraction within 100", and "The Addition-Subtraction Relations Among Quantities" into a knowledge map.
+(Lesson: Written Addition and Subtraction Within 100, Solve the Problem, Problem 3) Xiaolan collects stamps: landscapes $31$, portraits $22$, animals $25$, buildings $16$. (1) How many landscape and portrait stamps in total? (2) How many animal and building stamps in total?
 
-### Solution to Exercise 141
+### Solution to Exercise 1
 
-By **Definition 2.8.1 (Numbers within 100)**, $2$ tens and $5$ ones combined make $25$; by **Definition 2.8.2 (Addition and Subtraction within 100)**, like units are added and subtracted; by **Definition 2.8.3 (Quantity Relations)**, use addition and subtraction to solve practical problems; just draw them into a knowledge map. $\blacksquare$
+By **Definition 2.5.1 (Vertical Form)**: (1) $31+22=53$ (stamps); (2) $25+16=41$ (stamps). $\blacksquare$
 
-## Exercise 142
+## Exercise 2
 
-(Lesson: Numbers and Operations, Calculate) $46+35=\square$, $34-18=\square$.
+(Lesson: Addition-Subtraction Relationships Between Quantities, Introduction) There were originally $5$ boxes, and $1$ more was brought; how many boxes are there now? There are $3$ flowers on the left and $4$ flowers on the right; how many flowers in total?
 
-### Solution to Exercise 142
+### Solution to Exercise 2
 
-By **Definition 2.8.2 (Addition and Subtraction within 100)**, written calculation: $46+35=81$, $34-18=16$. $\blacksquare$
+By **Definition 2.6.1 (Solving Problems with Addition)**, both ask for the total from two parts: $5+1=6$ (boxes), $3+4=7$ (flowers). $\blacksquare$
 
-## Exercise 143
+## Exercise 3
 
-(Lesson: Numbers and Operations, Calculate) $47+25=\square$, $25+33=\square$.
+(Lesson: Addition-Subtraction Relationships Between Quantities, Introduction) There were originally some basketballs, $6$ were taken away, and $5$ remain; how many were there originally?
 
-### Solution to Exercise 143
+### Solution to Exercise 3
 
-By **Definition 2.8.2 (Addition and Subtraction within 100)**: $47+25=72$, $25+33=58$. $\blacksquare$
+By **Definition 2.6.1 (Solving Problems with Addition)**, combine the taken-away and the remaining: $6+5=11$ (basketballs). $\blacksquare$
 
-## Exercise 144
+## Exercise 4
 
-(Lesson: Application and Improvement, Recognizing Shapes) What shape can $2$ identical triangles form? What shape can $4$ identical shapes form?
+(Lesson: Comparing More and Less, Example 1) Class 1 got $12$ red flags, and Class 2 got $9$. How many more flags did Class 1 get than Class 2?
 
-### Solution to Exercise 144
+### Solution to Exercise 4
 
-By "Putting Shapes Together" in this volume, $2$ identical triangles can form a parallelogram (or a larger triangle); $4$ identical squares can form a larger square; any reasonable answer is acceptable. $\blacksquare$
+By **Definition 2.6.2 (Solving Problems with Subtraction)**, remove the equal part: $12-9=3$ (flags); Class 1 got $3$ more flags than Class 2. $\blacksquare$
 
-## Exercise 145
+## Exercise 5
 
-(Lesson: Review and Connection, The Hundreds Chart) Complete this hundreds chart, and say how it differs from the hundreds chart on page $32$.
+(Lesson: Comparing More and Less, Example 2) Class 1 got $12$ red flags, and Class 3 got $3$ more than Class 1. How many flags did Class 3 get?
 
-### Solution to Exercise 145
+### Solution to Exercise 5
 
-By **Definition 2.8.1 (Numbers within 100)**, each row increases by $1$ from left to right and each column increases by $10$ from top to bottom; just fill in the blanks according to the pattern. $\blacksquare$
+By **Definition 2.6.3 (Comparing More and Less)**, to find the number that is several more than a given number, use addition: $12+3=15$ (flags). $\blacksquare$
 
-## Exercise 146
+## Exercise 6
 
-(Lesson: Review and Connection, Practice, Problem 1) In the $7$th row, the $5$th number counting from the right is $\left(\_\_\right)$, and it is made up of $\left(\_\_\right)$ tens and $\left(\_\_\right)$ ones.
+(Lesson: Comparing More and Less, Example 3) Class 1 got $12$ red flags, and Class 4 got $4$ fewer than Class 1. How many flags did Class 4 get?
 
-### Solution to Exercise 146
+### Solution to Exercise 6
 
-Count out the number by row and column in the hundreds chart, and then use **Definition 2.8.1 (Numbers within 100)** to state how many tens and ones it is made up of. $\blacksquare$
+By **Definition 2.6.3 (Comparing More and Less)**, to find the number that is several less than a given number, use subtraction: $12-4=8$ (flags). $\blacksquare$
 
-## Exercise 147
+## Exercise 7
 
-(Lesson: Review and Connection, Practice, Problem 2) (1) $54$ contains $\left(\_\_\right)$ tens and $\left(\_\_\right)$ ones. (2) The two-digit number whose ones digit and tens digit are both $9$ is $\left(\_\_\right)$, and the number that is $1$ greater than it is $\left(\_\_\right)$. (3) The two numbers adjacent to $90$ are $\left(\_\_\right)$ and $\left(\_\_\right)$.
+(Lesson: Comparing More and Less, Example 4) Mom participated in $14$ volunteer activities, and Xiaohong participated in $5$ fewer than Mom. How many did Xiaohong participate in? How many did Mom and Xiaohong participate in together?
 
-### Solution to Exercise 147
+### Solution to Exercise 7
 
-By **Definition 2.8.1 (Numbers within 100)**: (1) $54$ contains $5$ tens and $4$ ones; (2) it is $99$, and the number $1$ greater than it is $100$; (3) the numbers adjacent to $90$ are $89$ and $91$. $\blacksquare$
+By **Definition 2.6.3 (Comparing More and Less)** and **Definition 2.6.1 (Solving Problems with Addition)**, first find Xiaohong: $14-5=9$ (times), then find the total: $14+9=23$ (times). $\blacksquare$
 
-## Exercise 148
+## Exercise 8
 
-(Lesson: Review and Connection, Practice, Problem 3) First write the numbers, then compare their sizes: five, fifty-seven, fifteen, seventy-five, fifty, and arrange them from smallest to largest.
+(Lesson: Comparing More and Less, Do It, Problem 1) Xiaoxin picked $32$ shells, and Xiaoliang picked $25$. How many more shells did Xiaoxin pick than Xiaoliang?
 
-### Solution to Exercise 148
+### Solution to Exercise 8
 
-Written as $5$, $57$, $15$, $75$, $50$. By **Definition 2.3.3 (Comparing the Sizes of Two-Digit Numbers)**, $5< 15< 50< 57< 75$. $\blacksquare$
+By **Definition 2.6.2 (Solving Problems with Subtraction)**: $32-25=7$ (shells). $\blacksquare$
 
-## Exercise 149
+## Exercise 9
 
-(Lesson: Review and Connection, Practice, Problem 4) Mental arithmetic: $48+2$, $63-6$, $20+45$, $94-60$; $78+16$, $54+29$, $36+58$, $62+31$; $47-29$, $61-34$, $73-43$, $90-27$.
+(Lesson: Comparing More and Less, Do It, Problem 2) Xiaolan raised $14$ silkworms, and Xiaoning raised $8$. How many more did Xiaolan raise than Xiaoning? How many fewer did Xiaoning raise than Xiaolan?
 
-### Solution to Exercise 149
+### Solution to Exercise 9
 
-By **Definition 2.8.2 (Addition and Subtraction within 100)**: $48+2=50$, $63-6=57$, $20+45=65$, $94-60=34$; $78+16=94$, $54+29=83$, $36+58=94$, $62+31=93$; $47-29=18$, $61-34=27$, $73-43=30$, $90-27=63$. $\blacksquare$
+By **Definition 2.6.2 (Solving Problems with Subtraction)**: $14-8=6$; Xiaolan raised $6$ more than Xiaoning, and Xiaoning raised $6$ fewer than Xiaolan. $\blacksquare$
 
-## Exercise 150
+## Exercise 10
 
-(Lesson: Review and Connection, Practice, Problem 5) Fill in $\bigcirc$ with "$> $", "$< $" or "$=$": $39-4\bigcirc35$, $35+20\bigcirc32$, $86\bigcirc76+6$, $66-30\bigcirc63$, $56-40\bigcirc69$, $87\bigcirc81+7$.
+(Lesson: Comparing More and Less, Do It, Problem 3) There are $45$ boxes of apples, pears are $17$ boxes more than apples, and oranges are $8$ boxes fewer than apples. How many boxes of pears? What about oranges?
 
-### Solution to Exercise 150
+### Solution to Exercise 10
 
-$39-4=35$, $35+20=55$, $76+6=82$, $66-30=36$, $56-40=16$, $81+7=88$. Therefore $39-4=35$, $35+20> 32$, $86> 76+6$, $66-30< 63$, $56-40< 69$, $87< 81+7$. $\blacksquare$
+By **Definition 2.6.3 (Comparing More and Less)**: pears $45+17=62$ (boxes), oranges $45-8=37$ (boxes). $\blacksquare$
 
-## Exercise 151
+## Exercise 11
 
-(Lesson: Review and Connection, Practice, Problem 6) Calculate step by step: $7+7-6$, $5+46-6$, $47+8-6$; $78-24+39$, $56+34-20$, $90-58-30$.
+(Lesson: Comparing More and Less, Do It, Problem 4) There are $84$ pumpkins; Uncle Li transported away $40$, how many remain? Uncle Wang then transported away $26$, how many remain?
 
-### Solution to Exercise 151
+### Solution to Exercise 11
 
-Calculate from left to right: $7+7-6=8$, $5+46-6=45$, $47+8-6=49$; $78-24+39=93$, $56+34-20=70$, $90-58-30=2$. $\blacksquare$
+By **Definition 2.6.2 (Solving Problems with Subtraction)**: $84-40=44$ (pumpkins), $44-26=18$ (pumpkins). $\blacksquare$
 
-## Exercise 152
+## Exercise 12
 
-(Lesson: Review and Connection, Practice, Problem 7) There were originally $30$ small boats by the lake. After some were rowed away, $19$ were left. How many were rowed away?
+(Lesson: Comparing More and Less, Do It, Problem 5) Xiaoming has $28$ story books, and science books are $6$ more than story books. How many science books? How many story and science books in total?
 
-### Solution to Exercise 152
+### Solution to Exercise 12
 
-By **Definition 2.8.3 (Quantity Relations)**: $30-19=11$ (boats). $\blacksquare$
+By **Definition 2.6.3 (Comparing More and Less)** and **Definition 2.6.1 (Solving Problems with Addition)**: science books $28+6=34$ (books), total $28+34=62$ (books). $\blacksquare$
 
-## Exercise 153
+## Exercise 13
 
-(Lesson: Review and Connection, Practice, Problem 8) For the store's anniversary, spending $50$ yuan reduces $10$ yuan. The item prices are $28$ yuan, $24$ yuan, $26$ yuan, $35$ yuan, and $15$ yuan. (1) Buying one $28$-yuan item and one $24$-yuan box, can you get the $10$-yuan reduction? (2) Buying one $35$-yuan item and one $15$-yuan item, how much do you need to spend?
+(Lesson: Addition-Subtraction Relationships Between Quantities, Review and Organization, Practice) Haohao wiped $12$ desks, and Jiajia wiped $9$ desks and $6$ chairs. (1) How many desks did Jiajia and Haohao wipe in total? (2) How many more desks did Haohao wipe than Jiajia?
 
-### Solution to Exercise 153
+### Solution to Exercise 13
 
-By **Definition 2.8.3 (Quantity Relations)**: (1) $28+24=52$ yuan, which meets the $50$-yuan threshold, so the $10$-yuan reduction applies; (2) $35+15=50$ yuan, meeting the $50$-yuan threshold, so with the $10$-yuan reduction you need to spend $40$ yuan. $\blacksquare$
+"$6$ chairs" is irrelevant to desks. (1) By **Definition 2.6.1 (Solving Problems with Addition)**: $12+9=21$ (desks). (2) By **Definition 2.6.2 (Solving Problems with Subtraction)**: $12-9=3$ (desks). $\blacksquare$
 
-## Exercise 154
+## Exercise 14
 
-(Lesson: Review and Connection, Practice, Problem 9) Each box holds $8$ eggs. How many boxes can be filled completely with $30$ eggs?
+(Lesson: Addition-Subtraction Relationships Between Quantities, Practice, Problem 1) In $2020$ China conducted $39$ space launches, and $2021$ was $16$ more than $2020$. How many launches in $2021$?
 
-### Solution to Exercise 154
+### Solution to Exercise 14
 
-By "Solving Problems with Repeated Subtraction", $30-8-8-8=6$, so $3$ boxes can be filled completely, with $6$ eggs left over. $\blacksquare$
+By **Definition 2.6.3 (Comparing More and Less)**: $39+16=55$ (launches). $\blacksquare$
 
-## Exercise 155
+## Exercise 15
 
-(Lesson: Review and Connection, Practice, Problem 10) Think and fill in: (1) $12$, $14$, $16$, $18$, $\_\_$, $\_\_$; (2) $70$, $65$, $60$, $55$, $\_\_$, $\_\_$.
+(Lesson: Addition-Subtraction Relationships Between Quantities, Practice, Problem 2) Artificial incubation of ducklings takes $28$ days. (1) Incubating chicks uses $7$ days fewer than ducklings; how many days for chicks? (2) Incubating goslings uses $9$ days more than chicks; how many days for goslings?
 
-### Solution to Exercise 155
+### Solution to Exercise 15
 
-(1) Each time increases by $2$: $20$, $22$; (2) each time decreases by $5$: $50$, $45$. $\blacksquare$
+By **Definition 2.6.3 (Comparing More and Less)**: (1) $28-7=21$ (days); (2) $21+9=30$ (days). $\blacksquare$
 
-## Exercise 156
+## Exercise 16
 
-(Lesson: Review and Connection, Practice, Problem 11) In the zoo there are $38$ monkeys and $5$ tigers. (1) How many more monkeys than tigers are there? (2) There are $5$ tigers, and the monkeys are $33$ more than the tigers. How many monkeys are there? (3) There are $38$ monkeys, and the tigers are $33$ fewer than the monkeys. How many tigers are there?
+(Lesson: Addition-Subtraction Relationships Between Quantities, Practice, Problem 3) The art interest group has $24$ boys, and girls are $7$ fewer than boys. How many girls? How many in the art group in total?
 
-### Solution to Exercise 156
+### Solution to Exercise 16
 
-By **Definition 2.8.3 (Quantity Relations)** and **Definition 2.6.3 (Comparing How Many)**: (1) $38-5=33$ (animals); (2) $5+33=38$ (animals); (3) $38-33=5$ (animals). $\blacksquare$
+By **Definition 2.6.3 (Comparing More and Less)** and **Definition 2.6.1 (Solving Problems with Addition)**: girls $24-7=17$ (people), total $24+17=41$ (people). $\blacksquare$
 
-## Exercise 157
+## Exercise 17
 
-(Lesson: Review and Connection, Practice, Problem 12) There is a flock of sheep on the grassland: $28$ black sheep, and the black sheep are $17$ fewer than the white sheep. How many white sheep are there? How many sheep are there in total?
+(Lesson: Addition-Subtraction Relationships Between Quantities, Practice, Problem 4) Can you tell a "comparing more and less" math story? Represent it using your favorite method.
 
-### Solution to Exercise 157
+### Solution to Exercise 17
 
-By **Definition 2.6.3 (Comparing How Many)**: white sheep $28+17=45$ (sheep), total $28+45=73$ (sheep). $\blacksquare$
+Make up a story about who has how many more or fewer than whom, and represent the quantitative relationship by drawing or writing an expression; e.g. "Xiaohong has $10$ flowers, Xiaoming has $3$ fewer than her, Xiaoming has $7$." $\blacksquare$
 
-## Exercise 158
+## Exercise 18
 
-(Lesson: Review and Connection, Practice, Problem 13) Playing ring-toss, Xiaohong scored $51$ points and Xiaoming scored $40$ points. Which two toys might Xiaohong have ringed? What about Xiaoming?
+(Lesson: Happy Shopping Street, Introduction) I have $20$ yuan; what can I buy? How many $1$-yuan notes can one $20$-yuan note be exchanged for?
 
-### Solution to Exercise 158
+### Solution to Exercise 18
 
-By **Definition 2.8.3 (Quantity Relations)**, find the two toys whose scores add up to $51$ — those are the ones Xiaohong ringed; the two whose scores add up to $40$ are the ones Xiaoming ringed. $\blacksquare$
+By **Definition 2.7.3 (Renminbi Exchange and Change)**, any item priced no more than $20$ yuan can be bought; $20$ yuan can be exchanged for $20$ $1$-yuan notes. $\blacksquare$
+
+## Exercise 19
+
+(Lesson: Recognizing Renminbi, Say It) Talk about which Renminbi you recognize and what their denominations are.
+
+### Solution to Exercise 19
+
+By **Definition 2.7.1 (Renminbi Units)**, recognize denominations such as $1$ yuan, $5$ yuan, $10$ yuan, $20$ yuan, $50$ yuan, $100$ yuan, as well as $1$ jiao, $5$ jiao, $1$ fen, $5$ fen, etc. $\blacksquare$
+
+## Exercise 20
+
+(Lesson: Recognizing Renminbi, Recognize It) This is $5$ yuan, and $5$ $1$-yuan is also $5$ yuan.
+
+### Solution to Exercise 20
+
+By **Definition 2.7.3 (Renminbi Exchange and Change)**, $1$ $5$-yuan note and $5$ $1$-yuan notes are equal in value, both being $5$ yuan. $\blacksquare$
+
+## Exercise 21
+
+(Lesson: Exchange It, Problem 1) How can $1$ $10$-yuan note be exchanged? How can $1$ $20$-yuan note be exchanged?
+
+### Solution to Exercise 21
+
+By **Definition 2.7.3 (Renminbi Exchange and Change)**, $1$ $10$-yuan note can be exchanged for $1$ $5$-yuan note and $5$ $1$-yuan notes; $1$ $20$-yuan note can be exchanged for $2$ $10$-yuan notes or $4$ $5$-yuan notes. $\blacksquare$
+
+## Exercise 22
+
+(Lesson: Exchange It, Problem 2) Fill in: $1$ yuan $=\_\_$ jiao, $1$ jiao $=\_\_$ fen.
+
+### Solution to Exercise 22
+
+By **Definition 2.7.2 (Conversion of Yuan, Jiao, and Fen)**: $1$ yuan $=10$ jiao, $1$ jiao $=10$ fen. $\blacksquare$
+
+## Exercise 23
+
+(Lesson: Exchange It, Problem 3) Look at the picture and fill in: $\left(\_\_\right)$ yuan $\left(\_\_\right)$ jiao, $\left(\_\_\right)$ jiao $\left(\_\_\right)$ fen.
+
+### Solution to Exercise 23
+
+By **Definition 2.7.1 (Renminbi Units)** and **Definition 2.7.2 (Conversion of Yuan, Jiao, and Fen)**, look at the denominations in the picture, add them up, and fill in the yuan, jiao, and fen. $\blacksquare$
+
+## Exercise 24
+
+(Lesson: Shopping Is Up to Me, Shopping Preparation) As buyer and seller, what preparations do you need to make? Each person buys at least $2$ items and sells $2$ items.
+
+### Solution to Exercise 24
+
+Both buyer and seller should prepare Renminbi, set up stalls, draw signs, and set up a change exchange; during buying and selling, fill in the purchase and sale record sheets (item, price, payment, change). $\blacksquare$
+
+## Exercise 25
+
+(Lesson: Happy Sharing, Problem 1) I paid for this book with $3$ $1$-yuan notes and $2$ $1$-jiao coins, and no change was needed. How much is this book?
+
+### Solution to Exercise 25
+
+By **Definition 2.7.2 (Conversion of Yuan, Jiao, and Fen)**, $3$ $1$-yuan notes is $3$ yuan, and $2$ $1$-jiao coins is $2$ jiao; this book is $3$ yuan $2$ jiao. $\blacksquare$

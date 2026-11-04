@@ -1,150 +1,247 @@
 # week77
-> **Definition 9.1.3 (Reconstructing from Views)**
+> **Definition 7.6.1 (平行与垂直)**
 > 
-> 设一个总体含有 N 个个体, 从中逐个不放回地抽取 n 个个体作为样本, 如果每次抽取时总体内的各个个体被抽到的机会都相等, 这种抽样方法叫做简单随机抽样.
-> **Definition 9.4.3 (旋转)**
+> 在同一平面内不相交的两条直线叫平行线, 也可以说这两条直线互相平行, 记作 $a\parallel b$. 两条直线相交成直角, 就说这两条直线互相垂直, 其中一条叫另一条的垂线, 交点叫垂足, 记作 $a\perp b$.
+> **Definition 7.6.2 (点到直线的距离)**
 > 
-> 项目名称 价格 旋转木马 8元 激流勇进 10元 碰碰车 12元 过山车 20元 多位数乘一位数 四 你能提出用乘法解决 的数学问题吗? 39 多位数乘一位数 项目名称 旋转木马 8元 激流勇进 10元 碰碰车 12元 过山车 20元 你能提出用乘法解决 的数学问题吗? 39
-> **Definition 9.5.1 (用字母表示数)**
+> 从直线外一点到这条直线所画的垂直线段最短, 它的长度叫这点到直线的距离. 两条平行线之间的垂直线段长度都相等.
+> **Definition 7.6.3 (平行四边形)**
 > 
-> 参见教材相应章节关于此概念的论述.
-> **Definition 9.6.4 (梯形的面积)**
+> 两组对边分别平行的四边形叫做平行四边形.
+> **Definition 7.6.4 (梯形)**
 > 
-> 参见教材相应章节关于此概念的论述.
-> **Definition 9.9.1 (小数乘除法的整理)**
-> 
-> 小数乘法转化为整数乘法计算, 再看乘数共几位小数就从积右边数几位点小数点; 小数除法先把除数转化为整数再除. 乘除法都可转化为整数运算, 运用积的变化规律和商不变规律.
-> **Definition 9.9.2 (图形与几何的整理)**
-> 
-> 从前面, 上面, 左面三个方向观察组合体可还原立体图形; 轴对称对应点到对称轴距离相等; 平移和旋转不改变图形形大小; 平行四边形面积 $S=ah$, 三角形 $S=ah\div2$, 梯形 $S=\left(a+b\right)h\div2$.
-> **Definition 9.9.3 (可能性的整理)**
-> 
-> 事件分为必然事件, 不可能事件和随机事件; 随机事件发生的可能性有大有小, 可通过试验数据推测.
+> 只有一组对边平行的四边形叫做梯形.
 
-## Exercise 206
+## Exercise 1
 
-(Lesson: Review and Connections, Application, Problem 1) Compute and compare: $27\times3$ vs $2.7\times3$ vs $2.7\times0.3$ vs $2.7\times0.03$; $24\div6$ vs $2.4\div6$ vs $2.4\div0.6$ vs $2.4\div0.06$.
+(Lesson: Practice 15, Problem 3) Arrange the sticks. (1) If two sticks are both parallel to a third stick, are the two sticks parallel to each other? (2) If two sticks are both perpendicular to a third stick, what is the relationship between the two?
 
-### Solution to Exercise 206
+### Solution to Exercise 1
 
-By **Definition 9.9.1 (Review of Decimal Multiplication and Division)**: $27\times3=81$, $2.7\times3=8.1$, $2.7\times0.3=0.81$, $2.7\times0.03=0.081$; $24\div6=4$, $2.4\div6=0.4$, $2.4\div0.6=4$, $2.4\div0.06=40$. $\blacksquare$
+By **Definition 7.6.1 (Parallel and Perpendicular)**: (1) two lines parallel to the same line are parallel to each other; (2) two lines perpendicular to the same line are parallel to each other. $\blacksquare$
 
-## Exercise 207
+## Exercise 2
 
-(Lesson: Review and Connections, Application, Problem 2) Mom spends $10$ yuan on $2.5$ kg of oranges; apples cost $1.6$ times as much per kg as oranges. How much does $3$ kg of apples cost?
+(Lesson: Practice 15, Problem 4) Two lines intersect and $\angle1$ is a right angle; without measuring, how can you show that the other three angles are also right angles?
 
-### Solution to Exercise 207
+### Solution to Exercise 2
 
-Oranges cost $10\div2.5=4$ yuan/kg. Apples cost $4\times1.6=6.4$ yuan/kg. $3$ kg of apples costs $6.4\times3=19.2$ yuan. $\blacksquare$
+By **Definition 7.6.1 (Parallel and Perpendicular)** and the straight angle $180^{\circ}$, the adjacent angle is $=180^{\circ}-90^{\circ}=90^{\circ}$, so all four angles are right angles. $\blacksquare$
 
-## Exercise 208
+## Exercise 3
 
-(Lesson: Review and Connections, Application, Problem 3) Uncle Wang processes $a$ parts per hour, and in $t$ hours processes $c$ parts in total. (1) At $30$ parts per hour, how many does he process in $t$ hours? (2) At $25$ parts per hour, how many hours to process $100$ parts?
+(Lesson: Practice 15, Problem 5) Through point $A$, draw the perpendicular line to $BC$.
 
-### Solution to Exercise 208
+### Solution to Exercise 3
 
-By **Definition 9.5.1 (Expressing Numbers with Letters)**, $c=at$. (1) $30t$ parts. (2) $25t=100$, $t=4$ hours. $\blacksquare$
+By **Definition 7.6.1 (Parallel and Perpendicular)**: use a set square to draw the perpendicular to $BC$ through point $A$; the foot of the perpendicular lies on $BC$ or on its extension. $\blacksquare$
 
-## Exercise 209
+## Exercise 4
 
-(Lesson: Review and Connections, Application, Problem 4) A plot grows three vegetables — eggplant, cucumber, and tomato — and is made up of a rectangle and a triangle. The eggplant bed is $25$ m $\times15$ m, the cucumber bed is $15$ m $\times15$ m, and the tomato bed is a triangle with base $25$ m and corresponding height. What is the area of each? What is the total?
+(Lesson: Practice 15, Problem 6) Which segments in the figure are parallel? Color them with the same color.
 
-### Solution to Exercise 209
+### Solution to Exercise 4
 
-Eggplant $25\times15=375$ m$^2$; cucumber $15\times15=225$ m$^2$; the tomato triangle is computed by substituting its base and height; add the areas for the total. $\blacksquare$
+By **Definition 7.6.1 (Parallel and Perpendicular)**: segments that never intersect when extended are parallel, so color them the same. $\blacksquare$
 
-## Exercise 210
+## Exercise 5
 
-(Lesson: Review and Connections, Application, Problem 5) Through what motion does figure ① produce figures ②, ③, and ④? Draw all axes of symmetry; draw figure ① after translating it $4$ grids to the right.
+(Lesson: Practice 15, Problem 7) (1) Given two sides of a rectangle, draw the complete rectangle. (2) Using a given segment as the left side, draw a square.
 
-### Solution to Exercise 210
+### Solution to Exercise 5
 
-By **Definition 9.9.2 (Review of Shapes and Geometry)**, observe the direction and position of each figure: a change in direction is rotation, a change in position is translation, and draw dashed axes of symmetry for axial symmetry. $\blacksquare$
+By **Definition 7.6.1 (Parallel and Perpendicular)**: through the endpoints draw perpendiculars and mark off the corresponding lengths, then connect them. $\blacksquare$
 
-## Exercise 211
+## Exercise 6
 
-(Lesson: Review and Connections, Exercise 21, Review, Problem 1) Compute: $1.36\times0.05$; $32.5\div2.5$; $0.06\times1.7$; $65\div2.6$; $2.08\times75$; $2.3\div0.46$; $2.73\times1.5$; $1.83+2.7$; $5.5\times17.3+6.7\times5.5$; $28.5\div15$; $8.3-2.63$; $3.8+4.29+2.1+4.2$.
+(Lesson: Practice 15, Problem 8) On each face of a cuboid and a cube, find perpendicular segments.
 
-### Solution to Exercise 211
+### Solution to Exercise 6
 
-By **Definition 9.9.1 (小数乘除法的整理)**: $1.36\times0.05=0.068$; $32.5\div2.5=13$; $0.06\times1.7=0.102$; $65\div2.6=25$; $2.08\times75=156$; $2.3\div0.46=5$; $2.73\times1.5=4.095$; $1.83+2.7=4.53$; $5.5\times17.3+6.7\times5.5=5.5\times\left(17.3+6.7\right)=5.5\times24=132$; $28.5\div15=1.9$; $8.3-2.63=5.67$; $3.8+4.29+2.1+4.2=14.39$. $\blacksquare$
+By **Definition 7.6.1 (Parallel and Perpendicular)**: adjacent edges on every face of a cuboid or cube are perpendicular to each other. $\blacksquare$
 
-## Exercise 212
+## Exercise 7
 
-(Lesson: Review and Connections, Exercise 21, Review, Problem 2) Fill in $\bigcirc$ with $> $, $< $, or $=$: (1) when $x=50$, $2x-16\bigcirc68$, $2x+16\bigcirc68$; (2) when $x=5$, $4x+3x\bigcirc35$, $4+3x\bigcirc35$.
+(Lesson: Practice 15, Problem 9) When measuring a long-jump result, how is it measured?
 
-### Solution to Exercise 212
+### Solution to Exercise 7
 
-(1) $x=50$: $2x-16=84> 68$; $2x+16=116> 68$. (2) $x=5$: $4x+3x=35=35$; $4+3x=19< 35$. $\blacksquare$
+By **Definition 7.6.2 (Distance from a Point to a Line)**: draw a perpendicular segment from the heel of the footprint to the take-off line; measuring the length of this perpendicular segment gives the result. $\blacksquare$
 
-## Exercise 213
+## Exercise 8
 
-(Lesson: Review and Connections, Exercise 21, Review, Problem 3) Mount Emei's average annual rainfall is $1763.8$ mm; about how many millimeters per month? (Round to one decimal place.)
+(Lesson: Practice 15, Problem 10) A concrete road is to be built from Xingfu Town to the highway; how should it be built to be the shortest?
 
-### Solution to Exercise 213
+### Solution to Exercise 8
 
-$1763.8\div12\approx147.0$ mm. $\blacksquare$
+By **Definition 7.6.2 (Distance from a Point to a Line)**: draw a perpendicular segment from Xingfu Town to the highway; building the road along this perpendicular is the shortest. $\blacksquare$
 
-## Exercise 214
+## Exercise 9
 
-(Lesson: Review and Connections, Exercise 21, Review, Problem 4) A trapezoidal sunshade has upper base $1$ m, lower base $1.2$ m, and height $0.7$ m. What is its area?
+(Lesson: Practice 15, Problem 11) Are the following pairs of lines $a,b$ parallel? Find a way to verify.
 
-### Solution to Exercise 214
+### Solution to Exercise 9
 
-By **Definition 9.6.4 (Trapezoid Area)**, $S=\left(1+1.2\right)\times0.7\div2=2.2\times0.7\div2=0.77$ m$^2$. $\blacksquare$
+By **Definition 7.6.1 (Parallel and Perpendicular)**: take a few points on $a$ and draw perpendicular segments to $b$; if their lengths are all equal, the lines are parallel. $\blacksquare$
 
-## Exercise 215
+## Exercise 10
 
-(Lesson: Review and Connections, Exercise 21, Review, Problem 5) $12$ students stand in $1$ m$^2$; how many stand in $1$ hectare? In $1$ km$^2$?
+(Lesson: Practice 15, Problem 12) $a\parallel b$; measure the degrees of $\angle1$ and $\angle2$. What do you find?
 
-### Solution to Exercise 215
+### Solution to Exercise 10
 
-$1$ hectare $=10000$ m$^2$, holding $12\times10000=120000$ people. $1$ km$^2=1000000$ m$^2$, holding $12\times1000000=12000000$ people. $\blacksquare$
+When a line cuts two parallel lines, corresponding angles are equal, i.e. $\angle1=\angle2$. $\blacksquare$
 
-## Exercise 216
+(Figure: two horizontal parallel lines $a$ and $b$, cut by a slanting transversal intersecting $a$ at one point and $b$ at another; the corresponding angles to the right of the transversal and below each parallel line are labeled $\angle1$ and $\angle2$.)
 
-(Lesson: Review and Connections, Exercise 21, Comprehensive, Problem 1) Build a composite solid with $4$ small cubes. (1) Given a specified left-side view, how might it be arranged? (2) Give another view and let your deskmate guess.
+## Exercise 11
 
-### Solution to Exercise 216
+(Lesson: Parallelogram, Try It, Problem 1) On a dot grid, draw two different parallelograms.
 
-By **Definition 9.1.3 (Reconstructing a Composite Solid from Views)**, with the left view fixed, the remaining cubes may be placed at positions that do not change the left projection; the arrangement is not unique. $\blacksquare$
+### Solution to Exercise 11
 
-## Exercise 217
+By **Definition 7.6.3 (Parallelogram)**: draw quadrilaterals with two pairs of opposite sides parallel. $\blacksquare$
 
-(Lesson: Review and Connections, Exercise 21, Comprehensive, Problem 2) Rotate figure ① counterclockwise $90^\circ$ about point O to get figure ②; clockwise $90^\circ$ to get figure ③; rotate figure ② counterclockwise $90^\circ$ about O to get figure ④. After coloring, what does the figure look like?
+## Exercise 12
 
-### Solution to Exercise 217
+(Lesson: Parallelogram, Try It, Problem 2) Use two identical sets of set squares to piece together a parallelogram.
 
-By **Definition 9.4.3 (Rotation)**, draw each rotated figure in turn and color it; the four directions together look like a windmill or a cross flower. $\blacksquare$
+### Solution to Exercise 12
 
-## Exercise 218
+By **Definition 7.6.3 (Parallelogram)**: piece two identical triangles together hypotenuse to hypotenuse to obtain a parallelogram. $\blacksquare$
 
-(Lesson: Review and Connections, Exercise 21, Comprehensive, Problem 3) Coin-toss game: I win when the two coins land the same face up. Is the game fair?
+## Exercise 13
 
-### Solution to Exercise 218
+(Lesson: Parallelogram, Try It, Problem 3) Given one angle of a parallelogram as $135^{\circ}$, find the other angles and side lengths.
 
-Two coins have $4$ possible face combinations: HH, HT, TH, TT. The same outcomes are HH and TT ($2$ ways); the different outcomes are HT and TH ($2$ ways); each has half the probability, so the game is fair. $\blacksquare$
+### Solution to Exercise 13
 
-## Exercise 219
+By **Definition 7.6.3 (Parallelogram)**: opposite angles are equal and adjacent angles sum to $180^{\circ}$ — the opposite angle is also $135^{\circ}$, and the other two angles are $=180^{\circ}-135^{\circ}=45^{\circ}$; opposite sides are equal. $\blacksquare$
 
-(Lesson: Review and Connections, Exercise 21, Extension, Problem 1) Complete the table: a quadrilateral's interior angle sum is $360^\circ$, a triangle's is $180^\circ$, and a pentagon's? What is the rule for the interior angle sum of a polygon?
+## Exercise 14
 
-### Solution to Exercise 219
+(Lesson: Trapezoid, Try It, Problem 1) For an isosceles trapezoid draw "$\triangle$"; for a right trapezoid draw "$\bigcirc$".
 
-Triangle $180^\circ$, quadrilateral $360^\circ$, pentagon $540^\circ$. Rule: an $n$-gon's interior angle sum $=\left(n-2\right)\times180^\circ$. $\blacksquare$
+### Solution to Exercise 14
 
-## Exercise 220
+By **Definition 7.6.4 (Trapezoid)**: one with equal legs is an isosceles trapezoid, and one with a right angle is a right trapezoid. $\blacksquare$
 
-(Lesson: Review and Connections, Exercise 21, Extension, Problem 2) A laser signal takes $2.56$ seconds to travel from Earth to the moon and reflect back; light speed is $30$ ten-thousand km/s. About how far is Earth from the moon?
+## Exercise 15
 
-### Solution to Exercise 220
+(Lesson: Trapezoid, Try It, Problem 2) $a\parallel b$; how many trapezoids are in the figure?
 
-Round trip is $2.56$ s, so one way is $2.56\div2=1.28$ s. Distance $30\times1.28=38.4$ ten-thousand km. $\blacksquare$
+### Solution to Exercise 15
 
-## Exercise 221
+By **Definition 7.6.4 (Trapezoid)**: a quadrilateral with only one pair of parallel sides is a trapezoid; count the trapezoids according to the combinations of segments in the figure. $\blacksquare$
 
-(Lesson: Review and Connections, Exercise 21, Thinking Problem) A right triangle has sides $3$ cm, $4$ cm, $5$ cm. On each side draw a square; what are the three squares' areas? What is the relationship?
+## Exercise 16
 
-### Solution to Exercise 221
+(Lesson: Trapezoid, Try It, Problem 3) Draw a segment in a parallelogram: (1) to divide it into two trapezoids; (2) to divide it into a right trapezoid and an isosceles trapezoid.
 
-The three squares' areas: $3^2=9$ cm$^2$, $4^2=16$ cm$^2$, $5^2=25$ cm$^2$. Relationship: $9+16=25$, i.e. the sum of the squares on the two legs equals the square on the hypotenuse. $\blacksquare$
+### Solution to Exercise 16
+
+By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: draw a segment not parallel to the sides to divide it into two trapezoids; adjust its position as required to obtain a right trapezoid or an isosceles trapezoid. $\blacksquare$
+
+## Exercise 17
+
+(Lesson: Practice 16, Problem 1) On grid paper, draw a parallelogram and a trapezoid, and describe their features.
+
+### Solution to Exercise 17
+
+By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: a parallelogram has two pairs of opposite sides parallel, while a trapezoid has only one pair. $\blacksquare$
+
+## Exercise 18
+
+(Lesson: Practice 16, Problem 2) Draw two sets of parallel lines; is the shaded part a parallelogram? Why?
+
+### Solution to Exercise 18
+
+By **Definition 7.6.3 (Parallelogram)**: the quadrilateral enclosed by two intersecting sets of parallel lines has two pairs of opposite sides parallel, so it is a parallelogram. $\blacksquare$
+
+## Exercise 19
+
+(Lesson: Practice 16, Problem 3) (1) On a parallelogram paper, make one cut so that both resulting shapes are trapezoids. (2) On a trapezoid paper, make one cut so that one piece is a parallelogram; what might the other piece be?
+
+### Solution to Exercise 19
+
+By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: making a cut not parallel to a side gives two trapezoids; cutting from a point on the upper base along a segment parallel to a leg may leave the other piece as a triangle or a trapezoid. $\blacksquare$
+
+## Exercise 20
+
+(Lesson: Practice 16, Problem 4) A quadrilateral is partly covered by a square paper; what shape might it be?
+
+### Solution to Exercise 20
+
+By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: it might be a parallelogram, a trapezoid, or an irregular quadrilateral, depending on whether the exposed sides are parallel. $\blacksquare$
+
+## Exercise 21
+
+(Lesson: Practice 16, Problem 5) The perimeter of a parallelogram vegetable plot is $42$ m, and side $AB$ is $13$ m; how long is side $BC$?
+
+### Solution to Exercise 21
+
+By **Definition 7.6.3 (Parallelogram)**: opposite sides are equal, so $AB+BC=42\div2=21$ m, and $BC=21-13=8$ m. $\blacksquare$
+
+## Exercise 22
+
+(Lesson: Practice 16, Problem 6) From rectangular paper, cut out a right trapezoid and an isosceles trapezoid.
+
+### Solution to Exercise 22
+
+By **Definition 7.6.4 (Trapezoid)**: cutting a rectangular paper diagonally gives a right trapezoid; folding it in half and then cutting gives an isosceles trapezoid. $\blacksquare$
+
+## Exercise 23
+
+(Lesson: Practice 16, Problem 7) Use sticks to arrange quadrilaterals; which quadrilaterals can you make?
+
+### Solution to Exercise 23
+
+By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: four equal sticks can form a parallelogram (a rhombus); two long and two short sticks can form a rectangle or a parallelogram; other combinations can form a trapezoid or an irregular quadrilateral. $\blacksquare$
+
+## Exercise 24
+
+(Lesson: Practice 16, Problem 8) How should the following figure be changed to become a parallelogram?
+
+### Solution to Exercise 24
+
+By **Definition 7.6.3 (Parallelogram)**: adjust the non-parallel sides so that the two pairs of opposite sides are parallel. $\blacksquare$
+
+## Exercise 25
+
+(Lesson: Practice 16, Problem 9) Name the shapes you have learned in the figure, such as trapezoid $BCDF$.
+
+### Solution to Exercise 25
+
+By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: identify the parallelograms and trapezoids in the figure according to which sides are parallel. $\blacksquare$
+
+## Exercise 26
+
+(Lesson: Practice 16, Problem 10) Piece together tangram pieces: (1) two pieces to form a trapezoid; (2) three pieces to form a parallelogram; (3) four pieces to form an isosceles trapezoid.
+
+### Solution to Exercise 26
+
+By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: try arranging the pieces according to their side lengths and angles. $\blacksquare$
+
+## Exercise 27
+
+(Lesson: Practice 16, Problem 11) Find the parallelograms and trapezoids in the figure; how many of each are there?
+
+### Solution to Exercise 27
+
+By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: count them one by one according to the definitions. $\blacksquare$
+
+## Exercise 28
+
+(Lesson: Practice 17, Problem 1) How many pairs of parallel segments and how many pairs of perpendicular segments are in the figure?
+
+### Solution to Exercise 28
+
+By **Definition 7.6.1 (Parallel and Perpendicular)**: count them pair by pair according to the definitions. $\blacksquare$
+
+## Exercise 29
+
+(Lesson: Practice 17, Problem 2) From three rectangular sheets of paper, cut out a square, a parallelogram, and a trapezoid, respectively.
+
+### Solution to Exercise 29
+
+By **Definition 7.6.1 (Parallel and Perpendicular)**: a square has four equal sides and four right angles; a parallelogram has two pairs of parallel sides; a trapezoid has only one pair of parallel sides. $\blacksquare$

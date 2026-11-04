@@ -1,374 +1,192 @@
 # week49
-> **Definition 7.1.1 (计数单位与数位)**
+> **Definition 5.5.1 (口算乘法)**
 > 
-> 个 (一), 十, 百, 千, 万, 十万, 百万, 千万, 亿, 十亿, 百亿, 千亿都是计数单位. 每相邻两个计数单位之间的进率都是十, 这种计数方法叫十进制计数法. 计数单位按一定顺序排列, 它们所占的位置叫数位. 从右边起每四个数位是一级: 个级 (个, 十, 百, 千), 万级 (万, 十万, 百万, 千万), 亿级 (亿, 十亿, 百亿, 千亿).
-> **Definition 7.1.2 (自然数)**
+> 整十, 整百数乘一位数, 先把 $0$ 前面的数与一位数相乘, 再在积的末尾添上相应个数的 $0$. 两位数乘一位数, 把两位数分成整十数和一位数, 分别相乘后再相加.
+> **Definition 5.5.2 (笔算乘法)**
 > 
-> 表示物体个数的 $1,2,3,\cdots$ 都是自然数. 一个物体也没有用 $0$ 表示, $0$ 也是自然数. 最小的自然数是 $0$, 没有最大的自然数, 自然数的个数是无限的.
-> **Definition 7.1.3 (Reading Large Numbers)**
+> 多位数乘一位数的竖式: 从个位起, 用一位数依次乘多位数的每一位; 哪一位上乘得的积满几十, 就向前一位进几.
+> **Definition 5.5.3 (0 的乘法)**
 > 
-> 读大数时, 从高位读起, 亿级和万级的数按照个级的读法来读, 再在后面加上亿字或万字.
-> **Definition 7.1.4 (Writing Large Numbers)**
+> $0$ 和任何数相乘都得 $0$.
+> **Definition 5.5.4 (因数中间或末尾有 0 的乘法)**
 > 
-> 写大数时, 从高位写起, 哪一位上一个单位也没有, 就在那一位上写 0.
-> **Definition 7.1.5 (数的大小比较)**
+> 因数中间有 $0$, 这一位也要乘; 因数末尾有 $0$, 可以先乘 $0$ 前面的数, 再在积的末尾添上相同个数的 $0$.
+> **Definition 5.5.5 (用估算解决问题)**
 > 
-> 位数不同时, 位数多的数大. 位数相同时, 从最高位比起, 最高位上数大的那个数就大; 最高位相同就比较下一个数位上的数.
-> **Definition 7.1.6 (数的改写)**
-> 
-> 把整万或整亿的数改写成用万或亿作单位的数, 去掉末尾的 4 个 0 或 8 个 0, 加上万字或亿字.
-> **Definition 7.1.7 (四舍五入法求近似数)**
-> 
-> 省略尾数时, 看尾数部分最高位上的数: 小于 $5$ 就把尾数舍去 (四舍), 大于或等于 $5$ 就向前一位进 $1$ 再舍去尾数 (五入). 近似数与原数之间用 "$\approx$" 连接.
+> 有时只需判断"够不够", 不必精确计算, 可把数往大估或往小估: 把人数往大估, 钱数都够, 实际一定够.
 
 ## Exercise 1
 
-(Lesson: Understanding Numbers within Hundred-Million — Do It, Problem 1) On the counter, dial and count. (1) Count by ten-thousands from nine-hundred-sixty-thousand to one-million-thirty-thousand. (2) Count by hundred-thousands from seven-hundred-thousand to one-million. (3) Count by millions from six-million to ten-million. (4) Count by ten-millions from eighty-million to one-hundred-million.
+(Lesson: Practice 8, Problem 7) A wild rabbit runs $40$ kilometers per hour; the distance a swift flies per hour is $4$ times that of the rabbit. How many kilometers does a swift fly per hour?
 
 ### Solution to Exercise 1
 
-By **Definition 7.1.1 (Counting Units and Digit Places)**, the rate between adjacent counting units is ten: (1) 960000, 970000, 980000, 990000, 1000000, 1010000, 1020000, 1030000; (2) 700000, 800000, 900000, 1000000; (3) 6000000, 7000000, 8000000, 9000000, 10000000; (4) 80000000, 90000000, 100000000. $\blacksquare$
+$40\times4=160$ kilometers. $\blacksquare$
 
 ## Exercise 2
 
-(Lesson: Understanding Numbers within Hundred-Million — Do It, Problem 2) Fill in the digit-place order table and answer: (1) From low to high, name every digit place of the unit level and the ten-thousand level. (2) Starting from the ones place, which place is the ten-thousands place? Which is the hundred-millions place? (3) What are the places immediately to the right and left of the ten-thousands place?
+(Lesson: Practice 8, Problem 8) Compute: $7\times8+6$; $20\times3+98$; $2000\times4+1980$; $4\times6+6$; $70\times9-120$; $\left(406-385\right)\times3$.
 
 ### Solution to Exercise 2
 
-By **Definition 7.1.1 (Counting Units and Digit Places)**: (1) Unit level: ones, tens, hundreds, thousands; ten-thousand level: ten-thousands, hundred-thousands, millions, ten-millions. (2) Starting from the ones place, the $5$th place is the ten-thousands place, and the $9$th place is the hundred-millions place. (3) The place to the right of the ten-thousands place is the thousands place, and to the left is the hundred-thousands place. $\blacksquare$
+$7\times8+6=62$; $20\times3+98=158$; $2000\times4+1980=9980$; $4\times6+6=30$; $70\times9-120=510$; $\left(406-385\right)\times3=63$. $\blacksquare$
 
 ## Exercise 3
 
-(Lesson: Reading Numbers within Hundred-Million — Do It, Problem 1) Read each group: $34$ and $340000$; $3004$ and $30040000$; $340$ and $3400000$; $3040$ and $30400000$.
+(Lesson: Practice 8, Problem 9) For a round-ten number multiplied by a one-digit number with product $240$, how many such multiplication equations can you write?
 
 ### Solution to Exercise 3
 
-By **Definition 7.1.3 (Reading Large Numbers)**: $34$ is read "thirty-four", $340000$ is read "three-hundred-forty thousand"; $3004$ is read "three-thousand-four", $30040000$ is read "thirty-million forty-thousand"; $340$ is read "three-hundred-forty", $3400000$ is read "three-million four-hundred-thousand"; $3040$ is read "three-thousand-forty", $30400000$ is read "thirty-million four-hundred-thousand". $\blacksquare$
+First think of which two numbers multiply to $24$: $3\times8=24$, $4\times6=24$. Therefore $30\times8=240$, $80\times3=240$, $40\times6=240$, $60\times4=240$. There are $4$ in total. $\blacksquare$
 
 ## Exercise 4
 
-(Lesson: Reading Numbers within Hundred-Million — Do It, Problem 2) Read: $32680$, $5205000$, $1200605$, $107070$, $470050$, $30600900$, $3070800$, $100000000$.
+(Lesson: Practice 8, Problem 10) Xiaojun saves $20$ yuan of pocket money each month. Fill in the table: $1$ month is $20$ yuan; how much for $2$ months, $3$ months, $4$ months, $5$ months, and $6$ months?
 
 ### Solution to Exercise 4
 
-By **Definition 7.1.3 (Reading Large Numbers)**: $32680$ is read "thirty-two-thousand six-hundred-eighty"; $5205000$ is read "five-million two-hundred-five-thousand"; $1200605$ is read "one-million two-hundred-thousand-six-hundred-five"; $107070$ is read "one-hundred-thousand seven-hundred-seventy"; $470050$ is read "four-hundred-seventy-thousand fifty"; $30600900$ is read "thirty-million six-hundred-thousand nine-hundred"; $3070800$ is read "three-million seventy-thousand eight-hundred"; $100000000$ is read "one-hundred-million". $\blacksquare$
+$20\times2=40$ yuan, $20\times3=60$ yuan, $20\times4=80$ yuan, $20\times5=100$ yuan, $20\times6=120$ yuan. $\blacksquare$
 
 ## Exercise 5
 
-(Lesson: Writing Numbers within Hundred-Million — Do It, Problem 1) Write the following numbers: three-million two-hundred-sixty-seven-thousand-five-hundred, forty-thousand-ninety, ninety-million two-hundred-thousand-three-hundred, one-million.
+(Lesson: Practice 8, Problem 11) On the campus there are $21$ scholar trees planted; the poplars are $5$ more than $2$ times the scholar trees. How many poplars are there?
 
 ### Solution to Exercise 5
 
-By **Definition 7.1.4 (Writing Large Numbers)**: three-million two-hundred-sixty-seven-thousand-five-hundred is written $3267500$; forty-thousand-ninety is written $40090$; ninety-million two-hundred-thousand-three-hundred is written $90200300$; one-million is written $1000000$. $\blacksquare$
+$21\times2+5=42+5=47$. $\blacksquare$
 
 ## Exercise 6
 
-(Lesson: Writing Numbers within Hundred-Million — Do It, Problem 2) Write the underlined numbers: light travels about two-hundred-ninety-nine-thousand-eight-hundred kilometers per second; a dragonfly's eye is made of up to twenty-eight-thousand-odd tiny eyes.
+(Lesson: Practice 8, Problem 12) Fill in: $432=\left(\ \right)\times100+\left(\ \right)\times10+\left(\ \right)\times1$; $1597=\left(\ \right)\times1000+\left(\ \right)\times100+\left(\ \right)\times10+\left(\ \right)\times1$.
 
 ### Solution to Exercise 6
 
-By **Definition 7.1.4 (Writing Large Numbers)**: two-hundred-ninety-nine-thousand-eight-hundred is written $299800$; twenty-eight-thousand-odd is written about $28000$. $\blacksquare$
+$432=4\times100+3\times10+2\times1$; $1597=1\times1000+5\times100+9\times10+7\times1$. $\blacksquare$
 
 ## Exercise 7
 
-(Lesson: Writing Numbers within Hundred-Million — Do It, Problem 3) Listen to the teacher read and write: forty-eight-million three-hundred-twenty-thousand, twenty-eight-thousand-five-hundred-eighty-seven, seven-million-thirty-thousand-five-hundred, one-hundred-forty-thousand-two-hundred-fifty, sixty-thousand-one-hundred-twenty-three, thirty-seven-million-forty.
+(Lesson: Written Multiplication — Example 3) One box of colored pens has $24$ pens; how many pens are in $2$ boxes in total?
 
 ### Solution to Exercise 7
 
-By **Definition 7.1.4 (Writing Large Numbers)**: $48320000$, $28587$, $7035000$, $142950$, $60123$, $37000040$. $\blacksquare$
+$24\times2=48$ pens. By **Definition 5.5.2 (Written Multiplication)**, in the vertical form $4\times2=8$ is written in the ones place and $20\times2=40$ in the tens place. $\blacksquare$
 
 ## Exercise 8
 
-(Lesson: Practice 1, Problem 1) State the meaning of the underlined digits: the $8$ in $32086$; the $7$ in $93787$; the $1$ in $107398$; the $9$ and $0$ in $690250$.
+(Lesson: Written Multiplication — Try It) $213\times2=$ ?
 
 ### Solution to Exercise 8
 
-By **Definition 7.1.1 (Counting Units and Digit Places)**: in $32086$, the $8$ is in the tens place and means $8$ tens; in $93787$, the $7$ is in the hundreds place and means $7$ hundreds; in $107398$, the $1$ is in the hundred-thousands place and means $1$ hundred-thousand; in $690250$, the $9$ is in the ten-thousands place and means $9$ ten-thousands, and the $0$ in the thousands place means there is nothing in the thousands place. $\blacksquare$
+By **Definition 5.5.2 (笔算乘法)**, $213\times2=426$. Ones: $3\times2=6$; tens: $1\times2=2$; hundreds: $2\times2=4$. $\blacksquare$
 
 ## Exercise 9
 
-(Lesson: Practice 1, Problem 2) Speak following the example: $47578$ means $4$ ten-thousands and $7578$ ones. Say $280064$, $498909$, $2700006$, $55523870$ in the same way.
+(Lesson: Written Multiplication — Do It Yourself) Write in vertical form: $34\times2$; $12\times4$; $312\times3$; $211\times4$.
 
 ### Solution to Exercise 9
 
-By **Definition 7.1.1 (Counting Units and Digit Places)**: $280064$ means $28$ ten-thousands and $64$ ones; $498909$ means $49$ ten-thousands and $8909$ ones; $2700006$ means $270$ ten-thousands and $6$ ones; $55523870$ means $5552$ ten-thousands and $3870$ ones. $\blacksquare$
+$34\times2=68$; $12\times4=48$; $312\times3=936$; $211\times4=844$. $\blacksquare$
 
 ## Exercise 10
 
-(Lesson: Practice 1, Problem 3) Read: $1053600$, $563004$, $45000600$, $5320190$.
+(Lesson: Written Multiplication — Example 4) One set of comic books has $16$ volumes; Teacher Wang buys $3$ sets. How many volumes in total?
 
 ### Solution to Exercise 10
 
-By **Definition 7.1.3 (Reading Large Numbers)**: $1053600$ is read "one-million fifty-thousand three-thousand-six-hundred"; $563004$ is read "five-hundred-sixty-thousand three-thousand-four"; $45000600$ is read "forty-five-million six-hundred"; $5320190$ is read "five-million three-hundred-twenty-thousand one-hundred-ninety". $\blacksquare$
+$16\times3=48$ volumes. $6\times3=18$, write $8$ and carry $1$; $10\times3=30$, add the carried $10$ to get $40$, write $4$ in the tens place. $\blacksquare$
 
 ## Exercise 11
 
-(Lesson: Practice 1, Problem 4) Write the underlined numbers: (1) A person's heart beats about forty-two-million times a year. (2) Earth's equator is about forty-million seventy-thousand-five-hundred-seventy meters around. (3) A blue whale weighs about one-hundred-twenty-five-thousand kilograms.
+(Lesson: Written Multiplication — Try It) $162\times4=$ ?
 
 ### Solution to Exercise 11
 
-By **Definition 7.1.4 (Writing Large Numbers)**: (1) $42000000$ times; (2) $40075700$ meters; (3) $125000$ kilograms. $\blacksquare$
+By **Definition 5.5.2 (Written Multiplication)**, $162\times4=648$. Ones: $2\times4=8$; tens: $6\times4=24$, write $4$ and carry $2$; hundreds: $1\times4+2=6$. $\blacksquare$
 
 ## Exercise 12
 
-(Lesson: Practice 1, Problem 5) Write the numbers: (1) sixty-million nine-thousand five-hundred. (2) The number made of four-million, eighty-thousand, fifty-thousand and three-thousand. (3) $4000000+600000+70000+8000+2$.
+(Lesson: Written Multiplication — Do It Yourself) Write in vertical form: $39\times2$; $41\times8$; $52\times4$; $27\times4$; $612\times7$; $193\times2$; $318\times3$; $284\times2$.
 
 ### Solution to Exercise 12
 
-By **Definition 7.1.4 (Writing Large Numbers)**: (1) $60090500$; (2) $4853000$; (3) $4678002$. $\blacksquare$
+$39\times2=78$; $41\times8=328$; $52\times4=208$; $27\times4=108$; $612\times7=4284$; $193\times2=386$; $318\times3=954$; $284\times2=568$. $\blacksquare$
 
 ## Exercise 13
 
-(Lesson: Practice 1, Problem 6) Match: ninety-six-million, thirteen-million nine-hundred-thousand nine-thousand, eight-hundred-sixty-thousand-one-hundred, thirteen-million ninety-thousand-thirty-four, with $96000000$, $13909000$, $860100$, $13090034$.
+(Lesson: Written Multiplication — Example 5) There are $9$ cases of mineral water, each case $24$ bottles. How many bottles in total?
 
 ### Solution to Exercise 13
 
-By **Definition 7.1.3 (Reading Large Numbers)** and **Definition 7.1.4 (Writing Large Numbers)**: ninety-six-million matches $96000000$; thirteen-million nine-hundred-thousand nine-thousand matches $13909000$; eight-hundred-sixty-thousand-one-hundred matches $860100$; thirteen-million ninety-thousand-thirty-four matches $13090034$. $\blacksquare$
+$24\times9=216$ bottles. Estimate: $20< 24< 30$, $180< 24\times9< 270$, so the result is reasonable. $\blacksquare$
 
 ## Exercise 14
 
-(Lesson: Practice 1, Problem 7) Work with a classmate to make a number spinner, spin it $6$ times to form a six-digit number, and read it out. For example, spinning gives $380715$.
+(Lesson: Written Multiplication — Try It) $326\times8=$ ?
 
 ### Solution to Exercise 14
 
-By **Definition 7.1.3 (Reading Large Numbers)**, $380715$ is read "three-hundred-eighty-thousand seven-hundred-fifteen". Other results are read and written according to the numbers spun. $\blacksquare$
+By **Definition 5.5.2 (笔算乘法)**, $326\times8=2608$. Ones: $6\times8=48$, write $8$ and carry $4$; tens: $2\times8+4=20$, write $0$ and carry $2$; hundreds: $3\times8+2=26$. $\blacksquare$
 
 ## Exercise 15
 
-(Lesson: Practice 1, Problem 8) Represent the following numbers in different ways: $4853000$, $6009500$, $80000040$, $25307000$, $440000$.
+(Lesson: Written Multiplication — Do It Yourself) Write in vertical form: $48\times7$; $64\times8$; $137\times6$; $179\times4$.
 
 ### Solution to Exercise 15
 
-By **Definition 7.1.1 (Counting Units and Digit Places)**, for example $440000=400000+40000$ means it is made of four-hundred-thousand and forty-thousand. The other numbers are split by level into the sum of the ten-thousand level and the unit level, or expressed as so many ten-thousands and so many ones. $\blacksquare$
+$48\times7=336$; $64\times8=512$; $137\times6=822$; $179\times4=716$. $\blacksquare$
 
 ## Exercise 16
 
-(Lesson: Understanding Numbers beyond Hundred-Million — Do It, Problem 1) Read: $9200000000$, $26705000000$, $508040003000$, $300700400$.
+(Lesson: Practice 9, Problem 1) Write in vertical form: $14\times2$; $33\times3$; $21\times4$; $43\times2$; $423\times2$; $212\times3$; $221\times4$; $132\times3$.
 
 ### Solution to Exercise 16
 
-By **Definition 7.1.3 (Reading Large Numbers)**: $9200000000$ is read "nine-billion two-hundred-million"; $26705000000$ is read "twenty-six-billion seven-hundred-million five-hundred-thousand"; $508040003000$ is read "five-hundred-eight-billion forty-million three-thousand"; $300700400$ is read "three-hundred-million seventy-thousand four-hundred". $\blacksquare$
+$14\times2=28$; $33\times3=99$; $21\times4=84$; $43\times2=86$; $423\times2=846$; $212\times3=636$; $221\times4=884$; $132\times3=396$. $\blacksquare$
 
 ## Exercise 17
 
-(Lesson: Understanding Numbers beyond Hundred-Million — Do It, Problem 2) Read the underlined numbers: in 2019 the Palace Museum received $19336275$ visitors; from 1949 to 2019 it cumulatively received $456146658$ visitors.
+(Lesson: Practice 9, Problem 2) Mangoes are $12$ yuan per kilogram, and lychees are $23$ yuan per kilogram. (1) How much does $4$ kilograms of mangoes cost? (2) How much does $3$ kilograms of lychees cost? (3) Raise other questions and answer them.
 
 ### Solution to Exercise 17
 
-By **Definition 7.1.3 (Reading Large Numbers)**: $19336275$ is read "nineteen-million three-hundred-thirty-six-thousand two-hundred-seventy-five"; $456146658$ is read "four-hundred-million five-thousand-six-hundred-fourteen-thousand six-hundred-fifty-eight". $\blacksquare$
+(1) $12\times4=48$ yuan. (2) $23\times3=69$ yuan. (3) Answers may vary. $\blacksquare$
 
 ## Exercise 18
 
-(Lesson: Writing Numbers beyond Hundred-Million — Do It, Problem 1) Write each group: (1) thirty, three-hundred-thousand, three-billion. (2) one-hundred-seven, one-million-seven-thousand, ten-billion-seven-hundred-million.
+(Lesson: Practice 9, Problem 3) A Siberian tiger weighs $213$ kilograms; a polar bear's weight is $3$ times that of the Siberian tiger. How heavy is the polar bear?
 
 ### Solution to Exercise 18
 
-By **Definition 7.1.4 (Writing Large Numbers)**: (1) $30$, $300000$, $3000000000$; (2) $107$, $1070000$, $10700000000$. $\blacksquare$
+$213\times3=639$ kilograms. $\blacksquare$
 
 ## Exercise 19
 
-(Lesson: Writing Numbers beyond Hundred-Million — Do It, Problem 2) Write: two-billion five-hundred-million, forty-nine-billion sixty-million, five-hundred-four-billion seven-million one-thousand-three-hundred-six.
+(Lesson: Practice 9, Problem 4) A building has $6$ units, and each unit houses $18$ households. How many households in total?
 
 ### Solution to Exercise 19
 
-By **Definition 7.1.4 (Writing Large Numbers)**: two-billion five-hundred-million is written $2500000000$; forty-nine-billion sixty-million is written $49000600000$; five-hundred-four-billion seven-million one-thousand-three-hundred-six is written $500407001306$. $\blacksquare$
+$18\times6=108$ households. $\blacksquare$
 
 ## Exercise 20
 
-(Lesson: Practice 2, Problem 1) What is the highest place of a five-digit number? Of a nine-digit number? Of a twelve-digit number?
+(Lesson: Practice 9, Problem 5) A courier delivers $121$ parcels each day; how many parcels are delivered in $6$ days?
 
 ### Solution to Exercise 20
 
-By **Definition 7.1.1 (Counting Units and Digit Places)**: the highest place of a five-digit number is the ten-thousands place; of a nine-digit number, the hundred-millions place; of a twelve-digit number, the hundred-thousand-millions place. $\blacksquare$
+$121\times6=726$ parcels. $\blacksquare$
 
 ## Exercise 21
 
-(Lesson: Practice 2, Problem 2) Fill in following the example: $6154000000$ is $61$ hundred-millions and $5400$ ten-thousands. Say $46273580$, $3560000$, $3657800196$ in the same way.
+(Lesson: Practice 9, Problem 6) Fill in the table and compute the products: factors $13,16,6,3,823$; factors $7,5,311,514,4$.
 
 ### Solution to Exercise 21
 
-By **Definition 7.1.1 (Counting Units and Digit Places)**: $46273580$ is $4627$ ten-thousands and $3580$ ones; $3560000$ is $356$ ten-thousands; $3657800196$ is $36$ hundred-millions and $5780$ ten-thousands and $196$ ones. $\blacksquare$
+$13\times7=91$; $16\times5=80$; $6\times311=1866$; $3\times514=1542$; $823\times4=3292$. $\blacksquare$
 
 ## Exercise 22
 
-(Lesson: Practice 2, Problem 3) Fill in: $1$ thousand-million contains ( ) hundred-millions; $10$ thousand-millions is ( ); $1$ hundred-thousand-million is $10$ ( ); $10$ ten-millions is ( ).
+(Lesson: Practice 9, Problem 7) Estimate first, then do the vertical form: $36\times7$; $48\times6$; $59\times8$; $72\times4$; $27\times9$; $313\times5$; $499\times3$; $824\times5$.
 
 ### Solution to Exercise 22
 
-By **Definition 7.1.1 (Counting Units and Digit Places)**: $1$ thousand-million contains $10$ hundred-millions; $10$ thousand-millions is ten-thousand-millions; $1$ hundred-thousand-million is $10$ ten-thousand-millions; $10$ ten-millions is one-hundred-million. $\blacksquare$
-
-## Exercise 23
-
-(Lesson: Practice 2, Problem 4) Read each group: (1) $65$, $650000$, $6500000000$. (2) $4075$, $40750000$, $407500000000$. (3) $3500$, $35000000$, $350000000000$.
-
-### Solution to Exercise 23
-
-By **Definition 7.1.3 (Reading Large Numbers)**: (1) sixty-five, six-hundred-fifty-thousand, six-billion-five-hundred-million; (2) four-thousand-seventy-five, forty-million seventy-five-thousand, four-hundred-billion seventy-five-million; (3) three-thousand-five-hundred, thirty-five-million, three-hundred-fifty-billion. $\blacksquare$
-
-## Exercise 24
-
-(Lesson: Practice 2, Problem 5) Write: two-hundred-million forty-million, eighty-four-billion ninety-three-million, five-hundred-million six-hundred-twenty-thousand, sixty-billion four-hundred-million five-thousand three-hundred-twenty, three-billion eighty-million seven-thousand, two-hundred-billion six-billion ninety-thousand forty.
-
-### Solution to Exercise 24
-
-By **Definition 7.1.4 (Writing Large Numbers)**: $240000000$, $84093000000$, $506200000$, $60450003200$, $3080070000$, $206000090040$. $\blacksquare$
-
-## Exercise 25
-
-(Lesson: Practice 2, Problem 6) China's urban population, 2019—2022: $884260000$, $902200000$, $914250000$, $920710000$. (1) Read the numbers in the table. (2) Describe the change.
-
-### Solution to Exercise 25
-
-By **Definition 7.1.3 (Reading Large Numbers)**: $884260000$ is read "eight-hundred-million eight-thousand-four-hundred-twenty-six-thousand"; $902200000$ is read "nine-hundred-million two-hundred-twenty-thousand"; $914250000$ is read "nine-hundred-million one-thousand-four-hundred-twenty-five-thousand"; $920710000$ is read "nine-hundred-million two-thousand seventy-one-thousand". The urban population increases year by year. $\blacksquare$
-
-## Exercise 26
-
-(Lesson: Practice 2, Problem 7) Write the numbers shown on the following abacuses (three abacus pictures).
-
-### Solution to Exercise 26
-
-By **Definition 7.1.1 (Counting Units and Digit Places)** and **Definition 7.1.4 (Writing Large Numbers)**, write the corresponding digits according to the digit places where the upper and lower beads sit, and record $0$ for empty places. $\blacksquare$
-
-## Exercise 27
-
-(Lesson: Practice 2, Problem 8) Which of the following statements are unreasonable? (1) Our school has one-hundred-thousand people. (2) I sold more than twenty-million popsicles today. (3) Our school library has eighty-thousand volumes.
-
-### Solution to Exercise 27
-
-By common sense and a feel for large numbers: (1) unreasonable, a school usually has a few thousand people; (2) unreasonable, selling twenty-million popsicles in one day is unrealistic; (3) reasonable. $\blacksquare$
-
-## Exercise 28
-
-(Lesson: Comparing the Size of Numbers — Do It) Compare the two numbers in each group: $92504\bigcirc103600$; $830207000\bigcirc1020010000$; $28906\bigcirc28890$; $100388770000\bigcirc99385270000$.
-
-### Solution to Exercise 28
-
-By **Definition 7.1.5 (Comparing the Size of Numbers)**: $92504$ is five digits, $103600$ is six digits, hence $< $; $830207000$ is nine digits, $1020010000$ is ten digits, hence $< $; $28906$ and $28890$ are both five digits with the same thousands digit, and the hundreds digit $9> 8$, hence $> $; $100388770000$ is twelve digits, $99385270000$ is eleven digits, hence $> $. $\blacksquare$
-
-## Exercise 29
-
-(Lesson: Rewriting Numbers — Do It) Rewrite the following in units of "ten-thousand" or "hundred-million": $250000=$ ( ) ten-thousands; $35800000=$ ( ) ten-thousands; $46000000000=$ ( ) hundred-millions; $70500000000=$ ( ) hundred-millions.
-
-### Solution to Exercise 29
-
-By **Definition 7.1.6 (Rewriting Numbers)**: $250000=25$ ten-thousands; $35800000=3580$ ten-thousands; $46000000000=460$ hundred-millions; $70500000000=705$ hundred-millions. $\blacksquare$
-
-## Exercise 30
-
-(Lesson: Finding Approximate Numbers — Do It) Find the approximate numbers (dropping the tail after the ten-thousands place): $25520\approx$; $7244100\approx$; $950228500\approx$ hundred-millions; $923456000\approx$ hundred-millions.
-
-### Solution to Exercise 30
-
-By **Definition 7.1.7 (Rounding to find approximate numbers)**: $25520\approx3$ ten-thousands; $7244100\approx724$ ten-thousands; $950228500\approx10$ hundred-millions (the ten-million digit $5$ rounds up); $923456000\approx9$ hundred-millions. $\blacksquare$
-
-## Exercise 31
-
-(Lesson: Finding Approximate Numbers — Try It) Drop the tail after the hundred-millions place and find approximate numbers: $1034500000\approx$; $9876540000\approx$.
-
-### Solution to Exercise 31
-
-By **Definition 7.1.7 (Rounding to find approximate numbers)**: in $1034500000$ the ten-million digit is $3< 5$, drop it, $\approx10$ hundred-millions; in $9876540000$ the ten-million digit is $7\ge5$, carry $1$, $\approx99$ hundred-millions. $\blacksquare$
-
-## Exercise 32
-
-(Lesson: Practice 3, Problem 1) Compare the two numbers in each group: $208808\bigcirc99999$; $26090800000\bigcirc26900800000$; $30500000\bigcirc3050000$; $7451030000\bigcirc54284000000$.
-
-### Solution to Exercise 32
-
-By **Definition 7.1.5 (Comparing the Size of Numbers)**: $208808$ is six digits $> $ $99999$ five digits; $26090800000$ and $26900800000$ are both eleven digits, and the hundred-million digit $0< 9$, hence $< $; $30500000$ is eight digits $> $ $3050000$ seven digits; $7451030000$ is ten digits $< $ $54284000000$ eleven digits. $\blacksquare$
-
-## Exercise 33
-
-(Lesson: Practice 3, Problem 2) Which underlined parts are approximate numbers and which are exact numbers? (1) Xiaoming is about $140$ cm tall and weighs about $35$ kg. (2) Class 2, Grade 4 has $45$ people, and the whole school has $730$ people. (3) Mount Everest is about $8800$ m high. (4) During the Beijing Winter Olympics about $200000$ city volunteers took part.
-
-### Solution to Exercise 33
-
-Those containing "about" or "odd" are approximate numbers: (1) $140$ cm and $35$ kg are both approximate; (3) about $8800$ m is approximate; (4) $200000$ person-times is approximate. In (2), $45$ people and $730$ people are exact numbers. $\blacksquare$
-
-## Exercise 34
-
-(Lesson: Practice 3, Problem 3) For the seventh census, the population of some regions, dropping the tail after the ten-thousands place: Shanghai $24870895$, Shanxi $34915616$, Zhejiang $64567588$, Hunan $66444864$, Guangxi $50126804$, Yunnan $47209277$.
-
-### Solution to Exercise 34
-
-By **Definition 7.1.7 (Rounding to find approximate numbers)**: Shanghai $24870895\approx2487$ ten-thousands; Shanxi $34915616\approx3492$ ten-thousands; Zhejiang $64567588\approx6457$ ten-thousands; Hunan $66444864\approx6644$ ten-thousands; Guangxi $50126804\approx5013$ ten-thousands; Yunnan $47209277\approx4721$ ten-thousands. $\blacksquare$
-
-## Exercise 35
-
-(Lesson: Practice 3, Problem 4) First write the underlined numbers, then drop the tail after the ten-thousands or hundred-millions place to find approximate numbers. (1) The Palace Museum holds one-million eight-hundred-sixty-two-thousand-six-hundred-ninety items, among them one-million six-hundred-eighty-three-thousand-three-hundred-thirty-six precious relics. (2) The "Fendouzhe" submersible dives to ten-thousand-nine-hundred-nine meters. (3) Grain output is six-hundred-million eight-thousand-six-hundred-fifty-three ten-thousand tons. (4) Total domestic tourist visits are two-billion-three-hundred-eighty-four-million, up nine-hundred-twenty-nine-million year on year.
-
-### Solution to Exercise 35
-
-By **Definition 7.1.4 (Writing Large Numbers)** and **Definition 7.1.7 (Rounding to find approximate numbers)**: (1) $1862690\approx186$ ten-thousands, $1683336\approx168$ ten-thousands; (2) $10909\approx1$ ten-thousand; (3) $686530000\approx7$ hundred-millions; (4) $2384000000\approx24$ hundred-millions, $929000000\approx9$ hundred-millions. $\blacksquare$
-
-## Exercise 36
-
-(Lesson: Practice 3, Problem 5) The average distance of each planet from the sun (kilometers): Mars $227940000$, Uranus $2870990000$, Earth $149600000$, Venus $108200000$, Mercury $57910000$, Jupiter $778330000$, Neptune $4504000000$, Saturn $1429400000$. Rewrite in units of ten-thousand kilometers.
-
-### Solution to Exercise 36
-
-By **Definition 7.1.6 (Rewriting Numbers)**: Mars $22794$ ten-thousand km, Uranus $287099$ ten-thousand km, Earth $14960$ ten-thousand km, Venus $10820$ ten-thousand km, Mercury $5791$ ten-thousand km, Jupiter $77833$ ten-thousand km, Neptune $450400$ ten-thousand km, Saturn $142940$ ten-thousand km. $\blacksquare$
-
-## Exercise 37
-
-(Lesson: Practice 3, Problem 6) Write a nine-digit number and a ten-digit number. What is the largest nine-digit number? And the smallest ten-digit number?
-
-### Solution to Exercise 37
-
-By **Definition 7.1.1 (Counting Units and Digit Places)** and **Definition 7.1.5 (Comparing the Size of Numbers)**: the largest nine-digit number is $999999999$, and the smallest ten-digit number is $1000000000$. Other nine- and ten-digit answers are not unique. $\blacksquare$
-
-## Exercise 38
-
-(Lesson: Practice 4, Problem 1) Fill in. (1) $631020500$ is ( ) digits, its highest place is ( ), the $3$ is in the ( ) place, and the hundred-thousands place is ( ). (2) $5$ ten-millions, $7$ hundred-thousands and $8$ thousands is ( ). (3) $38204000000$ contains ( ) hundred-millions and ( ) ten-thousands. (4) $930701000=900000000+30000000+\left(\ \ \right)+\left(\ \ \right)$.
-
-### Solution to Exercise 38
-
-By **Definition 7.1.1 (Counting Units and Digit Places)**: (1) $631020500$ is nine digits, its highest place is the hundred-millions place, the $3$ is in the ten-millions place, and the hundred-thousands place is $0$; (2) $50708000$; (3) $382$ hundred-millions and $400$ ten-thousands; (4) $930701000=900000000+30000000+700000+1000$. $\blacksquare$
-
-## Exercise 39
-
-(Lesson: Practice 4, Problem 2) Write the following numbers, then drop the tail after the ten-thousands or hundred-millions place to find approximate numbers: four-million five-thousand nine-hundred; three-hundred-million eighty-four-million eight-thousand; one-hundred-three-billion thirty-nine-million.
-
-### Solution to Exercise 39
-
-By **Definition 7.1.4 (Writing Large Numbers)** and **Definition 7.1.7 (Rounding to find approximate numbers)**: four-million five-thousand nine-hundred is written $4005900\approx401$ ten-thousands; three-hundred-million eighty-four-million eight-thousand is written $384080000\approx4$ hundred-millions; one-hundred-three-billion thirty-nine-million is written $100339000000\approx1003$ hundred-millions. $\blacksquare$
-
-## Exercise 40
-
-(Lesson: Practice 4, Problem 3) Compare: $27$ ten-thousands $\bigcirc260800$; $500000000\bigcirc5$ hundred-millions; $40$ ten-thousands $\bigcirc4000000$; $297860000\bigcirc3$ hundred-millions.
-
-### Solution to Exercise 40
-
-By **Definition 7.1.5 (Comparing the Size of Numbers)** and **Definition 7.1.6 (Rewriting Numbers)**: $27$ ten-thousands $=270000> 260800$; $500000000=5$ hundred-millions; $40$ ten-thousands $=400000< 4000000$; $297860000< 3$ hundred-millions $=300000000$. $\blacksquare$
-
-## Exercise 41
-
-(Lesson: Practice 4, Problem 4) In pairs, using digit cards $0\sim9$, take turns to draw one and write it in a chosen blank; whoever writes the larger number wins.
-
-### Solution to Exercise 41
-
-By **Definition 7.1.5 (Comparing the Size of Numbers)**, the larger the high-place digits the larger the number, so the strategy is to put the large digits you draw in the high places as much as possible. $\blacksquare$
-
-## Exercise 42
-
-(Lesson: Practice 4, Problem 5) Look carefully and fill the blanks with suitable numbers: on the number line there are $9930000$, $\_\_$, $9970000$, $\_\_$, $\_\_$.
-
-### Solution to Exercise 42
-
-By the equal spacing on the number line, adjacent cells differ by $10000$: $9930000$, $9950000$, $9970000$, $9990000$, $10010000$. $\blacksquare$
-
-## Exercise 43
-
-(Lesson: Practice 4, Problem 6) Sales of battery-electric cars, 2015—2022 (units): $247482$, $409000$, $666000$, $984000$, $972000$, $1115000$, $2916000$, $5365000$. Drop the tail after the ten-thousands place to find approximate numbers.
-
-### Solution to Exercise 43
-
-By **Definition 7.1.7 (Rounding to find approximate numbers)**: $247482\approx25$ ten-thousands, $409000\approx41$ ten-thousands, $666000\approx67$ ten-thousands, $984000\approx98$ ten-thousands, $972000\approx97$ ten-thousands, $1115000\approx112$ ten-thousands, $2916000\approx292$ ten-thousands, $5365000\approx537$ ten-thousands. Sales grow rapidly year by year. $\blacksquare$
-
-## Exercise 44
-
-(Lesson: Practice 4, Problem 7) Fill the $\square$ with suitable digits: $8\square765000\approx9$ hundred-millions; $3562100000< \square103270000$; $\square00\square00\approx69$ ten-thousands; $\square00800000> 2810800000$.
-
-### Solution to Exercise 44
-
-By **Definition 7.1.5 (Comparing the Size of Numbers)** and **Definition 7.1.7 (Rounding to find approximate numbers)**: $8\square765000\approx9$ hundred-millions, the ten-million digit must be $\ge5$, fill $5\sim9$; $3562100000< \square103270000$, fill $\ge4$; $\square00\square00\approx69$ ten-thousands, the ten-thousand level is $69$ and the thousands digit is $0\sim4$, fill $690000\sim694000$; $\square00800000> 2810800000$, fill $\ge3$. $\blacksquare$
+$36\times7=252$; $48\times6=288$; $59\times8=472$; $72\times4=288$; $27\times9=243$; $313\times5=1565$; $499\times3=1497$; $824\times5=4120$. $\blacksquare$

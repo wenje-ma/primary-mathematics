@@ -1,200 +1,187 @@
 # week68
-> **Definition 8.2.1 (从不同方向观察物体)**
+> **Definition 6.1.1 (轴对称图形与对称轴)**
 > 
-> 数字编码 曹冲称象的故事 观察物体 多位数乘一位数 分数的初步认识 复习与关联 线和角 混合运算 毫米,分米和千米 39 61 57 73 92 1 6 20 31 目录 一 二 三 四 五 六 七 目录 观察物体 混合运算 毫米,分米和千米 20 曹冲称象的故事 31 多位数乘一位数 39 数字编码 57 线和角 61 分数的初步认识 73 复习与关联 92
-> **Definition 8.5.4 (Triangle Inequality)**
+> 如果一个图形沿一条直线折叠, 直线两旁的部分能够互相重合, 这个图形叫做轴对称图形.
+> **Definition 6.1.2 (平移)**
 > 
-> 三角形任意两边之和大于第三边.
-> **Definition 8.5.5 (三角形按角分类)**
+> 物体或图形沿直线方向运动而本身方向不发生改变, 这种运动叫做平移.
+> **Definition 6.1.3 (旋转)**
 > 
-> 三角形按角可分为锐角三角形,直角三角形和钝角三角形.
-> **Definition 8.5.7 (Triangle Angle Sum)**
+> 物体绕着一个点或轴进行圆周运动的现象叫做旋转.
+> **Definition 6.7.1 (小数的意义和性质)**
 > 
-> 三角形的内角和等于 180 度.
-> **Definition 8.6.1 (小数加减法)**
+> 参见教材相应章节关于此概念的论述.
+> **Definition 6.7.3 (简单的小数加减法)**
 > 
-> 计算小数加法时, 先把小数点对齐 (也就是相同数位对齐), 再按照整数加法的法则进行计算.
-> **Definition 8.7.1 (轴对称图形)**
+> 70 计算小数加减法,先把各数的小数点对齐(也就是把 相同数位上的数对齐),再按照整数加减法的法则进行计 算,最后在得数里点上小数点.如果得数的小数部分末尾 有0,可以把0去掉. 一起总结小数加减法的计算方法. (1) 小林买了下面两本书,一共花了多少钱? 2 (2) 《数学家的故事》比《神奇的大自然》便宜多少钱? 计算下面各题并验算. 12+0.5 27-0.8 113.04+7.8 0.3-0.18 12.56+5.8 16.4-3.2 做一做 百分位上怎样减? 16.45+18.3=34.75 4 3 4 3 7 5 5 1 1 + . . . 1 6 8 18.3-16.45=1.85 - 1 3 3 4 8 0 5 5 1 . . . 1 8 3 6 18.3元 16.45元 (1)小林买了下面两本书,一共花了多少钱? 数学家的 神奇的 故事 大自然 16.45元 18.3元 16.45+18.3
+> **Definition 6.8.1 (全册知识结构)**
 > 
-> 轴对称图形中, 对称点到对称轴的距离相等.
-> **Definition 8.7.2 (平移)**
+> 会解决生活中的很多问题了. 你已经学会了表内乘,除法和多位数乘一位数的乘法.本学 期,聪聪将带你挑战除数是一位数的除法. 在图形方面,线和角对你来说应该已经很熟悉了,本学期你将 研究四边形的特征并探索如何计算长方形,正方形的周长和面积. 也许下一次装修时,你就能帮着爸爸妈妈计算要买多少块瓷砖啦! 本学期,聪聪还将带你认识生活中的运动现象,寻找日历上的 规律…… 现在,就和聪聪一起继续探索数学的奥秘吧! 36.6 ℃, 体温正常. 致同学 致同学 愉快的寒假结束了.在假期生活中,你有没有遇到过新的数学 问题?带着这些问题,开始新的学习旅程吧! 测量体温和身高时,经常会看到下面图中的数.它们表示什 么?怎么读?弄清这些,你就会解决生活中的很多问题了. 36.6 ℃, 1米 体温正常. 1.2米 你已经学会了表内乘,除法和多位数乘一位数的乘法.本学 期,聪聪将带你挑战除数是一位数的除法 在图形方面,线和角对你来说应该已经很熟悉了,本学期你将 研究四边形的特征并探索如何计算长方形,正方形的周长和
+> **Definition 6.8.2 (重叠问题)**
 > 
-> 平移不改变图形的形和大小, 只改变图形的位置.
-> **Definition 8.7.3 (用平移求面积和周长)**
+> 两部分有重叠时, 总数 $=$ 两部分的和 $-$ 重叠部分, 直接相加会把重叠的重复计算.
+> **Definition 7.1.1 (计数单位与数位)**
 > 
-> 运用平移的方法可以将不规则图形转化为规则图形来求面积.
-> **Definition 8.8.2 (复式条形统计图)**
+> 个 (一), 十, 百, 千, 万, 十万, 百万, 千万, 亿, 十亿, 百亿, 千亿都是计数单位. 每相邻两个计数单位之间的进率都是十, 这种计数方法叫十进制计数法. 计数单位按一定顺序排列, 它们所占的位置叫数位. 从右边起每四个数位是一级: 个级 (个, 十, 百, 千), 万级 (万, 十万, 百万, 千万), 亿级 (亿, 十亿, 百亿, 千亿).
+> **Definition 7.1.2 (自然数)**
 > 
-> 复式条形统计图可以同时表示多组数据, 便于直观比较.
-> **Definition 8.10.1 (鸡兔同笼问题与假设法)**
+> 表示物体个数的 $1,2,3,\cdots$ 都是自然数. 一个物体也没有用 $0$ 表示, $0$ 也是自然数. 最小的自然数是 $0$, 没有最大的自然数, 自然数的个数是无限的.
+> **Definition 7.1.3 (Reading Large Numbers)**
 > 
-> 解决鸡兔同笼问题时, 先假设全是鸡或全是兔, 再根据实际数量调整, 这种方法叫做假设法.
-> **Definition 8.11.1 (四则运算与运算律)**
+> 读大数时, 从高位读起, 亿级和万级的数按照个级的读法来读, 再在后面加上亿字或万字.
+> **Definition 7.1.4 (Writing Large Numbers)**
 > 
-> 加法交换律 a+b = b+a; 加法结合律 (a+b)+c = a+(b+c); 乘法交换律 ab = ba; 乘法结合律 (ab)c = a(bc); 乘法分配律 (a+b)c = ac+bc.
-> **Definition 8.11.2 (小数意义与加减法)**
+> 写大数时, 从高位写起, 哪一位上一个单位也没有, 就在那一位上写 0.
+> **Definition 7.1.5 (数的大小比较)**
 > 
-> 小数的计数单位是十分之一, 百分之一, 千分之一等, 每相邻两个计数单位间的进率是 $10$. 小数加减法要把小数点对齐再计算.
-> **Definition 8.11.3 (总复习: 图形与统计)**
+> 位数不同时, 位数多的数大. 位数相同时, 从最高位比起, 最高位上数大的那个数就大; 最高位相同就比较下一个数位上的数.
+> **Definition 7.1.6 (数的改写)**
 > 
-> 三角形内角和 $180^\circ$, 任意两边之和大于第三边; 轴对称图形对应点到对称轴距离相等; 平移不改变图形形大小; 复式条形统计图便于比较两组数据; 平均数 $=$ 总数 $\div$ 份数.
+> 把整万或整亿的数改写成用万或亿作单位的数, 去掉末尾的 4 个 0 或 8 个 0, 加上万字或亿字.
+> **Definition 7.1.7 (四舍五入法求近似数)**
+> 
+> 省略尾数时, 看尾数部分最高位上的数: 小于 $5$ 就把尾数舍去 (四舍), 大于或等于 $5$ 就向前一位进 $1$ 再舍去尾数 (五入). 近似数与原数之间用 "$\approx$" 连接.
 
-## Exercise 241
+## Exercise 1
 
-(Lesson: General Review, Practice 25, Problem 1) Calculate and check: $419+387$; $2.84+3.76$; $16.32-7.95$; $100-74.5$; $80\times64$; $105\times28$; $884\div26$; $1435\div35$.
+(Lesson: Challenge Yourself, Problem 1) Two rectangles of length $8$ cm and width $3$ cm overlap, and the overlap is a square of side $3$ cm; what is the area of this figure?
 
-### Solution to Exercise 241
+### Solution to Exercise 1
 
-$419+387=806$; $2.84+3.76=6.60$; $16.32-7.95=8.37$; $100-74.5=25.5$; $80\times64=5120$; $105\times28=2940$; $884\div26=34$; $1435\div35=41$. $\blacksquare$
+By **Definition 6.8.2 (重叠问题)**, $8\times3\times2-3\times3=48-9=39$ (square centimeters). $\blacksquare$
 
-## Exercise 242
+## Exercise 2
 
-(Lesson: General Review, Practice 25, Problem 2) Fill the $\square$ with suitable numbers: (1) $3.6+8.59+6.4=3.6+\square+8.59$; (2) $\left(25.8+7.5\right)+2.5=\square+\left(\square+\square\right)$; (3) $42\times4\times25=\square\times\left(\square\times\square\right)$; (4) $\left(125+70\right)\times8=8\times\square+8\times\square$; (5) $\left(b+20\right)\times3=\square\times\square+\square\times\square$.
+(Lesson: Challenge Yourself, Problem 2) Two circles are filled respectively with the integers "greater than $50$ and less than $70$" and "greater than $60$ and less than $80$". (1) How many numbers appear in both circles?
 
-### Solution to Exercise 242
+### Solution to Exercise 2
 
-By **Definition 8.11.1 (Extending the Operation Laws)**: (1) $3.6+6.4+8.59$; (2) $25.8+\left(7.5+2.5\right)$; (3) $42\times\left(4\times25\right)$; (4) $8\times125+8\times70$; (5) $b\times3+20\times3$. $\blacksquare$
+By **Definition 6.8.2 (重叠问题)**, the overlap is the integers greater than $60$ and less than $70$: $61,62,\ldots,69$, totaling $9$. $\blacksquare$
 
-## Exercise 243
+## Exercise 3
 
-(Lesson: General Review, Practice 25, Problem 3) Fill the $\square$ with suitable numbers, then write a combined expression.
+(Lesson: Challenge Yourself, Problem 3) Write four-character idioms containing "spring": Xiaoliang wrote $15$, Xiaoli $8$ (all of Xiaoli's were also written by Xiaoliang), Xiaohong $10$ (of which $5$ were also written by Xiaoliang). (1) How many did Xiaoliang and Xiaoli write in total? (2) How many did Xiaoliang and Xiaohong write in total?
 
-### Solution to Exercise 243
+### Solution to Exercise 3
 
-Fill the numbers step by step according to the operation order shown in the boxes, then merge the steps into one combined expression, adding parentheses for the parts computed first. $\blacksquare$
+By **Definition 6.8.2 (the overlap problem)**: (1) All $8$ of Xiaoli's were also written by Xiaoliang, so totaling $15$. (2) $15+10-5=20$ (idioms). $\blacksquare$
 
-## Exercise 244
+## Exercise 4
 
-(Lesson: General Review, Practice 25, Problem 4) Uncle Wang sells vegetables: cabbage $160.45$ yuan, potatoes $137.6$ yuan, radishes $129.75$ yuan. (1) How much more did cabbage sell than radishes?
+(Lesson: Understanding Numbers within Hundred-Million — Do It, Problem 1) On the counter, dial and count. (1) Count by ten-thousands from nine-hundred-sixty-thousand to one-million-thirty-thousand. (2) Count by hundred-thousands from seven-hundred-thousand to one-million. (3) Count by millions from six-million to ten-million. (4) Count by ten-millions from eighty-million to one-hundred-million.
 
-### Solution to Exercise 244
+### Solution to Exercise 4
 
-By **Definition 8.6.1 (Subtracting Decimals)**, $160.45-129.75=30.70$ (yuan). $\blacksquare$
+By **Definition 7.1.1 (Counting Units and Digit Places)**, the rate between adjacent counting units is ten: (1) 960000, 970000, 980000, 990000, 1000000, 1010000, 1020000, 1030000; (2) 700000, 800000, 900000, 1000000; (3) 6000000, 7000000, 8000000, 9000000, 10000000; (4) 80000000, 90000000, 100000000. $\blacksquare$
 
-## Exercise 245
+## Exercise 5
 
-(Lesson: General Review, Practice 25, Problem 5) Fill in: (1) $0.015$ contains ( ) thousandths; (2) $4$ hundredths written as a decimal is ( ); (3) shrinking $3$ to its $\frac{1}{100}$ gives ( ); (4) $5.6$ 's ( ) is $0.056$.
+(Lesson: Understanding Numbers within Hundred-Million — Do It, Problem 2) Fill in the digit-place order table and answer: (1) From low to high, name every digit place of the unit level and the ten-thousand level. (2) Starting from the ones place, which place is the ten-thousands place? Which is the hundred-millions place? (3) What are the places immediately to the right and left of the ten-thousands place?
 
-### Solution to Exercise 245
+### Solution to Exercise 5
 
-By **Definition 8.11.2 (Meaning of Decimals)**: (1) $0.015=15\times0.001$, containing $15$ thousandths; (2) $4$ hundredths $=0.04$; (3) $3\div100=0.03$; (4) $0.056\div5.6=\frac{1}{100}$. $\blacksquare$
+By **Definition 7.1.1 (Counting Units and Digit Places)**: (1) Unit level: ones, tens, hundreds, thousands; ten-thousand level: ten-thousands, hundred-thousands, millions, ten-millions. (2) Starting from the ones place, the $5$th place is the ten-thousands place, and the $9$th place is the hundred-millions place. (3) The place to the right of the ten-thousands place is the thousands place, and to the left is the hundred-thousands place. $\blacksquare$
 
-## Exercise 246
+## Exercise 6
 
-(Lesson: General Review, Practice 25, Problem 6) Convenient calculation: $312\times4+188\times4$; $101\times87$; $135\times50\times2$; $25\times33\times4$.
+(Lesson: Reading Numbers within Hundred-Million — Do It, Problem 1) Read each group: $34$ and $340000$; $3004$ and $30040000$; $340$ and $3400000$; $3040$ and $30400000$.
 
-### Solution to Exercise 246
+### Solution to Exercise 6
 
-By **Definition 8.11.1 (Operation Laws)**: $312\times4+188\times4=\left(312+188\right)\times4=2000$; $101\times87=\left(100+1\right)\times87=8787$; $135\times50\times2=135\times100=13500$; $25\times33\times4=25\times4\times33=3300$. $\blacksquare$
+By **Definition 7.1.3 (Reading Large Numbers)**: $34$ is read "thirty-four", $340000$ is read "three-hundred-forty thousand"; $3004$ is read "three-thousand-four", $30040000$ is read "thirty-million forty-thousand"; $340$ is read "three-hundred-forty", $3400000$ is read "three-million four-hundred-thousand"; $3040$ is read "three-thousand-forty", $30400000$ is read "thirty-million four-hundred-thousand". $\blacksquare$
 
-## Exercise 247
+## Exercise 7
 
-(Lesson: General Review, Practice 25, Problem 7) Results of the $4\times50\,\mathrm{m}$ relay (seconds): Class 4(1) $8.42,8.67,8.58,8.50$; Class 4(2) $8.40,8.56,8.61,8.39$; Class 4(3) $8.32,8.68,8.70,8.36$; Class 4(4) $8.48,8.54,8.52,8.46$. Compute each class's total.
+(Lesson: Reading Numbers within Hundred-Million — Do It, Problem 2) Read: $32680$, $5205000$, $1200605$, $107070$, $470050$, $30600900$, $3070800$, $100000000$.
 
-### Solution to Exercise 247
+### Solution to Exercise 7
 
-By **Definition 8.6.1 (Adding Decimals)**: Class 4(1) $8.42+8.67+8.58+8.50=34.17$ seconds; Class 4(2) $8.40+8.56+8.61+8.39=33.96$ seconds; Class 4(3) $8.32+8.68+8.70+8.36=34.06$ seconds; Class 4(4) $8.48+8.54+8.52+8.46=34.00$ seconds. Class 4(2) is fastest. $\blacksquare$
+By **Definition 7.1.3 (Reading Large Numbers)**: $32680$ is read "thirty-two-thousand six-hundred-eighty"; $5205000$ is read "five-million two-hundred-five-thousand"; $1200605$ is read "one-million two-hundred-thousand-six-hundred-five"; $107070$ is read "one-hundred-thousand seven-hundred-seventy"; $470050$ is read "four-hundred-seventy-thousand fifty"; $30600900$ is read "thirty-million six-hundred-thousand nine-hundred"; $3070800$ is read "three-million seventy-thousand eight-hundred"; $100000000$ is read "one-hundred-million". $\blacksquare$
 
-## Exercise 248
+## Exercise 8
 
-(Lesson: General Review, Practice 25, Problem 8) Find the unknown angle in the triangle (given $60^\circ,53^\circ$; $20^\circ$, etc.).
+(Lesson: Writing Numbers within Hundred-Million — Do It, Problem 1) Write the following numbers: three-million two-hundred-sixty-seven-thousand-five-hundred, forty-thousand-ninety, ninety-million two-hundred-thousand-three-hundred, one-million.
 
-### Solution to Exercise 248
+### Solution to Exercise 8
 
-By **Definition 8.5.7 (a triangle's interior-angle sum $180^\circ$)**, $180^\circ-60^\circ-53^\circ=67^\circ$; in a right triangle $180^\circ-90^\circ-20^\circ=70^\circ$. Subtract according to the given angles in the figure. $\blacksquare$
+By **Definition 7.1.4 (Writing Large Numbers)**: three-million two-hundred-sixty-seven-thousand-five-hundred is written $3267500$; forty-thousand-ninety is written $40090$; ninety-million two-hundred-thousand-three-hundred is written $90200300$; one-million is written $1000000$. $\blacksquare$
 
-## Exercise 249
+## Exercise 9
 
-(Lesson: General Review, Practice 25, Problem 9) A triangle has two sides $4\,\mathrm{cm}$ and $7\,\mathrm{cm}$; what might the third side be in centimeters (whole numbers)?
+(Lesson: Writing Numbers within Hundred-Million — Do It, Problem 2) Write the underlined numbers: light travels about two-hundred-ninety-nine-thousand-eight-hundred kilometers per second; a dragonfly's eye is made of up to twenty-eight-thousand-odd tiny eyes.
 
-### Solution to Exercise 249
+### Solution to Exercise 9
 
-By **Definition 8.5.4 (Relationship Among the Three Sides)**, $7-4< $ third side $< 7+4$, i.e. $3< $ third side $< 11$, so it can be $4,5,6,7,8,9,10\,\mathrm{cm}$. $\blacksquare$
+By **Definition 7.1.4 (Writing Large Numbers)**: two-hundred-ninety-nine-thousand-eight-hundred is written $299800$; twenty-eight-thousand-odd is written about $28000$. $\blacksquare$
 
-## Exercise 250
+## Exercise 10
 
-(Lesson: General Review, Practice 25, Problem 10) Count how many acute, obtuse and right angles are in the figure, and how many acute, obtuse and right triangles.
+(Lesson: Writing Numbers within Hundred-Million — Do It, Problem 3) Listen to the teacher read and write: forty-eight-million three-hundred-twenty-thousand, twenty-eight-thousand-five-hundred-eighty-seven, seven-million-thirty-thousand-five-hundred, one-hundred-forty-thousand-two-hundred-fifty, sixty-thousand-one-hundred-twenty-three, thirty-seven-million-forty.
 
-### Solution to Exercise 250
+### Solution to Exercise 10
 
-By **Definition 8.5.5 (Classification by Angles)**, identify each angle in the figure as acute, right or obtuse, then classify and count each triangle by its three angles. $\blacksquare$
+By **Definition 7.1.4 (Writing Large Numbers)**: $48320000$, $28587$, $7035000$, $142950$, $60123$, $37000040$. $\blacksquare$
 
-## Exercise 251
+## Exercise 11
 
-(Lesson: General Review, Practice 25, Problem 11) Look and connect: what shape is seen from the front, from the top and from the left side?
+(Lesson: Practice 1, Problem 1) State the meaning of the underlined digits: the $8$ in $32086$; the $7$ in $93787$; the $1$ in $107398$; the $9$ and $0$ in $690250$.
 
-### Solution to Exercise 251
+### Solution to Exercise 11
 
-By **Definition 8.2.1 (Observing Objects)**, stand in front of, above and to the left of the object in turn, and connect each seen planar figure to the corresponding direction. $\blacksquare$
+By **Definition 7.1.1 (Counting Units and Digit Places)**: in $32086$, the $8$ is in the tens place and means $8$ tens; in $93787$, the $7$ is in the hundreds place and means $7$ hundreds; in $107398$, the $1$ is in the hundred-thousands place and means $1$ hundred-thousand; in $690250$, the $9$ is in the ten-thousands place and means $9$ ten-thousands, and the $0$ in the thousands place means there is nothing in the thousands place. $\blacksquare$
 
-## Exercise 252
+## Exercise 12
 
-(Lesson: General Review, Practice 25, Problem 12) First complete this axially symmetric figure based on the axis, then draw the figure obtained by translating it $4$ squares to the right.
+(Lesson: Practice 1, Problem 2) Speak following the example: $47578$ means $4$ ten-thousands and $7578$ ones. Say $280064$, $498909$, $2700006$, $55523870$ in the same way.
 
-### Solution to Exercise 252
+### Solution to Exercise 12
 
-By **Definition 8.7.1 (Axial Symmetry)**, first complete the other half; then by **Definition 8.7.2 (Translation)**, move each key point of the completed figure $4$ squares to the right and connect them. $\blacksquare$
+By **Definition 7.1.1 (Counting Units and Digit Places)**: $280064$ means $28$ ten-thousands and $64$ ones; $498909$ means $49$ ten-thousands and $8909$ ones; $2700006$ means $270$ ten-thousands and $6$ ones; $55523870$ means $5552$ ten-thousands and $3870$ ones. $\blacksquare$
 
-## Exercise 253
+## Exercise 13
 
-(Lesson: General Review, Practice 25, Problem 13) What is the area of this figure? (One grid is $1\,\mathrm{cm}$.)
+(Lesson: Practice 1, Problem 3) Read: $1053600$, $563004$, $45000600$, $5320190$.
 
-### Solution to Exercise 253
+### Solution to Exercise 13
 
-By **Definition 8.7.3 (Finding Area by Translation)**, translate the protruding parts into the recessed parts to transform the figure into a rectangle, and compute the area by length times width. $\blacksquare$
+By **Definition 7.1.3 (Reading Large Numbers)**: $1053600$ is read "one-million fifty-thousand three-thousand-six-hundred"; $563004$ is read "five-hundred-sixty-thousand three-thousand-four"; $45000600$ is read "forty-five-million six-hundred"; $5320190$ is read "five-million three-hundred-twenty-thousand one-hundred-ninety". $\blacksquare$
 
-## Exercise 254
+## Exercise 14
 
-(Lesson: General Review, Practice 25, Problem 14) Numbers of ordinary and e-mails: in $1990$ $20$ vs $0$, in $2000$ $18$ vs $6$, in $2010$ $10$ vs $20$, in $2020$ $1$ vs $45$. Complete the double bar chart. (1) In which year were ordinary letters the most? In which year were e-mails the most? What is the trend?
+(Lesson: Practice 1, Problem 4) Write the underlined numbers: (1) A person's heart beats about forty-two-million times a year. (2) Earth's equator is about forty-million seventy-thousand-five-hundred-seventy meters around. (3) A blue whale weighs about one-hundred-twenty-five-thousand kilograms.
 
-### Solution to Exercise 254
+### Solution to Exercise 14
 
-Draw by **Definition 8.8.2 (Double Bar Chart)**. (1) Ordinary letters were most in $1990$ at $20$, and e-mails most in $2020$ at $45$. Trend: ordinary letters decrease year by year while e-mails increase year by year. $\blacksquare$
+By **Definition 7.1.4 (Writing Large Numbers)**: (1) $42000000$ times; (2) $40075700$ meters; (3) $125000$ kilograms. $\blacksquare$
 
-## Exercise 255
+## Exercise 15
 
-(Lesson: General Review, Practice 25, Problem 15) A cash journal: opening balance $32.00$ yuan, office fee received $884.00$ yuan, then daily expenditures: chalk $75.00$, ink $5.20$, medicine $145.80$, sports $136.70$, office $132.80$, sanitation $115.30$, utilities $132.00$ yuan. Compute the closing balance and the monthly totals.
+(Lesson: Practice 1, Problem 5) Write the numbers: (1) sixty-million nine-thousand five-hundred. (2) The number made of four-million, eighty-thousand, fifty-thousand and three-thousand. (3) $4000000+600000+70000+8000+2$.
 
-### Solution to Exercise 255
+### Solution to Exercise 15
 
-By **Definition 8.6.1 (Decimal Addition and Subtraction)**, balance: each entry $+$ income $-$ expense: $32+884=916$, then successively subtract $75,5.2,145.8,136.7,132.8,115.3,132$; monthly income total $884$ yuan, expense total $75+5.2+145.8+136.7+132.8+115.3+132=742.8$ (yuan). $\blacksquare$
+By **Definition 7.1.4 (Writing Large Numbers)**: (1) $60090500$; (2) $4853000$; (3) $4678002$. $\blacksquare$
 
-## Exercise 256
+## Exercise 16
 
-(Lesson: General Review, Practice 25, Problem 16) Xiao Hua's long-jump results: $170,168,171,167,169\,\mathrm{cm}$. What should her competition result be? Is using the mean of the $5$ tries appropriate?
+(Lesson: Practice 1, Problem 6) Match: ninety-six-million, thirteen-million nine-hundred-thousand nine-thousand, eight-hundred-sixty-thousand-one-hundred, thirteen-million ninety-thousand-thirty-four, with $96000000$, $13909000$, $860100$, $13090034$.
 
-### Solution to Exercise 256
+### Solution to Exercise 16
 
-A long-jump competition takes the farthest try as the result, which should be $171\,\mathrm{cm}$. Using the $5$-try mean is inappropriate, because the competition rule takes the best try and the mean does not reflect her farthest level. $\blacksquare$
+By **Definition 7.1.3 (Reading Large Numbers)** and **Definition 7.1.4 (Writing Large Numbers)**: ninety-six-million matches $96000000$; thirteen-million nine-hundred-thousand nine-thousand matches $13909000$; eight-hundred-sixty-thousand-one-hundred matches $860100$; thirteen-million ninety-thousand-thirty-four matches $13090034$. $\blacksquare$
 
-## Exercise 257
+## Exercise 17
 
-(Lesson: General Review, Practice 25, Problem 17) Divide an equilateral triangle into $4$ equal small equilateral triangles. Draw it in the figure.
+(Lesson: Practice 1, Problem 7) Work with a classmate to make a number spinner, spin it $6$ times to form a six-digit number, and read it out. For example, spinning gives $380715$.
 
-### Solution to Exercise 257
+### Solution to Exercise 17
 
-Join the midpoints of the three sides, which divides it into $4$ identical small equilateral triangles. $\blacksquare$
+By **Definition 7.1.3 (Reading Large Numbers)**, $380715$ is read "three-hundred-eighty-thousand seven-hundred-fifteen". Other results are read and written according to the numbers spun. $\blacksquare$
 
-## Exercise 258
+## Exercise 18
 
-(Lesson: General Review, Practice 25, Problem 18) Four book prices: $7.39$ yuan, $6.95$ yuan, $8.40$ yuan, $7.88$ yuan. (1) Li Yi has $15$ yuan; which two books can she buy? (2) Zhang Bo pays $16$ yuan; which two books might he have bought?
+(Lesson: Practice 1, Problem 8) Represent the following numbers in different ways: $4853000$, $6009500$, $80000040$, $25307000$, $440000$.
 
-### Solution to Exercise 258
+### Solution to Exercise 18
 
-By **Definition 8.6.1 (Adding Decimals)**: (1) two books totaling no more than $15$ yuan: $7.39+6.95=14.34$ yuan, $6.95+7.88=14.83$ yuan, etc. (2) any two books totaling no more than $16$ yuan, e.g. $7.39+8.40=15.79$ yuan, $7.39+7.88=15.27$ yuan, etc. $\blacksquare$
-
-## Exercise 259
-
-(Lesson: General Review, Practice 25, Problem 19) Extracurricular interest groups: the science group has $5$ per group and the arts group $3$ per group; there are $37$ students divided exactly into $9$ groups. How many students are in the science group and the arts group?
-
-### Solution to Exercise 259
-
-By **Definition 8.10.1 (Assumption Method)**, assume all are arts groups: $9\times3=27$ students, short by $37-27=10$; each science group has $5-3=2$ more students, so science groups $10\div2=5$ groups ($25$ students) and arts groups $9-5=4$ groups ($12$ students). $\blacksquare$
-
-## Exercise 260
-
-(Lesson: General Review, Practice 25, Problem 20) Fill the $\square$ in the vertical calculation with suitable numbers.
-
-### Solution to Exercise 260
-
-By **Definition 8.6.1 (vertical decimal addition and subtraction)**, work backward from the known last digit, fill each box digit by digit, and watch for carrying and borrowing. $\blacksquare$
+By **Definition 7.1.1 (Counting Units and Digit Places)**, for example $440000=400000+40000$ means it is made of four-hundred-thousand and forty-thousand. The other numbers are split by level into the sum of the ten-thousand level and the unit level, or expressed as so many ten-thousands and so many ones. $\blacksquare$

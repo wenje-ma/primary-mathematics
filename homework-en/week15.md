@@ -1,90 +1,203 @@
 # week15
-> **Definition 2.7.1 (人民币的单位)**
+> **Definition 2.4.1 (口算加法)**
 > 
-> 人民币是我国的法定货币, 有纸币和硬币. 人民币的单位有元, 角, 分.
-> **Definition 2.7.2 (元角分的换算)**
+> 口算加法把几个一和几个一相加, 几个十和几个十相加; 个位相加满十, 向十位进 $1$.
+> **Definition 2.4.2 (口算减法)**
 > 
-> $1$ 元 $=10$ 角, $1$ 角 $=10$ 分.
-> **Definition 2.7.3 (人民币的兑换与找零)**
+> 口算减法把几个一和几个一相减, 几个十和几个十相减; 个位不够减, 从十位退 $1$ 作 $10$ 再减.
+> **Definition 2.4.3 (用连减解决问题)**
 > 
-> $1$ 张 $20$ 元可以换 $2$ 张 $10$ 元或 $4$ 张 $5$ 元; 购物时要正确付款, 并学会找零.
+> "每几个装一份, 求能装满几份还剩几个", 可以 $8$ 个 $8$ 个地圈一圈, 也可以连续减.
+> **Definition 2.5.1 (竖式)**
+> 
+> 笔算加,减法用竖式计算: 相同数位要对齐, 从个位算起.
+> **Definition 2.5.2 (笔算加法)**
+> 
+> 个位相加满十, 向十位进 $1$.
+> **Definition 2.5.3 (笔算减法)**
+> 
+> 个位不够减, 从十位退 $1$.
 
-## Exercise 131
+## Exercise 1
 
-(Lesson: Happy Shopping Street, Introduction) I have $20$ yuan; what can I buy? How many $1$-yuan notes can one $20$-yuan note be exchanged for?
+(Lesson: Mental Addition and Subtraction Within 100, Practice) Making a shuttlecock needs $4$ feathers; at most how many shuttlecocks can be made with $18$ feathers?
 
-### Solution to Exercise 131
+### Solution to Exercise 1
 
-By **Definition 2.7.3 (Renminbi Exchange and Change)**, any item priced no more than $20$ yuan can be bought; $20$ yuan can be exchanged for $20$ $1$-yuan notes. $\blacksquare$
+By **Definition 2.4.3 (Solving Problems with Continuous Subtraction)**, $18-4-4-4-4=2$; at most $4$ shuttlecocks can be made. $\blacksquare$
 
-## Exercise 132
+## Exercise 2
 
-(Lesson: Recognizing Renminbi, Say It) Talk about which Renminbi you recognize and what their denominations are.
+(Lesson: Mental Addition and Subtraction Within 100, Practice) There are $24$ boxes of apples, and $8$ boxes are transported each time; how many trips are needed to transport all of them?
 
-### Solution to Exercise 132
+### Solution to Exercise 2
 
-By **Definition 2.7.1 (Renminbi Units)**, recognize denominations such as $1$ yuan, $5$ yuan, $10$ yuan, $20$ yuan, $50$ yuan, $100$ yuan, as well as $1$ jiao, $5$ jiao, $1$ fen, $5$ fen, etc. $\blacksquare$
+By **Definition 2.4.3 (Solving Problems with Continuous Subtraction)**, $24-8-8-8=0$; $3$ trips are needed. $\blacksquare$
 
-## Exercise 133
+## Exercise 3
 
-(Lesson: Recognizing Renminbi, Recognize It) This is $5$ yuan, and $5$ $1$-yuan is also $5$ yuan.
+(Lesson: Written Addition, Example 1) Class 1(1) has $35$ students, and Class 1(2) has $32$; how many students in total? $35+32=\square$.
 
-### Solution to Exercise 133
+### Solution to Exercise 3
 
-By **Definition 2.7.3 (Renminbi Exchange and Change)**, $1$ $5$-yuan note and $5$ $1$-yuan notes are equal in value, both being $5$ yuan. $\blacksquare$
+By **Definition 2.5.1 (Vertical Form)**, align the same place values and add from the ones: $5+2=7$, $30+30=60$, $35+32=67$. $\blacksquare$
 
-## Exercise 134
+## Exercise 4
 
-(Lesson: Exchange It, Problem 1) How can $1$ $10$-yuan note be exchanged? How can $1$ $20$-yuan note be exchanged?
+(Lesson: Written Addition, Example 2) Class 1(1) has $35$ students, and Class 1(3) has $37$; how many students in total? $35+37=\square$.
 
-### Solution to Exercise 134
+### Solution to Exercise 4
 
-By **Definition 2.7.3 (Renminbi Exchange and Change)**, $1$ $10$-yuan note can be exchanged for $1$ $5$-yuan note and $5$ $1$-yuan notes; $1$ $20$-yuan note can be exchanged for $2$ $10$-yuan notes or $4$ $5$-yuan notes. $\blacksquare$
+By **Definition 2.5.2 (Written Addition)**, the ones $5+7=12$ reaches ten and carry $1$ to the tens: $35+37=72$. $\blacksquare$
 
-## Exercise 135
+## Exercise 5
 
-(Lesson: Exchange It, Problem 2) Fill in: $1$ yuan $=\_\_$ jiao, $1$ jiao $=\_\_$ fen.
+(Lesson: Written Addition, Try It) Calculate in vertical form: $56+34$, $46+9$.
 
-### Solution to Exercise 135
+### Solution to Exercise 5
 
-By **Definition 2.7.2 (Conversion of Yuan, Jiao, and Fen)**: $1$ yuan $=10$ jiao, $1$ jiao $=10$ fen. $\blacksquare$
+By **Definition 2.5.1 (Vertical Form)** and **Definition 2.5.2 (Written Addition)**: $56+34=90$, $46+9=55$. $\blacksquare$
 
-## Exercise 136
+## Exercise 6
 
-(Lesson: Exchange It, Problem 3) Look at the picture and fill in: $\left(\_\_\right)$ yuan $\left(\_\_\right)$ jiao, $\left(\_\_\right)$ jiao $\left(\_\_\right)$ fen.
+(Lesson: Written Addition, Do It) Place and calculate: $45+24$, $28+33$, $5+29$, $41+27$, $46+24$, $8+44$, $37+16$, $23+32$, $42+28$.
 
-### Solution to Exercise 136
+### Solution to Exercise 6
 
-By **Definition 2.7.1 (Renminbi Units)** and **Definition 2.7.2 (Conversion of Yuan, Jiao, and Fen)**, look at the denominations in the picture, add them up, and fill in the yuan, jiao, and fen. $\blacksquare$
+By **Definition 2.5.2 (Written Addition)**: $45+24=69$, $28+33=61$, $5+29=34$, $41+27=68$, $46+24=70$, $8+44=52$, $37+16=53$, $23+32=55$, $42+28=70$. $\blacksquare$
 
-## Exercise 137
+## Exercise 7
 
-(Lesson: Shopping Is Up to Me, Shopping Preparation) As buyer and seller, what preparations do you need to make? Each person buys at least $2$ items and sells $2$ items.
+(Lesson: Written Addition, Practice, Problem 1) Calculate in vertical form: $48+24$, $7+64$, $36+63$, $29+43$; $55+7$, $46+47$, $74+16$, $54+19$.
 
-### Solution to Exercise 137
+### Solution to Exercise 7
 
-Both buyer and seller should prepare Renminbi, set up stalls, draw signs, and set up a change exchange; during buying and selling, fill in the purchase and sale record sheets (item, price, payment, change). $\blacksquare$
+By **Definition 2.5.2 (Written Addition)**: $48+24=72$, $7+64=71$, $36+63=99$, $29+43=72$; $55+7=62$, $46+47=93$, $74+16=90$, $54+19=73$. $\blacksquare$
 
-## Exercise 138
+## Exercise 8
 
-(Lesson: Happy Sharing, Problem 1) I paid for this book with $3$ $1$-yuan notes and $2$ $1$-jiao coins, and no change was needed. How much is this book?
+(Lesson: Written Addition, Practice, Problem 2) Grandma Wang raised $18$ roosters and $25$ hens; how many roosters and hens in total?
 
-### Solution to Exercise 138
+### Solution to Exercise 8
 
-By **Definition 2.7.2 (Conversion of Yuan, Jiao, and Fen)**, $3$ $1$-yuan notes is $3$ yuan, and $2$ $1$-jiao coins is $2$ jiao; this book is $3$ yuan $2$ jiao. $\blacksquare$
+By **Definition 2.5.1 (Vertical Form)**: $18+25=43$ (birds). $\blacksquare$
 
-## Exercise 139
+## Exercise 9
 
-(Lesson: Happy Sharing, Problem 2) Four books are priced at $6$ yuan, $8$ yuan, $7$ yuan, and $5$ yuan respectively. I spent exactly $13$ yuan on two of them; which two might I have bought?
+(Lesson: Written Addition, Practice, Problem 3) Are the following calculations correct? Correct the incorrect ones: $49+44=83$, $21+39=6$, $26+4=66$.
 
-### Solution to Exercise 139
+### Solution to Exercise 9
 
-By **Definition 2.7.3 (Renminbi Exchange and Change)**, two books whose prices together total exactly $13$ yuan: $6+7=13$, or $5+8=13$; thus I might have bought the $6$-yuan and $7$-yuan books, or the $5$-yuan and $8$-yuan books. $\blacksquare$
+By **Definition 2.5.2 (Written Addition)**, correct: $49+44=93$, $21+39=60$, $26+4=30$. $\blacksquare$
 
-## Exercise 140
+## Exercise 10
 
-(Lesson: Happy Sharing, Problem 3) I sold an $8$-yuan doll, and the buyer paid me $10$ yuan; how much change should I give back?
+(Lesson: Written Addition, Practice, Problem 4) Fill "$> $""$< $" or "$=$" in $\bigcirc$: $4+38\bigcirc40+38$, $38+17\bigcirc57-5$, $25+47\bigcirc35+35$.
 
-### Solution to Exercise 140
+### Solution to Exercise 10
 
-By **Definition 2.7.3 (Renminbi Exchange and Change)**, $10-8=2$ (yuan); I should give back $2$ yuan. $\blacksquare$
+Calculate both sides first: $4+38=42$, $40+38=78$; $38+17=55$, $57-5=52$; $25+47=72$, $35+35=70$. Thus $4+38< 40+38$, $38+17> 57-5$, $25+47> 35+35$. $\blacksquare$
+
+## Exercise 11
+
+(Lesson: Written Subtraction, Example 1) The bus can carry at most $52$ passengers; after Class 1(1)'s $35$ people board, how many more can still board? $52-35=\square$.
+
+### Solution to Exercise 11
+
+By **Definition 2.5.3 (Written Subtraction)**, the ones $2$ minus $5$ is not enough; borrow $1$ from the tens: $52-35=17$. $\blacksquare$
+
+## Exercise 12
+
+(Lesson: Written Subtraction, Example 2) Calculate in vertical form: $60-32=\square$.
+
+### Solution to Exercise 12
+
+By **Definition 2.5.3 (Written Subtraction)**, the ones $0$ minus $2$ is not enough; borrow $1$ from the tens: $60-32=28$. $\blacksquare$
+
+## Exercise 13
+
+(Lesson: Written Subtraction, Try It) Calculate in vertical form: $53-8$, $47-41$.
+
+### Solution to Exercise 13
+
+By **Definition 2.5.1 (Vertical Form)** and **Definition 2.5.3 (Written Subtraction)**: $53-8=45$, $47-41=6$. $\blacksquare$
+
+## Exercise 14
+
+(Lesson: Written Subtraction, Do It) Circle and calculate: $51-36$, $56-34$, $70-18$, $87-49$, $74-9$.
+
+### Solution to Exercise 14
+
+By **Definition 2.5.3 (Written Subtraction)**: $51-36=15$, $56-34=22$, $70-18=52$, $87-49=38$, $74-9=65$. $\blacksquare$
+
+## Exercise 15
+
+(Lesson: Written Subtraction, Practice, Problem 1) Calculate in vertical form: $39-23$, $99-14$, $74-34$, $57-26$; $43-29$, $72-27$, $61-3$, $54-16$.
+
+### Solution to Exercise 15
+
+By **Definition 2.5.3 (Written Subtraction)**: $39-23=16$, $99-14=85$, $74-34=40$, $57-26=31$; $43-29=14$, $72-27=45$, $61-3=58$, $54-16=38$. $\blacksquare$
+
+## Exercise 16
+
+(Lesson: Written Subtraction, Practice, Problem 2) First calculate the sum of the two numbers on each card, then calculate their difference ($45$ and $27$, $53$ and $25$, $62$ and $37$, $41$ and $19$, $70$ and $44$).
+
+### Solution to Exercise 16
+
+Sum: $45+27=72$, $53+25=78$, $62+37=99$, $41+19=60$, $70+44=114$; difference: $45-27=18$, $53-25=28$, $62-37=25$, $41-19=22$, $70-44=26$. $\blacksquare$
+
+## Exercise 17
+
+(Lesson: Written Subtraction, Practice, Problem 3) Are the following calculations correct? Correct the incorrect ones: $40-28=22$, $83-36=59$, $43-8=45$.
+
+### Solution to Exercise 17
+
+By **Definition 2.5.3 (Written Subtraction)**, correct: $40-28=12$, $43-8=35$; $83-36=59$ is correct. $\blacksquare$
+
+## Exercise 18
+
+(Lesson: Written Subtraction, Practice, Problem 4) Calculate step by step: $87-27-39$, $72-26-35$, $40+23-12$.
+
+### Solution to Exercise 18
+
+Calculate from left to right: $87-27-39=21$, $72-26-35=11$, $40+23-12=51$. $\blacksquare$
+
+## Exercise 19
+
+(Lesson: Written Addition and Subtraction Within 100, Practice, Problem 1) Calculate and see what you notice: $49+7$, $56-7$, $56-49$; $16+78$, $94-16$, $94-78$; $35+48$, $83-35$, $83-48$.
+
+### Solution to Exercise 19
+
+$49+7=56$, $56-7=49$, $56-49=7$; $16+78=94$, $94-16=78$, $94-78=16$; $35+48=83$, $83-35=48$, $83-48=35$. Notice that addition and subtraction are inverse operations. $\blacksquare$
+
+## Exercise 20
+
+(Lesson: Written Addition and Subtraction Within 100, Practice, Problem 2) Calculate in vertical form: $72-38$, $63+18$, $35+58$, $56-17$; $69+27$, $88-64$, $43-25$, $36+54$.
+
+### Solution to Exercise 20
+
+By **Definition 2.5.2 (Written Addition)** and **Definition 2.5.3 (Written Subtraction)**: $72-38=34$, $63+18=81$, $35+58=93$, $56-17=39$; $69+27=96$, $88-64=24$, $43-25=18$, $36+54=90$. $\blacksquare$
+
+## Exercise 21
+
+(Lesson: Written Addition and Subtraction Within 100, Practice, Problem 3) Fill "$> $""$< $" or "$=$" in $\bigcirc$: $53+13\bigcirc66$, $46-7\bigcirc41$, $42-18\bigcirc34$, $72+9\bigcirc73$.
+
+### Solution to Exercise 21
+
+$53+13=66$, $46-7=39$, $42-18=24$, $72+9=81$. Thus $53+13=66$, $46-7< 41$, $42-18< 34$, $72+9> 73$. $\blacksquare$
+
+## Exercise 22
+
+(Lesson: Written Addition and Subtraction Within 100, Solve the Problem, Problem 1) There were originally $24$ pigeons in the coop, and $8$ flew out; how many pigeons remain in the coop?
+
+### Solution to Exercise 22
+
+$24-8=16$ (birds). $\blacksquare$
+
+## Exercise 23
+
+(Lesson: Written Addition and Subtraction Within 100, Solve the Problem, Problem 2) Uncle Li picked $43$ boxes of strawberries, and after selling some, $28$ boxes remain; how many boxes were sold?
+
+### Solution to Exercise 23
+
+$43-28=15$ (boxes). $\blacksquare$

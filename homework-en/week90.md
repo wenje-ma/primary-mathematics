@@ -1,487 +1,143 @@
 # week90
-> **Definition 11.2.1 (分数乘整数)**
+> **Definition 8.3.8 (简便计算)**
 > 
-> 分数乘整数, 用分子乘整数的积作分子, 分母不变. 能约分的可以先约分, 再计算. 如 $\frac{3}{8}\times2=\frac{3\times2}{8}=\frac{3}{4}$.
-> **Definition 11.2.2 (一个数乘分数)**
+> 利用加法, 乘法的运算律和减法, 除法的运算性质, 把能凑成整十, 整百的数先算, 使计算更简便.
+> **Definition 8.4.1 (小数的意义和计数单位)**
 > 
-> 一个数乘分数, 用分子相乘的积作分子, 用分母相乘的积作分母: $\frac{b}{a}\times\frac{d}{c}=\frac{bd}{ac}$ ($a,c\neq0$). 整数可以看成分母为 $1$ 的分数. 求一个数的几分之几是多少, 用乘法.
-> **Definition 11.2.3 (分数混合运算与运算律)**
+> 把整体 1 平均分成 10 份,100 份,1000 份, 这样的一份或几份可以用分母是 10,100,1000 的分数来表示, 也可以用小数表示.
+> **Definition 8.4.2 (小数的数位顺序)**
 > 
-> 分数混合运算的顺序和整数混合运算相同; 整数乘法的交换律, 结合律, 分配律在分数运算中同样适用, 应用运算律有时可使计算简便.
-> **Definition 11.2.4 (连续求一个数的几分之几)**
+> 小数点左边是整数部分 (个位, 十位, 百位 $\cdots$), 右边是小数部分 (十分位, 百分位, 千分位 $\cdots$), 十分位的计数单位是十分之一, 百分位是百分之一.
+> **Definition 8.4.3 (小数的读法和写法)**
 > 
-> 连续求一个数的几分之几是多少, 用连乘; 也可以先把两个几分之几相乘, 求出占整体的几分之几, 再乘整体.
+> 读小数时, 整数部分按整数读法读, 小数点读作"点", 小数部分依次读出每个数字; 写小数时, 小数部分依次写出每个数字.
+> **Definition 8.4.4 (小数的性质)**
+> 
+> 小数的末尾添上"$0$"或去掉"$0$", 小数的大小不变. 应用这一性质可以化简小数或按需要改写小数.
+> **Definition 8.4.5 (小数的大小比较)**
+> 
+> 先比较整数部分, 整数部分大的那个数就大; 整数部分相同的, 十分位上的数大的就大; 十分位也相同的, 百分位上的数大的就大 $\cdots$
+> **Definition 8.4.6 (小数点移动引起小数大小的变化)**
+> 
+> 小数点向右移动一位, 两位, 三位 $\cdots$ 原数分别乘 $10$, $100$, $1000\cdots$ 扩大到原数的 $10$ 倍, $100$ 倍, $1000$ 倍; 向左移动一位, 两位 $\cdots$ 原数分别除以 $10$, $100\cdots$ 缩小到原数的 $\frac{1}{10}$, $\frac{1}{100}$.
+> **Definition 8.4.7 (小数与单位换算)**
+> 
+> 把低级单位的数改写成高级单位的数要除以进率, 把高级单位的数改写成低级单位的数要乘进率, 可以利用小数点移动的规律.
+> **Definition 8.4.8 (小数的近似数)**
+> 
+> 用"四舍五入"法保留一定的小数位数. 保留整数精确到个位, 保留一位小数精确到十分位, 保留两位精确到百分位. 表示近似数时, 小数末尾的 $0$ 不能去掉.
+> **Definition 8.4.9 (把较大数改写成用万或亿作单位的数)**
+> 
+> 数的改写和求近似数 有时为了读写方便,会把整万或整亿的数改写成用万或 亿作单位的数. 白细胞:能消灭病菌, 清洁血液. 红细胞:能输送 氧气. 一小滴血液大约含有: 红细胞:25000000个=2500万个 白细胞: 30000个= 万个 想一想:怎样把下面的数改写成用亿作单位的数? 200000000=2亿 可以先分级,找到 1000000000= 亿位,再改写. 530500000000= 做一做 把下面各数改写成用万或亿作单位的数. 25:0000= 3580:0000= 460:0000:0000= 705:0000:0000= 16 万以上数的认识
 
-## Exercise 32
+## Exercise 1
 
-(Lesson: Fraction Times an Integer, Example 1) An eco-club makes paper flowers from recycled wrapping paper; each flower uses $\frac{3}{8}$ sheet. (1) How many sheets for $2$ flowers? (2) How many sheets for $8$ flowers?
+(Lesson: Approximate Values of Decimals, Practice 13, Problem 9) Several classmates' $50\,\mathrm{m}$ dash times: $8.50$s, $8.92$s, $10.01$s, $9.23$s. Mark the order from fastest to slowest by number.
 
-### Solution to Exercise 32
+### Solution to Exercise 1
 
-By **Definition 11.2.1 (Fraction Times an Integer)**: (1) $\frac{3}{8}\times2=\frac{3\times2}{8}=\frac{6}{8}=\frac{3}{4}$ sheet; (2) $\frac{3}{8}\times8=3$ sheets. $\blacksquare$
+Running the same distance, the shorter the time the faster: $8.50< 8.92< 9.23< 10.01$, so the ranking is $8.50$s first, $8.92$s second, $9.23$s third, $10.01$s fourth. $\blacksquare$
 
-## Exercise 33
+## Exercise 2
 
-(Lesson: Fraction Times an Integer, Do It) A bag of bread weighs $\frac{3}{10}\,\text{kg}$; how much do $3$ bags weigh?
+(Lesson: Approximate Values of Decimals, Practice 13, Problem 10) Fill in the $\square$ with suitable digits: (1) Which decimals become $3.6$ after "rounding down" the hundredths place? (2) Which decimals become $5.0$ after "rounding up" the hundredths place?
 
-### Solution to Exercise 33
+### Solution to Exercise 2
 
-By **Definition 11.2.1 (Fraction Times an Integer)**: $\frac{3}{10}\times3=\frac{9}{10}\,\text{kg}$. $\blacksquare$
+(1) After "rounding down" it is $3.6$, so the original number is between $3.60$ and $3.64$, e.g. $3.61$, $3.62$, $3.63$, $3.64$. (2) After "rounding up" it is $5.0$, so the original number is between $4.95$ and $4.99$, e.g. $4.95$, $4.96$, $4.97$, $4.98$, $4.99$. $\blacksquare$
 
-## Exercise 34
+## Exercise 3
 
-(Lesson: A Number Times a Fraction, Example 2) (1) A nursery plot of $2$ hectares uses $\frac{5}{8}$ for willow saplings. How many hectares of willow? (2) A nursery plot of $\frac{4}{5}$ hectares uses $\frac{2}{3}$ for ginkgo saplings. How many hectares of ginkgo?
+(Lesson: Review and Consolidation, Problem 1) Express the meaning of the following decimals in a suitable way: $0.3$; $0.06$; $0.21$; $2.5$; $20.705$.
 
-### Solution to Exercise 34
+### Solution to Exercise 3
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $2\times\frac{5}{8}=\frac{2\times5}{8}=\frac{5}{4}$ hectares; (2) $\frac{4}{5}\times\frac{2}{3}=\frac{4\times2}{5\times3}=\frac{8}{15}$ hectares. $\blacksquare$
+By **Definition 8.4.1 (Meaning of Decimals)**: $0.3$ is $3$ pieces of $0.1$; $0.06$ is $6$ pieces of $0.01$; $0.21$ is $21$ pieces of $0.01$; $2.5$ is $2$ ones and $5$ pieces of $0.1$; $20.705$ is $20$ ones, $7$ pieces of $0.1$ and $5$ pieces of $0.001$. $\blacksquare$
 
-## Exercise 35
+## Exercise 4
 
-(Lesson: A Number Times a Fraction, Do It Problem 1) Compute from the figures: $\frac{1}{2}\times\frac{1}{2}$; $\frac{2}{3}\times\frac{4}{5}$; $\frac{3}{4}\times\frac{3}{4}$.
+(Lesson: Review and Consolidation, Problem 2) Compare the sizes of the following groups: $8.7\bigcirc7.9$; $4.300\bigcirc4.3$; $2.613\bigcirc2.614$; $0.41\bigcirc0.409$; $570\,\mathrm{cm}\bigcirc5.70\,\mathrm{m}$; $70\,\mathrm{g}\bigcirc0.7\,\mathrm{kg}$.
 
-### Solution to Exercise 35
+### Solution to Exercise 4
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: $\frac{1}{2}\times\frac{1}{2}=\frac{1}{4}$; $\frac{2}{3}\times\frac{4}{5}=\frac{8}{15}$; $\frac{3}{4}\times\frac{3}{4}=\frac{9}{16}$. $\blacksquare$
+By **Definition 8.4.5 (Comparing Decimals)**: $8.7> 7.9$; $4.300=4.3$; $2.613< 2.614$; $0.41> 0.409$; $570\,\mathrm{cm}=5.70\,\mathrm{m}$; $70\,\mathrm{g}=0.07\,\mathrm{kg}< 0.7\,\mathrm{kg}$. $\blacksquare$
 
-## Exercise 36
+## Exercise 5
 
-(Lesson: A Number Times a Fraction, Do It Problem 2) Compute: $\frac{4}{7}\times\frac{1}{4}$; $\frac{20}{9}\times\frac{3}{10}$; $6\times\frac{11}{12}$; $\frac{5}{4}\times10$.
+(Lesson: Review and Consolidation, Problem 3) Compared with $3.54$, how do the sizes of the following change? $354$; $0.354$; $35.4$; $0.0354$; $3540$.
 
-### Solution to Exercise 36
+### Solution to Exercise 5
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: $\frac{4}{7}\times\frac{1}{4}=\frac{1}{7}$; $\frac{20}{9}\times\frac{3}{10}=\frac{2}{3}$; $6\times\frac{11}{12}=\frac{11}{2}$; $\frac{5}{4}\times10=\frac{25}{2}$. $\blacksquare$
+By **Definition 8.4.6 (Moving the Decimal Point)**: $354$ is $3.54$ expanded $100$ times; $0.354$ shrunk to $\frac{1}{10}$; $35.4$ expanded $10$ times; $0.0354$ shrunk to $\frac{1}{100}$; $3540$ expanded $1000$ times. $\blacksquare$
 
-## Exercise 37
+## Exercise 6
 
-(Lesson: A Number Times a Fraction, Exercise 3 Review Problem 1) This plot is $1$ hectare; first shade $\frac{1}{5}$ hectare, then shade $\frac{3}{4}$ of $\frac{1}{5}$ hectare. How many hectares are shaded? Write $\left(\;\right)\times\left(\;\right)$.
+(Lesson: Review and Consolidation, Problem 4) (1) Find approximate values: $1.96$ (keep one decimal); $2.104$ (keep two decimals). (2) Rewrite $254700$ in units of "ten thousand" (keep one decimal).
 
-The figure: a rectangle representing $1$ hectare, first divided evenly into $5$ strips along the width, with $1$ strip (occupying $\frac{1}{5}$) shaded lightly; then within that $\frac{1}{5}$ strip, divided evenly into $4$ parts along the length, with $3$ parts shaded darkly; the dark part is what is asked for.
+### Solution to Exercise 6
 
-### Solution to Exercise 37
+By **Definition 8.4.8 (Approximate Values)** and **Definition 8.4.9 (Rewriting)**: $1.96\approx2.0$; $2.104\approx2.10$; $254700=25.47$ ten thousand $\approx25.5$ ten thousand. $\blacksquare$
 
-By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $\frac{1}{5}\times\frac{3}{4}=\frac{3}{20}$ hectare. $\blacksquare$
+## Exercise 7
 
-## Exercise 38
+(Lesson: Review and Consolidation, Practice 14, Problem 1) Shade to represent the following decimals: $0.8$; $0.39$; $1.43$.
 
-(Lesson: A Number Times a Fraction, Exercise 3 Review Problem 2) Compute; what do you notice? $\frac{2}{9}\times3$; $\frac{2}{9}\times\frac{1}{2}$; $\frac{2}{9}\times\frac{3}{4}$; $\frac{6}{5}\times\frac{5}{3}$; $\frac{6}{5}\times\frac{1}{2}$; $\frac{6}{5}\times\frac{2}{3}$.
+### Solution to Exercise 7
 
-### Solution to Exercise 38
+By **Definition 8.4.1 (Meaning of Decimals)**, for $0.8$ divide a square equally into $10$ parts and shade $8$; for $0.39$ divide into $100$ parts and shade $39$; for $1.43$ fill $1$ whole and shade $43$ parts of another. $\blacksquare$
 
-$\frac{2}{9}\times3=\frac{2}{3}$; $\frac{2}{9}\times\frac{1}{2}=\frac{1}{9}$; $\frac{2}{9}\times\frac{3}{4}=\frac{1}{6}$; $\frac{6}{5}\times\frac{5}{3}=2$; $\frac{6}{5}\times\frac{1}{2}=\frac{3}{5}$; $\frac{6}{5}\times\frac{2}{3}=\frac{4}{5}$. Multiplying by a number less than $1$ gives a smaller product. $\blacksquare$
+## Exercise 8
 
-## Exercise 39
+(Lesson: Review and Consolidation, Practice 14, Problem 2) Fill the following decimals into the suitable blanks: $2.5$, $1.68$, $54.5$. Unit price ( ) yuan, weight ( )$\mathrm{kg}$, height ( )$\mathrm{m}$.
 
-(Lesson: A Number Times a Fraction, Exercise 3 Review Problem 3) Are these right? Correct the wrong ones: $4\times\frac{4}{7}=\frac{4\times4}{7}=\frac{1}{7}$; $\frac{7}{10}\times\frac{6}{5}=\frac{7}{10}\times\frac{6}{5}=\frac{10}{10}=1$.
+### Solution to Exercise 8
 
-### Solution to Exercise 39
+Combined with everyday experience: unit price $54.5$ yuan, weight $1.68\,\mathrm{kg}$, height $2.5\,\mathrm{m}$ (any reasonable answer). $\blacksquare$
 
-Both wrong. By **Definition 11.2.1 (Fraction Times an Integer)** and **Definition 11.2.2 (A Number Times a Fraction)**: $4\times\frac{4}{7}=\frac{16}{7}$; $\frac{7}{10}\times\frac{6}{5}=\frac{42}{50}=\frac{21}{25}$. $\blacksquare$
+## Exercise 9
 
-## Exercise 40
+(Lesson: Review and Consolidation, Practice 14, Problem 3) Rewrite as required: (1) Tiananmen covers $44$ hectares $=$( )$\mathrm{km^2}$; (2) $60.06$ hundred million passenger-trips $=$( ) passenger-trips; (3) the deepest point of the Mariana Trench is $11034\,\mathrm{m}=$( )$\mathrm{km}$.
 
-(Lesson: A Number Times a Fraction, Exercise 3 Review Problem 4) A wall is $20\,\text{m}^2$; $\frac{1}{4}$ of it has been painted. How many square meters are painted?
+### Solution to Exercise 9
 
-### Solution to Exercise 40
+By **Definition 8.4.7 (Unit Conversion)** and **Definition 8.4.9 (Rewriting)**: $44$ hectares $=0.44\,\mathrm{km^2}$; $60.06$ hundred million passenger-trips $=6006000000$ passenger-trips; $11034\,\mathrm{m}=11.034\,\mathrm{km}$. $\blacksquare$
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: $20\times\frac{1}{4}=5\,\text{m}^2$. $\blacksquare$
+## Exercise 10
 
-## Exercise 41
+(Lesson: Review and Consolidation, Practice 14, Problem 4) Fill in the parentheses with suitable numbers: $0.25$ expanded to its ( ) times is $25$; $30.5$ shrunk to its ( ) is $3.05$; $15.3$ shrunk to its ( ) is $0.153$.
 
-(Lesson: A Number Times a Fraction, Exercise 3 Review Problem 5) (1) What is $\frac{3}{5}$ of $\frac{1}{4}\,\text{t}$? (2) What is $\frac{3}{4}$ of $\frac{3}{8}\,\text{m}$?
+### Solution to Exercise 10
 
-### Solution to Exercise 41
+By **Definition 8.4.6 (Moving the Decimal Point)**: $0.25$ expanded to its $100$ times is $25$; $30.5$ shrunk to its $\frac{1}{10}$ is $3.05$; $15.3$ shrunk to its $\frac{1}{100}$ is $0.153$. $\blacksquare$
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $\frac{1}{4}\times\frac{3}{5}=\frac{3}{20}\,\text{t}$; (2) $\frac{3}{8}\times\frac{3}{4}=\frac{9}{32}\,\text{m}$. $\blacksquare$
+## Exercise 11
 
-## Exercise 42
+(Lesson: Review and Consolidation, Practice 14, Problem 5) Are the following statements correct? (1) $0.05$ contains $5$ pieces of $\frac{1}{100}$; (2) $3.007$ rounded to one decimal place is $3.0$; (3) $0.1000$ is greater than $0.0999$; (4) the largest three-decimal number with approximate value $5.20$ is $5.204$.
 
-(Lesson: A Number Times a Fraction, Exercise 3 Review Problem 6) The Forbidden City covers about $72$ ten-thousand square meters, of which built-up area is $\frac{5}{24}$. About how many ten-thousand square meters of built-up area?
+### Solution to Exercise 11
 
-### Solution to Exercise 42
+(1) correct; (2) correct; (3) correct; (4) correct. $\blacksquare$
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: $72\times\frac{5}{24}=15$ ten-thousand square meters. $\blacksquare$
+## Exercise 12
 
-## Exercise 43
+(Lesson: Review and Consolidation, Practice 14, Problem 6) Find approximate values: (1) $3.054\approx$ ( ) (keep one decimal); $20.0463\approx$ ( ) (keep two decimals). (2) Light travels $299792\,\mathrm{km}$ per second, about ( ) ten thousand kilometers (keep one decimal).
 
-(Lesson: A Number Times a Fraction, Exercise 3 Review Problem 7) Worldwide $15$ crane species are known; China has the most, $\frac{3}{5}$ of the world total. How many crane species in China?
+### Solution to Exercise 12
 
-### Solution to Exercise 43
+By **Definition 8.4.8 (Approximate Values)** and **Definition 8.4.9 (Rewriting)**: $3.054\approx3.1$; $20.0463\approx20.05$; $299792\,\mathrm{km}\approx30.0$ ten thousand kilometers. $\blacksquare$
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: $15\times\frac{3}{5}=9$ species. $\blacksquare$
+## Exercise 13
 
-## Exercise 44
+(Lesson: Review and Consolidation, Practice 14, Problem 7) Fill in the $\square$ with suitable digits: $0.\square4\,\mathrm{m}> 14\,\mathrm{cm}$; $\square\,\mathrm{g}< 0.018\,\mathrm{kg}$; $694\,\mathrm{cm}> 6.\square8\,\mathrm{m}$; $12.\square3\,\mathrm{km^2}> 1252$ hectares.
 
-(Lesson: A Number Times a Fraction, Exercise 3 Review Problem 8) Altair's average speed is about $26$ km/s; Vega's is $\frac{7}{13}$ of Altair's. About how many km/s for Vega?
+### Solution to Exercise 13
 
-### Solution to Exercise 44
+Unify units: $14\,\mathrm{cm}=0.14\,\mathrm{m}$, so $0.\square4> 0.14$, $\square$ can be $2\sim9$; $0.018\,\mathrm{kg}=18\,\mathrm{g}$, so $\square< 18$, can be $1\sim17$; $694\,\mathrm{cm}=6.94\,\mathrm{m}$, $6.94> 6.\square8$, $\square$ can be $0\sim8$; $1252$ hectares $=12.52\,\mathrm{km^2}$, $12.\square3> 12.52$, $\square$ can be $5\sim9$. $\blacksquare$
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: $26\times\frac{7}{13}=14$ km/s. $\blacksquare$
+## Exercise 14
 
-## Exercise 45
+(Lesson: Review and Consolidation, Practice 14, Problem 8) Calculate the following, as conveniently as possible: $176+55+24+45$; $28\times25\times4$; $35\times19$; $200-127-73$; $18\times15+12\times15$; $457+99$.
 
-(Lesson: A Number Times a Fraction, Exercise 3 Review Problem 9) In 2021, the number of good air-quality days in a city was $\frac{58}{73}$ of the year ($365$ days). How many good days?
+### Solution to Exercise 14
 
-### Solution to Exercise 45
-
-By **Definition 11.2.2 (A Number Times a Fraction)**: $365\times\frac{58}{73}=5\times58=290$ days. $\blacksquare$
-
-## Exercise 46
-
-(Lesson: A Number Times a Fraction, Exercise 3 Integrated Problem 10) Recycled waste paper yields recycled paper equal to $\frac{4}{5}$ of its weight. (1) Aunt Li sorts $80\,\text{kg}$ of old newspaper; how much recycled paper? (2) 2022 national paper and paperboard consumption was about $12403$ ten-thousand tons, of which $\frac{2}{5}$ is recyclable; about how many ten-thousand tons?
-
-### Solution to Exercise 46
-
-By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $80\times\frac{4}{5}=64\,\text{kg}$; (2) $12403\times\frac{2}{5}=4961.2$ ten-thousand tons. $\blacksquare$
-
-## Exercise 47
-
-(Lesson: A Number Times a Fraction, Exercise 3 Integrated Problem 11) A child's backpack should weigh no more than $\frac{3}{20}$ of body weight. Li Ming weighs $40\,\text{kg}$ and his bag is $5\,\text{kg}$. (1) Is his bag overweight? Why? (2) Weigh yourself; compute your safe load.
-
-### Solution to Exercise 47
-
-By **Definition 11.2.2 (A Number Times a Fraction)**: safe load $40\times\frac{3}{20}=6\,\text{kg}$. The bag $5\,\text{kg}< 6\,\text{kg}$, so not overweight. (2) Multiply your own weight by $\frac{3}{20}$. $\blacksquare$
-
-## Exercise 48
-
-(Lesson: A Number Times a Fraction, Exercise 3 Extension Problem 12) Use $1$, $4$, $5$ to make two mixed numbers (each uses all $3$ digits) so that: $\square\frac{\square}{\square}\times\frac{3}{7}=\square\frac{\square}{\square}$.
-
-### Solution to Exercise 48
-
-Try: $1\frac{4}{5}\times\frac{3}{7}=\frac{9}{5}\times\frac{3}{7}=\frac{27}{35}$, not a mixed number. Adjust: $4\frac{1}{5}\times\frac{3}{7}=\frac{21}{5}\times\frac{3}{7}=\frac{9}{5}=1\frac{4}{5}$. So $4\frac{1}{5}\times\frac{3}{7}=1\frac{4}{5}$. $\blacksquare$
-
-## Exercise 49
-
-(Lesson: Mixed Fraction-Decimal Operations and Laws, Example 3) A squirrel's tail is about $\frac{3}{4}$ of its body length. Huanhuan's body is $2.1\,\text{dm}$; Lele's is $2.4\,\text{dm}$. (1) Huanhuan's tail? (2) Lele's tail?
-
-### Solution to Exercise 49
-
-By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $2.1\times\frac{3}{4}=\frac{21}{10}\times\frac{3}{4}=\frac{63}{40}=1.575\,\text{dm}$; (2) $2.4\times\frac{3}{4}=1.8\,\text{dm}$ (reduce first). $\blacksquare$
-
-## Exercise 50
-
-(Lesson: Mixed Fraction-Decimal Operations, Do It Problem 1) Compute: $1.2\times\frac{3}{5}$; $2.5\times\frac{3}{5}$; $1.4\times\frac{5}{6}$; $2.4\times\frac{5}{6}$.
-
-### Solution to Exercise 50
-
-$1.2\times\frac{3}{5}=0.72$; $2.5\times\frac{3}{5}=1.5$; $1.4\times\frac{5}{6}=\frac{7}{6}\approx1.17$; $2.4\times\frac{5}{6}=2$. $\blacksquare$
-
-## Exercise 51
-
-(Lesson: Mixed Fraction-Decimal Operations, Do It Problem 2) A hummingbird flies at $0.8$ km/min; how far in $\frac{3}{4}$ min? In $5$ min?
-
-### Solution to Exercise 51
-
-By **Definition 11.2.2 (A Number Times a Fraction)**: $0.8\times\frac{3}{4}=0.6$ km; $0.8\times5=4$ km. $\blacksquare$
-
-## Exercise 52
-
-(Lesson: Mixed Fraction-Decimal Operations, Do It Problem 3) 2021 China's GDP per capita was about $8.1$ ten-thousand yuan. 2020 was about $\frac{8}{9}$ of 2021. About how much per capita in 2020?
-
-### Solution to Exercise 52
-
-By **Definition 11.2.2 (A Number Times a Fraction)**: $8.1\times\frac{8}{9}=7.2$ ten-thousand yuan. $\blacksquare$
-
-## Exercise 53
-
-(Lesson: Mixed Fraction-Decimal Operations, Do It Problem 4) In a honey, fructose and glucose total $\frac{4}{5}$ of the honey's mass. With $2.5\,\text{kg}$ of this honey, how many kg are fructose and glucose together?
-
-### Solution to Exercise 53
-
-By **Definition 11.2.2 (A Number Times a Fraction)**: $2.5\times\frac{4}{5}=2\,\text{kg}$. $\blacksquare$
-
-## Exercise 54
-
-(Lesson: Mixed Fraction-Decimal Operations, Think) Mixed fraction operations follow the same order as integers. Can you compute $\left(\frac{4}{5}+\frac{1}{2}\right)\times2$ and $\frac{4}{5}\times2+\frac{1}{2}\times2$? Are the two equal?
-
-### Solution to Exercise 54
-
-By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $\left(\frac{4}{5}+\frac{1}{2}\right)\times2=\frac{13}{10}\times2=\frac{13}{5}$; $\frac{4}{5}\times2+\frac{1}{2}\times2=\frac{8}{5}+1=\frac{13}{5}$. Equal — the distributive law. $\blacksquare$
-
-## Exercise 55
-
-(Lesson: Mixed Fraction-Decimal Operations, Example 4) Simplify: $\frac{3}{5}\times\left(\frac{1}{6}\times5\right)$; $\left(\frac{5}{6}+\frac{1}{4}\right)\times12$; product $\frac{2}{3}\times\frac{8}{7}\times14\times\frac{9}{4}$.
-
-### Solution to Exercise 55
-
-By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $\frac{3}{5}\times\left(\frac{1}{6}\times5\right)=\frac{3}{5}\times\left(5\times\frac{1}{6}\right)=3\times\frac{1}{6}=\frac{1}{2}$ (commutative); $\left(\frac{5}{6}+\frac{1}{4}\right)\times12=\frac{5}{6}\times12+\frac{1}{4}\times12=10+3=13$ (distributive); the product reduces to $24$. $\blacksquare$
-
-## Exercise 56
-
-(Lesson: Mixed Fraction-Decimal Operations, Do It Problem 1) Simplify and say which law: $\frac{2}{3}\times\frac{1}{7}\times3$; $\left(\frac{8}{9}+\frac{4}{27}\right)\times27$; $87\times\frac{3}{86}$.
-
-### Solution to Exercise 56
-
-By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $\frac{2}{3}\times3\times\frac{1}{7}=\frac{2}{7}$ (commutative); $\frac{8}{9}\times27+\frac{4}{27}\times27=24+4=28$ (distributive); $87\times\frac{3}{86}=\left(86+1\right)\times\frac{3}{86}=3+\frac{3}{86}=3\frac{3}{86}$ (distributive). $\blacksquare$
-
-## Exercise 57
-
-(Lesson: Mixed Fraction-Decimal Operations, Do It Problem 2) A dairy cow averages $\frac{1}{50}\,\text{t}$ of milk per day; how many tons do $42$ cows give in $100$ days?
-
-### Solution to Exercise 57
-
-By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $\frac{1}{50}\times42\times100=84\,\text{t}$. $\blacksquare$
-
-## Exercise 58
-
-(Lesson: Mixed Fraction-Decimal Operations, Exercise 4 Review Problem 1) Compute: $\frac{27}{50}\times2$; $\frac{11}{28}\times\frac{8}{33}$; $\frac{20}{39}\times7.8$; $\frac{7}{18}\times0.36$; $\frac{9}{16}\times0.3$; $\frac{5}{54}\times6.75$.
-
-### Solution to Exercise 58
-
-$\frac{27}{50}\times2=\frac{27}{25}$; $\frac{11}{28}\times\frac{8}{33}=\frac{2}{21}$; $\frac{20}{39}\times7.8=4$; $\frac{7}{18}\times0.36=0.14$; $\frac{9}{16}\times0.3=\frac{27}{160}$; $\frac{5}{54}\times6.75=0.625$. $\blacksquare$
-
-## Exercise 59
-
-(Lesson: Mixed Fraction-Decimal Operations, Exercise 4 Review Problem 2) An ostrich is $2.5\,\text{m}$ tall; an adult emperor penguin is $\frac{12}{25}$ of that. How tall is the penguin?
-
-### Solution to Exercise 59
-
-By **Definition 11.2.2 (A Number Times a Fraction)**: $2.5\times\frac{12}{25}=1.2\,\text{m}$. $\blacksquare$
-
-## Exercise 60
-
-(Lesson: Mixed Fraction-Decimal Operations, Exercise 4 Review Problem 3) Compute: $\frac{1}{3}\times\frac{3}{5}+1$; $\frac{5}{7}-\frac{5}{9}\times\frac{5}{7}$; $1-\frac{15}{28}\times\frac{21}{25}$; $\frac{1}{2}+\frac{5}{4}\times\frac{4}{5}$; $\frac{1}{6}\times\left(5-\frac{2}{3}\right)$; $\frac{7}{8}\times7+\frac{3}{8}$.
-
-### Solution to Exercise 60
-
-$\frac{1}{3}\times\frac{3}{5}+1=\frac{1}{5}+1=\frac{6}{5}$; $\frac{5}{7}-\frac{5}{9}\times\frac{5}{7}=\frac{5}{7}\times\left(1-\frac{5}{9}\right)=\frac{20}{63}$; $1-\frac{15}{28}\times\frac{21}{25}=1-\frac{9}{20}=\frac{11}{20}$; $\frac{1}{2}+\frac{5}{4}\times\frac{4}{5}=\frac{1}{2}+1=\frac{3}{2}$; $\frac{1}{6}\times\left(5-\frac{2}{3}\right)=\frac{1}{6}\times\frac{13}{3}=\frac{13}{18}$; $\frac{7}{8}\times7+\frac{3}{8}=\frac{49}{8}+\frac{3}{8}=\frac{13}{2}$. $\blacksquare$
-
-## Exercise 61
-
-(Lesson: Mixed Fraction-Decimal Operations, Exercise 4 Review Problem 4) Are these right? Correct: $5-3\times\frac{7}{9}=2\times\frac{7}{9}=\frac{14}{9}$; $\left(\frac{1}{6}+\frac{3}{4}\right)\times6=1+\frac{3}{4}=\frac{7}{4}$.
-
-### Solution to Exercise 61
-
-Both wrong. By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**, multiply before subtracting: $5-3\times\frac{7}{9}=5-\frac{7}{3}=\frac{8}{3}$; the distributive law missed a term: $\left(\frac{1}{6}+\frac{3}{4}\right)\times6=\frac{1}{6}\times6+\frac{3}{4}\times6=1+\frac{9}{2}=\frac{11}{2}$. $\blacksquare$
-
-## Exercise 62
-
-(Lesson: Mixed Fraction-Decimal Operations, Exercise 4 Review Problem 5) Simplify by the laws: $\frac{2}{9}-\frac{7}{16}\times\frac{2}{9}$; $\frac{2}{27}\times4\times\frac{3}{4}$; $\frac{5}{7}\times16\times\frac{42}{25}$; $\frac{1}{2}\times\frac{1}{15}+\frac{1}{3}\times\frac{1}{2}$; $\frac{4}{5}\times\frac{7}{9}\times\frac{15}{8}$; $\frac{5}{6}\times\frac{5}{9}+\frac{5}{9}\times\frac{1}{6}$.
-
-### Solution to Exercise 62
-
-By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $\frac{2}{9}\times\left(1-\frac{7}{16}\right)=\frac{2}{9}\times\frac{9}{16}=\frac{1}{8}$; $\frac{2}{27}\times\left(4\times\frac{3}{4}\right)=\frac{2}{27}\times3=\frac{2}{9}$; $\frac{5}{7}\times16\times\frac{42}{25}=\frac{96}{5}$; $\frac{1}{2}\times\left(\frac{1}{15}+\frac{1}{3}\right)=\frac{1}{2}\times\frac{6}{15}=\frac{1}{5}$; $\frac{4}{5}\times\frac{7}{9}\times\frac{15}{8}=\frac{7}{6}$; $\frac{5}{9}\times\left(\frac{5}{6}+\frac{1}{6}\right)=\frac{5}{9}$. $\blacksquare$
-
-## Exercise 63
-
-(Lesson: Mixed Fraction-Decimal Operations, Exercise 4 Review Problem 6) Simplify where possible: $\frac{11}{24}\times16$; $\frac{1}{4}\times\frac{2}{7}$; $\frac{7}{12}\times6+\frac{17}{12}\times6$; $\frac{3}{5}\times\frac{55}{6}$; $\frac{4}{9}\times5\times18$; $\left(14+\frac{7}{2}\right)\times\frac{1}{14}$.
-
-### Solution to Exercise 63
-
-$\frac{11}{24}\times16=\frac{22}{3}$; $\frac{1}{4}\times\frac{2}{7}=\frac{1}{14}$; $\left(\frac{7}{12}+\frac{17}{12}\right)\times6=2\times6=12$; $\frac{3}{5}\times\frac{55}{6}=\frac{11}{2}$; $\frac{4}{9}\times18\times5=40$; $14\times\frac{1}{14}+\frac{7}{2}\times\frac{1}{14}=1+\frac{1}{4}=\frac{5}{4}$. $\blacksquare$
-
-## Exercise 64
-
-(Lesson: Mixed Fraction-Decimal Operations, Exercise 4 Integrated Problem 7) Find the areas (unit: dm): a right triangle with legs $\frac{3}{4}$, $\frac{4}{9}$; a trapezoid with upper base $\frac{11}{18}$, lower base $\frac{8}{9}$, height $\frac{2}{3}$.
-
-### Solution to Exercise 64
-
-Triangle area $=\frac{1}{2}\times\frac{3}{4}\times\frac{4}{9}=\frac{1}{6}\,\text{dm}^2$; trapezoid area $=\frac{1}{2}\times\left(\frac{11}{18}+\frac{8}{9}\right)\times\frac{2}{3}=\frac{1}{2}\times\frac{27}{18}\times\frac{2}{3}=\frac{1}{2}\,\text{dm}^2$. $\blacksquare$
-
-## Exercise 65
-
-(Lesson: Mixed Fraction-Decimal Operations, Exercise 4 Integrated Problem 8) Each paper flower uses $\frac{1}{4}$ sheet. Xiaoyu cuts $9$ flowers and Xiaoting cuts $11$. How many sheets total?
-
-### Solution to Exercise 65
-
-By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $\frac{1}{4}\times\left(9+11\right)=\frac{1}{4}\times20=5$ sheets. $\blacksquare$
-
-## Exercise 66
-
-(Lesson: Mixed Fraction-Decimal Operations, Exercise 4 Integrated Problem 9) A rectangular table is $\frac{5}{4}\,\text{m}$ by $\frac{3}{5}\,\text{m}$. A square table has area $\frac{9}{10}\,\text{m}^2$. By how many square meters is the rectangle smaller?
-
-### Solution to Exercise 66
-
-Rectangle area $\frac{5}{4}\times\frac{3}{5}=\frac{3}{4}\,\text{m}^2$; difference $\frac{9}{10}-\frac{3}{4}=\frac{18}{20}-\frac{15}{20}=\frac{3}{20}\,\text{m}^2$. $\blacksquare$
-
-## Exercise 67
-
-(Lesson: Mixed Fraction-Decimal Operations, Exercise 4 Integrated Problem 10) A solar plant averages $2400$ ten-thousand kWh per year; $\frac{1}{3}$ to households, $\frac{3}{8}$ to industry, $\frac{1}{6}$ to agriculture. How many ten-thousand kWh supplied in total?
-
-### Solution to Exercise 67
-
-By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $2400\times\left(\frac{1}{3}+\frac{3}{8}+\frac{1}{6}\right)=2400\times\frac{5}{8}=1500$ ten-thousand kWh. $\blacksquare$
-
-## Exercise 68
-
-(Lesson: Mixed Fraction-Decimal Operations, Exercise 4 Integrated Problem 11) The Nile is $6670\,\text{km}$ long; the Yangtze is about $297\,\text{km}$ longer than $\frac{9}{10}$ of the Nile. About how long is the Yangtze?
-
-### Solution to Exercise 68
-
-$6670\times\frac{9}{10}+297=6003+297=6300\,\text{km}$. $\blacksquare$
-
-## Exercise 69
-
-(Lesson: Mixed Fraction-Decimal Operations, Exercise 4 Extension Problem 12) Observe $\frac{9}{2}+\frac{9}{7}=\frac{9}{2}\times\frac{9}{7}$, $\frac{8}{3}+\frac{8}{5}=\frac{8}{3}\times\frac{8}{5}$; fill in: $\square+\frac{5}{2}=\square\times\frac{5}{2}$; $6+\square=6\times\square$.
-
-### Solution to Exercise 69
-
-Rule: two fractions with the same numerator equal to the sum of the denominators have sum equal to product. First pair denominators $2$ and $\square$, numerator $5$, i.e. $\frac{5}{3}+\frac{5}{2}=\frac{5}{3}\times\frac{5}{2}$. Second pair $6=\frac{6}{1}$, the other denominator is $5$: $6+\frac{6}{5}=6\times\frac{6}{5}$. $\blacksquare$
-
-## Exercise 70
-
-(Lesson: Mixed Fraction-Decimal Operations, Exercise 4 Extension Problem 13) Observe $\frac{1}{2}-\frac{1}{3}=\frac{1}{2}\times\frac{1}{3}$, $\frac{1}{3}-\frac{1}{4}=\frac{1}{3}\times\frac{1}{4}$, $\frac{1}{4}-\frac{1}{5}=\frac{1}{4}\times\frac{1}{5}$. What rule? Verify with another example.
-
-### Solution to Exercise 70
-
-Rule: two fractions with numerator $1$ and consecutive denominators have their difference equal to their product, i.e. $\frac{1}{n}-\frac{1}{n+1}=\frac{1}{n\left(n+1\right)}=\frac{1}{n}\times\frac{1}{n+1}$. E.g. $\frac{1}{5}-\frac{1}{6}=\frac{1}{30}=\frac{1}{5}\times\frac{1}{6}$. $\blacksquare$
-
-## Exercise 71
-
-(Lesson: Solving Problems, Example 5) A community leisure space is $4800\,\text{m}^2$. $\frac{3}{5}$ is made into a sports-fitness area, of which equipment area is $\frac{1}{4}$. How large is the equipment area?
-
-### Solution to Exercise 71
-
-By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $4800\times\frac{3}{5}\times\frac{1}{4}=2880\times\frac{1}{4}=720\,\text{m}^2$. Or $4800\times\left(\frac{3}{5}\times\frac{1}{4}\right)=4800\times\frac{3}{20}=720\,\text{m}^2$. $\blacksquare$
-
-## Exercise 72
-
-(Lesson: Solving Problems, Do It Problem 1) Class 6(1) has $36$ students; $\frac{1}{3}$ want to be teachers, and those who want to be scientists are $\frac{3}{4}$ of the teacher-wishers. How many want to be scientists?
-
-### Solution to Exercise 72
-
-By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $36\times\frac{1}{3}\times\frac{3}{4}=12\times\frac{3}{4}=9$ students. $\blacksquare$
-
-## Exercise 73
-
-(Lesson: Solving Problems, Do It Problem 2) A walrus lives about $40$ years; a sea lion lives $\frac{3}{4}$ as long; a seal lives $\frac{2}{3}$ as long as a sea lion. About how long does a seal live?
-
-### Solution to Exercise 73
-
-By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $40\times\frac{3}{4}\times\frac{2}{3}=30\times\frac{2}{3}=20$ years. $\blacksquare$
-
-## Exercise 74
-
-(Lesson: Solving Problems, Example 6) Uncle Li's restaurant used to produce about $100\,\text{kg}$ of food waste per day; after the "Clean Plate" campaign, it dropped by about $\frac{1}{4}$. About how much food waste per day now?
-
-### Solution to Exercise 74
-
-By **Definition 11.2.2 (A Number Times a Fraction)**: first the reduction $100\times\frac{1}{4}=25\,\text{kg}$, then $100-25=75\,\text{kg}$; or take the remaining fraction $100\times\left(1-\frac{1}{4}\right)=100\times\frac{3}{4}=75\,\text{kg}$. $\blacksquare$
-
-## Exercise 75
-
-(Lesson: Solving Problems, Do It) A teen's heart beats about $75$ times per minute; a baby's is $\frac{4}{5}$ more. About how many beats per minute for a baby?
-
-### Solution to Exercise 75
-
-By **Definition 11.2.2 (A Number Times a Fraction)**: $75\times\left(1+\frac{4}{5}\right)=75\times\frac{9}{5}=135$ beats. $\blacksquare$
-
-## Exercise 76
-
-(Lesson: Solving Problems, Exercise 5 Review Problem 1) From the figure: (1) $120$ trees, willow and peach together are $\frac{5}{6}$; how many peach? (2) $160$ apples; peaches are $\frac{3}{4}$ of apples; oranges are $\frac{4}{5}$ of peaches; how many oranges?
-
-### Solution to Exercise 76
-
-(1) $120\times\frac{5}{6}=100$ trees, i.e. willow and peach together $100$; then use the figure's parts to find peach. (2) $160\times\frac{3}{4}\times\frac{4}{5}=96$. $\blacksquare$
-
-## Exercise 77
-
-(Lesson: Solving Problems, Exercise 5 Review Problem 2) Blood flows at about $20$ cm/s in the aorta, $\frac{2}{5}$ of that in veins, and only $\frac{1}{160}$ of veins in capillaries. About how many cm/s in capillaries?
-
-### Solution to Exercise 77
-
-By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $20\times\frac{2}{5}\times\frac{1}{160}=8\times\frac{1}{160}=\frac{1}{20}$ cm/s. $\blacksquare$
-
-## Exercise 78
-
-(Lesson: Solving Problems, Exercise 5 Review Problem 3) A peony flowers for $32$ days; a rose flowers $\frac{5}{8}$ as long; a narcissus flowers $\frac{3}{4}$ as long as a rose. How long does a narcissus flower?
-
-### Solution to Exercise 78
-
-By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $32\times\frac{5}{8}\times\frac{3}{4}=20\times\frac{3}{4}=15$ days. $\blacksquare$
-
-## Exercise 79
-
-(Lesson: Solving Problems, Exercise 5 Review Problem 4) From the figure: (1) $60$ orchids; plum blossoms are $\frac{1}{3}$ more; how many plum? (2) $180$ boys; girls are $\frac{1}{6}$ fewer; how many girls?
-
-### Solution to Exercise 79
-
-(1) $60\times\left(1+\frac{1}{3}\right)=80$ blossoms; (2) $180\times\left(1-\frac{1}{6}\right)=150$ students. $\blacksquare$
-
-## Exercise 80
-
-(Lesson: Solving Problems, Exercise 5 Review Problem 5) A yellowfin tuna swims at about $80$ km/h; a swordfish is $\frac{5}{8}$ faster. About how fast is the swordfish?
-
-### Solution to Exercise 80
-
-By **Definition 11.2.2 (A Number Times a Fraction)**: $80\times\left(1+\frac{5}{8}\right)=80\times\frac{13}{8}=130$ km/h. $\blacksquare$
-
-## Exercise 81
-
-(Lesson: Solving Problems, Exercise 5 Review Problem 6) A maglev train takes $5$ hours from City A to City B; a regular train takes $\frac{4}{5}$ less. How long does the regular train take?
-
-### Solution to Exercise 81
-
-By **Definition 11.2.2 (A Number Times a Fraction)**: $5\times\left(1-\frac{4}{5}\right)=5\times\frac{1}{5}=1$ hour. $\blacksquare$
-
-## Exercise 82
-
-(Lesson: Solving Problems, Exercise 5 Integrated Problem 7) (1) An elephant weighs $4\,\text{t}$; a baby elephant is $\frac{1}{20}$ of that. How heavy? (2) An Asian elephant weighs $4\,\text{t}$; an African elephant is $\frac{1}{2}$ heavier. How heavy?
-
-### Solution to Exercise 82
-
-By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $4\times\frac{1}{20}=\frac{1}{5}\,\text{t}$; (2) $4\times\left(1+\frac{1}{2}\right)=6\,\text{t}$. $\blacksquare$
-
-## Exercise 83
-
-(Lesson: Solving Problems, Exercise 5 Integrated Problem 8) Xiaoli takes $8$ minutes to finish a puzzle; Xiaohua's time is $\frac{3}{4}$ of Xiaoli's plus $20$ seconds. How long does Xiaohua take?
-
-### Solution to Exercise 83
-
-$\frac{3}{4}$ of $8$ minutes is $6$ minutes; plus $20$ seconds, total $6$ minutes $20$ seconds. $\blacksquare$
-
-## Exercise 84
-
-(Lesson: Solving Problems, Exercise 5 Extension Problem 9) A ball is dropped from $50\,\text{m}$; on hitting the ground it bounces back, each bounce $\frac{2}{5}$ lower than the previous. How high is the third bounce?
-
-### Solution to Exercise 84
-
-By **Definition 11.2.4 (Successive Fraction-of-a-Number)**, each bounce is $1-\frac{2}{5}=\frac{3}{5}$ of the prior: $50\times\frac{3}{5}\times\frac{3}{5}\times\frac{3}{5}=50\times\frac{27}{125}=10.8\,\text{m}$. $\blacksquare$
-
-## Exercise 85
-
-(Lesson: Summary and Review, Exercise 6 Review Problem 1) Compute, then say how fraction multiplication works: $\frac{8}{15}\times5$; $2.4\times\frac{3}{8}$; $\frac{7}{18}\times\frac{9}{14}$; $26\times\frac{2}{13}$; $\frac{6}{5}\times\frac{3}{4}$; $\frac{13}{23}\times\frac{46}{15}$.
-
-### Solution to Exercise 85
-
-By **Definition 11.2.1 (Fraction Times an Integer)** and **Definition 11.2.2 (A Number Times a Fraction)**: $\frac{8}{15}\times5=\frac{8}{3}$; $2.4\times\frac{3}{8}=0.9$; $\frac{7}{18}\times\frac{9}{14}=\frac{1}{4}$; $26\times\frac{2}{13}=4$; $\frac{6}{5}\times\frac{3}{4}=\frac{9}{10}$; $\frac{13}{23}\times\frac{46}{15}=\frac{26}{15}$. $\blacksquare$
-
-## Exercise 86
-
-(Lesson: Summary and Review, Exercise 6 Review Problem 2) Simplify: $\frac{1}{3}\times\frac{5}{16}\times\frac{3}{5}$; $\left(\frac{1}{5}+\frac{2}{3}\right)\times15$; $\frac{4}{7}\times\frac{5}{9}+\frac{3}{7}\times\frac{5}{9}$; $\frac{11}{9}\times\frac{3}{20}\times\frac{9}{11}$; $\frac{2}{5}+\frac{1}{4}+\frac{3}{4}$; $0.75\times\frac{3}{7}+\frac{1}{4}\times\frac{3}{7}$.
-
-### Solution to Exercise 86
-
-By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $\frac{1}{3}\times\frac{3}{5}\times\frac{5}{16}=\frac{1}{16}$; $\frac{1}{5}\times15+\frac{2}{3}\times15=3+10=13$; $\frac{5}{9}\times\left(\frac{4}{7}+\frac{3}{7}\right)=\frac{5}{9}$; $\frac{11}{9}\times\frac{9}{11}\times\frac{3}{20}=\frac{3}{20}$; $\frac{2}{5}+\left(\frac{1}{4}+\frac{3}{4}\right)=\frac{7}{5}$; $\frac{3}{7}\times\left(0.75+0.25\right)=\frac{3}{7}$. $\blacksquare$
-
-## Exercise 87
-
-(Lesson: Summary and Review, Exercise 6 Review Problem 3) Shenzhen averages $1850$ hours of sunshine per year; Beijing gets $\frac{15}{37}$ more. About how many hours for Beijing?
-
-### Solution to Exercise 87
-
-By **Definition 11.2.2 (A Number Times a Fraction)**: $1850\times\left(1+\frac{15}{37}\right)=1850\times\frac{52}{37}=2600$ hours. $\blacksquare$
-
-## Exercise 88
-
-(Lesson: Summary and Review, Exercise 6 Integrated Problem 4) A candy factory packs a batch: $4$ boxes, $25$ bags per box, $\frac{1}{2}\,\text{kg}$ per bag. Total weight?
-
-### Solution to Exercise 88
-
-$4\times25\times\frac{1}{2}=50\,\text{kg}$. $\blacksquare$
-
-## Exercise 89
-
-(Lesson: Summary and Review, Exercise 6 Integrated Problem 5) A landfill gets $70\,\text{t}$ of household waste daily; $\frac{1}{3}$ is recyclable. How many tons recyclable in $15$ days?
-
-### Solution to Exercise 89
-
-$70\times\frac{1}{3}\times15=350\,\text{t}$. $\blacksquare$
-
-## Exercise 90
-
-(Lesson: Summary and Review, Exercise 6 Extension Problem 6) Complete the table (row factors $\frac{7}{4}$, $\frac{6}{5}$, $\frac{5}{8}$; column factors $\frac{1}{2}$, $\frac{2}{3}$, $\frac{3}{5}$), then choose $3$ of the $9$ products, no two in the same row or column, and multiply. What do you find?
-
-### Solution to Exercise 90
-
-The table is row factor times column factor. Picking $3$ products with distinct rows and columns uses each row and column factor once; the product always equals $\left(\frac{7}{4}\times\frac{6}{5}\times\frac{5}{8}\right)\times\left(\frac{1}{2}\times\frac{2}{3}\times\frac{3}{5}\right)=\frac{21}{16}\times\frac{1}{5}=\frac{21}{80}$, independent of the choice. $\blacksquare$
+By **Definition 8.3.8 (Convenient Calculation)**: $176+55+24+45=\left(176+24\right)+\left(55+45\right)=300$; $28\times25\times4=28\times100=2800$; $35\times19=35\times20-35=665$; $200-127-73=200-200=0$; $18\times15+12\times15=\left(18+12\right)\times15=450$; $457+99=457+100-1=556$. $\blacksquare$

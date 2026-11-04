@@ -1,101 +1,119 @@
 # week88
-> **Definition 10.2.4 (Multiples of 2, 5, 3)**
+> **Definition 8.3.8 (简便计算)**
 > 
-> 个位是 0, 2, 4, 6, 8 的数是 2 的倍数; 个位是 0 或 5 的数是 5 的倍数; 各位上数字之和是 3 的倍数的数是 3 的倍数.
-> **Definition 10.3.2 (表面积)**
+> 利用加法, 乘法的运算律和减法, 除法的运算性质, 把能凑成整十, 整百的数先算, 使计算更简便.
+> **Definition 8.4.1 (小数的意义和计数单位)**
 > 
-> 长方体或正方体 6 个面的总面积, 叫做它的表面积.
-> **Definition 10.3.3 (体积和体积单位)**
+> 把整体 1 平均分成 10 份,100 份,1000 份, 这样的一份或几份可以用分母是 10,100,1000 的分数来表示, 也可以用小数表示.
+> **Definition 8.4.2 (小数的数位顺序)**
 > 
-> 物体所占空间的大小叫做物体的体积. 常用的体积单位有立方厘米,立方分米和立方米.
-> **Definition 10.3.4 (体积计算公式)**
+> 小数点左边是整数部分 (个位, 十位, 百位 $\cdots$), 右边是小数部分 (十分位, 百分位, 千分位 $\cdots$), 十分位的计数单位是十分之一, 百分位是百分之一.
+> **Definition 8.4.3 (小数的读法和写法)**
 > 
-> 长方体体积 = 长 * 宽 * 高; 正方体体积 = 棱长 * 棱长 * 棱长.
-> **Definition 10.4.1 (Painted Cube)**
+> 读小数时, 整数部分按整数读法读, 小数点读作"点", 小数部分依次读出每个数字; 写小数时, 小数部分依次写出每个数字.
+> **Definition 8.4.4 (小数的性质)**
 > 
-> 参见教材相应章节关于此概念的论述.
-> **Definition 10.5.1 (分数的意义)**
+> 小数的末尾添上"$0$"或去掉"$0$", 小数的大小不变. 应用这一性质可以化简小数或按需要改写小数.
+> **Definition 8.4.5 (小数的大小比较)**
 > 
-> 把单位 1 平均分成若干份, 表示这样的一份或几份的数叫做分数.
-> **Definition 10.5.2 (分数单位)**
+> 先比较整数部分, 整数部分大的那个数就大; 整数部分相同的, 十分位上的数大的就大; 十分位也相同的, 百分位上的数大的就大 $\cdots$
+> **Definition 8.4.6 (小数点移动引起小数大小的变化)**
 > 
-> 把单位 1 平均分成若干份, 表示其中一份的数叫做分数单位.
-> **Definition 10.6.1 (折线统计图)**
+> 小数点向右移动一位, 两位, 三位 $\cdots$ 原数分别乘 $10$, $100$, $1000\cdots$ 扩大到原数的 $10$ 倍, $100$ 倍, $1000$ 倍; 向左移动一位, 两位 $\cdots$ 原数分别除以 $10$, $100\cdots$ 缩小到原数的 $\frac{1}{10}$, $\frac{1}{100}$.
+> **Definition 8.4.7 (小数与单位换算)**
 > 
-> 知识解决实际问题. 编 者 的 话 此外,你还将通过观察物体,图形的运动进一步丰富空间想象力; 根据折线统计图展现的数据变化趋势进行合理的预测,感受数据的 作用和统计的价值;通过找次品活动感悟推理和数学模型的思想 方法…… 和聪聪一起出发吧!用你的努力和智慧,去探索数学的奥秘! 编者的话 新的学期开始了,你对数学有什么期待呢? 在前面的学习中,你已经初步认识了分数.本学期,你将进一步 理解分数的含义,体会分数与整数,小数的关联,掌握分数加,减法 的计算法则.你还会继续探索整数的奥秘,从因数和倍数的概念出发, 体会整数的特点. 生活中,你一定见过很多长方体,正方体的物品.本学期,你将从 数学的角度来探究长方体,正方体的特征,探索它们的表面积,体积的 计算公式,并运用这些知识解决实际问题. 此外,你还将通过观察物体,图形的运动进一步丰富空间想象力; 根据折线统计图展现的数据变化趋势进行合理的预测,感受数据的 作用和统计的价值;通过找次品活动感悟推理和数学模型的思想 方法 和聪聪一起出
-> **Definition 10.8.1 (Adding Like Fractions)**
+> 把低级单位的数改写成高级单位的数要除以进率, 把高级单位的数改写成低级单位的数要乘进率, 可以利用小数点移动的规律.
+> **Definition 8.4.8 (小数的近似数)**
 > 
-> 同分母分数相加减, 分母不变, 只把分子相加减.
-> **Definition 10.8.2 (Adding Unlike Fractions)**
+> 用"四舍五入"法保留一定的小数位数. 保留整数精确到个位, 保留一位小数精确到十分位, 保留两位精确到百分位. 表示近似数时, 小数末尾的 $0$ 不能去掉.
+> **Definition 8.4.9 (把较大数改写成用万或亿作单位的数)**
 > 
-> 异分母分数相加减, 先通分, 再按照同分母分数加减法的法则计算.
-> **Definition 10.10.2 (Finding Defective Items)**
-> 
-> 用天平找次品时, 所测物品数目与测试次数的关系: 2-3 个物品称 1 次, 4-9 个称 2 次, 10-27 个称 3 次.
-> **Definition 10.11.1 (本学期知识整理)**
-> 
-> 五年级下册主要内容: 观察物体 (三); 因数和倍数 (因数与倍数, $2,5,3$ 的倍数的特征, 质数与合数); 长方体和正方体 (特征, 表面积, 体积, 容积); 分数的意义和性质 (分数的意义, 真分数假分数, 基本性质, 约分通分, 分数与小数互化); 分数的加法和减法; 图形的运动 (旋转); 折线统计图; 以及找次品等数学思想方法.
+> 数的改写和求近似数 有时为了读写方便,会把整万或整亿的数改写成用万或 亿作单位的数. 白细胞:能消灭病菌, 清洁血液. 红细胞:能输送 氧气. 一小滴血液大约含有: 红细胞:25000000个=2500万个 白细胞: 30000个= 万个 想一想:怎样把下面的数改写成用亿作单位的数? 200000000=2亿 可以先分级,找到 1000000000= 亿位,再改写. 530500000000= 做一做 把下面各数改写成用万或亿作单位的数. 25:0000= 3580:0000= 460:0000:0000= 705:0000:0000= 16 万以上数的认识
 
-## Exercise 145
+## Exercise 1
 
-(Lesson: General Review, Problem 1) From $219$, $512$, $329$, find the multiples of 3; how many $\frac{1}{8}$ are in $\frac{3}{8}$? $11\div6=\_\_$.
+(Lesson: Moving the Decimal Point, Try It) Expand $4.8$, $0.735$, $12.6$ to $10$, $100$, $1000$ times the original; shrink $93.5$, $500$, $9999$ to $\frac{1}{10}$, $\frac{1}{100}$, $\frac{1}{1000}$ of the original.
 
-### Solution to Exercise 145
+### Solution to Exercise 1
 
-By **Definition 10.2.4 (Features of Multiples of 2, 5, 3)** and **Definition 10.5.2 (Fraction Unit)**: the one whose digit sum is a multiple of 3 is $219$ ($2+1+9=12$); $\frac{3}{8}$ contains $3$ copies of $\frac{1}{8}$; $11\div6=\frac{11}{6}=1\frac{5}{6}$. $\blacksquare$
+By **Definition 8.4.6 (Moving the Decimal Point)**: $4.8\to48,480,4800$; $0.735\to7.35,73.5,735$; $12.6\to126,1260,12600$. $93.5\to9.35,0.935,0.0935$; $500\to50,5,0.5$; $9999\to999.9,99.99,9.999$. $\blacksquare$
 
-## Exercise 146
+## Exercise 2
 
-(Lesson: General Review, Problem 2) Compute: $\frac{5}{6}+\frac{1}{6}$, $\frac{11}{12}-\frac{5}{12}$, $\frac{1}{4}+\frac{3}{8}$, $\frac{7}{9}-\frac{2}{3}$.
+(Lesson: Moving the Decimal Point, Try It) Comparing the numbers in the circles below with the number in the box, what change occurs? $0.372$ with $372$, $3.72$, $37.2$; $506$ with $0.506$, $5.06$, $50.6$, $0.0506$.
 
-### Solution to Exercise 146
+### Solution to Exercise 2
 
-By **Definition 10.8.1 (Adding/Subtracting Fractions with Like Denominators)** and **Definition 10.8.2 (Adding/Subtracting Fractions with Unlike Denominators)**: $\frac{5}{6}+\frac{1}{6}=1$; $\frac{11}{12}-\frac{5}{12}=\frac{6}{12}=\frac{1}{2}$; $\frac{1}{4}+\frac{3}{8}=\frac{2}{8}+\frac{3}{8}=\frac{5}{8}$; $\frac{7}{9}-\frac{2}{3}=\frac{7}{9}-\frac{6}{9}=\frac{1}{9}$. $\blacksquare$
+By **Definition 8.4.6 (Moving the Decimal Point)**: $0.372\to372$ expands $1000$ times, $\to3.72$ expands $10$ times, $\to37.2$ expands $100$ times; $506\to0.506$ shrinks to $\frac{1}{1000}$, $\to5.06$ shrinks to $\frac{1}{100}$, $\to50.6$ shrinks to $\frac{1}{10}$, $\to0.0506$ shrinks to $\frac{1}{10000}$. $\blacksquare$
 
-## Exercise 147
+## Exercise 3
 
-(Lesson: General Review, Problem 3) A rectangular prism is $8\,\mathrm{cm}$ long, $5\,\mathrm{cm}$ wide, $4\,\mathrm{cm}$ high; find its surface area and volume.
+(Lesson: Moving the Decimal Point, Practice 11, Problem 1) Rewrite $6.25$ into the following numbers; how does its size change? $62.5$; $0.625$; $625$; $0.0625$.
 
-### Solution to Exercise 147
+### Solution to Exercise 3
 
-By **Definition 10.3.2 (Surface Area)** and **Definition 10.3.4 (Volume Formula)**: surface area $S=\left(8\times5+8\times4+5\times4\right)\times2=\left(40+32+20\right)\times2=184\,\mathrm{cm^2}$; volume $V=8\times5\times4=160\,\mathrm{cm^3}$. $\blacksquare$
+By **Definition 8.4.6 (Moving the Decimal Point)**: $6.25\to62.5$ expands to $10$ times the original; $\to0.625$ shrinks to $\frac{1}{10}$ of the original; $\to625$ expands to $100$ times the original; $\to0.0625$ shrinks to $\frac{1}{100}$ of the original. $\blacksquare$
 
-## Exercise 148
+## Exercise 4
 
-(Lesson: General Review, Problem 4) A cube has edge $6\,\mathrm{dm}$; find its surface area and volume.
+(Lesson: Moving the Decimal Point, Practice 11, Problem 2) Fill in the total price of each product (unit price multiplied by $10$, $100$, $1000$): eraser $2.63$ yuan; exercise book $0.85$ yuan; ruler $1.63$ yuan.
 
-### Solution to Exercise 148
+### Solution to Exercise 4
 
-By **Definition 10.3.2 (Surface Area)** and **Definition 10.3.4 (Volume Formula)**: surface area $S=6\times6^2=216\,\mathrm{dm^2}$; volume $V=6^3=216\,\mathrm{dm^3}$. $\blacksquare$
+By **Definition 8.4.6 (Moving the Decimal Point)**: eraser $2.63\to26.3,263,2630$; exercise book $0.85\to8.5,85,850$; ruler $1.63\to16.3,163,1630$. $\blacksquare$
 
-## Exercise 149
+## Exercise 5
 
-(Lesson: General Review, Problem 5) The three solids below are all built from $1\,\mathrm{cm}$ small cubes. (1) What are their volumes? (2) To complete each into a large cube, at least how many more small cubes are needed?
+(Lesson: Moving the Decimal Point, Practice 11, Problem 3) Fill in: $4.35\xrightarrow{\times10}\left($ $\right)\xrightarrow{\times100}\left($ $\right)$; $4.35\xrightarrow{\div10}\left($ $\right)\xrightarrow{\div100}\left($ $\right)$; $0.729\xrightarrow{\times10}\left($ $\right)$, and describe how $72.9$, $7.29$, $7290$, $0.0729$ are obtained.
 
-### Solution to Exercise 149
+### Solution to Exercise 5
 
-By **Definition 10.3.3 (Volume and Volume Units)** and **Definition 10.4.1 (Painted Cubes)**: (1) count the small cubes in each solid to get its volume in cubic centimeters; (2) complete it to the smallest large cube, whose edge is the integer matching the largest current row; the required total is the cube of that edge, minus the current count. $\blacksquare$
+By **Definition 8.4.6 (Moving the Decimal Point)**: $4.35\times10=43.5$, $43.5\times100=4350$; $4.35\div10=0.435$, $0.435\div100=0.00435$. $0.729\to72.9$ expands $100$ times, $\to7.29$ expands $10$ times, $\to7290$ expands $10000$ times, $\to0.0729$ shrinks to $\frac{1}{10}$. $\blacksquare$
 
-## Exercise 150
+## Exercise 6
 
-(Lesson: General Review, Problem 6) What fraction of the whole pattern is the green part? What fraction is red? By how much does red exceed green?
+(Lesson: Moving the Decimal Point, Practice 11, Problem 5) Fill in the blanks with suitable numbers: (1) moving the decimal point of $3.6$ one place to the left gives ___; (2) moving the decimal point of $3.14$ two places to the right gives ___; (3) expanding $0.03$ to its ___ times gives $30$; (4) shrinking $42$ to its ___ gives $0.042$.
 
-### Solution to Exercise 150
+### Solution to Exercise 6
 
-By **Definition 10.5.1 (Meaning of Fractions)** and **Definition 10.8.1 (Adding/Subtracting Fractions with Like Denominators)**, first count how many equal parts the whole pattern is divided into, then how many parts green and red occupy, write them as fractions, and subtract to find how much red exceeds green. $\blacksquare$
+By **Definition 8.4.6 (Moving the Decimal Point)**: (1) $3.6$ moved one place left is $0.36$; (2) $3.14$ moved two places right is $314$; (3) $0.03$ expanded to its $1000$ times is $30$; (4) $42$ shrunk to its $\frac{1}{1000}$ is $0.042$. $\blacksquare$
 
-## Exercise 151
+## Exercise 7
 
-(Lesson: General Review, Problem 7) National express delivery volume (in hundred-million pieces) grew year by year from 2012 to 2021. Look at the line graph and answer: what situation is a line graph suited for? How did the volume change?
+(Lesson: Decimals and Unit Conversion, Try It) Fill in: $24\,\mathrm{dm}=$( )$\mathrm{m}$; $1450\,\mathrm{g}=$( )$\mathrm{kg}$; $6\,\mathrm{km}\,350\,\mathrm{m}=$( )$\mathrm{km}$; $8\,\mathrm{t}\,40\,\mathrm{kg}=$( )$\mathrm{t}$.
 
-### Solution to Exercise 151
+### Solution to Exercise 7
 
-By **Definition 10.6.1 (Line Graphs)**, a line graph suits showing how data changes over time; express delivery volume rises rapidly each year, showing the fast growth of China's express industry. $\blacksquare$
+By **Definition 8.4.7 (Decimals and Unit Conversion)**, convert lower units to higher units by dividing by the rate: $24\,\mathrm{dm}=2.4\,\mathrm{m}$; $1450\,\mathrm{g}=1.45\,\mathrm{kg}$; $6\,\mathrm{km}\,350\,\mathrm{m}=6.35\,\mathrm{km}$; $8\,\mathrm{t}\,40\,\mathrm{kg}=8.04\,\mathrm{t}$. $\blacksquare$
 
-## Exercise 152
+## Exercise 8
 
-(Lesson: General Review, Problem 8) There are 10 boxes of cookies; 1 is short a few (lighter). Using a balance, at least how many weighings guarantee finding it?
+(Lesson: Decimals and Unit Conversion, Try It) Fill in: $3.7\,\mathrm{t}=$( )$\mathrm{kg}$; $0.3\,\mathrm{kg}=$( )$\mathrm{g}$; $2.63\,\mathrm{km}=$( )$\mathrm{m}$; $0.86\,\mathrm{m^2}=$( )$\mathrm{dm^2}$.
 
-### Solution to Exercise 152
+### Solution to Exercise 8
 
-By **Definition 10.10.2 (Number of Weighings Rule)**, 10 is in the $10\sim27$ range, so at least $3$ weighings. $10\to4\to2\to1$, splitting into thirds each time. $\blacksquare$
+By **Definition 8.4.7 (Decimals and Unit Conversion)**, convert higher units to lower units by multiplying by the rate: $3.7\,\mathrm{t}=3700\,\mathrm{kg}$; $0.3\,\mathrm{kg}=300\,\mathrm{g}$; $2.63\,\mathrm{km}=2630\,\mathrm{m}$; $0.86\,\mathrm{m^2}=86\,\mathrm{dm^2}$. $\blacksquare$
+
+## Exercise 9
+
+(Lesson: Decimals and Unit Conversion, Try It) Sort the animals by weight from heaviest to lightest: beluga $1.35\,\mathrm{t}$, seal $0.35\,\mathrm{t}$, dolphin $228\,\mathrm{kg}$, polar bear $0.75\,\mathrm{t}$, penguin $35\,\mathrm{kg}$.
+
+### Solution to Exercise 9
+
+Unify into $\mathrm{kg}$: beluga $1350\,\mathrm{kg}$, polar bear $750\,\mathrm{kg}$, seal $350\,\mathrm{kg}$, dolphin $228\,\mathrm{kg}$, penguin $35\,\mathrm{kg}$. From heaviest to lightest: beluga, polar bear, seal, dolphin, penguin. $\blacksquare$
+
+## Exercise 10
+
+(Lesson: Decimals and Unit Conversion, Practice 12, Problem 1) Fill in: $13\,\mathrm{cm}=$( )$\mathrm{dm}$; $109\,\mathrm{dm}=$( )$\mathrm{m}$; $86\,\mathrm{g}=$( )$\mathrm{kg}$; $5350\,\mathrm{m}=$( )$\mathrm{km}$; $1.09\,\mathrm{m}=$( )$\mathrm{mm}$; $2.56\,\mathrm{t}=$( )$\mathrm{kg}$; $2.3\,\mathrm{kg}=$( )$\mathrm{g}$; $4.6\,\mathrm{m}=$( )$\mathrm{dm}$; $2.95$ yuan $=$( ) yuan ( ) jiao ( ) fen.
+
+### Solution to Exercise 10
+
+By **Definition 8.4.7 (Decimals and Unit Conversion)**: $13\,\mathrm{cm}=1.3\,\mathrm{dm}$; $109\,\mathrm{dm}=10.9\,\mathrm{m}$; $86\,\mathrm{g}=0.086\,\mathrm{kg}$; $5350\,\mathrm{m}=5.35\,\mathrm{km}$; $1.09\,\mathrm{m}=1090\,\mathrm{mm}$; $2.56\,\mathrm{t}=2560\,\mathrm{kg}$; $2.3\,\mathrm{kg}=2300\,\mathrm{g}$; $4.6\,\mathrm{m}=46\,\mathrm{dm}$; $2.95$ yuan $=2$ yuan $9$ jiao $5$ fen. $\blacksquare$
+
+## Exercise 11
+
+(Lesson: Decimals and Unit Conversion, Practice 12, Problem 2) Fill in: walrus $1980\,\mathrm{kg}=$( )$\mathrm{t}$; raccoon $7.5\,\mathrm{kg}=$( )$\mathrm{g}$; emperor penguin $120\,\mathrm{cm}=$( )$\mathrm{m}$.
+
+### Solution to Exercise 11
+
+By **Definition 8.4.7 (Decimals and Unit Conversion)**: $1980\,\mathrm{kg}=1.98\,\mathrm{t}$; $7.5\,\mathrm{kg}=7500\,\mathrm{g}$; $120\,\mathrm{cm}=1.2\,\mathrm{m}$. $\blacksquare$

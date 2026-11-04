@@ -1,202 +1,202 @@
 # week12
-> **Definition 2.4.1 (口算加法)**
+> **Definition 2.2.1 (十几减 $9$)**
 > 
-> 口算加法把几个一和几个一相加, 几个十和几个十相加; 个位相加满十, 向十位进 $1$.
-> **Definition 2.4.2 (口算减法)**
+> 计算十几减 $9$, 可以"想加算减", 如想 $9+6=15$, 所以 $15-9=6$; 也可以用"破十法", 先算 $10-9=1$, 再加个位上的几.
+> **Definition 2.2.2 (退位减法)**
 > 
-> 口算减法把几个一和几个一相减, 几个十和几个十相减; 个位不够减, 从十位退 $1$ 作 $10$ 再减.
-> **Definition 2.4.3 (用连减解决问题)**
+> 个位不够减时, 从十位退 $1$ 当作 $10$, 与个位上的数合起来再减.
+> **Definition 2.2.3 (解决实际问题)**
 > 
-> "每几个装一份, 求能装满几份还剩几个", 可以 $8$ 个 $8$ 个地圈一圈, 也可以连续减.
+> 读题后先找出已知条件和问题, 选择与问题有关的条件列式, 多余的条件不参与计算, 算后再检查.
 
-## Exercise 69
+## Exercise 1
 
-(Lesson: Mental Addition, Example 1) I wrote $26$ characters and still need to write $2$; how many characters in total? I wrote $20$ characters; how many characters have Xiaoliang and Xiaoli written in total?
+(Lesson: Ten-Something Minus 9, Do It, Problem 2) Calculate: $9+4=\square$, $9+5=\square$; $13-9=\square$, $14-9=\square$.
 
-### Solution to Exercise 69
+### Solution to Exercise 1
 
-By **Definition 2.4.1 (Mental Addition)**, $26+2=28$ (characters), $26+20=46$ (characters). The former adds $2$ ones, and the latter adds $2$ tens. $\blacksquare$
+By **Definition 2.2.1 (Ten-Something Minus $9$)**, think addition to do subtraction: $9+4=13$, $9+5=14$, so $13-9=4$, $14-9=5$. $\blacksquare$
 
-## Exercise 70
+## Exercise 2
 
-(Lesson: Mental Addition, Try It) Calculate: $26+22$, $34+35$.
+(Lesson: Ten-Something Minus 9, Do It, Problem 3) Calculate: $12-9$, $19-9$, $11-9$, $18-9$.
 
-### Solution to Exercise 70
+### Solution to Exercise 2
 
-By **Definition 2.4.1 (Mental Addition)**, add the ones and tens separately: $26+22=48$, $34+35=69$. $\blacksquare$
+By **Definition 2.2.1 (Ten-Something Minus $9$)**: $12-9=3$, $19-9=10$, $11-9=2$, $18-9=9$. $\blacksquare$
 
-## Exercise 71
+## Exercise 3
 
-(Lesson: Mental Addition, Do It, Problem 1) Compare and calculate: $7+21$, $64+3$, $51+6$, $24+30$; $70+21$, $64+30$, $51+46$, $24+33$.
+(Lesson: Ten-Something Minus 9, Practice, Problem 1) Circle and calculate: $17-9=\square$, $14-9=\square$.
 
-### Solution to Exercise 71
+### Solution to Exercise 3
 
-By **Definition 2.4.1 (Mental Addition)**: $7+21=28$, $64+3=67$, $51+6=57$, $24+30=54$; $70+21=91$, $64+30=94$, $51+46=97$, $24+33=57$. $\blacksquare$
+By **Definition 2.2.1 (Ten-Something Minus $9$)**: $17-9=8$, $14-9=5$. $\blacksquare$
 
-## Exercise 72
+## Exercise 4
 
-(Lesson: Mental Addition, Example 2) How many bottles of mineral water in total? $28+5=\square$.
+(Lesson: Ten-Something Minus 9, Practice, Problem 2) Connect: $13-9$, $15-9$, $16-9$, $11-9$, $18-9$, $12-9$ with their corresponding results.
 
-### Solution to Exercise 72
+### Solution to Exercise 4
 
-By **Definition 2.4.1 (Mental Addition)**, the ones $8+5=13$ reaches ten and carry $1$: $28+5=33$. $\blacksquare$
+By **Definition 2.2.1 (Ten-Something Minus $9$)**: $13-9=4$, $15-9=6$, $16-9=7$, $11-9=2$, $18-9=9$, $12-9=3$; connect each expression to its result. $\blacksquare$
 
-## Exercise 73
+## Exercise 5
 
-(Lesson: Mental Addition, Do It, Problem 2) Place and calculate: $27+4$, $36+8$.
+(Lesson: Ten-Something Minus 9, Practice, Problem 3) Following the example, fill in the $\square$.
 
-### Solution to Exercise 73
+### Solution to Exercise 5
 
-By **Definition 2.4.1 (Mental Addition)**, the ones reach ten and carry $1$: $27+4=31$, $36+8=44$. $\blacksquare$
+Following "think addition to do subtraction," by **Definition 2.2.1 (Ten-Something Minus $9$)**, fill in the corresponding addition and subtraction expressions as in the example. $\blacksquare$
 
-## Exercise 74
+## Exercise 6
 
-(Lesson: Mental Addition, Practice, Problem 1) Calculate: $23+4$, $58+40$, $64+32$, $5+31$; $37+8$, $20+67$, $45+43$, $6+77$.
+(Lesson: Ten-Something Minus 9, Practice, Problem 4) Move the card and each time subtract $9$ from the number in the grid: $10-9=1$; calculate the rest similarly.
 
-### Solution to Exercise 74
+### Solution to Exercise 6
 
-By **Definition 2.4.1 (Mental Addition)**: $23+4=27$, $58+40=98$, $64+32=96$, $5+31=36$; $37+8=45$, $20+67=87$, $45+43=88$, $6+77=83$. $\blacksquare$
+By **Definition 2.2.1 (Ten-Something Minus $9$)**, subtract $9$ from each number in the grid; e.g. $11-9=2$, $12-9=3$, $13-9=4$, $14-9=5$, $15-9=6$, $16-9=7$, $17-9=8$, $18-9=9$, $19-9=10$. $\blacksquare$
 
-## Exercise 75
+## Exercise 7
 
-(Lesson: Mental Addition, Practice, Problem 2) Are the following calculations correct? Correct the incorrect ones: $23+8=21$, $67+2=87$, $59+2=61$, $5+47=97$.
+(Lesson: Ten-Something Minus 9, Practice, Step-by-Step) Calculate: $17-9+2$, $6+4-9$, $12-9-3$, $7+8-9$, $19-9-6$, $18-5-9$.
 
-### Solution to Exercise 75
+### Solution to Exercise 7
 
-By **Definition 2.4.1 (Mental Addition)**, correct: $23+8=31$, $67+2=69$, $5+47=52$; $59+2=61$ is correct. $\blacksquare$
+By **Definition 2.2.2 (Regrouping Subtraction)**, calculate from left to right: $17-9+2=10$, $6+4-9=1$, $12-9-3=0$, $7+8-9=6$, $19-9-6=4$, $18-5-9=4$. $\blacksquare$
 
-## Exercise 76
+## Exercise 8
 
-(Lesson: Mental Addition, Solve the Problem, Problem 1) There were originally $16$ mineral water bottles, and $11$ more were put in; how many are there now?
+(Lesson: Ten-Something Minus 9, Solve the Problem, Problem 1) I pulled $16$ radishes and gave you $9$. How many do you have left?
 
-### Solution to Exercise 76
+### Solution to Exercise 8
 
-By **Definition 2.4.1 (Mental Addition)**: $16+11=27$ (bottles). $\blacksquare$
+By **Definition 2.2.3 (Solving Word Problems)**, remove the given part from the total: $16-9=7$ (radishes). $\blacksquare$
 
-## Exercise 77
+## Exercise 9
 
-(Lesson: Mental Addition, Solve the Problem, Problem 2) There are $8$ swans and $25$ wild ducks; how many wild ducks and swans in total?
+(Lesson: Ten-Something Minus 9, Solve the Problem, Problem 2) $14$ Chinese knots need to be woven in total, and $9$ are already done. How many more need to be woven?
 
-### Solution to Exercise 77
+### Solution to Exercise 9
 
-By **Definition 2.4.1 (Mental Addition)**: $25+8=33$ (birds). $\blacksquare$
+By **Definition 2.2.3 (Solving Word Problems)**: $14-9=5$ (knots). $\blacksquare$
 
-## Exercise 78
+## Exercise 10
 
-(Lesson: Mental Subtraction, Example 1) There are $35$ story books, and $2$ are lent out; how many remain? There are $35$ science books, and $20$ are lent out; how many remain?
+(Lesson: Ten-Something Minus 9, Thinking Question) There are $10$ flags below. Insert one flag between each adjacent pair. How many flags can be inserted in total?
 
-### Solution to Exercise 78
+### Solution to Exercise 10
 
-By **Definition 2.4.2 (Mental Subtraction)**: $35-2=33$ (books), $35-20=15$ (books). The former subtracts $2$ ones, and the latter subtracts $2$ tens. $\blacksquare$
+Between $10$ flags there are $9$ gaps; inserting one flag in each gap gives $9$ flags in total. $\blacksquare$
 
-## Exercise 79
+## Exercise 11
 
-(Lesson: Mental Subtraction, Try It) Calculate: $35-22$, $76-45$.
+(Lesson: Ten-Something Minus 8, 7, 6, Do It, Problem 1) Circle and calculate: $16-8=\square$, $15-8=\square$.
 
-### Solution to Exercise 79
+### Solution to Exercise 11
 
-By **Definition 2.4.2 (Mental Subtraction)**: $35-22=13$, $76-45=31$. $\blacksquare$
+By **Definition 2.2.2 (Regrouping Subtraction)**: $16-8=8$, $15-8=7$. $\blacksquare$
 
-## Exercise 80
+## Exercise 12
 
-(Lesson: Mental Subtraction, Do It, Problem 1) Compare and calculate: $76-4$, $87-3$, $68-5$, $99-9$; $87-30$, $68-50$, $76-40$, $99-90$.
+(Lesson: Ten-Something Minus 8, 7, 6, Do It, Problem 2) Calculate: $8+5$, $8+3$, $8+6$; $13-8$, $11-8$, $14-8$.
 
-### Solution to Exercise 80
+### Solution to Exercise 12
 
-By **Definition 2.4.2 (Mental Subtraction)**: $76-4=72$, $87-3=84$, $68-5=63$, $99-9=90$; $87-30=57$, $68-50=18$, $76-40=36$, $99-90=9$. $\blacksquare$
+Think addition to do subtraction: $8+5=13$, $8+3=11$, $8+6=14$, so $13-8=5$, $11-8=3$, $14-8=6$. $\blacksquare$
 
-## Exercise 81
+## Exercise 13
 
-(Lesson: Mental Subtraction, Example 2) There are $36$ soccer balls in total, and $8$ are borrowed; how many remain? $36-8=\square$.
+(Lesson: Ten-Something Minus 8, 7, 6, Do It, Problem 3) Calculate: $17-8$, $10-8$, $18-8$.
 
-### Solution to Exercise 81
+### Solution to Exercise 13
 
-By **Definition 2.4.2 (Mental Subtraction)**, the ones $6$ minus $8$ is not enough; borrow $1$ from $30$ as $10$: $16-8=8$, giving $36-8=28$. $\blacksquare$
+By **Definition 2.2.2 (Regrouping Subtraction)**: $17-8=9$, $10-8=2$, $18-8=10$. $\blacksquare$
 
-## Exercise 82
+## Exercise 14
 
-(Lesson: Mental Subtraction, Do It, Problem 2) Circle and calculate: $32-5$, $44-9$, $30-6$.
+(Lesson: Ten-Something Minus 8, 7, 6, Do It, Problem 4) There are $13$ fish, $7$ black. How many red? There are $13$ fish, $6$ red. How many black?
 
-### Solution to Exercise 82
+### Solution to Exercise 14
 
-By **Definition 2.4.2 (Mental Subtraction)**: $32-5=27$, $44-9=35$, $30-6=24$. $\blacksquare$
+By **Definition 2.2.3 (Solving Word Problems)**: $13-7=6$ (fish), $13-6=7$ (fish). $\blacksquare$
 
-## Exercise 83
+## Exercise 15
 
-(Lesson: Mental Subtraction, Do It, Problem 3) Calculate: $35-5$, $40-7$, $74-2$, $56-4$; $35-9$, $40-3$, $74-5$, $56-8$.
+(Lesson: Ten-Something Minus 8, 7, 6, Practice, Problem 1) Calculate: $12-7$, $16-7$, $14-6$, $13-6$, $15-7$, $17-8$.
 
-### Solution to Exercise 83
+### Solution to Exercise 15
 
-By **Definition 2.4.2 (Mental Subtraction)**: $35-5=30$, $40-7=33$, $74-2=72$, $56-4=52$; $35-9=26$, $40-3=37$, $74-5=69$, $56-8=48$. $\blacksquare$
+By **Definition 2.2.2 (Regrouping Subtraction)**: $12-7=5$, $16-7=9$, $14-6=8$, $13-6=7$, $15-7=8$, $17-8=9$. $\blacksquare$
 
-## Exercise 84
+## Exercise 16
 
-(Lesson: Mental Subtraction, Example 3) $26$ oranges, $8$ per bag; how many bags can be filled? How many remain?
+(Lesson: Ten-Something Minus 8, 7, 6, Practice, Problem 2) Fill "$> $""$< $" or "$=$" in $\bigcirc$: $14-8\bigcirc12-6$, $15-8\bigcirc13-7$, $11-6\bigcirc14-7$.
 
-### Solution to Exercise 84
+### Solution to Exercise 16
 
-By **Definition 2.4.3 (Solving Problems with Continuous Subtraction)**, $26-8-8-8=2$; $3$ bags can be filled, and $2$ remain. $\blacksquare$
+Calculate both sides: $14-8=6$, $12-6=6$; $15-8=7$, $13-7=6$; $11-6=5$, $14-7=7$. Thus $14-8=12-6$, $15-8> 13-7$, $11-6< 14-7$. $\blacksquare$
 
-## Exercise 85
+## Exercise 17
 
-(Lesson: Mental Subtraction, Do It) $40$ badminton balls, $12$ per tube; how many tubes can be filled? How many remain?
+(Lesson: Ten-Something Minus 8, 7, 6, Practice, Problem 3) A company's car rental situation: buses total $11$, rented $6$; trucks total $12$, rented $7$; sedans total $18$, rented $9$. How many remain of each?
 
-### Solution to Exercise 85
+### Solution to Exercise 17
 
-By **Definition 2.4.3 (Solving Problems with Continuous Subtraction)**, $40-12-12-12=4$; $3$ tubes can be filled, and $4$ remain. $\blacksquare$
+By **Definition 2.2.3 (Solving Word Problems)**, use "total $-$ rented": buses $11-6=5$ (vehicles), trucks $12-7=5$ (vehicles), sedans $18-9=9$ (vehicles). $\blacksquare$
 
-## Exercise 86
+## Exercise 18
 
-(Lesson: Mental Subtraction, Practice, Problem 1) First say the tens digit of the result, then calculate: $84-6$, $60-3$, $92-7$, $53-4$; $84-60$, $60-30$, $92-70$, $53-40$.
+(Lesson: Ten-Something Minus 5, 4, 3, 2, Do It) Fill in: $5+\square=13$, $4+\square=13$, $5+\square=11$; $13-5=\square$, $13-4=\square$, $11-5=\square$.
 
-### Solution to Exercise 86
+### Solution to Exercise 18
 
-By **Definition 2.4.2 (Mental Subtraction)**: $84-6=78$, $60-3=57$, $92-7=85$, $53-4=49$; $84-60=24$, $60-30=30$, $92-70=22$, $53-40=13$. $\blacksquare$
+Think addition to do subtraction: $5+8=13$, $4+9=13$, $5+6=11$, so $13-5=8$, $13-4=9$, $11-5=6$. $\blacksquare$
 
-## Exercise 87
+## Exercise 19
 
-(Lesson: Mental Subtraction, Practice, Problem 2) Subtract $7$ from $70$ consecutively, and write the difference each time.
+(Lesson: Ten-Something Minus 5, 4, 3, 2, Math Game) Find the cards with the same result.
 
-### Solution to Exercise 87
+### Solution to Exercise 19
 
-By **Definition 2.4.2 (Mental Subtraction)**: $70$, $63$, $56$, $49$, $42$, $35$, $28$, $21$, $14$, $7$, $0$. $\blacksquare$
+Calculate each card's result and group those with the same result; e.g. $13-6=7$, $15-7=8$, $12-5=7$, etc. grouped by result. $\blacksquare$
 
-## Exercise 88
+## Exercise 20
 
-(Lesson: Mental Subtraction, Solve the Problem) There were originally $68$ boxes, and $12$ remain; how many boxes were transported away?
+(Lesson: Solving Problems, Example 5) $4$ people made $15$ red and green round fans in total, of which $9$ are red. How many green round fans are there?
 
-### Solution to Exercise 88
+### Solution to Exercise 20
 
-By **Definition 2.4.2 (Mental Subtraction)**: $68-12=56$ (boxes). $\blacksquare$
+By **Definition 2.2.3 (Solving Word Problems)**, "4 people" is an irrelevant condition and is not used: from $15$ remove the $9$ red, $15-9=6$ (fans); there are $6$ green round fans. $\blacksquare$
 
-## Exercise 89
+## Exercise 21
 
-(Lesson: Mental Subtraction, Solve the Problem) Dad bought $3$ bags of apples, $6$ per bag; how many apples did he buy in total?
+(Lesson: Solving Problems, Do It) Mom bought $16$ apples; after the family ate for $2$ days, $7$ remain. How many were eaten?
 
-### Solution to Exercise 89
+### Solution to Exercise 21
 
-$6+6+6=18$ (apples). $\blacksquare$
+By **Definition 2.2.3 (Solving Word Problems)**, "$2$ days" is an irrelevant condition: $16-7=9$ (apples); $9$ were eaten. $\blacksquare$
 
-## Exercise 90
+## Exercise 22
 
-(Lesson: Mental Addition and Subtraction Within 100, Practice) Today $42$ parents are coming, and $30$ chairs have already been set out; how many more chairs are needed?
+(Lesson: Solving Problems, Practice) Mother squirrel and baby squirrel gathered $12$ pinecones in total; Mother squirrel gathered $8$. How many did the baby gather?
 
-### Solution to Exercise 90
+### Solution to Exercise 22
 
-By **Definition 2.4.2 (Mental Subtraction)**: $42-30=12$ (chairs). $\blacksquare$
+By **Definition 2.2.3 (Solving Word Problems)**: $12-8=4$ (cones); the baby gathered $4$. $\blacksquare$
 
-## Exercise 91
+## Exercise 23
 
-(Lesson: Mental Addition and Subtraction Within 100, Practice) Making a shuttlecock needs $4$ feathers; at most how many shuttlecocks can be made with $18$ feathers?
+(Lesson: Review and Organization, Regrouping Subtraction Table) Write all regrouping subtraction expressions within $20$ on cards and organize them: (3) Calculate the first column of expressions. What pattern do you notice?
 
-### Solution to Exercise 91
+### Solution to Exercise 23
 
-By **Definition 2.4.3 (Solving Problems with Continuous Subtraction)**, $18-4-4-4-4=2$; at most $4$ shuttlecocks can be made. $\blacksquare$
+By **Definition 2.2.2 (Regrouping Subtraction)**, the first column is $10-9=1$, $11-9=2$, $12-9=3$, ...; when the subtrahend stays the same, each increase of $1$ in the minuend increases the difference by $1$. $\blacksquare$
 
-## Exercise 92
+## Exercise 24
 
-(Lesson: Mental Addition and Subtraction Within 100, Practice) There are $24$ boxes of apples, and $8$ boxes are transported each time; how many trips are needed to transport all of them?
+(Lesson: Review and Organization, Practice, Problem 1) Mental math: $13-6$, $8+7$, $13-5$, $16-8$, $15-6$, $7+9$, $15-7$, $14-5$, $6+6$, $12-7$, $14-6$, $12-9$.
 
-### Solution to Exercise 92
+### Solution to Exercise 24
 
-By **Definition 2.4.3 (Solving Problems with Continuous Subtraction)**, $24-8-8-8=0$; $3$ trips are needed. $\blacksquare$
+$13-6=7$, $8+7=15$, $13-5=8$, $16-8=8$, $15-6=9$, $7+9=16$, $15-7=8$, $14-5=9$, $6+6=12$, $12-7=5$, $14-6=8$, $12-9=3$. $\blacksquare$

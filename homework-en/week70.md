@@ -1,326 +1,145 @@
 # week70
-> **Definition 9.2.1 (小数乘整数)**
+> **Definition 7.1.1 (计数单位与数位)**
 > 
-> 先把小数转化为整数 (乘 $10,100,\cdots$), 按整数乘法算出积, 再把积除以相同的倍数, 点上小数点. 如 $9.5\times3$, 把 $9.5$ 看作 $95$ 角, $95\times3=285$ 角 $=28.5$ 元.
-> **Definition 9.2.2 (小数乘小数)**
+> 个 (一), 十, 百, 千, 万, 十万, 百万, 千万, 亿, 十亿, 百亿, 千亿都是计数单位. 每相邻两个计数单位之间的进率都是十, 这种计数方法叫十进制计数法. 计数单位按一定顺序排列, 它们所占的位置叫数位. 从右边起每四个数位是一级: 个级 (个, 十, 百, 千), 万级 (万, 十万, 百万, 千万), 亿级 (亿, 十亿, 百亿, 千亿).
+> **Definition 7.1.2 (自然数)**
 > 
-> 先按整数乘法算出积, 再看两个乘数中一共有几位小数, 就从积的右边起数出几位, 点上小数点; 乘得的积的小数位数不够时, 要在前面用 $0$ 补足, 再点小数点.
-> **Definition 9.2.3 (积的近似数)**
+> 表示物体个数的 $1,2,3,\cdots$ 都是自然数. 一个物体也没有用 $0$ 表示, $0$ 也是自然数. 最小的自然数是 $0$, 没有最大的自然数, 自然数的个数是无限的.
+> **Definition 7.1.3 (Reading Large Numbers)**
 > 
-> 根据需要, 按"四舍五入"法保留一定的小数位数, 求出积的近似数.
-> **Definition 9.2.4 (倍数是小数)**
+> 读大数时, 从高位读起, 亿级和万级的数按照个级的读法来读, 再在后面加上亿字或万字.
+> **Definition 7.1.4 (Writing Large Numbers)**
 > 
-> 一个数 ( $0$ 除外) 乘大于 $1$ 的数, 积比原来的数大; 乘小于 $1$ 的数, 积比原来的数小. 用小数表示倍的关系时, 也用乘法解决.
-> **Definition 9.2.5 (整数乘法运算律推广到小数)**
+> 写大数时, 从高位写起, 哪一位上一个单位也没有, 就在那一位上写 0.
+> **Definition 7.1.5 (数的大小比较)**
 > 
-> .2 13.7+0.98+0.02+4.3 计算下面各题,怎样简便就怎样计算. 2 做一做 整数加法运算律推广到小数 谁的方法更简便?你是怎样想的? 说一说小丽在计算时应用了什么运算律. 小伟这样算: 0.6+7.91+3.4+0.09 = 8.51+3.4+0.09 = 11.91+0.09 = 12 0.6+7.91+3.4+0.09 = (0.6+3.4)+(7.91+0.09) = 4+8 = 12 小丽这样算: 计算0.6+7.91+3.4+0.09. 4 3.2+0.5 0.5+3.2 (4.7+2.6)+7.4 4.7+(2.6+7.4) 整数加法的交换律,结合律对小数加法同样适用. 应用运算律,可以使一些小数计算更简便. 我们已经学过整数加法的运算律,这些运算律在小数运算中还 适用吗?计算下面每组的两个算式,看看它们有什么关系. 你有什么发现?你能 举例验证吗? 整数加法运算律推广到小数 我们已经学过整数加法的运算律,这些运算律在小数运算中还 适用吗?计算下面每组
-> **Definition 9.2.6 (估算解决实际问题)**
+> 位数不同时, 位数多的数大. 位数相同时, 从最高位比起, 最高位上数大的那个数就大; 最高位相同就比较下一个数位上的数.
+> **Definition 7.1.6 (数的改写)**
 > 
-> 98人,四至六 年级来了187人.六个年级的学生同时看电影,坐得下吗? 做一做 有时不需要精确计算,估算也能解决问题. 只要算出总价,与500 元, 700元比较就行了.不过这 两个三位数相加不好算. 我来估计:358+249. ↓ ↓ 只看百位:300+200=500, 总价肯定超过500元了. 我也只看百位,就 知道带700元够了. 75 右边的两种棋各 买一副,500元够 吗?700元呢? 围棋:358元 国际象棋:249元 阅读理解 知道了两种棋的价格····要解决的问题是····· 分析解答 我来估计:358+249. 只要算出总价,与500元, 只看百位:300+200=500, 700元比较就行了.不过这 总价肯定超过500元了 两个三位数相加不好算 我也只看百位,就 知道带700元够了. + 21 41 358< 400, 249< 300, 那么 358＋249小于 700. 口答:两种棋各买一副,500元不够,700元够. 回顾反思 有时不需要精确计算,估
-> **Definition 9.2.7 (分段计费)**
+> 把整万或整亿的数改写成用万或亿作单位的数, 去掉末尾的 4 个 0 或 8 个 0, 加上万字或亿字.
+> **Definition 7.1.7 (四舍五入法求近似数)**
 > 
-> 出租车, 水费等分段计费问题, 先按标准分成几段, 分别计算每段费用, 再相加; 不足 $1$ 单位按 $1$ 单位计算.
+> 省略尾数时, 看尾数部分最高位上的数: 小于 $5$ 就把尾数舍去 (四舍), 大于或等于 $5$ 就向前一位进 $1$ 再舍去尾数 (五入). 近似数与原数之间用 "$\approx$" 连接.
+> **Definition 7.2.1 (抽样推算)**
+> 
+> 遇到 $1$ 亿这样很大的数无法直接测量时, 可以先测量较小数量 (如 $100$ 张纸的厚度, $100$ 粒大米的质量), 再利用 $1$ 亿 $=100000000=10000\times10000$ 的倍数关系推算出 $1$ 亿对应的量.
+
+## Exercise 1
+
+(Lesson: Practice 3, Problem 3) For the seventh census, the population of some regions, dropping the tail after the ten-thousands place: Shanghai $24870895$, Shanxi $34915616$, Zhejiang $64567588$, Hunan $66444864$, Guangxi $50126804$, Yunnan $47209277$.
+
+### Solution to Exercise 1
+
+By **Definition 7.1.7 (Rounding to find approximate numbers)**: Shanghai $24870895\approx2487$ ten-thousands; Shanxi $34915616\approx3492$ ten-thousands; Zhejiang $64567588\approx6457$ ten-thousands; Hunan $66444864\approx6644$ ten-thousands; Guangxi $50126804\approx5013$ ten-thousands; Yunnan $47209277\approx4721$ ten-thousands. $\blacksquare$
+
+## Exercise 2
+
+(Lesson: Practice 3, Problem 4) First write the underlined numbers, then drop the tail after the ten-thousands or hundred-millions place to find approximate numbers. (1) The Palace Museum holds one-million eight-hundred-sixty-two-thousand-six-hundred-ninety items, among them one-million six-hundred-eighty-three-thousand-three-hundred-thirty-six precious relics. (2) The "Fendouzhe" submersible dives to ten-thousand-nine-hundred-nine meters. (3) Grain output is six-hundred-million eight-thousand-six-hundred-fifty-three ten-thousand tons. (4) Total domestic tourist visits are two-billion-three-hundred-eighty-four-million, up nine-hundred-twenty-nine-million year on year.
+
+### Solution to Exercise 2
+
+By **Definition 7.1.4 (Writing Large Numbers)** and **Definition 7.1.7 (Rounding to find approximate numbers)**: (1) $1862690\approx186$ ten-thousands, $1683336\approx168$ ten-thousands; (2) $10909\approx1$ ten-thousand; (3) $686530000\approx7$ hundred-millions; (4) $2384000000\approx24$ hundred-millions, $929000000\approx9$ hundred-millions. $\blacksquare$
+
+## Exercise 3
+
+(Lesson: Practice 3, Problem 5) The average distance of each planet from the sun (kilometers): Mars $227940000$, Uranus $2870990000$, Earth $149600000$, Venus $108200000$, Mercury $57910000$, Jupiter $778330000$, Neptune $4504000000$, Saturn $1429400000$. Rewrite in units of ten-thousand kilometers.
+
+### Solution to Exercise 3
+
+By **Definition 7.1.6 (Rewriting Numbers)**: Mars $22794$ ten-thousand km, Uranus $287099$ ten-thousand km, Earth $14960$ ten-thousand km, Venus $10820$ ten-thousand km, Mercury $5791$ ten-thousand km, Jupiter $77833$ ten-thousand km, Neptune $450400$ ten-thousand km, Saturn $142940$ ten-thousand km. $\blacksquare$
+
+## Exercise 4
+
+(Lesson: Practice 3, Problem 6) Write a nine-digit number and a ten-digit number. What is the largest nine-digit number? And the smallest ten-digit number?
+
+### Solution to Exercise 4
+
+By **Definition 7.1.1 (Counting Units and Digit Places)** and **Definition 7.1.5 (Comparing the Size of Numbers)**: the largest nine-digit number is $999999999$, and the smallest ten-digit number is $1000000000$. Other nine- and ten-digit answers are not unique. $\blacksquare$
+
+## Exercise 5
+
+(Lesson: Practice 4, Problem 1) Fill in. (1) $631020500$ is ( ) digits, its highest place is ( ), the $3$ is in the ( ) place, and the hundred-thousands place is ( ). (2) $5$ ten-millions, $7$ hundred-thousands and $8$ thousands is ( ). (3) $38204000000$ contains ( ) hundred-millions and ( ) ten-thousands. (4) $930701000=900000000+30000000+\left(\ \ \right)+\left(\ \ \right)$.
+
+### Solution to Exercise 5
+
+By **Definition 7.1.1 (Counting Units and Digit Places)**: (1) $631020500$ is nine digits, its highest place is the hundred-millions place, the $3$ is in the ten-millions place, and the hundred-thousands place is $0$; (2) $50708000$; (3) $382$ hundred-millions and $400$ ten-thousands; (4) $930701000=900000000+30000000+700000+1000$. $\blacksquare$
+
+## Exercise 6
+
+(Lesson: Practice 4, Problem 2) Write the following numbers, then drop the tail after the ten-thousands or hundred-millions place to find approximate numbers: four-million five-thousand nine-hundred; three-hundred-million eighty-four-million eight-thousand; one-hundred-three-billion thirty-nine-million.
+
+### Solution to Exercise 6
+
+By **Definition 7.1.4 (Writing Large Numbers)** and **Definition 7.1.7 (Rounding to find approximate numbers)**: four-million five-thousand nine-hundred is written $4005900\approx401$ ten-thousands; three-hundred-million eighty-four-million eight-thousand is written $384080000\approx4$ hundred-millions; one-hundred-three-billion thirty-nine-million is written $100339000000\approx1003$ hundred-millions. $\blacksquare$
+
+## Exercise 7
+
+(Lesson: Practice 4, Problem 3) Compare: $27$ ten-thousands $\bigcirc260800$; $500000000\bigcirc5$ hundred-millions; $40$ ten-thousands $\bigcirc4000000$; $297860000\bigcirc3$ hundred-millions.
+
+### Solution to Exercise 7
+
+By **Definition 7.1.5 (Comparing the Size of Numbers)** and **Definition 7.1.6 (Rewriting Numbers)**: $27$ ten-thousands $=270000> 260800$; $500000000=5$ hundred-millions; $40$ ten-thousands $=400000< 4000000$; $297860000< 3$ hundred-millions $=300000000$. $\blacksquare$
+
+## Exercise 8
+
+(Lesson: Practice 4, Problem 4) In pairs, using digit cards $0\sim9$, take turns to draw one and write it in a chosen blank; whoever writes the larger number wins.
+
+### Solution to Exercise 8
+
+By **Definition 7.1.5 (Comparing the Size of Numbers)**, the larger the high-place digits the larger the number, so the strategy is to put the large digits you draw in the high places as much as possible. $\blacksquare$
+
+## Exercise 9
+
+(Lesson: Practice 4, Problem 5) Look carefully and fill the blanks with suitable numbers: on the number line there are $9930000$, $\_\_$, $9970000$, $\_\_$, $\_\_$.
+
+### Solution to Exercise 9
+
+By the equal spacing on the number line, adjacent cells differ by $10000$: $9930000$, $9950000$, $9970000$, $9990000$, $10010000$. $\blacksquare$
+
+## Exercise 10
+
+(Lesson: Practice 4, Problem 6) Sales of battery-electric cars, 2015—2022 (units): $247482$, $409000$, $666000$, $984000$, $972000$, $1115000$, $2916000$, $5365000$. Drop the tail after the ten-thousands place to find approximate numbers.
+
+### Solution to Exercise 10
+
+By **Definition 7.1.7 (Rounding to find approximate numbers)**: $247482\approx25$ ten-thousands, $409000\approx41$ ten-thousands, $666000\approx67$ ten-thousands, $984000\approx98$ ten-thousands, $972000\approx97$ ten-thousands, $1115000\approx112$ ten-thousands, $2916000\approx292$ ten-thousands, $5365000\approx537$ ten-thousands. Sales grow rapidly year by year. $\blacksquare$
+
+## Exercise 11
+
+(Lesson: Practice 4, Problem 7) Fill the $\square$ with suitable digits: $8\square765000\approx9$ hundred-millions; $3562100000< \square103270000$; $\square00\square00\approx69$ ten-thousands; $\square00800000> 2810800000$.
+
+### Solution to Exercise 11
+
+By **Definition 7.1.5 (Comparing the Size of Numbers)** and **Definition 7.1.7 (Rounding to find approximate numbers)**: $8\square765000\approx9$ hundred-millions, the ten-million digit must be $\ge5$, fill $5\sim9$; $3562100000< \square103270000$, fill $\ge4$; $\square00\square00\approx69$ ten-thousands, the ten-thousand level is $69$ and the thousands digit is $0\sim4$, fill $690000\sim694000$; $\square00800000> 2810800000$, fill $\ge3$. $\blacksquare$
+
+## Exercise 12
+
+(Lesson: How High Are 100 Million Sheets of Paper — Think About It) Xiaoli estimates that a stack of paper in the printing factory has $1$ hundred-million sheets; how can we tell whether her estimate is accurate?
+
+### Solution to Exercise 12
+
+By **Definition 7.2.1 (Estimation by Sampling)**, $1$ hundred-million sheets is too many to count directly; first measure the thickness of $100$ sheets, then infer the height of $1$ hundred-million sheets and compare it with the height of the actual stack. $\blacksquare$
+
+## Exercise 13
+
+(Lesson: How High Are 100 Million Sheets of Paper — Do the Math) $100$ sheets are $1$ cm thick; fill the table and compute how high $1$ hundred-million sheets are: $100$ sheets correspond to $1$ cm; $10000$ sheets correspond to ( ); $100000000$ sheets correspond to ( ).
+
+### Solution to Exercise 13
+
+By **Definition 7.2.1 (Estimation by Sampling)**: $100$ sheets are $1$ cm thick; $10000$ sheets are $100$ times $100$ sheets, $100$ cm thick $=1$ m; $1$ hundred-million $=10000$ groups of $10000$, so $1$ hundred-million sheets are $10000$ m high, taller than Mount Everest. $\blacksquare$
+
+## Exercise 14
+
+(Lesson: Raise Questions) What other ways can you think of to feel the size of $1$ hundred-million? For example, how heavy is $1$ hundred-million grains of rice? If you write one character every $1$ second, how long does it take to write $1$ hundred-million characters?
+
+### Solution to Exercise 14
+
+By **Definition 7.2.1 (Estimation by Sampling)**, weigh $100$ grains of rice and multiply by $1000000$ to get that $1$ hundred-million grains weigh about $2$ t; $1$ hundred-million seconds is about $3$ years and more, so writing $1$ hundred-million characters nonstop takes $3$ years and more. $\blacksquare$
 
 ## Exercise 15
 
-(Lesson: Multiplying a Decimal by an Integer, Example 1) An item costs $9.5$ yuan; how much do $3$ cost? $9.5\times3=\_\_$.
+(Lesson: Analyze and Draw a Conclusion) How to solve "how heavy is $1$ hundred-million grains of rice" and "how long to write $1$ hundred-million characters"? Try it and tell what you feel.
 
 ### Solution to Exercise 15
 
-By **Definition 9.2.1 (Multiplying a Decimal by an Integer)**, $9.5$ yuan $=95$ jiao, $95\times3=285$ jiao $=28.5$ yuan. That is, $9.5\times3=28.5$ yuan. $\blacksquare$
-
-## Exercise 16
-
-(Lesson: Multiplying a Decimal by an Integer, Example 2) Calculate $0.72\times60$.
-
-### Solution to Exercise 16
-
-By **Definition 9.2.1 (小数乘整数)**, expand $0.72$ by $100$ to get $72$, $72\times60=4320$, then divide by $100$ to get $43.20$, and remove the trailing $0$ to get $43.2$. $\blacksquare$
-
-## Exercise 17
-
-(Lesson: Multiplying a Decimal by an Integer, Try It, Problem 1) An item costs $8.6$ yuan; how much do $6$ cost? Is $40$ yuan enough for $7$?
-
-### Solution to Exercise 17
-
-By **Definition 9.2.1 (小数乘整数)**, $6$ items: $8.6\times6=51.6$ yuan. $7$ items: $8.6\times7=60.2$ yuan; $60.2> 40$, so not enough. $\blacksquare$
-
-## Exercise 18
-
-(Lesson: Multiplying a Decimal by a Decimal, Example 1) Class 4(1)'s campus test plot is $4.2$ m long and $0.8$ m wide; what is its area? $4.2\times0.8=\_\_$.
-
-### Solution to Exercise 18
-
-By **Definition 9.2.2 (Multiplying a Decimal by a Decimal)**, expand $4.2$ by $10$ to $42$ and $0.8$ by $10$ to $8$, $42\times8=336$; the two factors have two decimal places in total, so count two places from the right and place the point: $3.36$ m$^2$. $\blacksquare$
-
-## Exercise 19
-
-(Lesson: Multiplying a Decimal by a Decimal, Try It) Calculate $1.92\times0.9$ and $0.32\times2.79$.
-
-### Solution to Exercise 19
-
-By **Definition 9.2.2 (小数乘小数)**: for $1.92\times0.9$, $192\times9=1728$, three decimal places in total, giving $1.728$. For $0.32\times2.79$, $32\times279=8928$, five decimal places in total, padding a $0$ on the front to get $0.8928$. $\blacksquare$
-
-## Exercise 20
-
-(Lesson: Multiplying a Decimal by a Decimal, Try It, Problem 1) Calculate: $6.7\times0.3$, $2.4\times6.2$, $5.4\times1.07$, $0.45\times0.6$.
-
-### Solution to Exercise 20
-
-By **Definition 9.2.2 (小数乘小数)**: $6.7\times0.3=2.01$; $2.4\times6.2=14.88$; $5.4\times1.07=5.778$; $0.45\times0.6=0.27$. $\blacksquare$
-
-## Exercise 21
-
-(Lesson: Multiplying a Decimal by a Decimal, Try It, Problem 2) Calculate: $0.56\times0.04$, $3.7\times4.6$, $0.48\times1.5$, $0.29\times0.07$, $0.056\times0.15$.
-
-### Solution to Exercise 21
-
-By **Definition 9.2.2 (小数乘小数)**: $0.56\times0.04=0.0224$ (pad $0$ on the front when there are too few places); $3.7\times4.6=17.02$; $0.48\times1.5=0.72$; $0.29\times0.07=0.0203$; $0.056\times0.15=0.0084$. $\blacksquare$
-
-## Exercise 22
-
-(Lesson: Approximate Value of a Product, Example) A human has about $0.049$ hundred million olfactory cells, and a dog has $45$ times as many. About how many hundred million olfactory cells does a dog have? (Keep one decimal.)
-
-### Solution to Exercise 22
-
-By **Definition 9.2.3 (Approximate Value of a Product)**, $0.049\times45=2.205$; keeping one decimal, look at the hundredths digit $0< 5$, discard it, giving $2.2$ hundred million. $\blacksquare$
-
-## Exercise 23
-
-(Lesson: Decimal Multiplication, Practice 2, Review and Consolidation, Problem 1) Place the decimal point in each product: $4.6\times30$, $0.46\times30$, $0.46\times300$ (the vertical products are $138$, $1380$, $13800$).
-
-### Solution to Exercise 23
-
-By **Definition 9.2.2 (小数乘小数)**: $4.6\times30$, one decimal place, gives $138.0=138$; $0.46\times30$, two decimal places, gives $13.80=13.8$; $0.46\times300$, two decimal places, gives $138.00=138$. $\blacksquare$
-
-## Exercise 24
-
-(Lesson: Decimal Multiplication, Practice 2, Review and Consolidation, Problem 2) Calculate: $0.86\times7$, $12.8\times42$, $0.19\times40$, $0.37\times0.4$, $1.06\times25$, $0.082\times0.14$, $27\times0.43$, $0.055\times0.06$.
-
-### Solution to Exercise 24
-
-By **Definition 9.2.1 (小数乘整数)** and **Definition 9.2.2 (小数乘小数)**: $0.86\times7=6.02$; $12.8\times42=537.6$; $0.19\times40=7.6$; $0.37\times0.4=0.148$; $1.06\times25=26.5$; $0.082\times0.14=0.01148$; $27\times0.43=11.61$; $0.055\times0.06=0.0033$. $\blacksquare$
-
-## Exercise 25
-
-(Lesson: Decimal Multiplication, Practice 2, Review and Consolidation, Problem 3) Judge whether the number of decimal places in each product is wrong: $2.8\times5.6=1.568$; $56.7\times38=2154.6$; $0.37\times0.94=3.478$; $1.56\times0.9=1.404$; $1.23\times29.2=359.16$; $0.78\times6.1=47.58$.
-
-### Solution to Exercise 25
-
-Check the decimal places by **Definition 9.2.2 (小数乘小数)**: $2.8\times5.6$ has two places, $28\times56=1568$, should be $15.68$, the original $1.568$ is wrong; $56.7\times38$ has one place, $2154.6$ is right; $0.37\times0.94$ has four places, $37\times94=3478$, should be $0.3478$, the original $3.478$ is wrong; $1.56\times0.9$ has three places, $1404$, should be $1.404$, right; $1.23\times29.2$ has three places, $123\times292=35916$, should be $359.16$, right; $0.78\times6.1$ has three places, $78\times61=4758$, should be $4.758$, the original $47.58$ is wrong. $\blacksquare$
-
-## Exercise 26
-
-(Lesson: Decimal Multiplication, Practice 2, Review and Consolidation, Problem 4) Calculate as required: (1) keep one decimal: $0.37\times8.7$, $1.2\times1.4$, $3.14\times3.9$; (2) keep two decimals: $2.34\times0.17$, $0.86\times1.6$, $1.05\times0.26$.
-
-### Solution to Exercise 26
-
-By **Definition 9.2.3 (积的近似数)**: (1) $0.37\times8.7=3.219\approx3.2$; $1.2\times1.4=1.68\approx1.7$; $3.14\times3.9=12.246\approx12.2$. (2) $2.34\times0.17=0.3978\approx0.40$; $0.86\times1.6=1.376\approx1.38$; $1.05\times0.26=0.273\approx0.27$. $\blacksquare$
-
-## Exercise 27
-
-(Lesson: Decimal Multiplication, Practice 2, Integrated Use, Problem 1) Xiao Ming takes a $3.4$-hour bus ride to his grandfather's house at an average speed of $70.5$ km/h; how many kilometers does the bus travel?
-
-### Solution to Exercise 27
-
-Distance $=$ speed $\times$ time, $70.5\times3.4=239.7$ km. $\blacksquare$
-
-## Exercise 28
-
-(Lesson: Decimal Multiplication, Practice 2, Integrated Use, Problem 2) Based on $32\times15=480$, complete the table: factors $32,320,32,3.2,32,0.32$; factors $15,150,15,15,1.5,0.15$; product $480$.
-
-### Solution to Exercise 28
-
-By the decimal-place relation of factors and product in **Definition 9.2.2 (小数乘小数)**: $32\times15=480$; $320\times150=48000$; $32\times15=480$; $3.2\times15=48$; $32\times1.5=48$; $0.32\times0.15=0.048$. $\blacksquare$
-
-## Exercise 29
-
-(Lesson: Decimal Multiplication, Practice 2, Integrated Use, Problem 3) The Earth's diameter is about $1.28$ ten thousand km, and the Moon-to-Earth distance is about $30$ times the Earth's diameter. How far is the Moon from the Earth?
-
-### Solution to Exercise 29
-
-$1.28\times30=38.4$ ten thousand km. $\blacksquare$
-
-## Exercise 30
-
-(Lesson: Decimal Multiplication, Practice 2, Integrated Use, Problem 4) Xiao Liang's home is about $1.3$ km from school; he walks back and forth twice a day. (1) How many kilometers does he walk each day? How many from Monday to Friday?
-
-### Solution to Exercise 30
-
-Two round trips means $4$ one-way trips: $1.3\times4=5.2$ km. Monday to Friday, $5$ days: $5.2\times5=26$ km. $\blacksquare$
-
-## Exercise 31
-
-(Lesson: Decimal Multiplication, Practice 2, Integrated Use, Problem 5) A building has $21$ floors, each $3.04$ m high. About how tall is the building? (Keep an integer.)
-
-### Solution to Exercise 31
-
-By **Definition 9.2.3 (积的近似数)**, $3.04\times21=63.84\approx64$ m. $\blacksquare$
-
-## Exercise 32
-
-(Lesson: Decimal Multiplication, Practice 2, Extension and Improvement, Problem 1) Based on $65\times39=2535$, fill suitable numbers in the parentheses: $2.535=\left(\ \ \right)\times\left(\ \ \right)$; $25.35=\left(\ \ \right)\times\left(\ \ \right)$; $253.5=\left(\ \ \right)\times\left(\ \ \right)$; $0.2535=\left(\ \ \right)\times\left(\ \ \right)$.
-
-### Solution to Exercise 32
-
-By **Definition 9.2.2 (小数乘小数)**, the product's decimal places equal the sum of the factors' decimal places. The answer is not unique, e.g. $2.535=6.5\times0.39$; $25.35=6.5\times3.9$; $253.5=65\times3.9$; $0.2535=0.65\times0.39$. $\blacksquare$
-
-## Exercise 33
-
-(Lesson: Decimal Multiplication, Practice 2, Thinking Question) An integer (denoted $\square$) and a decimal (denoted $\triangle$) sum to exactly their product: $\square+\triangle=\square\times\triangle$. What are the two numbers?
-
-### Solution to Exercise 33
-
-From $\square+\triangle=\square\times\triangle$, rearrange to $\triangle=\frac{\square}{\square-1}$. Try $\square=2$, $\triangle=2$; try $\square=3$, $\triangle=\frac{3}{2}=1.5$, check $3+1.5=4.5=3\times1.5$. One solution is $\square=3$, $\triangle=1.5$. $\blacksquare$
-
-## Exercise 34
-
-(Lesson: Multiples That Are Decimals, Example) Class 4(1)'s peanut yield is $3.9$ kg; Class 4(2) is $0.8$ times Class 4(1), and Class 4(3) is $1.2$ times Class 4(1). Find the yields of Class 4(2) and Class 4(3).
-
-### Solution to Exercise 34
-
-By **Definition 9.2.4 (Multiples That Are Decimals)**, Class 4(2): $3.9\times0.8=3.12$ kg; Class 4(3): $3.9\times1.2=4.68$ kg. $\blacksquare$
-
-## Exercise 35
-
-(Lesson: Multiples That Are Decimals, Try It) A ribbon costs $3.2$ yuan per meter; how much do $0.8$ m, $0.5$ m, $1.4$ m and $2.6$ m cost?
-
-### Solution to Exercise 35
-
-By **Definition 9.2.4 (倍数是小数)**: $3.2\times0.8=2.56$ yuan; $3.2\times0.5=1.6$ yuan; $3.2\times1.4=4.48$ yuan; $3.2\times2.6=8.32$ yuan. $\blacksquare$
-
-## Exercise 36
-
-(Lesson: Multiples That Are Decimals, Try It, Problem 2) Fill the $\bigcirc$ with $> $, $< $ or $=$: $756\times0.9\bigcirc756$; $1\times0.94\bigcirc1$; $4.25\times1.1\bigcirc4.25$; $31.4\times1.2\bigcirc31.4$.
-
-### Solution to Exercise 36
-
-By **Definition 9.2.4 (倍数是小数)**, multiplying by a number less than $1$ shrinks the product and by a number greater than $1$ enlarges it: $756\times0.9< 756$; $1\times0.94< 1$; $4.25\times1.1> 4.25$; $31.4\times1.2> 31.4$. $\blacksquare$
-
-## Exercise 37
-
-(Lesson: Extending the Integer Multiplication Laws to Decimals, Example) Convenient calculation: $0.25\times4.78\times4$; $0.65\times202$.
-
-### Solution to Exercise 37
-
-By **Definition 9.2.5 (Extending the Laws)**: $0.25\times4.78\times4=0.25\times4\times4.78=1\times4.78=4.78$; $0.65\times202=0.65\times\left(200+2\right)=0.65\times200+0.65\times2=130+1.3=131.3$. $\blacksquare$
-
-## Exercise 38
-
-(Lesson: Extending the Integer Multiplication Laws to Decimals, Try It) Fill by the operation laws and calculate conveniently: $4.2\times1.69=\_\_\times\_\_$; $2.5\times\left(0.77\times0.4\right)=\left(\_\_\times\_\_\right)\times\_\_$; $7.2\times8.4+2.8\times8.4=\_\_\times\left(\_\_+\_\_\right)$; $101\times0.45$; $4.75\times99+4.75$; $0.034\times0.5\times0.6$; $2.73\times99$.
-
-### Solution to Exercise 38
-
-By **Definition 9.2.5 (Operation Laws Extended)**: $4.2\times1.69=1.69\times4.2$; $2.5\times\left(0.77\times0.4\right)=\left(2.5\times0.4\right)\times0.77$; $7.2\times8.4+2.8\times8.4=8.4\times\left(7.2+2.8\right)=84$. Convenient calculation: $101\times0.45=\left(100+1\right)\times0.45=45+0.45=45.45$; $4.75\times99+4.75=4.75\times\left(99+1\right)=475$; $0.034\times0.5\times0.6=0.034\times0.3=0.0102$; $2.73\times99=2.73\times\left(100-1\right)=273-2.73=270.27$. $\blacksquare$
-
-## Exercise 39
-
-(Lesson: Decimal Multiplication, Practice 3, Review and Consolidation, Problem 1) Calculate and check: $0.39\times2.9$, $0.58\times0.08$, $3.7\times200$, $0.18\times8.45$, $4.5\times0.002$, $0.072\times0.15$.
-
-### Solution to Exercise 39
-
-By **Definition 9.2.2 (小数乘小数)**: $0.39\times2.9=1.131$; $0.58\times0.08=0.0464$; $3.7\times200=740$; $0.18\times8.45=1.521$; $4.5\times0.002=0.009$; $0.072\times0.15=0.0108$. $\blacksquare$
-
-## Exercise 40
-
-(Lesson: Decimal Multiplication, Practice 3, Review and Consolidation, Problem 2) Calculate conveniently: $0.78\times98$; $4.8\times0.25$; $0.5\times2.33\times8$; $56\times1.25$; $1.2\times2.5+0.8\times2.5$; $0.8\times0.25\times0.4\times12.5$.
-
-### Solution to Exercise 40
-
-By **Definition 9.2.5 (Operation Laws Extended)**: $0.78\times98=0.78\times\left(100-2\right)=78-1.56=76.44$; $4.8\times0.25=1.2\times4\times0.25=1.2$; $0.5\times2.33\times8=0.5\times8\times2.33=9.32$; $56\times1.25=7\times8\times1.25=70$; $1.2\times2.5+0.8\times2.5=\left(1.2+0.8\right)\times2.5=5$; $0.8\times0.25\times0.4\times12.5=\left(0.8\times12.5\right)\times\left(0.25\times0.4\right)=10\times0.1=1$. $\blacksquare$
-
-## Exercise 41
-
-(Lesson: Decimal Multiplication, Practice 3, Review and Consolidation, Problem 3) Recycling $1$ t of waste paper protects $17$ trees; how many trees does recycling $54.5$ t protect?
-
-### Solution to Exercise 41
-
-$17\times54.5=926.5\approx927$ trees. $\blacksquare$
-
-## Exercise 42
-
-(Lesson: Decimal Multiplication, Practice 3, Integrated Use, Problem 1) The total length of the Hong Kong-Zhuhai-Macau Bridge is $1.6$ times that of the East Sea Bridge ($32.5$ km) plus $3$ km; what is the total length of the Hong Kong-Zhuhai-Macau Bridge?
-
-### Solution to Exercise 42
-
-$32.5\times1.6+3=52+3=55$ km. $\blacksquare$
-
-## Exercise 43
-
-(Lesson: Decimal Multiplication, Practice 3, Integrated Use, Problem 2) A sika deer is $1.46$ m tall, and a giraffe is $3.5$ times as tall. How tall is the giraffe? How much shorter is the sika deer?
-
-### Solution to Exercise 43
-
-Giraffe: $1.46\times3.5=5.11$ m. Shorter by: $5.11-1.46=3.65$ m. $\blacksquare$
-
-## Exercise 44
-
-(Lesson: Decimal Multiplication, Practice 3, Extension and Improvement) Use a calculator to find the pattern: $3.3\times6.7$; $3.33\times66.7$; $3.333\times666.7$; $3.3333\times6666.7$.
-
-### Solution to Exercise 44
-
-$3.3\times6.7=22.11$; $3.33\times66.7=222.111$; $3.333\times666.7=2222.1111$; $3.3333\times6666.7=22222.11111$. Pattern: the integer part gains one more $2$ and the decimal part one more $1$. $\blacksquare$
-
-## Exercise 45
-
-(Lesson: Solving Problems, Estimation, Example) Mom has $100$ yuan for shopping: $2$ bags of rice at $30.98$ yuan each, and $0.8$ kg of meat at $26.48$ yuan per kg. Is the remaining money enough for a $10$-yuan box of eggs? For a $20$-yuan box?
-
-### Solution to Exercise 45
-
-By **Definition 9.2.6 (Estimation)**, estimating upward: $31\times2+27\times0.8=62+21.6=83.6< 89$, so the actual total is less than $89$ yuan; estimating downward: $30\times2+25\times0.8=60+20=80$, so the actual total is more than $80$ yuan. The remaining money is between $11$ and $20$ yuan, enough for the $10$-yuan eggs but not the $20$-yuan eggs. $\blacksquare$
-
-## Exercise 46
-
-(Lesson: Solving Problems, Tiered Billing, Example) A taxi charges $8$ yuan for $3$ km and within, and $1.5$ yuan per km beyond $3$ km (less than $1$ km billed as $1$ km). How much for a $6.3$ km ride?
-
-### Solution to Exercise 46
-
-By **Definition 9.2.7 (Tiered Billing)**, $6.3$ km is billed as $7$ km, and the excess is $7-3=4$ km. Cost $=8+1.5\times4=8+6=14$ yuan. $\blacksquare$
-
-## Exercise 47
-
-(Lesson: Solving Problems, Try It, Problem 1) Is $40$ yuan enough for all the following: milk $2.40$ yuan, pure milk $5.70$ yuan, bread $1.85$ yuan, drink $3.60$ yuan, ham sausage $6.60$ yuan, etc.?
-
-### Solution to Exercise 47
-
-By **Definition 9.2.6 (Estimation)**, round each price upward: $3+6+2+4+7=22$ yuan; $22< 40$, so enough. $\blacksquare$
-
-## Exercise 48
-
-(Lesson: Solving Problems, Try It, Problem 2) Tap water is billed in tiers: within $12$ t, $2.5$ yuan per ton; beyond $12$ t, $3.8$ yuan per ton. (1) Xiao Yun's family used $11$ t; how much? (2) Xiao Ke's family used $17$ t; how much?
-
-### Solution to Exercise 48
-
-By **Definition 9.2.7 (分段计费)**: (1) $11< 12$, $11\times2.5=27.5$ yuan. (2) $12\times2.5+\left(17-12\right)\times3.8=30+19=49$ yuan. $\blacksquare$
-
-## Exercise 49
-
-(Lesson: Decimal Multiplication, Practice 4, Review and Consolidation, Problem 1) Calculate: $54.9\times0.38$; $4.05+37.85$; $1.25\times0.7\times0.8$; $9.8\times25$; $6.1\times3.6+3.6\times3.9$; $2.96\times40$.
-
-### Solution to Exercise 49
-
-By **Definition 9.2.2 (小数乘小数)** and **Definition 9.2.5 (Operation Laws Extended)**: $54.9\times0.38=20.862$; $4.05+37.85=41.9$; $1.25\times0.7\times0.8=1.25\times0.8\times0.7=0.7$; $9.8\times25=\left(10-0.2\right)\times25=250-5=245$; $6.1\times3.6+3.6\times3.9=3.6\times\left(6.1+3.9\right)=36$; $2.96\times40=118.4$. $\blacksquare$
-
-## Exercise 50
-
-(Lesson: Decimal Multiplication, Practice 4, Integrated Use, Problem 1) A room is $8.1$ m long and $5.2$ m wide, to be tiled with $0.6$ m square tiles; are $100$ tiles enough? (Ignore waste.)
-
-### Solution to Exercise 50
-
-Room area $8.1\times5.2=42.12$ m$^2$. Each tile $0.6\times0.6=0.36$ m$^2$; $100$ tiles total $36$ m$^2< 42.12$ m$^2$, so not enough. $\blacksquare$
-
-## Exercise 51
-
-(Lesson: Decimal Multiplication, Practice 4, Extension and Improvement, Problem 1) A grade-1 energy-efficient fridge uses $0.54$ kWh per day and a grade-3 fridge $0.69$ kWh per day; electricity costs $0.5$ yuan per kWh. (1) What is a month's ($30$ days) electricity cost for the grade-3 fridge? (2) For the grade-1 fridge?
-
-### Solution to Exercise 51
-
-(1) $0.69\times30\times0.5=10.35$ yuan. (2) $0.54\times30\times0.5=8.1$ yuan. $\blacksquare$
-
-## Exercise 52
-
-(Lesson: Decimal Multiplication, Practice 4, Extension and Improvement, Problem 2) The result of $1.\square2\times5.3$ might be ( ): A. $7.526$; B. $0.996$; C. $11.176$; D. $7.562$.
-
-### Solution to Exercise 52
-
-By **Definition 9.2.2 (小数乘小数)**, $1.\square2\times5.3$ has three decimal places, ruling out B ($0.996< 1\times5.3=5.3$, too small). Estimate the range: $1.02\times5.3=5.406$, $1.92\times5.3=10.176$. A $7.526$ ends in $6=2\times3$, correct; D $7.562$ ends in $2\neq2\times3=6$, wrong. Choose A or C; substituting to check: $1.42\times5.3=7.526$, choose A. $\blacksquare$
+By **Definition 7.2.1 (Estimation by Sampling)**: weigh $100$ grains of rice, about $2$ g, so $1$ hundred-million grains weigh $2\times1000000=2000000$ g $=2$ t; $1$ hundred-million seconds $\approx100000000\div3600\approx27778$ hours $\approx1157$ days $\approx3.2$ years. $1$ hundred-million is a very large number. $\blacksquare$

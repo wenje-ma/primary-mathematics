@@ -1,477 +1,215 @@
 # week39
-> **Definition 5.8.1 (分数的初步认识)**
+> **Definition 4.4.1 (计数单位的十进关系)**
 > 
-> 把一个物体平均分成若干份, 其中的一份是几分之一, 几份是几分之几. 分数中间的横线叫分数线, 下面的数叫分母 (表示平均分成几份), 上面的数叫分子 (表示取了几份).
-> **Definition 5.8.2 (分数的大小比较)**
+> 一个一个地数, $10$ 个一是十; 十个十个地数, $10$ 个十是一百; $10$ 个一百是一千; $10$ 个一千是一万. 个 (一), 十, 百, 千, 万都是计数单位, 相邻两个间都是 $10$ 倍.
+> **Definition 4.4.2 (数位与数位顺序)**
 > 
-> 分母相同的分数, 分子大的分数大; 分子相同的分数, 分母大的反而小 (平均分的份数越多, 每份就越小).
-> **Definition 5.8.3 (同分母分数的加减法)**
+> 从右边起依次是个位, 十位, 百位, 千位, 万位 $\cdots\cdots$ 哪一位上是几, 就表示有几个这样的计数单位. 如百位上的 $5$ 表示 $5$ 个百.
+> **Definition 4.4.3 (万以内数的读法)**
 > 
-> 同分母分数相加减, 分母不变, 分子相加减. $1$ 可以写成分子, 分母相同的分数, 如 $1=\frac{4}{4}$.
-> **Definition 5.8.4 (求一个数的几分之几)**
+> 从高位读起, 按数位顺序读: 千位是几读几千, 百位是几读几百 $\cdots\cdots$ 中间有一个 $0$ 或两个 $0$, 只读一个零; 末尾不管有几个 $0$, 都不读.
+> **Definition 4.4.4 (万以内数的写法)**
 > 
-> 求一个数的几分之一, 把这个数平均分成分母那么多份, 求出一份; 求几分之几, 再用一份的数乘分子.
+> 从高位写起, 按数位顺序写: 几千就在千位写几, 几百就在百位写几 $\cdots\cdots$ 中间或末尾哪一位上一个也没有, 就在那一位上写 $0$.
+> **Definition 4.4.5 (比较万以内数的大小)**
+> 
+> 位数不同, 位数多的数大; 位数相同, 从最高位比起, 最高位上数大的那个就大, 最高位相同就比下一位, 直到比出大小.
+> **Definition 4.4.6 (近似数与约等号)**
+> 
+> 生活中有时不用准确数而用近似数. 接近整千, 整百的数可写成近似数, 用约等号 $\approx$ 连接, 读作约等于. 如 $6988\approx7000$, $7000$ 是 $6988$ 的近似数.
+> **Definition 4.5.1 (万以内加法笔算)**
+> 
+> 列竖式加法时, 相同数位对齐, 从个位加起; 哪一位上的数相加满十, 就向前一位进 $1$. 相同数位对齐是为了相同计数单位的个数相加.
+> **Definition 4.5.2 (万以内减法笔算)**
+> 
+> 列竖式减法时, 相同数位对齐, 从个位减起; 哪一位上的数不够减, 就从前一位退 $1$, 在本位上加 $10$ 再减.
+> **Definition 4.5.3 (加法各部分间的关系)**
+> 
+> 把两个数合并成一个数的运算叫加法. 和 $=$ 加数 $+$ 加数, 加数 $=$ 和 $-$ 另一个加数.
+> **Definition 4.5.4 (减法各部分间的关系)**
+> 
+> 已知两个加数的和与其中一个加数, 求另一个加数的运算叫减法, 减法是加法的逆运算. 差 $=$ 被减数 $-$ 减数, 减数 $=$ 被减数 $-$ 差, 被减数 $=$ 减数 $+$ 差.
 
-## Exercise 211
+## Exercise 1
 
-(Lesson: One Over Some Number — Example 1) Divide a mooncake into two equal parts; each part is half of the mooncake. How is this written?
+(Lesson: Approximate Numbers and Add/Subtract, Practice) Which digits can go in the $\square$? $2317> 2\square17$; $999< \square6000$.
 
-### Solution to Exercise 211
+### Solution to Exercise 1
 
-By **Definition 5.8.1 (An Initial Look at Fractions)**, each part is one half of the mooncake, written $\frac{1}{2}$. Half a mooncake is also $\frac{1}{2}$ of a mooncake. $\blacksquare$
+For $2317> 2\square17$, the thousands, ones, and tens are the same, so the hundreds must be smaller than $3$; fill $0,1,2$. For $999< \square6000$, $999$ is three-digit and the right side is four-digit, so the thousands place cannot be $0$; any of $1\sim9$ works. $\blacksquare$
 
-## Exercise 212
+## Exercise 2
 
-(Lesson: One Over Some Number — Do It Yourself) Fold and color sheets of paper of different shapes to show their $\frac{1}{2}$. Why can the colored parts, though different in shape, all represent $\frac{1}{2}$?
+(Lesson: Organization and Review) Review: on the basis of ones, tens, and hundreds we also learned thousands and ten-thousands; by adding new places, the digits $0\sim9$ can stand for many numbers; comparing numbers up to ten thousand works the same as within a hundred. Show your knowledge map to everyone.
 
-### Solution to Exercise 212
+### Solution to Exercise 2
 
-By **Definition 5.8.1 (分数的初步认识)**, as long as the figure is folded into $2$ equal parts and $1$ part is colored, the colored part is $\frac{1}{2}$ of the figure. It does not matter that the shapes differ; the key is equal division. $\blacksquare$
+Organize by the place-value table (ten-thousands, thousands, hundreds, tens, ones; ten-thousand, thousand, hundred, ten, one), marking "$10$ ones are ten $\cdots\cdots$ $10$ thousands are ten-thousand", and carry $1$ to the next place when ten is reached. $\blacksquare$
 
-## Exercise 213
+## Exercise 3
 
-(Lesson: One Over Some Number — Example 2) Divide a mooncake into $4$ equal parts; what fraction of the mooncake is each part?
+(Lesson: Organization and Review, Practice) Match: six thousand three, six thousand thirty-three, six thousand three hundred, six thousand three hundred three with $6300,6003,6033,6303$.
 
-### Solution to Exercise 213
+### Solution to Exercise 3
 
-By **Definition 5.8.1 (分数的初步认识)**, each part is $\frac{1}{4}$ of the mooncake, i.e. $\frac{1}{4}$ of a mooncake. $\blacksquare$
+Six thousand three is $6003$; six thousand thirty-three is $6033$; six thousand three hundred is $6300$; six thousand three hundred three is $6303$. Connect them. $\blacksquare$
 
-## Exercise 214
+## Exercise 4
 
-(Lesson: Names of the Parts of a Fraction) Say the names of the parts of $\frac{1}{2}$ and how it is read.
+(Lesson: Organization and Review, Practice) Fill the $\bigcirc$ with $> $ or $< $: $1020\bigcirc999$, $398\bigcirc402$, $5940\bigcirc5230$.
 
-### Solution to Exercise 214
+### Solution to Exercise 4
 
-By **Definition 5.8.1 (分数的初步认识)**, the horizontal bar in the middle of $\frac{1}{2}$ is the fraction bar, $2$ is the denominator, $1$ is the numerator, and it is read as "one half". $\blacksquare$
+By **Definition 4.4.5 (比较万以内数的大小)**, $1020> 999$ (four-digit is greater than three-digit); $398< 402$; $5940> 5230$ (thousands equal, compare hundreds, $9> 2$). $\blacksquare$
 
-## Exercise 215
+## Exercise 5
 
-(Lesson: Try It) Use your own method to represent $\frac{1}{3}$ and $\frac{1}{5}$.
+(Lesson: Organization and Review, Practice) Lay the $0\sim9$ digit cards face down; each person turns over four to make a four-digit number, and compare who made the larger one. For example I make $8530$, you make $7421$.
 
-### Solution to Exercise 215
+### Solution to Exercise 5
 
-By **Definition 5.8.1 (分数的初步认识)**, divide a figure into $3$ equal parts and color $1$ part to show $\frac{1}{3}$; divide into $5$ equal parts and color $1$ part to show $\frac{1}{5}$. $\blacksquare$
+By **Definition 4.4.5 (比较万以内数的大小)**, compare: both four-digit, compare from the thousands, $8> 7$, so $8530> 7421$. When making a number, put the larger digits in the higher places to make it larger. $\blacksquare$
 
-## Exercise 216
+## Exercise 6
 
-(Lesson: Do It Yourself) What fraction of the whole figure is the colored part in each figure below? Express it as a fraction.
+(Lesson: Organization and Review, Practice) Make a spinner with discs marked $1,10,100,1000$; each person spins ten times, records the number each spin points to, adds them up, and the larger sum wins.
 
-### Solution to Exercise 216
+### Solution to Exercise 6
 
-By **Definition 5.8.1 (分数的初步认识)**, take the total number of equal parts as the denominator and the number of colored parts as the numerator; for example, divided into $3$ equal parts with $1$ colored gives $\frac{1}{3}$. Fill in according to each figure. $\blacksquare$
+Draw a table to record how many times $1,10,100,1000$ are spun, then add by counting units for the total, and compare the two. Record clearly so it can be compared. $\blacksquare$
 
-## Exercise 217
+## Exercise 7
 
-(Lesson: Do It Yourself) You drank $\frac{1}{2}$ of a cup of juice; what fraction of a cup is left?
+(Lesson: Organization and Review, Practice) (1) Write the largest and smallest three-digit numbers. (2) Write the largest and smallest four-digit numbers.
 
-### Solution to Exercise 217
+### Solution to Exercise 7
 
-Take a cup of juice as $1$; having drunk $\frac{1}{2}$, what remains is $1-\frac{1}{2}=\frac{1}{2}$ cup. $\blacksquare$
+The largest three-digit number is $999$ and the smallest is $100$; the largest four-digit number is $9999$ and the smallest is $1000$. $\blacksquare$
 
-## Exercise 218
+## Exercise 8
 
-(Lesson: Do It Yourself) $\frac{1}{4}$ is part of a figure; what shape might this figure be? Draw it on grid paper.
+(Lesson: Organization and Review, Practice) May Day holiday attendance at the planetarium: month $5$, day $1$ $7035$ people, day $2$ $6892$ people, day $3$ $4201$ people. (1) Which round thousand is each day close to? (2) About how many thousand more on the busiest day than the quietest?
 
-### Solution to Exercise 218
+### Solution to Exercise 8
 
-By **Definition 5.8.1 (分数的初步认识)**, just put together $3$ more equal parts with the drawn part to form an evenly divided figure. The shape is not unique. $\blacksquare$
+(1) $7035\approx7000$, $6892\approx7000$, $4201\approx4000$. (2) Most is $7035$, least is $4201$, $7000-4000=3000$, about $3000$ more people. $\blacksquare$
 
-## Exercise 219
+## Exercise 9
 
-(Lesson: Some Number Over That Number — Count) Divide $1$ decimeter into $10$ equal parts; what fraction of a decimeter is each part?
+(Lesson: Organization and Review, Practice) Fill the $\square$: $9007=\square+\square$; $1640=1000+\square+\square$; $6085=\square+\square+\square$; $2831=\square+\square+\square+\square$.
 
-### Solution to Exercise 219
+### Solution to Exercise 9
 
-Each part is $1$ centimeter, which is $\frac{1}{10}$ of $1$ decimeter, i.e. $\frac{1}{10}$ decimeter. $\blacksquare$
+$9007=9000+7$; $1640=1000+600+40$; $6085=6000+80+5$; $2831=2000+800+30+1$. $\blacksquare$
 
-## Exercise 220
+## Exercise 10
 
-(Lesson: Some Number Over That Number — Count) How many cups is $\frac{1}{5}$ of $1$ cup of juice? What are $2$ of the $\frac{1}{5}$ cups? What about $3$ or $4$ of them?
+(Lesson: Organization and Review, Practice) Fill the $\square$ with a suitable digit: $52\square6< 861$; $5265> \square86$; $1000> \square99$; $362> \square79$; $710> 7\square$; $145< \square53$.
 
-### Solution to Exercise 220
+### Solution to Exercise 10
 
-$1$ of the $\frac{1}{5}$ cups is $\frac{1}{5}$ cup; $2$ of the $\frac{1}{5}$ cups is $\frac{2}{5}$ cups; $3$ of the $\frac{1}{5}$ cups is $\frac{3}{5}$ cups; $4$ of the $\frac{1}{5}$ cups is $\frac{4}{5}$ cups. $\blacksquare$
+Compare digit by digit per **Definition 4.4.5 (比较万以内数的大小)**; for example $52\square6$ is four-digit and greater than $861$, so any digit works; for $1000> \square99$, the right side is three-digit, so $\square$ is $1\sim9$; fill suitable digits per place for the rest; the answer is not unique. $\blacksquare$
 
-## Exercise 221
+## Exercise 11
 
-(Lesson: Simple Fraction Calculations — Example) Of a watermelon, the younger brother ate $\frac{1}{8}$ and the older brother ate $\frac{2}{8}$. (1) What fraction did the two eat altogether? (2) How much more did the older brother eat than the younger one?
+(Lesson: Organization and Review, Practice) On a counter, use $10$ beads to show a number; what is the largest such number? The smallest?
 
-### Solution to Exercise 221
+### Solution to Exercise 11
 
-By **Definition 5.8.3 (Adding and Subtracting Fractions with the Same Denominator)**: (1) $\frac{1}{8}+\frac{2}{8}=\frac{3}{8}$; (2) $\frac{2}{8}-\frac{1}{8}=\frac{1}{8}$. $\blacksquare$
+For the largest, put the $10$ beads as high as possible: $9$ in the thousands place and the remaining $1$ in the hundreds, giving $9100$; for the smallest, keep the high places low: $1$ in the thousands and put the rest as low as possible, $9$ in the ones, giving $1009$. $\blacksquare$
 
-## Exercise 222
+## Exercise 12
 
-(Lesson: Simple Fraction Calculations — Do It Yourself) Compute: $\frac{2}{7}+\frac{2}{7}$; $\frac{1}{2}+\frac{1}{2}$; $\frac{5}{6}-\frac{1}{6}$; $\frac{8}{9}-\frac{7}{9}$; $\frac{4}{5}-\frac{2}{5}$; $\frac{1}{5}+\frac{3}{5}$.
+(Lesson: Addition, Do It) Compute in vertical form: $813+360$, $820+263$, $376+475$.
 
-### Solution to Exercise 222
+### Solution to Exercise 12
 
-By **Definition 5.8.3 (同分母分数的加减法)**: $\frac{2}{7}+\frac{2}{7}=\frac{4}{7}$; $\frac{1}{2}+\frac{1}{2}=1$; $\frac{5}{6}-\frac{1}{6}=\frac{4}{6}$; $\frac{8}{9}-\frac{7}{9}=\frac{1}{9}$; $\frac{4}{5}-\frac{2}{5}=\frac{2}{5}$; $\frac{1}{5}+\frac{3}{5}=\frac{4}{5}$. $\blacksquare$
+By **Definition 4.5.1 (Written Addition within Ten Thousand)**, align the places and add from the ones: $813+360=1173$; $820+263=1083$; $376+475=851$ (continuous carry from the tens to the hundreds). $\blacksquare$
 
-## Exercise 223
+## Exercise 13
 
-(Lesson: Simple Fraction Calculations — Example) Of a sheet of colored paper, $\frac{3}{4}$ has been used; what fraction of it remains?
+(Lesson: Addition, Do It) Compute in vertical form: $536+82$, $83+765$, $524+65$.
 
-### Solution to Exercise 223
+### Solution to Exercise 13
 
-By **Definition 5.8.3 (同分母分数的加减法)**, take $1$ as $\frac{4}{4}$; $\frac{4}{4}-\frac{3}{4}=\frac{1}{4}$. What remains is $\frac{1}{4}$. $\blacksquare$
+$536+82=618$; $83+765=848$; $524+65=589$. $\blacksquare$
 
-## Exercise 224
+## Exercise 14
 
-(Lesson: Simple Fraction Calculations — Do It Yourself) Calculate from the figure: ( )+( )=( ); ( )-( )=( ).
+(Lesson: Addition, Do It) Compute in vertical form: $26+145$, $789+603$, $438+527$.
 
-### Solution to Exercise 224
+### Solution to Exercise 14
 
-By **Definition 5.8.3 (同分母分数的加减法)**, add or subtract the colored parts in the figure, keeping the denominator unchanged and adding or subtracting the numerators. Fill in according to the figure. $\blacksquare$
+$26+145=171$; $789+603=1392$; $438+527=965$. $\blacksquare$
 
-## Exercise 225
+## Exercise 15
 
-(Lesson: Simple Fraction Calculations — Do It Yourself) A bottle of juice is poured into $5$ cups; $3$ children and $2$ elderly people each drink $1$ cup. (1) What fraction of the bottle did each person drink? (2) How much more of a bottle did the children drink than the elderly?
+(Lesson: Addition, Try It) Can $6432+1595$ also be computed by the method above?
 
-### Solution to Exercise 225
+### Solution to Exercise 15
 
-(1) Each person drank $\frac{1}{5}$ of the bottle. (2) The children drank $\frac{3}{5}$ of the bottle, the elderly drank $\frac{2}{5}$, which is $\frac{3}{5}-\frac{2}{5}=\frac{1}{5}$ of a bottle more. $\blacksquare$
+Yes, the method is the same: align the places, add from the ones, and carry $1$ at ten. $6432+1595=8027$. $\blacksquare$
 
-## Exercise 226
+## Exercise 16
 
-(Lesson: Simple Fraction Calculations — Do It Yourself) Lingling used $\frac{7}{10}$ of a colored cord to braid a Chinese knot and the rest to braid a bracelet. What fraction was used for the bracelet? How much less than the Chinese knot?
+(Lesson: Addition, Do It) First check whether the calculations below carry, and how many carries, then compute: $165+409$, $78+694$, $98+467$, $285+715$.
 
-### Solution to Exercise 226
+### Solution to Exercise 16
 
-$1-\frac{7}{10}=\frac{3}{10}$; $\frac{7}{10}-\frac{3}{10}=\frac{4}{10}$. The bracelet used $\frac{3}{10}$, which is $\frac{4}{10}$ less than the Chinese knot. $\blacksquare$
+$165+409=574$ ($1$ carry at the ones); $78+694=772$ ($2$ carries); $98+467=565$ ($2$ carries); $285+715=1000$ ($3$ continuous carries). $\blacksquare$
 
-## Exercise 227
+## Exercise 17
 
-(Lesson: Practice 15, Problem 1) Express the colored part of each figure as a fraction, then compare the sizes in each group.
+(Lesson: Addition, Do It) Compute in vertical form and check: $485+851$, $636+78$, $714+499$.
 
-### Solution to Exercise 227
+### Solution to Exercise 17
 
-By **Definition 5.8.2 (Comparing the Sizes of Fractions)**, with the same denominator the fraction with the larger numerator is larger. Write the fractions first, then compare. $\blacksquare$
+$485+851=1336$; $636+78=714$; $714+499=1213$. Swap the two addends and recompute to check. $\blacksquare$
 
-## Exercise 228
+## Exercise 18
 
-(Lesson: Practice 15, Problem 2) Can the fractions below represent the colored part of each figure? Draw √ if yes and × if no: $\frac{1}{2}$, $\frac{1}{3}$, $\frac{1}{5}$, $\frac{1}{4}$.
+(Lesson: Addition, Practice) A Beijing-to-Zhengzhou high-speed rail ticket costs $341$ yuan, and a plane ticket is $269$ yuan more than the rail; how much is the plane ticket?
 
-### Solution to Exercise 228
+### Solution to Exercise 18
 
-By **Definition 5.8.1 (分数的初步认识)**, only an evenly divided colored part can be represented by a fraction. Draw × for those that are not evenly divided. $\blacksquare$
+$341+269=610$ yuan. The plane ticket is $610$ yuan. $\blacksquare$
 
-## Exercise 229
+## Exercise 19
 
-(Lesson: Practice 15, Problem 3) You have already cut out $\frac{1}{2}$ of a colored sheet; complete the whole sheet.
+(Lesson: Addition, Practice) Tingting's home is $475$ meters from school, Lili's home is $385$ meters from school, and the three places are on one road; how far apart are Tingting's and Lili's homes?
 
-### Solution to Exercise 229
+### Solution to Exercise 19
 
-By **Definition 5.8.1 (分数的初步认识)**, add the other half, equal in size to the existing part, so that the whole sheet is divided into $2$ equal parts. $\blacksquare$
+Tingting's and Lili's homes are on opposite sides of the school, $475+385=860$ meters. (If on the same side, subtract; per the picture they are on opposite sides.) $\blacksquare$
 
-## Exercise 230
+## Exercise 20
 
-(Lesson: Practice 15, Problem 4) Color to represent the fractions below each figure: $\frac{2}{5}$, $\frac{4}{9}$.
+(Lesson: Addition, Practice) Compute in vertical form: $356+475$, $372+857$, $295+748$, $650+430$, $570+340$, $592+230$.
 
-### Solution to Exercise 230
+### Solution to Exercise 20
 
-By **Definition 5.8.1 (分数的初步认识)**, divide into $5$ equal parts and color $2$ to show $\frac{2}{5}$; divide into $9$ equal parts and color $4$ to show $\frac{4}{9}$. $\blacksquare$
+$356+475=831$; $372+857=1229$; $295+748=1043$; $650+430=1080$; $570+340=910$; $592+230=822$. $\blacksquare$
 
-## Exercise 231
+## Exercise 21
 
-(Lesson: Practice 15, Problem 5) Express the colored and uncolored parts of each figure as fractions.
+(Lesson: Addition, Practice) Compute in vertical form and check: $745+129$, $838+172$, $687+225$, $736+279$, $459+635$, $656+172$.
 
-### Solution to Exercise 231
+### Solution to Exercise 21
 
-By **Definition 5.8.1 (分数的初步认识)**, take the total number of parts as the denominator, the colored parts as the numerator, and the uncolored parts also as a numerator. Fill in according to the figure. $\blacksquare$
+$745+129=874$; $838+172=1010$; $687+225=912$; $736+279=1015$; $459+635=1094$; $656+172=828$. Check by swapping the addends. $\blacksquare$
 
-## Exercise 232
+## Exercise 22
 
-(Lesson: Practice 15, Problem 6) Compare: $\frac{5}{9}$ and $\frac{4}{9}$, and so on.
+(Lesson: Addition, Practice) Grades 2–3 voted on favorite books: literature $258$ votes, science $336$ votes, history $189$ votes. (1) How many in all like literature and science books? (2) Raise other math problems and solve them.
 
-### Solution to Exercise 232
+### Solution to Exercise 22
 
-By **Definition 5.8.2 (分数的大小比较)**, with the same denominator the larger numerator is larger, for example $\frac{5}{9}> \frac{4}{9}$. $\blacksquare$
+(1) $258+336=594$ people. (2) For example science and history together: $336+189=525$ people. The answer is not unique. $\blacksquare$
 
-## Exercise 233
+## Exercise 23
 
-(Lesson: Practice 15, Problem 7) Blackboard-newspaper layout: "Works Display", "World of Science", "Historical Stories", "Famous Quotations" — what fraction of the board does each occupy?
+(Lesson: Addition, Practice) Match: $252+743$, $630+180$, $236+374$, $178+273$, $547+169$ with $610,716,810,995,451$.
 
-### Solution to Exercise 233
+### Solution to Exercise 23
 
-By **Definition 5.8.1 (分数的初步认识)**, look at how many equal parts the board is divided into; for example, divided into $2$ equal parts gives $\frac{1}{2}$ each, and into $4$ gives $\frac{1}{4}$ each. Estimate according to the figure. $\blacksquare$
-
-## Exercise 234
-
-(Lesson: Practice 15, Problem 8) Write the fractions from the figure, then compare the sizes in each group.
-
-### Solution to Exercise 234
-
-By **Definition 5.8.2 (分数的大小比较)**, write the fractions first, then compare: for the same denominator look at the numerator, for the same numerator look at the denominator. Fill in $\left(\ \right)< \left(\ \right)$ according to the figure. $\blacksquare$
-
-## Exercise 235
-
-(Lesson: Practice 15, Problem 9) A cake is divided into several equal pieces; Xiaoming eats $2$ pieces, Mom eats $3$ pieces, Dad eats $4$ pieces. How many pieces are left? What fraction of the cake is each?
-
-### Solution to Exercise 235
-
-Suppose it is divided into $10$ equal pieces: Xiaoming $\frac{2}{10}$, Mom $\frac{3}{10}$, Dad $\frac{4}{10}$, and the $1$ remaining piece is $\frac{1}{10}$. Fill in according to the actual total number of pieces in the figure. $\blacksquare$
-
-## Exercise 236
-
-(Lesson: Practice 15, Problem 10) Tell a short math story based on the figure.
-
-### Solution to Exercise 236
-
-Just make up a story about fractions; for example, a pie is divided evenly and two brothers each eat some fraction of it. $\blacksquare$
-
-## Exercise 237
-
-(Lesson: Practice 15, Problem 11, Challenge Problem) What fraction of the whole figure is the colored part?
-
-### Solution to Exercise 237
-
-Re-divide the figure into equal parts and count how many parts the colored portion occupies. Fill in according to the figure. $\blacksquare$
-
-## Exercise 238
-
-(Lesson: Practice 16, Problem 1) Calculate from the figure.
-
-### Solution to Exercise 238
-
-By **Definition 5.8.3 (同分母分数的加减法)**, to add or subtract fractions with the same denominator, keep the denominator unchanged and add or subtract the numerators. Fill in according to the figure. $\blacksquare$
-
-## Exercise 239
-
-(Lesson: Practice 16, Problem 2) Compute: $\frac{7}{9}+\frac{2}{9}$; $\frac{6}{6}-\frac{1}{6}$; $\frac{9}{9}-\frac{4}{9}$; the $\frac{7}{5}$ series; $\frac{4}{6}-\frac{3}{6}$; $\frac{1}{7}+\frac{4}{7}$; $\frac{8}{8}-\frac{4}{8}$; $\frac{2}{3}+\frac{1}{3}$; $\frac{7}{10}+\frac{3}{10}$; $\frac{8}{5}+\frac{2}{5}$; $\frac{4}{9}-\frac{1}{9}$.
-
-### Solution to Exercise 239
-
-By **Definition 5.8.3 (同分母分数的加减法)**: $\frac{7}{9}+\frac{2}{9}=1$; $\frac{6}{6}-\frac{1}{6}=\frac{5}{6}$; $\frac{9}{9}-\frac{4}{9}=\frac{5}{9}$; $\frac{4}{6}-\frac{3}{6}=\frac{1}{6}$; $\frac{1}{7}+\frac{4}{7}=\frac{5}{7}$; $\frac{8}{8}-\frac{4}{8}=\frac{4}{8}$; $\frac{2}{3}+\frac{1}{3}=1$; $\frac{7}{10}+\frac{3}{10}=1$; $\frac{8}{5}+\frac{2}{5}=2$; $\frac{4}{9}-\frac{1}{9}=\frac{3}{9}$. $\blacksquare$
-
-## Exercise 240
-
-(Lesson: Practice 16, Problem 3) Of a chocolate bar, the younger sister ate $\frac{1}{8}$ and the older sister ate $\frac{3}{8}$. What fraction did the two eat altogether? How much less did the younger sister eat than the older one?
-
-### Solution to Exercise 240
-
-Altogether $\frac{1}{8}+\frac{3}{8}=\frac{4}{8}$; the lesser amount is $\frac{3}{8}-\frac{1}{8}=\frac{2}{8}$. $\blacksquare$
-
-## Exercise 241
-
-(Lesson: Practice 16, Problem 4) Of the pedal boats in the park, $\frac{2}{3}$ are two-person boats and the rest are four-person boats. What fraction are four-person boats?
-
-### Solution to Exercise 241
-
-$1-\frac{2}{3}=\frac{1}{3}$. The four-person boats are $\frac{1}{3}$. $\blacksquare$
-
-## Exercise 242
-
-(Lesson: Practice 16, Problem 5) Fill in the numbers: (1) $\frac{\left(\ \right)}{5}+\frac{\left(\ \right)}{5}=\frac{4}{5}$; (2) $\frac{\left(\ \right)}{9}-\frac{\left(\ \right)}{9}=\frac{1}{9}$.
-
-### Solution to Exercise 242
-
-(1) The sum of the two numerators is $4$: $\frac{1}{5}+\frac{3}{5}=\frac{4}{5}$ (or $\frac{2}{5}+\frac{2}{5}$). (2) The difference of the two numerators is $1$: $\frac{5}{9}-\frac{4}{9}=\frac{1}{9}$, and so on. Answers may vary. $\blacksquare$
-
-## Exercise 243
-
-(Lesson: Practice 16, Problem 6) Of a vegetable plot, $\frac{1}{10}$ is planted with celery and $\frac{3}{10}$ with cabbage, and the rest with green beans. What fraction is green beans?
-
-### Solution to Exercise 243
-
-$1-\frac{1}{10}-\frac{3}{10}=\frac{6}{10}$. The green beans are $\frac{6}{10}$. $\blacksquare$
-
-## Exercise 244
-
-(Lesson: Practice 16, Problem 7) Tiles are being laid in an auditorium; $\frac{1}{5}$ is laid in the morning and $\frac{2}{5}$ in the afternoon. Raise a math question and answer it.
-
-### Solution to Exercise 244
-
-For example, what fraction is laid altogether: $\frac{1}{5}+\frac{2}{5}=\frac{3}{5}$; what fraction remains: $1-\frac{3}{5}=\frac{2}{5}$. $\blacksquare$
-
-## Exercise 245
-
-(Lesson: Practice 16, Problem 8) How many ways are there to fill in each expression?
-
-### Solution to Exercise 245
-
-Count the integer ways to add or subtract the numerators: when the sum (difference) of the numerators is fixed, the number of ways to choose the two numerators is the number of ways to fill it in. $\blacksquare$
-
-## Exercise 246
-
-(Lesson: Practice 16, Problem 9, Challenge Problem) Take a rectangular sheet and fold it in half, then fold it in half again; fill in the table: after $1,2,3,4$ folds, into how many equal parts is it divided? What fraction is each part? What pattern do you find?
-
-### Solution to Exercise 246
-
-After $1$ fold it is divided into $2$ parts, each $\frac{1}{2}$; after $2$ folds, $4$ parts, each $\frac{1}{4}$; after $3$ folds, $8$ parts, each $\frac{1}{8}$; after $4$ folds, $16$ parts, each $\frac{1}{16}$. Pattern: each fold doubles the number of parts and halves the size of each part. $\blacksquare$
-
-## Exercise 247
-
-(Lesson: Further Understanding of Fractions — Example) A box of apples is divided into $2$ equal parts; what fraction of a box is each part? A case of $24$ bottles of mineral water is divided into $3$ equal parts; what fraction is each part?
-
-### Solution to Exercise 247
-
-By **Definition 5.8.4 (Finding a Fraction of a Number)**, each part is $\frac{1}{2}$ box; of the $24$ bottles divided into $3$ equal parts, $1$ part is $\frac{1}{3}$ and has $24\div3=8$ bottles; $2$ parts is $\frac{2}{3}$ and has $16$ bottles. $\blacksquare$
-
-## Exercise 248
-
-(Lesson: Try It) Divide the $24$ bottles of mineral water into $6$ equal parts; what fraction is each of $1$ part, $2$ parts and $3$ parts? How many bottles are in each?
-
-### Solution to Exercise 248
-
-$1$ part is $\frac{1}{6}$, $24\div6=4$ bottles; $2$ parts is $\frac{2}{6}$, $8$ bottles; $3$ parts is $\frac{3}{6}$, $12$ bottles. $\blacksquare$
-
-## Exercise 249
-
-(Lesson: Do It Yourself) Express the colored part of each figure as a fraction.
-
-### Solution to Exercise 249
-
-By **Definition 5.8.1 (分数的初步认识)**, count the total number of parts and the colored parts, and take the colored parts as the numerator. Fill in according to the figure. $\blacksquare$
-
-## Exercise 250
-
-(Lesson: Do It Yourself) Fill in: (1) A box of erasers is divided into several equal parts; what fraction of a box is each part? (2) A pack of $10$ notebooks is divided into several equal parts; what fraction of a pack is each part?
-
-### Solution to Exercise 250
-
-Divide evenly according to the actual number in the box; for example, $12$ erasers can be divided into $2,3,4,6,12$ parts, and $10$ notebooks into $2,5,10$ parts, each part corresponding to the appropriate fraction. $\blacksquare$
-
-## Exercise 251
-
-(Lesson: Do It Yourself) There are $9$ circles; color $\frac{1}{3}$ of them red and $\frac{2}{3}$ blue.
-
-### Solution to Exercise 251
-
-By **Definition 5.8.4 (求一个数的几分之几)**, $9\div3=3$ circles, so $3$ are red and $3\times2=6$ are blue. $\blacksquare$
-
-## Exercise 252
-
-(Lesson: Do It Yourself) There are $10$ sticks; take out $\frac{2}{5}$ of them. How many sticks are taken out?
-
-### Solution to Exercise 252
-
-$10\div5=2$ sticks (each part), $2\times2=4$ sticks. $4$ sticks are taken out. $\blacksquare$
-
-## Exercise 253
-
-(Lesson: Solving Problems — Example) The model-airplane club has $12$ students; $\frac{1}{3}$ are girls and $\frac{2}{3}$ are boys. How many boys and girls are there?
-
-### Solution to Exercise 253
-
-By **Definition 5.8.4 (Finding a Fraction of a Number)**, the girls number $12\div3=4$ and the boys number $4\times2=8$. Check: $4+8=12$. $\blacksquare$
-
-## Exercise 254
-
-(Lesson: Solving Problems — Do It Yourself) The book corner has $45$ books, of which $\frac{4}{9}$ are storybooks. How many storybooks are there?
-
-### Solution to Exercise 254
-
-$45\div9=5$ books (each part), $5\times4=20$ books. There are $20$ storybooks. $\blacksquare$
-
-## Exercise 255
-
-(Lesson: Practice 17, Problem 1) Divide $8$ circles into $4$ equal parts. What fraction of the total is $1$ part, and how many circles are in it? What about $2$ parts?
-
-### Solution to Exercise 255
-
-$8\div4=2$ circles. $1$ part is $\frac{1}{4}$ with $2$ circles; $2$ parts is $\frac{2}{4}$ with $4$ circles. $\blacksquare$
-
-## Exercise 256
-
-(Lesson: Practice 17, Problem 2) Color to represent the $\frac{2}{5}$ below each figure.
-
-### Solution to Exercise 256
-
-By **Definition 5.8.1 (分数的初步认识)**, divide each figure into $5$ equal parts and color $2$ of them. Note that the total number differs between figures, so each part has a different count, but it is always $\frac{2}{5}$. $\blacksquare$
-
-## Exercise 257
-
-(Lesson: Practice 17, Problem 3) Divide and compare: how many is $\frac{3}{4}$ of these pineapples? How many is $\frac{3}{4}$ of these strawberries?
-
-### Solution to Exercise 257
-
-By **Definition 5.8.4 (求一个数的几分之几)**, the count is total $\div4\times3$. Calculate according to the total numbers of pineapples and strawberries in the figure. $\blacksquare$
-
-## Exercise 258
-
-(Lesson: Practice 17, Problem 4) The breeding group keeps $20$ rabbits, of which $\frac{1}{4}$ are black. How many black rabbits are there?
-
-### Solution to Exercise 258
-
-$20\div4=5$ rabbits. There are $5$ black rabbits. $\blacksquare$
-
-## Exercise 259
-
-(Lesson: Practice 17, Problem 5) A bag of flour is $25$ kilograms; $\frac{2}{5}$ has already been eaten. How many kilograms remain?
-
-### Solution to Exercise 259
-
-Each part is $25\div5=5$ kilograms; $5\times2=10$ kilograms are eaten, leaving $25-10=15$ kilograms. $\blacksquare$
-
-## Exercise 260
-
-(Lesson: Practice 17, Problem 6) In each figure, color to show its $\frac{3}{5}$.
-
-### Solution to Exercise 260
-
-By **Definition 5.8.1 (分数的初步认识)**, divide each figure into $5$ equal parts and color $3$. $\blacksquare$
-
-## Exercise 261
-
-(Lesson: Practice 17, Problem 7) The minute hand turns from "12" to various positions: how many hours and minutes are $6$ of the $\frac{1}{12}$ hours? What about $11$ of the $\frac{1}{12}$ hours?
-
-### Solution to Exercise 261
-
-The clock face is divided into $12$ large divisions, each $5$ minutes. $6$ of the $\frac{1}{12}$ hours is $\frac{6}{12}$ hour $=30$ minutes; $11$ of the $\frac{1}{12}$ hours is $\frac{11}{12}$ hour $=55$ minutes. $\blacksquare$
-
-## Exercise 262
-
-(Lesson: Practice 17, Problem 8) A plate of fish has $15$ fish; the white cat ate $\frac{1}{3}$ and the black cat ate $\frac{1}{5}$. Who ate more?
-
-### Solution to Exercise 262
-
-The white cat ate $15\div3=5$ fish, and the black cat $15\div5=3$ fish. $5> 3$, so the white cat ate more. $\blacksquare$
-
-## Exercise 263
-
-(Lesson: Practice 17, Problem 9) A rope is $63$ meters long; the first time $\frac{2}{7}$ of its length is used, and the second time $\frac{3}{7}$ of its length. How many meters are used in the two times?
-
-### Solution to Exercise 263
-
-Each part is $63\div7=9$ meters; the first time $9\times2=18$ meters, the second time $9\times3=27$ meters, for a total of $18+27=45$ meters. $\blacksquare$
-
-## Exercise 264
-
-(Lesson: Practice 18, Problem 1) Fill in "$> $" or "$< $": $\frac{2}{5}\bigcirc\frac{4}{5}$; $\frac{1}{4}\bigcirc\frac{1}{6}$; $\frac{7}{7}\bigcirc\frac{5}{7}$; $\frac{3}{20}\bigcirc\frac{7}{20}$.
-
-### Solution to Exercise 264
-
-By **Definition 5.8.2 (分数的大小比较)**: $\frac{2}{5}< \frac{4}{5}$; $\frac{1}{4}> \frac{1}{6}$; $\frac{7}{7}> \frac{5}{7}$; $\frac{3}{20}< \frac{7}{20}$. The figure shows four pairs of shaded fraction diagrams (each pair has two identical shapes divided into equal parts and shaded, representing $\frac{2}{5}$ vs $\frac{4}{5}$, $\frac{1}{4}$ vs $\frac{1}{6}$, $\frac{7}{7}$ vs $\frac{5}{7}$, and $\frac{3}{20}$ vs $\frac{7}{20}$), visually illustrating the comparisons above. $\blacksquare$
-
-## Exercise 265
-
-(Lesson: Practice 18, Problem 2) What fraction of the total is the colored part in each figure? How many in number?
-
-### Solution to Exercise 265
-
-By **Definition 5.8.4 (求一个数的几分之几)**, the total is divided into several equal parts; the fraction is the number of colored parts, and the count $=$ total $\div$ denominator $\times$ numerator. Fill in according to the figure. $\blacksquare$
-
-## Exercise 266
-
-(Lesson: Practice 18, Problem 3) Compute: $\frac{1}{4}+\frac{2}{4}$; $\frac{4}{5}-\frac{1}{5}$; $\frac{5}{7}-\frac{4}{7}$; $\frac{3}{8}+\frac{5}{8}$; $\frac{2}{7}+\frac{3}{7}$; $1-\frac{2}{9}$; $\frac{4}{6}+\frac{1}{6}$; $\frac{4}{6}-\frac{1}{6}$.
-
-### Solution to Exercise 266
-
-By **Definition 5.8.3 (同分母分数的加减法)**: $\frac{1}{4}+\frac{2}{4}=\frac{3}{4}$; $\frac{4}{5}-\frac{1}{5}=\frac{3}{5}$; $\frac{5}{7}-\frac{4}{7}=\frac{1}{7}$; $\frac{3}{8}+\frac{5}{8}=1$; $\frac{2}{7}+\frac{3}{7}=\frac{5}{7}$; $1-\frac{2}{9}=\frac{7}{9}$; $\frac{4}{6}+\frac{1}{6}=\frac{5}{6}$; $\frac{4}{6}-\frac{1}{6}=\frac{3}{6}$. $\blacksquare$
-
-## Exercise 267
-
-(Lesson: Practice 18, Problem 4) The chorus has $24$ students, of whom $\frac{1}{4}$ are boys. How many boys are there? What fraction are girls? How many girls?
-
-### Solution to Exercise 267
-
-The boys number $24\div4=6$; the girls are $1-\frac{1}{4}=\frac{3}{4}$; the girls number $6\times3=18$. $\blacksquare$
-
-## Exercise 268
-
-(Lesson: Practice 18, Problem 5) A self-driving trip covered $\frac{5}{10}$ of the whole route, and then another $\frac{3}{10}$ of the whole route. What fraction of the whole route remains?
-
-### Solution to Exercise 268
-
-Traveled so far: $\frac{5}{10}+\frac{3}{10}=\frac{8}{10}$; remaining: $1-\frac{8}{10}=\frac{2}{10}$. $\blacksquare$
+$252+743=995$; $630+180=810$; $236+374=610$; $178+273=451$; $547+169=716$. Connect them. $\blacksquare$

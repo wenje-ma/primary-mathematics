@@ -1,252 +1,160 @@
 # week101
-> **Definition 12.4.1 (圆柱的认识)**
+> **Definition 9.3.1 (除数是整数的小数除法)**
 > 
-> 圆柱由 $3$ 个面围成: 上, 下两个底面是大小完全相同的圆; 周围的面 (上, 下底面除外) 叫侧面, 是曲面; 两个底面之间的距离叫作高.
-> **Definition 12.4.2 (圆柱的侧面积与表面积)**
+> 按照整数除法的法则去除, 商的小数点要和被除数的小数点对齐; 如果除到被除数的末尾仍有余数, 就在余数后面添 $0$ 继续除; 整数部分不够商 $1$ 时, 要先商 $0$, 再点小数点.
+> **Definition 9.3.2 (循环小数与循环节)**
 > 
-> 把圆柱侧面沿高展开得到一个长方形, 长方形的长等于圆柱底面的周长, 宽等于圆柱的高. 侧面积 $=$ 底面周长 $\times$ 高 $=2\pi rh$; 一个底面积 $=\pi r^{2}$; 表面积 $=$ 侧面积 $+$ 两个底面积.
-> **Definition 12.4.3 (圆柱的体积)**
+> 一个数的小数部分,从某一位起,一个数字或者几个数字依次不断重复出 现,这样的小数叫作循环小数.像上面的5.333和7.14545都是循环小数. 一个循环小数的小数部分,依次不断重复出现的数字,就是这个循环小数 的循环节.例如: 5.333的循环节是3. 7.14545的循环节是45. 6.9258258的循环节是258. 写循环小数时,可以只写第一个循环节,并在这个循环节的首位和末位数 字上面各记一个圆点.例如: 写作 5.333... 5.3 写作7.145 7.14545... 写作 6.9258258... 6.9258 小数部分的位数有限的小数是有限小数.例如,0.9375是一个有限小数. 小数部分的位数无限的小数是无限小数.例如,0.2142857是一个无限小数. 做一做 用简便形式写出下面的循环小数. 1.555... 1.746746... 0.105353... 计算下面各题,除不尽的先用循环小数表示所得的商,再保留两位小数写 出它的近似数. 15-7 1
+> **Definition 9.3.3 (有限小数与无限小数)**
 > 
-> 把圆柱底面分成若干相等扇形, 切开后拼成一个近似长方体, 长方体底面积等于圆柱底面积, 高等于圆柱的高. 圆柱体积 $=$ 底面积 $\times$ 高 $=Sh=\pi r^{2}h$.
-> **Definition 12.4.4 (圆锥的认识)**
+> 小数部分的位数有限的小数是有限小数; 小数部分的位数无限的小数是无限小数, 循环小数是无限小数.
+> **Definition 9.3.4 (一个数除以小数)**
 > 
-> 圆锥的底面是一个圆, 侧面是曲面; 从圆锥的顶点到底面圆心的距离是圆锥的高.
-> **Definition 12.4.5 (圆锥的体积)**
+> 先移动除数的小数点使它变成整数, 除数的小数点向右移动几位, 被除数的小数点也向右移动几位 (位数不够的在被除数末尾用 $0$ 补足), 然后按除数是整数的小数除法计算.
+> **Definition 9.3.5 (商的近似数)**
 > 
-> 通过实验, 等底等高的圆锥形容器正好用 $3$ 次倒满圆柱形容器, 即圆锥体积是与它等底等高的圆柱体积的 $\frac{1}{3}$. 圆锥体积 $=\frac{1}{3}Sh=\frac{1}{3}\pi r^{2}h$.
+> 在解决实际问题时, 根据需要取商的近似值: 一般用"四舍五入"法; 装东西需要几个容器用"进一"法; 买东西能买几个用"去尾"法.
 
-## Exercise 36
+## Exercise 1
 
-(Lesson: Understanding Cylinders, Do It, Problem 1) Observe a cylindrical object and mark its bases, lateral surface, and height.
+(Lesson: Dividing a Decimal by an Integer, Example 2) $4$ students exchanged $22.4$ yuan; how much per person on average? $22.4\div4=\_\_$.
 
-### Solution to Exercise 36
+### Solution to Exercise 1
 
-By **Definition 12.4.1 (Understanding Cylinders)**, the upper and lower circular faces are the bases, the surrounding curved surface is the lateral surface, and the perpendicular distance between the two bases is the height. Point them out on the figure. $\blacksquare$
+By **Definition 9.3.1 (除数是整数的小数除法)**, $22.4\div4=5.6$ yuan. The quotient's point aligns with the dividend's point. $\blacksquare$
 
-## Exercise 37
+## Exercise 2
 
-(Lesson: Understanding Cylinders, Do It, Problem 2) Rectangle $ABCD$ has length $2\,\mathrm{cm}$ and width $1\,\mathrm{cm}$. Rotating the rectangle generates two cylinders; describe which edge each is rotated about, and state the base radius and height of each.
+(Lesson: Dividing a Decimal by an Integer, Try It, Problem 1) Calculate and compare: $42\div3$ vs $4.2\div3$; $84\div4$ vs $8.4\div4$; $154\div14$ vs $15.4\div14$.
 
-### Solution to Exercise 37
+### Solution to Exercise 2
 
-Rotating about the long edge $2\,\mathrm{cm}$ as axis gives height $2\,\mathrm{cm}$ and base radius $1\,\mathrm{cm}$; rotating about the short edge $1\,\mathrm{cm}$ as axis gives height $1\,\mathrm{cm}$ and base radius $2\,\mathrm{cm}$. $\blacksquare$
+By **Definition 9.3.1 (除数是整数的小数除法)**: $42\div3=14$, $4.2\div3=1.4$; $84\div4=21$, $8.4\div4=2.1$; $154\div14=11$, $15.4\div14=1.1$. With the divisor unchanged, shrinking the dividend to one tenth shrinks the quotient to one tenth as well. $\blacksquare$
 
-## Exercise 38
+## Exercise 3
 
-(Lesson: Lateral Surface of a Cylinder, Do It) A cylindrical tea canister has a label around its lateral surface. The cylinder's base radius is $5\,\mathrm{cm}$ and its height is $20\,\mathrm{cm}$. When the label is unrolled it is a rectangle; what are its length and width in centimeters?
+(Lesson: Dividing a Decimal by an Integer, Try It, Problem 2) Calculate: $72\div15$; $9\div4$; $14.21\div7$; $25.5\div6$; $5.6\div7$.
 
-### Solution to Exercise 38
+### Solution to Exercise 3
 
-By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, the unrolled rectangle's length $=$ base circumference $=2\pi r=2\times3.14\times5=31.4\,\mathrm{cm}$; its width $=$ the cylinder's height $=20\,\mathrm{cm}$. As shown.
+By **Definition 9.3.1 (除数是整数的小数除法)**: $72\div15=4.8$; $9\div4=2.25$; $14.21\div7=2.03$; $25.5\div6=4.25$; $5.6\div7=0.8$ (integer part $5< 7$, first write a $0$). $\blacksquare$
 
-(Figure: a cylindrical tea canister with a label around its side, beside which the unrolled rectangle is drawn, $31.4\,\mathrm{cm}$ long and $20\,\mathrm{cm}$ wide.)
+## Exercise 4
 
-$\blacksquare$
+(Lesson: Dividing a Decimal by an Integer, Try It, Problem 3) Calculate: $6.8\div5$; $0.54\div6$; $6.3\div14$; $3.45\div15$; $12\div16$; $1.26\div28$; $0.416\div32$.
 
-## Exercise 39
+### Solution to Exercise 4
 
-(Lesson: Exercise 3, Problem 3) Which of the following is the net of a cylinder? (Three combinations are given: circles paired with rectangles, with one side of the rectangle being $6.28, 3, 20\,\mathrm{cm}$, and so on.)
+By **Definition 9.3.1 (除数是整数的小数除法)**: $6.8\div5=1.36$; $0.54\div6=0.09$; $6.3\div14=0.45$; $3.45\div15=0.23$; $12\div16=0.75$; $1.26\div28=0.045$; $0.416\div32=0.013$. $\blacksquare$
 
-### Solution to Exercise 39
+## Exercise 5
 
-By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, one side of the rectangle in a cylinder's net must equal the circumference of the base circle. If the circle's diameter is $2\,\mathrm{cm}$, its circumference $=2\pi\approx6.28\,\mathrm{cm}$, so the rectangle whose length is $6.28\,\mathrm{cm}$ is the net of the cylinder. $\blacksquare$
+(Lesson: Dividing a Decimal by an Integer, Example 3) A set of New Fairy Tales has $4$ books totaling $99.8$ yuan; how much on average per book?
 
-## Exercise 40
+### Solution to Exercise 5
 
-(Lesson: Surface Area of a Cylinder, Do It) A cylindrical can has a label around its lateral surface. The cylinder's base radius is $5\,\mathrm{cm}$ and its height is $10\,\mathrm{cm}$. What is the area of the label?
+$99.8\div4=24.95$ yuan. $\blacksquare$
 
-### Solution to Exercise 40
+## Exercise 6
 
-By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, the label area $=$ lateral area $=2\pi rh=2\times3.14\times5\times10=314\,\mathrm{cm}^{2}$. $\blacksquare$
+(Lesson: Dividing a Decimal by an Integer, Example 4) Wang Peng runs $400$ m in $75$ seconds; how many meters per second on average? $400\div75=\_\_$.
 
-## Exercise 41
+### Solution to Exercise 6
 
-(Lesson: Surface Area of a Cylinder, Example 4) A chef's hat is approximately cylindrical, with height $30\,\mathrm{cm}$ and top diameter $20\,\mathrm{cm}$. About how many square centimeters of fabric are needed to make such a hat? (Round to the nearest ten.)
+By **Definition 9.3.2 (Repeating Decimals)**, $400\div75=5.333\cdots=5.\dot{3}$ m/s, with the digit $3$ repeating in the quotient's decimal part. $\blacksquare$
 
-### Solution to Exercise 41
+## Exercise 7
 
-By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**. The hat has only a lateral surface and a top (no bottom base). Lateral area $=\pi\times20\times30=1884\,\mathrm{cm}^{2}$; top area $=\pi\times\left(20\div2\right)^{2}=314\,\mathrm{cm}^{2}$; total $1884+314=2198\approx2200\,\mathrm{cm}^{2}$ (using rounding up). $\blacksquare$
+(Lesson: Repeating Decimals, Try It) Calculate and describe the quotient: $28\div18$; $78.6\div11$.
 
-## Exercise 42
+### Solution to Exercise 7
 
-(Lesson: Surface Area of a Cylinder, Do It, Problem 2) Find the lateral area of each cylinder below. (1) Base circumference $1.6\,\mathrm{m}$, height $0.7\,\mathrm{m}$. (2) Base radius $3.2\,\mathrm{dm}$, height $5\,\mathrm{dm}$.
+By **Definition 9.3.2 (Repeating Decimals)**: $28\div18=1.555\cdots=1.\dot{5}$; $78.6\div11=7.14545\cdots=7.1\dot{4}\dot{5}$. Both are repeating decimals. $\blacksquare$
 
-### Solution to Exercise 42
+## Exercise 8
 
-By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, lateral area $=$ base circumference $\times$ height. (1) $1.6\times0.7=1.12\,\mathrm{m}^{2}$. (2) $2\times3.14\times3.2\times5=100.48\,\mathrm{dm}^{2}$. $\blacksquare$
+(Lesson: Repeating Decimals, Try It, Problem 1) Write the repeating decimals in their short form: $1.555\cdots$; $1.746746\cdots$; $0.105353\cdots$.
 
-## Exercise 43
+### Solution to Exercise 8
 
-(Lesson: Exercise 4, Problem 2) The front wheel of a road roller is cylindrical, with wheel width $2\,\mathrm{m}$ and diameter $1.2\,\mathrm{m}$. As the front wheel turns one full revolution, what area of road is rolled, in square meters?
+By **Definition 9.3.2 (Repeating Decimals)**: $1.555\cdots=1.\dot{5}$; $1.746746\cdots=1.\dot{7}4\dot{6}$; $0.105353\cdots=0.10\dot{5}\dot{3}$. $\blacksquare$
 
-### Solution to Exercise 43
+## Exercise 9
 
-By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, the area rolled in one revolution $=$ lateral area $=$ base circumference $\times$ wheel width $=3.14\times1.2\times2=7.536\,\mathrm{m}^{2}$. $\blacksquare$
+(Lesson: Repeating Decimals, Try It, Problem 2) Calculate; when not exact, first write the repeating decimal then keep two decimals: $15\div7$; $15.3\div72$; $2.29\div9$.
 
-## Exercise 44
+### Solution to Exercise 9
 
-(Lesson: Exercise 4, Problem 4) A certain drink can has base diameter $6\,\mathrm{cm}$ and height $12\,\mathrm{cm}$. Pack $24$ such cans in a box in $6$ columns and $4$ rows. What are the minimum length, width, and height of the box in centimeters?
+$15\div7=2.142857\cdots\approx2.14$; $15.3\div72=0.2125$ (terminating); $2.29\div9=0.25444\cdots\approx0.25$. $\blacksquare$
 
-### Solution to Exercise 44
+## Exercise 10
 
-Along the length place $6$ cans: length $=6\times6=36\,\mathrm{cm}$; along the width place $4$ cans: width $=4\times6=24\,\mathrm{cm}$; the height equals the can height $=12\,\mathrm{cm}$. $\blacksquare$
+(Lesson: Repeating Decimals, Try It, Problem 3) Observe: $1\div7=0.142857$; $2\div7=0.285714$; $3\div7=0.428571$; $4\div7=0.571428$; $5\div7=0.714285$; $6\div7=0.857142$. What do you notice?
 
-## Exercise 45
+### Solution to Exercise 10
 
-(Lesson: Exercise 4, Problem 9) A cylinder has lateral area $188.4\,\mathrm{dm}^{2}$ and base radius $2\,\mathrm{dm}$. What is its height?
+By **Definition 9.3.2 (Repeating Decimals)**, all quotients are repeating decimals whose cycles consist of the same $6$ digits $1,4,2,8,5,7$, only starting one place later each time. $\blacksquare$
 
-### Solution to Exercise 45
+## Exercise 11
 
-By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, lateral area $=2\pi rh$, so $h=188.4\div\left(2\times3.14\times2\right)=188.4\div12.56=15\,\mathrm{dm}$. $\blacksquare$
+(Lesson: Decimal Division, Practice 5, Review and Consolidation, Problem 1) Calculate: $6.6\div4$; $43.5\div29$; $18.9\div27$; $1.35\div15$; $37.5\div6$; $28.6\div11$; $20.4\div24$; $3.64\div52$.
 
-## Exercise 46
+### Solution to Exercise 11
 
-(Lesson: Exercise 4, Problem 11) The lateral surface of a cylinder unrolls to a square. Find the ratio of the cylinder's base diameter to its height.
+By **Definition 9.3.1 (除数是整数的小数除法)**: $6.6\div4=1.65$; $43.5\div29=1.5$; $18.9\div27=0.7$; $1.35\div15=0.09$; $37.5\div6=6.25$; $28.6\div11=2.6$; $20.4\div24=0.85$; $3.64\div52=0.07$. $\blacksquare$
 
-### Solution to Exercise 46
+## Exercise 12
 
-By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, if the lateral surface unrolls to a square, then base circumference $=$ height. Since base circumference $=\pi d$, the height $=\pi d$, so the ratio of diameter to height is $d:h=d:\pi d=1:\pi$. $\blacksquare$
+(Lesson: Decimal Division, Practice 5, Review and Consolidation, Problem 2) Calculate and check by multiplication: $328\div16$; $1.08\div27$; $15.6\div12$; $0.646\div19$.
 
-## Exercise 47
+### Solution to Exercise 12
 
-(Lesson: Volume of a Cylinder, Do It, Problem 1) A cylindrical log has base area $75\,\mathrm{cm}^{2}$ and length $90\,\mathrm{cm}$. What is its volume?
+By **Definition 9.3.1 (除数是整数的小数除法)**: $328\div16=20.5$, check $20.5\times16=328$; $1.08\div27=0.04$, check $0.04\times27=1.08$; $15.6\div12=1.3$, check $1.3\times12=15.6$; $0.646\div19=0.034$, check $0.034\times19=0.646$. $\blacksquare$
 
-### Solution to Exercise 47
+## Exercise 13
 
-By **Definition 12.4.3 (Volume of a Cylinder)**, $V=Sh=75\times90=6750\,\mathrm{cm}^{3}$. $\blacksquare$
+(Lesson: Decimal Division, Practice 5, Review and Consolidation, Problem 3) Write the approximate values of the repeating decimals (keep three decimals): $1.29090\cdots$; $0.0183\cdots$; $7.275\cdots$; $0.444\cdots$.
 
-## Exercise 48
+### Solution to Exercise 13
 
-(Lesson: Volume of a Cylinder, Do It, Problem 2) Dig a cylindrical well; the depth below ground is $10\,\mathrm{m}$ and the base diameter is $1\,\mathrm{m}$. How many cubic meters of soil are dug out?
+By **Definition 9.3.3 (有限小数与无限小数)** and rounding: $1.29090\cdots\approx1.291$; $0.0183\cdots\approx0.018$; $7.275\cdots\approx7.275$ (if it is $7.\dot{2}7\dot{5}$ then $7.275$); $0.444\cdots\approx0.444$. $\blacksquare$
 
-### Solution to Exercise 48
+## Exercise 14
 
-By **Definition 12.4.3 (Volume of a Cylinder)**, the radius $=0.5\,\mathrm{m}$, so $V=\pi r^{2}h=3.14\times0.5^{2}\times10=7.85\,\mathrm{m}^{3}$. $\blacksquare$
+(Lesson: Decimal Division, Practice 5, Review and Consolidation, Problem 4) Fill the table: the results of $40\div14$, $26.37\div31$ and $45.5\div38$ kept to one, two and three decimals respectively.
 
-## Exercise 49
+### Solution to Exercise 14
 
-(Lesson: Volume of a Cylinder, Example 6) A cup measures $8\,\mathrm{cm}$ in inside base diameter and $10\,\mathrm{cm}$ in height. Can it hold $2$ bags of milk (each bag $240\,\mathrm{mL}$)?
+$40\div14=2.8571\cdots$, one decimal $2.9$, two $2.86$, three $2.857$; $26.37\div31=0.8506\cdots$, one $0.9$, two $0.85$, three $0.851$; $45.5\div38=1.1973\cdots$, one $1.2$, two $1.20$, three $1.197$. $\blacksquare$
 
-### Solution to Exercise 49
+## Exercise 15
 
-By **Definition 12.4.3 (Volume of a Cylinder)**, the cup's capacity $=\pi\times\left(8\div2\right)^{2}\times10=3.14\times16\times10=502.4\,\mathrm{cm}^{3}=502.4\,\mathrm{mL}$. Two bags of milk $=240\times2=480\,\mathrm{mL}$. Since $502.4> 480$, it can hold them. $\blacksquare$
+(Lesson: Decimal Division, Practice 5, Integrated Use, Problem 1) An ostrich weighs $134$ kg and a swan $9$ kg; how many times the swan's weight is the ostrich's? (Keep two decimals.)
 
-## Exercise 50
+### Solution to Exercise 15
 
-(Lesson: Volume of a Cylinder, Do It, Problem 1) A cylindrical thermos measures $8\,\mathrm{cm}$ in inside base diameter and $15\,\mathrm{cm}$ in height. During an outing, two people want to drink $1\,\mathrm{L}$ of water; is this thermos enough?
+$134\div9=14.888\cdots\approx14.89$ times. $\blacksquare$
 
-### Solution to Exercise 50
+## Exercise 16
 
-By **Definition 12.4.3 (Volume of a Cylinder)**, the thermos's capacity $=\pi\times4^{2}\times15=3.14\times16\times15=753.6\,\mathrm{cm}^{3}=753.6\,\mathrm{mL}$. Since $1\,\mathrm{L}=1000\,\mathrm{mL}$ and $753.6< 1000$, it is not enough. $\blacksquare$
+(Lesson: Decimal Division, Practice 5, Integrated Use, Problem 2) A frog jumps $7.74$ m in $3$ consecutive jumps; how far on average per jump?
 
-## Exercise 51
+### Solution to Exercise 16
 
-(Lesson: Volume of a Cylinder, Example 7) In a bottle with an inside base diameter of $8\,\mathrm{cm}$, the water is $7\,\mathrm{cm}$ high. After screwing on the cap and inverting the bottle upright, the air-filled part is cylindrical and $18\,\mathrm{cm}$ high. What is the bottle's capacity?
+$7.74\div3=2.58$ m. $\blacksquare$
 
-### Solution to Exercise 51
+## Exercise 17
 
-By **Definition 12.4.3 (Volume of a Cylinder)**, the bottle's capacity $=$ volume of water $+$ volume of the air-filled part $=\pi\times4^{2}\times\left(7+18\right)=3.14\times16\times25=1256\,\mathrm{cm}^{3}=1256\,\mathrm{mL}$. $\blacksquare$
+(Lesson: Decimal Division, Practice 5, Integrated Use, Problem 3) Class 4(1) has class funds of $24.2$ yuan and earns another $16.4$ yuan from selling waste, enough to buy $7$ copies of Juvenile Science or $14$ jump ropes. (1) How much is one copy of Juvenile Science? One jump rope?
 
-## Exercise 52
+### Solution to Exercise 17
 
-(Lesson: Exercise 5, Problem 4) A cylinder has volume $80\,\mathrm{cm}^{3}$ and base area $16\,\mathrm{cm}^{2}$. What is its height in centimeters?
+Total money $24.2+16.4=40.6$ yuan. Juvenile Science per copy $40.6\div7=5.8$ yuan. Jump rope each $40.6\div14=2.9$ yuan. $\blacksquare$
 
-### Solution to Exercise 52
+## Exercise 18
 
-By **Definition 12.4.3 (Volume of a Cylinder)**, $V=Sh$, so $h=V\div S=80\div16=5\,\mathrm{cm}$. $\blacksquare$
+(Lesson: Decimal Division, Practice 5, Integrated Use, Problem 4) The whole route from foot to top of the mountain is $7.2$ km; going up takes $3$ hours and coming down $2$ hours. (1) What are the average speeds up and down? (2) What is the average speed for the whole route?
 
-## Exercise 53
+### Solution to Exercise 18
 
-(Lesson: Exercise 5, Problem 5) A cylindrical grain bin measures $1\,\mathrm{m}$ in inside base radius and $2\,\mathrm{m}$ in height. If each cubic meter of corn weighs about $750\,\mathrm{kg}$, how many tons of corn can the bin hold?
-
-### Solution to Exercise 53
-
-By **Definition 12.4.3 (Volume of a Cylinder)**, the capacity $=\pi\times1^{2}\times2=6.28\,\mathrm{m}^{3}$; holding corn gives $6.28\times750=4710\,\mathrm{kg}=4.71$ tons. $\blacksquare$
-
-## Exercise 54
-
-(Lesson: Exercise 5, Problem 9) A cylindrical water-filled container has an inside base diameter of $10\,\mathrm{cm}$. An iron block is fully submerged in the water; after the block is removed, the water level drops by $2\,\mathrm{cm}$. What is the volume of the iron block?
-
-### Solution to Exercise 54
-
-By **Definition 12.4.3 (Volume of a Cylinder)**, the iron block's volume equals the volume of the water that dropped: $V=\pi\times\left(10\div2\right)^{2}\times2=3.14\times25\times2=157\,\mathrm{cm}^{3}$. $\blacksquare$
-
-## Exercise 55
-
-(Lesson: Understanding Cones, Do It) Point out the base, lateral surface, and height of the following cone.
-
-### Solution to Exercise 55
-
-By **Definition 12.4.4 (Understanding Cones)**, the circle at the bottom is the base, the surrounding curved surface is the lateral surface, and the perpendicular distance from the apex to the center of the base is the height. Point them out on the figure. $\blacksquare$
-
-## Exercise 56
-
-(Lesson: Volume of a Cone, Example 3) At a construction site there is a conical pile of sand with base diameter $4\,\mathrm{m}$ and height $1.5\,\mathrm{m}$. About what is the volume of the sand? If each cubic meter of sand weighs about $1.5\,\mathrm{t}$, about how many tons does the pile weigh?
-
-### Solution to Exercise 56
-
-By **Definition 12.4.5 (Volume of a Cone)**, the base area $=\pi\times2^{2}=12.56\,\mathrm{m}^{2}$; the volume $=\frac{1}{3}\times12.56\times1.5=6.28\,\mathrm{m}^{3}$; the weight $=6.28\times1.5=9.42\,\mathrm{t}$. $\blacksquare$
-
-## Exercise 57
-
-(Lesson: Volume of a Cone, Do It, Problem 1) A conical part has base area $19\,\mathrm{cm}^{2}$ and height $12\,\mathrm{cm}$. What is the volume of the part?
-
-### Solution to Exercise 57
-
-By **Definition 12.4.5 (Volume of a Cone)**, $V=\frac{1}{3}Sh=\frac{1}{3}\times19\times12=76\,\mathrm{cm}^{3}$. $\blacksquare$
-
-## Exercise 58
-
-(Lesson: Volume of a Cone, Do It, Problem 2) A conical plumb bob has base diameter $4\,\mathrm{cm}$ and height $6\,\mathrm{cm}$. Each cubic centimeter of steel weighs about $7.9\,\mathrm{g}$. About how many grams does the plumb bob weigh? (Round to the nearest integer.)
-
-### Solution to Exercise 58
-
-By **Definition 12.4.5 (Volume of a Cone)**, the volume $=\frac{1}{3}\times\pi\times2^{2}\times6=\frac{1}{3}\times3.14\times4\times6=25.12\,\mathrm{cm}^{3}$; the weight $=25.12\times7.9\approx198\,\mathrm{g}$. $\blacksquare$
-
-## Exercise 59
-
-(Lesson: Exercise 6, Problem 3) (1) A cylinder has volume $75.36\,\mathrm{m}^{3}$; what is the volume of a cone with the same base and height? (2) A cone has volume $141.3\,\mathrm{m}^{3}$; what is the volume of a cylinder with the same base and height?
-
-### Solution to Exercise 59
-
-By **Definition 12.4.5 (Volume of a Cone)**, with the same base and height a cone's volume is $\frac{1}{3}$ of a cylinder's. (1) Cone $=75.36\div3=25.12\,\mathrm{m}^{3}$. (2) Cylinder $=141.3\times3=423.9\,\mathrm{m}^{3}$. $\blacksquare$
-
-## Exercise 60
-
-(Lesson: Exercise 6, Problem 5) A cone has base circumference $31.4\,\mathrm{cm}$ and height $9\,\mathrm{cm}$. What is its volume?
-
-### Solution to Exercise 60
-
-By **Definition 12.4.5 (Volume of a Cone)**, the radius is $r=31.4\div\left(2\times3.14\right)=5\,\mathrm{cm}$; the volume $=\frac{1}{3}\times\pi\times5^{2}\times9=\frac{1}{3}\times3.14\times25\times9=235.5\,\mathrm{cm}^{3}$. $\blacksquare$
-
-## Exercise 61
-
-(Lesson: Exercise 6, Problem 8) A cylinder and a cone have equal base areas and equal volumes. Given that the cylinder's height is $4\,\mathrm{dm}$, what is the cone's height?
-
-### Solution to Exercise 61
-
-By **Definition 12.4.3 (Volume of a Cylinder)** and **Definition 12.4.5 (Volume of a Cone)**, when the base areas are equal, the cone's height must be $3$ times the cylinder's height for the volumes to be equal: the cone's height $=4\times3=12\,\mathrm{dm}$. $\blacksquare$
-
-## Exercise 62
-
-(Lesson: Exercise 6, Problem 10) A region has a land area of $200\,\mathrm{km}^{2}$, and on a certain day the average rainfall was $50\,\mathrm{mm}$. How many ten-thousand cubic meters of rain fell on that day? The region uses $200$ ten-thousand cubic meters per year for greening; can $25\%$ of this rainwater meet the greening need?
-
-### Solution to Exercise 62
-
-By **Definition 12.4.3 (Volume of a Cylinder)**, the total rain volume $=$ base area $\times$ water depth $=200\times10^{6}\times0.05=10^{7}\,\mathrm{m}^{3}=1000$ ten-thousand $\mathrm{m}^{3}$. The rainwater $25\%=1000\times25\%=250$ ten-thousand $\mathrm{m}^{3}> 200$ ten-thousand $\mathrm{m}^{3}$, so it can meet the greening need. $\blacksquare$
-
-## Exercise 63
-
-(Lesson: Review and Consolidation, Fill in the Table) Fill in the table of surface areas and volumes for cylinders and cones: cylinder base radius $5\,\mathrm{dm}$, height $4\,\mathrm{dm}$; cylinder base radius $2\,\mathrm{m}$, height $0.7\,\mathrm{m}$; cone base diameter $4\,\mathrm{dm}$, height $6\,\mathrm{dm}$; cone base radius $0.5\,\mathrm{m}$, height $12\,\mathrm{m}$.
-
-### Solution to Exercise 63
-
-By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, **Definition 12.4.3 (Volume of a Cylinder)**, and **Definition 12.4.5 (Volume of a Cone)**. Cylinder $r=5,h=4$: surface area $=2\pi\times5\times4+2\pi\times25=40\pi+50\pi=90\pi\approx282.6\,\mathrm{dm}^{2}$, volume $=\pi\times25\times4=100\pi\approx314\,\mathrm{dm}^{3}$. Cylinder $r=2,h=0.7$: surface area $\approx33.9\,\mathrm{m}^{2}$, volume $\approx8.8\,\mathrm{m}^{3}$. Cone $d=4\left(r=2\right),h=6$: volume $=\frac{1}{3}\pi\times4\times6=8\pi\approx25.12\,\mathrm{dm}^{3}$. Cone $r=0.5,h=12$: volume $=\frac{1}{3}\pi\times0.25\times12=\pi\approx3.14\,\mathrm{m}^{3}$. $\blacksquare$
-
-## Exercise 64
-
-(Lesson: Exercise 7, Problem 2) A conical sand pile has base area $28.6\,\mathrm{m}^{2}$ and height $3\,\mathrm{m}$. Use this sand to pave a road surface $2\,\mathrm{cm}$ thick on a road $10\,\mathrm{m}$ wide. How many meters can be paved?
-
-### Solution to Exercise 64
-
-By **Definition 12.4.5 (Volume of a Cone)** and **Definition 12.4.3 (Volume of a Cylinder)**, the sand pile's volume $=\frac{1}{3}\times28.6\times3=28.6\,\mathrm{m}^{3}$. The paved road surface is a cuboid of thickness $2\,\mathrm{cm}=0.02\,\mathrm{m}$, so the length $=28.6\div\left(10\times0.02\right)=143\,\mathrm{m}$. $\blacksquare$
+(1) Up: $7.2\div3=2.4$ km/h; down: $7.2\div2=3.6$ km/h. (2) Whole route: $7.2\times2\div\left(3+2\right)=14.4\div5=2.88$ km/h. $\blacksquare$

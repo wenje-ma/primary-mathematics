@@ -1,242 +1,171 @@
 # week38
-> **Definition 5.7.1 (线段, 射线, 直线)**
+> **Definition 4.4.1 (计数单位的十进关系)**
 > 
-> 一根拉紧的线可以看作线段, 线段有两个端点, 可以量出长度. 把线段向一端无限延伸得到射线, 射线只有一个端点. 把线段向两端无限延伸得到直线, 直线没有端点, 是无限长的. 两点间所有连线中线段最短, 这条线段的长度叫作两点间的距离.
-> **Definition 5.7.2 (角)**
+> 一个一个地数, $10$ 个一是十; 十个十个地数, $10$ 个十是一百; $10$ 个一百是一千; $10$ 个一千是一万. 个 (一), 十, 百, 千, 万都是计数单位, 相邻两个间都是 $10$ 倍.
+> **Definition 4.4.2 (数位与数位顺序)**
 > 
-> 从一个点引出两条射线得到的图形是角, 这个点是角的顶点, 两条射线是角的两条边. 角用符号 "$\angle$" 表示. 角的两条边张开得越大, 角越大.
-> **Definition 5.7.3 (直角, 锐角, 钝角)**
+> 从右边起依次是个位, 十位, 百位, 千位, 万位 $\cdots\cdots$ 哪一位上是几, 就表示有几个这样的计数单位. 如百位上的 $5$ 表示 $5$ 个百.
+> **Definition 4.4.3 (万以内数的读法)**
 > 
-> 三角尺上的角是直角. 比直角小的角是锐角, 比直角大的角是钝角. 要知道一个角是不是直角, 可以用三角尺上的直角比一比.
+> 从高位读起, 按数位顺序读: 千位是几读几千, 百位是几读几百 $\cdots\cdots$ 中间有一个 $0$ 或两个 $0$, 只读一个零; 末尾不管有几个 $0$, 都不读.
+> **Definition 4.4.4 (万以内数的写法)**
+> 
+> 从高位写起, 按数位顺序写: 几千就在千位写几, 几百就在百位写几 $\cdots\cdots$ 中间或末尾哪一位上一个也没有, 就在那一位上写 $0$.
+> **Definition 4.4.5 (比较万以内数的大小)**
+> 
+> 位数不同, 位数多的数大; 位数相同, 从最高位比起, 最高位上数大的那个就大, 最高位相同就比下一位, 直到比出大小.
+> **Definition 4.4.6 (近似数与约等号)**
+> 
+> 生活中有时不用准确数而用近似数. 接近整千, 整百的数可写成近似数, 用约等号 $\approx$ 连接, 读作约等于. 如 $6988\approx7000$, $7000$ 是 $6988$ 的近似数.
 
-## Exercise 182
+## Exercise 1
 
-(Lesson: Line Segment, Ray, Straight Line — Example) Tell about the connections and differences among a line segment, a ray and a straight line.
+(Lesson: Reading and Writing Numbers up to Ten Thousand, Do It) Write the numbers below. (1) There are about seven thousand stars visible to the naked eye. (2) There are one thousand eight hundred sixty-four wild giant pandas. (3) Jiaolong's maximum dive depth is seven thousand sixty-two meters.
 
-### Solution to Exercise 182
+### Solution to Exercise 1
 
-By **Definition 5.7.1 (Line Segment, Ray, Straight Line)**, a line segment has two endpoints and its length can be measured; a ray has only one endpoint, a straight line has no endpoint, and both a ray and a straight line can extend infinitely. The figure shows from top to bottom: a line segment marked with two endpoints A and B; a ray with endpoint O extending infinitely to one side; and a straight line with no endpoints extending infinitely in both directions. $\blacksquare$
+By **Definition 4.4.4 (万以内数的写法)**, seven thousand is written $7000$; one thousand eight hundred sixty-four is written $1864$; seven thousand sixty-two is written $7062$ (write $0$ where the hundreds place is empty). $\blacksquare$
 
-## Exercise 183
+## Exercise 2
 
-(Lesson: Line Segment, Ray, Straight Line — Do It Yourself) Among the figures below, which are line segments, which are rays, and which are straight lines?
+(Lesson: Reading and Writing Numbers up to Ten Thousand, Do It) On the number line (starting at $1000$), fill the $\square$ with suitable numbers. (1) What does each small division stand for? (2) Mark $3700$, $6500$, $9900$ on the picture.
 
-### Solution to Exercise 183
+### Solution to Exercise 2
 
-By **Definition 5.7.1 (线段, 射线, 直线)**, those with two endpoints are line segments; those with only one endpoint and the other side extending are rays; those with no endpoint and both sides extending are straight lines. Classify accordingly. $\blacksquare$
+First divide the gap between two marked numbers by the number of divisions to get what each small division stands for in hundreds, then fill the $\square$ in order; locate and mark $3700,6500,9900$ on the line per the size of each division. $\blacksquare$
 
-## Exercise 184
+## Exercise 3
 
-(Lesson: Line Segment, Ray, Straight Line — Do It Yourself) How many roads are there from Xiaoming's home to school? Which road is the shortest?
+(Lesson: Reading and Writing Numbers up to Ten Thousand, Practice) Read the numbers below. (1) The "Snow Dragon" track is $1975$ meters long. (2) Cuvier's beaked whale's maximum dive depth is $2992$ meters. (3) Our country has $4969$ species of fish, of which $954$ are endemic.
 
-### Solution to Exercise 184
+### Solution to Exercise 3
 
-By **Definition 5.7.1 (Line Segment, Ray, Straight Line)**, Xiaoming has several ways to school, such as via the store or via the post office; among them the road directly from home to school (equivalent to the line segment between the two points) is the shortest. $\blacksquare$
+$1975$ is read one thousand nine hundred seventy-five; $2992$ is read two thousand nine hundred ninety-two; $4969$ is read four thousand nine hundred sixty-nine; $954$ is read nine hundred fifty-four. $\blacksquare$
 
-## Exercise 185
+## Exercise 4
 
-(Lesson: Comparing Line Segments — Example) How do you compare the lengths of two line segments AB and CD?
+(Lesson: Reading and Writing Numbers up to Ten Thousand, Practice) Write the numbers: $2$ thousands and $5$ hundreds; $7$ thousands, $6$ hundreds, and $3$ ones; $4$ thousands and $4$ tens; $5$ thousands and $9$ ones.
 
-### Solution to Exercise 185
+### Solution to Exercise 4
 
-You can measure each length with a ruler and then compare; you can also make one endpoint of the two segments coincide and look at the position of the other endpoint: if the other endpoints coincide they are equal, and if the other endpoint falls inside it is shorter, denoted $AB< CD$. You can also compare by stepping off with a compass. $\blacksquare$
+$2$ thousands and $5$ hundreds are $2500$; $7$ thousands, $6$ hundreds, and $3$ ones are $7603$; $4$ thousands and $4$ tens are $4040$; $5$ thousands and $9$ ones are $5009$. $\blacksquare$
 
-## Exercise 186
+## Exercise 5
 
-(Lesson: Comparing Line Segments — Think It Through) Make point A coincide with point C to compare AB and CD. (1) If point B coincides with point D, then AB ( ) CD. (2) If point B is to the right of point D, then AB ( ) CD.
+(Lesson: Reading and Writing Numbers up to Ten Thousand, Practice) Fill in the ( ) with a suitable number or counting unit. $4835$: ( ) ones, ( ) tens, ( ) hundreds, ( ) thousands. $3607$: $7$ ( ), $0$ ( ), $6$ ( ), $3$ ( ).
 
-### Solution to Exercise 186
+### Solution to Exercise 5
 
-(1) Endpoints B and D coincide, so the two segments are equally long, $AB=CD$. (2) B is to the right of D, showing that AB is longer, $AB> CD$. $\blacksquare$
+$4835$ has $5$ ones, $3$ tens, $8$ hundreds, and $4$ thousands. In $3607$: $7$ ones, $0$ tens, $6$ hundreds, and $3$ thousands. $\blacksquare$
 
-## Exercise 187
+## Exercise 6
 
-(Lesson: Practice 12, Problem 1) Among the figures below, which are line segments, which are straight lines, and which are rays?
+(Lesson: Reading and Writing Numbers up to Ten Thousand, Practice) First draw dots in the empty cells, then write the number: two thousand one hundred fifty-three, six thousand five hundred five, eight thousand eight.
 
-### Solution to Exercise 187
+### Solution to Exercise 6
 
-Classify by **Definition 5.7.1 (线段, 射线, 直线)**: those that are straight with two endpoints are line segments; those that are straight with no endpoint are straight lines; those that are straight with only one endpoint are rays. $\blacksquare$
+Two thousand one hundred fifty-three is written $2153$; six thousand five hundred five is written $6505$; eight thousand eight is written $8008$. Draw dots in the thousands, hundreds, tens, and ones cells. $\blacksquare$
 
-## Exercise 188
+## Exercise 7
 
-(Lesson: Practice 12, Problem 2) Draw as required: (1) Draw the line segment CD. (2) Draw the ray DA. (3) How many straight lines can be drawn through point B? What about through the two points A and B?
+(Lesson: Reading and Writing Numbers up to Ten Thousand, Practice) $3247=3000+200+40+7$; following this, fill in: $2536=\_\_+\_\_+\_\_+\_\_$; $7020=\_\_+\_\_$.
 
-### Solution to Exercise 188
+### Solution to Exercise 7
 
-(1) Use a ruler to draw the segment connecting the two points C and D. (2) Taking D as the endpoint, draw a ray in the direction of A. (3) Through one point B you can draw infinitely many straight lines; through the two points A and B you can draw only one straight line. $\blacksquare$
+$2536=2000+500+30+6$; $7020=7000+20$. $\blacksquare$
 
-## Exercise 189
+## Exercise 8
 
-(Lesson: Practice 12, Problem 3) On the straight line l there are three points A, B and C. How many line segments have point A as one endpoint? Write them out with letters.
+(Lesson: Reading and Writing Numbers up to Ten Thousand, Practice) (1) First write the numbers shown on the abacuses, say how they are composed, then move one lower bead to the ones place; what is each number then? (2) Show a number on an abacus and ask your deskmate to read it then write it.
 
-### Solution to Exercise 189
+### Solution to Exercise 8
 
-There are $2$ line segments with A as one endpoint: segment AB and segment AC. $\blacksquare$
+(1) Write the numbers and say the composition per each abacus place; adding one lower bead to the ones place means adding $1$, and when the ones reaches ten carry $1$ to the tens. (2) Deskmates move, read, and write for each other. $\blacksquare$
 
-## Exercise 190
+## Exercise 9
 
-(Lesson: Practice 12, Problem 4) Use a compass to compare the lengths of the two line segments in each group.
+(Lesson: Reading and Writing Numbers up to Ten Thousand, Practice) Fill in by the pattern, then read. (1) $2980,2990,\square,\square,3020,3030$. (2) $9500,9600,\square,\square,9900,\square$.
 
-### Solution to Exercise 190
+### Solution to Exercise 9
 
-Compare by stepping off with the compass: fix one leg of the compass at one endpoint of a segment, set the other leg to the other endpoint, then compare with the other segment; the one whose endpoint extends beyond is longer. $\blacksquare$
+(1) Add $10$ each time: $2980,2990,3000,3010,3020,3030$. (2) Add $100$ each time: $9500,9600,9700,9800,9900,10000$. $\blacksquare$
 
-## Exercise 191
+## Exercise 10
 
-(Lesson: Practice 12, Problem 5) Look and measure: compare the sides of a rectangle with those of the rectangle after rotation; what do you find?
+(Lesson: Reading and Writing Numbers up to Ten Thousand, Practice) There is a four-digit number; the ones digit is $7$, and the sum of digits in every two neighboring places is $12$; the number is $\_\_$.
 
-### Solution to Exercise 191
+### Solution to Exercise 10
 
-Measuring shows that the side lengths of the rectangle are unchanged before and after rotation; only the direction changes. The length of a line segment has nothing to do with the direction in which it is placed. $\blacksquare$
+The ones is $7$; the tens plus ones is $12$, so the tens is $12-7=5$; the hundreds is $12-5=7$; the thousands is $12-7=5$. The number is $5757$. $\blacksquare$
 
-## Exercise 192
+## Exercise 11
 
-(Lesson: Practice 12, Problem 6) Two strips of wood AC and BD overlap. (1) If $AB=CD$, then AC ( ) BD. (2) If $AB> CD$, then AC ( ) BD.
+(Lesson: Comparing Numbers up to Ten Thousand, Do It) Compare the numbers of saplings. (1) Cedar $843$ vs willow $1215$. (2) Poplar $2757$ vs pine $1614$. (3) Pine $1614$ vs willow $1215$. Fill the $\bigcirc$ with $> $ or $< $.
 
-### Solution to Exercise 192
+### Solution to Exercise 11
 
-The overlapping part in the middle is BC. (1) When $AB=CD$, $AC=AB+BC=CD+BC=BD$, so $AC=BD$. (2) When $AB> CD$, $AC=AB+BC> CD+BC=BD$. $\blacksquare$
+By **Definition 4.4.5 (比较万以内数的大小)**: $843$ is three-digit and $1215$ is four-digit, $843< 1215$; $2757$ and $1614$ are both four-digit, the highest digit $2> 1$, so $2757> 1614$; $1614$ and $1215$ have the same highest digit, the hundreds $6> 2$, so $1614> 1215$. $\blacksquare$
 
-## Exercise 193
+## Exercise 12
 
-(Lesson: Practice 12, Problem 7, Challenge Problem) What is the maximum number of line segments that can be drawn for 2 points, 3 points, 4 points and 5 points respectively? What about 6 points?
+(Lesson: Comparing Numbers up to Ten Thousand, Do It) Arrange from smallest to largest. (1) $941,893,1001,914$. (2) $3005,3050,3500,3049$.
 
-### Solution to Exercise 193
+### Solution to Exercise 12
 
-$2$ points give $1$ segment; $3$ points give $2+1=3$ segments; $4$ points give $3+2+1=6$ segments; $5$ points give $4+3+2+1=10$ segments; $6$ points give $5+4+3+2+1=15$ segments. Pattern: n points give at most $1+2+\cdots+\left(n-1\right)$ segments. $\blacksquare$
+By **Definition 4.4.5 (比较万以内数的大小)**, (1) $893< 914< 941< 1001$ ($1001$ is four-digit and largest). (2) $3005< 3049< 3050< 3500$. $\blacksquare$
 
-## Exercise 194
+## Exercise 13
 
-(Lesson: Getting to Know Angles — Example) What is an angle? How do you draw an angle?
+(Lesson: Approximate Numbers, Do It) Which round thousand is each number closest to? $6830$, $5021$, $3900$, $8104$, $4005$, $2897$, $7053$, $9008$.
 
-### Solution to Exercise 194
+### Solution to Exercise 13
 
-By **Definition 5.7.2 (Angle)**, the figure formed by drawing two rays out from one point is an angle; this point is the vertex and the two rays are the sides. First draw a point, then taking this point as the vertex draw two rays in different directions. When opening a folding fan, the wider the opening, the larger the angle. $\blacksquare$
+By **Definition 4.4.6 (approximate numbers)**, $6830\approx7000$, $5021\approx5000$, $3900\approx4000$, $8104\approx8000$, $4005\approx4000$, $2897\approx3000$, $7053\approx7000$, $9008\approx9000$. $\blacksquare$
 
-## Exercise 195
+## Exercise 14
 
-(Lesson: Getting to Know Angles — Do It Yourself) Point out where there are angles on objects around you. Can you fold a right angle with paper? Draw a right angle with a triangular ruler.
+(Lesson: Adding/Subtracting Round Hundreds and Thousands, Do It) Compute: $200+400$, $3000+6000$, $800+900$, $600-400$, $9000-3000$, $1700-900$. Then look at the picture (three vehicles travel $1000,3000,5000$ meters per minute) and raise a math problem and solve it.
 
-### Solution to Exercise 195
+### Solution to Exercise 14
 
-By **Definition 5.7.3 (Right Angle, Acute Angle, Obtuse Angle)**, the corners of a desk and of a textbook cover are all right angles. Fold the paper in half and then in half again to fold a right angle; draw along the right-angle side of the triangular ruler. $\blacksquare$
+$200+400=600$; $3000+6000=9000$; $800+900=1700$; $600-400=200$; $9000-3000=6000$; $1700-900=800$. Raise a problem like "how many meters do the two vehicles travel per minute in all" and solve by addition (or subtraction). $\blacksquare$
 
-## Exercise 196
+## Exercise 15
 
-(Lesson: Getting to Know Angles — Example) Compare right angles, acute angles and obtuse angles.
+(Lesson: Approximate Numbers and Add/Subtract, Practice) "The number meant by the $3$ in the thousands place is larger than the number meant by the $3$ in the tens place"; is she right? Tell your deskmate why.
 
-### Solution to Exercise 196
+### Solution to Exercise 15
 
-By **Definition 5.7.3 (Right Angle, Acute Angle, Obtuse Angle)**, the angle on a triangular ruler is a right angle; on a red scarf the angle smaller than a right angle is acute, and the one larger than a right angle is obtuse. Each triangular ruler has one right angle and two acute angles. $\blacksquare$
+Right. The $3$ in the thousands place means $3000$, and the $3$ in the tens place means $30$; $3000> 30$, so the number meant by the thousands-place $3$ is larger. $\blacksquare$
 
-## Exercise 197
+## Exercise 16
 
-(Lesson: Getting to Know Angles — Do It Yourself) Count how many right angles each figure below has. What angles are on the surfaces of objects around you?
+(Lesson: Approximate Numbers and Add/Subtract, Practice) Circle the approximate number for each. (1) The Yangtze Source Grand Bridge is $1390$ meters long, about ($1400,1300$) meters. (2) The Tian'e Longtan Grand Bridge is about $2489$ meters long, roughly ($2400,2500$) meters.
 
-### Solution to Exercise 197
+### Solution to Exercise 16
 
-By **Definition 5.7.3 (直角, 锐角, 钝角)**, a desk top is a rectangle with $4$ right angles. A square has $4$ right angles, a rectangle has $4$ right angles, and a triangular ruler has $1$ right angle. Count the number of right angles in each figure. $\blacksquare$
+By **Definition 4.4.6 (Approximate Number)**, $1390$ is close to $1400$; $2489$ is close to $2500$. Circle $1400$ and $2500$. $\blacksquare$
 
-## Exercise 198
+## Exercise 17
 
-(Lesson: Practice 13, Problem 1) Which of the figures below are angles? Which are not angles?
+(Lesson: Approximate Numbers and Add/Subtract, Practice) Lodging capacity of a resort: folk village $2000$ people, guest villa $900$ people, holiday inn $600$ people. Raise a math problem and solve it.
 
-### Solution to Exercise 198
+### Solution to Exercise 17
 
-By **Definition 5.7.2 (Angle)**, a figure formed by two rays drawn out from one point is an angle; if it is not two straight sides drawn out from the same vertex, it is not an angle. Judge accordingly. $\blacksquare$
+For example "how many can be housed in all": $2000+900+600=3500$ people; or "how many more the guest villa houses than the holiday inn": $900-600=300$ people. The answer is not unique. $\blacksquare$
 
-## Exercise 199
+## Exercise 18
 
-(Lesson: Practice 13, Problem 2) Mark the angles in the figures below.
+(Lesson: Approximate Numbers and Add/Subtract, Practice) Like $1111$, use four beads on an abacus to show a four-digit number and write it; can you use four beads to show other numbers?
 
-### Solution to Exercise 199
+### Solution to Exercise 18
 
-By **Definition 5.7.2 (Angle)**, find the places in each figure where two sides are drawn out from one point, and mark the vertex and sides. $\blacksquare$
+Four beads all as lower beads in the thousands, hundreds, tens, and ones places give $1111$; you may also concentrate beads in one place, e.g. an upper bead means $5$, giving different four-digit numbers such as $5110,5101,5011,2200$. The answer is not unique. $\blacksquare$
 
-## Exercise 200
+## Exercise 19
 
-(Lesson: Practice 13, Problem 3) Match them: acute angle, right angle, obtuse angle.
+(Lesson: Approximate Numbers and Add/Subtract, Practice) Library books lent out: month $3$ $673$ books, month $4$ $895$ books, month $5$ $804$ books, month $6$ $621$ books. (1) Which month lent the most? Which the least? (2) About how many hundred books each month?
 
-### Solution to Exercise 200
+### Solution to Exercise 19
 
-By **Definition 5.7.3 (Right Angle, Acute Angle, Obtuse Angle)**, match those smaller than a right angle to acute angle, those equal to the triangular ruler's right angle to right angle, and those larger than a right angle to obtuse angle. $\blacksquare$
-
-## Exercise 201
-
-(Lesson: Practice 13, Problem 4) Draw three angles of different sizes on a dot grid, and say what kind of angle each is.
-
-### Solution to Exercise 201
-
-By **Definition 5.7.3 (直角, 锐角, 钝角)**, draw an acute angle with the narrowest opening, a right angle whose opening is exactly the triangular ruler's right angle, and an obtuse angle with a wider opening. $\blacksquare$
-
-## Exercise 202
-
-(Lesson: Practice 13, Problem 5) Find the right angles, acute angles and obtuse angles in the triangles below. What do you find?
-
-### Solution to Exercise 202
-
-A right triangle has $1$ right angle and $2$ acute angles; an obtuse triangle has $1$ obtuse angle and $2$ acute angles; an acute triangle has three acute angles. Finding: a triangle has at most one right angle or one obtuse angle. $\blacksquare$
-
-## Exercise 203
-
-(Lesson: Practice 13, Problem 6) Count how many angles each figure below has.
-
-### Solution to Exercise 203
-
-By **Definition 5.7.2 (Angle)**, count vertex by vertex: a triangle has $3$ angles, a rectangle has $4$ angles, and composite figures are counted vertex by vertex. $\blacksquare$
-
-## Exercise 204
-
-(Lesson: Practice 13, Problem 7) A square piece of paper has $4$ corners; cut off one corner, how many corners remain? How many ways of cutting are there?
-
-### Solution to Exercise 204
-
-Different cuts give different results: cutting along the diagonal leaves $3$ corners; cutting from one vertex to the opposite side leaves $4$ corners; cutting across two adjacent sides leaves $5$ corners. There are $3$ ways in total. $\blacksquare$
-
-## Exercise 205
-
-(Lesson: Practice 13, Problem 8) Using a pair of triangular rulers, which different angles can you draw?
-
-### Solution to Exercise 205
-
-With the triangular rulers you can directly draw $30^{\circ}$, $45^{\circ}$, $60^{\circ}$, $90^{\circ}$; by putting two angles together you can also draw $75^{\circ}$, $105^{\circ}$, $120^{\circ}$, $135^{\circ}$, $150^{\circ}$, and so on. $\blacksquare$
-
-## Exercise 206
-
-(Lesson: Practice 13, Problem 9) (1) What shape is each piece of the tangram? What angles does each have? (2) Compare the angles of the five triangular pieces. (3) Use two pieces to make a right angle or an obtuse angle.
-
-### Solution to Exercise 206
-
-(1) The tangram has triangles, a square and a parallelogram. (2) The triangular pieces have a right angle and two acute angles. (3) Two acute angles put together can make a right angle or an obtuse angle. $\blacksquare$
-
-## Exercise 207
-
-(Lesson: Practice 14, Problem 1) On a straight line there are three points A, B and C. How many rays and how many line segments are there in total?
-
-### Solution to Exercise 207
-
-By **Definition 5.7.1 (线段, 射线, 直线)**, each point forms a ray in each of the left and right directions, so $3$ points give $6$ rays; the line segments are AB, AC, BC, $3$ in total. $\blacksquare$
-
-## Exercise 208
-
-(Lesson: Practice 14, Problem 2) How many angles and how many line segments does each figure below have?
-
-### Solution to Exercise 208
-
-By **Definition 5.7.1 (线段, 射线, 直线)** and **Definition 5.7.2 (角)**, count one by one: a triangle has $3$ segments and $3$ angles; a quadrilateral has $4$ segments and $4$ angles; other composite figures are filled in according to the number of sides and vertices. $\blacksquare$
-
-## Exercise 209
-
-(Lesson: Practice 14, Problem 3) Look and fill in: (1) The straight lines AB and CD intersect at point ( ). (2) How many angles do two intersecting straight lines form?
-
-### Solution to Exercise 209
-
-(1) They intersect at point O. (2) Two intersecting straight lines form $4$ angles. $\blacksquare$
-
-## Exercise 210
-
-(Lesson: Practice 14, Problem 4, Challenge Problem) Take a cube box; first see how many right angles are on each face, then count how many right angles there are on the whole box. Try a cuboid box and count again; what do you find?
-
-### Solution to Exercise 210
-
-Each face is a square (rectangle) with $4$ right angles; a cube has $6$ faces, giving $4\times6=24$ right angles in total. Each face of a cuboid is also a rectangle, likewise $24$ right angles. Finding: both a cuboid and a cube have $24$ right angles. $\blacksquare$
+(1) $895> 804> 673> 621$; month $4$ is most, month $6$ least. (2) $673\approx700$, $895\approx900$, $804\approx800$, $621\approx600$. $\blacksquare$

@@ -1,262 +1,141 @@
 # week74
-> **Definition 9.6.1 (平行四边形的面积)**
+> **Definition 7.4.1 (口算乘法)**
 > 
-> 从平行四边形一条边上的一点向对边引垂线, 这点和垂足间的线段叫平行四边形的高, 垂足所在的边叫底. 沿高剪开把三角形平移拼成长方形, 长方形的长相当于平行四边形的底, 宽相当于高. 故 $S=ah$.
-> **Definition 9.6.2 (公顷与平方千米)**
+> 两位数乘一位数的口算, 先把两位数分成整十数和一位数, 分别相乘后再相加.
+> **Definition 7.4.2 (笔算乘法)**
 > 
-> 边长 $100$ m 的正方形面积是 $1$ 公顷, $1$ 公顷 $=10000$ m$^2$. 边长 $1$ km 的正方形面积是 $1$ km$^2$, $1$ km$^2=1000000$ m$^2=100$ 公顷.
-> **Definition 9.6.3 (三角形的面积)**
+> 多位数乘多位数时, 把相同数位对齐, 从个位乘起, 用第二个因数的每一位分别乘第一个因数, 再把所得的积相加.
+> **Definition 7.4.3 (积的变化规律)**
 > 
-> 两个完全一样的三角形可以拼成一个平行四边形, 拼成的平行四边形的底等于三角形的底, 高等于三角形的高. 三角形面积是拼成的平行四边形面积的一半: $S=ah\div2$.
-> **Definition 9.6.4 (梯形的面积)**
+> 一个因数不变, 另一个因数乘 (或除以) 几 (0 除外), 积也乘 (或除以) 相同的数.
+> **Definition 7.4.4 (乘法估算)**
 > 
-> 两个完全一样的梯形可以拼成一个平行四边形, 拼成的平行四边形的底等于梯形的上底加下底, 高等于梯形的高. 梯形面积: $S=\left(a+b\right)h\div2$.
-> **Definition 9.6.5 (组合图形的面积)**
-> 
-> 由几个简单图形组合而成的图形叫组合图形. 计算组合图形面积时, 可以把它分割成几个基本图形分别计算面积再相加, 也可以用添补法减去多余部分.
-> **Definition 9.6.6 (不规则图形面积的估计)**
-> 
-> 不规则图形面积可以用数方格的方法估计: 满格数为下限, 满格加非满格为上限, 非满格按半格计算; 也可以把不规则图形近似看作学过的规则图形来计算.
-> **Definition 9.6.7 (皮克定理)**
-> 
-> 以格点为顶点的多边形叫格点多边形. 用 $a$ 表示内部格点数, $b$ 表示边界格点数, 则格点多边形面积 $S=a+b\div2-1$ (皮克定理).
+> 根据问题需要把乘数估大或估小, 快速判断结果范围, 再决定精确计算.
 
-## Exercise 153
+## Exercise 1
 
-(Lesson: Area of a Parallelogram, Example 1) A parallelogram field has base $300$ m and height $200$ m; what is its area? How many hectares?
+(Lesson: Pattern Exploration — Do It) Use a calculator for the first three, then write the last two. (1) $9\times9$, $99\times99$, $999\times999$, $9999\times9999$, $99999\times99999$. (2) $6\times7$, $66\times67$, $666\times667$, $6666\times6667$, $66666\times66667$.
 
-### Solution to Exercise 153
+### Solution to Exercise 1
 
-By **Definition 9.6.1 (平行四边形的面积)**, $S=ah=300\times200=60000$ m$^2$. By **Definition 9.6.2 (公顷与平方千米)**, $60000$ m$^2=6$ hectares. $\blacksquare$
+Find the pattern: (1) $9\times9=81$, $99\times99=9801$, $999\times999=998001$, $9999\times9999=99980001$, $99999\times99999=9999800001$. (2) $6\times7=42$, $66\times67=4422$, $666\times667=444222$, $6666\times6667=44442222$, $66666\times66667=4444422222$. $\blacksquare$
 
-## Exercise 154
+## Exercise 2
 
-(Lesson: Hectare and Square Kilometer, Try It) (1) What is the area of a square of side $10$ m? How many such squares make $1$ hectare? (2) A rectangular swimming pool is $50$ m by $25$ m; how many pools make $1$ hectare?
+(Lesson: Practice 9, Problem 1) Mental math: $40\times80$, $50\times90$, $32\times20$, $190\times5$, $70\times140$, $21\times40$, $300\times60$, $25\times30$.
 
-### Solution to Exercise 154
+### Solution to Exercise 2
 
-(1) Area $10\times10=100$ m$^2$, $1$ hectare $=10000$ m$^2$, so $10000\div100=100$ are needed. (2) Pool area $50\times25=1250$ m$^2$, $10000\div1250=8$ pools. $\blacksquare$
+By **Definition 7.4.1 (Mental Multiplication)**: $40\times80=3200$, $50\times90=4500$, $32\times20=640$, $190\times5=950$, $70\times140=9800$, $21\times40=840$, $300\times60=18000$, $25\times30=750$. $\blacksquare$
 
-## Exercise 155
+## Exercise 3
 
-(Lesson: Area of a Parallelogram, Try It, Problem 1) Unit conversion: $7$ hectares $=\left(\ \ \right)$ m$^2$; $60000$ m$^2=\left(\ \ \right)$ hectares; $5$ km$^2=\left(\ \ \right)$ hectares; $12000000$ m$^2=\left(\ \ \right)$ hectares $=\left(\ \ \right)$ km$^2$.
+(Lesson: Practice 9, Problem 2) Write: $480\times50$, $506\times26$, $3700\times35$, $58\times2500$, $408\times50$, $560\times26$, $3070\times35$, $85\times2005$.
 
-### Solution to Exercise 155
+### Solution to Exercise 3
 
-By **Definition 9.6.2 (公顷与平方千米)**: $7$ hectares $=70000$ m$^2$; $60000$ m$^2=6$ hectares; $5$ km$^2=500$ hectares; $12000000$ m$^2=1200$ hectares $=12$ km$^2$. $\blacksquare$
+By **Definition 7.4.2 (Written Multiplication)**: $480\times50=24000$, $506\times26=13156$, $3700\times35=129500$, $58\times2500=145000$, $408\times50=20400$, $560\times26=14560$, $3070\times35=107450$, $85\times2005=170425$. $\blacksquare$
 
-## Exercise 156
+## Exercise 4
 
-(Lesson: Area of Polygons, Practice 14, Review and Consolidation, Problem 1) A parallelogram parking space has base $6$ m and height $2.5$ m; what is its area?
+(Lesson: Practice 9, Problem 3) Fill in $\bigcirc$ with $> $, $< $ or $=$: $120\times20\bigcirc12\times200$; $500\times10\bigcirc10\times550$; $16\times400\bigcirc210\times4$; $19\times300\bigcirc30\times180$.
 
-### Solution to Exercise 156
+### Solution to Exercise 4
 
-By **Definition 9.6.1 (平行四边形的面积)**, $S=6\times2.5=15$ m$^2$. $\blacksquare$
+By **Definition 7.4.3 (How the Product Changes)**: $120\times20=12\times200$; $500\times10=5000< 10\times550=5500$; $16\times400=6400> 210\times4=840$; $19\times300=5700> 30\times180=5400$. $\blacksquare$
 
-## Exercise 157
+## Exercise 5
 
-(Lesson: Area of Polygons, Practice 14, Review and Consolidation, Problem 2) Compute the parallelogram areas: base $70$ cm height $9.8$ cm; base $6.2$ cm height $21$ cm; base $21.5$ cm height $26$ cm; base $5.2$ cm height $15$ cm; base $0.9$ cm height $0.4$ cm.
+(Lesson: Practice 9, Problem 4) Sports-goods sales: basketballs at unit price $158$ yuan sold $29$, footballs at $120$ yuan sold $38$, and volleyballs at unknown unit price sold some. Fill in the sales amount.
 
-### Solution to Exercise 157
+### Solution to Exercise 5
 
-By **Definition 9.6.1 (平行四边形的面积)**: $70\times9.8=686$; $6.2\times21=130.2$; $21.5\times26=559$; $5.2\times15=78$; $0.9\times0.4=0.36$ cm$^2$. $\blacksquare$
+By **Definition 7.4.2 (Written Multiplication)**: basketballs $158\times29=4582$ yuan, footballs $120\times38=4560$ yuan. Volleyballs are filled in by multiplying their unit price by the quantity. $\blacksquare$
 
-## Exercise 158
+## Exercise 6
 
-(Lesson: Area of Polygons, Practice 14, Review and Consolidation, Problem 3) (1) The Forbidden City covers $72$ hectares; how many m$^2$? (2) The Summer Palace covers $3000000$ m$^2$; how many hectares?
+(Lesson: Practice 9, Problem 5) Based on the product of the first problem, write the next two: (1) $79\times2=$, $79\times20=$, $79\times200=$. (2) $240\times3=$, $240\times30=$, $24\times3=$. (3) $180\times5=$, $180\times15=$, $360\times15=$.
 
-### Solution to Exercise 158
+### Solution to Exercise 6
 
-By **Definition 9.6.2 (公顷与平方千米)**: (1) $72\times10000=720000$ m$^2$. (2) $3000000\div10000=300$ hectares. $\blacksquare$
+By **Definition 7.4.3 (How the Product Changes)**: (1) $79\times2=158$, $79\times20=1580$, $79\times200=15800$; (2) $240\times3=720$, $240\times30=7200$, $24\times3=72$; (3) $180\times5=900$, $180\times15=2700$, $360\times15=5400$. $\blacksquare$
 
-## Exercise 159
+## Exercise 7
 
-(Lesson: Area of Polygons, Practice 14, Integrated Use, Problem 1) A parallelogram wheat field has base $250$ m and height $84$ m, yielding $14.7$ t of wheat. How many hectares is the field? What is the yield per hectare?
+(Lesson: Practice 9, Problem 6) Based on $15\times14=210$, write directly: $15\times28=$, $15\times42=$, $15\times56=$, $15\times70=$.
 
-### Solution to Exercise 159
+### Solution to Exercise 7
 
-Area $250\times84=21000$ m$^2=2.1$ hectares. Yield per hectare $14.7\div2.1=7$ t. $\blacksquare$
+By **Definition 7.4.3 (How the Product Changes)**: $15\times28=420$, $15\times42=630$, $15\times56=840$, $15\times70=1050$. $\blacksquare$
 
-## Exercise 160
+## Exercise 8
 
-(Lesson: Area of Polygons, Practice 14, Integrated Use, Problem 2) A parallelogram has area $28$ m$^2$ and base $7$ m; what is its height?
+(Lesson: Practice 9, Problem 7) Compute the first column and find the pattern to write the second: $15\times15$, $25\times25$, $35\times35$, $45\times45$; $55\times55$, $65\times65$, $75\times75$, $85\times85$.
 
-### Solution to Exercise 160
+### Solution to Exercise 8
 
-By **Definition 9.6.1 (平行四边形的面积)**, $h=S\div a=28\div7=4$ m. $\blacksquare$
+Pattern: when two equal numbers whose ones digit is $5$ are multiplied, the last two digits are $25$, and the front is the tens digit times (the tens digit $+1$). $15\times15=225$, $25\times25=625$, $35\times35=1225$, $45\times45=2025$, $55\times55=3025$, $65\times65=4225$, $75\times75=5625$, $85\times85=7225$. $\blacksquare$
 
-## Exercise 161
+## Exercise 9
 
-(Lesson: Area of a Triangle, Example) A red scarf has base $120$ cm and height $39.8$ cm; what is its area?
+(Lesson: Practice 9, Problem 8) Find the pattern: $3\times4=12$, $33\times34=1122$, $333\times334=111222$, the next is $111111222222$; write the expression.
 
-### Solution to Exercise 161
+### Solution to Exercise 9
 
-By **Definition 9.6.3 (三角形的面积)**, $S=ah\div2=120\times39.8\div2=2388$ cm$^2$. $\blacksquare$
+Pattern: (some $3$s) times (some $3$s plus $4$) gives some $1$s followed by some $2$s. $111111222222$ corresponds to $333333\times333334$. $\blacksquare$
 
-## Exercise 162
+## Exercise 10
 
-(Lesson: Area of a Triangle, Try It, Problem 1) A parallelogram has area $12$ cm$^2$; find the area of the shaded triangle inside it.
+(Lesson: Estimation in Multiplication — Do It) $1026$ teachers and students take buses, each limited to $48$ people (including the driver); are $19$ buses enough?
 
-### Solution to Exercise 162
+### Solution to Exercise 10
 
-By **Definition 9.6.3 (三角形的面积)**, the triangle shares the base and height with the parallelogram, so its area is half: $12\div2=6$ cm$^2$. $\blacksquare$
+Each bus actually carries $47$ teachers/students, $47\times19\approx50\times20=1000< 1026$, not enough. Computing exactly, $47\times19=893< 1026$, not enough. $\blacksquare$
 
-## Exercise 163
+## Exercise 11
 
-(Lesson: Area of Polygons, Practice 15, Review and Consolidation, Problem 1) A road warning sign is a triangle of base $7.8$ dm and the corresponding height; find its area.
+(Lesson: Practice 10, Problem 1) To type a $3000$-character article, Uncle Ding types $105$ characters per minute; can he finish in $30$ minutes?
 
-### Solution to Exercise 163
+### Solution to Exercise 11
 
-By **Definition 9.6.3 (三角形的面积)**, $S=ah\div2$, substituting the base and height. $\blacksquare$
+$105\times30=3150$ characters, $3150> 3000$, he can finish. $\blacksquare$
 
-## Exercise 164
+## Exercise 12
 
-(Lesson: Area of Polygons, Practice 15, Review and Consolidation, Problem 2) Triangles: base $2.4$ dm height $1.5$ dm; base $2.8$ m height $2.5$ m; base $3$ cm and the corresponding height. Find the areas.
+(Lesson: Practice 10, Problem 2) The library has $4$ study rooms, each with $19$ rows and $18$ people per row; about how many can it hold at once?
 
-### Solution to Exercise 164
+### Solution to Exercise 12
 
-By **Definition 9.6.3 (三角形的面积)**: $2.4\times1.5\div2=1.8$ dm$^2$; $2.8\times2.5\div2=3.5$ m$^2$; the rest by $S=ah\div2$. $\blacksquare$
+By **Definition 7.4.4 (Estimation in Multiplication)**, $19\times18\approx20\times20=400$, $400\times4=1600$ people. $\blacksquare$
 
-## Exercise 165
+## Exercise 13
 
-(Lesson: Area of Polygons, Practice 15, Review and Consolidation, Problem 3) Fill the table: triangle base $6.2$ cm height $3.5$ cm; triangle base $9.6$ cm height $16$ cm; parallelogram base $25$ cm height $4.8$ cm; parallelogram base $12.5$ cm height $6.3$ cm. Find the areas.
+(Lesson: Practice 10, Problem 3) $293$ boxes of honey peaches at $18$ kg per box; can a truck with a load capacity of $6$ t carry them in one trip?
 
-### Solution to Exercise 165
+### Solution to Exercise 13
 
-Triangles: $6.2\times3.5\div2=10.85$; $9.6\times16\div2=76.8$ cm$^2$. Parallelograms: $25\times4.8=120$; $12.5\times6.3=78.75$ cm$^2$. $\blacksquare$
+$293\times18\approx300\times20=6000$ kg $=6$ t; computing exactly, $293\times18=5274$ kg $< 6000$ kg, it can carry them. $\blacksquare$
 
-## Exercise 166
+## Exercise 14
 
-(Lesson: Area of Polygons, Practice 15, Integrated Use) A parallelogram is split into two triangles, each of area $270$ m$^2$, with one side $22.5$ m and the other $18$ m. Find the parallelogram's perimeter.
+(Lesson: Practice 10, Problem 4) Shenzhou-16 takes about $90$ minutes to orbit Earth once; how long does it take to orbit $201$ times?
 
-### Solution to Exercise 166
+### Solution to Exercise 14
 
-From triangle area $270=ah\div2$, taking $22.5$ m as base, height $=270\times2\div22.5=24$ m; the parallelogram's adjacent sides are $22.5$ m and $18$ m, so perimeter $=\left(22.5+18\right)\times2=81$ m. $\blacksquare$
+By **Definition 7.4.2 (Written Multiplication)**, $90\times201=18090$ minutes. $\blacksquare$
 
-## Exercise 167
+## Exercise 15
 
-(Lesson: Area of Polygons, Practice 15, Extension and Improvement) A parallelogram has area $48$ m$^2$, and A is the midpoint of the base; find the shaded triangle's area.
+(Lesson: Practice 10, Problem 5) There are $192$ teachers and students in grade four, tickets $38$ yuan each; is the $8000$ yuan the teacher brought enough?
 
-### Solution to Exercise 167
+### Solution to Exercise 15
 
-By **Definition 9.6.3 (三角形的面积)**, the shaded triangle has half the base and the same height as the parallelogram, so area $=48\div2\div2=12$ m$^2$. $\blacksquare$
+$192\times38\approx200\times40=8000$; computing exactly, $192\times38=7296< 8000$, enough. $\blacksquare$
 
-## Exercise 168
+## Exercise 16
 
-(Lesson: Area of a Trapezoid, Example) The cross-section of the Three Gorges Dam is a trapezoid with upper base $36$ m, lower base $120$ m and height $135$ m; find its area.
+(Lesson: Practice 11, Problem 1) Mental math: $23\times300$, $72\times20$, $19\times40$, $140\times50$, $320\times4$, $270\times30$, $910\times8$, $14\times500$.
 
-### Solution to Exercise 168
+### Solution to Exercise 16
 
-By **Definition 9.6.4 (梯形的面积)**, $S=\left(a+b\right)h\div2=\left(36+120\right)\times135\div2=156\times135\div2=10530$ m$^2$. $\blacksquare$
-
-## Exercise 169
-
-(Lesson: Area of Polygons, Practice 16, Review and Consolidation, Problem 1) A canal's cross-section is a trapezoid, top width $2.8$ m, bottom width $1.4$ m, depth $1.2$ m. What is the cross-sectional area?
-
-### Solution to Exercise 169
-
-By **Definition 9.6.4 (梯形的面积)**, $S=\left(2.8+1.4\right)\times1.2\div2=4.2\times1.2\div2=2.52$ m$^2$. $\blacksquare$
-
-## Exercise 170
-
-(Lesson: Area of Polygons, Practice 16, Review and Consolidation, Problem 2) Compute the trapezoid areas: upper base $4$ m, lower base $3$ m, corresponding height; upper base $12$ cm, lower base $15$ cm, height $4.8$ cm; upper base $18$ cm, lower base $5.9$ cm, corresponding height.
-
-### Solution to Exercise 170
-
-By **Definition 9.6.4 (梯形的面积)**, $S=\left(a+b\right)h\div2$, substitute each. E.g. $\left(12+15\right)\times4.8\div2=27\times4.8\div2=64.8$ cm$^2$. $\blacksquare$
-
-## Exercise 171
-
-(Lesson: Area of Polygons, Practice 16, Integrated Use, Problem 1) A trapezoidal flower bed leans against a wall; the fence is $46$ m long and the height $20$ m. Find the bed's area.
-
-### Solution to Exercise 171
-
-The fence is the upper base plus lower base plus height (one side against the wall), so upper base $+$ lower base $=46-20=26$ m. Area $=26\times20\div2=260$ m$^2$. $\blacksquare$
-
-## Exercise 172
-
-(Lesson: Area of Polygons, Practice 16, Integrated Use, Problem 2) A trapezoid has area $15$ cm$^2$, upper base $4.5$ cm and height $3$ cm; what is the lower base?
-
-### Solution to Exercise 172
-
-By **Definition 9.6.4 (梯形的面积)**, $15=\left(4.5+b\right)\times3\div2$, $4.5+b=10$, $b=5.5$ cm. $\blacksquare$
-
-## Exercise 173
-
-(Lesson: Area of Polygons, Practice 16, Extension and Improvement) Logs pile up in a trapezoidal cross-section; the total number is (top count $+$ bottom count) $\times$ layers $\div2$. Explain why.
-
-### Solution to Exercise 173
-
-By **Definition 9.6.4 (梯形的面积)**, the pile's cross-section is a trapezoid: the top count is the upper base, the bottom count the lower base, and the number of layers the height; the total count is just the trapezoid area formula. $\blacksquare$
-
-## Exercise 174
-
-(Lesson: Area of a Composite Figure, Example) A house's side wall is a square plus a triangle; the square has side $5$ m and the triangle height $2$ m. What is the area?
-
-### Solution to Exercise 174
-
-By **Definition 9.6.5 (组合图形的面积)**, square area $5\times5=25$ m$^2$, triangle area $5\times2\div2=5$ m$^2$, total $25+5=30$ m$^2$. $\blacksquare$
-
-## Exercise 175
-
-(Lesson: Estimating the Area of an Irregular Figure, Example) On grid paper each square is $1$ cm$^2$; a leaf covers $18$ full squares and $18$ partial squares. Estimate the leaf's area.
-
-### Solution to Exercise 175
-
-By **Definition 9.6.6 (不规则图形面积的估计)**, the area is between $18$ and $36$ cm$^2$; counting partials as half: $18+18\div2=27$ cm$^2$. $\blacksquare$
-
-## Exercise 176
-
-(Lesson: Area of Polygons, Practice 17, Review and Consolidation, Problem 1) Xinfeng Primary School's vegetable plot is a rectangle plus a triangle; the rectangle is $50$ m by $33$ m and the triangle has base $35$ m and height $12$ m. Find the area.
-
-### Solution to Exercise 176
-
-By **Definition 9.6.5 (组合图形的面积)**, rectangle $50\times33=1650$ m$^2$, triangle $35\times12\div2=210$ m$^2$, total $1860$ m$^2$. $\blacksquare$
-
-## Exercise 177
-
-(Lesson: Area of Polygons, Practice 17, Review and Consolidation, Problem 2) A trapezoidal plot has a rectangular pond in the middle, the rest being grass. The trapezoid has upper base $40$ m, lower base $70$ m and height $30$ m; the pond is $30$ m by $15$ m. What is the grass area?
-
-### Solution to Exercise 177
-
-Trapezoid area $\left(40+70\right)\times30\div2=1650$ m$^2$, pond $30\times15=450$ m$^2$, grass $1650-450=1200$ m$^2$. $\blacksquare$
-
-## Exercise 178
-
-(Lesson: Area of Polygons, Practice 17, Extension and Improvement, Thinking Question) A tangram forms a square of side $12$ cm; compute each piece's area.
-
-### Solution to Exercise 178
-
-Total square area $12\times12=144$ cm$^2$. By ratio: the two large triangles each take $\frac{1}{4}$, i.e. $36$ cm$^2$; the medium triangle takes $\frac{1}{8}$, i.e. $18$ cm$^2$; the two small triangles each take $\frac{1}{16}$, i.e. $9$ cm$^2$; the square takes $\frac{1}{8}$, i.e. $18$ cm$^2$; the parallelogram takes $\frac{1}{8}$, i.e. $18$ cm$^2$. $\blacksquare$
-
-## Exercise 179
-
-(Lesson: Lattice Polygons, Try It) Use Pick's theorem to compute a lattice polygon's area, verifying $S=a+b\div2-1$.
-
-### Solution to Exercise 179
-
-By **Definition 9.6.7 (Pick's theorem)**, count interior points $a$ and boundary points $b$, substitute into $S=a+b\div2-1$, and compare with the split-method result. $\blacksquare$
-
-## Exercise 180
-
-(Lesson: Area of Polygons, Practice 18, Review and Consolidation, Problem 1) Compute each area: rectangle $36$ cm $\times18$ cm; parallelogram base $1.9$ m height $1.8$ m; triangle base $3.1$ m height $2.2$ m; trapezoid upper base $2.5$ dm, corresponding lower base and height.
-
-### Solution to Exercise 180
-
-Rectangle $36\times18=648$ cm$^2$; parallelogram $1.9\times1.8=3.42$ m$^2$; triangle $3.1\times2.2\div2=3.41$ m$^2$; trapezoid by $\left(a+b\right)h\div2$. $\blacksquare$
-
-## Exercise 181
-
-(Lesson: Area of Polygons, Practice 18, Review and Consolidation, Problem 2) A seeder is $2$ m wide and goes $5$ km per hour; how many hectares does it sow in $4$ hours?
-
-### Solution to Exercise 181
-
-Sown area $2\times5000\times4=40000$ m$^2=4$ hectares. $\blacksquare$
-
-## Exercise 182
-
-(Lesson: Area of Polygons, Practice 18, Integrated Use) A wall is a rectangle plus a triangle; brick usage is $185$ per square meter. The rectangle is $5$ m by $4$ m and the triangle height $1.2$ m. How many bricks in total?
-
-### Solution to Exercise 182
-
-Rectangle $5\times4=20$ m$^2$, triangle $5\times1.2\div2=3$ m$^2$, total $23$ m$^2$, bricks $23\times185=4255$. $\blacksquare$
+By **Definition 7.4.1 (Mental Multiplication)**: $23\times300=6900$, $72\times20=1440$, $19\times40=760$, $140\times50=7000$, $320\times4=1280$, $270\times30=8100$, $910\times8=7280$, $14\times500=7000$. $\blacksquare$

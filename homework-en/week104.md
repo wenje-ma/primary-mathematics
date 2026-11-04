@@ -1,100 +1,201 @@
 # week104
-> **Definition 12.7.1 (鸽巢原理)**
+> **Definition 9.4.1 (轴对称图形)**
 > 
-> 把多于 $n$ 个物体放进 $n$ 个抽屉, 总有一个抽屉里至少放进 $2$ 个物体. 把多于 $kn$ 个物体放进 $n$ 个抽屉, 总有一个抽屉至少放进 $k+1$ 个物体. 计算方法: 用物体数除以抽屉数, 若得商 $k$ 余 $r$ ($r> 0$), 则总有一个抽屉至少有 $k+1$ 个物体.
+> 一个图形沿着一条直线对折, 直线两旁的部分能够完全重合, 这个图形就是轴对称图形, 这条直线叫对称轴. 轴对称图形上对应点到对称轴的距离相等, 对应点连线与对称轴垂直.
+> **Definition 9.4.2 (平移)**
+> 
+> 图形平移后, 形, 大小, 方向都不变, 对应点移动的方向相同, 移动的距离相等. 画平移后的图形时, 先找关键点平移后的位置, 再连起来.
+> **Definition 9.4.3 (旋转)**
+> 
+> 物体绕着一个点或轴转动叫旋转. 旋转时旋转中心位置不变, 对应点都绕旋转中心按同一方向旋转相同的角度, 图形的形和大小不变.
+> **Definition 9.5.1 (用字母表示数)**
+> 
+> 参见教材相应章节关于此概念的论述.
+> **Definition 9.5.2 (含有字母式子的书写)**
+> 
+> 数字与字母相乘时省略乘号, 数字写在字母前面, 如 $m\times6=6m$; $1$ 与字母相乘时 $1$ 省略不写; 字母与字母相乘时乘号可记作"$\cdot$"或省略; 两个相同字母相乘写作 $a^2$, 读作"a 的平方".
+> **Definition 9.5.3 (用字母表示运算律和公式)**
+> 
+> 加法交换律 $a+b=b+a$; 加法结合律 $\left(a+b\right)+c=a+\left(b+c\right)$; 乘法交换律 $ab=ba$; 乘法结合律 $\left(ab\right)c=a\left(bc\right)$; 乘法分配律 $\left(a+b\right)c=ac+bc$. 正方形周长 $C=4a$, 面积 $S=a^2$; 长方形周长 $C=2\left(a+b\right)$, 面积 $S=ab$.
+> **Definition 9.5.4 (等式的性质)**
+> 
+> 如果 $a=b$, 那么 $a+c=b+c$, $a-c=b-c$, $ac=bc$, $a\div c=b\div c$ ($c\neq0$). 利用等式的性质可以求出等式中的未知数.
+> **Definition 9.5.5 (用字母表示数量关系并代入求值)**
+> 
+> 用含有字母的式子表示实际问题中的数量关系, 再把字母取具体数值代入式子计算结果.
 
-## Exercise 93
+## Exercise 1
 
-(Lesson: Pigeonhole Problems, Example 1) Put $4$ pencils into $3$ pencil cups; however you distribute them, there is always $1$ cup containing at least $2$ pencils. Why?
+(Lesson: Motion of Figures, Practice 9, Review and Consolidation, Problem 1) The pendulum rotates about point O ( )-clockwise; the pendulum rotates about point O ( )-clockwise. (Judge from the figure.)
 
-### Solution to Exercise 93
+### Solution to Exercise 1
 
-By **Definition 12.7.1 (Pigeonhole Principle)**, $4\div3=1\cdots\cdots1$, quotient $1$ remainder $1$. If each cup holds at most $1$ pencil, the $3$ cups hold at most $3$ pencils, and the remaining $1$ pencil must go into one of the cups; hence there is always $1$ cup with at least $1+1=2$ pencils. $\blacksquare$
+By **Definition 9.4.3 (旋转)**, observe the swing direction: fill "clockwise" for the clockwise direction and "counterclockwise" for the other. $\blacksquare$
 
-## Exercise 94
+## Exercise 2
 
-(Lesson: Pigeonhole Problems, Do It) Pick $13$ teachers at random; at least $2$ of them share the same Chinese zodiac sign. Why?
+(Lesson: Motion of Figures, Practice 9, Review and Consolidation, Problem 2) Figure OABC rotated $90^\circ$ clockwise about O gives figure ①; rotated about O ( )-clockwise by ( ) gives figure ②; rotated about O ( )-clockwise by ( ) gives figure ③.
 
-### Solution to Exercise 94
+### Solution to Exercise 2
 
-By **Definition 12.7.1 (Pigeonhole Principle)**, there are $12$ zodiac signs, treated as $12$ drawers, and the $13$ teachers are $13$ objects. Since $13\div12=1\cdots\cdots1$, at least $1+1=2$ people share a sign. $\blacksquare$
+By **Definition 9.4.3 (旋转)**, observe each figure's direction relative to the original: if ② is reversed, fill "counterclockwise $90^\circ$"; if ③ is upside down, fill "clockwise $180^\circ$" or "counterclockwise $180^\circ$". $\blacksquare$
 
-## Exercise 95
+## Exercise 3
 
-(Lesson: Pigeonhole Problems, Example 2) Put $7$ books into $3$ drawers; however you distribute them, there is always $1$ drawer containing at least $3$ books. Why? What if there are $8$ books, or $10$ books?
+(Lesson: Motion of Figures, Practice 9, Review and Consolidation, Problem 3) Draw segment AB rotated $90^\circ$ clockwise about point A; segment AB rotated $90^\circ$ counterclockwise about point B; and the rectangle rotated $90^\circ$ clockwise about point A.
 
-### Solution to Exercise 95
+### Solution to Exercise 3
 
-By **Definition 12.7.1 (Pigeonhole Principle)**. $7\div3=2\cdots\cdots1$, so at least $2+1=3$ books. $8\div3=2\cdots\cdots2$, so at least $2+1=3$ books. $10\div3=3\cdots\cdots1$, so at least $3+1=4$ books. $\blacksquare$
+By **Definition 9.4.3 (旋转)**, rotate by $90^\circ$ in the specified direction about the specified point, keep the segment length unchanged, and draw the rotated figure. $\blacksquare$
 
-## Exercise 96
+## Exercise 4
 
-(Lesson: Pigeonhole Problems, Do It) $11$ pigeons fly into $4$ pigeonholes; there is always $1$ hole receiving at least $3$ pigeons. Why?
+(Lesson: Motion of Figures, Practice 9, Integrated Use) Draw the "kite" rotated $90^\circ$ about point A (outline only).
 
-### Solution to Exercise 96
+### Solution to Exercise 4
 
-By **Definition 12.7.1 (Pigeonhole Principle)**, $11\div4=2\cdots\cdots3$, quotient $2$ remainder $3$, so there is always $1$ hole receiving at least $2+1=3$ pigeons. $\blacksquare$
+By **Definition 9.4.3 (旋转)**, rotate each vertex of the "kite" $90^\circ$ about point A to find their images, then connect them in outline order. $\blacksquare$
 
-## Exercise 97
+## Exercise 5
 
-(Lesson: Pigeonhole Problems, Do It) After removing the jokers from a deck of cards, $52$ cards remain. $9$ people each draw $1$ card at random; at least $3$ cards are of the same suit. Why?
+(Lesson: Motion of Figures, Practice 9, Extension and Improvement) The two axes of a rectangle meet at point O; rotate the rectangle about O. What do you find after rotating $90^\circ$, $180^\circ$ and $360^\circ$?
 
-### Solution to Exercise 97
+### Solution to Exercise 5
 
-By **Definition 12.7.1 (Pigeonhole Principle)**, the $52$ cards fall into $4$ suits, treated as $4$ drawers. The $9$ people draw $9$ cards, and $9\div4=2\cdots\cdots1$, so at least $2+1=3$ cards are of the same suit. $\blacksquare$
+By **Definition 9.4.3 (旋转)**, after rotating $180^\circ$ about O the rectangle coincides with itself, and after $360^\circ$ it returns to the start. After $90^\circ$ the rectangle becomes horizontal (if it was vertical). $\blacksquare$
 
-## Exercise 98
+## Exercise 6
 
-(Lesson: Pigeonhole Problems, Example 3) A box contains red and blue balls, $4$ of each, of the same size. To be certain of drawing $2$ balls of the same color, at least how many balls must be drawn?
+(Lesson: Designing Patterns, Try It) Use translation, symmetry and rotation to design a pattern.
 
-### Solution to Exercise 98
+### Solution to Exercise 6
 
-By **Definition 12.7.1 (Pigeonhole Principle)**, there are $2$ colors, treated as $2$ drawers. In the worst case, first draw $2$ balls of different colors; the next $1$ draw must match one of them, so at least $2+1=3$ balls are needed. $\blacksquare$
+A basic figure can be translated repeatedly by $2$ squares to form a border, or used to design a symmetric pattern by axial symmetry, or rotated to form a radial pattern. $\blacksquare$
 
-## Exercise 99
+## Exercise 7
 
-(Lesson: Pigeonhole Problems, Do It) Grade 6 of Dongxiang Elementary School has $367$ students in total, and Class 6(2) has $37$ students. Someone says that at least $2$ students in Grade 6 share a birthday, and at least $4$ students in Class 6(2) share a birth month. Is he right?
+(Lesson: Motion of Figures, Practice 10, Review and Consolidation, Problem 1) Draw the translated figures as required: figure ① right by $7$ squares, figure ② left by $6$ squares, figure ③ up by $3$ squares.
 
-### Solution to Exercise 99
+### Solution to Exercise 7
 
-By **Definition 12.7.1 (Pigeonhole Principle)**. A year has at most $366$ days, and $367\div366=1\cdots\cdots1$, so at least $1+1=2$ people share a birthday — correct. A year has $12$ months, and $37\div12=3\cdots\cdots1$, so at least $3+1=4$ people share a birth month — correct. $\blacksquare$
+By **Definition 9.4.2 (平移)**, pick key points, translate them by the specified direction and number of squares, then connect them. $\blacksquare$
 
-## Exercise 100
+## Exercise 8
 
-(Lesson: Pigeonhole Problems, Do It) Put $10$ balls of each of $4$ colors — red, yellow, blue, and white — into $1$ bag. At least how many balls must be drawn to guarantee two balls of the same color?
+(Lesson: Motion of Figures, Practice 10, Review and Consolidation, Problem 2) First complete the axially symmetric figure by its axis, then draw it translated $10$ squares to the right.
 
-### Solution to Exercise 100
+### Solution to Exercise 8
 
-By **Definition 12.7.1 (Pigeonhole Principle)**, there are $4$ colors, treated as $4$ drawers. In the worst case, first draw $4$ balls of different colors; the next $1$ draw must match one of them, so at least $4+1=5$ balls are needed. $\blacksquare$
+By **Definition 9.4.1 (轴对称图形)**, complete the axially symmetric figure, then by **Definition 9.4.2 (平移)** translate it $10$ squares to the right. $\blacksquare$
 
-## Exercise 101
+## Exercise 9
 
-(Lesson: Exercise 13, Problem 1) Uncle Zhang takes part in a dart contest and throws $5$ darts, scoring $41$ points. At least one dart scores no less than $9$ points. Why?
+(Lesson: Motion of Figures, Practice 10, Integrated Use) Observe three groups of figures; how can translation or rotation turn each group into one square? What other figures can it become?
 
-### Solution to Exercise 101
+### Solution to Exercise 9
 
-By **Definition 12.7.1 (Pigeonhole Principle)**, treat the $5$ darts as $5$ drawers. Since $41\div5=8\cdots\cdots1$, each dart averages $8$ points with $1$ point left over, so at least one dart scores no less than $8+1=9$ points. $\blacksquare$
+By **Definition 9.4.2 (平移)** and **Definition 9.4.3 (旋转)**, rotate the wrongly oriented pieces and translate the wrongly positioned pieces so each group assembles into a square; other regular figures can also be assembled. $\blacksquare$
 
-## Exercise 102
+## Exercise 10
 
-(Lesson: Exercise 13, Problem 2) Paint the $6$ faces of $1$ cube block with two colors, blue and yellow. However you paint them, at least $3$ faces share the same color. Why?
+(Lesson: Using Letters to Stand for Numbers, Example 1) Dad is $25$ years older than Xiao Hong. Use $a$ for Xiao Hong's age; how is Dad's age written? When $a=11$, how old is Dad? When Dad is $57$, what is $a$?
 
-### Solution to Exercise 102
+### Solution to Exercise 10
 
-By **Definition 12.7.1 (Pigeonhole Principle)**, treat the $2$ colors as $2$ drawers. Since $6\div2=3$, at least $3$ faces are painted the same color. $\blacksquare$
+By **Definition 9.5.1 (Using Letters to Stand for Numbers)**, Dad's age $=a+25$. When $a=11$, $b=11+25=36$ years. When $b=57$, $a=57-25=32$. $\blacksquare$
 
-## Exercise 103
+## Exercise 11
 
-(Lesson: Exercise 13, Problem 3) Mix together $3$ chopsticks of each of $3$ colors — red, blue, and yellow. With your eyes closed, at least how many chopsticks must you take out to guarantee $2$ chopsticks of the same color?
+(Lesson: Using Letters to Stand for Numbers, Try It, Problem 1) Xiao Ming sold $m$ items. (1) Xiao Hua sold $4$ more than Xiao Ming; how many did Xiao Hua sell? (2) Xiao Lin and Xiao Ming sold $16$ together; how many did Xiao Lin sell?
 
-### Solution to Exercise 103
+### Solution to Exercise 11
 
-By **Definition 12.7.1 (Pigeonhole Principle)**, there are $3$ colors, treated as $3$ drawers. In the worst case, first take $3$ chopsticks of different colors; the next $1$ chopstick must match one of them to form a pair, so at least $3+1=4$ chopsticks are needed. $\blacksquare$
+By **Definition 9.5.1 (用字母表示数)**: (1) Xiao Hua sold $m+4$ items. (2) Xiao Lin sold $16-m$ items. $\blacksquare$
 
-## Exercise 104
+## Exercise 12
 
-(Lesson: Exercise 13, Problem 4) Given any $3$ different natural numbers, there must be $2$ whose sum is even. Explain why.
+(Lesson: Using Letters to Stand for Numbers, Try It, Problem 2) Fill expressions from the segment diagram: the distance from the supermarket to the school; from Lanlan's home to the bookstore; how much farther Lanlan walks to school than to the supermarket. (Given: supermarket to Lanlan's home $500$ m, Lanlan's home to school $a$ m, school to bookstore $b$ m.)
 
-### Solution to Exercise 104
+### Solution to Exercise 12
 
-Natural numbers fall into two classes by parity: odd and even, treated as $2$ drawers. Putting $3$ natural numbers into $2$ drawers, by **Definition 12.7.1 (Pigeonhole Principle)**, at least $2$ numbers are both odd or both even. Odd $+$ odd $=$ even, and even $+$ even $=$ even, so the sum of these two numbers must be even. $\blacksquare$
+By **Definition 9.5.1 (用字母表示数)**: supermarket to school $500+a$ m; Lanlan's home to bookstore $a+b$ m; to school versus supermarket $a-500$ m farther. $\blacksquare$
+
+## Exercise 13
+
+(Lesson: Using Letters to Stand for Numbers, Example 2) On Earth one can lift $m$ kg, and on the Moon the liftable mass is $6$ times that. Write an expression for the mass lifted on the Moon; when $m=15$, what is $n$?
+
+### Solution to Exercise 13
+
+By **Definition 9.5.1 (用字母表示数)** and **Definition 9.5.2 (含有字母式子的书写)**, the lunar liftable mass is $n=6m$. When $m=15$, $n=6\times15=90$ kg. $\blacksquare$
+
+## Exercise 14
+
+(Lesson: Using Letters to Stand for Numbers, Try It, Problem 3) A rectangular strip is $5.6$ cm wide, with lengths $5.6,15$ cm; find the areas and fill the table.
+
+### Solution to Exercise 14
+
+By **Definition 9.5.3 (用字母表示运算律和公式)**, area $S=$ length $\times$ width. Length $5.6$ cm gives area $5.6\times5.6=31.36$ cm$^2$; length $15$ cm gives area $15\times5.6=84$ cm$^2$. $\blacksquare$
+
+## Exercise 15
+
+(Lesson: Using Letters to Stand for Numbers, Example 3) Use letters for the operation laws, the perimeter/area formulas, and the relation among distance, speed and time. When $v=250$ m/min and $t=20$ min, what is $s$?
+
+### Solution to Exercise 15
+
+By **Definition 9.5.3 (用字母表示运算律和公式)**: distance $s=vt=250\times20=5000$ m. $\blacksquare$
+
+## Exercise 16
+
+(Lesson: Properties of an Equation, Example) Use letters for the properties of an equation. If $b=a+20$, when $b=37$ what is $a$? If $n=6m$, when $n=9$ what is $m$?
+
+### Solution to Exercise 16
+
+By **Definition 9.5.4 (Properties of an Equation)**, $a+20=37$, subtract $20$ from both sides, $a=17$. $6m=9$, divide both sides by $6$, $m=1.5$. $\blacksquare$
+
+## Exercise 17
+
+(Lesson: Properties of an Equation, Try It) (1) If $b=a-20$, when $b=37$ what is $a$? (2) If $n=m-6$, when $n=9$ what is $m$?
+
+### Solution to Exercise 17
+
+By **Definition 9.5.4 (等式的性质)**: (1) $a-20=37$, add $20$ to both sides, $a=57$. (2) $m-6=9$, add $6$ to both sides, $m=15$. $\blacksquare$
+
+## Exercise 18
+
+(Lesson: Using Letters to Stand for Numbers, Try It, Problem 4) Wang Hong types $a$ characters per minute and in $t$ minutes types $c$ characters. Write the relation; if $a=45$, $c=900$, what is $t$?
+
+### Solution to Exercise 18
+
+$c=at$, $t=c\div a=900\div45=20$ min. $\blacksquare$
+
+## Exercise 19
+
+(Lesson: Using Letters to Stand for Numbers, Practice 11, Review and Consolidation, Problem 1) An adult man's standard weight $=$ height $-105$. Uncle Liu's height is $a$ cm; write his standard weight.
+
+### Solution to Exercise 19
+
+By **Definition 9.5.1 (用字母表示数)**, standard weight $=\left(a-105\right)$ kg. $\blacksquare$
+
+## Exercise 20
+
+(Lesson: Using Letters to Stand for Numbers, Practice 11, Review and Consolidation, Problem 2) Write each expression without the multiplication sign: $b\times8$; $x\times x$; $b\times1$; $20\times a$.
+
+### Solution to Exercise 20
+
+By **Definition 9.5.2 (含有字母式子的书写)**: $b\times8=8b$; $x\times x=x^2$; $b\times1=b$; $20\times a=20a$. $\blacksquare$
+
+## Exercise 21
+
+(Lesson: Using Letters to Stand for Numbers, Practice 11, Review and Consolidation, Problem 3) A sports shop sold $48$ balls yesterday and $m$ more today. (1) How many today? (2) When $m=10$, how many today? (3) For what $m$ are $60$ sold today?
+
+### Solution to Exercise 21
+
+By **Definition 9.5.1 (用字母表示数)** and **Definition 9.5.5 (用字母表示数量关系并代入求值)**: (1) today $48+m$. (2) $48+10=58$. (3) $48+m=60$, $m=12$. $\blacksquare$
+
+## Exercise 22
+
+(Lesson: Using Letters to Stand for Numbers, Practice 11, Integrated Use, Problem 1) (1) Average height in $2000$ was $a$ cm, growing $3$ cm by $2020$; what was the $2020$ height? (2) A person weighs $b$ kg and bones are about $0.18$ times the body weight; about how many kg of bone? (3) This month's electricity use is $80$ kWh and the bill is $c$ yuan; what is the unit price? (4) Morning height is $d$ cm, shortest in the evening; what might the evening height be?
+
+### Solution to Exercise 22
+
+By **Definition 9.5.1 (用字母表示数)**: (1) $\left(a+3\right)$ cm. (2) $0.18b$ kg. (3) $c\div80$ yuan/kWh. (4) $\left(d-2\right)$ cm. $\blacksquare$

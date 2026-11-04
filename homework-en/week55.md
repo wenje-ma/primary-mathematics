@@ -1,121 +1,189 @@
 # week55
-> **Definition 7.7.1 (条形统计图)**
+> **Definition 5.8.1 (分数的初步认识)**
 > 
-> 用直条的长短表示数量多少的统计图叫条形统计图. 它能清楚地看出数量的多少, 便于比较. 数据较大时可以用 $1$ 格代表多个单位 (如 $2$ 个, $5$ 个, $10$ 个), 半格代表半个单位.
-> **Definition 7.7.2 (复式条形统计图)**
+> 把一个物体平均分成若干份, 其中的一份是几分之一, 几份是几分之几. 分数中间的横线叫分数线, 下面的数叫分母 (表示平均分成几份), 上面的数叫分子 (表示取了几份).
+> **Definition 5.8.2 (分数的大小比较)**
 > 
-> 用两种不同直条 (配合图例) 同时表示两类数据的条形统计图叫复式条形统计图, 便于两组数据的比较.
+> 分母相同的分数, 分子大的分数大; 分子相同的分数, 分母大的反而小 (平均分的份数越多, 每份就越小).
+> **Definition 5.8.3 (同分母分数的加减法)**
+> 
+> 同分母分数相加减, 分母不变, 分子相加减. $1$ 可以写成分子, 分母相同的分数, 如 $1=\frac{4}{4}$.
+> **Definition 5.8.4 (求一个数的几分之几)**
+> 
+> 求一个数的几分之一, 把这个数平均分成分母那么多份, 求出一份; 求几分之几, 再用一份的数乘分子.
 
-## Exercise 199
+## Exercise 1
 
-(Lesson: Single Bar Chart, Try It, Problem 1) Survey the birth months of your classmates and draw a bar chart. (1) How many people are there in total? (2) Are there any months with the same number of births? (3) In which month are the most and fewest people born?
+(Lesson: Practice 16, Problem 8) How many ways are there to fill in each expression?
 
-### Solution to Exercise 199
+### Solution to Exercise 1
 
-By **Definition 7.7.1 (Bar Chart)**: draw bars according to the actual survey data. (1) Add up the numbers for each month; (2) see which bars have the same height; (3) the month with the tallest bar has the most people, and the shortest has the fewest. $\blacksquare$
+Count the integer ways to add or subtract the numerators: when the sum (difference) of the numerators is fixed, the number of ways to choose the two numerators is the number of ways to fill it in. $\blacksquare$
 
-## Exercise 200
+## Exercise 2
 
-(Lesson: Single Bar Chart, Try It, Problem 2) Favorite books of fourth graders: literature $12$ people, art $16$ people, history $32$ people, science some. When the data are large, how many people should $1$ grid represent? (1) Which category is the most popular? (2) How do you represent $17$ people in art? (3) How do you draw the whole-school data $60,90,110,180$?
+(Lesson: Practice 16, Problem 9, Challenge Problem) Take a rectangular sheet and fold it in half, then fold it in half again; fill in the table: after $1,2,3,4$ folds, into how many equal parts is it divided? What fraction is each part? What pattern do you find?
 
-### Solution to Exercise 200
+### Solution to Exercise 2
 
-By **Definition 7.7.1 (Bar Chart)**: for large data use $1$ grid to represent $2$ people (for the whole school use $1$ grid to represent $10$ people). (1) The science category is the most popular; (2) $17$ people is drawn as $8$ and a half grids; (3) in the whole-school chart, each vertical-grid unit is $10$ people. $\blacksquare$
+After $1$ fold it is divided into $2$ parts, each $\frac{1}{2}$; after $2$ folds, $4$ parts, each $\frac{1}{4}$; after $3$ folds, $8$ parts, each $\frac{1}{8}$; after $4$ folds, $16$ parts, each $\frac{1}{16}$. Pattern: each fold doubles the number of parts and halves the size of each part. $\blacksquare$
 
-## Exercise 201
+## Exercise 3
 
-(Lesson: Single Bar Chart, Try It, Problem 3) Class 4(2) donated books: Group 1 $40$, Group 2 $30$, Group 3 some, Group 4 some, Group 5 $45$ books. (1) How many books does each grid represent? (2) Class 4(3) has $20,30,50,40,30$ books; how many does each grid represent? (3) About how many books do the $8$ fourth-grade classes donate in total?
+(Lesson: Further Understanding of Fractions — Example) A box of apples is divided into $2$ equal parts; what fraction of a box is each part? A case of $24$ bottles of mineral water is divided into $3$ equal parts; what fraction is each part?
 
-### Solution to Exercise 201
+### Solution to Exercise 3
 
-By **Definition 7.7.1 (Bar Chart)**: (1) the data range is $30\sim45$, so each grid represents $10$ books; (2) the data range is $20\sim50$, so each grid represents $10$ books; (3) one class averages about $160$ books, so $8$ classes donate about $1280$ books. $\blacksquare$
+By **Definition 5.8.4 (Finding a Fraction of a Number)**, each part is $\frac{1}{2}$ box; of the $24$ bottles divided into $3$ equal parts, $1$ part is $\frac{1}{3}$ and has $24\div3=8$ bottles; $2$ parts is $\frac{2}{3}$ and has $16$ bottles. $\blacksquare$
 
-## Exercise 202
+## Exercise 4
 
-(Lesson: Practice 18, Problem 1) Survey your classmates' favorite prizes (colored pens, bookmarks, pencil cases, notebooks, other) and draw a bar chart. (1) Which is the most and least popular? (2) What suggestions do you have for purchasing the prizes?
+(Lesson: Try It) Divide the $24$ bottles of mineral water into $6$ equal parts; what fraction is each of $1$ part, $2$ parts and $3$ parts? How many bottles are in each?
 
-### Solution to Exercise 202
+### Solution to Exercise 4
 
-By **Definition 7.7.1 (Bar Chart)**: draw bars according to the actual survey data. Suggest purchasing more of the most popular prizes. $\blacksquare$
+$1$ part is $\frac{1}{6}$, $24\div6=4$ bottles; $2$ parts is $\frac{2}{6}$, $8$ bottles; $3$ parts is $\frac{3}{6}$, $12$ bottles. $\blacksquare$
 
-## Exercise 203
+## Exercise 5
 
-(Lesson: Practice 18, Problem 2) Survey the numbers of students' ways of getting to school (school bus, being escorted by an adult, walking on their own) and draw a chart. (1) Which way is the most common? (2) What suggestions do you have?
+(Lesson: Do It Yourself) Express the colored part of each figure as a fraction.
 
-### Solution to Exercise 203
+### Solution to Exercise 5
 
-By **Definition 7.7.1 (Bar Chart)**: draw bars according to the actual data and compare their heights to answer. $\blacksquare$
+By **Definition 5.8.1 (分数的初步认识)**, count the total number of parts and the colored parts, and take the colored parts as the numerator. Fill in according to the figure. $\blacksquare$
 
-## Exercise 204
+## Exercise 6
 
-(Lesson: Practice 18, Problem 3) A mall's weekly TV sales: Monday $15$, Tuesday $10$, Wednesday $20$, Thursday $25$, Friday $30$, Saturday $50$, Sunday $45$ sets. Draw a bar chart. (1) Which day has the most and fewest sales? (2) What else can you find? (3) Predict which two days next week might have the most sales.
+(Lesson: Do It Yourself) Fill in: (1) A box of erasers is divided into several equal parts; what fraction of a box is each part? (2) A pack of $10$ notebooks is divided into several equal parts; what fraction of a pack is each part?
 
-### Solution to Exercise 204
+### Solution to Exercise 6
 
-By **Definition 7.7.1 (Bar Chart)**: each grid represents $5$ sets. (1) Saturday is the most with $50$ sets, and Tuesday is the fewest with $10$ sets; (2) weekend sales are clearly higher than weekday sales; (3) predict that next Saturday and Sunday may have the most sales. $\blacksquare$
+Divide evenly according to the actual number in the box; for example, $12$ erasers can be divided into $2,3,4,6,12$ parts, and $10$ notebooks into $2,5,10$ parts, each part corresponding to the appropriate fraction. $\blacksquare$
 
-## Exercise 205
+## Exercise 7
 
-(Lesson: Practice 18, Problem 4) Average animal lifespans: dog $10$, giraffe $25$, elephant $75$, hippopotamus $40$ years. Draw a bar chart. (1) How many years does each grid represent? (2) Which is the longest and shortest? (3) Another way of drawing starts the vertical axis from $0$; what are its features? (4) In which chart is $23$ years represented more accurately?
+(Lesson: Do It Yourself) There are $9$ circles; color $\frac{1}{3}$ of them red and $\frac{2}{3}$ blue.
 
-### Solution to Exercise 205
+### Solution to Exercise 7
 
-By **Definition 7.7.1 (Bar Chart)**: (1) each grid represents $10$ years; (2) the elephant is the longest at $75$ years, and the dog is the shortest at $10$ years; (3) starting the vertical axis from $0$ makes the bar-height differences more truthful; (4) the chart with finer vertical-axis scales is more accurate. $\blacksquare$
+By **Definition 5.8.4 (求一个数的几分之几)**, $9\div3=3$ circles, so $3$ are red and $3\times2=6$ are blue. $\blacksquare$
 
-## Exercise 206
+## Exercise 8
 
-(Lesson: Comparing Single Bar Charts, Try It) Statistics on the weather in City A for August and September 2022; compare the weather changes between the two months.
+(Lesson: Do It Yourself) There are $10$ sticks; take out $\frac{2}{5}$ of them. How many sticks are taken out?
 
-### Solution to Exercise 206
+### Solution to Exercise 8
 
-By **Definition 7.7.1 (Bar Chart)**: draw two single bar charts separately and compare the bar heights — in September the number of rainy days increases as autumn begins. $\blacksquare$
+$10\div5=2$ sticks (each part), $2\times2=4$ sticks. $4$ sticks are taken out. $\blacksquare$
 
-(Figure: two side-by-side single bar charts, the left showing weather conditions in City A in August 2022 (bars for sunny, cloudy, rainy, etc., corresponding to number of days), the right showing September weather; the horizontal axis in both is weather category and the vertical axis is number of days.)
+## Exercise 9
 
-## Exercise 207
+(Lesson: Solving Problems — Example) The model-airplane club has $12$ students; $\frac{1}{3}$ are girls and $\frac{2}{3}$ are boys. How many boys and girls are there?
 
-(Lesson: Double Bar Chart, Try It) Numbers of fourth graders who like sports: boys — running $17$, football $18$, swimming some, table tennis some, jump rope some; girls — running $13$, football $16$, other some. Draw a double bar chart. (1) In which activity are boys the most and girls the fewest? (2) In which activity are the total numbers the most and fewest?
+### Solution to Exercise 9
 
-### Solution to Exercise 207
+By **Definition 5.8.4 (Finding a Fraction of a Number)**, the girls number $12\div3=4$ and the boys number $4\times2=8$. Check: $4+8=12$. $\blacksquare$
 
-By **Definition 7.7.2 (Double Bar Chart)**: draw two kinds of bars by gender and add a legend. Compare the bar heights to answer. $\blacksquare$
+## Exercise 10
 
-## Exercise 208
+(Lesson: Solving Problems — Do It Yourself) The book corner has $45$ books, of which $\frac{4}{9}$ are storybooks. How many storybooks are there?
 
-(Lesson: Practice 19, Problem 1) Fourth-grade sports teams: boys — basketball $20$, football $24$, roller skating $18$, table tennis $22$; girls — basketball $15$, football $26$, roller skating $25$, table tennis some. Draw a double bar chart. (1) Which boys' team and which girls' team are the largest? (2) How many more boys than girls are in football? How many more girls than boys are in roller skating?
+### Solution to Exercise 10
 
-### Solution to Exercise 208
+$45\div9=5$ books (each part), $5\times4=20$ books. There are $20$ storybooks. $\blacksquare$
 
-By **Definition 7.7.2 (Double Bar Chart)**: (1) the boys' football team is the largest with $24$ people, and the girls' roller-skating team is the largest with $25$ people; (2) football boys minus girls is $24-26=-2$, i.e. there are $2$ more girls; roller-skating girls minus boys is $25-18=7$ more girls. $\blacksquare$
+## Exercise 11
 
-## Exercise 209
+(Lesson: Practice 17, Problem 1) Divide $8$ circles into $4$ equal parts. What fraction of the total is $1$ part, and how many circles are in it? What about $2$ parts?
 
-(Lesson: Practice 19, Problem 2) Waste sorting in Communities A and B (t): kitchen waste $50$ vs $70$, hazardous $25$ vs some, recyclable $61$ vs some, other some. (1) Draw a double bar chart. (2) How many t does each grid represent? (3) Which community has more recyclable waste? Which has more kitchen waste? (4) With $2$ kg of waste per person per day, $30$ days a month, and $2600$ people in Community B, about how much waste does it produce in a year?
+### Solution to Exercise 11
 
-### Solution to Exercise 209
+$8\div4=2$ circles. $1$ part is $\frac{1}{4}$ with $2$ circles; $2$ parts is $\frac{2}{4}$ with $4$ circles. $\blacksquare$
 
-By **Definition 7.7.2 (Double Bar Chart)**: (2) each grid represents $10$ t; (3) compare according to the bars; (4) $2\times30\times12=720$ kg/person/year, so $2600$ people produce about $2600\times720=1872000$ kg $=1872$ t. $\blacksquare$
+## Exercise 12
 
-## Exercise 210
+(Lesson: Practice 17, Problem 2) Color to represent the $\frac{2}{5}$ below each figure.
 
-(Lesson: Practice 19, Problem 3) Double bar chart of fourth graders' one-minute jump-rope scores. (1) How many boys and girls are in the $121\sim160$ range? Girls above $135$ jumps are excellent; there are $12$ girls in the $135\sim140$ range. How many girls are excellent?
+### Solution to Exercise 12
 
-### Solution to Exercise 210
+By **Definition 5.8.1 (分数的初步认识)**, divide each figure into $5$ equal parts and color $2$ of them. Note that the total number differs between figures, so each part has a different count, but it is always $\frac{2}{5}$. $\blacksquare$
 
-By **Definition 7.7.2 (Double Bar Chart)**: read the bars in the figure and add them up. Excellent girls: the number of people in the $=135\sim140$ range $+141$ jumps and above. $\blacksquare$
+## Exercise 13
 
-## Exercise 211
+(Lesson: Practice 17, Problem 3) Divide and compare: how many is $\frac{3}{4}$ of these pineapples? How many is $\frac{3}{4}$ of these strawberries?
 
-(Lesson: Practice 19, Problem 4) Telephone users from 2016 to 2021: landlines $20663,19376,19104,18225,18191,18070$ ten-thousand households; mobile phones $156610,164283,159407,160134,141749,132193$ ten-thousand households. (1) In which year were landlines the most? In which year were mobile phones the most? (2) What other information can you obtain?
+### Solution to Exercise 13
 
-### Solution to Exercise 211
+By **Definition 5.8.4 (求一个数的几分之几)**, the count is total $\div4\times3$. Calculate according to the total numbers of pineapples and strawberries in the figure. $\blacksquare$
 
-By **Definition 7.7.2 (Double Bar Chart)**: (1) landlines were the most in 2016 at $20663$ ten-thousand households, and mobile phones were the most in 2019 at $160134$ ten-thousand households; (2) landlines decline year by year, while mobile phones first increase and then decrease. $\blacksquare$
+## Exercise 14
 
-## Exercise 212
+(Lesson: Practice 17, Problem 4) The breeding group keeps $20$ rabbits, of which $\frac{1}{4}$ are black. How many black rabbits are there?
 
-(Lesson: Practice 19, Problem 5) New energy generation from September to December 2022 (hundred million kWh): wind $723,613,602,476$; solar $397,360,324,202$; nuclear $200,190,162,158$. (1) In which month is wind generation the most and fewest? (2) How much generation do the four energy sources produce in total? (3) What other findings are there?
+### Solution to Exercise 14
 
-### Solution to Exercise 212
+$20\div4=5$ rabbits. There are $5$ black rabbits. $\blacksquare$
 
-By **Definition 7.7.2 (Double Bar Chart)**: (1) wind generation is the most in September at $723$ and the fewest in December at $476$; (2) wind totals $723+613+602+476=2414$, solar totals $397+360+324+202=1283$, and nuclear totals $200+190+162+158=710$ hundred million kWh; (3) wind generation declines month by month. $\blacksquare$
+## Exercise 15
+
+(Lesson: Practice 17, Problem 5) A bag of flour is $25$ kilograms; $\frac{2}{5}$ has already been eaten. How many kilograms remain?
+
+### Solution to Exercise 15
+
+Each part is $25\div5=5$ kilograms; $5\times2=10$ kilograms are eaten, leaving $25-10=15$ kilograms. $\blacksquare$
+
+## Exercise 16
+
+(Lesson: Practice 17, Problem 6) In each figure, color to show its $\frac{3}{5}$.
+
+### Solution to Exercise 16
+
+By **Definition 5.8.1 (分数的初步认识)**, divide each figure into $5$ equal parts and color $3$. $\blacksquare$
+
+## Exercise 17
+
+(Lesson: Practice 17, Problem 7) The minute hand turns from "12" to various positions: how many hours and minutes are $6$ of the $\frac{1}{12}$ hours? What about $11$ of the $\frac{1}{12}$ hours?
+
+### Solution to Exercise 17
+
+The clock face is divided into $12$ large divisions, each $5$ minutes. $6$ of the $\frac{1}{12}$ hours is $\frac{6}{12}$ hour $=30$ minutes; $11$ of the $\frac{1}{12}$ hours is $\frac{11}{12}$ hour $=55$ minutes. $\blacksquare$
+
+## Exercise 18
+
+(Lesson: Practice 17, Problem 8) A plate of fish has $15$ fish; the white cat ate $\frac{1}{3}$ and the black cat ate $\frac{1}{5}$. Who ate more?
+
+### Solution to Exercise 18
+
+The white cat ate $15\div3=5$ fish, and the black cat $15\div5=3$ fish. $5> 3$, so the white cat ate more. $\blacksquare$
+
+## Exercise 19
+
+(Lesson: Practice 17, Problem 9) A rope is $63$ meters long; the first time $\frac{2}{7}$ of its length is used, and the second time $\frac{3}{7}$ of its length. How many meters are used in the two times?
+
+### Solution to Exercise 19
+
+Each part is $63\div7=9$ meters; the first time $9\times2=18$ meters, the second time $9\times3=27$ meters, for a total of $18+27=45$ meters. $\blacksquare$
+
+## Exercise 20
+
+(Lesson: Practice 18, Problem 1) Fill in "$> $" or "$< $": $\frac{2}{5}\bigcirc\frac{4}{5}$; $\frac{1}{4}\bigcirc\frac{1}{6}$; $\frac{7}{7}\bigcirc\frac{5}{7}$; $\frac{3}{20}\bigcirc\frac{7}{20}$.
+
+### Solution to Exercise 20
+
+By **Definition 5.8.2 (分数的大小比较)**: $\frac{2}{5}< \frac{4}{5}$; $\frac{1}{4}> \frac{1}{6}$; $\frac{7}{7}> \frac{5}{7}$; $\frac{3}{20}< \frac{7}{20}$. The figure shows four pairs of shaded fraction diagrams (each pair has two identical shapes divided into equal parts and shaded, representing $\frac{2}{5}$ vs $\frac{4}{5}$, $\frac{1}{4}$ vs $\frac{1}{6}$, $\frac{7}{7}$ vs $\frac{5}{7}$, and $\frac{3}{20}$ vs $\frac{7}{20}$), visually illustrating the comparisons above. $\blacksquare$
+
+## Exercise 21
+
+(Lesson: Practice 18, Problem 2) What fraction of the total is the colored part in each figure? How many in number?
+
+### Solution to Exercise 21
+
+By **Definition 5.8.4 (求一个数的几分之几)**, the total is divided into several equal parts; the fraction is the number of colored parts, and the count $=$ total $\div$ denominator $\times$ numerator. Fill in according to the figure. $\blacksquare$
+
+## Exercise 22
+
+(Lesson: Practice 18, Problem 3) Compute: $\frac{1}{4}+\frac{2}{4}$; $\frac{4}{5}-\frac{1}{5}$; $\frac{5}{7}-\frac{4}{7}$; $\frac{3}{8}+\frac{5}{8}$; $\frac{2}{7}+\frac{3}{7}$; $1-\frac{2}{9}$; $\frac{4}{6}+\frac{1}{6}$; $\frac{4}{6}-\frac{1}{6}$.
+
+### Solution to Exercise 22
+
+By **Definition 5.8.3 (同分母分数的加减法)**: $\frac{1}{4}+\frac{2}{4}=\frac{3}{4}$; $\frac{4}{5}-\frac{1}{5}=\frac{3}{5}$; $\frac{5}{7}-\frac{4}{7}=\frac{1}{7}$; $\frac{3}{8}+\frac{5}{8}=1$; $\frac{2}{7}+\frac{3}{7}=\frac{5}{7}$; $1-\frac{2}{9}=\frac{7}{9}$; $\frac{4}{6}+\frac{1}{6}=\frac{5}{6}$; $\frac{4}{6}-\frac{1}{6}=\frac{3}{6}$. $\blacksquare$

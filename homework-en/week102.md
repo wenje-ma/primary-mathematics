@@ -1,231 +1,144 @@
 # week102
-> **Definition 12.2.1 (折扣)**
+> **Definition 9.3.1 (除数是整数的小数除法)**
 > 
-> 商品按原价的百分之几出售, 通常称打几折出售. 几折就表示十分之几, 也就是百分之几十.
-> **Definition 12.5.1 (比例的意义)**
+> 按照整数除法的法则去除, 商的小数点要和被除数的小数点对齐; 如果除到被除数的末尾仍有余数, 就在余数后面添 $0$ 继续除; 整数部分不够商 $1$ 时, 要先商 $0$, 再点小数点.
+> **Definition 9.3.2 (循环小数与循环节)**
 > 
-> 表示两个比相等的式子叫作比例. 组成比例的四个数叫作比例的项, 两端的两项叫作比例的外项, 中间的两项叫作比例的内项. 如 $2.4:1.6=60:40$, $2.4$ 与 $40$ 是外项, $1.6$ 与 $60$ 是内项.
-> **Definition 12.5.2 (比例的基本性质与解比例)**
+> 一个数的小数部分,从某一位起,一个数字或者几个数字依次不断重复出 现,这样的小数叫作循环小数.像上面的5.333和7.14545都是循环小数. 一个循环小数的小数部分,依次不断重复出现的数字,就是这个循环小数 的循环节.例如: 5.333的循环节是3. 7.14545的循环节是45. 6.9258258的循环节是258. 写循环小数时,可以只写第一个循环节,并在这个循环节的首位和末位数 字上面各记一个圆点.例如: 写作 5.333... 5.3 写作7.145 7.14545... 写作 6.9258258... 6.9258 小数部分的位数有限的小数是有限小数.例如,0.9375是一个有限小数. 小数部分的位数无限的小数是无限小数.例如,0.2142857是一个无限小数. 做一做 用简便形式写出下面的循环小数. 1.555... 1.746746... 0.105353... 计算下面各题,除不尽的先用循环小数表示所得的商,再保留两位小数写 出它的近似数. 15-7 1
+> **Definition 9.3.3 (有限小数与无限小数)**
 > 
-> 在比例里, 两个外项的积等于两个内项的积, 这叫比例的基本性质. 若 $a:b=c:d$, 则 $ad=bc$. 已知比例中任何三项, 求未知项, 叫解比例.
-> **Definition 12.5.3 (正比例)**
+> 小数部分的位数有限的小数是有限小数; 小数部分的位数无限的小数是无限小数, 循环小数是无限小数.
+> **Definition 9.3.4 (一个数除以小数)**
 > 
-> 两种相关联的量, 一种量变化, 另一种量也随着变化, 如果这两种量中相对应两个数的比值一定, 这两种量叫做成正比例的量.
-> **Definition 12.5.4 (反比例)**
+> 先移动除数的小数点使它变成整数, 除数的小数点向右移动几位, 被除数的小数点也向右移动几位 (位数不够的在被除数末尾用 $0$ 补足), 然后按除数是整数的小数除法计算.
+> **Definition 9.3.5 (商的近似数)**
 > 
-> 两种相关联的量, 一种量变化, 另一种量也随着变化, 如果这两种量中相对应两个数的乘积一定, 这两种量叫做成反比例的量.
-> **Definition 12.5.5 (比例尺)**
-> 
-> 一幅图的图上距离和实际距离的比, 叫做这幅图的比例尺. 比例尺 = 图上距离 / 实际距离.
+> 在解决实际问题时, 根据需要取商的近似值: 一般用"四舍五入"法; 装东西需要几个容器用"进一"法; 买东西能买几个用"去尾"法.
 
-## Exercise 65
+## Exercise 1
 
-(Lesson: Meaning of a Proportion, Do It) In which of the following pairs can the two ratios form a proportion? (1) $6:10$ and $9:15$; (2) $20:5$ and $1:4$; (3) $\frac{1}{2}:\frac{1}{3}$ and $6:4$; (4) $0.6:0.2$ and $\frac{3}{4}:\frac{1}{4}$.
+(Lesson: Decimal Division, Practice 5, Extension and Improvement) Use a calculator to find the pattern: $1\div11=0.0909\cdots$; $2\div11=0.1818\cdots$; directly write the quotients from $3\div11$ to $9\div11$.
 
-### Solution to Exercise 65
+### Solution to Exercise 1
 
-By **Definition 12.5.1 (Meaning of a Proportion)**, two ratios form a proportion only when their values are equal. (1) $6:10=0.6$, $9:15=0.6$, so they form $6:10=9:15$. (2) $20:5=4$, $1:4=0.25$, so they cannot. (3) $\frac{1}{2}:\frac{1}{3}=1.5$, $6:4=1.5$, so they can. (4) $0.6:0.2=3$, $\frac{3}{4}:\frac{1}{4}=3$, so they can. $\blacksquare$
+Pattern: the quotient is a repeating decimal whose cycle is the two-digit number of the dividend times $9$. $3\div11=0.2727\cdots$; $4\div11=0.3636\cdots$; $5\div11=0.4545\cdots$; $6\div11=0.5454\cdots$; $7\div11=0.6363\cdots$; $8\div11=0.7272\cdots$; $9\div11=0.8181\cdots$. $\blacksquare$
 
-## Exercise 66
+## Exercise 2
 
-(Lesson: Basic Property of a Proportion, Do It) Determine which of the following pairs of ratios can form a proportion. (1) $6:3$ and $8:5$; (2) $0.2:2.5$ and $4:50$.
+(Lesson: Dividing by a Decimal, Example 1) Making one Chinese knot uses $0.85$ m of cord; how many can be made from $7.65$ m? $7.65\div0.85=\_\_$.
 
-### Solution to Exercise 66
+### Solution to Exercise 2
 
-By **Definition 12.5.2 (Basic Property of a Proportion and Solving Proportions)**, two ratios form a proportion when the product of the outer terms equals the product of the inner terms. (1) $6\times5=30$, $3\times8=24$, and $30\neq24$, so they cannot. (2) $0.2\times50=10$ and $2.5\times4=10$, which are equal, so they form $0.2:2.5=4:50$. $\blacksquare$
+By **Definition 9.3.4 (Dividing by a Decimal)**, expand the divisor by $100$ to $85$ and the dividend by $100$ to $765$, $765\div85=9$ knots. $\blacksquare$
 
-## Exercise 67
+## Exercise 3
 
-(Lesson: Solving Proportions, Example) The Long March 5 launch rocket is about $57\,\mathrm{m}$ long, and the ratio of a model's total length to the rocket's total length is $1:10$. About how long is the model?
+(Lesson: Dividing by a Decimal, Try It, Problem 1) First say by what factor both divisor and dividend should be expanded, then calculate: $2.6\div0.34$; $62.4\div2.6$; $2.38\div0.34$; $0.544\div0.16$.
 
-### Solution to Exercise 67
+### Solution to Exercise 3
 
-By **Definition 12.5.2 (Basic Property of a Proportion and Solving Proportions)**, let the model's length be $x\,\mathrm{m}$. Then $x:57=1:10$, $10x=57\times1$, $x=5.7$. The model is about $5.7\,\mathrm{m}$ long. $\blacksquare$
+By **Definition 9.3.4 (一个数除以小数)**: $2.6\div0.34=260\div34\approx7.65$; $62.4\div2.6=624\div26=24$; $2.38\div0.34=238\div34=7$; $0.544\div0.16=54.4\div16=3.4$. $\blacksquare$
 
-## Exercise 68
+## Exercise 4
 
-(Lesson: Solving Proportions, Do It) A restaurant is disinfecting tableware and needs $100\,\mathrm{mL}$ of disinfectant solution mixed into disinfectant water. If the ratio of disinfectant to water is $1:150$, how many liters of water should be added?
+(Lesson: Dividing by a Decimal, Example 2) Calculate $12.6\div0.28$.
 
-### Solution to Exercise 68
+### Solution to Exercise 4
 
-By **Definition 12.5.2 (Basic Property of a Proportion and Solving Proportions)**, let the water added be $x\,\mathrm{mL}$. Then $100:x=1:150$, $x=100\times150=15000\,\mathrm{mL}=15$ liters. $\blacksquare$
+By **Definition 9.3.4 (一个数除以小数)**, expand the divisor by $100$ to $28$ and the dividend by $100$ to $1260$ (pad $0$ at the end), $1260\div28=45$. $\blacksquare$
 
-## Exercise 69
+## Exercise 5
 
-(Lesson: Exercise 8, Problem 2) Which of the following groups of four numbers can form a proportion? (1) $4, 5, 12, 15$; (2) $2, 3, 4, 5$; (3) $1.6, 6.4, 2, 5$.
+(Lesson: Dividing by a Decimal, Try It, Problem 2) Calculate: $5.58\div3.1$; $0.84\div3.5$; $2.19\div0.3$; $7.05\div0.47$; $5.88\div0.56$; $25.6\div0.032$; $51.3\div0.27$; $260\div0.13$.
 
-### Solution to Exercise 69
+### Solution to Exercise 5
 
-By **Definition 12.5.2 (Basic Property of a Proportion and Solving Proportions)**, it suffices that two products match. (1) $4\times15=60$ and $5\times12=60$, so they form $4:5=12:15$. (2) No pairing gives equal products, so they cannot. (3) $1.6\times5=8$ and $6.4\times2=12.8$, which are not equal, so they cannot. $\blacksquare$
+By **Definition 9.3.4 (一个数除以小数)**: $5.58\div3.1=1.8$; $0.84\div3.5=0.24$; $2.19\div0.3=7.3$; $7.05\div0.47=15$; $5.88\div0.56=10.5$; $25.6\div0.032=800$; $51.3\div0.27=190$; $260\div0.13=2000$. $\blacksquare$
 
-## Exercise 70
+## Exercise 6
 
-(Lesson: Exercise 9, Solving Proportions) The volume ratio of equal masses of water and ice is $9:10$. A block of ice has volume $50\,\mathrm{dm}^{3}$; after it melts into water, what is the volume?
+(Lesson: Dividing by a Decimal, Try It, Problem 3) Calculate and find the pattern: $6\div1.5$, $6\div1$, $6\div0.5$, $6\div0.2$; $1.2\div1.2$, $1.2\div1$, $1.2\div0.8$, $1.2\div0.2$; $49.5\div1.1$, $49.5\div1$, $49.5\div0.45$, $49.5\div0.3$.
 
-### Solution to Exercise 70
+### Solution to Exercise 6
 
-By **Definition 12.5.2 (Basic Property of a Proportion and Solving Proportions)**, let the water's volume be $x$. Then $x:50=9:10$, $10x=450$, $x=45\,\mathrm{dm}^{3}$. $\blacksquare$
+$6\div1.5=4$, $6\div1=6$, $6\div0.5=12$, $6\div0.2=30$; $1.2\div1.2=1$, $1.2\div1=1.2$, $1.2\div0.8=1.5$, $1.2\div0.2=6$; $49.5\div1.1=45$, $49.5\div1=49.5$, $49.5\div0.45=110$, $49.5\div0.3=165$. Pattern: divisor greater than $1$ gives a quotient smaller than the dividend, divisor equal to $1$ gives the dividend, divisor less than $1$ gives a quotient larger. $\blacksquare$
 
-## Exercise 71
+## Exercise 7
 
-(Lesson: Direct Proportion, Do It) The time and distance traveled by a car are: time $1,2,3,4,5,6$ hours, distance $80,160,240,320,400,480\,\mathrm{km}$. (1) Write several ratios of distance to time and compare their values. (2) What does this value represent? (3) Are distance and time directly proportional?
+(Lesson: Decimal Division, Practice 6, Review and Consolidation, Problem 1) Transform into division by an integer: $4.68\div1.2=\_\_\div12$; $2.38\div0.34=\_\_\div34$; $5.2\div0.32=\_\_\div32$; $161\div0.46=\_\_\div46$.
 
-### Solution to Exercise 71
+### Solution to Exercise 7
 
-By **Definition 12.5.3 (Direct Proportion)**. (1) $80:1=80$, $160:2=80$, $240:3=80$, so the values are all equal. (2) The value $80$ means the car travels $80\,\mathrm{km}$ per hour, i.e. its speed. (3) Since the ratio of distance to time (speed) is constant, distance and time are directly proportional; the graph is a straight line through the origin (right figure).
+By **Definition 9.3.4 (一个数除以小数)**: $4.68\div1.2=46.8\div12$; $2.38\div0.34=238\div34$; $5.2\div0.32=520\div32$; $161\div0.46=16100\div46$. $\blacksquare$
 
-(Figure: on the left a data table of time vs. distance; on the right a coordinate system with the horizontal axis for time (hours) and the vertical axis for distance ($\mathrm{km}$), plotting $\left(1,80\right),\left(2,160\right),\left(3,240\right),\left(4,320\right),\left(5,400\right),\left(6,480\right)$ and connecting them into an upward straight line through the origin.)
+## Exercise 8
 
-$\blacksquare$
+(Lesson: Decimal Division, Practice 6, Review and Consolidation, Problem 2) Calculate: $5.98\div0.23$; $10.8\div4.5$; $19.76\div5.2$; $2.7\div7.5$; $21\div1.4$; $8.84\div1.7$; $15\div0.06$.
 
-## Exercise 72
+### Solution to Exercise 8
 
-(Lesson: Inverse Proportion, Do It) A transport team moves a batch of goods; the daily mass moved is $300,150,100,75,60,50\,\mathrm{t}$, corresponding to $1,2,3,4,5,6$ days of transport. Are the number of transport days and the daily mass moved inversely proportional?
+By **Definition 9.3.4 (一个数除以小数)**: $5.98\div0.23=26$; $10.8\div4.5=2.4$; $19.76\div5.2=3.8$; $2.7\div7.5=0.36$; $21\div1.4=15$; $8.84\div1.7=5.2$; $15\div0.06=250$. $\blacksquare$
 
-### Solution to Exercise 72
+## Exercise 9
 
-By **Definition 12.5.4 (Inverse Proportion)**, $300\times1=300$, $150\times2=300$, $100\times3=300$; the product is always $300$ (the total goods). Since the product is constant, the transport days and the daily mass moved are inversely proportional. $\blacksquare$
+(Lesson: Decimal Division, Practice 6, Review and Consolidation, Problem 3) Based on $273\div13=21$, complete the table: dividends $273,27.3,2730,0.273$; divisors $13,1.3,0.13,0.013$; quotient $21$.
 
-## Exercise 73
+### Solution to Exercise 9
 
-(Lesson: Exercise 9, Identifying Direct Proportion) Determine whether the two quantities in each case below are directly proportional. (1) With a fixed magazine unit price, the subscription cost and the number of subscriptions; (2) the surface area of a cube and its edge length; (3) a person's height and age; (4) with a fixed yield per hectare, the total yield and the number of hectares; (5) with a fixed total number of pages, the unread pages and the read pages.
+By the invariant-quotient rule: $273\div13=21$; $27.3\div1.3=21$; $2730\div0.13=21000$ (note: the divisor $0.13$, not shrunk by $100$ like $13$, makes the quotient expand by $100$ to $2100$); by the table's correspondence, shrinking dividend and divisor by the same factor keeps the quotient unchanged. $\blacksquare$
 
-### Solution to Exercise 73
+## Exercise 10
 
-By **Definition 12.5.3 (Direct Proportion)**. (1) Cost $/$ quantity $=$ unit price (constant), so directly proportional. (2) Surface area $=6a^{2}$, whose ratio to edge length is not constant, so not. (3) The ratio of height to age is not constant, so not. (4) Total yield $/$ hectares $=$ yield per hectare (constant), so directly proportional. (5) Unread $+$ read $=$ total pages (a constant sum, not a ratio), so not. $\blacksquare$
+(Lesson: Decimal Division, Practice 6, Integrated Use, Problem 1) A rectangular vegetable plot has area $68.4$ m$^2$ and width $7.2$ m; what is its length?
 
-## Exercise 74
+### Solution to Exercise 10
 
-(Lesson: Exercise, Identifying Inverse Proportion) Determine whether the two quantities in each case below are inversely proportional. (1) With a fixed amount of coal, the number of days used and the daily coal consumption; (2) with a fixed class size, the number of groups and the number per group; (3) with a fixed cylinder volume, the base area and the height; (4) a vegetable plot planted only with cucumbers and tomatoes — the planted areas of the two crops; (5) with a fixed total number of books, the number of packages and the number of books per package.
+Length $=$ area $\div$ width $=68.4\div7.2=9.5$ m. $\blacksquare$
 
-### Solution to Exercise 74
+## Exercise 11
 
-By **Definition 12.5.4 (Inverse Proportion)**, two quantities are inversely proportional only when their product is constant. (1) Days used $\times$ daily coal consumption $=$ total coal (constant), so inversely proportional. (2) Number of groups $\times$ number per group $=$ class size (constant), so inversely proportional. (3) Base area $\times$ height $=$ volume (constant), so inversely proportional. (4) Cucumber area $+$ tomato area $=$ plot area (a constant sum), so not. (5) Number of packages $\times$ books per package $=$ total books (constant), so inversely proportional. $\blacksquare$
+(Lesson: Decimal Division, Practice 6, Integrated Use, Problem 2) Fill the $\bigcirc$ with an operation sign: $81\bigcirc0.5=40.5$; $81\bigcirc1.5=54$; $81\bigcirc0.5=162$; $81\bigcirc1.5=82.5$.
 
-## Exercise 75
+### Solution to Exercise 11
 
-(Lesson: Scale, Example) The actual distance between two places is $120\,\mathrm{km}$, and on a map the on-paper distance between them is $2.4\,\mathrm{cm}$. What is the scale of this map?
+$81\times0.5=40.5$; $81\div1.5=54$; $81\div0.5=162$; $81+1.5=82.5$. $\blacksquare$
 
-### Solution to Exercise 75
+## Exercise 12
 
-By **Definition 12.5.5 (Scale)**, $120\,\mathrm{km}=12000000\,\mathrm{cm}$, so the scale $=2.4:12000000=1:5000000$. $\blacksquare$
+(Lesson: Decimal Division, Practice 6, Integrated Use, Problem 3) The distance between two places is $455$ km; two cars A and B meet after $3.5$ hours traveling toward each other, car A at $68$ km/h; what is car B's speed?
 
-## Exercise 76
+### Solution to Exercise 12
 
-(Lesson: Scale, Do It) A cylindrical part has height $5\,\mathrm{mm}$, and on the drawing its height is $2\,\mathrm{cm}$. What is the scale of this drawing?
+Combined speed $455\div3.5=130$ km/h. Car B $130-68=62$ km/h. $\blacksquare$
 
-### Solution to Exercise 76
+## Exercise 13
 
-By **Definition 12.5.5 (Scale)**, $2\,\mathrm{cm}=20\,\mathrm{mm}$, so the scale $=20:5=4:1$. $\blacksquare$
+(Lesson: Decimal Division, Practice 6, Extension and Improvement) Find the pattern and fill: (1) $7,3.5,1.75,\_\_,0.21875$; (2) $6.25,2.5,\_\_,\_\_,0.064$.
 
-## Exercise 77
+### Solution to Exercise 13
 
-(Lesson: Scale, Do It) On a map with scale $1:30000$, Beijing Subway Line 2 is about $77\,\mathrm{cm}$ long. About what is its actual length in kilometers?
+(1) Divide by $2$ each time: $1.75\div2=0.875$, then $\div2=0.4375$, check $0.4375\div2=0.21875$. (2) Divide by $2.5$ each time: $2.5\div2.5=1$, $1\div2.5=0.4$, check $0.4\div2.5=0.16\neq0.064$, so continuing $\div2.5$: $0.4\div2.5=0.16$, then $\div2.5=0.064$; hence fill $1,0.4$. $\blacksquare$
 
-### Solution to Exercise 77
+## Exercise 14
 
-By **Definition 12.5.5 (Scale)**, the actual distance $=$ on-paper distance $\times30000=77\times30000=2310000\,\mathrm{cm}=23.1\,\mathrm{km}$. $\blacksquare$
+(Lesson: Solving Problems, Example) Mom spends $32$ yuan on $2.7$ kg of red beans; about how much per kg? The red beans are packed into bottles of $0.8$ kg; how many bottles can be filled? How many bottles must be prepared?
 
-## Exercise 78
+### Solution to Exercise 14
 
-(Lesson: Exercise 10, Problem 3) The living room of an apartment is $6\,\mathrm{m}$ long in the east-west direction, and on the drawing it is $4\,\mathrm{cm}$ long. What is the scale of this drawing?
+By **Definition 9.3.5 (Approximate Value of a Quotient)**, per kg: $32\div2.7\approx11.85$ yuan (rounded to the fen). $2.7\div0.8=3.375$, so $3$ bottles can be filled; to pack all, use the "round up" method and prepare $4$ bottles. $\blacksquare$
 
-### Solution to Exercise 78
+## Exercise 15
 
-By **Definition 12.5.5 (Scale)**, $6\,\mathrm{m}=600\,\mathrm{cm}$, so the scale $=4:600=1:150$. $\blacksquare$
+(Lesson: Solving Problems, Try It) Aunt Wang uses a $25$ m ribbon to wrap gift boxes, each using $1.5$ m; how many boxes can be wrapped?
 
-## Exercise 79
+### Solution to Exercise 15
 
-(Lesson: Exercise 10, Problem 6) The railway between two cities is about $1900\,\mathrm{km}$ long. On a map with scale $1:40000000$, about how many centimeters long is this railway between the two cities?
+By **Definition 9.3.5 (商的近似数)**, using the "round down" method, $25\div1.5=16.666\cdots$, so $16$ boxes can be wrapped. $\blacksquare$
 
-### Solution to Exercise 79
+## Exercise 16
 
-By **Definition 12.5.5 (Scale)**, $1900\,\mathrm{km}=190000000\,\mathrm{cm}$, so the on-paper distance $=190000000\div40000000=4.75\,\mathrm{cm}$. $\blacksquare$
+(Lesson: Decimal Division, Practice 7, Review and Consolidation, Problem 1) Calculate: $40.32\div24$; $111\div0.3$; $2.07\div0.023$; $1.23\div0.03$; $0.75\times18-0.15$; $21.36\div0.8-12.9$; $7.28+3.2\div2.5$.
 
-## Exercise 80
+### Solution to Exercise 16
 
-(Lesson: Enlarging and Reducing Figures, Do It) Draw the enlarged square, rectangle, and right triangle at scale $2:1$. After enlarging, what changes among the interior angles, side lengths, and perimeter, and what stays the same?
-
-### Solution to Exercise 80
-
-Enlarging at $2:1$ means scaling every side to $2$ times its original length. After enlarging, the interior angles are unchanged; the side lengths and perimeter both become $2$ times the original; for the right triangle, the two legs become $2$ times as long and the hypotenuse also becomes $2$ times as long. The shape is unchanged but the size changes. $\blacksquare$
-
-## Exercise 81
-
-(Lesson: Solving Problems with Proportions, Example 5) Last month, Aunt Zhang used $8\,\mathrm{t}$ of water and her water bill was $40$ yuan. Last month, Grandma Li used $10\,\mathrm{t}$ of water. What was Grandma Li's water bill?
-
-### Solution to Exercise 81
-
-By **Definition 12.5.3 (Direct Proportion)**, since the price per ton of water is fixed, the water bill is directly proportional to the tons of water used. Let Grandma Li's bill be $x$ yuan. Then $\frac{40}{8}=\frac{x}{10}$, $8x=400$, $x=50$ yuan. $\blacksquare$
-
-## Exercise 82
-
-(Lesson: Solving Problems with Proportions, Do It, Problem 1) Xiaoming bought $4$ ballpoint pens for $6$ yuan. Xiaogang wants to buy $3$ of the same pens; how much will they cost?
-
-### Solution to Exercise 82
-
-By **Definition 12.5.3 (Direct Proportion)**, since the unit price is fixed, the total cost is directly proportional to the quantity. Let the cost be $x$ yuan. Then $\frac{6}{4}=\frac{x}{3}$, $4x=18$, $x=4.5$ yuan. $\blacksquare$
-
-## Exercise 83
-
-(Lesson: Solving Problems with Proportions, Example 6) An office building previously used an average of $100$ kilowatt-hours of lighting electricity per day; after switching to energy-saving lamps, it uses only an average of $25$ kilowatt-hours per day. The electricity used in $5$ days before now lasts how many days?
-
-### Solution to Exercise 83
-
-By **Definition 12.5.4 (Inverse Proportion)**, since the total electricity is fixed, the daily usage is inversely proportional to the number of days. Let it now last $x$ days. Then $25x=100\times5$, $x=20$ days. $\blacksquare$
-
-## Exercise 84
-
-(Lesson: Solving Problems with Proportions, Do It, Problem 2) The money Xiaoming brings is just enough to buy $4$ ballpoint pens at $1.5$ yuan each. If he buys only pens at $2$ yuan each, how many can he buy?
-
-### Solution to Exercise 84
-
-By **Definition 12.5.4 (Inverse Proportion)**, since the total money is fixed, the unit price is inversely proportional to the quantity. Let him buy $x$ pens. Then $2x=4\times1.5$, $2x=6$, $x=3$ pens. $\blacksquare$
-
-## Exercise 85
-
-(Lesson: Exercise 11, Problem 3) Xiaolan's height is $1.5\,\mathrm{m}$ and her shadow is $2.4\,\mathrm{m}$ long. At the same time and place, a tree's shadow is measured to be $4\,\mathrm{m}$ long. How tall is the tree?
-
-### Solution to Exercise 85
-
-By **Definition 12.5.3 (Direct Proportion)**, at the same instant the ratio of object height to shadow length is constant. Let the tree's height be $x\,\mathrm{m}$. Then $\frac{1.5}{2.4}=\frac{x}{4}$, $2.4x=6$, $x=2.5\,\mathrm{m}$. $\blacksquare$
-
-## Exercise 86
-
-(Lesson: Exercise 11, Problem 4) The China Space Station takes about $9$ hours to orbit the Earth $6$ times in space. About how long does it take to orbit $15$ times?
-
-### Solution to Exercise 86
-
-By **Definition 12.5.3 (Direct Proportion)**, since the time per orbit is fixed, the number of orbits is directly proportional to the time. Let the time be $x$ hours. Then $\frac{9}{6}=\frac{x}{15}$, $6x=135$, $x=22.5$ hours. $\blacksquare$
-
-## Exercise 87
-
-(Lesson: Exercise 11, Problem 6) A freight train is carrying supplies and travels $160\,\mathrm{km}$ in $2$ hours. At this speed, how many hours does it take to travel $400\,\mathrm{km}$?
-
-### Solution to Exercise 87
-
-By **Definition 12.5.3 (Direct Proportion)**, since the speed is fixed, the distance is directly proportional to the time. Let the time be $x$ hours. Then $\frac{160}{2}=\frac{400}{x}$, $160x=800$, $x=5$ hours. $\blacksquare$
-
-## Exercise 88
-
-(Lesson: Exercise 12, Problem 1) Fill in the blanks. (1) On a map, the on-paper distance between two places is $5\,\mathrm{cm}$ and the actual distance is $15\,\mathrm{km}$; the map's scale is $\_\_$. (2) The radii of a large circle and a small circle are in the ratio $5:3$; their diameters are in the ratio $\_\_$, their circumferences are in the ratio $\_\_$, and their areas are in the ratio $\_\_$. (3) Enlarge a rectangle of length $5\,\mathrm{cm}$ and width $3\,\mathrm{cm}$ at scale $3:1$; the area of the resulting figure is $\_\_\,\mathrm{cm}^{2}$.
-
-### Solution to Exercise 88
-
-By **Definition 12.5.5 (Scale)**. (1) $15\,\mathrm{km}=1500000\,\mathrm{cm}$, so the scale $=5:1500000=1:300000$. (2) The diameter ratio $=$ the radius ratio $=5:3$; the circumference ratio $=5:3$; the area ratio $=5^{2}:3^{2}=25:9$. (3) After enlarging, the length is $15\,\mathrm{cm}$ and the width is $9\,\mathrm{cm}$, so the area $=15\times9=135\,\mathrm{cm}^{2}$. $\blacksquare$
-
-## Exercise 89
-
-(Lesson: Exercise 12, Problem 3) On a map with scale $1:2000000$, the distance between City A and City B is measured as $5.5\,\mathrm{cm}$. On another map with scale $1:5000000$, what is the on-paper distance between the two cities?
-
-### Solution to Exercise 89
-
-By **Definition 12.5.5 (Scale)**, the actual distance $=5.5\times2000000=11000000\,\mathrm{cm}$. On the other map, the on-paper distance $=11000000\div5000000=2.2\,\mathrm{cm}$. $\blacksquare$
-
-## Exercise 90
-
-(Lesson: Exercise 12, Problem 4) A clothing store sells all garments at the same discount. (1) Aunt Li bought a jacket originally priced at $250$ yuan for $150$ yuan. She also wants to buy a pair of trousers originally priced at $180$ yuan; what is its current price? (2) With the money Uncle Zhang brings, he can buy exactly $4$ shirts at $90$ yuan each. If he buys jackets originally priced at $200$ yuan each, how many can he buy?
-
-### Solution to Exercise 90
-
-By **Definition 12.2.1 (Discount)** and **Definition 12.5.4 (Inverse Proportion)**. (1) The discount $=150\div250=60\%$ (40% off), so the trousers' current price $=180\times60\%=108$ yuan. (2) The jackets' current price $=200\times60\%=120$ yuan; Uncle Zhang has $90\times4=360$ yuan, so he can buy $360\div120=3$ jackets. $\blacksquare$
+By **Definition 9.3.1 (除数是整数的小数除法)** and **Definition 9.3.4 (一个数除以小数)**: $40.32\div24=1.68$; $111\div0.3=370$; $2.07\div0.023=90$; $1.23\div0.03=41$; $0.75\times18-0.15=13.5-0.15=13.35$; $21.36\div0.8-12.9=26.7-12.9=13.8$; $7.28+3.2\div2.5=7.28+1.28=8.56$. $\blacksquare$

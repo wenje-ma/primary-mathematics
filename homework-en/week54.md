@@ -1,367 +1,189 @@
 # week54
-> **Definition 7.6.1 (平行与垂直)**
+> **Definition 5.8.1 (分数的初步认识)**
 > 
-> 在同一平面内不相交的两条直线叫平行线, 也可以说这两条直线互相平行, 记作 $a\parallel b$. 两条直线相交成直角, 就说这两条直线互相垂直, 其中一条叫另一条的垂线, 交点叫垂足, 记作 $a\perp b$.
-> **Definition 7.6.2 (点到直线的距离)**
+> 把一个物体平均分成若干份, 其中的一份是几分之一, 几份是几分之几. 分数中间的横线叫分数线, 下面的数叫分母 (表示平均分成几份), 上面的数叫分子 (表示取了几份).
+> **Definition 5.8.2 (分数的大小比较)**
 > 
-> 从直线外一点到这条直线所画的垂直线段最短, 它的长度叫这点到直线的距离. 两条平行线之间的垂直线段长度都相等.
-> **Definition 7.6.3 (平行四边形)**
+> 分母相同的分数, 分子大的分数大; 分子相同的分数, 分母大的反而小 (平均分的份数越多, 每份就越小).
+> **Definition 5.8.3 (同分母分数的加减法)**
 > 
-> 两组对边分别平行的四边形叫做平行四边形.
-> **Definition 7.6.4 (梯形)**
+> 同分母分数相加减, 分母不变, 分子相加减. $1$ 可以写成分子, 分母相同的分数, 如 $1=\frac{4}{4}$.
+> **Definition 5.8.4 (求一个数的几分之几)**
 > 
-> 只有一组对边平行的四边形叫做梯形.
+> 求一个数的几分之一, 把这个数平均分成分母那么多份, 求出一份; 求几分之几, 再用一份的数乘分子.
 
-## Exercise 155
+## Exercise 1
 
-(Lesson: Parallel and Perpendicular, Try It) Where in daily life have you seen parallel and perpendicular phenomena?
+(Lesson: Simple Fraction Calculations — Example) Of a sheet of colored paper, $\frac{3}{4}$ has been used; what fraction of it remains?
 
-### Solution to Exercise 155
+### Solution to Exercise 1
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: for example, zebra crossings are parallel, adjacent edges of a blackboard are perpendicular, and the horizontal and vertical frames of a window are perpendicular. $\blacksquare$
+By **Definition 5.8.3 (同分母分数的加减法)**, take $1$ as $\frac{4}{4}$; $\frac{4}{4}-\frac{3}{4}=\frac{1}{4}$. What remains is $\frac{1}{4}$. $\blacksquare$
 
-## Exercise 156
+## Exercise 2
 
-(Lesson: Drawing Perpendicular Lines, Try It, Problem 1) Through point $A$ and point $B$, respectively, draw the perpendicular line to the corresponding line $l$.
+(Lesson: Simple Fraction Calculations — Do It Yourself) Calculate from the figure: ( )+( )=( ); ( )-( )=( ).
 
-### Solution to Exercise 156
+### Solution to Exercise 2
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: align one leg of a set square with line $l$, translate it so the other leg passes through the point, and draw a line along that leg; this is the perpendicular line. $\blacksquare$
+By **Definition 5.8.3 (同分母分数的加减法)**, add or subtract the colored parts in the figure, keeping the denominator unchanged and adding or subtracting the numerators. Fill in according to the figure. $\blacksquare$
 
-## Exercise 157
+## Exercise 3
 
-(Lesson: Drawing Perpendicular Lines, Try It, Problem 2) In the figure, find how many pairs of perpendicular segments there are.
+(Lesson: Simple Fraction Calculations — Do It Yourself) A bottle of juice is poured into $5$ cups; $3$ children and $2$ elderly people each drink $1$ cup. (1) What fraction of the bottle did each person drink? (2) How much more of a bottle did the children drink than the elderly?
 
-### Solution to Exercise 157
+### Solution to Exercise 3
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: use the right angle of a set square to compare; segments that intersect at a right angle are perpendicular to each other. $\blacksquare$
+(1) Each person drank $\frac{1}{5}$ of the bottle. (2) The children drank $\frac{3}{5}$ of the bottle, the elderly drank $\frac{2}{5}$, which is $\frac{3}{5}-\frac{2}{5}=\frac{1}{5}$ of a bottle more. $\blacksquare$
 
-## Exercise 158
+## Exercise 4
 
-(Lesson: Drawing Perpendicular Lines, Try It, Problem 3) Xiao Ming crosses the road from point $A$; how should he walk to take the shortest route?
+(Lesson: Simple Fraction Calculations — Do It Yourself) Lingling used $\frac{7}{10}$ of a colored cord to braid a Chinese knot and the rest to braid a bracelet. What fraction was used for the bracelet? How much less than the Chinese knot?
 
-### Solution to Exercise 158
+### Solution to Exercise 4
 
-By **Definition 7.6.2 (Distance from a Point to a Line)**: draw a perpendicular segment from point $A$ to the opposite edge of the road; this route is the shortest. $\blacksquare$
+$1-\frac{7}{10}=\frac{3}{10}$; $\frac{7}{10}-\frac{3}{10}=\frac{4}{10}$. The bracelet used $\frac{3}{10}$, which is $\frac{4}{10}$ less than the Chinese knot. $\blacksquare$
 
-## Exercise 159
+## Exercise 5
 
-(Lesson: Distance Between Parallel Lines, Try It) Through a point outside a line, draw a line parallel to the given line.
+(Lesson: Practice 15, Problem 1) Express the colored part of each figure as a fraction, then compare the sizes in each group.
 
-### Solution to Exercise 159
+### Solution to Exercise 5
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: use a set square together with a ruler — align one edge of the set square with the given line, press the ruler against the other edge, slide the set square to the point, and then draw the line. $\blacksquare$
+By **Definition 5.8.2 (Comparing the Sizes of Fractions)**, with the same denominator the fraction with the larger numerator is larger. Write the fractions first, then compare. $\blacksquare$
 
-## Exercise 160
+## Exercise 6
 
-(Lesson: Drawing Rectangles and Squares, Try It) Draw a rectangle of length $4$ cm and width $3$ cm, and then draw a square with side $5$ cm.
+(Lesson: Practice 15, Problem 2) Can the fractions below represent the colored part of each figure? Draw √ if yes and × if no: $\frac{1}{2}$, $\frac{1}{3}$, $\frac{1}{5}$, $\frac{1}{4}$.
 
-### Solution to Exercise 160
+### Solution to Exercise 6
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: first draw a right angle, mark off $4$ cm and $3$ cm on the two legs, and then draw perpendiculars that meet at a point. A square has four equal sides and four right angles. $\blacksquare$
+By **Definition 5.8.1 (分数的初步认识)**, only an evenly divided colored part can be represented by a fraction. Draw × for those that are not evenly divided. $\blacksquare$
 
-## Exercise 161
+## Exercise 7
 
-(Lesson: Practice 15, Problem 1) In each of the following figures, which two segments are parallel? Which two are perpendicular?
+(Lesson: Practice 15, Problem 3) You have already cut out $\frac{1}{2}$ of a colored sheet; complete the whole sheet.
 
-### Solution to Exercise 161
+### Solution to Exercise 7
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: check with a set square and a ruler — those that do not intersect when extended are parallel, and those that intersect at a right angle are perpendicular. $\blacksquare$
+By **Definition 5.8.1 (分数的初步认识)**, add the other half, equal in size to the existing part, so that the whole sheet is divided into $2$ equal parts. $\blacksquare$
 
-## Exercise 162
+## Exercise 8
 
-(Lesson: Practice 15, Problem 2) Fold the paper. (1) Fold a rectangular paper twice so that the three creases are parallel. (2) Fold a square paper twice so that the two creases are perpendicular.
+(Lesson: Practice 15, Problem 4) Color to represent the fractions below each figure: $\frac{2}{5}$, $\frac{4}{9}$.
 
-### Solution to Exercise 162
+### Solution to Exercise 8
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: folding twice in the same direction gives three parallel creases; folding once each in two perpendicular directions gives two perpendicular creases. $\blacksquare$
+By **Definition 5.8.1 (分数的初步认识)**, divide into $5$ equal parts and color $2$ to show $\frac{2}{5}$; divide into $9$ equal parts and color $4$ to show $\frac{4}{9}$. $\blacksquare$
 
-## Exercise 163
+## Exercise 9
 
-(Lesson: Practice 15, Problem 3) Arrange the sticks. (1) If two sticks are both parallel to a third stick, are the two sticks parallel to each other? (2) If two sticks are both perpendicular to a third stick, what is the relationship between the two?
+(Lesson: Practice 15, Problem 5) Express the colored and uncolored parts of each figure as fractions.
 
-### Solution to Exercise 163
+### Solution to Exercise 9
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: (1) two lines parallel to the same line are parallel to each other; (2) two lines perpendicular to the same line are parallel to each other. $\blacksquare$
+By **Definition 5.8.1 (分数的初步认识)**, take the total number of parts as the denominator, the colored parts as the numerator, and the uncolored parts also as a numerator. Fill in according to the figure. $\blacksquare$
 
-## Exercise 164
+## Exercise 10
 
-(Lesson: Practice 15, Problem 4) Two lines intersect and $\angle1$ is a right angle; without measuring, how can you show that the other three angles are also right angles?
+(Lesson: Practice 15, Problem 6) Compare: $\frac{5}{9}$ and $\frac{4}{9}$, and so on.
 
-### Solution to Exercise 164
+### Solution to Exercise 10
 
-By **Definition 7.6.1 (Parallel and Perpendicular)** and the straight angle $180^{\circ}$, the adjacent angle is $=180^{\circ}-90^{\circ}=90^{\circ}$, so all four angles are right angles. $\blacksquare$
+By **Definition 5.8.2 (分数的大小比较)**, with the same denominator the larger numerator is larger, for example $\frac{5}{9}> \frac{4}{9}$. $\blacksquare$
 
-## Exercise 165
+## Exercise 11
 
-(Lesson: Practice 15, Problem 5) Through point $A$, draw the perpendicular line to $BC$.
+(Lesson: Practice 15, Problem 7) Blackboard-newspaper layout: "Works Display", "World of Science", "Historical Stories", "Famous Quotations" — what fraction of the board does each occupy?
 
-### Solution to Exercise 165
+### Solution to Exercise 11
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: use a set square to draw the perpendicular to $BC$ through point $A$; the foot of the perpendicular lies on $BC$ or on its extension. $\blacksquare$
+By **Definition 5.8.1 (分数的初步认识)**, look at how many equal parts the board is divided into; for example, divided into $2$ equal parts gives $\frac{1}{2}$ each, and into $4$ gives $\frac{1}{4}$ each. Estimate according to the figure. $\blacksquare$
 
-## Exercise 166
+## Exercise 12
 
-(Lesson: Practice 15, Problem 6) Which segments in the figure are parallel? Color them with the same color.
+(Lesson: Practice 15, Problem 8) Write the fractions from the figure, then compare the sizes in each group.
 
-### Solution to Exercise 166
+### Solution to Exercise 12
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: segments that never intersect when extended are parallel, so color them the same. $\blacksquare$
+By **Definition 5.8.2 (分数的大小比较)**, write the fractions first, then compare: for the same denominator look at the numerator, for the same numerator look at the denominator. Fill in $\left(\ \right)< \left(\ \right)$ according to the figure. $\blacksquare$
 
-## Exercise 167
+## Exercise 13
 
-(Lesson: Practice 15, Problem 7) (1) Given two sides of a rectangle, draw the complete rectangle. (2) Using a given segment as the left side, draw a square.
+(Lesson: Practice 15, Problem 9) A cake is divided into several equal pieces; Xiaoming eats $2$ pieces, Mom eats $3$ pieces, Dad eats $4$ pieces. How many pieces are left? What fraction of the cake is each?
 
-### Solution to Exercise 167
+### Solution to Exercise 13
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: through the endpoints draw perpendiculars and mark off the corresponding lengths, then connect them. $\blacksquare$
+Suppose it is divided into $10$ equal pieces: Xiaoming $\frac{2}{10}$, Mom $\frac{3}{10}$, Dad $\frac{4}{10}$, and the $1$ remaining piece is $\frac{1}{10}$. Fill in according to the actual total number of pieces in the figure. $\blacksquare$
 
-## Exercise 168
+## Exercise 14
 
-(Lesson: Practice 15, Problem 8) On each face of a cuboid and a cube, find perpendicular segments.
+(Lesson: Practice 15, Problem 10) Tell a short math story based on the figure.
 
-### Solution to Exercise 168
+### Solution to Exercise 14
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: adjacent edges on every face of a cuboid or cube are perpendicular to each other. $\blacksquare$
+Just make up a story about fractions; for example, a pie is divided evenly and two brothers each eat some fraction of it. $\blacksquare$
 
-## Exercise 169
+## Exercise 15
 
-(Lesson: Practice 15, Problem 9) When measuring a long-jump result, how is it measured?
+(Lesson: Practice 15, Problem 11, Challenge Problem) What fraction of the whole figure is the colored part?
 
-### Solution to Exercise 169
+### Solution to Exercise 15
 
-By **Definition 7.6.2 (Distance from a Point to a Line)**: draw a perpendicular segment from the heel of the footprint to the take-off line; measuring the length of this perpendicular segment gives the result. $\blacksquare$
+Re-divide the figure into equal parts and count how many parts the colored portion occupies. Fill in according to the figure. $\blacksquare$
 
-## Exercise 170
+## Exercise 16
 
-(Lesson: Practice 15, Problem 10) A concrete road is to be built from Xingfu Town to the highway; how should it be built to be the shortest?
+(Lesson: Practice 16, Problem 1) Calculate from the figure.
 
-### Solution to Exercise 170
+### Solution to Exercise 16
 
-By **Definition 7.6.2 (Distance from a Point to a Line)**: draw a perpendicular segment from Xingfu Town to the highway; building the road along this perpendicular is the shortest. $\blacksquare$
+By **Definition 5.8.3 (同分母分数的加减法)**, to add or subtract fractions with the same denominator, keep the denominator unchanged and add or subtract the numerators. Fill in according to the figure. $\blacksquare$
 
-## Exercise 171
+## Exercise 17
 
-(Lesson: Practice 15, Problem 11) Are the following pairs of lines $a,b$ parallel? Find a way to verify.
+(Lesson: Practice 16, Problem 2) Compute: $\frac{7}{9}+\frac{2}{9}$; $\frac{6}{6}-\frac{1}{6}$; $\frac{9}{9}-\frac{4}{9}$; the $\frac{7}{5}$ series; $\frac{4}{6}-\frac{3}{6}$; $\frac{1}{7}+\frac{4}{7}$; $\frac{8}{8}-\frac{4}{8}$; $\frac{2}{3}+\frac{1}{3}$; $\frac{7}{10}+\frac{3}{10}$; $\frac{8}{5}+\frac{2}{5}$; $\frac{4}{9}-\frac{1}{9}$.
 
-### Solution to Exercise 171
+### Solution to Exercise 17
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: take a few points on $a$ and draw perpendicular segments to $b$; if their lengths are all equal, the lines are parallel. $\blacksquare$
+By **Definition 5.8.3 (同分母分数的加减法)**: $\frac{7}{9}+\frac{2}{9}=1$; $\frac{6}{6}-\frac{1}{6}=\frac{5}{6}$; $\frac{9}{9}-\frac{4}{9}=\frac{5}{9}$; $\frac{4}{6}-\frac{3}{6}=\frac{1}{6}$; $\frac{1}{7}+\frac{4}{7}=\frac{5}{7}$; $\frac{8}{8}-\frac{4}{8}=\frac{4}{8}$; $\frac{2}{3}+\frac{1}{3}=1$; $\frac{7}{10}+\frac{3}{10}=1$; $\frac{8}{5}+\frac{2}{5}=2$; $\frac{4}{9}-\frac{1}{9}=\frac{3}{9}$. $\blacksquare$
 
-## Exercise 172
+## Exercise 18
 
-(Lesson: Practice 15, Problem 12) $a\parallel b$; measure the degrees of $\angle1$ and $\angle2$. What do you find?
+(Lesson: Practice 16, Problem 3) Of a chocolate bar, the younger sister ate $\frac{1}{8}$ and the older sister ate $\frac{3}{8}$. What fraction did the two eat altogether? How much less did the younger sister eat than the older one?
 
-### Solution to Exercise 172
+### Solution to Exercise 18
 
-When a line cuts two parallel lines, corresponding angles are equal, i.e. $\angle1=\angle2$. $\blacksquare$
+Altogether $\frac{1}{8}+\frac{3}{8}=\frac{4}{8}$; the lesser amount is $\frac{3}{8}-\frac{1}{8}=\frac{2}{8}$. $\blacksquare$
 
-(Figure: two horizontal parallel lines $a$ and $b$, cut by a slanting transversal intersecting $a$ at one point and $b$ at another; the corresponding angles to the right of the transversal and below each parallel line are labeled $\angle1$ and $\angle2$.)
+## Exercise 19
 
-## Exercise 173
+(Lesson: Practice 16, Problem 4) Of the pedal boats in the park, $\frac{2}{3}$ are two-person boats and the rest are four-person boats. What fraction are four-person boats?
 
-(Lesson: Parallelogram, Try It, Problem 1) On a dot grid, draw two different parallelograms.
+### Solution to Exercise 19
 
-### Solution to Exercise 173
+$1-\frac{2}{3}=\frac{1}{3}$. The four-person boats are $\frac{1}{3}$. $\blacksquare$
 
-By **Definition 7.6.3 (Parallelogram)**: draw quadrilaterals with two pairs of opposite sides parallel. $\blacksquare$
+## Exercise 20
 
-## Exercise 174
+(Lesson: Practice 16, Problem 5) Fill in the numbers: (1) $\frac{\left(\ \right)}{5}+\frac{\left(\ \right)}{5}=\frac{4}{5}$; (2) $\frac{\left(\ \right)}{9}-\frac{\left(\ \right)}{9}=\frac{1}{9}$.
 
-(Lesson: Parallelogram, Try It, Problem 2) Use two identical sets of set squares to piece together a parallelogram.
+### Solution to Exercise 20
 
-### Solution to Exercise 174
+(1) The sum of the two numerators is $4$: $\frac{1}{5}+\frac{3}{5}=\frac{4}{5}$ (or $\frac{2}{5}+\frac{2}{5}$). (2) The difference of the two numerators is $1$: $\frac{5}{9}-\frac{4}{9}=\frac{1}{9}$, and so on. Answers may vary. $\blacksquare$
 
-By **Definition 7.6.3 (Parallelogram)**: piece two identical triangles together hypotenuse to hypotenuse to obtain a parallelogram. $\blacksquare$
+## Exercise 21
 
-## Exercise 175
+(Lesson: Practice 16, Problem 6) Of a vegetable plot, $\frac{1}{10}$ is planted with celery and $\frac{3}{10}$ with cabbage, and the rest with green beans. What fraction is green beans?
 
-(Lesson: Parallelogram, Try It, Problem 3) Given one angle of a parallelogram as $135^{\circ}$, find the other angles and side lengths.
+### Solution to Exercise 21
 
-### Solution to Exercise 175
+$1-\frac{1}{10}-\frac{3}{10}=\frac{6}{10}$. The green beans are $\frac{6}{10}$. $\blacksquare$
 
-By **Definition 7.6.3 (Parallelogram)**: opposite angles are equal and adjacent angles sum to $180^{\circ}$ — the opposite angle is also $135^{\circ}$, and the other two angles are $=180^{\circ}-135^{\circ}=45^{\circ}$; opposite sides are equal. $\blacksquare$
+## Exercise 22
 
-## Exercise 176
+(Lesson: Practice 16, Problem 7) Tiles are being laid in an auditorium; $\frac{1}{5}$ is laid in the morning and $\frac{2}{5}$ in the afternoon. Raise a math question and answer it.
 
-(Lesson: Trapezoid, Try It, Problem 1) For an isosceles trapezoid draw "$\triangle$"; for a right trapezoid draw "$\bigcirc$".
+### Solution to Exercise 22
 
-### Solution to Exercise 176
-
-By **Definition 7.6.4 (Trapezoid)**: one with equal legs is an isosceles trapezoid, and one with a right angle is a right trapezoid. $\blacksquare$
-
-## Exercise 177
-
-(Lesson: Trapezoid, Try It, Problem 2) $a\parallel b$; how many trapezoids are in the figure?
-
-### Solution to Exercise 177
-
-By **Definition 7.6.4 (Trapezoid)**: a quadrilateral with only one pair of parallel sides is a trapezoid; count the trapezoids according to the combinations of segments in the figure. $\blacksquare$
-
-## Exercise 178
-
-(Lesson: Trapezoid, Try It, Problem 3) Draw a segment in a parallelogram: (1) to divide it into two trapezoids; (2) to divide it into a right trapezoid and an isosceles trapezoid.
-
-### Solution to Exercise 178
-
-By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: draw a segment not parallel to the sides to divide it into two trapezoids; adjust its position as required to obtain a right trapezoid or an isosceles trapezoid. $\blacksquare$
-
-## Exercise 179
-
-(Lesson: Practice 16, Problem 1) On grid paper, draw a parallelogram and a trapezoid, and describe their features.
-
-### Solution to Exercise 179
-
-By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: a parallelogram has two pairs of opposite sides parallel, while a trapezoid has only one pair. $\blacksquare$
-
-## Exercise 180
-
-(Lesson: Practice 16, Problem 2) Draw two sets of parallel lines; is the shaded part a parallelogram? Why?
-
-### Solution to Exercise 180
-
-By **Definition 7.6.3 (Parallelogram)**: the quadrilateral enclosed by two intersecting sets of parallel lines has two pairs of opposite sides parallel, so it is a parallelogram. $\blacksquare$
-
-## Exercise 181
-
-(Lesson: Practice 16, Problem 3) (1) On a parallelogram paper, make one cut so that both resulting shapes are trapezoids. (2) On a trapezoid paper, make one cut so that one piece is a parallelogram; what might the other piece be?
-
-### Solution to Exercise 181
-
-By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: making a cut not parallel to a side gives two trapezoids; cutting from a point on the upper base along a segment parallel to a leg may leave the other piece as a triangle or a trapezoid. $\blacksquare$
-
-## Exercise 182
-
-(Lesson: Practice 16, Problem 4) A quadrilateral is partly covered by a square paper; what shape might it be?
-
-### Solution to Exercise 182
-
-By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: it might be a parallelogram, a trapezoid, or an irregular quadrilateral, depending on whether the exposed sides are parallel. $\blacksquare$
-
-## Exercise 183
-
-(Lesson: Practice 16, Problem 5) The perimeter of a parallelogram vegetable plot is $42$ m, and side $AB$ is $13$ m; how long is side $BC$?
-
-### Solution to Exercise 183
-
-By **Definition 7.6.3 (Parallelogram)**: opposite sides are equal, so $AB+BC=42\div2=21$ m, and $BC=21-13=8$ m. $\blacksquare$
-
-## Exercise 184
-
-(Lesson: Practice 16, Problem 6) From rectangular paper, cut out a right trapezoid and an isosceles trapezoid.
-
-### Solution to Exercise 184
-
-By **Definition 7.6.4 (Trapezoid)**: cutting a rectangular paper diagonally gives a right trapezoid; folding it in half and then cutting gives an isosceles trapezoid. $\blacksquare$
-
-## Exercise 185
-
-(Lesson: Practice 16, Problem 7) Use sticks to arrange quadrilaterals; which quadrilaterals can you make?
-
-### Solution to Exercise 185
-
-By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: four equal sticks can form a parallelogram (a rhombus); two long and two short sticks can form a rectangle or a parallelogram; other combinations can form a trapezoid or an irregular quadrilateral. $\blacksquare$
-
-## Exercise 186
-
-(Lesson: Practice 16, Problem 8) How should the following figure be changed to become a parallelogram?
-
-### Solution to Exercise 186
-
-By **Definition 7.6.3 (Parallelogram)**: adjust the non-parallel sides so that the two pairs of opposite sides are parallel. $\blacksquare$
-
-## Exercise 187
-
-(Lesson: Practice 16, Problem 9) Name the shapes you have learned in the figure, such as trapezoid $BCDF$.
-
-### Solution to Exercise 187
-
-By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: identify the parallelograms and trapezoids in the figure according to which sides are parallel. $\blacksquare$
-
-## Exercise 188
-
-(Lesson: Practice 16, Problem 10) Piece together tangram pieces: (1) two pieces to form a trapezoid; (2) three pieces to form a parallelogram; (3) four pieces to form an isosceles trapezoid.
-
-### Solution to Exercise 188
-
-By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: try arranging the pieces according to their side lengths and angles. $\blacksquare$
-
-## Exercise 189
-
-(Lesson: Practice 16, Problem 11) Find the parallelograms and trapezoids in the figure; how many of each are there?
-
-### Solution to Exercise 189
-
-By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: count them one by one according to the definitions. $\blacksquare$
-
-## Exercise 190
-
-(Lesson: Practice 17, Problem 1) How many pairs of parallel segments and how many pairs of perpendicular segments are in the figure?
-
-### Solution to Exercise 190
-
-By **Definition 7.6.1 (Parallel and Perpendicular)**: count them pair by pair according to the definitions. $\blacksquare$
-
-## Exercise 191
-
-(Lesson: Practice 17, Problem 2) From three rectangular sheets of paper, cut out a square, a parallelogram, and a trapezoid, respectively.
-
-### Solution to Exercise 191
-
-By **Definition 7.6.1 (Parallel and Perpendicular)**: a square has four equal sides and four right angles; a parallelogram has two pairs of parallel sides; a trapezoid has only one pair of parallel sides. $\blacksquare$
-
-## Exercise 192
-
-(Lesson: Practice 17, Problem 3) Through point $P$, draw lines parallel to $AB$ and $CD$ respectively; what shape do the four lines enclose?
-
-### Solution to Exercise 192
-
-By **Definition 7.6.3 (Parallelogram)**: the quadrilateral enclosed by the two pairs of parallel lines has two pairs of opposite sides parallel, so it is a parallelogram. $\blacksquare$
-
-## Exercise 193
-
-(Lesson: Practice 17, Problem 4) Two rectangular sheets of paper overlap; what shape is the overlapping part?
-
-### Solution to Exercise 193
-
-By **Definition 7.6.3 (Parallelogram)**: the overlapping part of the two rectangles has two pairs of opposite sides parallel, so it is a parallelogram. $\blacksquare$
-
-## Exercise 194
-
-(Lesson: Practice 17, Problem 5) Observe the motion of point $A$; what shapes are formed?
-
-### Solution to Exercise 194
-
-A moving point forms a line, and a translated line forms a surface; according to the path of motion, identify the lines, parallelograms, etc. that are formed. $\blacksquare$
-
-## Exercise 195
-
-(Lesson: Practice 17, Problem 6) Inside a trapezoid, draw a segment that divides it into a parallelogram and a trapezoid.
-
-### Solution to Exercise 195
-
-By **Definition 7.6.4 (Trapezoid)**: through a point on the upper base draw a line parallel to a leg meeting the lower base; the left piece is a parallelogram and the right piece is a trapezoid. $\blacksquare$
-
-## Exercise 196
-
-(Lesson: Practice 17, Problem 7) Judge the statements. (1) A rectangle is a special parallelogram. (2) Two identical trapezoids can always be pieced together into a parallelogram. (3) Two identical trapezoids can always be pieced together into a rectangle.
-
-### Solution to Exercise 196
-
-By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: (1) correct — a rectangle has two pairs of parallel sides and four right angles; (2) correct — two identical trapezoids are pieced together one flipped over; (3) wrong — only two identical right trapezoids can be pieced together into a rectangle. $\blacksquare$
-
-## Exercise 197
-
-(Lesson: Practice 17, Problem 8) In a regular hexagon, draw $2$ segments; which shapes can be obtained?
-
-### Solution to Exercise 197
-
-By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: one can obtain triangles, parallelograms, trapezoids, rectangles, etc. $\blacksquare$
-
-## Exercise 198
-
-(Lesson: Practice 17, Problem 9) Measure the degree of each angle in each quadrilateral and fill in the sum of the four angles; what do you find?
-
-### Solution to Exercise 198
-
-The sum of the four angles of any quadrilateral is $360^{\circ}$. Draw another quadrilateral to verify that the conclusion is the same. $\blacksquare$
+For example, what fraction is laid altogether: $\frac{1}{5}+\frac{2}{5}=\frac{3}{5}$; what fraction remains: $1-\frac{3}{5}=\frac{2}{5}$. $\blacksquare$

@@ -1,234 +1,158 @@
 # week72
-> **Definition 9.4.1 (轴对称图形)**
+> **Definition 7.3.1 (角的再认识)**
 > 
-> 一个图形沿着一条直线对折, 直线两旁的部分能够完全重合, 这个图形就是轴对称图形, 这条直线叫对称轴. 轴对称图形上对应点到对称轴的距离相等, 对应点连线与对称轴垂直.
-> **Definition 9.4.2 (平移)**
+> 角可以看作由一条射线绕着它的端点, 从一个位置旋转到另一个位置所形成的图形. 旋转半周形成平角, 旋转一周形成周角, 旋转四分之一周形成直角.
+> **Definition 7.3.2 (角的分类)**
 > 
-> 图形平移后, 形, 大小, 方向都不变, 对应点移动的方向相同, 移动的距离相等. 画平移后的图形时, 先找关键点平移后的位置, 再连起来.
-> **Definition 9.4.3 (旋转)**
+> 锐角小于 90 度, 直角等于 90 度, 钝角大于 90 度小于 180 度, 平角等于 180 度, 周角等于 360 度.
+> **Definition 7.3.3 (角的度量单位)**
 > 
-> 物体绕着一个点或轴转动叫旋转. 旋转时旋转中心位置不变, 对应点都绕旋转中心按同一方向旋转相同的角度, 图形的形和大小不变.
+> 把圆平均分成 $360$ 份, 其中 $1$ 份所对的角作为度量角的单位, 它的大小就是 $1$ 度, 记作 $1^{\circ}$. 量角器是把半圆分成 $180$ 等份制成的.
+> **Definition 7.3.4 (量角的方法)**
+> 
+> 把量角器的中心与角的顶点重合, $0^{\circ}$ 刻度线与角的一条边重合, 角的另一条边所对的量角器上的刻度就是这个角的度数.
+> **Definition 7.3.5 (画角的方法)**
+> 
+> 先画一条射线, 使量角器中心和射线端点重合, $0^{\circ}$ 刻度线和射线重合; 在目标刻度处点一个点; 以射线端点为端点, 通过刚画的点再画一条射线.
+> **Definition 7.4.1 (口算乘法)**
+> 
+> 两位数乘一位数的口算, 先把两位数分成整十数和一位数, 分别相乘后再相加.
+> **Definition 7.4.2 (笔算乘法)**
+> 
+> 多位数乘多位数时, 把相同数位对齐, 从个位乘起, 用第二个因数的每一位分别乘第一个因数, 再把所得的积相加.
+> **Definition 7.4.3 (积的变化规律)**
+> 
+> 一个因数不变, 另一个因数乘 (或除以) 几 (0 除外), 积也乘 (或除以) 相同的数.
+> **Definition 7.4.4 (乘法估算)**
+> 
+> 根据问题需要把乘数估大或估小, 快速判断结果范围, 再决定精确计算.
 
-## Exercise 93
+## Exercise 1
 
-(Lesson: Axial Symmetry, Example) Observe the axially symmetric figure: points A and A' are both $3$ small squares from the axis. What do you notice?
+(Lesson: Practice 6, Problem 4) (1) Fold a rectangular paper to make angles of $45^{\circ}$ and $135^{\circ}$. (2) After folding a circular paper three times and unfolding it, what degree angles can you get?
 
-### Solution to Exercise 93
+### Solution to Exercise 1
 
-By **Definition 9.4.1 (Axially Symmetric Figures)**, corresponding points on the figure are equidistant from the axis, and the segment joining them is perpendicular to the axis. $\blacksquare$
+By **Definition 7.3.2 (Classification of Angles)**: (1) Folding the rectangular paper corner-to-corner gives $45^{\circ}$, and folding once more gives $135^{\circ}$ ($180^{\circ}-45^{\circ}$). (2) Folding the circle once gives a straight angle $180^{\circ}$, twice gives a right angle $90^{\circ}$, three times gives $45^{\circ}$; after unfolding you get $45^{\circ},90^{\circ},135^{\circ},180^{\circ},225^{\circ},270^{\circ},315^{\circ},360^{\circ}$. $\blacksquare$
 
-## Exercise 94
+## Exercise 2
 
-(Lesson: Axial Symmetry, Try It, Problem 1) Complete the axially symmetric figure based on its axis.
+(Lesson: Practice 6, Problem 5) Look at the picture and fill in. (1) Given $\angle1=70^{\circ}$, find $\angle2$. (2) Given $\angle1=40^{\circ}$, find $\angle2$, $\angle3$, $\angle4$.
 
-### Solution to Exercise 94
+The figure: (1) on a straight line there is a vertex, from which a ray is drawn dividing the straight angle into two parts labeled $\angle1$ and $\angle2$; (2) two straight lines intersect at one point, forming four angles labeled clockwise as $\angle1$, $\angle2$, $\angle3$, and $\angle4$.
 
-By **Definition 9.4.1 (轴对称图形)**, first find several key points of the figure, measure each point's distance to the axis, draw the corresponding point the same distance on the other side, then connect them in the original order. $\blacksquare$
+### Solution to Exercise 2
 
-## Exercise 95
+By **Definition 7.3.2 (Classification of Angles)**, a straight angle $=180^{\circ}$, and vertical angles are equal: (1) $\angle1$ and $\angle2$ form a straight angle, so $\angle2=180^{\circ}-70^{\circ}=110^{\circ}$; (2) $\angle2=180^{\circ}-40^{\circ}=140^{\circ}$, $\angle3=\angle1=40^{\circ}$, $\angle4=\angle2=140^{\circ}$. $\blacksquare$
 
-(Lesson: Axial Symmetry, Try It, Problem 2) First fill in, then judge: how many squares is point A from the dashed line (axis), and point B from it; then complete the axially symmetric figure.
+## Exercise 3
 
-### Solution to Exercise 95
+(Lesson: Practice 6, Problem 6) Measure the degrees of the angles on the right, $\angle1,\angle2,\angle3$; what can you find?
 
-By **Definition 9.4.1 (轴对称图形)**, count the squares from each corresponding point to the axis, draw the matching point the same distance on the other side, then connect them to complete the figure. $\blacksquare$
+### Solution to Exercise 3
 
-## Exercise 96
+By **Definition 7.3.4 (How to Measure an Angle)**, measure each angle. We find that the three angles on one straight line sum to $180^{\circ}$, or that angles facing the same arc are equal. $\blacksquare$
 
-(Lesson: Translation, Example) The figure on the right is obtained from the figure on the left by translation. What do you notice? Draw the figure translated $8$ squares to the right.
+## Exercise 4
 
-### Solution to Exercise 96
+(Lesson: Practice 6, Problem 7) A paper on which an angle is drawn is damaged; how do you measure the degree of this angle?
 
-By **Definition 9.4.2 (Translation)**, after translation the shape, size and direction are unchanged, and corresponding points move equal distances. To draw it: pick a key point, count $8$ squares to the right to find its image, then draw the whole figure by reference to the original. $\blacksquare$
+### Solution to Exercise 4
 
-## Exercise 97
+By **Definition 7.3.4 (How to Measure an Angle)**, extend the two sides of the angle to meet at the vertex and then measure with the protractor; the size of the angle does not depend on the length of the sides. $\blacksquare$
 
-(Lesson: Translation, Try It, Problem 1) In which direction and by how many squares should each small-animal card be translated to reach its food?
+## Exercise 5
 
-### Solution to Exercise 97
+(Lesson: Practice 6, Problem 8) Aunt Li broke a pane of glass into $3$ pieces; taking only one piece, she bought a new pane the same size. Which piece did she take?
 
-By **Definition 9.4.2 (平移)**, count the squares between each animal and its food, determine the direction and distance, and describe the translation path. $\blacksquare$
+### Solution to Exercise 5
 
-## Exercise 98
+Take the piece that keeps both sides of the original angle (or two complete angles); then you can extend the two sides to restore the size of the original angle. $\blacksquare$
 
-(Lesson: Translation, Try It, Problem 2) First fill in, then draw the translated figure (translate $5$ squares).
+## Exercise 6
 
-### Solution to Exercise 98
+(Lesson: Practice 6, Problem 9) In each picture on the right, are $\angle1$ and $\angle2$ equal? Explain why.
 
-By **Definition 9.4.2 (平移)**, pick key points, translate them by the counted squares, find their images, then connect them. $\blacksquare$
+### Solution to Exercise 6
 
-## Exercise 99
+By **Definition 7.3.2 (Classification of Angles)**, if both $\angle1$ and $\angle2$ form a right angle (or straight angle) with the same middle angle, then $\angle1=\angle2$. Complements (or supplements) of the same angle are equal. $\blacksquare$
 
-(Lesson: Applications of Translation, Example) An irregular figure has two curved edges; cutting off the left part and translating it $6$ squares to the right turns it into a rectangle $6$ cm long and $4$ cm wide. Find the original figure's area.
+## Exercise 7
 
-### Solution to Exercise 99
+(Lesson: Mental Multiplication — Do It, Problem 1) Mental math: $11\times5$, $14\times4$, $15\times6$, $23\times4$; $110\times5$, $140\times4$, $150\times6$, $230\times4$.
 
-By **Definition 9.4.2 (平移)**, translation does not change area; the transformed rectangle has area $6\times4=24$ cm$^2$, so the original figure's area is $24$ cm$^2$. $\blacksquare$
+### Solution to Exercise 7
 
-## Exercise 100
+By **Definition 7.4.1 (Mental Multiplication)**: $11\times5=55$, $14\times4=56$, $15\times6=90$, $23\times4=92$; $110\times5=550$, $140\times4=560$, $150\times6=900$, $230\times4=920$. $\blacksquare$
 
-(Lesson: Applications of Translation, Try It) Find the area of the "rocket" figure (each grid square is $1$ cm).
+## Exercise 8
 
-### Solution to Exercise 100
+(Lesson: Mental Multiplication — Try It) Compute: $5\times10$, $9\times10$, $18\times10$, $40\times10$. What do you find?
 
-By **Definition 9.4.2 (平移)**, translate the irregular parts into a regular figure (a rectangle or triangle), then compute its area. $\blacksquare$
+### Solution to Exercise 8
 
-## Exercise 101
+By **Definition 7.4.1 (Mental Multiplication)**: $5\times10=50$, $9\times10=90$, $18\times10=180$, $40\times10=400$. Multiplying a number by $10$ appends one $0$ to the end. $\blacksquare$
 
-(Lesson: Motion of Figures, Practice 8, Review and Consolidation, Problem 1) Draw the axis of symmetry of each figure below.
+## Exercise 9
 
-### Solution to Exercise 101
+(Lesson: Mental Multiplication — Do It, Problem 2) Mental math: $31\times30$, $14\times20$, $12\times30$, $30\times20$, $120\times30$, $310\times30$, $140\times20$, $30\times200$.
 
-By **Definition 9.4.1 (轴对称图形)**, the line along which the figure folds onto itself is the axis; draw it as a dashed line. $\blacksquare$
+### Solution to Exercise 9
 
-## Exercise 102
+By **Definition 7.4.1 (Mental Multiplication)**: $31\times30=930$, $14\times20=280$, $12\times30=360$, $30\times20=600$, $120\times30=3600$, $310\times30=9300$, $140\times20=2800$, $30\times200=6000$. $\blacksquare$
 
-(Lesson: Motion of Figures, Practice 8, Review and Consolidation, Problem 2) Draw the other half of each of the two axially symmetric figures.
+## Exercise 10
 
-### Solution to Exercise 102
+(Lesson: Practice 7, Problem 1) Mental math: $30\times5$, $15\times5$, $14\times6$, $13\times6$, $25\times2$, $17\times5$, $18\times4$, $12\times7$, $16\times3$, $220\times4$, $46\times2$, $24\times4$, $140\times3$, $170\times4$, $32\times3$, $39\times2$.
 
-By **Definition 9.4.1 (轴对称图形)**, find key points, draw matching points equidistant on the other side of the axis, then connect them. $\blacksquare$
+### Solution to Exercise 10
 
-## Exercise 103
+By **Definition 7.4.1 (Mental Multiplication)**: $30\times5=150$, $15\times5=75$, $14\times6=84$, $13\times6=78$, $25\times2=50$, $17\times5=85$, $18\times4=72$, $12\times7=84$, $16\times3=48$, $220\times4=880$, $46\times2=92$, $24\times4=96$, $140\times3=420$, $170\times4=680$, $32\times3=96$, $39\times2=78$. $\blacksquare$
 
-(Lesson: Motion of Figures, Practice 8, Review and Consolidation, Problem 3) Translate the figure $4$ squares to the right and shade it; then draw the figures obtained by translating it $3$ squares up and $8$ squares left.
+## Exercise 11
 
-### Solution to Exercise 103
+(Lesson: Practice 7, Problem 2) A horse weighs $280$ kg, and a water buffalo weighs $2$ times as much as the horse; how many kilograms does the buffalo weigh?
 
-By **Definition 9.4.2 (平移)**, pick key points and translate them by the specified direction and number of squares, find their images, then connect them. $\blacksquare$
+### Solution to Exercise 11
 
-## Exercise 104
+By **Definition 7.4.1 (Mental Multiplication)**, $280\times2=560$ kg. $\blacksquare$
 
-(Lesson: Motion of Figures, Practice 8, Integrated Use) Which sheet was each figure below cut from? Draw the connections.
+## Exercise 12
 
-### Solution to Exercise 104
+(Lesson: Practice 7, Problem 3) (1) $1$ row has $12$ lanterns; how many in $30$ rows? (2) $1$ lantern is $5$ yuan; how much to buy all these lanterns?
 
-By **Definition 9.4.1 (axial symmetry)**, the unfolded figure is symmetric to the folded cut-out about the fold line; connect accordingly. $\blacksquare$
+### Solution to Exercise 12
 
-## Exercise 105
+By **Definition 7.4.1 (Mental Multiplication)**: (1) $12\times30=360$ lanterns; (2) $360\times5=1800$ yuan. $\blacksquare$
 
-(Lesson: Motion of Figures, Practice 8, Extension and Improvement) What fraction of the whole figure is the shaded part?
+## Exercise 13
 
-### Solution to Exercise 105
+(Lesson: Practice 7, Problem 4) Mental math: $44\times2$, $25\times3$, $16\times5$, $17\times3$, $13\times20$, $21\times10$, $30\times30$, $12\times40$, $41\times20$, $23\times30$, $11\times40$, $240\times3$.
 
-By **Definition 9.4.2 (translation)**, move the shaded parts together, then count what fraction of the total squares they cover. $\blacksquare$
+### Solution to Exercise 13
 
-## Exercise 106
+By **Definition 7.4.1 (Mental Multiplication)**: $44\times2=88$, $25\times3=75$, $16\times5=80$, $17\times3=51$, $13\times20=260$, $21\times10=210$, $30\times30=900$, $12\times40=480$, $41\times20=820$, $23\times30=690$, $11\times40=440$, $240\times3=720$. $\blacksquare$
 
-(Lesson: Rotation, Example 1) A clock hand moves from "12" to "1"; about which point and in which direction does it rotate, and through what angle?
+## Exercise 14
 
-### Solution to Exercise 106
+(Lesson: Practice 7, Problem 5) A leaking faucet drips $50$ g per $1$ minute. (1) How many kg drip in $1$ hour? (2) How many kg drip in $1$ day ($24$ hours)?
 
-By **Definition 9.4.3 (Rotation)**, the hand rotates about point O clockwise. The clock face has $12$ large marks totaling $360^\circ$, each mark $30^\circ$; moving from "12" to "1" rotates by $30^\circ$. $\blacksquare$
+### Solution to Exercise 14
 
-## Exercise 107
+By **Definition 7.4.1 (Mental Multiplication)**: (1) $1$ hour $=60$ minutes, $50\times60=3000$ g $=3$ kg; (2) $3\times24=72$ kg. $\blacksquare$
 
-(Lesson: Rotation, Example 2) Rotate a triangle ruler $90^\circ$ clockwise on grid paper and observe the change. What do you find?
+## Exercise 15
 
-### Solution to Exercise 107
+(Lesson: Practice 7, Problem 6) Mental math: $44\times20$, $360\div6$, $16\times6$, $25\times4$, $80\div4$, $38\times2$, $22\times30$, $50\times16$.
 
-By **Definition 9.4.3 (旋转)**, point O stays fixed during rotation, each leg of the ruler rotates $90^\circ$ clockwise about O, and the lengths are unchanged. $\blacksquare$
+### Solution to Exercise 15
 
-## Exercise 108
+By **Definition 7.4.1 (Mental Multiplication)**: $44\times20=880$, $360\div6=60$, $16\times6=96$, $25\times4=100$, $80\div4=20$, $38\times2=76$, $22\times30=660$, $50\times16=800$. $\blacksquare$
 
-(Lesson: Rotation, Try It, Problem 1) A barrier arm rotates $90^\circ$ clockwise about point $O_1$ to let left-side vehicles through; when a vehicle passes on the right, in what direction and through what angle should the arm rotate about point $O_2$?
+## Exercise 16
 
-### Solution to Exercise 108
+(Lesson: Practice 7, Problem 7) Xiaoliang's essay paper holds at most $20$ characters per line, and he wrote $18$ lines; at most how many characters is the short essay?
 
-By **Definition 9.4.3 (旋转)**, when right-side vehicles pass, the arm rotates $90^\circ$ counterclockwise about point $O_2$. $\blacksquare$
+### Solution to Exercise 16
 
-## Exercise 109
-
-(Lesson: Rotation, Try It, Problem 2) Draw the triangle AOB rotated $90^\circ$ clockwise about point O.
-
-### Solution to Exercise 109
-
-By **Definition 9.4.3 (旋转)**, first rotate segment OB $90^\circ$ clockwise about O to draw OB', then rotate segment OA $90^\circ$ clockwise about O to draw OA', and connect A' and B'. $\blacksquare$
-
-## Exercise 110
-
-(Lesson: Rotation, Try It, Problem 3) On grid paper, draw triangle AOB rotated $90^\circ$ counterclockwise about point O.
-
-### Solution to Exercise 110
-
-By **Definition 9.4.3 (旋转)**, same method as before, but with the rotation changed to $90^\circ$ counterclockwise. $\blacksquare$
-
-## Exercise 111
-
-(Lesson: Applications of Rotation, Example) The pattern on the right is built from the $4$ cards on the left by translation or rotation; describe each card's motion.
-
-### Solution to Exercise 111
-
-By **Definition 9.4.2 (平移)** and **Definition 9.4.3 (旋转)**, first locate each card in the right figure and label it, then describe: cards needing a new direction are first rotated by the specified angle about a point, and cards needing a new position are then translated by the specified number of squares. $\blacksquare$
-
-## Exercise 112
-
-(Lesson: Motion of Figures, Practice 9, Review and Consolidation, Problem 1) The pendulum rotates about point O ( )-clockwise; the pendulum rotates about point O ( )-clockwise. (Judge from the figure.)
-
-### Solution to Exercise 112
-
-By **Definition 9.4.3 (旋转)**, observe the swing direction: fill "clockwise" for the clockwise direction and "counterclockwise" for the other. $\blacksquare$
-
-## Exercise 113
-
-(Lesson: Motion of Figures, Practice 9, Review and Consolidation, Problem 2) Figure OABC rotated $90^\circ$ clockwise about O gives figure ①; rotated about O ( )-clockwise by ( ) gives figure ②; rotated about O ( )-clockwise by ( ) gives figure ③.
-
-### Solution to Exercise 113
-
-By **Definition 9.4.3 (旋转)**, observe each figure's direction relative to the original: if ② is reversed, fill "counterclockwise $90^\circ$"; if ③ is upside down, fill "clockwise $180^\circ$" or "counterclockwise $180^\circ$". $\blacksquare$
-
-## Exercise 114
-
-(Lesson: Motion of Figures, Practice 9, Review and Consolidation, Problem 3) Draw segment AB rotated $90^\circ$ clockwise about point A; segment AB rotated $90^\circ$ counterclockwise about point B; and the rectangle rotated $90^\circ$ clockwise about point A.
-
-### Solution to Exercise 114
-
-By **Definition 9.4.3 (旋转)**, rotate by $90^\circ$ in the specified direction about the specified point, keep the segment length unchanged, and draw the rotated figure. $\blacksquare$
-
-## Exercise 115
-
-(Lesson: Motion of Figures, Practice 9, Integrated Use) Draw the "kite" rotated $90^\circ$ about point A (outline only).
-
-### Solution to Exercise 115
-
-By **Definition 9.4.3 (旋转)**, rotate each vertex of the "kite" $90^\circ$ about point A to find their images, then connect them in outline order. $\blacksquare$
-
-## Exercise 116
-
-(Lesson: Motion of Figures, Practice 9, Extension and Improvement) The two axes of a rectangle meet at point O; rotate the rectangle about O. What do you find after rotating $90^\circ$, $180^\circ$ and $360^\circ$?
-
-### Solution to Exercise 116
-
-By **Definition 9.4.3 (旋转)**, after rotating $180^\circ$ about O the rectangle coincides with itself, and after $360^\circ$ it returns to the start. After $90^\circ$ the rectangle becomes horizontal (if it was vertical). $\blacksquare$
-
-## Exercise 117
-
-(Lesson: Designing Patterns, Try It) Use translation, symmetry and rotation to design a pattern.
-
-### Solution to Exercise 117
-
-A basic figure can be translated repeatedly by $2$ squares to form a border, or used to design a symmetric pattern by axial symmetry, or rotated to form a radial pattern. $\blacksquare$
-
-## Exercise 118
-
-(Lesson: Motion of Figures, Practice 10, Review and Consolidation, Problem 1) Draw the translated figures as required: figure ① right by $7$ squares, figure ② left by $6$ squares, figure ③ up by $3$ squares.
-
-### Solution to Exercise 118
-
-By **Definition 9.4.2 (平移)**, pick key points, translate them by the specified direction and number of squares, then connect them. $\blacksquare$
-
-## Exercise 119
-
-(Lesson: Motion of Figures, Practice 10, Review and Consolidation, Problem 2) First complete the axially symmetric figure by its axis, then draw it translated $10$ squares to the right.
-
-### Solution to Exercise 119
-
-By **Definition 9.4.1 (轴对称图形)**, complete the axially symmetric figure, then by **Definition 9.4.2 (平移)** translate it $10$ squares to the right. $\blacksquare$
-
-## Exercise 120
-
-(Lesson: Motion of Figures, Practice 10, Integrated Use) Observe three groups of figures; how can translation or rotation turn each group into one square? What other figures can it become?
-
-### Solution to Exercise 120
-
-By **Definition 9.4.2 (平移)** and **Definition 9.4.3 (旋转)**, rotate the wrongly oriented pieces and translate the wrongly positioned pieces so each group assembles into a square; other regular figures can also be assembled. $\blacksquare$
+By **Definition 7.4.1 (Mental Multiplication)**, $20\times18=360$ characters. $\blacksquare$

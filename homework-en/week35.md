@@ -1,109 +1,173 @@
 # week35
-> **Definition 5.4.1 (等量的等量相等与总量等于各分量之和)**
+> **Definition 4.3.1 (倍的意义)**
 > 
-> 曹冲称象的道理: 赶大象上船在船舷画线, 赶象下船往船上装石头使船沉到画线处, 这时大象的质量等于船上石头的总质量; 石头分几次称出, 石头的总质量等于各次称出质量的和. 等量的等量相等; 总量等于各分量之和.
-> **Definition 5.4.2 (克与千克)**
+> 把两个数量比较, 把较少的看作 $1$ 份, 较多的有这样的几份, 就说较多的是较少的几倍. 如鹅 $2$ 只看作 $1$ 份, 鸡有 $3$ 个 $2$ 只, 鸡的只数就是鹅的 $3$ 倍.
+> **Definition 4.3.2 (求一个数是另一个数的几倍)**
 > 
-> 克 (g), 千克 (kg) 是表示物体质量的常用单位. 计量比较轻的物品用克, 计量比较重的物品用千克. $1$ 千克 $=1000$ 克. 千克在日常生活中也叫公斤.
-> **Definition 5.4.3 (吨)**
+> 求甲数是乙数的几倍, 就是求甲数里面有几个乙数, 用除法计算. 如求 $12$ 盆是 $4$ 盆的几倍, $12\div4=3$.
+> **Definition 4.3.3 (求一个数的几倍是多少)**
 > 
-> 计量较重的或大宗物品的质量, 通常用吨 (t) 作单位. $1$ 吨 $=1000$ 千克.
-> **Definition 5.4.4 (用已知质量作标准称物体)**
+> 求一个数的几倍是多少, 就是求几个几是多少, 用乘法计算. 如牛有 $8$ 头, 羊是牛的 $4$ 倍, 羊有 $4$ 个 $8$ 只, $8\times4=32$ 只.
+> **Definition 4.3.4 (已知几倍求 $1$ 份是多少)**
 > 
-> 没有秤时, 可以用已知质量的物品 (如每袋 $200$ 克的盐) 作标准, 通过拎一拎比较或等量替换称出其他物体的质量. 生活中还有公斤, 斤, 两等单位: $1$ 公斤 $=1$ 千克, $1$ 斤 $=500$ 克, $1$ 公斤 $=2$ 斤, $1$ 斤 $=10$ 两.
+> 知道一个数是另一个数的几倍和这个数, 求 $1$ 份是多少, 用除法计算. 如跳的距离 $12$ 米是体长的 $6$ 倍, $12\div6=2$ 米就是体长.
 
-## Exercise 89
+## Exercise 1
 
-(Lesson: The Story of Cao Chong Weighing the Elephant — Share Your Thoughts) Do you know the story of Cao Chong weighing the elephant? Tell about the steps and method of how Cao Chong weighed the elephant.
+(Lesson: Finding How Many Times One Number Is Another, Do It) A short jump rope is $3$ meters long and a long one is $9$ meters long; the long rope is $\_\_$ times the short rope.
 
-### Solution to Exercise 89
+### Solution to Exercise 1
 
-By **Definition 5.4.1 (Equals of Equals are Equal, and the Whole Equals the Sum of Its Parts)**, the steps are: lead the elephant onto the boat and draw a line on the gunwale along the water surface; lead the elephant off and load stones until the boat sinks to the drawn line; weigh the total mass of the stones on the boat in several batches, and the sum of the masses from each weighing is the elephant's mass. $\blacksquare$
+By **Definition 4.3.2 (Finding How Many Times One Number Is Another)**, $9\div3=3$, so the long rope is $3$ times the short one. $\blacksquare$
 
-## Exercise 90
+## Exercise 2
 
-(Lesson: Activity Preparation — Before-Class Survey) What weighing tools are there in daily life? What units are used to record or express how heavy an object is?
+(Lesson: Finding How Many Times One Number Is Another, Practice) Draw and write: draw $\bigcirc\bigcirc$ in the first row, and draw $\triangle$ in the second row; the number of $\triangle$ is $4$ times the number of $\bigcirc$, so the second row has $\_\_$ $\triangle$.
 
-### Solution to Exercise 90
+### Solution to Exercise 2
 
-Weighing tools include the pan scale, balance, electronic scale, platform scale, weighbridge (truck scale), steelyard, and so on. Grams, kilograms and tons are commonly used to record mass; in daily life the kilo, jin and liang are also used. $\blacksquare$
+There are $2$ $\bigcirc$, and $4$ times that is $4$ copies of $2$, $2\times4=8$; draw $8$ $\triangle$ in the second row. $\blacksquare$
 
-## Exercise 91
+## Exercise 3
 
-(Lesson: Getting to Know Mass Units — Share Your Thoughts) Discuss your before-class survey in groups: where did you find "grams" and "kilograms"? Tell about your own body weight.
+(Lesson: Finding How Many Times One Number Is Another, Practice) Xiaohong says "the number of watermelons is $2$ times the number of pineapples"; is she right? Why?
 
-### Solution to Exercise 91
+### Solution to Exercise 3
 
-By **Definition 5.4.2 (The Gram and the Kilogram)**, gram and kilogram markings are common on pan scales, balances and electronic scales; a child's weight is about $25$ kilograms. $\blacksquare$
+By **Definition 4.3.2 (求一个数是另一个数的几倍)**, check whether the number of watermelons contains exactly $2$ copies of the number of pineapples. Count both fruits, divide the watermelon count by the pineapple count; she is right only if the quotient is $2$, otherwise she is wrong. $\blacksquare$
 
-## Exercise 92
+## Exercise 4
 
-(Lesson: Getting to Know Mass Units — Read Them) Can you read the mass of the objects below? Whatever number the pointer points to on the scale face tells how many grams or kilograms the weighed object has.
+(Lesson: Finding How Many Times One Number Is Another, Practice) Fill in from the picture: (1) The number of peaches is $\_\_$ times the number of bananas. (2) The number of apples is $\_\_$ times the number of pears.
 
-### Solution to Exercise 92
+### Solution to Exercise 4
 
-By **Definition 5.4.2 (The Gram and the Kilogram)**, read the unit on the scale face and the pointer position: for example, if the pan-scale pointer points to the $2$ kilogram mark, read it as $2$ kilograms; for a balance, add the readings of the weight set. Read off the specific grams or kilograms according to each pointer position in the figure. $\blacksquare$
+By **Definition 4.3.2 (Finding How Many Times One Number Is Another)**, divide the peach count by the banana count and the apple count by the pear count; the quotient is the number of times. Compute from the picture and fill in. $\blacksquare$
 
-## Exercise 93
+## Exercise 5
 
-(Lesson: Getting to Know Mass Units — Small Survey) Investigate how heavy the following animals are and fill in the table: dragonfly, sparrow, giant panda, polar bear, hippopotamus, blue whale.
+(Lesson: Finding How Many Times One Number Is Another, Practice) Circle and fill in. First row $\bigcirc\bigcirc$: (1) The number of $\triangle$ is $\_\_$ times the number of $\bigcirc$. (2) If one $\triangle$ is taken away, the number of $\triangle$ is $\_\_$ times the number of $\bigcirc$.
 
-### Solution to Exercise 93
+### Solution to Exercise 5
 
-Look it up: a dragonfly is about a few grams, a sparrow about $20\sim30$ grams, a giant panda about $100$ kilograms, a polar bear about $500$ kilograms, a hippopotamus about $3$ tons, and a blue whale about $150$ tons. By **Definition 5.4.3 (The Ton)**, very heavy animals are measured in tons. $\blacksquare$
+By **Definition 4.3.2 (求一个数是另一个数的几倍)**, divide the count of $\triangle$ by the count of $\bigcirc$ for the multiple; after taking one away the $\triangle$ decrease by $1$, and divide again by the count of $\bigcirc$ for the new multiple. Compute from the picture. $\blacksquare$
 
-## Exercise 94
+## Exercise 6
 
-(Lesson: I'm Good at Weighing — Compare) Find some objects, heft them, and compare which is lighter and which is heavier.
+(Lesson: Finding How Many Times One Number Is Another, Practice) (1) How many times is the number of $\star$ in the first row the number of $\triangle$? (2) Color the $\bigcirc$ in the second row with two different colors, then raise a math problem based on the coloring and solve it.
 
-### Solution to Exercise 94
+### Solution to Exercise 6
 
-Compare by hefting in your hand; if the difference is obvious, you can say directly which is lighter and which is heavier (for example, an orange is heavier than an egg); if the difference is not obvious, you need to weigh them before comparing, for example an apple is about $30$ grams heavier than an orange. $\blacksquare$
+(1) Divide the count of $\star$ in the first row by the count of $\triangle$. (2) For example, however many of each color there are, raise a problem like "how many times is one color the other?" and solve it with division. $\blacksquare$
 
-## Exercise 95
+## Exercise 7
 
-(Lesson: I'm Good at Weighing — Weigh It) Weigh some common objects and see how many of them make up $1$ gram or $1$ kilogram.
+(Lesson: Finding How Many Times One Number Is Another, Practice) Xiaoyu is $9$ years old, her mother is $36$, and her grandmother is $63$. (1) How many times is the mother's age Xiaoyu's? (2) Raise other math problems and solve them.
 
-### Solution to Exercise 95
+### Solution to Exercise 7
 
-By **Definition 5.4.2 (The Gram and the Kilogram)**, for example, $5$ soybeans weigh about $1$ gram, and $1$ kilogram of tomatoes is about $6$ of them. $1$ bag of grain is $100$ kilograms, and $10$ bags weigh $1$ ton. $\blacksquare$
+(1) By **Definition 4.3.2 (求一个数是另一个数的几倍)**, $36\div9=4$, so the mother's age is $4$ times Xiaoyu's. (2) For example how many times the grandmother is Xiaoyu: $63\div9=7$; how much older the mother is than Xiaoyu: $36-9=27$ years. $\blacksquare$
 
-## Exercise 96
+## Exercise 8
 
-(Lesson: I'm Good at Weighing — Weigh It) In groups, choose an appropriate scale and weigh the objects everyone brought to see how heavy they are.
+(Lesson: Finding How Many Times One Number Is Another, Practice) An older sister and her younger brother practice brush characters; in the same time the sister writes $18$ characters and the brother writes $9$. How many times is the sister's count the brother's? How many more characters did the sister write than the brother?
 
-### Solution to Exercise 96
+### Solution to Exercise 8
 
-Light objects (such as an eraser or a pencil) are weighed in grams on a balance or electronic scale; heavy objects (such as a schoolbag or a water bottle) are weighed in kilograms on a pan or platform scale. Record the results after weighing. $\blacksquare$
+By **Definition 4.3.2 (求一个数是另一个数的几倍)**, $18\div9=2$, so the sister wrote $2$ times as many as the brother. The sister wrote $18-9=9$ more characters than the brother. $\blacksquare$
 
-## Exercise 97
+## Exercise 9
 
-(Lesson: I'm Good at Weighing — Choose) Which unit is appropriate for measuring how heavy the following objects are? (a pear, a bag of rice, an elephant.)
+(Lesson: Finding How Many Times One Number Is Another, Practice) The same kind of tissue pack: one costs $6$ yuan, another costs $18$ yuan ($12$ packs). (1) Raise a problem about the multiplication/division relation and solve it. (2) Raise other math problems and solve them.
 
-### Solution to Exercise 97
+### Solution to Exercise 9
 
-By **Definition 5.4.2 (克与千克)** and **Definition 5.4.3 (吨)**, a pear is measured in grams ($5$ pears weigh about $1$ kilogram), a bag of rice in kilograms, and an elephant in tons. $\blacksquare$
+(1) For example "how many times is the $18$-yuan one the $6$-yuan one": $18\div6=3$. (2) For example "how much more expensive": $18-6=12$ yuan. The answer is not unique. $\blacksquare$
 
-## Exercise 98
+## Exercise 10
 
-(Lesson: I'm Good at Weighing — Think) If you want to find the mass of a very light object, what method do you have?
+(Lesson: Finding a Multiple of a Number, Do It) A set of checkers is $9$ yuan, and a set of Chinese chess is $3$ times that; how much is a set of Chinese chess?
 
-### Solution to Exercise 98
+### Solution to Exercise 10
 
-A light object (such as a single grain of rice) cannot be weighed accurately on its own; you can weigh the mass of $100$ grains of rice and then divide by $100$ to get the mass of one grain. $\blacksquare$
+By **Definition 4.3.3 (Finding a Multiple of a Number)**, $3$ times $9$ is $3$ copies of $9$, $9\times3=27$ yuan. A set of Chinese chess is $27$ yuan. $\blacksquare$
 
-## Exercise 99
+## Exercise 11
 
-(Lesson: The Great Weighing Challenge) If there is no scale and you are only given some bags of salt weighing $200$ grams each, can you find a way to "weigh" the mass of $1$ flashlight, $1$ water cup, and $1$ potted plant? What other objects of known mass would you like to use as a standard?
+(Lesson: Given the Multiple, Finding $1$ Share, Do It) A ship is $24$ meters long, which is $3$ times a whale's body length; what is the whale's body length?
 
-### Solution to Exercise 99
+### Solution to Exercise 11
 
-By **Definition 5.4.4 (Weighing an Object by Using a Known Mass as a Standard)**, hold a bag of salt in one hand and the object in the other and compare by hefting: $1$ water cup weighs about as much as $2$ bags of salt ($400$ grams), and $1$ flashlight about as much as $1$ bag of salt ($200$ grams). For the flowerpot you can use Cao Chong's method of weighing the elephant: put the pot into a basin of water and mark the water level, take out the pot and add bags of salt until the water reaches the mark, then count the bags. A pencil case is about $200$ grams and a dictionary about $400$ grams, and these can also be used as standards. $\blacksquare$
+By **Definition 4.3.4 (Given the Multiple, Finding What $1$ Share Is)**, take the whale's body length as $1$ share; the ship has $3$ such shares, $24$ meters in all, so $24\div3=8$ meters. The whale is $8$ meters long. $\blacksquare$
 
-## Exercise 100
+## Exercise 12
 
-(Lesson: Mini Lecture) What other mass units and scales are there in daily life? Were the mass units and scales in ancient times the same as today's?
+(Lesson: Solving Problems, Practice) Taking the high-speed train from Beijing to Jinan takes about $2$ hours, and Beijing to Guangzhou takes $4$ times as long; about how many hours is Beijing to Guangzhou?
 
-### Solution to Exercise 100
+### Solution to Exercise 12
 
-By **Definition 5.4.4 (Weighing an Object by Using a Known Mass as a Standard)**, besides the gram and kilogram there are also the kilo, jin and liang: $1$ kilo $=1$ kilogram, $1$ jin $=500$ grams, $1$ kilo $=2$ jin, $1$ jin $=10$ liang. In ancient times people used units such as the jin, liang and jun and the steelyard, which differ from today's International System of Units; the idioms "half a jin and eight liang" (six of one and half a dozen of the other), "to haggle over every jin", and "strength to move a thousand jun" all contain mass units. $\blacksquare$
+By **Definition 4.3.3 (Finding a Multiple of a Number)**, $4$ times $2$ hours is $2\times4=8$ hours. $\blacksquare$
+
+## Exercise 13
+
+(Lesson: Solving Problems, Practice) There are $8$ $\triangle$, and the number of $\bigcirc$ is $4$ times the number of $\triangle$; how many $\bigcirc$ are there?
+
+### Solution to Exercise 13
+
+By **Definition 4.3.3 (求一个数的几倍是多少)**, $\bigcirc$ is $4$ times $8$, $8\times4=32$ items. There are $32$ $\bigcirc$. $\blacksquare$
+
+## Exercise 14
+
+(Lesson: Solving Problems, Practice) The picture has $18$ deer, $6$ monkeys, $24$ rabbits, and $8$ squirrels. (1) How many times is the number of deer the number of monkeys? (2) Raise other math problems and solve them.
+
+### Solution to Exercise 14
+
+(1) By **Definition 4.3.2 (求一个数是另一个数的几倍)**, $18\div6=3$, so the deer are $3$ times the monkeys. (2) For example how many times the rabbits are the monkeys: $24\div6=4$. The answer is not unique. $\blacksquare$
+
+## Exercise 15
+
+(Lesson: Solving Problems, Practice) A bookshelf has three shelves; the middle shelf has $36$ books, which is $4$ times the bottom shelf, and the top shelf is $3$ times the bottom shelf. (1) How many books on the bottom shelf? (2) How many on the top shelf?
+
+### Solution to Exercise 15
+
+(1) By **Definition 4.3.4 (已知几倍求 $1$ 份是多少)**, the middle shelf's $36$ books are $4$ times the bottom shelf, so the bottom shelf is $36\div4=9$ books. (2) By **Definition 4.3.3 (求一个数的几倍是多少)**, the top shelf is $3$ times the bottom shelf's $9$ books, $9\times3=27$ books. $\blacksquare$
+
+## Exercise 16
+
+(Lesson: Solving Problems, Practice) Write expressions from the picture. (1) One segment stands for $7$ items, and another segment is some multiple of it; find the total number of items. (2) One segment is $1$ meter long, and another is $2$ meters; find the total meters.
+
+### Solution to Exercise 16
+
+By the tape diagram: (1) first find the segment that is the multiple, then add it to the $7$ items, such as $7\times$ multiple $+7$. (2) Read the multiple relation between the two segments; use multiplication or division for the meters, and write the expression per the multiple marked in the picture. $\blacksquare$
+
+## Exercise 17
+
+(Lesson: Solving Problems, Practice) Xiaoli is $6$ years old this year, and her father's age is $6$ times hers. (1) How old is her father this year? (2) Last year, how many times was her father's age Xiaoli's?
+
+### Solution to Exercise 17
+
+(1) By **Definition 4.3.3 (求一个数的几倍是多少)**, the father is $6\times6=36$ years old. (2) Last year the father was $35$ and Xiaoli was $5$, $35\div5=7$, so last year the father's age was $7$ times Xiaoli's. $\blacksquare$
+
+## Exercise 18
+
+(Lesson: Solving Problems, Practice) A kind of bacterium, every $1$ hour, multiplies from $1$ to $2$; after $3$ hours, how many times the original is the count?
+
+### Solution to Exercise 18
+
+After the $1$st hour there are $2$, after the $2$nd hour $4$, after the $3$rd hour $8$, $8\div1=8$. It is $8$ times the original. $\blacksquare$
+
+## Exercise 19
+
+(Lesson: Solving Problems, Practice) The baby bear says "I have $5$ corn cobs", and the mother bear says "after I give you $3$ of my cobs, my cobs will be $2$ times yours"; how many cobs did the mother bear originally have?
+
+### Solution to Exercise 19
+
+After the gift the baby has $5+3=8$ cobs, and then the mother is $2$ times that, $8\times2=16$ cobs. These $16$ cobs are after giving away $3$, so the mother originally had $16+3=19$ cobs. $\blacksquare$
+
+## Exercise 20
+
+(Lesson: Solving Problems, Do It) You bought $7$ rabbit lanterns, and the goldfish lanterns are $4$ times the rabbit lanterns. How many goldfish lanterns were bought? How many more goldfish than rabbit lanterns?
+
+### Solution to Exercise 20
+
+Goldfish lanterns: $7\times4=28$; $28-7=21$ more than rabbit lanterns. $\blacksquare$

@@ -1,306 +1,215 @@
 # week91
-> **Definition 11.3.1 (倒数)**
+> **Definition 8.3.8 (简便计算)**
 > 
-> 乘积是 $1$ 的两个数互为倒数. 求一个分数的倒数, 把它的分子, 分母交换位置. $1$ 的倒数是 $1$, $0$ 没有倒数.
-> **Definition 11.3.2 (分数除法法则)**
+> 利用加法, 乘法的运算律和减法, 除法的运算性质, 把能凑成整十, 整百的数先算, 使计算更简便.
+> **Definition 8.4.1 (小数的意义和计数单位)**
 > 
-> 除以一个数 ($0$ 除外), 等于乘这个数的倒数: $\frac{b}{a}\div\frac{d}{c}=\frac{b}{a}\times\frac{c}{d}$ ($a,c,d\neq0$). 整数可以看成分母为 $1$ 的分数.
-> **Definition 11.3.3 (工程问题)**
+> 把整体 1 平均分成 10 份,100 份,1000 份, 这样的一份或几份可以用分母是 10,100,1000 的分数来表示, 也可以用小数表示.
+> **Definition 8.4.2 (小数的数位顺序)**
 > 
-> 把工作总量看作单位"$1$", 用每天完成总量的几分之几表示工作效率; 两队合作的工作时间 $=1\div$ 效率和.
+> 小数点左边是整数部分 (个位, 十位, 百位 $\cdots$), 右边是小数部分 (十分位, 百分位, 千分位 $\cdots$), 十分位的计数单位是十分之一, 百分位是百分之一.
+> **Definition 8.4.3 (小数的读法和写法)**
+> 
+> 读小数时, 整数部分按整数读法读, 小数点读作"点", 小数部分依次读出每个数字; 写小数时, 小数部分依次写出每个数字.
+> **Definition 8.4.4 (小数的性质)**
+> 
+> 小数的末尾添上"$0$"或去掉"$0$", 小数的大小不变. 应用这一性质可以化简小数或按需要改写小数.
+> **Definition 8.4.5 (小数的大小比较)**
+> 
+> 先比较整数部分, 整数部分大的那个数就大; 整数部分相同的, 十分位上的数大的就大; 十分位也相同的, 百分位上的数大的就大 $\cdots$
+> **Definition 8.4.6 (小数点移动引起小数大小的变化)**
+> 
+> 小数点向右移动一位, 两位, 三位 $\cdots$ 原数分别乘 $10$, $100$, $1000\cdots$ 扩大到原数的 $10$ 倍, $100$ 倍, $1000$ 倍; 向左移动一位, 两位 $\cdots$ 原数分别除以 $10$, $100\cdots$ 缩小到原数的 $\frac{1}{10}$, $\frac{1}{100}$.
+> **Definition 8.4.7 (小数与单位换算)**
+> 
+> 把低级单位的数改写成高级单位的数要除以进率, 把高级单位的数改写成低级单位的数要乘进率, 可以利用小数点移动的规律.
+> **Definition 8.4.8 (小数的近似数)**
+> 
+> 用"四舍五入"法保留一定的小数位数. 保留整数精确到个位, 保留一位小数精确到十分位, 保留两位精确到百分位. 表示近似数时, 小数末尾的 $0$ 不能去掉.
+> **Definition 8.4.9 (把较大数改写成用万或亿作单位的数)**
+> 
+> 数的改写和求近似数 有时为了读写方便,会把整万或整亿的数改写成用万或 亿作单位的数. 白细胞:能消灭病菌, 清洁血液. 红细胞:能输送 氧气. 一小滴血液大约含有: 红细胞:25000000个=2500万个 白细胞: 30000个= 万个 想一想:怎样把下面的数改写成用亿作单位的数? 200000000=2亿 可以先分级,找到 1000000000= 亿位,再改写. 530500000000= 做一做 把下面各数改写成用万或亿作单位的数. 25:0000= 3580:0000= 460:0000:0000= 705:0000:0000= 16 万以上数的认识
+> **Definition 8.5.1 (Height and Base of a Triangle)**
+> 
+> 由 $3$ 条线段围成的图形 (每相邻两条线段的端点相连) 叫作三角形. 三角形有 $3$ 条边, $3$ 个角, $3$ 个顶点. 从三角形的一个顶点到它的对边作一条垂线, 顶点和垂足之间的线段叫作三角形的高, 这条对边叫作三角形的底.
+> **Definition 8.5.2 (三角形的稳定性)**
+> 
+> 用 $3$ 根小棒只能围出一种形的三角形, 而四边形可以拉动变形, 说明三角形具有稳定性.
+> **Definition 8.5.3 (两点间的距离)**
+> 
+> 两点间所有连线中线段最短, 这条线段的长度叫作两点间的距离.
+> **Definition 8.5.4 (Triangle Inequality)**
+> 
+> 三角形任意两边之和大于第三边.
+> **Definition 8.5.5 (三角形按角分类)**
+> 
+> 三角形按角可分为锐角三角形,直角三角形和钝角三角形.
+> **Definition 8.5.6 (等腰三角形和等边三角形)**
+> 
+> 两条边相等的三角形叫作等腰三角形, 相等的两条边叫作腰, 另一条边叫作底, 两腰的夹角叫作顶角, 底和腰的两个夹角叫作底角. 三条边都相等的三角形叫作等边三角形 (正三角形), 等边三角形也是等腰三角形.
+> **Definition 8.5.7 (Triangle Angle Sum)**
+> 
+> 三角形的内角和等于 180 度.
+> **Definition 8.5.8 (四边形的内角和)**
+> 
+> 把四边形分成 $2$ 个三角形, 四边形的内角和是 $180^\circ\times2=360^\circ$.
 
-## Exercise 91
+## Exercise 1
 
-(Lesson: Understanding Reciprocals, Example 1) Compute then observe: $\frac{3}{8}\times\frac{8}{3}$; $\frac{7}{15}\times\frac{15}{7}$; $5\times\frac{1}{5}$; $\frac{1}{12}\times12$. Which two are reciprocals? $\frac{3}{5}$, $6$, $\frac{7}{2}$, $\frac{5}{3}$, $\frac{1}{6}$, $1$, $\frac{2}{7}$, $0$.
+(Lesson: Review and Consolidation, Practice 14, Problem 9) $100\,\mathrm{kg}$ of soybeans can yield $13\,\mathrm{kg}$ of soybean oil. How many tonnes of oil can $1\,\mathrm{t}$ of soybeans yield?
 
-### Solution to Exercise 91
+### Solution to Exercise 1
 
-Each product is $1$. By **Definition 11.3.1 (Reciprocals)**: $\frac{3}{5}$ and $\frac{5}{3}$ are reciprocals, $6$ and $\frac{1}{6}$ are reciprocals, $\frac{7}{2}$ and $\frac{2}{7}$ are reciprocals. Swap numerator and denominator. $\blacksquare$
+$1\,\mathrm{t}=1000\,\mathrm{kg}$ is $10$ times $100\,\mathrm{kg}$, yielding $13\times10=130\,\mathrm{kg}=0.13\,\mathrm{t}$ of oil. $\blacksquare$
 
-## Exercise 92
+## Exercise 2
 
-(Lesson: Understanding Reciprocals, Think) What is the reciprocal of $1$? Does $0$ have one? What about $0.2$?
+(Lesson: Properties of Triangles, Try It) State the names of the parts of each triangle below, and draw the height on the specified base. How many heights can one triangle have?
 
-### Solution to Exercise 92
+### Solution to Exercise 2
 
-By **Definition 11.3.1 (Reciprocals)**: $1=\frac{1}{1}$, reciprocal $1$; $0$ times anything is not $1$, so $0$ has no reciprocal; $0.2=\frac{1}{5}$, reciprocal $5$. $\blacksquare$
+By **Definition 8.5.1 (A Triangle and Its Parts)**, a triangle has $3$ sides, $3$ angles and $3$ vertices. Drawing a perpendicular segment from each vertex to the opposite side gives a height, so one triangle can have $3$ heights. $\blacksquare$
 
-## Exercise 93
+## Exercise 3
 
-(Lesson: Understanding Reciprocals, Do It) Write reciprocals: $\frac{4}{11}$; $\frac{16}{9}$; $35$; $\frac{7}{8}$; $\frac{4}{15}$.
+(Lesson: Properties of Triangles, Try It) Give examples from daily life of the use of the stability of triangles.
 
-### Solution to Exercise 93
+### Solution to Exercise 3
 
-By **Definition 11.3.1 (Reciprocals)**: reciprocal of $\frac{4}{11}$ is $\frac{11}{4}$; of $\frac{16}{9}$ is $\frac{9}{16}$; $35=\frac{35}{1}$, reciprocal $\frac{1}{35}$; of $\frac{7}{8}$ is $\frac{8}{7}$; of $\frac{4}{15}$ is $\frac{15}{4}$. $\blacksquare$
+By **Definition 8.5.2 (Stability of a Triangle)**, e.g. bicycle frames, triangular roof supports, triangular braces on utility poles, and the triangular structure of basketball stands. $\blacksquare$
 
-## Exercise 94
+## Exercise 4
 
-(Lesson: Fraction Division, Example 2) A $\frac{4}{5}$-hectare vegetable plot. (1) Split equally among $2$ groups; how many hectares each? (2) Split among $3$ groups?
+(Lesson: Properties of Triangles, Practice 15, Problem 1) Draw the height on the specified base of each triangle.
 
-### Solution to Exercise 94
+### Solution to Exercise 4
 
-By **Definition 11.3.2 (Rule for Fraction Division)**: (1) $\frac{4}{5}\div2=\frac{4}{5}\times\frac{1}{2}=\frac{2}{5}$ hectares; (2) $\frac{4}{5}\div3=\frac{4}{5}\times\frac{1}{3}=\frac{4}{15}$ hectares. $\blacksquare$
+By **Definition 8.5.1 (Height and Base of a Triangle)**, align one right-angle side of the set square with the base, let the other right-angle side pass through the opposite vertex, and draw the perpendicular segment from the vertex to the base; that is the height. $\blacksquare$
 
-## Exercise 95
+## Exercise 5
 
-(Lesson: Fraction Division, Do It Problem 1) Compute: $\frac{9}{10}\div3$; $\frac{3}{8}\div2$.
+(Lesson: Properties of Triangles, Practice 15, Problem 2) When fencing, which method is more sturdy? Why?
 
-### Solution to Exercise 95
+### Solution to Exercise 5
 
-By **Definition 11.3.2 (Rule for Fraction Division)**: $\frac{9}{10}\div3=\frac{9}{10}\times\frac{1}{3}=\frac{3}{10}$; $\frac{3}{8}\div2=\frac{3}{8}\times\frac{1}{2}=\frac{3}{16}$. $\blacksquare$
+By **Definition 8.5.2 (Stability of a Triangle)**, the fence shaped into triangles is more sturdy, because a triangle is stable and does not deform when pulled. $\blacksquare$
 
-## Exercise 96
+## Exercise 6
 
-(Lesson: Fraction Division, Do It Problem 2) Xiaofang cuts a $\frac{4}{5}\,\text{m}$ ribbon into $8$ equal pieces; how long is each?
+(Lesson: Classification of Triangles, Practice 15, Problem 3) (1) On a pegboard, enclose respectively an acute triangle, a right triangle and an obtuse triangle; (2) enclose a triangle that is both acute and isosceles.
 
-### Solution to Exercise 96
+### Solution to Exercise 6
 
-By **Definition 11.3.2 (Rule for Fraction Division)**: $\frac{4}{5}\div8=\frac{4}{5}\times\frac{1}{8}=\frac{1}{10}\,\text{m}$. $\blacksquare$
+By **Definition 8.5.5 (Classification by Angles)** and **Definition 8.5.6 (Isosceles Triangles)**, enclose figures matching the angle features of each kind; to be both acute and isosceles, two sides are equal and all three angles are acute. $\blacksquare$
 
-## Exercise 97
+## Exercise 7
 
-(Lesson: Fraction Division, Example 3) (1) Xiaoming prepared $160\,\text{g}$ of milk, which is $\frac{4}{5}$ of the sugar; how much sugar? (2) The eggs weigh $\frac{2}{5}\,\text{kg}$, which is $\frac{2}{3}$ of the flour; how much flour?
+(Lesson: Classification of Triangles, Practice 15, Problem 4) Draw connections: acute triangle, right triangle, obtuse triangle, isosceles triangle, equilateral triangle.
 
-### Solution to Exercise 97
+### Solution to Exercise 7
 
-By **Definition 11.3.2 (Rule for Fraction Division)**: (1) $160\div\frac{4}{5}=160\times\frac{5}{4}=200\,\text{g}$; (2) $\frac{2}{5}\div\frac{2}{3}=\frac{2}{5}\times\frac{3}{2}=\frac{3}{5}\,\text{kg}$. $\blacksquare$
+By **Definition 8.5.5 (Classification by Angles)** and **Definition 8.5.6 (Isosceles and Equilateral Triangles)**, connect each triangle to the corresponding category according to its angle and side features. $\blacksquare$
 
-## Exercise 98
+## Exercise 8
 
-(Lesson: Fraction Division, Think) Use $4\div2=2$ to check integer division also obeys the rule: $4\div2=4\times\frac{1}{2}=2$. Can you prove $\frac{2}{5}\div\frac{2}{3}=\frac{2}{5}\times\frac{3}{2}$ the same way?
+(Lesson: Properties of Triangles, Practice 15, Problem 5) Below the groups of sticks that can enclose a triangle, mark "√" (unit: $\mathrm{cm}$): (1) $6,7,8$; (2) $3,3,6$; (3) $3,3,3$; (4) $2,2,6$; (5) $3,5,3$.
 
-### Solution to Exercise 98
+### Solution to Exercise 8
 
-Let $a=\frac{2}{5}\div\frac{2}{3}$; by inverse multiplication $\frac{2}{3}\times a=\frac{2}{5}$; multiply both sides by $\frac{3}{2}$ to get $a=\frac{2}{5}\times\frac{3}{2}$. Thus **Definition 11.3.2 (Rule for Fraction Division)** holds for fractions too. $\blacksquare$
+By **Definition 8.5.4 (Relationship Among the Three Sides of a Triangle)**, it works when the sum of the two shorter sides is greater than the third side: (1) $6+7> 8$, yes; (2) $3+3=6$, no; (3) $3+3> 3$, yes; (4) $2+2< 6$, no; (5) $3+3> 5$, yes. $\blacksquare$
 
-## Exercise 99
+## Exercise 9
 
-(Lesson: Fraction Division, Do It Problem 1) Compute: $24\div\frac{8}{9}$; $\frac{7}{16}\div\frac{4}{5}$.
+(Lesson: Properties of Triangles, Practice 15, Problem 6) Uncle Li wants to go from the post office to the school. Which road is the shortest?
 
-### Solution to Exercise 99
+### Solution to Exercise 9
 
-By **Definition 11.3.2 (Rule for Fraction Division)**: $24\div\frac{8}{9}=24\times\frac{9}{8}=27$; $\frac{7}{16}\div\frac{4}{5}=\frac{7}{16}\times\frac{5}{4}=\frac{35}{64}$. $\blacksquare$
+By **Definition 8.5.3 (Distance Between Two Points)**, the segment between two points is the shortest, so the road directly connecting the post office and the school is the shortest. $\blacksquare$
 
-## Exercise 100
+## Exercise 10
 
-(Lesson: Fraction Division, Do It Problem 2) Compute: $\frac{8}{9}\div4$; $\frac{6}{13}\div4$; $15\div\frac{10}{13}$; $\frac{3}{10}\div\frac{14}{45}$.
+(Lesson: Properties of Triangles, Practice 15, Problem 7) With the following $6$ sticks, how many kinds of triangles can be enclosed (unit: $\mathrm{cm}$)?
 
-### Solution to Exercise 100
+### Solution to Exercise 10
 
-By **Definition 11.3.2 (Rule for Fraction Division)**: $\frac{8}{9}\div4=\frac{2}{9}$; $\frac{6}{13}\div4=\frac{3}{26}$; $15\div\frac{10}{13}=15\times\frac{13}{10}=\frac{39}{2}$; $\frac{3}{10}\div\frac{14}{45}=\frac{3}{10}\times\frac{45}{14}=\frac{27}{28}$. $\blacksquare$
+By **Definition 8.5.4 (Relationship Among the Three Sides of a Triangle)**, take any three sticks and check whether the sum of the two shorter sides is greater than the third; those satisfying it can form a triangle. Count the different combinations. $\blacksquare$
 
-## Exercise 101
+## Exercise 11
 
-(Lesson: Fraction Division, Do It Problem 3) Without computing, which quotients exceed the dividend and which are less? $\frac{6}{7}\div3$; $\frac{15}{8}\div2$; $9\div\frac{3}{4}$; $6\div\frac{5}{4}$; $\frac{1}{2}\div\frac{2}{3}$; $\frac{14}{9}\div\frac{7}{30}$; $\frac{5}{7}\div\frac{5}{2}$; $\frac{4}{5}\div\frac{4}{5}$.
+(Lesson: Classification of Triangles, Practice 15, Problem 8) Guess: the triangle I hold has no obtuse angle. What kind of triangle might it be?
 
-### Solution to Exercise 101
+### Solution to Exercise 11
 
-Divisor less than $1$ gives quotient greater than dividend; divisor greater than $1$ gives quotient less than dividend. Greater: $9\div\frac{3}{4}$, $\frac{1}{2}\div\frac{2}{3}$, $\frac{14}{9}\div\frac{7}{30}$, $\frac{4}{5}\div\frac{4}{5}$; less: $\frac{6}{7}\div3$, $\frac{15}{8}\div2$, $6\div\frac{5}{4}$, $\frac{5}{7}\div\frac{5}{2}$. $\blacksquare$
+By **Definition 8.5.5 (Classification by Angles)**, having no obtuse angle, it might be an acute triangle or a right triangle. $\blacksquare$
 
-## Exercise 102
+## Exercise 12
 
-(Lesson: Fraction Division, Exercise 7 Review Problem 1) From each multiplication, write the two related divisions: $\frac{3}{4}\times5=\frac{15}{4}$; $\frac{3}{7}\times\frac{2}{5}=\frac{6}{35}$.
+(Lesson: Classification of Triangles, Practice 15, Problem 9) Cut an isosceles triangle from a rectangular sheet of paper. Can you cut out an isosceles right triangle?
 
-### Solution to Exercise 102
+### Solution to Exercise 12
 
-By inverse multiplication: $\frac{15}{4}\div5=\frac{3}{4}$, $\frac{15}{4}\div\frac{3}{4}=5$; $\frac{6}{35}\div\frac{2}{5}=\frac{3}{7}$, $\frac{6}{35}\div\frac{3}{7}=\frac{2}{5}$. $\blacksquare$
+Fold the rectangular paper in half, cut once along one side of the fold, and unfolding gives an isosceles triangle; cutting along the rectangle's diagonal gives an isosceles right triangle. $\blacksquare$
 
-## Exercise 103
+## Exercise 13
 
-(Lesson: Fraction Division, Exercise 7 Review Problem 2) Compute: $\frac{1}{4}\div\frac{3}{5}$; $3\div\frac{1}{3}$; $5\div\frac{5}{6}$; $\frac{5}{14}\div\frac{10}{21}$; $\frac{2}{3}\div\frac{14}{27}$; $\frac{2}{7}\div\frac{16}{35}$; $\frac{8}{27}\div\frac{2}{9}$; $\frac{4}{15}\div\frac{28}{45}$.
+(Lesson: Interior-Angle Sum of a Triangle, Try It) (1) In a triangle, $\angle1=140^\circ$, $\angle3=25^\circ$; find $\angle2$. (2) Cut a triangle along a dashed line into two small triangles; what is the interior-angle sum of each small triangle?
 
-### Solution to Exercise 103
+### Solution to Exercise 13
 
-By **Definition 11.3.2 (Rule for Fraction Division)**: $\frac{1}{4}\div\frac{3}{5}=\frac{5}{12}$; $3\div\frac{1}{3}=9$; $5\div\frac{5}{6}=6$; $\frac{5}{14}\div\frac{10}{21}=\frac{3}{4}$; $\frac{2}{3}\div\frac{14}{27}=\frac{9}{7}$; $\frac{2}{7}\div\frac{16}{35}=\frac{5}{8}$; $\frac{8}{27}\div\frac{2}{9}=\frac{4}{3}$; $\frac{4}{15}\div\frac{28}{45}=\frac{3}{7}$. $\blacksquare$
+By **Definition 8.5.7 (Interior-Angle Sum of a Triangle)**: (1) $\angle2=180^\circ-140^\circ-25^\circ=15^\circ$. (2) The interior-angle sum of each small triangle is still $180^\circ$. $\blacksquare$
 
-## Exercise 104
+## Exercise 14
 
-(Lesson: Fraction Division, Exercise 7 Review Problem 3) Compute: $2-\frac{6}{13}\div\frac{9}{26}-\frac{2}{3}$; $\frac{8}{9}\div\frac{4}{7}\div\frac{1}{3}$; $\frac{5}{14}\div\frac{4}{21}\times\frac{16}{25}$.
+(Lesson: Interior-Angle Sum of a Quadrilateral, Try It) Find a way to compute the interior-angle sum of the polygon on the right.
 
-### Solution to Exercise 104
+### Solution to Exercise 14
 
-$2-\frac{6}{13}\times\frac{26}{9}-\frac{2}{3}=2-\frac{4}{3}-\frac{2}{3}=0$; $\frac{8}{9}\times\frac{7}{4}\times3=\frac{14}{3}$; $\frac{5}{14}\times\frac{21}{4}\times\frac{16}{25}=\frac{6}{5}$. $\blacksquare$
+Using the method of **Definition 8.5.8 (Interior-Angle Sum of a Quadrilateral)**, split the polygon from one vertex into several triangles; the interior-angle sum $=180^\circ\times$ the number of triangles. $\blacksquare$
 
-## Exercise 105
+## Exercise 15
 
-(Lesson: Fraction Division, Exercise 7 Review Problem 4) Pour $\frac{3}{4}\,\text{L}$ of orange juice into bottles of capacity $\frac{1}{8}\,\text{L}$; how many full bottles?
+(Lesson: Interior-Angle Sum of a Triangle, Practice 16, Problem 1) Compute the unknown angles: (1) $65^\circ$, $37^\circ$, find the third angle; (2) in a right triangle, $30^\circ$, find the other acute angle; (3) $25^\circ$, $20^\circ$, find the third angle.
 
-### Solution to Exercise 105
+### Solution to Exercise 15
 
-By **Definition 11.3.2 (Rule for Fraction Division)**: $\frac{3}{4}\div\frac{1}{8}=\frac{3}{4}\times8=6$ bottles. $\blacksquare$
+By **Definition 8.5.7 (Interior-Angle Sum of a Triangle $180^\circ$)**: (1) $180^\circ-65^\circ-37^\circ=78^\circ$; (2) $90^\circ-30^\circ=60^\circ$; (3) $180^\circ-25^\circ-20^\circ=135^\circ$. $\blacksquare$
 
-## Exercise 106
+## Exercise 16
 
-(Lesson: Fraction Division, Exercise 7 Review Problem 5) Film plays continuously at one frame every $\frac{1}{24}$ second. How many frames in half a second? In $1$ minute?
+(Lesson: Interior-Angle Sum of a Triangle, Practice 16, Problem 2) Find each angle of the following triangles: (1) an equilateral triangle; (2) an isosceles triangle whose vertex angle is $96^\circ$; (3) a right triangle with one acute angle $40^\circ$.
 
-### Solution to Exercise 106
+### Solution to Exercise 16
 
-By **Definition 11.3.2 (Rule for Fraction Division)**: half a second $\frac{1}{2}\div\frac{1}{24}=12$ frames; $1$ minute $60\div\frac{1}{24}=1440$ frames. $\blacksquare$
+By **Definition 8.5.7 (Interior-Angle Sum)** and **Definition 8.5.6 (Isosceles Triangle)**: (1) each angle of an equilateral triangle is $60^\circ$; (2) base angle $=\left(180^\circ-96^\circ\right)\div2=42^\circ$, the three angles are $96^\circ,42^\circ,42^\circ$; (3) the other acute angle $=90^\circ-40^\circ=50^\circ$, the three angles are $90^\circ,40^\circ,50^\circ$. $\blacksquare$
 
-## Exercise 107
+## Exercise 17
 
-(Lesson: Fraction Division, Exercise 7 Review Problem 6) Shenzhou-11 flew about $15$ days in orbit, which is $\frac{5}{61}$ of Shenzhou-13's time. About how long did Shenzhou-13 fly?
+(Lesson: Interior-Angle Sum of a Triangle, Practice 16, Problem 3) A base angle of an isosceles-triangle kite is $70^\circ$. What is the vertex angle?
 
-### Solution to Exercise 107
+### Solution to Exercise 17
 
-By **Definition 11.3.2 (Rule for Fraction Division)**: $15\div\frac{5}{61}=15\times\frac{61}{5}=183$ days. $\blacksquare$
+By **Definition 8.5.7 (Interior-Angle Sum)** and **Definition 8.5.6 (the two base angles of an isosceles triangle are equal)**, the vertex angle $=180^\circ-70^\circ\times2=40^\circ$. $\blacksquare$
 
-## Exercise 108
+## Exercise 18
 
-(Lesson: Fraction Division, Exercise 7 Review Problem 7) China spans about $5200\,\text{km}$ east-west, which is $\frac{52}{55}$ of the north-south span. About how far north-south?
+(Lesson: Interior-Angle Sum of a Triangle, Practice 16, Problem 4) Draw, compute and fill the table: triangle — $3$ sides, interior-angle sum $180^\circ$; quadrilateral — $4$ sides, interior-angle sum $180^\circ\times$ ( ); pentagon — $5$ sides, interior-angle sum $180^\circ\times$ ( ). What do you discover?
 
-### Solution to Exercise 108
+### Solution to Exercise 18
 
-By **Definition 11.3.2 (Rule for Fraction Division)**: $5200\div\frac{52}{55}=5200\times\frac{55}{52}=5500\,\text{km}$. $\blacksquare$
+A quadrilateral splits into $2$ triangles, interior-angle sum $180^\circ\times2=360^\circ$; a pentagon splits into $3$ triangles, interior-angle sum $180^\circ\times3=540^\circ$. The discovery: an $n$-gon's interior-angle sum $=180^\circ\times\left(n-2\right)$. $\blacksquare$
 
-## Exercise 109
+## Exercise 19
 
-(Lesson: Fraction Division, Exercise 7 Integrated Problem 8) A trapezoidal glass has upper base, lower base, height $\frac{3}{5}\,\text{m}$, $\frac{4}{5}\,\text{m}$, $\frac{3}{4}\,\text{m}$. Its area? If cut into a rectangle, max area?
+(Lesson: Interior-Angle Sum of a Triangle, Practice 16, Problem 5) Draw connections: one right angle and two equal sides; only two acute angles and no right angle; three equal angles; no right angle and no obtuse angle.
 
-### Solution to Exercise 109
+### Solution to Exercise 19
 
-Trapezoid area $=\frac{1}{2}\times\left(\frac{3}{5}+\frac{4}{5}\right)\times\frac{3}{4}=\frac{1}{2}\times\frac{7}{5}\times\frac{3}{4}=\frac{21}{40}\,\text{m}^2$. Taking the shorter upper base as the rectangle's length, max area $\frac{3}{5}\times\frac{3}{4}=\frac{9}{20}\,\text{m}^2$. $\blacksquare$
+By **Definition 8.5.5 (Classification by Angles)** and **Definition 8.5.6 (Base Angles of Isosceles Triangle)**: one right angle and two equal sides $\to$ isosceles right triangle; only two acute angles and no right angle $\to$ obtuse triangle; three equal angles $\to$ equilateral triangle; no right angle and no obtuse angle $\to$ acute triangle. $\blacksquare$
 
-## Exercise 110
+## Exercise 20
 
-(Lesson: Fraction Division, Exercise 7 Integrated Problem 9) A building has $15$ floors, height $50\,\text{m}$. Xiaoping lives on the $7$th floor; how high is her floor above ground?
+(Lesson: Interior-Angle Sum of a Triangle, Practice 16, Problem 6) Guess: (1) In a right triangle, one angle is a right angle; what might the other two angles be? (2) Two sides of a triangle are $3\,\mathrm{cm}$ and $4\,\mathrm{cm}$; what might the third side be in centimeters (whole numbers)?
 
-### Solution to Exercise 110
+### Solution to Exercise 20
 
-Each floor is $50\div15=\frac{10}{3}\,\text{m}$. The $7$th-floor floor is $6$ floor-heights up: $\frac{10}{3}\times6=20\,\text{m}$. $\blacksquare$
-
-## Exercise 111
-
-(Lesson: Fraction Division, Exercise 7 Extension Problem 10) Stepwise: $\frac{7}{15}\div\frac{2}{3}\to\div\frac{3}{4}\to\times\frac{1}{2}$; $\frac{16}{19}\div\frac{2}{3}\to\div\frac{3}{4}\to\times\frac{1}{2}$. Compare the final result with the starting number.
-
-### Solution to Exercise 111
-
-$\div\frac{2}{3}\div\frac{3}{4}\times\frac{1}{2}=\times\frac{3}{2}\times\frac{4}{3}\times\frac{1}{2}=1$, so two steps return to the start. Both results equal $\frac{7}{15}$ and $\frac{16}{19}$ respectively. $\blacksquare$
-
-## Exercise 112
-
-(Lesson: Solving Problems, Example 4) A scenic area repairs a boardwalk: team A alone does $\frac{1}{12}$ per day, team B alone $\frac{1}{18}$ per day. Working from both ends, how many days to finish?
-
-### Solution to Exercise 112
-
-By **Definition 11.3.3 (Work Problems)**, take the whole as unit "$1$": $1\div\left(\frac{1}{12}+\frac{1}{18}\right)=1\div\frac{5}{36}=7.2$ days. $\blacksquare$
-
-## Exercise 113
-
-(Lesson: Solving Problems, Do It) A batch of parts: the master alone takes $3$ hours, the apprentice alone $6$ hours. Together, how long to finish $\frac{3}{4}$ of the batch?
-
-### Solution to Exercise 113
-
-By **Definition 11.3.3 (Work Problems)**: combined rate $\frac{1}{3}+\frac{1}{6}=\frac{1}{2}$, $\frac{3}{4}\div\frac{1}{2}=\frac{3}{2}$ hours. $\blacksquare$
-
-## Exercise 114
-
-(Lesson: Solving Problems, Exercise 8 Review Problem 1) Car A takes $2$ hours from City A to City B; Car B takes $3$ hours from B to A. They start toward each other; after how long do they meet?
-
-### Solution to Exercise 114
-
-By **Definition 11.3.3 (Work Problems)**: $1\div\left(\frac{1}{2}+\frac{1}{3}\right)=1\div\frac{5}{6}=\frac{6}{5}$ hours. $\blacksquare$
-
-## Exercise 115
-
-(Lesson: Solving Problems, Exercise 8 Review Problem 2) A tree-planting crew: team A alone $12$ days, team B alone $10$ days. Together, can they finish in $6$ days?
-
-### Solution to Exercise 115
-
-By **Definition 11.3.3 (Work Problems)**: together $1\div\left(\frac{1}{12}+\frac{1}{10}\right)=1\div\frac{11}{60}=\frac{60}{11}\approx5.45$ days $< 6$, so yes. $\blacksquare$
-
-## Exercise 116
-
-(Lesson: Solving Problems, Exercise 8 Integrated Problem 3) Machining a batch: A alone $5$ hours, B alone $9$ hours. After $3$ hours together, $100$ parts remain. Total parts?
-
-### Solution to Exercise 116
-
-In $3$ hours they finish $\left(\frac{1}{5}+\frac{1}{9}\right)\times3=\frac{14}{45}\times3=\frac{14}{15}$; the remaining $1-\frac{14}{15}=\frac{1}{15}$ is $100$ parts, so total $100\div\frac{1}{15}=1500$. $\blacksquare$
-
-## Exercise 117
-
-(Lesson: Solving Problems, Exercise 8 Integrated Problem 4) Xiaodan's money buys exactly $6$ gel pens, or exactly $12$ refills. To pair one pen with one refill (no money left over), how should she buy?
-
-### Solution to Exercise 117
-
-Take total money as "$1$": each pen $\frac{1}{6}$, each refill $\frac{1}{12}$. A set costs $\frac{1}{6}+\frac{1}{12}=\frac{1}{4}$, $1\div\frac{1}{4}=4$ sets, i.e. $4$ pens and $4$ refills. $\blacksquare$
-
-## Exercise 118
-
-(Lesson: Solving Problems, Exercise 8 Extension Problem 5) Xiaoming laps the track in $8$ minutes; Grandpa in $10$. (1) Start together at the same point walking opposite directions; when do they first meet? (2) Same point same direction; when does Xiaoming lap Grandpa by a full loop?
-
-### Solution to Exercise 118
-
-(1) Opposite directions sum of rates $\frac{1}{8}+\frac{1}{10}=\frac{9}{40}$, meeting $1\div\frac{9}{40}=\frac{40}{9}$ minutes; (2) same direction difference of rates $\frac{1}{8}-\frac{1}{10}=\frac{1}{40}$, lapping $1\div\frac{1}{40}=40$ minutes. $\blacksquare$
-
-## Exercise 119
-
-(Lesson: Summary and Review, Exercise 9 Review Problem 1) From the figure: (1) the segment for $24$ is split into $4$ equal parts and $3$ taken; find $\_\_$; (2) $18$ is $\frac{3}{4}$ of the whole; find the whole.
-
-### Solution to Exercise 119
-
-(1) $24\times\frac{3}{4}=18$; (2) $18\div\frac{3}{4}=24$. To find a fraction of a number, multiply; given the fraction and asked for the number, divide. $\blacksquare$
-
-## Exercise 120
-
-(Lesson: Summary and Review, Exercise 9 Review Problem 2) Compute: $\frac{15}{22}\div10$; $45\div\frac{9}{14}$; $\frac{3}{5}\div\frac{1}{6}$; $\frac{2}{7}\div\frac{8}{21}$; $\frac{2}{9}\times\frac{3}{8}\div\frac{6}{7}$; $4\div\frac{8}{3}-\frac{3}{5}$; $\frac{3}{4}\times\frac{5}{6}+\frac{3}{4}\times\frac{1}{6}$; $7-\frac{7}{9}\div\frac{7}{3}-\frac{2}{3}$; $\frac{15}{16}\div\frac{5}{8}\times8$; $26\div\frac{13}{25}\div\frac{15}{22}$; $35\div\left(1-\frac{2}{7}\right)$; $\frac{21}{40}\div\left(\frac{1}{10}+\frac{3}{5}\right)$.
-
-### Solution to Exercise 120
-
-$\frac{15}{22}\div10=\frac{3}{44}$; $45\div\frac{9}{14}=70$; $\frac{3}{5}\div\frac{1}{6}=\frac{18}{5}$; $\frac{2}{7}\div\frac{8}{21}=\frac{3}{4}$; $\frac{2}{9}\times\frac{3}{8}\times\frac{7}{6}=\frac{7}{72}$; $4\times\frac{3}{8}-\frac{3}{5}=\frac{3}{2}-\frac{3}{5}=\frac{9}{10}$; $\frac{3}{4}\times\left(\frac{5}{6}+\frac{1}{6}\right)=\frac{3}{4}$; $7-\frac{1}{3}-\frac{2}{3}=6$; $\frac{15}{16}\times\frac{8}{5}\times8=12$; $26\times\frac{25}{13}\times\frac{22}{15}=\frac{220}{3}$; $35\div\frac{5}{7}=49$; $\frac{21}{40}\div\frac{7}{10}=\frac{3}{4}$. $\blacksquare$
-
-## Exercise 121
-
-(Lesson: Summary and Review, Exercise 9 Review Problem 3) Xiaodong has read $35$ pages of a book, which is $\frac{5}{7}$ of it. Total pages?
-
-### Solution to Exercise 121
-
-By **Definition 11.3.2 (Rule for Fraction Division)**: $35\div\frac{5}{7}=35\times\frac{7}{5}=49$ pages. $\blacksquare$
-
-## Exercise 122
-
-(Lesson: Summary and Review, Exercise 9 Review Problem 4) A shipment: truck A takes $6$ trips, truck B takes $3$. Together, how many trips?
-
-### Solution to Exercise 122
-
-By **Definition 11.3.3 (Work Problems)**: $1\div\left(\frac{1}{6}+\frac{1}{3}\right)=1\div\frac{1}{2}=2$ trips. $\blacksquare$
-
-## Exercise 123
-
-(Lesson: Summary and Review, Exercise 9 Integrated Problem 5) If $a$ and $b$ are reciprocals, then $\frac{a}{9}\times\frac{b}{8}=\left(\;\right)$, $\frac{5}{a}\times\frac{4}{b}=\left(\;\right)$, $\frac{a}{6}\div\frac{5}{b}=\left(\;\right)$, $\frac{7}{a}\div\frac{b}{6}=\left(\;\right)$.
-
-### Solution to Exercise 123
-
-By **Definition 11.3.1 (Reciprocals)**, $ab=1$: $\frac{a}{9}\times\frac{b}{8}=\frac{ab}{72}=\frac{1}{72}$; $\frac{5}{a}\times\frac{4}{b}=\frac{20}{ab}=20$; $\frac{a}{6}\div\frac{5}{b}=\frac{a}{6}\times\frac{b}{5}=\frac{1}{30}$; $\frac{7}{a}\div\frac{b}{6}=\frac{7}{a}\times\frac{6}{b}=\frac{42}{ab}=42$. $\blacksquare$
-
-## Exercise 124
-
-(Lesson: Summary and Review, Exercise 9 Integrated Problem 6) A cinema hall has exits A and B. Alone, exit A empties the hall in $6$ minutes; exit B in $4$ minutes. Both open; how long to empty?
-
-### Solution to Exercise 124
-
-By **Definition 11.3.3 (Work Problems)**: $1\div\left(\frac{1}{6}+\frac{1}{4}\right)=1\div\frac{5}{12}=\frac{12}{5}$ minutes. $\blacksquare$
-
-## Exercise 125
-
-(Lesson: Summary and Review, Exercise 9 Integrated Problem 7) Meshing gears. (1) The large gear has $140$ teeth; the small gear's teeth are $\frac{1}{5}$ of that. How many teeth on the small? (2) The small gear has $28$ teeth, which is $\frac{1}{5}$ of the large. How many on the large? (3) The small gear turns $400$ rpm; the large turns $\frac{4}{5}$ fewer rpm. How many rpm on the large?
-
-### Solution to Exercise 125
-
-(1) $140\times\frac{1}{5}=28$ teeth; (2) $28\div\frac{1}{5}=140$ teeth; (3) $400\times\left(1-\frac{4}{5}\right)=80$ rpm. $\blacksquare$
-
-## Exercise 126
-
-(Lesson: Summary and Review, Exercise 9 Extension Problem 8) Observe $\frac{3}{4}\times\frac{b}{a}$ and $\frac{3}{4}\div\frac{b}{a}$ ($a,b\neq0$). (1) If $\frac{3}{4}\times\frac{b}{a}> \frac{3}{4}\div\frac{b}{a}$, then $a\bigcirc b$; (2) if $\frac{3}{4}\times\frac{b}{a}=\frac{3}{4}\div\frac{b}{a}$, then $a\bigcirc b$; (3) if $\frac{3}{4}\times\frac{b}{a}< \frac{3}{4}\div\frac{b}{a}$, then $a\bigcirc b$. Also: if $\frac{3}{4}\times c=\frac{3}{4}\div d$, what is the relation of $c$ and $d$?
-
-### Solution to Exercise 126
-
-$\frac{3}{4}\div\frac{b}{a}=\frac{3}{4}\times\frac{a}{b}$. Compare $\frac{b}{a}$ with $\frac{a}{b}$: (1) $\frac{b}{a}> \frac{a}{b}$, i.e. $b^2> a^2$, $b> a$, fill $< $; (2) $\frac{b}{a}=\frac{a}{b}$, $a=b$; (3) $\frac{b}{a}< \frac{a}{b}$, $b< a$, fill $> $. If $\frac{3}{4}\times c=\frac{3}{4}\div d=\frac{3}{4}\times\frac{1}{d}$, then $c=\frac{1}{d}$, i.e. $c,d$ are reciprocals. $\blacksquare$
-
-## Exercise 127
-
-(Lesson: Summary and Review, Exercise 9 Extension Problem 9) On the summer solstice, a region's night length is $\frac{5}{7}$ of its day length. How long is the night? (Take a day as $24$ hours.)
-
-### Solution to Exercise 127
-
-Take day as unit "$1$"; whole day $=$ day $\times\left(1+\frac{5}{7}\right)=$ day $\times\frac{12}{7}$. Day $=24\div\frac{12}{7}=14$ hours, night $=24-14=10$ hours. $\blacksquare$
+(1) By **Definition 8.5.7 (Interior-Angle Sum)**, the sum of the other two angles is $90^\circ$, e.g. $30^\circ$ and $60^\circ$, or $45^\circ$ and $45^\circ$. (2) By **Definition 8.5.4 (Relationship Among the Three Sides)**, $4-3< $ third side $< 4+3$, i.e. $1< $ third side $< 7$, so it can be $2,3,4,5,6\,\mathrm{cm}$. $\blacksquare$

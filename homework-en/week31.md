@@ -1,165 +1,145 @@
 # week31
-> **Definition 4.2.2 (余数要比除数小)**
+> **Definition 3.8.1 (乘除关系的整理)**
 > 
-> 参见教材相应章节关于此概念的论述.
-> **Definition 4.7.1 (数与运算的整理)**
+> 加数相同的加法用乘法表示更简便, 平均分的过程用除法表示更简便; 乘法和除法互为逆运算, 同一句乘法口诀可以计算两个乘法算式和两个除法算式. 如由"二三得六"算 $2\times3=6$, $3\times2=6$, $6\div2=3$, $6\div3=2$.
+> **Definition 3.8.2 (数量关系)**
 > 
-> 在个 (一), 十, 百的基础上又认识了千, 万, 相邻计数单位间都是 $10$ 倍; 万以内数的组成, 读写, 顺序, 比大小, 近似数的方法与百以内数一致.
-> **Definition 4.7.2 (除法与乘除关系的整理)**
+> 已知每份数和份数, 求总数用乘法: 每份数 $\times$ 份数 $=$ 总数; 已知总数和每份数, 求份数用除法; 已知总数和份数, 求每份数也用除法.
+> **Definition 3.8.3 (方向与测量的整理)**
 > 
-> 平均分没有剩余用表内除法, 有剩余用有余数的除法, 余数要比除数小; 求一个数是另一个数的几倍用除法, 求一个数的几倍是多少用乘法, 关键是分清把谁看作 $1$ 份.
-> **Definition 4.7.3 (加,减法关系的整理)**
+> 认识了东, 南, 西, 北四个方向, 地图上按上北下南, 左西右东绘制; 长度单位有厘米和米, $1$ 米 $=100$ 厘米; 线段是直的, 可以量出长度; 还认识了拃, 步, 庹等身体尺.
+> **Definition 3.8.4 (分类与整理的整理)**
 > 
-> 加法和减法互为逆运算: 和 $=$ 加数 $+$ 加数, 被减数 $=$ 减数 $+$ 差, 利用这些关系可以验算和求未知数.
+> 分类要按照一定的标准进行, 标准不同分得的结果可能不同, 但被分类事物的总数不变; 可以对第一次分类的结果按另一个标准继续分下去.
+> **Definition 4.1.1 (钟面的结构)**
+> 
+> 钟面上有三根指针: 时针, 分针, 秒针, 还有格子和数. 钟面被数平均分成 $12$ 个大格, 每个大格又分成 $5$ 个小格, 钟面上一共有 $60$ 个小格.
+> **Definition 4.1.2 (时,分,秒)**
+> 
+> 时针转 $1$ 大格是 $1$ 时, 分针转 $1$ 小格是 $1$ 分, 秒针转 $1$ 小格是 $1$ 秒. 时, 分, 秒是记录时间的单位.
+> **Definition 4.1.3 (Conversions of Time)**
+> 
+> 时针转 $1$ 圈是 $12$ 时, 分针转 $1$ 圈是 $60$ 分, 秒针转 $1$ 圈是 $60$ 秒. $1$ 时 $=60$ 分, $1$ 分 $=60$ 秒. 生活中把 $30$ 分说成半小时, 把 $30$ 秒说成半分钟.
+> **Definition 4.1.4 (认读几时几分)**
+> 
+> 认读钟面上的时间, 先看时针指过几就是几时多, 再看分针从 $12$ 起转了多少个小格就是几分. 时针指向 $7$, 分针指向 $12$, 是 $7$ 时; 如 $4$ 时 $5$ 分, $4$ 时 $30$ 分 ($4$ 时半), $4$ 时 $45$ 分.
 
-## Exercise 202
+## Exercise 1
 
-(Lesson: Applying and Improving) Use $0,3,6,8$ to make four-digit numbers. (1) The largest four-digit number is $\_\_$, its approximate number is $\_\_$; the smallest four-digit number is $\_\_$, its approximate number is $\_\_$ (rounded to a round thousand). (2) A four-digit number that does not read "zero" may be $\_\_$; one that reads one "zero" may be $\_\_$. (3) Show the largest and smallest four-digit numbers on a counter, and say how many counting units are in each place. (4) The computer price is made of $0,3,6,8$ and is a round ten; guess what it is.
+(Lesson: Applying and Improving, Problem 3, Classification) Cards are marked $1,2,3,\cdots,20$. (1) Set your own standard and divide the cards into two classes. (2) Can the result of the classification be divided further? Discuss with classmates.
 
-### Solution to Exercise 202
+### Solution to Exercise 1
 
-(1) Largest $8630\approx9000$, smallest $3068\approx3000$. (2) Not reading zero, e.g. $3680$ (trailing $0$ is not read); reading one zero, e.g. $3068$ (the middle $0$ reads as one zero). (4) From the dialogue: $3680$ guessed too low, $8360$ too high, $6830$ a little high, so the price is $6380$ yuan. $\blacksquare$
+By **Definition 3.8.4 (Reviewing Classification and Organization)**, for example divide by odd and even: the odds $1,3,5,\cdots,19$ are $10$ cards, and the evens $2,4,6,\cdots,20$ are $10$ cards. (2) It can be divided further, for example among the evens by whether they are multiples of $5$, or by one-digit and two-digit. Different standards give different results, but the total is always $20$. $\blacksquare$
 
-## Exercise 203
+## Exercise 2
 
-(Lesson: Applying and Improving) May Day museum attendance: month $5$, day $1$ $998$ people, day $2$ $1020$ people, day $3$ $985$ people. (1) What round thousand is each day close to? About how many people in three days? (2) Raise one addition and one subtraction problem and solve them. (3) After sharing $7$ bottles of mineral water equally among the family, $3$ bottles are left; how many people are in Xiaoming's family? (4) Draw the closing time on the clock (closes in $20$ minutes). (5) The museum visit took $2$ hours, and the time at the children's park plus the museum is $3$ times the museum time; how long at the children's park?
+(Lesson: Practice, Problem 1, Scent Bags) (1) There are $8$ scent bags per row and $3$ rows; how many in total? (2) $24$ scent bags are strung equally into $6$ strings; how many per string? (3) $24$ scent bags, $4$ per string; how many strings can be made?
 
-### Solution to Exercise 203
+### Solution to Exercise 2
 
-(1) $998\approx1000$, $1020\approx1000$, $985\approx1000$, about $3000$ people in three days. (2) E.g. how many in all (add), and which day had how many more (subtract). (3) $7\div$ number of people $=\cdots\cdots3$, the number of people divides $7-3=4$, shared equally with no remainder, $7\div4=1\cdots\cdots3$, a family of $4$. (5) Total time $2\times3=6$ hours, so the children's park took $6-2=4$ hours. $\blacksquare$
+By **Definition 3.8.2 (Quantity Relations)**: (1) $8\times3=24$ (bags). (2) $24\div6=4$ (bags). (3) $24\div4=6$ (strings). $\blacksquare$
 
-## Exercise 204
+## Exercise 3
 
-(Lesson: Practice) Write the quotient and remainder directly: $33\div8$, $64\div9$, $45\div7$, $34\div5$, $28\div3$, $52\div6$.
+(Lesson: Practice, Problem 2, Matching) Match and fill in: pair the expressions $27\div9$, $32\div8$, $36\div6$, $4\times8$, $5\times7$, $2\times8$, $27\div3$, $32\div4$, $35\div7$, $16\div2$ with the rhymes "four eight thirty-two, five seven thirty-five, six six thirty-six, three nine twenty-seven, two eight sixteen".
 
-### Solution to Exercise 204
+### Solution to Exercise 3
 
-$33\div8=4\cdots\cdots1$; $64\div9=7\cdots\cdots1$; $45\div7=6\cdots\cdots3$; $34\div5=6\cdots\cdots4$; $28\div3=9\cdots\cdots1$; $52\div6=8\cdots\cdots4$. $\blacksquare$
+Four eight thirty-two: $4\times8=32$, $32\div8=4$, $32\div4=8$; five seven thirty-five: $5\times7=35$, $35\div7=5$; six six thirty-six: $36\div6=6$; three nine twenty-seven: $27\div9=3$, $27\div3=9$; two eight sixteen: $2\times8=16$, $16\div2=8$. $\blacksquare$
 
-## Exercise 205
+## Exercise 4
 
-(Lesson: Practice) Fill in. (1) On a counter the thousands place has $2$ beads, the hundreds $5$, the ones $6$; the number shown is $\_\_$, read as $\_\_$. (2) $10$ bills of $100$ yuan, $10$ bills of $50$ yuan, $10$ bills of $10$ yuan, and $1$ bill of $5$ yuan together are $\_\_$ yuan. (3) The number made of $4$ thousands, $3$ hundreds, and $2$ tens is $\_\_$, read as $\_\_$.
+(Lesson: Practice, Problem 3, Mental Arithmetic) Mental arithmetic: $30\div5=$, $4\times9=$, $6\times7=$, $18\div3=$, $7\times9=$, $6\times8=$, $12\div2=$, $5\times4=$, $5\times9=$, $20\div4=$, $3\times6=$, $15+8=$, $10\div2=$, $4\times6=$, $29-6=$, $5\times7+20=$, $7\times9-9=$, $7\times9+17=$, $6\times7-34=$, $6\times8+30=$, $9\times6-38=$.
 
-### Solution to Exercise 205
+### Solution to Exercise 4
 
-(1) $2506$, read two thousand five hundred six. (2) $1000+500+100+5=1605$ yuan. (3) $4320$, read four thousand three hundred twenty. $\blacksquare$
+$30\div5=6$, $4\times9=36$, $6\times7=42$, $18\div3=6$, $7\times9=63$, $6\times8=48$, $12\div2=6$, $5\times4=20$, $5\times9=45$, $20\div4=5$, $3\times6=18$, $15+8=23$, $10\div2=5$, $4\times6=24$, $29-6=23$. Multiply before add/subtract: $5\times7+20=35+20=55$, $7\times9-9=63-9=54$, $7\times9+17=63+17=80$, $6\times7-34=42-34=8$, $6\times8+30=48+30=78$, $9\times6-38=54-38=16$. $\blacksquare$
 
-## Exercise 206
+## Exercise 5
 
-(Lesson: Practice) (1) Show the following numbers in different ways: two thousand seven hundred, four hundred sixty, six thousand five, four hundred six, five thousand, nine thousand nine hundred ninety-nine, three thousand eighty-nine, two thousand eight hundred six, ten thousand. (2) Count out the next five numbers after $5999$ and write them.
+(Lesson: Practice, Problem 4, Fill in the Symbol) Fill the $\bigcirc$ with "$\times$", "$\div$", or "$> $", "$< $", "$=$": $6\bigcirc6=36$, $30\bigcirc6=5$, $8\div2\bigcirc8$, $5\times7\bigcirc32$, $2\times6\bigcirc12$, $8\times9\bigcirc73$, $4\times9\bigcirc34$, $9\div3\bigcirc3$.
 
-### Solution to Exercise 206
+### Solution to Exercise 5
 
-(1) $2700$, $460$, $6005$, $406$, $5000$, $9999$, $3089$, $2806$, $10000$. (2) After $5999$ come $6000,6001,6002,6003,6004$. $\blacksquare$
+$6\times6=36$; $30\div6=5$; $8\div2=4< 8$; $5\times7=35> 32$; $2\times6=12$, so $=$; $8\times9=72< 73$; $4\times9=36> 34$; $9\div3=3$, so $=$. $\blacksquare$
 
-## Exercise 207
+## Exercise 6
 
-(Lesson: Practice) Fill the table: addend $294,359,\_\_$; addend $403,\_\_,471$; sum $\_\_,780,527$. minuend $860,602,\_\_$; subtrahend $\_\_,578,471$; difference $369,\_\_,169$.
+(Lesson: Practice, Problem 5, Length Units) Fill in the right length unit in the parentheses: Liangliang is in second grade, his height is $1$ ( ) $30$ ( ), his palm is $7$ ( ) wide, and his step is about $35$ ( ). Today he is the proud flag-bearer, standing beside a flagpole $13$ ( ) high to raise the five-star red flag.
 
-### Solution to Exercise 207
+### Solution to Exercise 6
 
-By **Definition 4.7.3 (加,减法关系的整理)**: sum $=294+403=697$; the second addend $=780-359=421$; the third addend $=527-471=56$. minuend $-$ subtrahend $=$ difference: subtrahend $=860-369=491$; difference $=602-578=24$; minuend $=471+169=640$. $\blacksquare$
+By **Definition 3.8.3 (Reviewing Directions and Measurement)**: height $1$ (meter) $30$ (centimeters), palm width $7$ (centimeters), step about $35$ (centimeters), flagpole $13$ (meters) high. $\blacksquare$
 
-## Exercise 208
+## Exercise 7
 
-(Lesson: Practice) The movie "Magic Universe" starts at $2:05$ in the afternoon and ends at $2:50$; how long did the film run?
+(Lesson: Practice, Problem 6, Line Segments) First estimate the lengths of the two segments below, then measure them and write how many centimeters each is.
 
-### Solution to Exercise 208
+### Solution to Exercise 7
 
-$2:50-2:05=45$ minutes. It ran $45$ minutes. $\blacksquare$
+Line up the ruler's mark $0$ with one end of the segment, and read which mark the other end points to for the centimeters. The estimate just needs to be close to the measurement; fill in the actual segment lengths. $\blacksquare$
 
-## Exercise 209
+## Exercise 8
 
-(Lesson: Practice) A triangle ruler costs $4$ yuan, a pencil case $16$ yuan, and the price of the markers and the pen is unknown. (1) How many times the ruler is the pencil case? (2) The markers are $9$ times the ruler; how much is a box of markers? (3) The pencil case is $2$ times the pen; how much is a pen? (4) Raise other problems and solve them.
+(Lesson: Practice, Problem 7, Knife and Pencil) Fill in from the picture: the knife is ( ) centimeters long, the pencil is ( ) centimeters long. (1) How many centimeters shorter is the knife than the pencil? (2) How many centimeters longer is the pencil than the knife?
 
-### Solution to Exercise 209
+### Solution to Exercise 8
 
-(1) $16\div4=4$, the pencil case is $4$ times the ruler. (2) $4\times9=36$ yuan. (3) $16\div2=8$ yuan. (4) The answer is not unique. $\blacksquare$
+Read the knife's and pencil's lengths from the marks in the picture. (1) How much shorter the knife is: pencil length $-$ knife length. (2) How much longer the pencil is: pencil length $-$ knife length; the two answers are the same. For example if the pencil is $10$ centimeters and the knife is $6$, then $10-6=4$ centimeters. $\blacksquare$
 
-## Exercise 210
+## Exercise 9
 
-(Lesson: Practice) Pack apples as in the picture. (1) How many boxes can be filled? (2) If all apples go into boxes, how many boxes are needed in all?
+(Lesson: Practice, Problem 8, Sorting Cars) Look at the various cars in the picture. (1) Sort them by car type and fill the table (car type, number). (2) If divided into two classes, how could you do it?
 
-### Solution to Exercise 210
+### Solution to Exercise 9
 
-(1) Divide the total apples by the number per box; the quotient is the number of filled boxes. (2) If some apples are left over, $1$ more box is needed, so boxes needed are the quotient $+1$. Compute per the apples and per-box count in the picture. $\blacksquare$
+By **Definition 3.8.4 (Reviewing Classification and Organization)**, (1) classify by type such as sedan, bus, truck, count them and fill the table. (2) You could classify by number of wheels (such as $4$ wheels and $6$ wheels), or by size, or by whether there are windows; any reasonable way works. $\blacksquare$
 
-## Exercise 211
+## Exercise 10
 
-(Lesson: Practice) If apples are packed as in the picture and there is no remainder, at least how many apples should be taken away? Write it.
+(Lesson: Practice, Problem 9, Animals Moving) The rabbit, lamb, kitten, and puppy are moving to new homes. Look at the picture (with the chick's home as the center, directions marked), arrange their rooms, and say in which direction of the chick's home each lives.
 
-### Solution to Exercise 211
+### Solution to Exercise 10
 
-Divide the total apples by the number per box; the remainder is how many to take away, after which the apples pack exactly with no remainder. Find the remainder from the count in the picture. $\blacksquare$
+By **Definition 3.8.3 (Reviewing Directions and Measurement)**, arrange the rooms by north-top, south-bottom, west-left, east-right; for example the rabbit lives north of the chick's home, the lamb east, the kitten west, and the puppy south. The answer is not unique; just saying the direction correctly works. $\blacksquare$
 
-## Exercise 212
+## Exercise 11
 
-(Lesson: Practice) The number line is marked with $0,1000,5000$. (1) By the pattern, fill the numbers in the $\square$. (2) Starting at $0$, jump one division each time; after $5$ jumps you land on $\_\_$; to reach $10000$ you must jump $\_\_$ more times. (3) Another jump takes $10$ jumps to reach $1000$; fill the numbers in the $\square$.
+(Lesson: Practice, Problem 10, Chickens and Ducks) Grandma Liu raises two different kinds of chickens, one kind has $3$ and the other has $6$. She also raises $3$ kinds of ducks, each kind has $6$. (1) How many chickens does Grandma Liu raise? (2) How many ducks? (3) Raise other math problems and solve them.
 
-### Solution to Exercise 212
+### Solution to Exercise 11
 
-From the gaps between $0,1000,5000$ on the line, each big division stands for $1000$; fill each $\square$ in order. (2) $5$ jumps reach $5000$, and to reach $10000$ need $5$ more jumps. (3) $10$ jumps reach $1000$, so each jump is $100$. $\blacksquare$
+(1) The chickens are two different kinds, use addition: $3+6=9$ (chickens). (2) The ducks are $3$ kinds of $6$ each, use multiplication: $3\times6=18$ (ducks). (3) For example how many chickens and ducks altogether? $9+18=27$ (birds); how many more ducks than chickens? $18-9=9$ (birds). $\blacksquare$
 
-## Exercise 213
+## Exercise 12
 
-(Lesson: Practice) There are $8$ bowls and $14$ chopsticks; each guest gets one bowl and one pair of chopsticks; how many guests can these bowls and chopsticks serve?
+(Lesson: Practice, Problem 11, Pose a Problem) From the conditions and expressions, pose the problem: Xiaohong brought $24$ yuan, exactly buying $3$ identical small cakes. (1) $24\div3=8$ (yuan), the problem: ? (2) $8\times9=72$ (yuan), the problem: ?
 
-### Solution to Exercise 213
+### Solution to Exercise 12
 
-$14$ chopsticks make $14\div2=7$ pairs, and there are $8$ bowls. Limited by the chopsticks, they can only serve $7$ guests. $\blacksquare$
+(1) $24\div3=8$ finds the price of each small cake; problem: "how much is each small cake?" (2) From (1) each cake is $8$ yuan, and $8\times9=72$ finds the total price of $9$ cakes; problem: "how much for $9$ such small cakes?" $\blacksquare$
 
-## Exercise 214
+## Exercise 13
 
-(Lesson: Practice) Choose from the four numbers $324,699,989,78$. (1) The two numbers whose "sum" is closest to $1000$ are $\_\_$ and $\_\_$. (2) The two numbers whose "difference" is closest to $600$ are $\_\_$ and $\_\_$.
+(Lesson: Practice, Problem 12, Sports Equipment) Class 2(1) buys sports gear: socks come in three kinds (the first $8$ yuan for $2$ pairs, the second $20$ yuan for $4$ pairs, the third $3$ yuan for $1$ pair); a rubber ball is $5$ yuan each, a shuttlecock is $3$ yuan each. (1) Aunt Wang buys $4$ pairs of socks; which kind is cheapest? (2) How much for $5$ rubber balls? (3) The money for $9$ shuttlecocks exactly buys one soccer ball; how much are $9$ shuttlecocks? How much is one soccer ball?
 
-### Solution to Exercise 214
+### Solution to Exercise 13
 
-(1) Try adding: $324+699=1023$ is closest to $1000$. (2) $989-324=665$, $699-78=621$ closest to $600$, so choose $699$ and $78$. $\blacksquare$
+(1) The first kind is $8\div2=4$ yuan per pair, the second is $20\div4=5$ yuan per pair, the third is $3$ yuan per pair, so the third kind is cheapest. (2) $5\times5=25$ (yuan). (3) $9\times3=27$ (yuan), i.e. $9$ shuttlecocks are $27$ yuan, and one soccer ball is $27$ yuan. $\blacksquare$
 
-## Exercise 215
+## Exercise 14
 
-(Lesson: Practice) The spinner has $1,10,100,1000$; fill in the number the pointer points to each time and the number of times.
+(Lesson: Self-Assessment) This semester is over; color little red flowers for your own performance: you like studying math, you like finding and raising math problems in daily life, you are not afraid of difficulty, you can try to solve problems on your own, you can notice what you did not understand and ask, you can check and correct your mistakes, you dare to share your ideas with everyone, you listen when others speak, and you can work with peers to complete tasks.
 
-### Solution to Exercise 215
+### Solution to Exercise 14
 
-Record how many times the pointer lands on each of $1,10,100,1000$, then multiply each by its count and add. $\blacksquare$
+Honestly color the red flowers against each point of performance, and think about which areas you should work harder on. This is a self-reflection on the whole semester's study; there is no standard answer. $\blacksquare$
 
-## Exercise 216
+## Exercise 15
 
-(Lesson: Practice) The CCTV Tower is $405$ meters high, the Oriental Pearl $468$ meters, and the Canton Tower $600$ meters. (1) About how many hundred meters taller is the Canton Tower than the CCTV Tower? (2) Raise other problems and solve them.
+(Lesson: Where Is Time, Say) Day and night alternate, and a day has passed. Say how Xiaoyun's day is arranged.
 
-### Solution to Exercise 216
+### Solution to Exercise 15
 
-(1) $600-405\approx600-400=200$ meters, about $200$ meters taller. (2) E.g. the Oriental Pearl is $468-405=63$ meters taller than the CCTV Tower. The answer is not unique. $\blacksquare$
-
-## Exercise 217
-
-(Lesson: Practice) In a dart game, the board has regions worth $1,10,100,1000$ points; Xiaoli, Xiaoliang, and Xiaodong each throw some times, and Xiaodong has one last throw left. (1) Xiaoli's and Xiaoliang's scores are $\_\_$ and $\_\_$ points, and $\_\_$ scored better. (2) For Xiaodong to beat both, how many points must the last throw score at least?
-
-### Solution to Exercise 217
-
-(1) Multiply each person's hits in $1,10,100,1000$ regions by the counts, add, and compare. (2) Xiaodong's current score plus the last throw must exceed the higher of the two; work out the minimum extra points needed. $\blacksquare$
-
-## Exercise 218
-
-(Lesson: Practice) The insect group collected: ① caught $6$ dragonflies; ② butterflies are $10$ more than dragonflies; ③ mantises are $3$ times dragonflies. A how many butterflies, B how many mantises, C how many dragonflies and butterflies together. (1) Pick suitable conditions and questions to make and solve a math problem. (2) What other problem do you want to solve? What condition do you need?
-
-### Solution to Exercise 218
-
-Choose ①②A: butterflies $6+10=16$; choose ①③B: mantises $6\times3=18$; choose ①②C: together $6+16=22$. (2) E.g. asking all three together also needs the mantises counted in. $\blacksquare$
-
-## Exercise 219
-
-(Lesson: Practice) Timetable (morning): Period 1 $8:20$—( ), Period 2 $9:15$—$9:55$, eye exercises $9:55$—$10:00$, long break $10:00$—$10:30$, Period 3 $10:30$—$11:10$, Period 4 ( ). (1) How long is the long break? (2) One class is $40$ minutes; fill in the end time of Period 1. (3) By the pattern, fill in the start and end times of Period 4.
-
-### Solution to Exercise 219
-
-(1) $10:30-10:00=30$ minutes. (2) $8:20$ start for $40$ minutes ends at $9:00$. (3) Period 3 is $10:30$—$11:10$, with a $5$-minute break, Period 4 is $11:15$—$11:55$. $\blacksquare$
-
-## Exercise 220
-
-(Lesson: Practice) Fill a suitable number in the $\square$: $\square\div\square=6\cdots\cdots6$. How many different ways can you find?
-
-### Solution to Exercise 220
-
-By **Definition 4.2.2 (Remainder Less Than Divisor)**, the remainder is $6$, so the divisor must be greater than $6$, i.e. the divisor can be $7,8,9,\cdots\cdots$. Divisor $7$, dividend $=7\times6+6=48$, i.e. $48\div7=6\cdots\cdots6$; divisor $8$, $54\div8=6\cdots\cdots6$; divisor $9$, $60\div9=6\cdots\cdots6$. There are infinitely many ways (any divisor greater than $6$). $\blacksquare$
+Using your own daily routine, say in chronological order the times when Xiaoyun gets up, eats, goes to school, plays, and sleeps; for example get up at $7$ in the morning, arrive at school at $8$, leave school at $4$ in the afternoon, and go to bed at $9$ at night. $\blacksquare$

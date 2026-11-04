@@ -1,295 +1,170 @@
 # week43
-> **Definition 6.3.1 (多边形)**
+> **Definition 4.2.2 (余数要比除数小)**
 > 
-> 由线段围成的封闭图形是多边形, 有几条边就有几个角. 三角形有 $3$ 条边, 四边形有 $4$ 条边, 五边形有 $5$ 条边, 六边形有 $6$ 条边. 每条边都相等的多边形叫正多边形.
-> **Definition 6.3.2 (长方形和正方形的特征)**
+> 参见教材相应章节关于此概念的论述.
+> **Definition 4.7.1 (数与运算的整理)**
 > 
-> 长方形对边相等, 有 $4$ 个直角; 正方形 $4$ 条边都相等, 有 $4$ 个直角. 把长方形折出最大的正方形, 正方形的边长正好等于长方形的宽.
-> **Definition 6.3.3 (周长)**
+> 在个 (一), 十, 百的基础上又认识了千, 万, 相邻计数单位间都是 $10$ 倍; 万以内数的组成, 读写, 顺序, 比大小, 近似数的方法与百以内数一致.
+> **Definition 4.7.2 (除法与乘除关系的整理)**
 > 
-> 封闭图形一周的长度, 是它的周长.
-> **Definition 6.3.4 (长方形和正方形的周长)**
+> 平均分没有剩余用表内除法, 有剩余用有余数的除法, 余数要比除数小; 求一个数是另一个数的几倍用除法, 求一个数的几倍是多少用乘法, 关键是分清把谁看作 $1$ 份.
+> **Definition 4.7.3 (加,减法关系的整理)**
 > 
-> 长方形周长 $=$(长$+$宽)$\times2$; 正方形周长 $=$ 边长$\times4$.
+> 加法和减法互为逆运算: 和 $=$ 加数 $+$ 加数, 被减数 $=$ 减数 $+$ 差, 利用这些关系可以验算和求未知数.
+> **Definition 5.1.1 (从不同方向观察物体)**
+> 
+> 从不同方向 (前面, 上面, 侧面) 观察同一个物体, 看到的形常常是不同的. 判断一幅图是从哪个位置看到的, 要抓住该方向看到的面的特征.
+> **Definition 5.1.2 (根据看到的面推测立体图形)**
+> 
+> 从某一个方向看一个立体图形, 看到的只是它的一个面. 看到一个面是正方形, 这个立体图形可能是正方体, 也可能是有一个面是正方形的其他立体图形.
+> **Definition 5.1.3 (长方体的展开图)**
+> 
+> 把长方体纸盒沿棱剪开, 平铺在桌面上得到的平面图形是长方体的展开图. 长方体有 $6$ 个面, 相对的两个面形, 大小相同; 剪开不同的棱得到不同形的展开图, 展开图中每个面都至少有一条边与其他的面相连.
+> **Definition 5.2.1 (综合算式与同级运算顺序)**
+> 
+> 把两个分步算式合并成一个算式, 这样的算式是综合算式. 在没有括号的算式里, 只有加, 减法或只有乘, 除法, 从左往右按顺序计算.
+> **Definition 5.2.2 (先乘除后加减)**
+> 
+> 在没有括号的算式里, 既有乘, 除法又有加, 减法, 要先算乘, 除法, 再算加, 减法.
+> **Definition 5.2.3 (小括号)**
+> 
+> 算式里有括号, 要先算括号里面的. 括号可以改变运算顺序.
+> **Definition 5.2.4 (解决多步实际问题)**
+> 
+> 解决需要多步计算的实际问题时, 通常把问题分解为几个关联的小问题, 一步解决一个小问题; 可以画线段图分析数量关系, 列综合算式解答.
 
-## Exercise 98
+## Exercise 1
 
-(Lesson: Polygons — Do It, Problem 1) Find objects around you whose surfaces contain polygons, and say what shapes they are.
+(Lesson: Practice) The insect group collected: ① caught $6$ dragonflies; ② butterflies are $10$ more than dragonflies; ③ mantises are $3$ times dragonflies. A how many butterflies, B how many mantises, C how many dragonflies and butterflies together. (1) Pick suitable conditions and questions to make and solve a math problem. (2) What other problem do you want to solve? What condition do you need?
 
-### Solution to Exercise 98
+### Solution to Exercise 1
 
-By **Definition 6.3.1 (Polygons)**, for example a desk top is a rectangle (quadrilateral), a red scarf is a triangle, some floor tiles are squares, and the cells of a honeycomb are hexagons; just point out the number of sides. $\blacksquare$
+Choose ①②A: butterflies $6+10=16$; choose ①③B: mantises $6\times3=18$; choose ①②C: together $6+16=22$. (2) E.g. asking all three together also needs the mantises counted in. $\blacksquare$
 
-## Exercise 99
+## Exercise 2
 
-(Lesson: Polygons — Do It, Problem 2) Draw several different polygons on a dot grid.
+(Lesson: Practice) Timetable (morning): Period 1 $8:20$—( ), Period 2 $9:15$—$9:55$, eye exercises $9:55$—$10:00$, long break $10:00$—$10:30$, Period 3 $10:30$—$11:10$, Period 4 ( ). (1) How long is the long break? (2) One class is $40$ minutes; fill in the end time of Period 1. (3) By the pattern, fill in the start and end times of Period 4.
 
-### Solution to Exercise 99
+### Solution to Exercise 2
 
-By **Definition 6.3.1 (多边形)**, connect line segments end to end to close a figure; draw different polygons with $3$ sides (triangle), $4$ sides (quadrilateral), $5$ sides (pentagon), and so on. $\blacksquare$
+(1) $10:30-10:00=30$ minutes. (2) $8:20$ start for $40$ minutes ends at $9:00$. (3) Period 3 is $10:30$—$11:10$, with a $5$-minute break, Period 4 is $11:15$—$11:55$. $\blacksquare$
 
-## Exercise 100
+## Exercise 3
 
-(Lesson: Polygons — Do It, Problem 3) Fill in: based on a rectangle's equal opposite sides and a square's $4$ equal sides, fill in the unknown side lengths (rectangle length $12$ cm width $8$ cm, square side $10$ cm, etc.).
+(Lesson: Practice) Fill a suitable number in the $\square$: $\square\div\square=6\cdots\cdots6$. How many different ways can you find?
 
-### Solution to Exercise 100
+### Solution to Exercise 3
 
-By **Definition 6.3.2 (Features of Rectangles and Squares)**, a rectangle's opposite sides are equal and a square's $4$ sides are equal; fill in each unknown side length accordingly. $\blacksquare$
+By **Definition 4.2.2 (Remainder Less Than Divisor)**, the remainder is $6$, so the divisor must be greater than $6$, i.e. the divisor can be $7,8,9,\cdots\cdots$. Divisor $7$, dividend $=7\times6+6=48$, i.e. $48\div7=6\cdots\cdots6$; divisor $8$, $54\div8=6\cdots\cdots6$; divisor $9$, $60\div9=6\cdots\cdots6$. There are infinitely many ways (any divisor greater than $6$). $\blacksquare$
 
-## Exercise 101
+## Exercise 4
 
-(Lesson: Polygons — Do It, Problem 4) Fold as shown: fold the largest square out of a rectangle. What is the relation between the square's side length and the rectangle's width?
+(Lesson: Observing Objects from Different Directions, Example 1) Who saw each of the four pictures on the left? Why do they look different? Who saw each of the three pictures on the right? (Four people observe the same object from the front, back, side, and top.)
 
-### Solution to Exercise 101
+### Solution to Exercise 4
 
-By **Definition 6.3.2 (长方形和正方形的特征)**, fold the width of the rectangle over to coincide with the long side; the largest square folded has a side length exactly equal to the rectangle's width. $\blacksquare$
+By **Definition 5.1.1 (Observing Objects from Different Directions)**, the four people stand in different directions and see different faces, so they look different. Connect each person's standing direction to the shape seen in the picture; two people looking from opposite directions see the same shape. $\blacksquare$
 
-## Exercise 102
+## Exercise 5
 
-(Lesson: Practice 8, Problem 1) Use a square sheet of paper to fold a pentagon, a hexagon, a heptagon and an octagon.
+(Lesson: Observing Objects from Different Directions, Do It, Problem 1) On a cube, the sum of the numbers on each two opposite faces is $7$. Xiaoming looks from the front, Xiaohong from the back, and Xiaoliang from the top. The number Xiaoming sees is ( ), Xiaohong sees ( ), and Xiaoliang sees ( ).
 
-### Solution to Exercise 102
+### Solution to Exercise 5
 
-By **Definition 6.3.1 (多边形)**, each fold of the square paper increases the number of sides cut (or folded) out; by folding in different ways, make the closed figure have $5,6,7,8$ sides respectively. $\blacksquare$
+By **Definition 5.1.1 (Observing Objects from Different Directions)**, the numbers on two opposite faces sum to $7$. Given the number on the front face, the number Xiaohong sees from the back is $7$ minus it; the number Xiaoliang sees from the top is filled by the number on the top face. The three numbers in order are: the number on the front face, $7-$ the number on the front face, and the number on the top face. $\blacksquare$
 
-## Exercise 103
+## Exercise 6
 
-(Lesson: Practice 8, Problem 2) Draw on the grid (each cell $1$ cm) as required: (1) a rectangle $4$ cm long and $2$ cm wide; (2) a square with side $3$ cm.
+(Lesson: Observing Objects from Different Directions, Do It, Problem 2) Say and guess: I look at a solid and see one face that is a square. What solid can it be?
 
-The figure shows grid paper (each cell $1$ cm), on which a rectangle occupying $4$ cells by $2$ cells and a square occupying $3$ cells by $3$ cells have been drawn as a model.
+### Solution to Exercise 6
 
-### Solution to Exercise 103
+By **Definition 5.1.2 (Inferring a Solid from a Seen Face)**, it may be a cube (since all faces of a cube are squares), or another solid with one square face; it cannot be determined from one face alone. $\blacksquare$
 
-By **Definition 6.3.2 (长方形和正方形的特征)**, the rectangle occupies $4$ cells by $2$ cells; the square occupies $3$ cells by $3$ cells; draw them on the grid as in the figure. $\blacksquare$
+## Exercise 7
 
-## Exercise 104
+(Lesson: The Net of a Cuboid, Example 3) Cut open a cuboid box and lay it flat on the table. (1) How many edges must this open-top box be cut along? Think and trace. (2) Cut and say. (Note: every face must stay joined to the others along at least one edge.)
 
-(Lesson: Practice 8, Problem 3) Inside the envelope is a quadrilateral; guess what shape it might be.
+### Solution to Exercise 7
 
-### Solution to Exercise 104
+By **Definition 5.1.3 (The Net of a Cuboid)**, a cuboid has $6$ faces, and when unfolded it must form one flat figure. A closed cuboid box has $12$ edges (seams); unfolding it into one connected flat figure requires cutting $5$ edges (keeping $7$ edges joined). Cutting different edges gives nets of different shapes. $\blacksquare$
 
-By **Definition 6.3.1 (多边形)** and **Definition 6.3.2 (长方形和正方形的特征)**, a quadrilateral has $4$ sides and $4$ angles; it could be a rectangle, a square, or an ordinary parallelogram or an irregular quadrilateral; answers may vary. $\blacksquare$
+## Exercise 8
 
-## Exercise 105
+(Lesson: The Net of a Cuboid, Do It) Use the figure in appendix page 1 to make a cuboid box. First mark on the figure the faces seen from the front, back, top, bottom, etc., then cut it out, fold it around, and check whether your marks are right.
 
-(Lesson: Practice 8, Problem 4) Using two identical pairs of triangular rulers, assemble a rectangle and a square respectively.
+### Solution to Exercise 8
 
-### Solution to Exercise 105
+By **Definition 5.1.3 (The Net of a Cuboid)**, first locate the "front" in the net; opposite the front is the "back"; after folding, check whether the marked directions match the actual viewing directions. $\blacksquare$
 
-By **Definition 6.3.2 (长方形和正方形的特征)**, two identical right triangles (with one long and one short leg) joined along their long legs form a rectangle; two identical isosceles right triangles joined along their hypotenuses form a square. $\blacksquare$
+## Exercise 9
 
-## Exercise 106
+(Lesson: Practice 1, Problem 1) From which position is each picture below seen? Fill the matching number in the parentheses (① ② ③).
 
-(Lesson: Practice 8, Problem 5) Try folding a square into two identical parts; are there other ways to fold?
+### Solution to Exercise 9
 
-### Solution to Exercise 106
+By **Definition 5.1.1 (Observing Objects from Different Directions)**, catch the face features of each direction: from the front you see the front, from the top the top, from the side the side. Fill ①, ②, ③ per the viewing position each picture corresponds to. $\blacksquare$
 
-Folding along any axis of symmetry of the square gives two identical parts: folding top-to-bottom, left-to-right, or along the two diagonals, $4$ ways in total. $\blacksquare$
+## Exercise 10
 
-## Exercise 107
+(Lesson: Practice 1, Problem 2) Three classmates are observing a cuboid and a cylinder. (1) Which picture does Xiaoming see from the top? (2) Which one does Xiaoli see? Do you know how the cuboid and cylinder are placed?
 
-(Lesson: Practice 8, Problem 6) Can you use a tangram to make a pentagon and a hexagon?
+### Solution to Exercise 10
 
-### Solution to Exercise 107
+By **Definition 5.1.1 (Observing Objects from Different Directions)**, from the top the cuboid looks like a rectangle and the cylinder like a circle; from the side the cuboid looks like a rectangle and the cylinder like a rectangle. Pick the matching figures by the three people's directions, and from that state how the cuboid and cylinder are placed. $\blacksquare$
 
-By **Definition 6.3.1 (多边形)**, fit several tangram pieces together so that the outer closed figure has $5$ sides or $6$ sides; the ways of fitting are not unique. $\blacksquare$
+## Exercise 11
 
-## Exercise 108
+(Lesson: Practice 1, Problem 3) Cut open the cuboid box you made from appendix page 1 along its edges to get a figure different from appendix page 1. (1) Which edges do you plan to cut? Think about what the unfolded figure looks like. (2) Cut and say what you discover.
 
-(Lesson: Perimeter — Do It, Problem 1) First measure, then compute the perimeter of each figure below.
+### Solution to Exercise 11
 
-### Solution to Exercise 108
+By **Definition 5.1.3 (The Net of a Cuboid)**, just cut the other $5$ edges to get a net different from appendix page 1. Discover: the same cuboid cut along different edges gives different net shapes, but every net has $6$ faces, and each pair of opposite faces has the same shape and size and is not joined. $\blacksquare$
 
-By **Definition 6.3.3 (Perimeter)**, measure the length of each side with a ruler, then add the side lengths. $\blacksquare$
+## Exercise 12
 
-## Exercise 109
+(Lesson: Practice 1, Problem 4) Can the figures below fold into a cube? Cut out the figures from appendix page 2 and try folding (① ② ③ ④).
 
-(Lesson: Perimeter — Do It, Problem 2) A rectangular flower bed is $5$ m long and $3$ m wide. What is its perimeter in meters?
+### Solution to Exercise 12
 
-### Solution to Exercise 109
+By analogy from **Definition 5.1.3 (The Net of a Cuboid)**: a figure that folds into a cube must have $6$ squares, and after folding each face appears once with no overlap. After folding, mark those that fold into a cube with "√"; those that overlap or miss a face cannot fold into one. $\blacksquare$
 
-By **Definition 6.3.4 (Perimeters of Rectangles and Squares)**, $\left(5+3\right)\times2=16$ (meters). $\blacksquare$
+## Exercise 13
 
-## Exercise 110
+(Lesson: Practice 1, Problem 5) The objects below are all made of two kinds of shapes; which two are the same? (① ② ③ ④).
 
-(Lesson: Perimeter — Do It, Problem 3) Use a compass and a straightedge to draw a segment representing the perimeter of the figure on the right.
+### Solution to Exercise 13
 
-### Solution to Exercise 110
+By **Definition 5.1.1 (Observing Objects from Different Directions)**, compare the number, shape, and relative position (above/below, left/right) of the shapes in each combined object; the two with exactly the same composition and position are the same. $\blacksquare$
 
-By **Definition 6.3.3 (周长)**, lay the sides of the figure end to end into one segment; the length of this segment is the perimeter. Use the compass to step off each side in turn into one segment. $\blacksquare$
+## Exercise 14
 
-## Exercise 111
+(Lesson: Same-Level Mixed Operations, Do It) First say the order of operations, then compute: $120+40-51$; $2\times8\div4$; $56\div7\div2$.
 
-(Lesson: Perimeter — Do It, Problem 4) Using $16$ square sheets of side $1$ dm to form a rectangle or square, how should they be arranged to give the shortest perimeter?
+### Solution to Exercise 14
 
-### Solution to Exercise 111
+By **Definition 5.2.1 (Combined Expressions and Same-Level Order)**, compute left to right: $120+40-51=160-51=109$; $2\times8\div4=16\div4=4$; $56\div7\div2=8\div2=4$. $\blacksquare$
 
-$16=1\times16=2\times8=4\times4$. The perimeters of the three arrangements: $\left(1+16\right)\times2=34$, $\left(2+8\right)\times2=20$, $4\times4=16$. The $4\times4$ square has the shortest perimeter. $\blacksquare$
+## Exercise 15
 
-## Exercise 112
+(Lesson: Multiply/Divide Before Add/Subtract, Do It) In each problem below, what is computed first? Underline it, then compute: $32-18\div2$; $81\div9+54$; $4\times9-5\times3$.
 
-(Lesson: Perimeter — Do It, Problem 5) What if $36$ square sheets are used? What do you find?
+### Solution to Exercise 15
 
-### Solution to Exercise 112
+By **Definition 5.2.2 (Multiply/Divide Before Add/Subtract)**, first multiply/divide: $32-18\div2=32-9=23$; $81\div9+54=9+54=63$; $4\times9-5\times3=36-15=21$. $\blacksquare$
 
-$36=1\times36=2\times18=3\times12=4\times9=6\times6$; the $6\times6$ square has the shortest perimeter. Finding: with the same number of small squares, the closer the arrangement is to a square (the closer the length and width), the shorter the perimeter. $\blacksquare$
+## Exercise 16
 
-## Exercise 113
+(Lesson: Parentheses, Do It, Problem 1) First say the order of operations, then compute: $56\div\left(2\times4\right)$; $\left(72-18\right)\div9$; $\left(24-16\right)\times9$; $388-\left(27-18\right)$.
 
-(Lesson: Practice 9, Problem 1) Measure and fill in: head circumference, chest circumference, waist circumference (cm).
+### Solution to Exercise 16
 
-### Solution to Exercise 113
+By **Definition 5.2.3 (Parentheses)**, first compute inside: $56\div\left(2\times4\right)=56\div8=7$; $\left(72-18\right)\div9=54\div9=6$; $\left(24-16\right)\times9=8\times9=72$; $388-\left(27-18\right)=388-9=379$. $\blacksquare$
 
-By **Definition 6.3.3 (周长)**, use a tape measure to go once around the head, chest and waist, and fill in each length. $\blacksquare$
+## Exercise 17
 
-## Exercise 114
+(Lesson: Parentheses, Do It, Problem 2) Compare and compute: $4+5\times7$ with $\left(4+5\right)\times7$; $72-18\div9$ with $\left(72-18\right)\div9$; $24\div4+2$ with $24\div\left(4+2\right)$.
 
-(Lesson: Practice 9, Problem 2) The sides of the park map are $150,20,100,80,180$ meters; about how many meters does Grandma Wang walk in one loop around the park?
+### Solution to Exercise 17
 
-### Solution to Exercise 114
-
-By **Definition 6.3.3 (周长)**, add the sides: $150+20+100+80+180=530$ (meters). $\blacksquare$
-
-## Exercise 115
-
-(Lesson: Practice 9, Problem 3) First measure, then compute the perimeter.
-
-### Solution to Exercise 115
-
-By **Definition 6.3.3 (周长)** and **Definition 6.3.4 (长方形和正方形的周长)**, after measuring the sides, use (length$+$width)$\times2$ for a rectangle, side$\times4$ for a square, and add the sides for other figures. $\blacksquare$
-
-## Exercise 116
-
-(Lesson: Practice 9, Problem 4) Use a compass and straightedge to compare the perimeters of the two figures below.
-
-### Solution to Exercise 116
-
-By **Definition 6.3.3 (周长)**, use the compass to lay each figure's perimeter into a segment, then compare the two segments. $\blacksquare$
-
-## Exercise 117
-
-(Lesson: Practice 9, Problem 5) A basketball court is $28$ m long and $15$ m wide. What is its perimeter in meters?
-
-### Solution to Exercise 117
-
-By **Definition 6.3.4 (长方形和正方形的周长)**, $\left(28+15\right)\times2=86$ (meters). $\blacksquare$
-
-## Exercise 118
-
-(Lesson: Practice 9, Problem 6) Are the perimeters of the figures in each group below the same? How do you reason?
-
-### Solution to Exercise 118
-
-By **Definition 6.3.3 (周长)**, add up each figure's side lengths to compare. Figures of different shape with the same total outer side length have the same perimeter; otherwise they differ, and the one with more (or longer) sides has the longer perimeter. $\blacksquare$
-
-## Exercise 119
-
-(Lesson: Practice 9, Problem 7) A rectangular vegetable plot is $6$ m long and $3$ m wide. How many meters of fence are needed to enclose all four sides? If one side is against a wall, how many meters of fence are needed at minimum?
-
-### Solution to Exercise 119
-
-All four sides: $\left(6+3\right)\times2=18$ (meters). To minimize with one side against a wall, put the long side against the wall, needing only $6+3+3=12$ (meters). $\blacksquare$
-
-## Exercise 120
-
-(Lesson: Practice 9, Problem 8) Fill the table: exercise book length $21$ cm width $15$ cm, find the perimeter; desk length $7$ dm perimeter $24$ dm, find the width; blackboard width $1$ m perimeter $10$ m, find the length.
-
-### Solution to Exercise 120
-
-Exercise book perimeter $\left(21+15\right)\times2=72$ (cm); desk width $24\div2-7=5$ (dm); blackboard length $10\div2-1=4$ (m). $\blacksquare$
-
-## Exercise 121
-
-(Lesson: Practice 9, Problem 9) A square tabletop has a perimeter of $320$ cm. What is its side length in cm?
-
-### Solution to Exercise 121
-
-By **Definition 6.3.4 (长方形和正方形的周长)**, the side length is $=320\div4=80$ (cm). $\blacksquare$
-
-## Exercise 122
-
-(Lesson: Practice 9, Problem 10) A rectangle is $4$ cm wide, and its length is $3$ times its width. What is its perimeter in cm?
-
-### Solution to Exercise 122
-
-The length is $=4\times3=12$ (cm), perimeter $\left(12+4\right)\times2=32$ (cm). $\blacksquare$
-
-## Exercise 123
-
-(Lesson: Practice 9, Problem 11) Using $6$ small squares of side $2$ cm to form a new rectangle, how to arrange for the smallest perimeter? To form a square, at least how many more small squares are needed? What is the perimeter of the square formed?
-
-### Solution to Exercise 123
-
-$6=1\times6=2\times3$. Arranged in $2$ rows of $3$ each (length $6$ cm width $4$ cm), the perimeter $\left(6+4\right)\times2=20$ cm is smallest. To form a square needs $3\times3=9$, adding at least $9-6=3$ more; the square has side $6$ cm and perimeter $6\times4=24$ cm. $\blacksquare$
-
-## Exercise 124
-
-(Lesson: Practice 9, Problem 12) Paste $18$ square artworks of side $2$ dm into a rectangular "art gallery", with a border around the edge; how to design it to minimize the border?
-
-### Solution to Exercise 124
-
-$18=1\times18=2\times9=3\times6$; arranged in $3$ rows of $6$ each, closest to a square, the length is $6\times2=12$ dm, width $3\times2=6$ dm, and the border $\left(12+6\right)\times2=36$ dm is minimal. $\blacksquare$
-
-## Exercise 125
-
-(Lesson: Practice 9, Problem 13) Use a $22$-cm string to enclose a rectangle; what are the length and width? How many ways?
-
-### Solution to Exercise 125
-
-length$+$width$=22\div2=11$ (cm), taking length$\geqslant$width: length $10$ width $1$, length $9$ width $2$, length $8$ width $3$, length $7$ width $4$, length $6$ width $5$, $5$ ways in total. $\blacksquare$
-
-## Exercise 126
-
-(Lesson: Practice 9, Problem 14) A $48$-cm wire is cut equally into two pieces, one enclosing a rectangle and the other a square. (1) What is the square's side? (2) The rectangle's length is $2$ times its width; what are the length and width?
-
-### Solution to Exercise 126
-
-Each piece is $48\div2=24$ (cm). (1) The square's side is $24\div4=6$ (cm). (2) The rectangle's length$+$width$=12$, the length is $2$ times the width, width $12\div3=4$ (cm), length $8$ cm. $\blacksquare$
-
-## Exercise 127
-
-(Lesson: Practice 9, Problem 15) A rectangular sheet of paper is divided into two parts; which part has the longer perimeter?
-
-### Solution to Exercise 127
-
-By **Definition 6.3.3 (周长)**, each part's perimeter includes one length and one width of the original rectangle as well as the shared cut line; if the cut lines are the same, the two perimeters are equal; otherwise compare the sum of each part's outer sides. $\blacksquare$
-
-## Exercise 128
-
-(Lesson: Practice 9, Problem 16) Compute the perimeter of the combined figure below (unit: cm).
-
-### Solution to Exercise 128
-
-By **Definition 6.3.3 (周长)**, add up the outer sides of the combined figure in order (the recessed sides also count) to get the total length around. $\blacksquare$
-
-## Exercise 129
-
-(Lesson: Practice 10, Problem 1) A rectangular paper of length $36$ cm is cut exactly into two identical squares. What is the perimeter of one square? What is the perimeter of the rectangular paper?
-
-### Solution to Exercise 129
-
-The rectangle's length is two square side lengths; the square side is $36\div2=18$ (cm), square perimeter $18\times4=72$ (cm); the rectangle's width is $18$ cm, perimeter $\left(36+18\right)\times2=108$ (cm). $\blacksquare$
-
-## Exercise 130
-
-(Lesson: Practice 10, Problem 2) What routes are there from Xiaoling's home to school? Which is shorter? Which is longer?
-
-### Solution to Exercise 130
-
-By **Definition 6.3.3 (周长)**, add up each segment of each route, compare the total lengths; the smaller sum is shorter and the larger sum longer. $\blacksquare$
-
-## Exercise 131
-
-(Lesson: Practice 10, Problem 3) A rectangle and a square form a combined figure; the rectangle's perimeter is $16$ cm and the square's is $8$ cm. What is the perimeter of the combined figure?
-
-### Solution to Exercise 131
-
-The square's side is $8\div4=2$ (cm). At the join, one side of the square coincides with the rectangle; the combined perimeter is $=16+8-2\times2=20$ (cm). $\blacksquare$
-
-## Exercise 132
-
-(Lesson: Practice 10, Problem 4) $4$ identical rectangles form a large square on the outside; the large square's perimeter is $24$ dm. What is each rectangle's perimeter?
-
-### Solution to Exercise 132
-
-The large square's side is $24\div4=6$ (dm). The rectangle's length$+$width exactly equals the large square's side of $6$ dm, so each rectangle's perimeter is $=6\times2=12$ (dm). $\blacksquare$
+$4+5\times7=4+35=39$, $\left(4+5\right)\times7=9\times7=63$; $72-18\div9=72-2=70$, $\left(72-18\right)\div9=54\div9=6$; $24\div4+2=6+2=8$, $24\div\left(4+2\right)=24\div6=4$. By **Definition 5.2.3 (Parentheses)**, adding parentheses changes both the order and the result. $\blacksquare$

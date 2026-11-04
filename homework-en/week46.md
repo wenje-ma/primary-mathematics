@@ -1,74 +1,185 @@
 # week46
-> **Definition 6.6.1 (年,月,日)**
+> **Definition 5.2.1 (综合算式与同级运算顺序)**
 > 
-> 一年有 $12$ 个月. 有 $31$ 天的月份叫大月 ($1,3,5,7,8,10,12$ 月), 有 $30$ 天的月份叫小月 ($4,6,9,11$ 月), $2$ 月既不是大月也不是小月. 地球自转一圈的时间是 $1$ 天 (日).
-> **Definition 6.6.2 (平年和闰年)**
+> 把两个分步算式合并成一个算式, 这样的算式是综合算式. 在没有括号的算式里, 只有加, 减法或只有乘, 除法, 从左往右按顺序计算.
+> **Definition 5.2.2 (先乘除后加减)**
 > 
-> $2$ 月有 $28$ 天的年份是平年, 有 $29$ 天的是闰年. 公历年份是 $4$ 的倍数一般是闰年; 公历年份是 $100$ 的倍数时, 必须是 $400$ 的倍数才是闰年 (如 $1900$ 年不是闰年, $2000$ 年是闰年).
-> **Definition 6.6.3 (24 时计时法)**
+> 在没有括号的算式里, 既有乘, 除法又有加, 减法, 要先算乘, 除法, 再算加, 减法.
+> **Definition 5.2.3 (小括号)**
 > 
-> $1$ 天 (日) 是 $24$ 小时, 经过一天时针转 $2$ 圈. 采用从 $0$ 时到 $24$ 时的计时法叫 $24$ 时计时法; 下午和晚上的时刻, 用普通计时法的时刻加上 $12$.
+> 算式里有括号, 要先算括号里面的. 括号可以改变运算顺序.
+> **Definition 5.2.4 (解决多步实际问题)**
+> 
+> 解决需要多步计算的实际问题时, 通常把问题分解为几个关联的小问题, 一步解决一个小问题; 可以画线段图分析数量关系, 列综合算式解答.
+> **Definition 5.3.1 (毫米与厘米的关系)**
+> 
+> 毫米 (mm) 是比厘米更小的长度单位, 量较短的物体或要求量得比较精确时用毫米. 直尺上 $1$ 厘米中间每小格的长度是 $1$ 毫米, $1$ 厘米 $=10$ 毫米.
+> **Definition 5.3.2 (分米与厘米, 米的关系)**
+> 
+> 分米 (dm) 是比厘米大, 比米小的长度单位. 直尺上 $10$ 厘米的长度是 $1$ 分米, $1$ 分米 $=10$ 厘米, $1$ 米 $=10$ 分米.
+> **Definition 5.3.3 (千米)**
+> 
+> 计量比较长的路程通常用千米 (km) 作单位, $1$ 千米 $=1000$ 米. 千米在日常生活中也叫公里.
+> **Definition 5.3.4 (长度单位的进率与估测)**
+> 
+> 长度单位从大到小: 千米, 米, 分米, 厘米, 毫米. 相邻两个单位间, 除千米与米间是 $1000$, 其余都是 $10$. 估计一段距离要先选定一个长度作为标准.
 
-## Exercise 178
+## Exercise 1
 
-(Lesson: Remember It) On a blank calendar, fill in every day of the month in which your birthday falls this year, and circle the days of special meaning.
+(Lesson: Practice 3, Problem 11, Thinking Question) In a subtraction, the sum of minuend, subtrahend, and difference is $54$, and the subtrahend is $2$ times the difference. Write this expression.
 
-### Solution to Exercise 178
+### Solution to Exercise 1
 
-By **Definition 6.6.1 (Year, Month, Day)**, first work out whether the month is a long month ($31$ days), a short month ($30$ days), or month $2$; then arrange the dates in weekday order and circle special days such as the birthday. $\blacksquare$
+minuend $=$ subtrahend $+$ difference, so minuend $+$ subtrahend $+$ difference $=2\times$ minuend $=54$, minuend $=27$. subtrahend $+$ difference $=27$, and the subtrahend is $2$ times the difference, so difference $=27\div3=9$, subtrahend $=18$. Expression: $27-18=9$. $\blacksquare$
 
-## Exercise 179
+## Exercise 2
 
-(Lesson: Use It, Problem 1) Calculate the expiration date of food: (1) production date 2026.02.06, shelf life $15$ days; (2) production date 2026.01.07, shelf life $3$ days.
+(Lesson: Practice 4, Problem 1) Compute and compare: $35-23+18$ with $35-\left(23-18\right)$; $24\div8\times2$ with $24\div\left(8\div2\right)$; $73-36+24$ with $73-\left(36-24\right)$; $18\div9\times3$ with $18\div\left(9\div3\right)$.
 
-### Solution to Exercise 179
+### Solution to Exercise 2
 
-(1) Add $15$ days to February 6; February 2026 has $28$ days, so the expiration date is February 21. (2) Add $3$ days to January 7, so the expiration date is January 10. $\blacksquare$
+$35-23+18=30$, $35-\left(23-18\right)=35-5=30$; $24\div8\times2=6$, $24\div\left(8\div2\right)=24\div4=6$; $73-36+24=61$, $73-\left(36-24\right)=73-12=61$; $18\div9\times3=6$, $18\div\left(9\div3\right)=18\div3=6$. Each pair has the same result. $\blacksquare$
 
-## Exercise 180
+## Exercise 3
 
-(Lesson: Use It, Problem 2) In 2026 the winter break runs from January 24 to March 1, and the summer break from July 8 to August 31; how many days are in the winter break and the summer break respectively?
+(Lesson: Practice 4, Problem 2) The drum-and-bugle corps has $81$ people; the drummer square forms $6$ rows of $9$, and the rest are buglers. How many buglers?
 
-### Solution to Exercise 180
+### Solution to Exercise 3
 
-By **Definition 6.6.1 (年,月,日)** and **Definition 6.6.2 (平年和闰年)**, winter break: January $31-24+1=8$ days, February $28$ days, March 1 $1$ day, totaling $8+28+1=37$ (days). Summer break: July $31-8+1=24$ days, August $31$ days, totaling $24+31=55$ (days). $\blacksquare$
+$81-6\times9=81-54=27$ people. $\blacksquare$
 
-## Exercise 181
+## Exercise 4
 
-(Lesson: 24-Hour Clock — Use It) Express in the 24-hour clock: morning $6$ o'clock, morning $9$ o'clock, afternoon $6$ o'clock, evening $8$ o'clock $30$ minutes.
+(Lesson: Practice 4, Problem 3) (1) There are $2$ rows of chili, each with $3$ lines of $5$ plants; how many chili plants in all? (2) Class 3(1) picks $18$ pumpkins, class 3(2) picks $4$ fewer than class (1), and class 3(3) picks $3$ fewer than class (2). Raise a math problem and solve it.
 
-### Solution to Exercise 181
+### Solution to Exercise 4
 
-By **Definition 6.6.3 (The 24-Hour Clock)**: morning $6$ o'clock $=6:00$, morning $9$ o'clock $=9:00$, afternoon $6$ o'clock $=18:00$, evening $8$ o'clock $30$ minutes $=20:30$. $\blacksquare$
+(1) $2\times3\times5=30$ plants. (2) E.g. how many does class 3(3) pick: $18-4-3=11$. The answer is not unique. $\blacksquare$
 
-## Exercise 182
+## Exercise 5
 
-(Lesson: Use It, Problem 1) A restaurant's business hours: lunch $11:00$—$14:30$, dinner $16:30$—$21:00$. (1) From what afternoon time to what evening time is dinner served? (2) How long is the restaurant open in a day? (3) Raise and answer another question.
+(Lesson: Practice 4, Problem 4) Use $6\times\left(5+4\right)$ to tell a little math story.
 
-### Solution to Exercise 182
+### Solution to Exercise 5
 
-(1) $16:30$ is $4:30$ p.m., $21:00$ is $9:00$ p.m. (2) Lunch $14:30-11:00=3$ hours $30$ minutes, dinner $21:00-16:30=4$ hours $30$ minutes, totaling $8$ hours. (3) For example, how long lunch is open; answers may vary. $\blacksquare$
+E.g. each box has $6$ cakes; first buy $5$ boxes then $4$ more; how many in all? $\left(5+4\right)$ boxes make $9$ boxes, $6\times9=54$ cakes. The story is not unique, as long as it says add first then multiply. $\blacksquare$
 
-## Exercise 183
+## Exercise 6
 
-(Lesson: Use It, Problem 2) Plan your own day, recording the times, activities and durations in the 24-hour clock.
+(Lesson: Practice 4, Problem 5, Thinking Question) When Xiaoming computed "$6+\square\times5$" he mixed up the order, doing the addition first then the multiplication, and got $40$. What is the correct result?
 
-### Solution to Exercise 183
+### Solution to Exercise 6
 
-By **Definition 6.6.3 (24 时计时法)**, fill activities such as waking up, going to school, eating and sleeping into a schedule in the 24-hour clock; compute each duration by subtracting the start time from the end time. $\blacksquare$
+Add first then multiply: $\left(6+\square\right)\times5=40$, $6+\square=8$, $\square=2$. Correct: $6+2\times5=6+10=16$. $\blacksquare$
 
-## Exercise 184
+## Exercise 7
 
-(Lesson: Do It — Calendar Designer) Design and make next year's calendar.
+(Lesson: Knowing the Millimeter, Do It) Say: in daily life, which objects are usually measured in millimeters? Show the length of $1$ millimeter with a hand gesture.
 
-### Solution to Exercise 184
+### Solution to Exercise 7
 
-By **Definition 6.6.1 (年,月,日)** and **Definition 6.6.2 (平年和闰年)**, first determine what weekday next January 1 falls on, work out which months are long and short, then arrange the $12$ monthly calendars in order and mark festivals and meaningful days. $\blacksquare$
+By **Definition 5.3.1 (The Relation between Millimeters and Centimeters)**, short or precise objects are measured in millimeters, e.g. the thickness of an ID card (about $1$ millimeter), the thickness of a coin, rainfall, etc. $1$ millimeter is about the thickness of an ID card. $\blacksquare$
 
-## Exercise 185
+## Exercise 8
 
-(Lesson: Try It — Pole and Shadow) Stand a $2$-meter pole on a platform, measure and record the length of its shadow at the same time each day; what pattern do you find?
+(Lesson: Knowing the Millimeter, Do It) Measure: the length, width, and thickness of the math book, recording in centimeters and in millimeters.
 
-### Solution to Exercise 185
+### Solution to Exercise 8
 
-By **Definition 6.6.1 (年,月,日)** and knowledge of the twenty-four solar terms, the shadow length at the same time each day changes with the seasons: the shadow is longest around the winter solstice and shortest around the summer solstice; recording data over a period makes this pattern visible. $\blacksquare$
+Measure with a ruler: length about $26$ cm ($260$ mm), width about $18$ cm ($180$ mm), thickness less than $1$ cm, about $7$ mm. Fill per the actual measurement. $\blacksquare$
+
+## Exercise 9
+
+(Lesson: Knowing the Decimeter, Example) Fill in: $3$ cm $=\left(\ \right)$ mm; $70$ cm $=\left(\ \right)$ dm.
+
+### Solution to Exercise 9
+
+By **Definition 5.3.1 (毫米与厘米的关系)** and **Definition 5.3.2 (分米与厘米, 米的关系)**, $1$ cm is $10$ mm, so $3$ cm is $3$ copies of $10$ mm, and $3$ cm $=30$ mm; $10$ cm is $1$ dm, so $70$ cm has $7$ copies of $10$ cm, and $70$ cm $=7$ dm. $\blacksquare$
+
+## Exercise 10
+
+(Lesson: Knowing the Decimeter, Do It) Fill in: $8$ dm $=\left(\ \right)$ cm; $5$ m $=\left(\ \right)$ dm; $60$ mm $=\left(\ \right)$ cm.
+
+### Solution to Exercise 10
+
+By **Definition 5.3.2 (分米与厘米, 米的关系)** and **Definition 5.3.1 (毫米与厘米的关系)**: $8$ dm $=80$ cm; $5$ m $=50$ dm; $60$ mm $=6$ cm. $\blacksquare$
+
+## Exercise 11
+
+(Lesson: Knowing the Decimeter, Do It) A $2$-m-long board is sawed into $4$ equal pieces to make the $4$ legs of a stool. About how high is the stool?
+
+### Solution to Exercise 11
+
+$2$ m $=20$ dm, $20\div4=5$ dm. The stool is about $5$ dm high. $\blacksquare$
+
+## Exercise 12
+
+(Lesson: Practice 5, Problem 1) Measure the length of each side of the figures below (in millimeters).
+
+### Solution to Exercise 12
+
+Measure each side with a ruler, reading to the millimeter. Fill per the actual measurement. $\blacksquare$
+
+## Exercise 13
+
+(Lesson: Practice 5, Problem 2) Fill a suitable length unit in the ( ): a pencil is $16$ ( ) long; a pencil is $7$ ( ) thick; a table is $1$ ( ) high.
+
+### Solution to Exercise 13
+
+By **Definition 5.3.1 (毫米与厘米的关系)** and **Definition 5.3.2 (分米与厘米, 米的关系)**, the pencil is $16$ cm long, $7$ mm thick, and the table is $1$ m high. $\blacksquare$
+
+## Exercise 14
+
+(Lesson: Practice 5, Problem 3) Fill in: $90$ cm $=\left(\ \right)$ dm; $100$ mm $=\left(\ \right)$ dm; $2$ m $=\left(\ \right)$ cm; $6$ dm $=\left(\ \right)$ cm.
+
+### Solution to Exercise 14
+
+By **Definition 5.3.4 (Conversion Rates and Estimation of Length Units)**: $90$ cm $=9$ dm; $100$ mm $=1$ dm; $2$ m $=200$ cm; $6$ dm $=60$ cm. $\blacksquare$
+
+## Exercise 15
+
+(Lesson: Practice 5, Problem 4) Fill in "$> $" "$< $" or "$=$": $5$ dm $\bigcirc$ $5$ mm; $8$ mm $\bigcirc$ $2$ cm; $6$ cm $\bigcirc$ $60$ mm; $1$ m $\bigcirc$ $7$ dm; $9$ mm $\bigcirc$ $3$ dm; $4$ m $\bigcirc$ $4$ dm.
+
+### Solution to Exercise 15
+
+Unify units then compare: $5$ dm $=500$ mm $> 5$ mm; $8$ mm $< 20$ mm $=2$ cm; $6$ cm $=60$ mm; $1$ m $=10$ dm $> 7$ dm; $9$ mm $< 300$ mm $=3$ dm; $4$ m $=40$ dm $> 4$ dm. $\blacksquare$
+
+## Exercise 16
+
+(Lesson: Practice 5, Problem 5) Draw line segments as required: (1) Draw a segment $5$ cm $8$ mm long. (2) Draw a segment $3$ cm $5$ mm shorter than $1$ dm.
+
+### Solution to Exercise 16
+
+(1) From the ruler's $0$ draw to $5$ cm $8$ mm. (2) $1$ dm $=10$ cm, $10$ cm $-3$ cm $5$ mm $=6$ cm $5$ mm; draw a segment $6$ cm $5$ mm long. $\blacksquare$
+
+## Exercise 17
+
+(Lesson: Practice 5, Problem 6) Fill a suitable unit or number: an ant is $6$ ( ) long; a step is $5$ ( ) long; a dictionary is ( ) mm thick.
+
+### Solution to Exercise 17
+
+An ant is $6$ mm long; a step is $5$ dm long; a dictionary is about $40$ mm thick. $\blacksquare$
+
+## Exercise 18
+
+(Lesson: Practice 5, Problem 7) First estimate, then measure: the length of chalk, the length of the pencil case, the length of the desk.
+
+### Solution to Exercise 18
+
+By **Definition 5.3.4 (Conversion Rates and Estimation of Length Units)**, first pick a body ruler (e.g. a span about $15$ cm) to estimate, then measure with a ruler. E.g. chalk about $7$ cm, pencil case about $20$ cm, desk about $60$ cm. Fill per the actual. $\blacksquare$
+
+## Exercise 19
+
+(Lesson: Practice 5, Problem 8) A rope $4$ dm long is folded in half, then folded in half again; how long is each piece?
+
+### Solution to Exercise 19
+
+Folding once makes $2$ pieces, folding again makes $4$ pieces, $4$ dm $\div4=1$ dm. Each piece is $1$ dm long. $\blacksquare$
+
+## Exercise 20
+
+(Lesson: Practice 5, Problem 9) Two short boards each $8$ dm long are joined into one long board, and the overlapping nailed part is $15$ cm. How long is the long board?
+
+### Solution to Exercise 20
+
+$8$ dm $=80$ cm, the two boards together are $80+80=160$ cm; the $15$ cm overlap is counted once, so $160-15=145$ cm $=1$ m $4$ dm $5$ cm. $\blacksquare$

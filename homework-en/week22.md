@@ -1,90 +1,155 @@
 # week22
-> **Definition 3.6.1 (身体尺)**
+> **Definition 3.2.3 (乘法口诀)**
 > 
-> 拃,步,庹,脚,指,手,肘等是古代使用过的长度单位, 又称为"身体尺". 没有尺子或不方便用尺子时, 可以选用合适的身体尺测量长度.
-> **Definition 3.6.2 (1 拃)**
+> 乘法口诀是计算表内乘法的基础, 每句口诀对应两个乘法算式 (如二三得六对应 2*3=6 和 3*2=6).
+> **Definition 3.3.1 (平均分)**
 > 
-> 把手指用力张开, 大拇指指尖到中指指尖的距离是 $1$ 拃.
-> **Definition 3.6.3 (1 庹)**
+> 每份分得同样多, 叫平均分. 如把 $6$ 块糖分成 $3$ 份,每份 $2$ 块, 就是平均分.
+> **Definition 3.3.2 (除法的含义)**
 > 
-> 两臂左右平伸, 两个中指指尖之间的距离是 $1$ 庹; $1$ 庹的长和身高差不多.
+> 平均分的过程可以用除法表示. 如 $12$ 个竹笋每 $4$ 个放一盘, 能放 $3$ 盘, 写成 $12\div4=3$, 读作"$12$ 除以 $4$ 等于 $3$".
+> **Definition 3.3.3 (除法算式各部分名称)**
+> 
+> 除号前面的数叫被除数, 除号后面的数叫除数, 除得的结果叫商. 如在 $12\div4=3$ 中, $12$ 是被除数, $4$ 是除数, $3$ 是商.
+> **Definition 3.3.4 (用乘法口诀求商)**
+> 
+> 计算除法时, 想"除数和几相乘得被除数", 那句乘法口诀的得数就是商. 如 $12\div3$, 想"三 (四) 十二", 商是 $4$.
+> **Definition 3.3.5 (乘除关系)**
+> 
+> 乘法和除法有关系, 可以用同一句乘法口诀计算. 如由"三四十二"可算 $3\times4=12$, $4\times3=12$, $12\div3=4$, $12\div4=3$.
 
-## Exercise 162
+## Exercise 1
 
-(Lesson: Lengths on the Body, Example) In daily life, when do you need to know the lengths of parts of your body? When buying you clothes, your height needs to be measured; when buying pants, your waist circumference; when buying a shirt, your shoulder width.
+(Lesson: An Introduction to Division, Do It, Problem 3) Use sticks to stand for bananas and divide them. (1) Divided equally among $2$ monkeys, each gets $\left(\;\;\right)$ sticks. (2) Divided among $3$ monkeys, each gets $\left(\;\;\right)$ sticks. (3) Divided among $6$ monkeys, each gets $\left(\;\;\right)$ sticks.
 
-### Solution to Exercise 162
+### Solution to Exercise 1
 
-By **Definition 3.6.1 (Body Ruler)**, when buying or making clothes you need to measure height, shoulder width, waist circumference, head circumference, and neck circumference; these body measurements decide whether the clothes fit. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, suppose there are $12$ bananas in total: (1) among $2$ monkeys, $6$ each; (2) among $3$ monkeys, $4$ each; (3) among $6$ monkeys, $2$ each. $\blacksquare$
 
-## Exercise 163
+## Exercise 2
 
-(Lesson: Lengths on the Body, Measure) Which body parts' lengths do you want to know? Measure and record. Parts to measure: height, shoulder width, waist circumference, head circumference, neck circumference.
+(Lesson: Practice, Problem 1) Divide $8$ cucumbers equally among $4$ children. Which way below is correct? Draw "$\sqrt{}$" in the correct $\left(\;\;\right)$.
 
-### Solution to Exercise 163
+### Solution to Exercise 2
 
-By **Definition 3.6.1 (Body Ruler)**, working in pairs, use a tape measure to measure height, shoulder width, waist circumference, head circumference, and neck circumference, and fill the values in centimeters into the "measurement result" column of the table. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, only the way where every child gets the same number of cucumbers ($2$) is equal distribution; draw "$\sqrt{}$" in the corresponding parentheses. $\blacksquare$
 
-## Exercise 164
+## Exercise 3
 
-(Lesson: Rulers on the Body, Find Them) Have you seen these ways of measuring length? Which body rulers can you find? Tell everyone.
+(Lesson: Practice, Problem 2) Circle and explain. $14$ ears of corn, $2$ per bag, can fill $\left(\;\;\right)$ bags. If there are $18$ ears of corn, $2$ per bag, can fill $\left(\;\;\right)$ bags.
 
-### Solution to Exercise 164
+### Solution to Exercise 3
 
-By **Definition 3.6.1 (Body Ruler)**, common body rulers include $1$ hand-span, $1$ arm-span, $1$ pace, $1$ foot, $1$ finger, $1$ hand, and $1$ elbow; for example measure the textbook's width in hand-spans, the classroom's length in paces, and the blackboard's length in arm-spans. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, $14$ ears at $2$ per bag: $14\div2=7$ (bags); $18$ ears at $2$ per bag: $18\div2=9$ (bags). $\blacksquare$
 
-## Exercise 165
+## Exercise 4
 
-(Lesson: Measure, Record) Working in pairs, choose suitable rulers to measure your body rulers and record the results (in centimeters or meters).
+(Lesson: Practice, Problem 3) Divide $12$ pinwheels equally into $3$ shares; $\left(\;\;\right)$ per share. Explain how you divided them.
 
-### Solution to Exercise 165
+### Solution to Exercise 4
 
-By **Definition 3.6.1 (Body Ruler)**, use a straight ruler to measure $1$ hand-span, a tape measure to measure $1$ pace and $1$ foot, and a meter stick to measure $1$ arm-span; fill the centimeter value of each body ruler into the "body ruler, measurement result" table. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, you can distribute them $1$ by $1$; after two rounds each share has $4$; or you can directly put $4$ in each share. $4$ per share. $\blacksquare$
 
-## Exercise 166
+## Exercise 5
 
-(Lesson: Use It, Match) When you have no ruler or it is inconvenient to measure with one, which body ruler would you choose? Match them. The length of a winding road — pace; the thickness of an old tree trunk — arm-span (or tape measure); placing the "fu" character — hand-span.
+(Lesson: Practice, Problem 4) (1) Every $3$ cubes make one cuboid; you can make $\left(\;\;\right)$ cuboids. (2) Using all the cubes above, you made $5$ identical cuboids; each cuboid used $\left(\;\;\right)$ cubes.
 
-### Solution to Exercise 166
+### Solution to Exercise 5
 
-By **Definition 3.6.1 (Body Ruler)**, measure a winding road in paces (walk it); measure an old tree trunk's thickness by wrapping an arm-span or tape measure around it; use hand-spans to judge the distance when placing the "fu" character. Choose a different body ruler for different occasions. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, suppose there are $15$ cubes in total: (1) at $3$ per cuboid, you can make $5$; (2) divided equally into $5$ cuboids, each uses $3$. $\blacksquare$
 
-## Exercise 167
+## Exercise 6
 
-(Lesson: Use It, Discover) Compare the body rulers with the lengths of some body parts; what do you find? "My $1$ arm-span is about my height." "My upper arm is about as long as my head."
+(Lesson: Practice, Problem 5) (1) There are $6$ peaches, $3$ per plate, can fill $\left(\;\;\right)$ plates. (2) There are $6$ peaches, divided equally onto $2$ plates, $\left(\;\;\right)$ per plate. (3) Xiaoming divided $12$ peaches as shown below; how did he divide them?
 
-### Solution to Exercise 167
+### Solution to Exercise 6
 
-By **Definition 3.6.2 (One Hand-span)** and **Definition 3.6.3 (One Arm-span)**, comparing you find: a person's $1$ arm-span is about their height; the upper arm is about as long as the head; for people of different ages, the relation between head length and height differs. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, (1) $6$ peaches at $3$ per plate: $2$ plates; (2) $6$ peaches divided equally onto $2$ plates: $3$ per plate; (3) look at the number of peaches in each share in the picture to decide whether it is equal distribution, and explain the way of dividing. $\blacksquare$
 
-## Exercise 168
+## Exercise 7
 
-(Lesson: Little Lecture Hall, Measurement Record) Say: what did you measure? Which body ruler did you use? What did you find? The item measured, the body ruler, the result (how many body-rulers long), and about how many centimeters. What other situations have you met that need a body ruler?
+(Lesson: Practice, Problem 6) There are $\left(\;\;\right)$ little lanterns below in total. If $6$ lanterns are hung on each string, you can hang $\left(\;\;\right)$ strings.
 
-### Solution to Exercise 168
+### Solution to Exercise 7
 
-By **Definition 3.6.1 (Body Ruler)**, for example measure the TV's width in hand-spans, which is $6$ hand-spans, then measure $1$ hand-span as about $15$ centimeters with a ruler, and work out the TV width is about $90$ centimeters; you find that both you and your deskmate measured the blackboard in arm-spans, but because everyone's arm-span differs, the results differ too. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, first count the total lanterns (for example $18$), then circle $6$ per string; you can hang $18\div6=3$ (strings). $\blacksquare$
 
-## Exercise 169
+## Exercise 8
 
-(Lesson: Little Lecture Hall, Head Length and Height) A person's head length and their height have different length relations at different ages. When drawing: $2$ heads tall, $4$ heads tall, $5$ heads tall, $6$ heads tall, $7$ heads tall, $8$ heads tall.
+(Lesson: Practice, Problem 7) Divide the $18$ $\bigcirc$ equally, and discuss the ways with your deskmate.
 
-### Solution to Exercise 169
+### Solution to Exercise 8
 
-By **Definition 3.6.1 (Body Ruler)**, people of different ages are about so many heads tall: a baby about $2$ heads tall, a child about $4\sim6$ heads tall, an adult about $7\sim8$ heads tall. Adjust the figure's proportions in drawing accordingly. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, the $18$ $\bigcirc$ can be divided equally into $2$ shares ($9$ each), $3$ shares ($6$ each), $6$ shares ($3$ each), $9$ shares ($2$ each), $18$ shares ($1$ each), and so on; the way is not unique. $\blacksquare$
 
-## Exercise 170
+## Exercise 9
 
-(Lesson: Body Rulers in Classical Chinese) Spread the hand to know the foot; a single stride crosses a thousand li. $1$ pace $=2$ strides.
+(Lesson: Division, Example, Bamboo Shoots) $12$ bamboo shoots, $4$ on each plate; how many plates can be filled? Say what $12$, $4$, and $3$ in the expression each represent.
 
-### Solution to Exercise 170
+### Solution to Exercise 9
 
-By **Definition 3.6.1 (Body Ruler)**, "spread the hand to know the foot" means measuring length with the outstretched hand (hand-span); in "a stride crosses a thousand li", $1$ stride is one step, and $1$ pace $=2$ strides. Ancient people used their bodies as tools for measuring length. $\blacksquare$
+By **Definition 3.3.2 (The Meaning of Division)** and **Definition 3.3.3 (Names of the Parts of a Division Expression)**, $12-4-4-4=0$, so $3$ plates are filled, written as $12\div4=3$. $12$ is the total number of shoots (dividend), $4$ is the number on each plate (divisor), and $3$ is the number of plates (quotient). $\blacksquare$
 
-## Exercise 171
+## Exercise 10
 
-(Lesson: Growth Portfolio) What gains and feelings did you have from the activity? Write and draw a little. Evaluate your own performance in this activity.
+(Lesson: Division, Do It, Problem 1) Circle and fill in. $2$ per share, divided into $\left(\;\;\right)$ shares, $12\div\_\_=\_\_$; $3$ per share, into $\left(\;\;\right)$ shares, $12\div\_\_=\_\_$; $6$ per share, into $\left(\;\;\right)$ shares, $12\div\_\_=\_\_$.
 
-### Solution to Exercise 171
+### Solution to Exercise 10
 
-By **Definition 3.6.1 (Body Ruler)**, through this activity you learned body rulers such as the hand-span, arm-span, and pace, can choose a suitable body ruler for different occasions, and can analyze measurement data and discover the relations between body rulers and body parts. $\blacksquare$
+By **Definition 3.3.2 (The Meaning of Division)**, taking the total $12$ as an example: $2$ per share makes $6$ shares, $12\div2=6$; $3$ per share makes $4$ shares, $12\div3=4$; $6$ per share makes $2$ shares, $12\div6=2$. $\blacksquare$
+
+## Exercise 11
+
+(Lesson: Division, Do It, Problem 2) Read aloud. $8\div4=2$, $15\div5=3$, $18\div3=6$, $36\div6=6$.
+
+### Solution to Exercise 11
+
+By **Definition 3.3.2 (The Meaning of Division)**, read in order as: $8$ divided by $4$ equals $2$; $15$ divided by $5$ equals $3$; $18$ divided by $3$ equals $6$; $36$ divided by $6$ equals $6$. $\blacksquare$
+
+## Exercise 12
+
+(Lesson: Division, Example, Equal Sharing of Bamboo Shoots) Put $15$ bamboo shoots equally on $3$ plates; how many on each plate?
+
+### Solution to Exercise 12
+
+By **Definition 3.3.2 (The Meaning of Division)** and **Definition 3.3.3 (Names of the Parts of a Division Expression)**, $15-3-3-3-3-3=0$, so $5$ go on each plate, written as $15\div3=5$. $15$ is the dividend, $3$ is the divisor, and $5$ is the quotient. $\blacksquare$
+
+## Exercise 13
+
+(Lesson: Division, Do It, Problem 1) Divide $15$ fish equally among $5$ fish tanks; each tank has $\left(\;\;\right)$ fish. $15\div5=\_\_$.
+
+### Solution to Exercise 13
+
+By **Definition 3.3.2 (The Meaning of Division)**, divide the $15$ fish equally among $5$ tanks: $15\div5=3$, so each tank has $3$ fish. $\blacksquare$
+
+## Exercise 14
+
+(Lesson: Division, Do It, Problem 2) State the dividend, divisor, and quotient in each expression. $12\div4=3$, $10\div5=2$, $15\div3=5$, $24\div6=4$.
+
+### Solution to Exercise 14
+
+By **Definition 3.3.3 (Names of the Parts of a Division Expression)**: in $12\div4=3$, $12$ is the dividend, $4$ the divisor, $3$ the quotient; in $10\div5=2$, $10$ is the dividend, $5$ the divisor, $2$ the quotient; in $15\div3=5$, $15$ is the dividend, $3$ the divisor, $5$ the quotient; in $24\div6=4$, $24$ is the dividend, $6$ the divisor, $4$ the quotient. $\blacksquare$
+
+## Exercise 15
+
+(Lesson: Practice, Problem 1) (1) To make each bear get the same amount, each bear should get $\left(\;\;\right)$ apples. $\_\_\div\_\_=\_\_$. (2) If these apples are bagged $2$ per bag, you can fill $\left(\;\;\right)$ bags. $\_\_\div\_\_=\_\_$.
+
+### Solution to Exercise 15
+
+By **Definition 3.3.2 (The Meaning of Division)**, suppose there are $8$ apples and $4$ bears: (1) each bear gets $8\div4=2$ (apples); (2) bagged $2$ per bag: $8\div2=4$ (bags). $\blacksquare$
+
+## Exercise 16
+
+(Lesson: Practice, Problem 2) $24$ contains $\left(\;\;\right)$ copies of $4$. $9$ contains $3$ copies of $\left(\;\;\right)$.
+
+### Solution to Exercise 16
+
+By **Definition 3.3.2 (The Meaning of Division)**, how many copies of $4$ in $24$: $24\div4=6$, i.e. $6$ copies of $4$; $9$ contains $3$ copies of what number: $9\div3=3$, i.e. $3$ copies of $3$. $\blacksquare$
+
+## Exercise 17
+
+(Lesson: Practice, Problem 3) (1) $\left(\;\;\right)$ pens per box, can fill $\left(\;\;\right)$ boxes. (2) Divided equally into $\left(\;\;\right)$ boxes, each box holds $\left(\;\;\right)$ pens.
+
+### Solution to Exercise 17
+
+By **Definition 3.3.1 (Equal Distribution)** and **Definition 3.3.2 (The Meaning of Division)**, based on the total pens in the picture (for example $12$): (1) $3$ per box fills $4$ boxes, or $4$ per box fills $3$ boxes; (2) divided equally into $2$ boxes, $6$ per box, or into $6$ boxes, $2$ per box. $\blacksquare$

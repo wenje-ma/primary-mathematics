@@ -1,244 +1,209 @@
 # week97
-> **Definition 11.9.1 (鸽巢原理, 抽屉原理)**
+> **Definition 8.2.1 (从不同方向观察物体)**
 > 
-> 把 $m$ 个物体任意分放进 $n$ 个抽屉 ($m> n$), 那么一定有一个抽屉里至少放了 $\lceil \frac{m}{n}\rceil$ 个物体. 计算方法: $m\div n=q\cdots\cdots r$, 当 $r> 0$ 时至少 $q+1$ 个, 当 $r=0$ 时至少 $q$ 个.
+> 从前面, 上面, 左面 (或右面) 观察由小正方体搭成的物体, 看到的平面图形叫作这个方向看到的形. 从不同方向看同一个物体, 看到的图形一般不同; 从同一个位置看不同的物体, 看到的图形也可能相同.
+> **Definition 8.5.4 (Triangle Inequality)**
+> 
+> 三角形任意两边之和大于第三边.
+> **Definition 8.5.5 (三角形按角分类)**
+> 
+> 三角形按角可分为锐角三角形,直角三角形和钝角三角形.
+> **Definition 8.5.7 (Triangle Angle Sum)**
+> 
+> 三角形的内角和等于 180 度.
+> **Definition 8.6.1 (小数加减法)**
+> 
+> 计算小数减法时, 先把小数点对齐, 再按照整数减法的法则进行计算.
+> **Definition 8.7.1 (轴对称图形)**
+> 
+> 轴对称图形中, 对称点到对称轴的距离相等.
+> **Definition 8.7.2 (平移)**
+> 
+> 平移不改变图形的形和大小, 只改变图形的位置.
+> **Definition 8.7.3 (用平移求面积和周长)**
+> 
+> 运用平移的方法可以将不规则图形转化为规则图形来求面积.
+> **Definition 8.8.2 (复式条形统计图)**
+> 
+> 复式条形统计图可以同时表示多组数据, 便于直观比较.
+> **Definition 8.10.1 (鸡兔同笼问题与假设法)**
+> 
+> 解决鸡兔同笼问题时, 先假设全是鸡或全是兔, 再根据实际数量调整, 这种方法叫做假设法.
+> **Definition 8.11.1 (四则运算与运算律)**
+> 
+> 加法交换律 a+b = b+a; 加法结合律 (a+b)+c = a+(b+c); 乘法交换律 ab = ba; 乘法结合律 (ab)c = a(bc); 乘法分配律 (a+b)c = ac+bc.
+> **Definition 8.11.2 (小数意义与加减法)**
+> 
+> 小数的计数单位是十分之一, 百分之一, 千分之一等, 每相邻两个计数单位间的进率是 $10$. 小数加减法要把小数点对齐再计算.
+> **Definition 8.11.3 (总复习: 图形与统计)**
+> 
+> 三角形内角和 $180^\circ$, 任意两边之和大于第三边; 轴对称图形对应点到对称轴距离相等; 平移不改变图形形大小; 复式条形统计图便于比较两组数据; 平均数 $=$ 总数 $\div$ 份数.
+> **Definition 9.1.1 (视图)**
+> 
+> 从某一方向观察一个物体时, 所看到的平面图形叫作物体的一个视图. 按观察方向分为主视图 (从前面看), 俯视图 (从上面看), 左视图 (从左面看) 等.
+> **Definition 9.1.2 (从同一方向观察不同组合体)**
+> 
+> 从同一方向观察不同的组合体, 看到的图形可能相同, 也可能不同; 从不同方向观察同一个组合体, 看到的图形一般也不同.
+> **Definition 9.1.3 (Reconstructing from Views)**
+> 
+> 根据从前面, 上面, 左面三个方向看到的图形, 可以确定由小正方体摆成的组合体的形; 若只给出一个方向的视图, 组合体的摆法往往不唯一.
 
-## Exercise 250
+## Exercise 1
 
-(Lesson: Review and Consolidation, Numbers and Algebra, Problem (1)) A shirt originally cost $125$ yuan and is now reduced by $\frac{1}{5}$. What is its current selling price?
+(Lesson: General Review, Practice 25, Problem 7) Results of the $4\times50\,\mathrm{m}$ relay (seconds): Class 4(1) $8.42,8.67,8.58,8.50$; Class 4(2) $8.40,8.56,8.61,8.39$; Class 4(3) $8.32,8.68,8.70,8.36$; Class 4(4) $8.48,8.54,8.52,8.46$. Compute each class's total.
 
-### Solution to Exercise 250
+### Solution to Exercise 1
 
-$125\times\left(1-\frac{1}{5}\right)=125\times\frac{4}{5}=100$ (yuan). $\blacksquare$
+By **Definition 8.6.1 (Adding Decimals)**: Class 4(1) $8.42+8.67+8.58+8.50=34.17$ seconds; Class 4(2) $8.40+8.56+8.61+8.39=33.96$ seconds; Class 4(3) $8.32+8.68+8.70+8.36=34.06$ seconds; Class 4(4) $8.48+8.54+8.52+8.46=34.00$ seconds. Class 4(2) is fastest. $\blacksquare$
 
-## Exercise 251
+## Exercise 2
 
-(Lesson: Review and Consolidation, Numbers and Algebra, Problem (2)) After a shirt is reduced by $\frac{1}{5}$, its selling price is $100$ yuan. What was its original price?
+(Lesson: General Review, Practice 25, Problem 8) Find the unknown angle in the triangle (given $60^\circ,53^\circ$; $20^\circ$, etc.).
 
-### Solution to Exercise 251
+### Solution to Exercise 2
 
-$100\div\left(1-\frac{1}{5}\right)=100\div\frac{4}{5}=125$ (yuan). $\blacksquare$
+By **Definition 8.5.7 (a triangle's interior-angle sum $180^\circ$)**, $180^\circ-60^\circ-53^\circ=67^\circ$; in a right triangle $180^\circ-90^\circ-20^\circ=70^\circ$. Subtract according to the given angles in the figure. $\blacksquare$
 
-## Exercise 252
+## Exercise 3
 
-(Lesson: Review and Consolidation, Numbers and Algebra, Problem (3)) A shirt originally cost $125$ yuan and is now reduced by $20\%$. What is its current selling price?
+(Lesson: General Review, Practice 25, Problem 9) A triangle has two sides $4\,\mathrm{cm}$ and $7\,\mathrm{cm}$; what might the third side be in centimeters (whole numbers)?
 
-### Solution to Exercise 252
+### Solution to Exercise 3
 
-$125\times\left(1-20\%\right)=125\times0.8=100$ (yuan). $\blacksquare$
+By **Definition 8.5.4 (Relationship Among the Three Sides)**, $7-4< $ third side $< 7+4$, i.e. $3< $ third side $< 11$, so it can be $4,5,6,7,8,9,10\,\mathrm{cm}$. $\blacksquare$
 
-## Exercise 253
+## Exercise 4
 
-(Lesson: Review and Consolidation, Numbers and Algebra, Problem (4)) After a shirt is reduced by $20\%$, its selling price is $100$ yuan. What was its original price?
+(Lesson: General Review, Practice 25, Problem 10) Count how many acute, obtuse and right angles are in the figure, and how many acute, obtuse and right triangles.
 
-### Solution to Exercise 253
+### Solution to Exercise 4
 
-$100\div\left(1-20\%\right)=100\div0.8=125$ (yuan). $\blacksquare$
+By **Definition 8.5.5 (Classification by Angles)**, identify each angle in the figure as acute, right or obtuse, then classify and count each triangle by its three angles. $\blacksquare$
 
-## Exercise 254
+## Exercise 5
 
-(Lesson: Review and Consolidation, Numbers and Algebra, Problem (5)) A shirt sells for $100$ yuan. A pair of trousers costs $1.5$ times as much as the shirt, and its price is also $\frac{5}{6}$ of the price of a pair of leather shoes. What is the selling price of the leather shoes?
+(Lesson: General Review, Practice 25, Problem 11) Look and connect: what shape is seen from the front, from the top and from the left side?
 
-### Solution to Exercise 254
+### Solution to Exercise 5
 
-Trousers $=100\times1.5=150$ yuan; leather shoes $=150\div\frac{5}{6}=180$ (yuan). $\blacksquare$
+By **Definition 8.2.1 (Observing Objects)**, stand in front of, above and to the left of the object in turn, and connect each seen planar figure to the corresponding direction. $\blacksquare$
 
-## Exercise 255
+## Exercise 6
 
-(Lesson: Review and Consolidation, Shapes and Geometry, Park (1)) A circular park has radius $1\,\text{km}$, and there is a monument at its center. How long is the park's outer wall?
+(Lesson: General Review, Practice 25, Problem 12) First complete this axially symmetric figure based on the axis, then draw the figure obtained by translating it $4$ squares to the right.
 
-### Solution to Exercise 255
+### Solution to Exercise 6
 
-$C=2\times3.14\times1=6.28\,\text{km}$. $\blacksquare$
+By **Definition 8.7.1 (Axial Symmetry)**, first complete the other half; then by **Definition 8.7.2 (Translation)**, move each key point of the completed figure $4$ squares to the right and connect them. $\blacksquare$
 
-## Exercise 256
+## Exercise 7
 
-(Lesson: Review and Consolidation, Shapes and Geometry, Park (2)) In what direction is the north gate from the south gate? How far is it from the south gate?
+(Lesson: General Review, Practice 25, Problem 13) What is the area of this figure? (One grid is $1\,\mathrm{cm}$.)
 
-### Solution to Exercise 256
+### Solution to Exercise 7
 
-The north gate is due north of the south gate, and the distance equals the diameter $2\,\text{km}$. $\blacksquare$
+By **Definition 8.7.3 (Finding Area by Translation)**, translate the protruding parts into the recessed parts to transform the figure into a rectangle, and compute the area by length times width. $\blacksquare$
 
-## Exercise 257
+## Exercise 8
 
-(Lesson: Review and Consolidation, Shapes and Geometry, Park (3)) Inside the park there is a circular lake of radius $0.2\,\text{km}$. What is the land area of the park in square kilometers?
+(Lesson: General Review, Practice 25, Problem 14) Numbers of ordinary and e-mails: in $1990$ $20$ vs $0$, in $2000$ $18$ vs $6$, in $2010$ $10$ vs $20$, in $2020$ $1$ vs $45$. Complete the double bar chart. (1) In which year were ordinary letters the most? In which year were e-mails the most? What is the trend?
 
-### Solution to Exercise 257
+### Solution to Exercise 8
 
-$3.14\times\left(1^2-0.2^2\right)=3.14\times0.96=3.0144\,\text{km}^2$. $\blacksquare$
+Draw by **Definition 8.8.2 (Double Bar Chart)**. (1) Ordinary letters were most in $1990$ at $20$, and e-mails most in $2020$ at $45$. Trend: ordinary letters decrease year by year while e-mails increase year by year. $\blacksquare$
 
-## Exercise 258
+## Exercise 9
 
-(Lesson: Review and Consolidation, Shapes and Geometry, Park (4)) The concrete road between two adjacent gates of the park is about $1.41\,\text{km}$ long. What part of the circle is this road? Into how many equal parts do the four gates divide the circle?
+(Lesson: General Review, Practice 25, Problem 15) A cash journal: opening balance $32.00$ yuan, office fee received $884.00$ yuan, then daily expenditures: chalk $75.00$, ink $5.20$, medicine $145.80$, sports $136.70$, office $132.80$, sanitation $115.30$, utilities $132.00$ yuan. Compute the closing balance and the monthly totals.
 
-### Solution to Exercise 258
+### Solution to Exercise 9
 
-The road is the chord between two adjacent gates; the four gates lie on the circle with equal spacing, dividing the circle into $4$ equal parts. $\blacksquare$
+By **Definition 8.6.1 (Decimal Addition and Subtraction)**, balance: each entry $+$ income $-$ expense: $32+884=916$, then successively subtract $75,5.2,145.8,136.7,132.8,115.3,132$; monthly income total $884$ yuan, expense total $75+5.2+145.8+136.7+132.8+115.3+132=742.8$ (yuan). $\blacksquare$
 
-## Exercise 259
+## Exercise 10
 
-(Lesson: Review and Consolidation, Statistics, Meal-plan Satisfaction) Survey $1000$ students and teachers ($600$ in grades $1\sim3$, $400$ in grades $4\sim6$) on their satisfaction with three meal plans A, B, and C. A: $60\%$, $50\%$; B: $55\%$, $70\%$; C: $65\%$, $55\%$. Which plan has satisfaction below $60\%$ and needs to be adjusted?
+(Lesson: General Review, Practice 25, Problem 16) Xiao Hua's long-jump results: $170,168,171,167,169\,\mathrm{cm}$. What should her competition result be? Is using the mean of the $5$ tries appropriate?
 
-### Solution to Exercise 259
+### Solution to Exercise 10
 
-Plan A has total satisfied $600\times60\%+400\times50\%=360+200=560$, i.e. $56\%< 60\%$; B $=330+280=610$, i.e. $61\%$; C $=390+220=610$, i.e. $61\%$. Thus plan A needs to be adjusted. $\blacksquare$
+A long-jump competition takes the farthest try as the result, which should be $171\,\mathrm{cm}$. Using the $5$-try mean is inappropriate, because the competition rule takes the best try and the mean does not reflect her farthest level. $\blacksquare$
 
-## Exercise 260
+## Exercise 11
 
-(Lesson: Exercise 9, Review and Consolidation, Problem 1) Parcel locker numbering: this package is at B5; circle its location on the diagram.
+(Lesson: General Review, Practice 25, Problem 17) Divide an equilateral triangle into $4$ equal small equilateral triangles. Draw it in the figure.
 
-### Solution to Exercise 260
+### Solution to Exercise 11
 
-First find the row for the letter $B$, then find the column for the number $5$; the cell where they cross is B5. $\blacksquare$
+Join the midpoints of the three sides, which divides it into $4$ identical small equilateral triangles. $\blacksquare$
 
-## Exercise 261
+## Exercise 12
 
-(Lesson: Exercise 9, Review and Consolidation, Problem 2) Two students are playing Gomoku; each move of the white stones is given by an ordered pair. State the position of each white move.
+(Lesson: General Review, Practice 25, Problem 18) Four book prices: $7.39$ yuan, $6.95$ yuan, $8.40$ yuan, $7.88$ yuan. (1) Li Yi has $15$ yuan; which two books can she buy? (2) Zhang Bo pays $16$ yuan; which two books might he have bought?
 
-### Solution to Exercise 261
+### Solution to Exercise 12
 
-Reading the columns by letter and the rows by number, read off the ordered pair of each white move in turn, such as (H,8), (I,9), and so on. $\blacksquare$
+By **Definition 8.6.1 (Adding Decimals)**: (1) two books totaling no more than $15$ yuan: $7.39+6.95=14.34$ yuan, $6.95+7.88=14.83$ yuan, etc. (2) any two books totaling no more than $16$ yuan, e.g. $7.39+8.40=15.79$ yuan, $7.39+7.88=15.27$ yuan, etc. $\blacksquare$
 
-## Exercise 262
+## Exercise 13
 
-(Lesson: Exercise 9, Review and Consolidation, Problem 3) Compute: $15\times\frac{4}{5}$; $15\div\frac{3}{4}$; $\frac{25}{40}\times\frac{24}{12}$; $\frac{16}{15}\times\frac{25}{24}$.
+(Lesson: General Review, Practice 25, Problem 19) Extracurricular interest groups: the science group has $5$ per group and the arts group $3$ per group; there are $37$ students divided exactly into $9$ groups. How many students are in the science group and the arts group?
 
-### Solution to Exercise 262
+### Solution to Exercise 13
 
-$15\times\frac{4}{5}=12$; $15\div\frac{3}{4}=20$; $\frac{25}{40}\times\frac{24}{12}=\frac{5}{4}=1.25$; $\frac{16}{15}\times\frac{25}{24}=\frac{10}{9}$. $\blacksquare$
+By **Definition 8.10.1 (Assumption Method)**, assume all are arts groups: $9\times3=27$ students, short by $37-27=10$; each science group has $5-3=2$ more students, so science groups $10\div2=5$ groups ($25$ students) and arts groups $9-5=4$ groups ($12$ students). $\blacksquare$
 
-## Exercise 263
+## Exercise 14
 
-(Lesson: Exercise 9, Review and Consolidation, Problem 4) The ocean area on Earth's surface is about $36000$ ten-thousand square kilometers, accounting for $\frac{71}{100}$ of the total surface area. About what is the total surface area of the Earth in ten-thousand square kilometers?
+(Lesson: General Review, Practice 25, Problem 20) Fill the $\square$ in the vertical calculation with suitable numbers.
 
-### Solution to Exercise 263
+### Solution to Exercise 14
 
-$36000\div\frac{71}{100}\approx50704$ (ten-thousand square kilometers). $\blacksquare$
+By **Definition 8.6.1 (vertical decimal addition and subtraction)**, work backward from the known last digit, fill each box digit by digit, and watch for carrying and borrowing. $\blacksquare$
 
-## Exercise 264
+## Exercise 15
 
-(Lesson: Exercise 9, Review and Consolidation, Problem 5) Compute the following, using shortcut methods where possible: $\frac{5}{9}\times\frac{3}{4}+\frac{5}{9}\times\frac{1}{4}$; $3.7\times\frac{6}{13}+1.3\div\frac{13}{6}$; $0.5\times\left(\frac{3}{5}+\frac{6}{25}\right)$.
+(Lesson: Observing Simple Combinations, Example 1) Build a combination from $4$ identical small cubes, with every cube in the combination sharing at least one face with another cube. How many different arrangements do you have?
 
-### Solution to Exercise 264
+### Solution to Exercise 15
 
-$\frac{5}{9}\times\left(\frac{3}{4}+\frac{1}{4}\right)=\frac{5}{9}$; $\left(3.7+1.3\right)\times\frac{6}{13}=5\times\frac{6}{13}=\frac{30}{13}$; $0.5\times\frac{21}{25}=\frac{21}{50}$. $\blacksquare$
+First line up the $4$ small cubes in a row, then stack one on top of another or offset them front and back, giving many different arrangements, as long as adjacent cubes share at least one face. $\blacksquare$
 
-## Exercise 265
+## Exercise 16
 
-(Lesson: Exercise 9, Review and Consolidation, Problem 6) Three students are jumping rope. Xiaoming jumped $120$ times; Xiaoqiang jumped $\frac{5}{8}$ as many times as Xiaoming, and Xiaoliang jumped $\frac{2}{3}$ as many times as Xiaoqiang. How many times did Xiaoliang jump?
+(Lesson: Observing Simple Combinations, Try It, Problem 1) The figures below are combinations built by Xiao Hong and Xiao Liang; which is the figure seen from the front, from the top and from the left? Draw the connections.
 
-### Solution to Exercise 265
+### Solution to Exercise 16
 
-Xiaoqiang $=120\times\frac{5}{8}=75$; Xiaoliang $=75\times\frac{2}{3}=50$ (times). $\blacksquare$
+By **Definition 9.1.1 (Views)**, observe the two combinations from the front, top and left, and connect each seen planar figure to the corresponding direction. $\blacksquare$
 
-## Exercise 266
+## Exercise 17
 
-(Lesson: Exercise 9, Review and Consolidation, Problem 7) A bullet train travels at $300\,\text{km/h}$. A car travels at $\frac{1}{3}$ of the bullet train's speed, which is also $\frac{1}{9}$ of the speed of a jet plane. What is the speed of the jet plane?
+(Lesson: Observing Simple Combinations, Example 2) Build and look: there are $3$ different combinations; are the figures seen from above the same? What about from the left and front?
 
-### Solution to Exercise 266
+### Solution to Exercise 17
 
-Car $=300\times\frac{1}{3}=100\,\text{km/h}$; plane $=100\div\frac{1}{9}=900\,\text{km/h}$. $\blacksquare$
+By **Definition 9.1.2 (Observing Different Combinations from the Same Direction)**, the three combinations look the same from above and the same from the left, but not the same from the front. $\blacksquare$
 
-## Exercise 267
+## Exercise 18
 
-(Lesson: Exercise 9, Review and Consolidation, Problem 8) After drying, $500\,\text{g}$ of wheat weighs $428\,\text{g}$. Compute the drying rate and the moisture content of this wheat.
+(Lesson: Observing Simple Combinations, Try It, Problem 2) Build and look: among these $3$ combinations, from which direction are the seen figures the same, and from which direction are they different?
 
-### Solution to Exercise 267
+### Solution to Exercise 18
 
-Drying rate $=428\div500\times100\%=85.6\%$; moisture content $=\left(500-428\right)\div500\times100\%=14.4\%$. $\blacksquare$
+Actually build and observe: if the projections of the three combinations coincide in a direction, the seen figure is the same there; otherwise it is different. Judge according to the given combinations. $\blacksquare$
 
-## Exercise 268
+## Exercise 19
 
-(Lesson: Exercise 9, Comprehensive Application, Problem 9) (1) In places above $70^{\circ}$ north latitude, there are about $2$ consecutive months a year without night. What percentage of the year is the time without night? (2) In Stockholm in July, daily sunshine accounts for about $75\%$ of the day. About how many hours of sunshine are there each day?
+(Lesson: Observing Simple Combinations, Example 3) Build the combination as required: (1) from the front, see two small squares of $1\times2$ side by side; (2) the front, top and left views are all given; build this combination.
 
-### Solution to Exercise 268
+### Solution to Exercise 19
 
-(1) $2\div12\approx16.7\%$; (2) $24\times75\%=18$ (hours). $\blacksquare$
+By **Definition 9.1.3 (Reconstructing a Combination from Its Views)**, first build the basic shape from the front view, then adjust the cubes layer by layer according to the top and left views until all three views meet the requirements. $\blacksquare$
 
-## Exercise 269
+## Exercise 20
 
-(Lesson: Exercise 9, Comprehensive Application, Problem 10) Two identical squares are put together to form a rectangle. What percentage of the rectangle's area is the shaded part?
+(Lesson: Observing Simple Combinations, Try It, Problem 3) Below are the figures seen from the front, top and left of the same combination; please build it.
 
-### Solution to Exercise 269
+### Solution to Exercise 20
 
-Let each square have side length $1$; the shaded part is a triangle of area $\frac{1}{2}$, and the rectangle has area $2$, so it accounts for $\frac{0.5}{2}=25\%$. $\blacksquare$
-
-## Exercise 270
-
-(Lesson: Exercise 9, Comprehensive Application, Problem 11) An isosceles right triangle $ABC$ has $A\left(5,5\right)$, $B\left(2,2\right)$, $C\left(5,2\right)$. Draw this triangle. Where else can vertex $C$ be?
-
-### Solution to Exercise 270
-
-Plot the points $A$, $B$, and $C$ on grid paper and join them into the right triangle. Since $AB$ can serve as the hypotenuse, the other possible position of $C$ is $\left(2,5\right)$. $\blacksquare$
-
-## Exercise 271
-
-(Lesson: Exercise 9, Comprehensive Application, Problem 12) A wire of length $84\,\text{cm}$ is just enough to form a rectangle, whose width is $\frac{2}{5}$ of its length. What are the length and width?
-
-### Solution to Exercise 271
-
-Let the length be $x$ and the width $\frac{2}{5}x$. Then $2\left(x+\frac{2}{5}x\right)=84$, $\frac{7}{5}x=42$, $x=30\,\text{cm}$; the width $=12\,\text{cm}$. $\blacksquare$
-
-## Exercise 272
-
-(Lesson: Exercise 9, Comprehensive Application, Problem 13) Teacher Wang wants to save a $1.8\,\text{GB}$ file. Flash drive A: total $8\,\text{GB}$, used $6.4\,\text{GB}$; flash drive B: total $16\,\text{GB}$, $70\%$ used. Which drive is suitable? Copying to $15\%$ took half a minute; how much longer will it take?
-
-### Solution to Exercise 272
-
-Drive A has $8-6.4=1.6\,\text{GB}< 1.8$ left; drive B has $16\times30\%=4.8\,\text{GB}> 1.8$ left, so choose B. Copying the whole file takes $0.5\div15\%=\frac{10}{3}$ minutes, and the remaining time is $\frac{10}{3}\times\left(1-15\%\right)=\frac{17}{6}\approx2.83$ minutes. $\blacksquare$
-
-## Exercise 273
-
-(Lesson: Exercise 9, Comprehensive Application, Problem 14) Measure the relevant angles in the direction diagram, and describe the relative positions and distances of Little Bear, Little Elephant, Little Deer, and Little Monkey (on the map, $1$ segment represents $100\,\text{m}$).
-
-### Solution to Exercise 273
-
-Use a protractor to measure the bearing angles, use a ruler to measure the map distance, and multiply by $100\,\text{m}$ to get the actual distance; for example, Little Monkey is $200\,\text{m}$ from Little Bear in the direction $30^{\circ}$ east of north. $\blacksquare$
-
-## Exercise 274
-
-(Lesson: Exercise 9, Comprehensive Application, Problem 15) Three identical square sheets of iron, each of side $1.8\,\text{m}$, are cut into: one large circle, four medium circles, and nine small circles. (1) What is the circumference of each circle? (2) Which sheet leaves the most scrap?
-
-### Solution to Exercise 274
-
-Large circle: $d=1.8$, $C=5.652\,\text{m}$; medium circle: $d=0.9$, $C=2.826\,\text{m}$; small circle: $d=0.6$, $C=1.884\,\text{m}$. The total area cut away from the three sheets is the same (all $\pi\times0.9^2$), so the remaining scrap is the same amount. $\blacksquare$
-
-## Exercise 275
-
-(Lesson: Exercise 9, Comprehensive Application, Problem 16) Three vertices of a parallelogram are $A\left(6,5\right)$, $B\left(8,8\right)$, $C\left(12,8\right)$. Find the fourth vertex $D$. How many parallelograms can be drawn?
-
-### Solution to Exercise 275
-
-Three possibilities, taking $AB$, $AC$, and $BC$ as the diagonal respectively: $D=\left(10,5\right)$, or $\left(16,11\right)$, or $\left(2,5\right)$. Altogether $3$ parallelograms. $\blacksquare$
-
-## Exercise 276
-
-(Lesson: Exercise 9, Extension and Exploration, Problem 17) Look up data and compute China's household-waste harmless-treatment rate from 2014$\sim$2021, namely $=$ amount harmlessly treated $\div$ amount collected $\times100\%$, and analyze the trend in the number of treatment plants.
-
-### Solution to Exercise 276
-
-For each year, divide the amount harmlessly treated by the amount collected; for example, in 2014, $16394\div17860\approx91.8\%$. The number of treatment plants rose year by year from $765$ in 2013 to about $1400$ in 2021, showing that the country is paying increasing attention to the harmless treatment of household waste. $\blacksquare$
-
-## Exercise 277
-
-(Lesson: Math Wonderland, Pigeonhole Problems, Example 1) $7$ pigeons fly into $3$ pigeonholes; there is always at least one pigeonhole containing at least $3$ pigeons. Why?
-
-### Solution to Exercise 277
-
-By **Definition 11.9.1 (Pigeonhole Principle, Drawer Principle)**, $7\div3=2\cdots\cdots1$: on average each hole gets $2$ pigeons with $1$ left over; whichever hole this last pigeon enters, that hole has at least $3$. $\blacksquare$
-
-## Exercise 278
-
-(Lesson: Math Wonderland, Pigeonhole Problems, Challenge Yourself, Problem 1) Pick $13$ students at random; at least how many of them share the same Chinese zodiac sign? Why?
-
-### Solution to Exercise 278
-
-There are $12$ zodiac signs; the $13$ people are the pigeons and the $12$ signs are the holes. $13\div12=1\cdots\cdots1$; by **Definition 11.9.1 (Pigeonhole Principle, Drawer Principle)**, at least $2$ people share the same sign. $\blacksquare$
-
-## Exercise 279
-
-(Lesson: Math Wonderland, Pigeonhole Problems, Challenge Yourself, Problem 2) Given any $3$ different natural numbers, there must be $2$ whose sum is even. Explain why.
-
-### Solution to Exercise 279
-
-Natural numbers fall into $2$ classes by parity; the $3$ numbers are the pigeons and the $2$ classes are the holes. $3\div2=1\cdots\cdots1$, so at least $2$ numbers are both odd or both even, and their sum must be even. $\blacksquare$
+By **Definition 9.1.3 (Reconstructing a Combination from Its Views)**, first fix the bottom-layer cubes by the top view, then determine the number of stacked cubes in each column by the front and left views, and build layer by layer. $\blacksquare$

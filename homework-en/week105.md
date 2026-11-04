@@ -1,180 +1,144 @@
 # week105
-> **Definition 12.1.1 (Positive and Negative Numbers)**
+> **Definition 9.5.1 (用字母表示数)**
 > 
-> 像 3, 1.8%, 3.5 这样大于 0 的数叫做正数; 像 -3, -2.7%, -4.5 这样在正数前加上负号的数叫做负数.
-> **Definition 12.2.1 (折扣)**
+> 参见教材相应章节关于此概念的论述.
+> **Definition 9.5.2 (含有字母式子的书写)**
 > 
-> 商品按原价的百分之几出售, 通常称打几折出售. 几折就表示十分之几, 也就是百分之几十.
-> **Definition 12.5.3 (正比例)**
+> 数字与字母相乘时省略乘号, 数字写在字母前面, 如 $m\times6=6m$; $1$ 与字母相乘时 $1$ 省略不写; 字母与字母相乘时乘号可记作"$\cdot$"或省略; 两个相同字母相乘写作 $a^2$, 读作"a 的平方".
+> **Definition 9.5.3 (用字母表示运算律和公式)**
 > 
-> 两种相关联的量, 一种量变化, 另一种量也随着变化, 如果这两种量中相对应两个数的比值一定, 这两种量叫做成正比例的量.
-> **Definition 12.5.4 (反比例)**
+> 加法交换律 $a+b=b+a$; 加法结合律 $\left(a+b\right)+c=a+\left(b+c\right)$; 乘法交换律 $ab=ba$; 乘法结合律 $\left(ab\right)c=a\left(bc\right)$; 乘法分配律 $\left(a+b\right)c=ac+bc$. 正方形周长 $C=4a$, 面积 $S=a^2$; 长方形周长 $C=2\left(a+b\right)$, 面积 $S=ab$.
+> **Definition 9.5.4 (等式的性质)**
 > 
-> 两种相关联的量, 一种量变化, 另一种量也随着变化, 如果这两种量中相对应两个数的乘积一定, 这两种量叫做成反比例的量.
-> **Definition 12.5.5 (比例尺)**
+> 如果 $a=b$, 那么 $a+c=b+c$, $a-c=b-c$, $ac=bc$, $a\div c=b\div c$ ($c\neq0$). 利用等式的性质可以求出等式中的未知数.
+> **Definition 9.5.5 (用字母表示数量关系并代入求值)**
 > 
-> 一幅图的图上距离和实际距离的比, 叫做这幅图的比例尺. 比例尺 = 图上距离 / 实际距离.
-> **Definition 12.8.1 (数的分类与意义)**
-> 
-> 整数包括正整数, $0$, 负整数; 自然数是正整数和 $0$. 分数包括有限小数和无限循环小数. $0$ 既不是正数也不是负数. 把单位 $1$ 平均分成若干份, 表示这样一份或几份的数叫分数; 表示一个数是另一个数的百分之几的数叫百分数.
-> **Definition 12.8.2 (运算律)**
-> 
-> 加法交换律 $a+b=b+a$; 加法结合律 $\left(a+b\right)+c=a+\left(b+c\right)$; 乘法交换律 $ab=ba$; 乘法结合律 $\left(ab\right)c=a\left(bc\right)$; 乘法分配律 $\left(a+b\right)c=ac+bc$. 利用运算律可使计算简便.
-> **Definition 12.8.3 (方程)**
-> 
-> 含有未知数的等式叫方程. 等式两边加上或减去同一个数, 左右两边仍然相等; 等式两边乘同一个数, 或除以同一个不为 $0$ 的数, 左右两边仍然相等.
-> **Definition 12.8.4 (常见图形周长面积体积公式)**
-> 
-> 长方形 $C=2\left(a+b\right), S=ab$; 正方形 $C=4a, S=a^{2}$; 平行四边形 $S=ah$; 三角形 $S=\frac{1}{2}ah$; 梯形 $S=\frac{1}{2}\left(a+b\right)h$; 圆 $C=2\pi r, S=\pi r^{2}$; 长方体 $V=abh$; 正方体 $V=a^{3}$; 圆柱 $V=Sh$; 圆锥 $V=\frac{1}{3}Sh$.
+> 用含有字母的式子表示实际问题中的数量关系, 再把字母取具体数值代入式子计算结果.
 
-## Exercise 105
+## Exercise 1
 
-(Lesson: Exercise 14, Problem 1) Fill in the blanks. (1) The highest temperature $49.7\,^{\circ}\mathrm{C}$ is recorded as $\_\_$, and the lowest temperature, $52.3\,^{\circ}\mathrm{C}$ below zero, is recorded as $\_\_$. (2) If $a\div b=c$ ($a,b,c$ are integers, $b\neq0$), then the greatest common factor of $a$ and $b$ is $\_\_$, and the least common multiple is $\_\_$. (3) A commodity is sold at 30% off; "30% off" means the current price is $\_\_\%$ of the original price, and on a $100$-yuan original price you pay $\_\_$ yuan less.
+(Lesson: Using Letters to Stand for Numbers, Practice 11, Integrated Use, Problem 2) Let $c$ be total price, $a$ unit price, $n$ quantity; write the relation among $c,a,n$. A table is $120$ yuan and a chair $m$ yuan; how much for a set? If $m=80$, how much for a set?
 
-### Solution to Exercise 105
+### Solution to Exercise 1
 
-By **Definition 12.1.1 (Positive and Negative Numbers)**, **Definition 12.8.1 (Classification and Meaning of Numbers)**, and **Definition 12.2.1 (Discount)**. (1) Above zero is recorded as positive: $+49.7\,^{\circ}\mathrm{C}$; below zero as negative: $-52.3\,^{\circ}\mathrm{C}$. (2) Since $a$ is a multiple of $b$, the greatest common factor is $b$ and the least common multiple is $a$. (3) 30% off means $70\%$; you pay $100\times\left(1-70\%\right)=30$ yuan less. $\blacksquare$
+$c=an$, $a=c\div n$, $n=c\div a$. A set of table and chairs $\left(120+m\right)$ yuan. When $m=80$, $120+80=200$ yuan. $\blacksquare$
 
-## Exercise 106
+## Exercise 2
 
-(Lesson: Exercise 14, Problem 4) Using the digits $2, 3, 4, 5$, how many two-digit numbers with no repeated digits can be formed? Among these two-digit numbers, which are odd and which are even? Which are multiples of $2, 3, 5$?
+(Lesson: Using Letters to Stand for Numbers, Practice 11, Integrated Use, Problem 3) Fill by the operation laws: $a+\left(2+c\right)=\left(\_\_+\_\_\right)+\_\_$; $a\cdot b\cdot4=\_\_\cdot\left(\_\_\cdot\_\_\right)$; $3x+5x=\left(\_\_+\_\_\right)\cdot\_\_$; $4\left(x+3\right)=\_\_\cdot\_\_+\_\_\cdot\_\_$.
 
-### Solution to Exercise 106
+### Solution to Exercise 2
 
-The tens digit has $4$ choices and the units digit has $3$ left, giving $4\times3=12$ two-digit numbers. The odd ones end in $3$ or $5$: $23, 43, 53, 25, 35, 45$; the even ones end in $2$ or $4$: $32, 42, 52, 24, 34, 54$. The multiples of $2$ are the even ones above; the multiples of $3$, whose digit sum is a multiple of $3$, are $24, 42, 45, 54$; the multiples of $5$, ending in $0$ or $5$, are $25, 35, 45$. $\blacksquare$
+By **Definition 9.5.3 (用字母表示运算律和公式)**: $a+\left(2+c\right)=\left(a+2\right)+c$; $a\cdot b\cdot4=a\cdot\left(b\cdot4\right)$; $3x+5x=\left(3+5\right)\cdot x=8x$; $4\left(x+3\right)=4\cdot x+4\cdot3=4x+12$. $\blacksquare$
 
-## Exercise 107
+## Exercise 3
 
-(Lesson: Exercise 15, Problem 1) Mental arithmetic: $27+68$; $910-540$; $18\times40$; $910\div70$; $78-0.8$; $6.3\div0.1$; $36\times25\%$; $3.48+6.52$; $1.02-0.43$; $0.25\times0.8$.
+(Lesson: Using Letters to Stand for Numbers, Practice 11, Extension and Improvement) A rectangle is split into two smaller rectangles of widths $a$ and $b$, total length $c$. (1) Which part has area $ac$? (2) Which part is $bc$? (3) What is the whole area?
 
-### Solution to Exercise 107
+### Solution to Exercise 3
 
-$27+68=95$; $910-540=370$; $18\times40=720$; $910\div70=13$; $78-0.8=77.2$; $6.3\div0.1=63$; $36\times25\%=9$; $3.48+6.52=10$; $1.02-0.43=0.59$; $0.25\times0.8=0.2$. $\blacksquare$
+By **Definition 9.5.3 (用字母表示运算律和公式)**, area $=$ length $\times$ width. The width-$a$ part has area $ac$, the width-$b$ part area $bc$, and the whole area $\left(a+b\right)c=ac+bc$. $\blacksquare$
 
-## Exercise 108
+## Exercise 4
 
-(Lesson: Exercise 15, Problem 5) Compute using shortcuts: $59\times101$; $12.7-3.6-5.4$; $12.5\times8\div12.5\times8$.
+(Lesson: Using Letters to Stand for Numbers, Example 4) $1$ table seats $4$, $2$ joined tables seat $6$, $3$ seat $8$. $m$ joined tables seat $n$ people; what is the relation between $n$ and $m$? When $m=15$, what is $n$? When $n=52$, what is $m$?
 
-### Solution to Exercise 108
+### Solution to Exercise 4
 
-By **Definition 12.8.2 (Laws of Operation)**. $59\times101=59\times\left(100+1\right)=5900+59=5959$. $12.7-3.6-5.4=12.7-\left(3.6+5.4\right)=12.7-9=3.7$. $12.5\times8\div12.5\times8=\left(12.5\div12.5\right)\times\left(8\times8\right)=1\times64=64$. $\blacksquare$
+By **Definition 9.5.1 (用字母表示数)**, the two ends seat a fixed $2$, and adding $1$ more table seats $2$ more, so $n=2+2m$. When $m=15$, $n=2+30=32$. When $n=52$, $2+2m=52$, $m=25$ tables. $\blacksquare$
 
-## Exercise 109
+## Exercise 5
 
-(Lesson: Exercise 15, Problem 8) The Grade 6 office buys a pack of white paper, planning to use $25$ sheets per day, which lasts $20$ days. Actually it uses only $20$ sheets per day. How many days longer does it actually last than planned?
+(Lesson: Using Letters to Stand for Numbers, Example 5) A train averages $320$ km/h; from A to B takes $a$ hours and B to C $b$ hours, with A-to-C distance $s$ km. Express $s$ in terms of $a,b$; when $a=2,b=3$, what is $s$? When $s=2240,a=3$, what is $b$?
 
-### Solution to Exercise 109
+### Solution to Exercise 5
 
-By **Definition 12.5.4 (Inverse Proportion)**, the total number of sheets $=25\times20=500$. It actually lasts $500\div20=25$ days, which is $25-20=5$ days longer than planned. $\blacksquare$
+By **Definition 9.5.1 (用字母表示数)** and **Definition 9.5.3 (用字母表示运算律和公式)**, $s=320\left(a+b\right)$. When $a=2,b=3$, $s=320\times5=1600$ km. When $s=2240,a=3$, $320\left(3+b\right)=2240$, $3+b=7$, $b=4$. $\blacksquare$
 
-## Exercise 110
+## Exercise 6
 
-(Lesson: Exercise 15, Problem 10) A cooking oil originally sold for $12$ yuan per liter, and the unit price now rises by $25\%$. With the money that used to buy $10\,\mathrm{L}$, how many liters can be bought now?
+(Lesson: Using Letters to Stand for Numbers, Try It, Problem 5) Find the pattern and write the $n$th term: (1) $1,2,3,4,\cdots$; (2) $2,4,6,8,\cdots$; (3) $1,3,5,7,\cdots$; (4) $1,4,9,16,\cdots$.
 
-### Solution to Exercise 110
+### Solution to Exercise 6
 
-The money for $10\,\mathrm{L}$ was $=12\times10=120$ yuan. The new price $=12\times\left(1+25\%\right)=15$ yuan per liter. Now $120\div15=8\,\mathrm{L}$ can be bought. $\blacksquare$
+By **Definition 9.5.1 (用字母表示数)**: (1) the $n$th term is $n$. (2) the $n$th term is $2n$. (3) the $n$th term is $2n-1$. (4) the $n$th term is $n^2$. $\blacksquare$
 
-## Exercise 111
+## Exercise 7
 
-(Lesson: Exercise 16, Problem 1) The school buys $9$ soccer balls at $a$ yuan each, and $b$ basketballs at $58$ yuan each. What does $9a$ represent? What does $58b$ represent? What does $9a+58b$ represent? If $a=45, b=6$, what is $9a+58b$?
+(Lesson: Using Letters to Stand for Numbers, Try It, Problem 6) Uncle Zhang delivers $75$ papers a day and Uncle Wang $60$, at $x$ yuan each. (1) Together how much per day? How much more does Zhang get than Wang? (2) When $x=3$, how much more does Zhang get?
 
-### Solution to Exercise 111
+### Solution to Exercise 7
 
-By **Definition 12.8.3 (Equations)**, where letters stand for numbers. $9a$ is the total cost of buying $9$ soccer balls; $58b$ is the total cost of buying $b$ basketballs; $9a+58b$ is the total cost of the soccer balls and basketballs. Substituting $a=45, b=6$: $9\times45+58\times6=405+348=753$ yuan. $\blacksquare$
+(1) Together $75x+60x=135x$ yuan; Zhang gets $\left(75-60\right)x=15x$ more. (2) When $x=3$, $15\times3=45$ yuan. $\blacksquare$
 
-## Exercise 112
+## Exercise 8
 
-(Lesson: Exercise 16, Problem 3) Solve the equations: $x-0.25=\frac{1}{4}$; $4+0.7x=102$.
+(Lesson: Using Letters to Stand for Numbers, Try It, Problem 7) Two teams A and B dig a tunnel from both ends, A advancing $a$ m/day and B $b$ m/day, finishing in $150$ days. (1) How long is the tunnel? (2) When $a=10,b=9$, how long is it?
 
-### Solution to Exercise 112
+### Solution to Exercise 8
 
-By **Definition 12.8.3 (Equations)**. $x-0.25=\frac{1}{4}$, so $x=0.25+0.25=0.5$. $4+0.7x=102$, so $0.7x=98$, and $x=140$. $\blacksquare$
+(1) Tunnel length $150\left(a+b\right)$ m. (2) $150\times\left(10+9\right)=150\times19=2850$ m. $\blacksquare$
 
-## Exercise 113
+## Exercise 9
 
-(Lesson: Exercise 16, Problem 6) Using sticks to make hexagons: making $1$ uses $6$ sticks, making $2$ uses $11$ sticks, making $3$ uses $16$ sticks. How many sticks are needed to make $n$ hexagons? And to make $150$?
+(Lesson: Using Letters to Stand for Numbers, Practice 12, Review and Consolidation, Problem 1) Row $1$ has $2$ disks, row $2$ has $4$, and so on; how many in row $n$? When the last row has $100$, how many rows are there?
 
-### Solution to Exercise 113
+### Solution to Exercise 9
 
-Each additional hexagon adds $5$ sticks. Making $n$ hexagons needs $6+5\left(n-1\right)=5n+1$ sticks. Making $150$ needs $5\times150+1=751$ sticks. $\blacksquare$
+By **Definition 9.5.1 (用字母表示数)**, row $n$ has $2n$ disks. When $2n=100$, $n=50$ rows. $\blacksquare$
 
-## Exercise 114
+## Exercise 10
 
-(Lesson: Exercise 16, Problem 8) A landscaping team planted $240$ Chinese roses; if it planted $16$ more, that would be $2$ times the number of lilac bushes. How many lilac bushes did the team plant? (Use an equation.)
+(Lesson: Using Letters to Stand for Numbers, Practice 12, Review and Consolidation, Problem 2) An electric van driving $100$ km costs $36$ yuan in charging and $200$ yuan in loading/unloading. Cities A and B are $a$ km apart; what is the total charging plus handling cost from A to B?
 
-### Solution to Exercise 114
+### Solution to Exercise 10
 
-By **Definition 12.8.3 (Equations)**, let the lilac bushes be $x$. Then $2x=240+16$, $2x=256$, and $x=128$ bushes. $\blacksquare$
+Charging per km $36\div100=0.36$ yuan, total cost $\left(0.36a+200\right)$ yuan. $\blacksquare$
 
-## Exercise 115
+## Exercise 11
 
-(Lesson: Exercise 16, Problem 11) The Three Gorges Reservoir has a capacity of $393$ hundred-million cubic meters, which is $0.75$ hundred-million cubic meters less than $9$ times the capacity of the Miyun Reservoir. What is the capacity of the Miyun Reservoir? (Use an equation.)
+(Lesson: Using Letters to Stand for Numbers, Practice 12, Integrated Use, Problem 1) The Harmony train goes $200$ km/h and the Fuxing $320$ km/h, traveling toward each other and meeting after $x$ hours. How far have they traveled together? How much farther has Fuxing gone than Harmony?
 
-### Solution to Exercise 115
+### Solution to Exercise 11
 
-By **Definition 12.8.3 (Equations)**, let the Miyun Reservoir's capacity be $x$ hundred-million cubic meters. Then $9x-0.75=393$, $9x=393.75$, and $x=43.75$ hundred-million cubic meters. $\blacksquare$
+Together $\left(200+320\right)x=520x$ km. Fuxing goes $\left(320-200\right)x=120x$ km farther. $\blacksquare$
 
-## Exercise 116
+## Exercise 12
 
-(Lesson: Exercise 16, Problem 14) Spiders with $8$ legs and mantises with $6$ legs total $25$ animals, with $170$ legs in all. How many spiders and how many mantises are there?
+(Lesson: Using Letters to Stand for Numbers, Practice 12, Extension and Improvement) When $x=8$, what are $x^2$ and $4x$? For what $x$ are $x^2$ and $4x$ exactly equal?
 
-### Solution to Exercise 116
+### Solution to Exercise 12
 
-By **Definition 12.8.3 (Equations)**, let the spiders be $x$ and the mantises $\left(25-x\right)$. Then $8x+6\left(25-x\right)=170$, $8x+150-6x=170$, $2x=20$, and $x=10$. There are $10$ spiders and $25-10=15$ mantises. $\blacksquare$
+When $x=8$, $x^2=64$, $4x=32$. $x^2=4x$ means $x^2-4x=0$, $x\left(x-4\right)=0$, so $x=0$ or $x=4$. $\blacksquare$
 
-## Exercise 117
+## Exercise 13
 
-(Lesson: Exercise 17, Problem 1) Fill in the blanks. (1) There are $80$ boys and $84$ girls; the ratio of boys to girls is $\_\_$. (2) If $3a=5b$ ($a,b\neq0$), then $a:b=\_\_$.
+(Lesson: The Hundreds Table, Try It) Circle a "field"-shaped block of four numbers in the hundreds table; the sums of the two diagonals are equal. Let $a$ be the upper-left number; explain the pattern.
 
-### Solution to Exercise 117
+### Solution to Exercise 13
 
-(1) $80:84=20:21$. (2) By the basic property of a proportion, $3a=5b$ means $a:b=5:3$. $\blacksquare$
+By **Definition 9.5.1 (用字母表示数)**, the upper right is $a+1$, lower left $a+10$, lower right $a+11$. Diagonal sums: $a+\left(a+11\right)=2a+11$, $\left(a+1\right)+\left(a+10\right)=2a+11$, so they are equal. $\blacksquare$
 
-## Exercise 118
+## Exercise 14
 
-(Lesson: Exercise 17, Problem 2) Determine whether the two quantities in each case are directly or inversely proportional. (1) With a fixed class size, the number present and the number absent; (2) given $\frac{y}{x}=3$, $y$ and $x$; (3) with a fixed triangle area, the base and the height; (4) the surface area of a cube and the area of one face; (5) given $xy=1$, $y$ and $x$; (6) with a fixed oil extraction rate, the mass of peanut oil and the mass of peanuts.
+(Lesson: Using Letters to Stand for Numbers, Practice 13, Review and Consolidation, Problem 1) Fill in: (1) morning temperature $a^\circ$C, $8^\circ$C higher at noon; what is the noon temperature? (2) the class has $35$ pupils, $b$ boys; how many girls? (3) Uncle Li scores $c$ shots worth $3$ points each; how many points? (4) bought $d$ shuttlecocks, $3$ times as many as balls; how many balls?
 
-### Solution to Exercise 118
+### Solution to Exercise 14
 
-By **Definition 12.5.3 (Direct Proportion)** and **Definition 12.5.4 (Inverse Proportion)**. (1) Present $+$ absent $=$ class size (a constant sum), so neither. (2) $\frac{y}{x}=3$ (constant ratio), so directly proportional. (3) Base $\times$ height $=2S$ (constant product), so inversely proportional. (4) Surface area $\div$ area of one face $=6$ (constant ratio), so directly proportional. (5) $xy=1$ (constant product), so inversely proportional. (6) Peanut-oil mass $\div$ peanut mass $=$ oil extraction rate (constant), so directly proportional. $\blacksquare$
+By **Definition 9.5.1 (用字母表示数)**: (1) $\left(a+8\right)^\circ$C. (2) $\left(35-b\right)$ girls. (3) $3c$ points. (4) $d\div3$ balls. $\blacksquare$
 
-## Exercise 119
+## Exercise 15
 
-(Lesson: Exercise 17, Problem 3) Mom makes noodles with a total of $1.8\,\mathrm{kg}$; the mass ratio of flour to water is $7:2$. How many kilograms of flour and water are used?
+(Lesson: Using Letters to Stand for Numbers, Practice 13, Review and Consolidation, Problem 2) If $a=b$, fill by the equation properties: $a+3=b+\left(\ \ \right)$; $a-\left(\ \ \right)=b-9$; $a\times1.5=b\times\left(\ \ \right)$; $a-\left(\ \ \right)=b-c$.
 
-### Solution to Exercise 119
+### Solution to Exercise 15
 
-The total number of parts is $7+2=9$. Flour $=1.8\times\frac{7}{9}=1.4\,\mathrm{kg}$; water $=1.8\times\frac{2}{9}=0.4\,\mathrm{kg}$. $\blacksquare$
+By **Definition 9.5.4 (等式的性质)**: $a+3=b+3$; $a-9=b-9$; $a\times1.5=b\times1.5$; $a-c=b-c$. $\blacksquare$
 
-## Exercise 120
+## Exercise 16
 
-(Lesson: Exercise 17, Problem 6) On the same map, the distance between A and B is $20\,\mathrm{cm}$ and the actual distance is $1600\,\mathrm{km}$; the on-paper distance between A and C is $12\,\mathrm{cm}$. What is the actual distance between A and C?
+(Lesson: Using Letters to Stand for Numbers, Practice 13, Review and Consolidation, Problem 3) A large cup holds $1200$ g of juice; pour out $3$ small cups, each $a$ g. Write an expression for what remains in the large cup.
 
-### Solution to Exercise 120
+### Solution to Exercise 16
 
-By **Definition 12.5.5 (Scale)**, since the scale is fixed on one map, the on-paper distance is directly proportional to the actual distance. Let the actual distance A-C be $x\,\mathrm{km}$. Then $\frac{20}{1600}=\frac{12}{x}$, $20x=19200$, and $x=960\,\mathrm{km}$. $\blacksquare$
-
-## Exercise 121
-
-(Lesson: Exercise 18, Problem 2) There is one stick each of lengths $3\,\mathrm{cm}, 4\,\mathrm{cm}, 5\,\mathrm{cm}, 8\,\mathrm{cm}$. Which three can form a triangle?
-
-### Solution to Exercise 121
-
-For a triangle, the sum of any two sides must exceed the third. Since $3+4> 5$, the $3, 4, 5$ sides form a triangle. Since $3+5< 8$ and $4+5< 8$, the other combinations cannot. Only the $3\,\mathrm{cm}, 4\,\mathrm{cm}, 5\,\mathrm{cm}$ sticks form a triangle. $\blacksquare$
-
-## Exercise 122
-
-(Lesson: Exercise 18, Problem 6) A parallelogram and a triangle have the same base and height. Given that the parallelogram's area is $30\,\mathrm{cm}^{2}$, what is the triangle's area?
-
-### Solution to Exercise 122
-
-By **Definition 12.8.4 (Common Perimeter, Area, and Volume Formulas)**, a triangle with the same base and height has half the area of the parallelogram: $30\div2=15\,\mathrm{cm}^{2}$. $\blacksquare$
-
-## Exercise 123
-
-(Lesson: Exercise 18, Problem 10) Cut a cube of edge $6\,\mathrm{cm}$ into small cubes of edge $2\,\mathrm{cm}$. How many small cubes are obtained? By how much does the sum of their surface areas exceed the surface area of the original large cube?
-
-### Solution to Exercise 123
-
-By **Definition 12.8.4 (Common Perimeter, Area, and Volume Formulas)**. The number of small cubes is $=\left(6\div2\right)^{3}=27$. The original large cube's surface area is $=6\times6^{2}=216\,\mathrm{cm}^{2}$. The sum of the surface areas of the $27$ small cubes is $=27\times6\times2^{2}=27\times24=648\,\mathrm{cm}^{2}$. The increase is $648-216=432\,\mathrm{cm}^{2}$. $\blacksquare$
+Remaining $\left(1200-3a\right)$ g. $\blacksquare$

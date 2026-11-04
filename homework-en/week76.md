@@ -1,146 +1,214 @@
 # week76
-> **Definition 9.8.1 (确定事件与不确定事件)**
+> **Definition 7.5.1 (加法模型)**
 > 
-> 在一定条件下, 一定发生的事件叫必然事件 (如太阳从东边升起), 一定不发生的事件叫不可能事件 (如太阳从西边升起), 可能发生也可能不发生的事件叫随机事件或不确定事件 (如抽签抽到什么节目).
-> **Definition 9.8.2 (可能性的大小)**
+> 把几个部分合起来求总数, 用加法: 总量 $=$ 分量 $+$ 分量. 已知总量和一个分量求另一个分量用减法: 分量 $=$ 总量 $-$ 分量.
+> **Definition 7.5.2 (Unit Price, Quantity, Total Price)**
 > 
-> 随机事件发生的可能性有大有小. 在总数中所占数量越多, 发生的可能性越大; 所占数量越少, 发生的可能性越小.
-> **Definition 9.8.3 (根据试验数据推测)**
+> 每件商品的价钱叫做单价, 买了多少叫做数量, 一共用的钱数叫做总价. 总价 = 单价 * 数量.
+> **Definition 7.5.3 (速度, 时间, 路程)**
 > 
-> 通过重复试验记录数据, 根据数据中各结果出现的次数多少, 可以推测盒子中哪种颜色的球多, 哪种少. 试验次数越多, 推测越可靠.
+> 每小时 (或每分钟等) 行的路程叫速度, 一共行多长的路叫路程, 行了几小时 (或几分钟等) 叫时间. 路程 $=$ 速度 $\times$ 时间; 速度 $=$ 路程 $\div$ 时间; 时间 $=$ 路程 $\div$ 速度.
+> **Definition 7.6.1 (平行与垂直)**
+> 
+> 在同一平面内不相交的两条直线叫平行线, 也可以说这两条直线互相平行, 记作 $a\parallel b$. 两条直线相交成直角, 就说这两条直线互相垂直, 其中一条叫另一条的垂线, 交点叫垂足, 记作 $a\perp b$.
+> **Definition 7.6.2 (点到直线的距离)**
+> 
+> 从直线外一点到这条直线所画的垂直线段最短, 它的长度叫这点到直线的距离. 两条平行线之间的垂直线段长度都相等.
+> **Definition 7.6.3 (平行四边形)**
+> 
+> 两组对边分别平行的四边形叫做平行四边形.
+> **Definition 7.6.4 (梯形)**
+> 
+> 只有一组对边平行的四边形叫做梯形.
 
-## Exercise 189
+## Exercise 1
 
-(Lesson: Likelihood, Example 1) Three students draw lots to perform; three cards read sing, dance, and recite. (1) Xiaoming draws first; what might he draw? (2) After Xiaoming draws dance, what might Xiaoli draw? (3) After Xiaoli draws recite, what will Xiaohong draw?
+(Lesson: Practice 13, Problem 2) A flower shop sells flowers: roses have a total price of $288$ yuan with unknown unit price; lilies have a total price of $135$ yuan; sunflowers have a unit price of $24$ yuan with unknown quantity. Fill in the blanks.
 
-### Solution to Exercise 189
+### Solution to Exercise 1
 
-By **Definition 9.8.1 (Certain and Uncertain Events)**: (1) All three are possible — sing, dance, or recite. (2) Dance is impossible; it may be sing or recite. (3) Only sing remains, so Xiaohong must draw sing. $\blacksquare$
+By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**, use total price $=$ unit price $\times$ quantity to compute each from the others. $\blacksquare$
 
-## Exercise 190
+## Exercise 2
 
-(Lesson: Likelihood, Do It, Problem 1) Drawing chips from two boxes: (1) Which box definitely yields a red chip? (2) Which box might yield a green chip? (3) Which box cannot yield a green chip?
+(Lesson: Practice 13, Problem 3) Combo 1 is $21$ yuan each, and Combo 2 is $18$ yuan each; with $60$ yuan buying $3$ combos, how many ways are there to buy them?
 
-### Solution to Exercise 190
+### Solution to Exercise 2
 
-By **Definition 9.8.1 (确定事件与不确定事件)**, a box of all red chips definitely yields a red chip; a box containing green chips might yield a green chip; a box with no green chips cannot yield a green chip. $\blacksquare$
+All Combo 1: $21\times3=63> 60$, not allowed; all Combo 2: $18\times3=54\le60$, allowed; $2$ of Combo 1 and $1$ of Combo 2: $42+18=60$, allowed; $1$ of Combo 1 and $2$ of Combo 2: $21+36=57$, allowed. There are $3$ ways in total. $\blacksquare$
 
-## Exercise 191
+## Exercise 3
 
-(Lesson: Likelihood, Example 2) A box contains red and blue chips. Taking turns, draw one, record its color, replace it, and shake well; repeat $20$ times. Red came up $17$ times and blue $3$ times. On the next draw, which color is more likely?
+(Lesson: Practice 13, Problem 4) Complete the supermarket receipt: sea bass has a unit price of $25$ yuan with unknown amount; tomatoes have a unit price of $8$ yuan and an amount of $32$ yuan; mineral water has an amount of $15$ yuan; the total is $172$ yuan. Find the amount for the sea bass.
 
-### Solution to Exercise 191
+### Solution to Exercise 3
 
-By **Definition 9.8.2 (Magnitude of Likelihood)**, red chips were drawn far more often than blue, so we infer there are more red chips in the box, and red is more likely on the next draw. $\blacksquare$
+By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**, the quantity of tomatoes is $=32\div8=4$ kg. The amount for sea bass is $=172-32-15=125$ yuan, and its quantity is $=125\div25=5$ kg. $\blacksquare$
 
-## Exercise 192
+## Exercise 4
 
-(Lesson: Likelihood, Do It, Problem 2) Draw one chip from the box; what colors might it be? Which color is most likely? Which least?
+(Lesson: Practice 13, Problem 5) Buying $6$ basketballs at $85$ yuan each and $2$ footballs costs $66$ yuan in total; how much is spent altogether?
 
-### Solution to Exercise 192
+### Solution to Exercise 4
 
-By **Definition 9.8.2 (可能性的大小)**, the box may yield as many colors as it contains; the most numerous color is most likely and the least numerous is least likely. $\blacksquare$
+By **Definition 7.5.2 (Unit Price, Quantity, Total Price)** and **Definition 7.5.1 (Addition Model)**: basketballs $85\times6=510$ yuan, total $510+66=576$ yuan. $\blacksquare$
 
-## Exercise 193
+## Exercise 5
 
-(Lesson: Likelihood, Example 3) A group draws balls; red comes up $15$ times and yellow $5$ times. Based on the data, which balls are more numerous in the box?
+(Lesson: Practice 13, Problem 6) Park tickets: adults $8$ yuan, children $4$ yuan, group ($10$ people or more) $6$ yuan. With $2$ teachers and $32$ students, what is the least amount to spend?
 
-### Solution to Exercise 193
+### Solution to Exercise 5
 
-By **Definition 9.8.3 (Inferring from Experimental Data)**, red balls were drawn far more often than yellow, so we infer there are more red balls and fewer yellow balls. $\blacksquare$
+Teachers buy adult tickets and students buy child tickets: $2\times8+32\times4=16+128=144$ yuan. If group tickets are bought, $34\times6=204$ yuan, which is more expensive. The least is $144$ yuan. $\blacksquare$
 
-## Exercise 194
+## Exercise 6
 
-(Lesson: Likelihood, Do It, Problem 3) A group's ball-drawing record: red $12$ times, blue $9$ times, yellow $3$ times. What inference can be drawn? Xiaoliang infers that there are fewer yellow balls than blue balls. Is he right?
+(Lesson: Practice 13, Problem 7) Milk: $5$ cartons for $16$ yuan, $8$ cartons for $24$ yuan, and some bought individually. (1) Which way of buying has the cheapest unit price? (2) To buy $20$ cartons, what is the most cost-effective way?
 
-### Solution to Exercise 194
+### Solution to Exercise 6
 
-By **Definition 9.8.3 (根据试验数据推测)**, the most frequent (red) suggests red balls are most numerous, and the least frequent (yellow) suggests yellow balls are fewest. Xiaoliang's direction is correct, but a single trial may contain error; after many trials the inference is more reliable. $\blacksquare$
+By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**: (1) $16\div5=3.2$ yuan/carton, $24\div8=3$ yuan/carton, so the $8$-carton pack is cheaper per unit. (2) Buying $2$ sets of the $8$-carton pack ($16$ cartons, $48$ yuan) plus $1$ set of the $5$-carton pack ($5$ cartons, $16$ yuan) gives $21$ cartons for $64$ yuan, which is the most cost-effective. $\blacksquare$
 
-## Exercise 195
+## Exercise 7
 
-(Lesson: Likelihood, Exercise 19, Review, Problem 1) Draw one ball from a box; what is the result? Match: must draw yellow; must draw blue; may draw yellow; may draw blue; cannot draw blue; cannot draw red.
+(Lesson: Practice 13, Problem 8) Buying $6$ bowls and $6$ cups costs $108$ yuan in total; each bowl is $8$ yuan. What problem does the expression $108\div6$ solve?
 
-### Solution to Exercise 195
+### Solution to Exercise 7
 
-By **Definition 9.8.1 (确定事件与不确定事件)**, an all-yellow box matches "must draw yellow"; an all-blue box matches "must draw blue"; a box with both yellow and blue matches "may draw yellow" and "may draw blue"; a box with no blue matches "cannot draw blue"; a box with no red matches "cannot draw red". $\blacksquare$
+$108\div6$ gives the total price of $1$ bowl and $1$ cup, i.e., how much each set (one bowl and one cup) costs. $\blacksquare$
 
-## Exercise 196
+## Exercise 8
 
-(Lesson: Likelihood, Exercise 19, Review, Problem 2) Spin the pointer; on which color is it more likely to stop? Less likely?
+(Lesson: Speed, Time, Distance, Try It, Problem 1) Give examples to explain what speed, time, and distance are.
 
-### Solution to Exercise 196
+### Solution to Exercise 8
 
-By **Definition 9.8.2 (可能性的大小)**, the larger the area of a color, the more likely the pointer stops there; the smaller the area, the less likely. $\blacksquare$
+By **Definition 7.5.3 (Speed, Time, Distance)**: for example, a person walking $60$ m per minute is the speed, walking for $15$ minutes is the time, and walking $900$ m in total is the distance. $\blacksquare$
 
-## Exercise 197
+## Exercise 9
 
-(Lesson: Likelihood, Exercise 19, Review, Problem 3) Among $9$ cards, $5$ tell stories, $3$ are songs, and $1$ is a dance. Drawing one card, what is most likely?
+(Lesson: Speed, Time, Distance, Try It, Problem 2) (1) Xiao Lin walks $60$ m per minute; how many meters does he walk in $15$ minutes? (2) A bee flies $5$ m per second; how long does it take to fly $600$ m?
 
-### Solution to Exercise 197
+### Solution to Exercise 9
 
-By **Definition 9.8.2 (可能性的大小)**, story cards are most numerous ($5$), so drawing a story is most likely. $\blacksquare$
+By **Definition 7.5.3 (Speed, Time, Distance)**: (1) $60\times15=900$ m; (2) $600\div5=120$ seconds. $\blacksquare$
 
-## Exercise 198
+## Exercise 10
 
-(Lesson: Likelihood, Exercise 19, Comprehensive, Problem 1) A cube has its six faces labeled $1\sim6$. Rolling once, which numbers may come up? Between odd and even, which is more likely?
+(Lesson: Speed, Time, Distance, Try It, Problem 3) Uncle Li sets off from City A at $8{:}30$ and arrives at City B at $11{:}30$; the odometer reads $2522$ km when he leaves and $2792$ km when he arrives. What is his speed?
 
-### Solution to Exercise 198
+### Solution to Exercise 10
 
-It may roll $1,2,3,4,5,6$. Odd numbers are $1,3,5$, $3$ in total; even numbers are $2,4,6$, $3$ in total; the likelihoods are equal. $\blacksquare$
+By **Definition 7.5.3 (Speed, Time, Distance)**, the distance is $=2792-2522=270$ km, the time is $=3$ hours, and the speed is $=270\div3=90$ km/h. $\blacksquare$
 
-## Exercise 199
+## Exercise 11
 
-(Lesson: Likelihood, Exercise 19, Comprehensive, Problem 2) A box has red, yellow, and white balls; drawing $60$ times gives red $36$, yellow $20$, white $4$. Infer which balls are most and least numerous.
+(Lesson: Speed, Time, Distance, Try It, Problem 4) In the afternoon at $1{:}30$, Uncle Li travels from City B to City C at the same speed and arrives at $3{:}30$; what is the distance from City B to City C?
 
-### Solution to Exercise 199
+### Solution to Exercise 11
 
-By **Definition 9.8.3 (根据试验数据推测)**, red is most frequent ($36$ times), so red balls are most numerous; white is least frequent ($4$ times), so white balls are fewest. $\blacksquare$
+By **Definition 7.5.3 (Speed, Time, Distance)**, the time is $=2$ hours, and the distance is $=90\times2=180$ km. $\blacksquare$
 
-## Exercise 200
+## Exercise 12
 
-(Lesson: Likelihood, Exercise 19, Comprehensive, Problem 3) Color as required: the draw must be a red ball; the draw cannot be a red ball; the draw may be a red ball.
+(Lesson: Practice 14, Problem 1) Xiao Jun's speed is $72$ meters/minute; Xiao Dong walks $400$ m in $5$ minutes. Who walks faster?
 
-### Solution to Exercise 200
+### Solution to Exercise 12
 
-By **Definition 9.8.1 (确定事件与不确定事件)**, coloring everything red means a red ball must be drawn; coloring nothing red means a red ball cannot be drawn; coloring partly red and partly other colors means a red ball may be drawn. $\blacksquare$
+By **Definition 7.5.3 (Speed, Time, Distance)**, Xiao Dong's speed is $=400\div5=80$ meters/minute; $80> 72$, so Xiao Dong is faster. $\blacksquare$
 
-## Exercise 201
+## Exercise 13
 
-(Lesson: Likelihood, Exercise 19, Extension) Place $10$ cards in a bag: drawing the number "1" should be most likely, "5" least likely, and "3" and "7" equally likely. How should the card numbers be filled in?
+(Lesson: Practice 14, Problem 2) Uncle Wang runs for $20$ minutes every day at $300$ m per minute; how many kilometers does he run in a week?
 
-### Solution to Exercise 201
+### Solution to Exercise 13
 
-By **Definition 9.8.2 (可能性的大小)**, let "1" be most numerous (e.g. $4$ cards), "5" least (e.g. $1$ card), and "3" and "7" equal (e.g. $2.5$ cards each, rounded to $2$ each, or $1.5$ cards each, rounded), distributing the rest. For example: four cards of $1$, two of $3$, two of $7$, two of $5$, totaling $10$ cards. $\blacksquare$
+By **Definition 7.5.3 (Speed, Time, Distance)**, each day $300\times20=6000$ m $=6$ km, and in a week $6\times7=42$ km. $\blacksquare$
 
-## Exercise 202
+## Exercise 14
 
-(Lesson: Rolling and Tossing, Example) Roll two dice at once; what sums are possible? The teacher wins with $5,6,7,8,9$; the students win with $2,3,4,10,11,12$. Is the game fair?
+(Lesson: Practice 14, Problem 3) Cities A and B are $305$ km apart; after Aunt Gao drives for $3$ hours she is still $20$ km away from City B. What is her average speed?
 
-### Solution to Exercise 202
+### Solution to Exercise 14
 
-The sum of two dice may be $2\sim12$. A sum of $2$ has only $\left(1,1\right)$; a sum of $3$ has $\left(1,2\right)\left(2,1\right)$, two ways; a sum of $4$ has $3$ ways; $5$ has $4$ ways; $6$ has $5$ ways; $7$ has $6$ ways; $8$ has $5$ ways; $9$ has $4$ ways; $10$ has $3$ ways; $11$ has $2$ ways; $12$ has $1$ way. The teacher wins in $4+5+6+5+4=24$ ways, and the students in $1+2+3+3+2+1=12$ ways; it is not fair, and the teacher is more likely to win. $\blacksquare$
+By **Definition 7.5.3 (Speed, Time, Distance)**, she has traveled $305-20=285$ km, and the speed is $=285\div3=95$ km/h. $\blacksquare$
 
-## Exercise 203
+## Exercise 15
 
-(Lesson: Likelihood, Exercise 20, Review, Problem 1) Color the spinner as required: (1) the pointer may stop on red, yellow, or blue; (2) it may stop on all three, with blue most likely and red least likely.
+(Lesson: Practice 14, Problem 4) Cities A and B are $500$ km apart; Service Area A is $115$ km from City A, and Service Area B is $117$ km from Service Area A. Traveling from Service Area B to City B at $95$ km per hour, can it be reached in $3$ hours?
 
-### Solution to Exercise 203
+### Solution to Exercise 15
 
-By **Definition 9.8.2 (可能性的大小)**, (1) color a part of each of the three colors. (2) Make the blue region largest, the red region smallest, and yellow in between. $\blacksquare$
+The distance from Service Area B to City B is $=500-115-117=268$ km; $95\times3=285> 268$, so it can be reached. $\blacksquare$
 
-## Exercise 204
+## Exercise 16
 
-(Lesson: Likelihood, Exercise 20, Comprehensive) Paint a cube's faces red and blue so that rolling a red face up is more likely than blue. How can it be painted?
+(Lesson: Practice 14, Problem 5) On the way there, Uncle Liu's speed was $40$ km/h and it took $3$ hours; on the return it took $2$ hours. (1) How far is it from the county town to Wang Village? (2) What was the average speed on the return?
 
-### Solution to Exercise 204
+### Solution to Exercise 16
 
-By **Definition 9.8.2 (可能性的大小)**, make the number of red faces exceed the blue faces, e.g. red on $4$ faces and blue on $2$, or red on $5$ faces and blue on $1$. $\blacksquare$
+By **Definition 7.5.3 (Speed, Time, Distance)**: (1) $40\times3=120$ km; (2) $120\div2=60$ km/h. $\blacksquare$
 
-## Exercise 205
+## Exercise 17
 
-(Lesson: Likelihood, Exercise 20, Comprehensive) Judge: (1) If the first coin toss lands heads, the second must land tails. (2) The sum of two numbers cannot exceed their product. (3) A triangle's interior angle sum may be $179^\circ$. (4) For a fixed perimeter, a square's area must exceed a rectangle's.
+(Lesson: Parallel and Perpendicular, Try It) Where in daily life have you seen parallel and perpendicular phenomena?
 
-### Solution to Exercise 205
+### Solution to Exercise 17
 
-(1) False; each toss may be heads or tails independently. (2) False; e.g. $1+1=2> 1\times1=1$. (3) False; a triangle's interior angle sum must be $180^\circ$. (4) True; for a fixed perimeter, the closer length and width are, the larger the area, and a square (length equal to width) has the largest area. $\blacksquare$
+By **Definition 7.6.1 (Parallel and Perpendicular)**: for example, zebra crossings are parallel, adjacent edges of a blackboard are perpendicular, and the horizontal and vertical frames of a window are perpendicular. $\blacksquare$
+
+## Exercise 18
+
+(Lesson: Drawing Perpendicular Lines, Try It, Problem 1) Through point $A$ and point $B$, respectively, draw the perpendicular line to the corresponding line $l$.
+
+### Solution to Exercise 18
+
+By **Definition 7.6.1 (Parallel and Perpendicular)**: align one leg of a set square with line $l$, translate it so the other leg passes through the point, and draw a line along that leg; this is the perpendicular line. $\blacksquare$
+
+## Exercise 19
+
+(Lesson: Drawing Perpendicular Lines, Try It, Problem 2) In the figure, find how many pairs of perpendicular segments there are.
+
+### Solution to Exercise 19
+
+By **Definition 7.6.1 (Parallel and Perpendicular)**: use the right angle of a set square to compare; segments that intersect at a right angle are perpendicular to each other. $\blacksquare$
+
+## Exercise 20
+
+(Lesson: Drawing Perpendicular Lines, Try It, Problem 3) Xiao Ming crosses the road from point $A$; how should he walk to take the shortest route?
+
+### Solution to Exercise 20
+
+By **Definition 7.6.2 (Distance from a Point to a Line)**: draw a perpendicular segment from point $A$ to the opposite edge of the road; this route is the shortest. $\blacksquare$
+
+## Exercise 21
+
+(Lesson: Distance Between Parallel Lines, Try It) Through a point outside a line, draw a line parallel to the given line.
+
+### Solution to Exercise 21
+
+By **Definition 7.6.1 (Parallel and Perpendicular)**: use a set square together with a ruler — align one edge of the set square with the given line, press the ruler against the other edge, slide the set square to the point, and then draw the line. $\blacksquare$
+
+## Exercise 22
+
+(Lesson: Drawing Rectangles and Squares, Try It) Draw a rectangle of length $4$ cm and width $3$ cm, and then draw a square with side $5$ cm.
+
+### Solution to Exercise 22
+
+By **Definition 7.6.1 (Parallel and Perpendicular)**: first draw a right angle, mark off $4$ cm and $3$ cm on the two legs, and then draw perpendiculars that meet at a point. A square has four equal sides and four right angles. $\blacksquare$
+
+## Exercise 23
+
+(Lesson: Practice 15, Problem 1) In each of the following figures, which two segments are parallel? Which two are perpendicular?
+
+### Solution to Exercise 23
+
+By **Definition 7.6.1 (Parallel and Perpendicular)**: check with a set square and a ruler — those that do not intersect when extended are parallel, and those that intersect at a right angle are perpendicular. $\blacksquare$
+
+## Exercise 24
+
+(Lesson: Practice 15, Problem 2) Fold the paper. (1) Fold a rectangular paper twice so that the three creases are parallel. (2) Fold a square paper twice so that the two creases are perpendicular.
+
+### Solution to Exercise 24
+
+By **Definition 7.6.1 (Parallel and Perpendicular)**: folding twice in the same direction gives three parallel creases; folding once each in two perpendicular directions gives two perpendicular creases. $\blacksquare$

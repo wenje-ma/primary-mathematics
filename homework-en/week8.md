@@ -1,146 +1,210 @@
 # week8
-> **Definition 1.6.1 (20以内数的认识)**
+> **Definition 1.2.2 (Comparing, Ordinal Numbers)**
 > 
-> $0\sim20$ 各数按顺序排列, 后面的数比前面的大; $10$ 个一是 $1$ 个十; 从右边起第一位是个位, 第二位是十位, 有几个十就在十位写几, 有几个一就在个位写几.
-> **Definition 1.6.2 (20以内的加,减法)**
+> 比较两个数的大小, 用大于号,小于号或等号连接; 第几表示排列的位置 (序数).
+> **Definition 1.2.7 (连加)**
 > 
-> 把两部分合起来用加法, 从总数里去掉一部分用减法; 进位加法用凑十法, 把一个加数凑成 $10$ 再算.
-> **Definition 1.6.3 (立体图形)**
+> 三个数连续相加, 从左到右先算前两个数的和, 再加上第三个数, 如 $5+2+1=8$.
+> **Definition 1.2.8 (连减)**
 > 
-> 长方体,正方体有平平的面; 圆柱可以立起来也可以滚动; 球能向四面八方滚动.
+> 从一个数里连续减去两个数, 从左到右依次减, 如 $8-2-2=4$.
+> **Definition 1.2.9 (加减混合)**
+> 
+> 一道算式里既有加法又有减法, 从左到右依次计算, 如 $4+3-2=5$.
+> **Definition 1.4.1 (10个一是1个十)**
+> 
+> $10$ 根小棒捆成 $1$ 捆, $10$ 个一就是 $1$ 个十; $10$ 中的"$1$"表示 $1$ 个十, "$0$"表示个位上一个也没有.
+> **Definition 1.4.2 (个位与十位)**
+> 
+> 从右边起第一位是个位, 第二位是十位; 有几个十就在十位写几, 有几个一就在个位写几.
+> **Definition 1.4.3 (11~20各数的组成)**
+> 
+> $1$ 个十和几个一合起来是十几; $2$ 个十是 $20$; $11\sim20$ 按顺序排列, 后面的数比前面的大.
+> **Definition 1.4.4 (Teen Numbers Addition/Subtraction)**
+> 
+> 11-20 各数加上一个一位数, 以及相应的减法, 可以用数的组成来计算.
+> **Definition 1.5.1 (凑十法)**
+> 
+> 计算进位加法时, 把一个加数凑成 $10$, 再加剩下的部分. 如 $9+4$, 把 $4$ 分成 $1$ 和 $3$, $9+1=10$, $10+3=13$.
+> **Definition 1.5.2 (交换加数位置)**
+> 
+> 交换两个加数的位置, 和不变. 如 $8+5=13$, $5+8=13$, 可以用大数加小数来算.
+> **Definition 1.5.3 (用加法解决问题)**
+> 
+> 求总数,求"原来有多少", 把两部分合起来用加法, 如领走的 $6$ 个加剩下的 $5$ 个, $6+5=11$.
 
-## Exercise 218
+## Exercise 1
 
-(Lesson: Application and Improvement, Problem 1) Carefully observe the table below and answer the questions after it. (1) The number before $14$ is (), and the number after $14$ is (). (2) In the $9$th row, the $7$th number counting from the left is (), which is composed of () tens and () ones. (3) Fill in the blanks; can you walk from the entrance to the exit in order from $1\sim19$? (4) Color the $11$s in the table red. What do you notice? Draw $11$ on the counter. (5) Explain how the numbers in the table are arranged.
+(Lesson: Simple Addition and Subtraction, Practice, Problem 4) Xiaoming lives on the $5$th floor and Xiaoliang on the $9$th floor of the same building. How many floors are between them?
 
-### Solution to Exercise 218
+### Solution to Exercise 1
 
-By **Definition 1.6.1 (Understanding Numbers Within 20)**: (1) before $14$ is $13$, and after it is $15$; (2) count the $7$th number in the row and write it as tens and ones; (3) fill in the blanks and connect in order $1,2,3,\cdots,19$; (4) the $11$s are arranged diagonally; draw $1$ bead on the tens place and $1$ on the ones place; (5) the numbers are arranged diagonally from smallest to largest. $\blacksquare$
+By **Definition 1.2.2 (Comparing Size, Which Position)**, counting from after the $5$th floor to before the $9$th floor: $6,7,8$, totaling $3$ floors. $\blacksquare$
 
-## Exercise 219
+## Exercise 2
 
-(Lesson: Application and Improvement, Problem 2) Carefully observe and fill in the blanks with suitable expressions. (1) Point to any expression and quickly say the result. (2) Color the expressions with result $10$ red. What do you notice? (3) What other patterns do you notice in the table?
+(Lesson: Simple Addition and Subtraction, Practice, Problem 5) It rains on Monday, and the sports meet is postponed by $3$ days. After postponement, what day of the week is the sports meet?
 
-### Solution to Exercise 219
+### Solution to Exercise 2
 
-By **Definition 1.6.2 (Addition and Subtraction Within 20)**, fill in following the addition table pattern; expressions with result $10$ lie on a diagonal; each row's result increases by $1$, and each column's first addend increases by $1$. $\blacksquare$
+Postponing Monday by $1$ day is Tuesday, by $2$ days is Wednesday, and by $3$ days is Thursday. $\blacksquare$
 
-## Exercise 220
+## Exercise 3
 
-(Lesson: Application and Improvement, Problem 3) $3$ swam away and $8$ remain. How many were there originally? (1) What information do you know? What is the problem to solve? (2) What method did you use? Is the answer correct? (3) Pose another math problem from the picture and solve it.
+(Lesson: Simple Addition and Subtraction, Practice, Problem 6) Mental math: $7+3+5$; $6+4+9$; $8+2+6$; $9+1-4$; $11-1+5$; $18-8-3$.
 
-### Solution to Exercise 220
+### Solution to Exercise 3
 
-By **Definition 1.6.2 (Addition and Subtraction Within 20)**, the ones that swam away plus the remaining is the original: $3+8=11$; then pose and solve another addition or subtraction problem. $\blacksquare$
+By **Definition 1.2.7 (Continuous Addition)**, **Definition 1.2.8 (Continuous Subtraction)**, and **Definition 1.2.9 (Mixed Addition and Subtraction)**: $7+3+5=15$, $6+4+9=19$, $8+2+6=16$, $9+1-4=6$, $11-1+5=15$, $18-8-3=7$. $\blacksquare$
 
-## Exercise 221
+## Exercise 4
 
-(Lesson: Application and Improvement, Problem 4) (1) What shapes can $4$ cubes form? Try it. (2) At least () cubes are needed to form a large cube.
+(Lesson: Simple Addition and Subtraction, Practice, Problem 7) Fill "$> $" "$< $" or "$=$" in $\bigcirc$: $15\bigcirc16$; $9\bigcirc11$; $20\bigcirc19$; $10+7\bigcirc14$; $19-5\bigcirc14$; $16-6\bigcirc12$.
 
-### Solution to Exercise 221
+### Solution to Exercise 4
 
-By **Definition 1.6.3 (Solid Shapes)**, $4$ cubes can form a cuboid; at least $8$ small cubes are needed to form a large cube. $\blacksquare$
+By **Definition 1.4.3 (Composition of Numbers 11–20)**: $15< 16$; $9< 11$; $20> 19$; $10+7=17> 14$; $19-5=14$, so $=$; $16-6=10< 12$. $\blacksquare$
 
-## Exercise 222
+## Exercise 5
 
-(Lesson: Practice, Problem 1) Write the numbers from the picture: the numbers shown on the tens and ones places of the counter.
+(Lesson: Simple Addition and Subtraction, Practice, Problem 8) Today I read from page $10$ to page $14$, and tomorrow I start from page $15$. How many pages did I read today?
 
-### Solution to Exercise 222
+### Solution to Exercise 5
 
-By **Definition 1.6.1 (Understanding Numbers Within 20)**, write the number of beads on the tens place in the tens digit, and the number of beads on the ones place in the ones digit. $\blacksquare$
+By **Definition 1.2.2 (Comparing Size, Which Position)**, counting from page $10$ to page $14$: $10,11,12,13,14$, totaling $5$ pages. $\blacksquare$
 
-## Exercise 223
+## Exercise 6
 
-(Lesson: Practice, Problem 2) (1) $1$ ten and $2$ ones make (). (2) $18$ has () tens and () ones. (3) $20$ has () tens.
+(Lesson: Review and Organization, Practice, Problem 1) First estimate approximately how many there are, then count: () tens and () ones.
 
-### Solution to Exercise 223
+### Solution to Exercise 6
 
-By **Definition 1.6.1 (Understanding Numbers Within 20)**: (1) $1$ ten and $2$ ones make $12$; (2) $18$ has $1$ ten and $8$ ones; (3) $20$ has $2$ tens. $\blacksquare$
+By **Definition 1.4.3 (Composition of Numbers 11–20)**, first circle $10$ as an estimate, then count the exact number and write it as tens and ones. $\blacksquare$
 
-## Exercise 224
+## Exercise 7
 
-(Lesson: Practice, Problem 3) Count: cuboids (), cubes (), spheres (), cylinders ().
+(Lesson: Review and Organization, Practice, Problem 2) Draw it: represent $17$, $15$, $18$, $20$ on the counter.
 
-### Solution to Exercise 224
+### Solution to Exercise 7
 
-By **Definition 1.6.3 (Solid Shapes)**, count by shape category. $\blacksquare$
+By **Definition 1.4.2 (Ones Place and Tens Place)**, for $17$ draw $1$ bead on the tens place and $7$ on the ones; for $15$, $1$ and $5$; for $18$, $1$ and $8$; for $20$, $2$ and $0$. $\blacksquare$
 
-## Exercise 225
+## Exercise 8
 
-(Lesson: Practice, Problem 4) Mental math: $8+7$; $6+9$; $5+8$; $6+10$; $8-6$; $7-3$; $9-4$; $19-9$; $9+4$; $2+8$; $7+5$; $11-10$; $9-7$; $4+8$; $7-7$; $10+6$.
+(Lesson: Review and Organization, Practice, Problem 3) From the train station to the zoo, how many stops are in between?
 
-### Solution to Exercise 225
+### Solution to Exercise 8
 
-By **Definition 1.6.2 (Addition and Subtraction Within 20)**: $8+7=15$, $6+9=15$, $5+8=13$, $6+10=16$, $8-6=2$, $7-3=4$, $9-4=5$, $19-9=10$, $9+4=13$, $2+8=10$, $7+5=12$, $11-10=1$, $9-7=2$, $4+8=12$, $7-7=0$, $10+6=16$. $\blacksquare$
+By **Definition 1.2.2 (Comparing Size, Which Position)**, count the stops between the train station and the zoo (excluding both endpoints). $\blacksquare$
 
-## Exercise 226
+## Exercise 9
 
-(Lesson: Practice, Problem 5) Fill "$> $" "$< $" or "$=$" in $\bigcirc$: $5+9\bigcirc14$; $9\bigcirc18-10$; $7+8\bigcirc16$; $10-8\bigcirc7$; $12\bigcirc3+8$; $9+6\bigcirc15$.
+(Lesson: Review and Organization, Practice, Problem 4) Follow the numbers: each step's result is $1$ greater than the previous. What fruit does the monkey get at the end?
 
-### Solution to Exercise 226
+### Solution to Exercise 9
 
-Calculate first, then compare: $5+9=14$, so $=$; $18-10=8$, $9> 8$; $7+8=15< 16$; $10-8=2< 7$; $3+8=11$, $12> 11$; $9+6=15$, so $=$. $\blacksquare$
+By **Definition 1.4.4 (Ten-Something Plus a Number and Corresponding Subtraction)**, calculate step by step, following the route where each result increases by $1$, and see what fruit is at the end. $\blacksquare$
 
-## Exercise 227
+## Exercise 10
 
-(Lesson: Practice, Problem 6) Calculate: $12\xrightarrow{+4}\square\xrightarrow{-6}\square\xrightarrow{+9}\square\xrightarrow{+5}\square$; $15\xrightarrow{-5}\square\xrightarrow{+6}\square\xrightarrow{-10}\square\xrightarrow{+8}\square\xrightarrow{-3}\square$.
+(Lesson: Review and Organization, Practice, Problem 5) Fill in: $7+\square=10$; $10+\square=12$; $11+\square=13$.
 
-### Solution to Exercise 227
+### Solution to Exercise 10
 
-By **Definition 1.6.2 (Addition and Subtraction Within 20)**: $12+4=16$, $16-6=10$, $10+9=19$, $19+5=24$; $15-5=10$, $10+6=16$, $16-10=6$, $6+8=14$, $14-3=11$. $\blacksquare$
+By **Definition 1.4.4 (Ten-Something Plus a Number and Corresponding Subtraction)**: $7+3=10$; $10+2=12$; $11+2=13$. $\blacksquare$
 
-## Exercise 228
+## Exercise 11
 
-(Lesson: Practice, Problem 7) $9$ fish have already been eaten. How many fish were there originally? $\square\bigcirc\square=\square$ (fish).
+(Lesson: 9 Plus Something, Do It, Problem 1) Circle, calculate, and explain: $9+8=\square$; $9+3=\square$.
 
-### Solution to Exercise 228
+### Solution to Exercise 11
 
-By **Definition 1.6.2 (Addition and Subtraction Within 20)**, eaten plus remaining: $9+5=14$ (fish). $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)**: $9+8=17$ (split $8$ into $1$ and $7$, $9+1=10$, $10+7=17$); $9+3=12$ (split $3$ into $1$ and $2$, $9+1=10$, $10+2=12$). $\blacksquare$
 
-## Exercise 229
+## Exercise 12
 
-(Lesson: Practice, Problem 8) Fill in: $10+5=\square$; $7+\square=16$; $\square+\square=13$; $15-\square=10$; $16-\square=7$; $15-\square=5$; $16-\square=9$.
+(Lesson: 9 Plus Something, Do It, Problem 2) Mental math: $9+1+4$; $9+1+6$; $9+1+8$; $9+5$; $9+7$; $9+9$.
 
-### Solution to Exercise 229
+### Solution to Exercise 12
 
-By **Definition 1.6.2 (Addition and Subtraction Within 20)**: $10+5=15$; $7+9=16$; $6+7=13$ (answers not unique); $15-5=10$; $16-9=7$; $15-10=5$; $16-7=9$. $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)**: $9+1+4=14$, $9+1+6=16$, $9+1+8=18$, $9+5=14$, $9+7=16$, $9+9=18$. $\blacksquare$
 
-## Exercise 230
+## Exercise 13
 
-(Lesson: Practice, Problem 9) Which two piles can form a large cube? Connect them with lines.
+(Lesson: 9 Plus Something, Practice, Problem 1) Move $9$, each time adding $9$ to the number in the grid.
 
-### Solution to Exercise 230
+### Solution to Exercise 13
 
-By **Definition 1.6.3 (Solid Shapes)**, connect the two piles that together form a large cube. $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)**, e.g. $9+2=11$, $9+4=13$, $9+5=14$, $9+7=16$, $9+0=9$, $9+1=10$, $9+9=18$, $9+8=17$, $9+10=19$. $\blacksquare$
 
-## Exercise 231
+## Exercise 14
 
-(Lesson: Practice, Problem 10) Can you pose a math problem from the picture and solve it? $\square\bigcirc\square=\square$ (birds); $\square\bigcirc\square=\square$ (birds).
+(Lesson: 9 Plus Something, Practice, Problem 2) Write the sentence from the picture: $\square+\square=\square$.
 
-### Solution to Exercise 231
+### Solution to Exercise 14
 
-By **Definition 1.6.2 (Addition and Subtraction Within 20)**, choose two parts from the picture for an addition problem, or use the known total for a subtraction problem; write and solve. $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)**, write according to the objects in the picture, e.g. $9+6=15$. $\blacksquare$
 
-## Exercise 232
+## Exercise 15
 
-(Lesson: Practice, Problem 11) Xiaohong bought $2$ boxes of small seals from the $3$ boxes below. How many seals might she have bought? $\square\bigcirc\square=\square$ (seals).
+(Lesson: 9 Plus Something, Practice, Problem 3) Circle and fill: $9+1=\square$; $9+2=\square$; $9+3=\square$; $9+4=\square$; $9+5=\square$; $9+6=\square$; $9+7=\square$; $9+8=\square$; $9+9=\square$. What do you notice?
 
-### Solution to Exercise 232
+### Solution to Exercise 15
 
-By **Definition 1.6.2 (Addition and Subtraction Within 20)**, choose $2$ of the $3$ boxes and add their counts; answers are not unique. $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)**: $9+1=10$, $9+2=11$, $9+3=12$, $9+4=13$, $9+5=14$, $9+6=15$, $9+7=16$, $9+8=17$, $9+9=18$. Observation: the ones digit of the result is $1$ less than the number being added. $\blacksquare$
 
-## Exercise 233
+## Exercise 16
 
-(Lesson: Practice, Problem 12) What can go in $\square$? $9+\square+6< 15$; $18-\square> 10$; $13+\square< 19$.
+(Lesson: 9 Plus Something, Practice, Problem 4) Fill "$> $" "$< $" or "$=$" in $\bigcirc$: $9+5\bigcirc15$; $9+3\bigcirc12$; $9+10\bigcirc20$; $9+8\bigcirc16$; $9+6\bigcirc16$; $9+9\bigcirc17$.
 
-### Solution to Exercise 233
+### Solution to Exercise 16
 
-$9+\square+6< 15$, i.e. $15+\square< 15$, $\square$ can be $0$; $18-\square> 10$, $\square$ can be $0\sim7$; $13+\square< 19$, $\square$ can be $0\sim5$. $\blacksquare$
+Calculate first, then compare: $9+5=14< 15$; $9+3=12$, so $=$; $9+10=19< 20$; $9+8=17> 16$; $9+6=15< 16$; $9+9=18> 17$. $\blacksquare$
 
-## Exercise 234
+## Exercise 17
 
-(Lesson: Practice, Thinking Question) Xiaoming and Xiaohua are reading the same storybook. Xiaoming read $8$ pages and Xiaohua read $9$ pages. Who has more left?
+(Lesson: 8, 7, 6 Plus Something, Do It, Problem 1) Circle and calculate: $7+4=\square$; $6+5=\square$.
 
-### Solution to Exercise 234
+### Solution to Exercise 17
 
-The same book has the same total pages; whoever read less has more left. Xiaoming read $8$ pages and Xiaohua read $9$ pages, $8< 9$, so Xiaoming has more left. $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)**: $7+4=11$ (split $4$ into $3$ and $1$, $7+3=10$, $10+1=11$); $6+5=11$ (split $5$ into $4$ and $1$, $6+4=10$, $10+1=11$). $\blacksquare$
+
+## Exercise 18
+
+(Lesson: 8, 7, 6 Plus Something, Do It, Problem 2) Mental math: $7+3+3$; $6+4+2$; $8+2+2$; $7+6$; $6+6$; $8+4$.
+
+### Solution to Exercise 18
+
+By **Definition 1.5.1 (Make-a-Ten Method)**: $7+3+3=13$, $6+4+2=12$, $8+2+2=12$, $7+6=13$, $6+6=12$, $8+4=12$. $\blacksquare$
+
+## Exercise 19
+
+(Lesson: 8, 7, 6 Plus Something, Do It, Problem 1) Calculate using your favorite method: $6+8=\square$; $7+9=\square$.
+
+### Solution to Exercise 19
+
+By **Definition 1.5.1 (Make-a-Ten Method)** and **Definition 1.5.2 (Swapping Addends)**: $6+8=14$ (think $8+6=14$); $7+9=16$ (think $9+7=16$). $\blacksquare$
+
+## Exercise 20
+
+(Lesson: 8, 7, 6 Plus Something, Do It, Problem 2) Mental math: $7+6$; $9+6$; $8+7$; $6+7$; $6+9$; $7+8$.
+
+### Solution to Exercise 20
+
+By **Definition 1.5.2 (Swapping Addends)**: $7+6=13$, $9+6=15$, $8+7=15$, $6+7=13$, $6+9=15$, $7+8=15$. $\blacksquare$
+
+## Exercise 21
+
+(Lesson: 8, 7, 6 Plus Something, Do It, Problem 3) First say the result, then write the sentence: $8+2,8+5,8+8$; $7+4,7+7,7+9$; $6+5,6+8,6+9$.
+
+### Solution to Exercise 21
+
+By **Definition 1.5.1 (Make-a-Ten Method)**: $8+2=10$, $8+5=13$, $8+8=16$; $7+4=11$, $7+7=14$, $7+9=16$; $6+5=11$, $6+8=14$, $6+9=15$. $\blacksquare$
+
+## Exercise 22
+
+(Lesson: 5, 4, 3, 2 Plus Something, Try It) Mental math: $9+5$; $9+4$; $8+3$; $9+2$; $5+9$; $4+9$; $3+8$; $2+9$.
+
+### Solution to Exercise 22
+
+By **Definition 1.5.2 (Swapping Addends)**: $9+5=14$, $9+4=13$, $8+3=11$, $9+2=11$, $5+9=14$, $4+9=13$, $3+8=11$, $2+9=11$. $\blacksquare$

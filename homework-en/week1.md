@@ -14,6 +14,15 @@
 > **Definition 1.1.5 (数的分与合)**
 > 
 > 一个数可以分成两个数, 两个数也可以组成这个数. 如 $5$ 可以分成 $1$ 和 $4$, $2$ 和 $3$, $3$ 和 $2$, $4$ 和 $1$; 反之这些数对都可以组成 $5$.
+> **Definition 1.1.6 (加法的含义)**
+> 
+> 把两部分合起来, 求一共是多少, 用加法. 加号 "$+$", 算式如 $3+1=4$, 读作"$3$ 加 $1$ 等于 $4$". 计算时可以从第一个数后面接着往后数.
+> **Definition 1.1.7 (减法的含义)**
+> 
+> 从总数中去掉一部分, 求剩下多少, 用减法. 减号 "$-$", 算式如 $4-1=3$, 读作"$4$ 减 $1$ 等于 $3$". 计算时可以从总数倒着往前数.
+> **Definition 1.1.8 (0 的意义与运算)**
+> 
+> $0$ 表示"一个也没有", 也表示数轴上起点. 一个数加 $0$ 或减 $0$, 大小不变: $a+0=a$, $a-0=a$; 两个相同的数相减得 $0$: $a-a=0$.
 
 ## Exercise 1
 
@@ -192,3 +201,11 @@ By **Definition 1.1.5 (Decomposition and Composition of Numbers)**: $5=2+3$, $4=
 ### Solution to Exercise 22
 
 By **Definition 1.1.1 (Cardinal Number)**, count the number of each animal; by **Definition 1.1.2 (Same Amount, More, Fewer)**, compare and fill in $\square\bigcirc\square$; choose any two categories in the picture and compare their quantities. $\blacksquare$
+
+## Exercise 23
+
+(Lesson: Addition and Subtraction Within 1–5, Do It, Problem 1) Look at the picture and explain what the expressions mean: $2+2=4$; $4+1=5$.
+
+### Solution to Exercise 23
+
+By **Definition 1.1.6 (Meaning of Addition)**, $2+2=4$ means combining $2$ and $2$ gives $4$; $4+1=5$ means combining $4$ and $1$ gives $5$. $\blacksquare$

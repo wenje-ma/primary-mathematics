@@ -1,185 +1,217 @@
 # week62
-> **Definition 8.5.1 (Height and Base of a Triangle)**
+> **Definition 6.2.1 (口算除法)**
 > 
-> 由 $3$ 条线段围成的图形 (每相邻两条线段的端点相连) 叫作三角形. 三角形有 $3$ 条边, $3$ 个角, $3$ 个顶点. 从三角形的一个顶点到它的对边作一条垂线, 顶点和垂足之间的线段叫作三角形的高, 这条对边叫作三角形的底.
-> **Definition 8.5.2 (三角形的稳定性)**
+> 整十, 整百数除以一位数, 把被除数看成几个十, 几个百再除; 两位数除以一位数, 分成整十数和个位数分别除再相加. 如 $60\div3=20$, $69\div3=23$, $600\div3=200$.
+> **Definition 6.2.2 (除法估算)**
 > 
-> 用 $3$ 根小棒只能围出一种形的三角形, 而四边形可以拉动变形, 说明三角形具有稳定性.
-> **Definition 8.5.3 (两点间的距离)**
+> 把被除数看成与它接近的整十, 整百数再除, 只估出大约结果, 不用算出准确值. 如 $283\div3$ 在 $90$ 与 $100$ 之间.
+> **Definition 6.2.3 (笔算除法法则)**
 > 
-> 两点间所有连线中线段最短, 这条线段的长度叫作两点间的距离.
-> **Definition 8.5.4 (Triangle Inequality)**
+> 从被除数的高位除起: 先用除数试除被除数最高位, 比除数小再试前两位; 除到哪一位, 商就写在那一位上面; 不够商 $1$ 就商 $0$ 占位; 每求出一位商, 余下的数必须比除数小.
+> **Definition 6.2.4 (除法的验算)**
 > 
-> 三角形任意两边之和大于第三边.
-> **Definition 8.5.5 (三角形按角分类)**
+> 没有余数时, 商$\times$除数$=$被除数; 有余数时, 商$\times$除数$+$余数$=$被除数.
+> **Definition 6.2.5 (0 的除法)**
 > 
-> 三个角都是锐角的三角形叫作锐角三角形; 有一个角是直角的三角形叫作直角三角形; 有一个角是钝角的三角形叫作钝角三角形.
-> **Definition 8.5.6 (等腰三角形和等边三角形)**
+> $0$ 除以任何不是 $0$ 的数都得 $0$; $0$ 不能作除数.
+> **Definition 6.2.6 (用乘除法解决两步问题)**
 > 
-> 两条边相等的三角形叫作等腰三角形, 相等的两条边叫作腰, 另一条边叫作底, 两腰的夹角叫作顶角, 底和腰的两个夹角叫作底角. 三条边都相等的三角形叫作等边三角形 (正三角形), 等边三角形也是等腰三角形.
-> **Definition 8.5.7 (Triangle Angle Sum)**
+> 分析数量关系, 可从条件出发想能求什么, 也可从问题出发想先求什么, 分步列式或列综合算式. 归一问题先求单一量, 归总问题先求总量.
+> **Definition 6.3.1 (多边形)**
 > 
-> 65 我画的这个直角 三角形的内角和 大约是180°. 我画的是锐角三角 形,也是…… 你发现了什么?用实验来验证一下. 先把一个三角形的3个角剪下来,再拼一拼.看一看, 拼成了一个什么角. 画几个不同类型的三角形.量一量,算一算,三角形3个内角 的和各是多少度. 6 三角形的内角和 三角形的内角和是180°. 拼成了一个 平角. 2 3 1 2 3 1 做一做 2 3 1 在右图中,∠1=140°, ∠3=25°.求∠2的度数. 1 把下面这个三角形沿虚线剪成两个小三角形,每个小三角形的 内角和是多少度? 2 三角形的内角和 画几个不同类型的三角形.量一量,算一算,三角形3个内角 的和各是多少度. 我画的是锐角三角 形,也是… 我画的这个直角 三角形的内角和 大约是180° 你发现了什么?用实验来验证一下. 先把一个三角形的3个角剪下来,再拼一拼.看一看, 拼成了一个什么角. 拼成了一个 平角. 三角形的内角
-> **Definition 8.5.8 (四边形的内角和)**
+> 由线段围成的封闭图形是多边形, 有几条边就有几个角. 三角形有 $3$ 条边, 四边形有 $4$ 条边, 五边形有 $5$ 条边, 六边形有 $6$ 条边. 每条边都相等的多边形叫正多边形.
+> **Definition 6.3.2 (长方形和正方形的特征)**
 > 
-> 把四边形分成 $2$ 个三角形, 四边形的内角和是 $180^\circ\times2=360^\circ$.
+> 长方形对边相等, 有 $4$ 个直角; 正方形 $4$ 条边都相等, 有 $4$ 个直角. 把长方形折出最大的正方形, 正方形的边长正好等于长方形的宽.
+> **Definition 6.3.3 (周长)**
+> 
+> 封闭图形一周的长度, 是它的周长.
+> **Definition 6.3.4 (长方形和正方形的周长)**
+> 
+> 参见教材相应章节关于此概念的论述.
 
-## Exercise 147
+## Exercise 1
 
-(Lesson: Properties of Triangles, Try It) State the names of the parts of each triangle below, and draw the height on the specified base. How many heights can one triangle have?
+(Lesson: Practice 7, Problem 2) Compute: $503-278$, $267\times6$, $65\times6\div5$, $588\div3\div7$, $87\div3-26$, $\left(387+373\right)\div4$, $320+208\div2$, $296\div\left(2\times4\right)$.
 
-### Solution to Exercise 147
+### Solution to Exercise 1
 
-By **Definition 8.5.1 (A Triangle and Its Parts)**, a triangle has $3$ sides, $3$ angles and $3$ vertices. Drawing a perpendicular segment from each vertex to the opposite side gives a height, so one triangle can have $3$ heights. $\blacksquare$
+$503-278=225$, $267\times6=1602$, $65\times6\div5=78$, $588\div3\div7=28$, $87\div3-26=29-26=3$, $\left(387+373\right)\div4=760\div4=190$, $320+208\div2=320+104=424$, $296\div\left(2\times4\right)=296\div8=37$. $\blacksquare$
 
-## Exercise 148
+## Exercise 2
 
-(Lesson: Properties of Triangles, Try It) Give examples from daily life of the use of the stability of triangles.
+(Lesson: Practice 7, Problem 3) A kite factory makes $306$ kites in $3$ days. How many kites per day on average?
 
-### Solution to Exercise 148
+### Solution to Exercise 2
 
-By **Definition 8.5.2 (Stability of a Triangle)**, e.g. bicycle frames, triangular roof supports, triangular braces on utility poles, and the triangular structure of basketball stands. $\blacksquare$
+$306\div3=102$ (kites), $102$ per day on average. $\blacksquare$
 
-## Exercise 149
+## Exercise 3
 
-(Lesson: Properties of Triangles, Practice 15, Problem 1) Draw the height on the specified base of each triangle.
+(Lesson: Practice 7, Problem 4) Xiaoli has $192$ photos, exactly filling $2$ photo albums, $4$ photos per page. How many pages does each album have?
 
-### Solution to Exercise 149
+### Solution to Exercise 3
 
-By **Definition 8.5.1 (Height and Base of a Triangle)**, align one right-angle side of the set square with the base, let the other right-angle side pass through the opposite vertex, and draw the perpendicular segment from the vertex to the base; that is the height. $\blacksquare$
+$192\div2\div4=24$ (pages), $24$ pages per album. $\blacksquare$
 
-## Exercise 150
+## Exercise 4
 
-(Lesson: Properties of Triangles, Practice 15, Problem 2) When fencing, which method is more sturdy? Why?
+(Lesson: Practice 7, Problem 5) Backpack stock: $A$ $3$ for $273$ yuan; $B$ $5$ for $305$ yuan; $C$ $4$ for $282$ yuan. Estimate which is cheapest.
 
-### Solution to Exercise 150
+### Solution to Exercise 4
 
-By **Definition 8.5.2 (Stability of a Triangle)**, the fence shaped into triangles is more sturdy, because a triangle is stable and does not deform when pulled. $\blacksquare$
+$A$ each: $273\div3=91$ (yuan); $B$ each: $305\div5=61$ (yuan); $C$ each: $282\div4\approx70$ (yuan); the $B$ backpack is cheapest. $\blacksquare$
 
-## Exercise 151
+## Exercise 5
 
-(Lesson: Classification of Triangles, Practice 15, Problem 3) (1) On a pegboard, enclose respectively an acute triangle, a right triangle and an obtuse triangle; (2) enclose a triangle that is both acute and isosceles.
+(Lesson: Practice 7, Problem 6) Cut a rope $360$ meters long into two pieces; the first piece is $2$ times the second. How long is each piece?
 
-### Solution to Exercise 151
+### Solution to Exercise 5
 
-By **Definition 8.5.5 (Classification by Angles)** and **Definition 8.5.6 (Isosceles Triangles)**, enclose figures matching the angle features of each kind; to be both acute and isosceles, two sides are equal and all three angles are acute. $\blacksquare$
+The second piece is $1$ part, the first is $2$ parts, $3$ parts in total. Second piece $360\div3=120$ (meters), first piece $120\times2=240$ (meters). $\blacksquare$
 
-## Exercise 152
+## Exercise 6
 
-(Lesson: Classification of Triangles, Practice 15, Problem 4) Draw connections: acute triangle, right triangle, obtuse triangle, isosceles triangle, equilateral triangle.
+(Lesson: Practice 7, Problem 7) One bird eats $645$ insects a day, another eats $608$ in $8$ days. How many more per day does the first eat than the second?
 
-### Solution to Exercise 152
+### Solution to Exercise 6
 
-By **Definition 8.5.5 (Classification by Angles)** and **Definition 8.5.6 (Isosceles and Equilateral Triangles)**, connect each triangle to the corresponding category according to its angle and side features. $\blacksquare$
+The second per day: $608\div8=76$ (insects), $645-76=569$ (insects). $\blacksquare$
 
-## Exercise 153
+## Exercise 7
 
-(Lesson: Properties of Triangles, Practice 15, Problem 5) Below the groups of sticks that can enclose a triangle, mark "√" (unit: $\mathrm{cm}$): (1) $6,7,8$; (2) $3,3,6$; (3) $3,3,3$; (4) $2,2,6$; (5) $3,5,3$.
+(Lesson: Practice 7, Problem 8) The cafeteria buys $4$ boxes of apples, each box $2$ layers, $15$ apples per layer; grade three has $3$ classes averaging $36$ people per class; every $4$ apples weigh $1$ kg, at $6$ yuan per kg. (1) How many apples are bought in total? (2) Is $1$ apple per person enough? (3) Raise other questions and answer them.
 
-### Solution to Exercise 153
+### Solution to Exercise 7
 
-By **Definition 8.5.4 (Relationship Among the Three Sides of a Triangle)**, it works when the sum of the two shorter sides is greater than the third side: (1) $6+7> 8$, yes; (2) $3+3=6$, no; (3) $3+3> 3$, yes; (4) $2+2< 6$, no; (5) $3+3> 5$, yes. $\blacksquare$
+(1) $4\times2\times15=120$ (apples). (2) There are $3\times36=108$ (people), $120> 108$, so it is enough. (3) For example, how much are these apples in total, $120\div4\times6=180$ yuan; answers may vary. $\blacksquare$
 
-## Exercise 154
+## Exercise 8
 
-(Lesson: Properties of Triangles, Practice 15, Problem 6) Uncle Li wants to go from the post office to the school. Which road is the shortest?
+(Lesson: Practice 7, Problem 9) Choose information, raise a question and solve it: ① every $2$ pieces to a bag, ② every $6$ bags to a box, ③ every $4$ boxes to a carton, ④ egg-yolk zongzi $480$ pieces, ⑤ meat zongzi $360$ pieces, ⑥ red-bean zongzi $600$ pieces.
 
-### Solution to Exercise 154
+### Solution to Exercise 8
 
-By **Definition 8.5.3 (Distance Between Two Points)**, the segment between two points is the shortest, so the road directly connecting the post office and the school is the shortest. $\blacksquare$
+By **Definition 6.2.6 (Totalization Problem)**, choose any three related pieces of information; for example ④①②: $480$ egg-yolk zongzi, $2$ per bag, $6$ bags per box, can be packed into $480\div2\div6=40$ (boxes). Different combinations give different questions and answers. $\blacksquare$
 
-## Exercise 155
+## Exercise 9
 
-(Lesson: Properties of Triangles, Practice 15, Problem 7) With the following $6$ sticks, how many kinds of triangles can be enclosed (unit: $\mathrm{cm}$)?
+(Lesson: Polygons — Do It, Problem 1) Find objects around you whose surfaces contain polygons, and say what shapes they are.
 
-### Solution to Exercise 155
+### Solution to Exercise 9
 
-By **Definition 8.5.4 (Relationship Among the Three Sides of a Triangle)**, take any three sticks and check whether the sum of the two shorter sides is greater than the third; those satisfying it can form a triangle. Count the different combinations. $\blacksquare$
+By **Definition 6.3.1 (Polygons)**, for example a desk top is a rectangle (quadrilateral), a red scarf is a triangle, some floor tiles are squares, and the cells of a honeycomb are hexagons; just point out the number of sides. $\blacksquare$
 
-## Exercise 156
+## Exercise 10
 
-(Lesson: Classification of Triangles, Practice 15, Problem 8) Guess: the triangle I hold has no obtuse angle. What kind of triangle might it be?
+(Lesson: Polygons — Do It, Problem 2) Draw several different polygons on a dot grid.
 
-### Solution to Exercise 156
+### Solution to Exercise 10
 
-By **Definition 8.5.5 (Classification by Angles)**, having no obtuse angle, it might be an acute triangle or a right triangle. $\blacksquare$
+By **Definition 6.3.1 (多边形)**, connect line segments end to end to close a figure; draw different polygons with $3$ sides (triangle), $4$ sides (quadrilateral), $5$ sides (pentagon), and so on. $\blacksquare$
 
-## Exercise 157
+## Exercise 11
 
-(Lesson: Classification of Triangles, Practice 15, Problem 9) Cut an isosceles triangle from a rectangular sheet of paper. Can you cut out an isosceles right triangle?
+(Lesson: Polygons — Do It, Problem 3) Fill in: based on a rectangle's equal opposite sides and a square's $4$ equal sides, fill in the unknown side lengths (rectangle length $12$ cm width $8$ cm, square side $10$ cm, etc.).
 
-### Solution to Exercise 157
+### Solution to Exercise 11
 
-Fold the rectangular paper in half, cut once along one side of the fold, and unfolding gives an isosceles triangle; cutting along the rectangle's diagonal gives an isosceles right triangle. $\blacksquare$
+By **Definition 6.3.2 (Features of Rectangles and Squares)**, a rectangle's opposite sides are equal and a square's $4$ sides are equal; fill in each unknown side length accordingly. $\blacksquare$
 
-## Exercise 158
+## Exercise 12
 
-(Lesson: Interior-Angle Sum of a Triangle, Try It) (1) In a triangle, $\angle1=140^\circ$, $\angle3=25^\circ$; find $\angle2$. (2) Cut a triangle along a dashed line into two small triangles; what is the interior-angle sum of each small triangle?
+(Lesson: Polygons — Do It, Problem 4) Fold as shown: fold the largest square out of a rectangle. What is the relation between the square's side length and the rectangle's width?
 
-### Solution to Exercise 158
+### Solution to Exercise 12
 
-By **Definition 8.5.7 (Interior-Angle Sum of a Triangle)**: (1) $\angle2=180^\circ-140^\circ-25^\circ=15^\circ$. (2) The interior-angle sum of each small triangle is still $180^\circ$. $\blacksquare$
+By **Definition 6.3.2 (长方形和正方形的特征)**, fold the width of the rectangle over to coincide with the long side; the largest square folded has a side length exactly equal to the rectangle's width. $\blacksquare$
 
-## Exercise 159
+## Exercise 13
 
-(Lesson: Interior-Angle Sum of a Quadrilateral, Try It) Find a way to compute the interior-angle sum of the polygon on the right.
+(Lesson: Practice 8, Problem 1) Use a square sheet of paper to fold a pentagon, a hexagon, a heptagon and an octagon.
 
-### Solution to Exercise 159
+### Solution to Exercise 13
 
-Using the method of **Definition 8.5.8 (Interior-Angle Sum of a Quadrilateral)**, split the polygon from one vertex into several triangles; the interior-angle sum $=180^\circ\times$ the number of triangles. $\blacksquare$
+By **Definition 6.3.1 (多边形)**, each fold of the square paper increases the number of sides cut (or folded) out; by folding in different ways, make the closed figure have $5,6,7,8$ sides respectively. $\blacksquare$
 
-## Exercise 160
+## Exercise 14
 
-(Lesson: Interior-Angle Sum of a Triangle, Practice 16, Problem 1) Compute the unknown angles: (1) $65^\circ$, $37^\circ$, find the third angle; (2) in a right triangle, $30^\circ$, find the other acute angle; (3) $25^\circ$, $20^\circ$, find the third angle.
+(Lesson: Practice 8, Problem 2) Draw on the grid (each cell $1$ cm) as required: (1) a rectangle $4$ cm long and $2$ cm wide; (2) a square with side $3$ cm.
 
-### Solution to Exercise 160
+The figure shows grid paper (each cell $1$ cm), on which a rectangle occupying $4$ cells by $2$ cells and a square occupying $3$ cells by $3$ cells have been drawn as a model.
 
-By **Definition 8.5.7 (Interior-Angle Sum of a Triangle $180^\circ$)**: (1) $180^\circ-65^\circ-37^\circ=78^\circ$; (2) $90^\circ-30^\circ=60^\circ$; (3) $180^\circ-25^\circ-20^\circ=135^\circ$. $\blacksquare$
+### Solution to Exercise 14
 
-## Exercise 161
+By **Definition 6.3.2 (长方形和正方形的特征)**, the rectangle occupies $4$ cells by $2$ cells; the square occupies $3$ cells by $3$ cells; draw them on the grid as in the figure. $\blacksquare$
 
-(Lesson: Interior-Angle Sum of a Triangle, Practice 16, Problem 2) Find each angle of the following triangles: (1) an equilateral triangle; (2) an isosceles triangle whose vertex angle is $96^\circ$; (3) a right triangle with one acute angle $40^\circ$.
+## Exercise 15
 
-### Solution to Exercise 161
+(Lesson: Practice 8, Problem 3) Inside the envelope is a quadrilateral; guess what shape it might be.
 
-By **Definition 8.5.7 (Interior-Angle Sum)** and **Definition 8.5.6 (Isosceles Triangle)**: (1) each angle of an equilateral triangle is $60^\circ$; (2) base angle $=\left(180^\circ-96^\circ\right)\div2=42^\circ$, the three angles are $96^\circ,42^\circ,42^\circ$; (3) the other acute angle $=90^\circ-40^\circ=50^\circ$, the three angles are $90^\circ,40^\circ,50^\circ$. $\blacksquare$
+### Solution to Exercise 15
 
-## Exercise 162
+By **Definition 6.3.1 (多边形)** and **Definition 6.3.2 (长方形和正方形的特征)**, a quadrilateral has $4$ sides and $4$ angles; it could be a rectangle, a square, or an ordinary parallelogram or an irregular quadrilateral; answers may vary. $\blacksquare$
 
-(Lesson: Interior-Angle Sum of a Triangle, Practice 16, Problem 3) A base angle of an isosceles-triangle kite is $70^\circ$. What is the vertex angle?
+## Exercise 16
 
-### Solution to Exercise 162
+(Lesson: Practice 8, Problem 4) Using two identical pairs of triangular rulers, assemble a rectangle and a square respectively.
 
-By **Definition 8.5.7 (Interior-Angle Sum)** and **Definition 8.5.6 (the two base angles of an isosceles triangle are equal)**, the vertex angle $=180^\circ-70^\circ\times2=40^\circ$. $\blacksquare$
+### Solution to Exercise 16
 
-## Exercise 163
+By **Definition 6.3.2 (长方形和正方形的特征)**, two identical right triangles (with one long and one short leg) joined along their long legs form a rectangle; two identical isosceles right triangles joined along their hypotenuses form a square. $\blacksquare$
 
-(Lesson: Interior-Angle Sum of a Triangle, Practice 16, Problem 4) Draw, compute and fill the table: triangle — $3$ sides, interior-angle sum $180^\circ$; quadrilateral — $4$ sides, interior-angle sum $180^\circ\times$ ( ); pentagon — $5$ sides, interior-angle sum $180^\circ\times$ ( ). What do you discover?
+## Exercise 17
 
-### Solution to Exercise 163
+(Lesson: Practice 8, Problem 5) Try folding a square into two identical parts; are there other ways to fold?
 
-A quadrilateral splits into $2$ triangles, interior-angle sum $180^\circ\times2=360^\circ$; a pentagon splits into $3$ triangles, interior-angle sum $180^\circ\times3=540^\circ$. The discovery: an $n$-gon's interior-angle sum $=180^\circ\times\left(n-2\right)$. $\blacksquare$
+### Solution to Exercise 17
 
-## Exercise 164
+Folding along any axis of symmetry of the square gives two identical parts: folding top-to-bottom, left-to-right, or along the two diagonals, $4$ ways in total. $\blacksquare$
 
-(Lesson: Interior-Angle Sum of a Triangle, Practice 16, Problem 5) Draw connections: one right angle and two equal sides; only two acute angles and no right angle; three equal angles; no right angle and no obtuse angle.
+## Exercise 18
 
-### Solution to Exercise 164
+(Lesson: Practice 8, Problem 6) Can you use a tangram to make a pentagon and a hexagon?
 
-By **Definition 8.5.5 (Classification by Angles)** and **Definition 8.5.6 (Base Angles of Isosceles Triangle)**: one right angle and two equal sides $\to$ isosceles right triangle; only two acute angles and no right angle $\to$ obtuse triangle; three equal angles $\to$ equilateral triangle; no right angle and no obtuse angle $\to$ acute triangle. $\blacksquare$
+### Solution to Exercise 18
 
-## Exercise 165
+By **Definition 6.3.1 (多边形)**, fit several tangram pieces together so that the outer closed figure has $5$ sides or $6$ sides; the ways of fitting are not unique. $\blacksquare$
 
-(Lesson: Interior-Angle Sum of a Triangle, Practice 16, Problem 6) Guess: (1) In a right triangle, one angle is a right angle; what might the other two angles be? (2) Two sides of a triangle are $3\,\mathrm{cm}$ and $4\,\mathrm{cm}$; what might the third side be in centimeters (whole numbers)?
+## Exercise 19
 
-### Solution to Exercise 165
+(Lesson: Perimeter — Do It, Problem 1) First measure, then compute the perimeter of each figure below.
 
-(1) By **Definition 8.5.7 (Interior-Angle Sum)**, the sum of the other two angles is $90^\circ$, e.g. $30^\circ$ and $60^\circ$, or $45^\circ$ and $45^\circ$. (2) By **Definition 8.5.4 (Relationship Among the Three Sides)**, $4-3< $ third side $< 4+3$, i.e. $1< $ third side $< 7$, so it can be $2,3,4,5,6\,\mathrm{cm}$. $\blacksquare$
+### Solution to Exercise 19
 
-## Exercise 166
+By **Definition 6.3.3 (Perimeter)**, measure the length of each side with a ruler, then add the side lengths. $\blacksquare$
 
-(Lesson: Interior-Angle Sum of a Triangle, Practice 16, Problem 7) How many triangles are in each figure below? What is the pattern?
+## Exercise 20
 
-### Solution to Exercise 166
+(Lesson: Perimeter — Do It, Problem 2) A rectangular flower bed is $5$ m long and $3$ m wide. What is its perimeter in meters?
 
-Count one by one the small triangles and the triangles formed by combining them. Pattern: drawing several lines from one vertex to the opposite side, the number of triangles $=1+2+3+\cdots$. Count according to the actual figure. $\blacksquare$
+### Solution to Exercise 20
+
+By **Definition 6.3.4 (Perimeters of Rectangles and Squares)**, $\left(5+3\right)\times2=16$ (meters). $\blacksquare$
+
+## Exercise 21
+
+(Lesson: Perimeter — Do It, Problem 3) Use a compass and a straightedge to draw a segment representing the perimeter of the figure on the right.
+
+### Solution to Exercise 21
+
+By **Definition 6.3.3 (周长)**, lay the sides of the figure end to end into one segment; the length of this segment is the perimeter. Use the compass to step off each side in turn into one segment. $\blacksquare$
+
+## Exercise 22
+
+(Lesson: Perimeter — Do It, Problem 4) Using $16$ square sheets of side $1$ dm to form a rectangle or square, how should they be arranged to give the shortest perimeter?
+
+### Solution to Exercise 22
+
+$16=1\times16=2\times8=4\times4$. The perimeters of the three arrangements: $\left(1+16\right)\times2=34$, $\left(2+8\right)\times2=20$, $4\times4=16$. The $4\times4$ square has the shortest perimeter. $\blacksquare$
+
+## Exercise 23
+
+(Lesson: Perimeter — Do It, Problem 5) What if $36$ square sheets are used? What do you find?
+
+### Solution to Exercise 23
+
+$36=1\times36=2\times18=3\times12=4\times9=6\times6$; the $6\times6$ square has the shortest perimeter. Finding: with the same number of small squares, the closer the arrangement is to a square (the closer the length and width), the shorter the perimeter. $\blacksquare$

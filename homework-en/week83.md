@@ -1,47 +1,156 @@
 # week83
-> **Definition 10.6.1 (折线统计图)**
+> **Definition 8.2.1 (从不同方向观察物体)**
 > 
-> 折线统计图用高低不同的点表示数据的多少, 再把点依次连接成折线. 它不但能表示数据的多少, 还能清楚地看出数据的增减变化趋势. 条形统计图只直观地呈现数据的多少.
-> **Definition 10.6.2 (复式折线统计图)**
+> 从前面, 上面, 左面 (或右面) 观察由小正方体搭成的物体, 看到的平面图形叫作这个方向看到的形. 从不同方向看同一个物体, 看到的图形一般不同; 从同一个位置看不同的物体, 看到的图形也可能相同.
+> **Definition 8.3.1 (加法交换律)**
 > 
-> 用两条或两条以上不同的折线表示两组或多组数据的统计图, 叫复式折线统计图. 它便于比较两组数据的变化趋势, 画图时要标明图例, 用不同颜色或线型区分.
+> 两个数相加, 交换两个加数的位置, 和不变. 用字母表示: $a+b=b+a$.
+> **Definition 8.3.2 (加法结合律)**
+> 
+> 三个数相加, 先把前两个数相加, 或者先把后两个数相加, 和不变. 用字母表示: $\left(a+b\right)+c=a+\left(b+c\right)$.
+> **Definition 8.3.3 (减法的运算性质)**
+> 
+> 一个数连续减去两个数, 等于减去这两个数的和: $a-b-c=a-\left(b+c\right)$; 也可以先减后一个减数再减前一个: $a-b-c=a-c-b$.
+> **Definition 8.3.4 (乘法交换律)**
+> 
+> 两个数相乘, 交换两个因数的位置, 积不变. 用字母表示: $a\times b=b\times a$.
+> **Definition 8.3.5 (乘法结合律)**
+> 
+> 三个数相乘, 先乘前两个数, 或者先乘后两个数, 积不变. 用字母表示: $\left(a\times b\right)\times c=a\times\left(b\times c\right)$.
+> **Definition 8.3.6 (乘法分配律)**
+> 
+> 两个数的和与一个数相乘, 可以先把它们与这个数分别相乘, 再相加. 用字母表示: $\left(a+b\right)\times c=a\times c+b\times c$, 也可反过来 $a\times c+b\times c=\left(a+b\right)\times c$.
+> **Definition 8.3.7 (除法的运算性质)**
+> 
+> 一个数连续除以两个数, 等于除以这两个除数的积: $a\div b\div c=a\div\left(b\times c\right)$.
+> **Definition 8.3.8 (简便计算)**
+> 
+> 利用加法, 乘法的运算律和减法, 除法的运算性质, 把能凑成整十, 整百的数先算, 使计算更简便.
 
-## Exercise 117
+## Exercise 1
 
-(Lesson: Single Line Graphs, Do It) Below is a graph of China's high-speed rail operating mileage from 2009 to 2021 (a single line graph: the horizontal axis shows years 2009 through 2021, the vertical axis shows operating mileage in tens of thousands of kilometers; data points rise year by year and are connected by line segments into an upward-trending broken line). (1) How did China's high-speed rail mileage change from 2009 to 2021? (2) Which year saw the largest increase over the previous year? (3) What else can you find?
+(Lesson: Observing Objects, Practice 4, Problem 5) Look and say: there are six objects ① to ⑥ built from small cubes. (1) Looking from the front, which objects give the figure in A? Which give the figure in B? (2) Looking from the left side, which objects give the figure in B? (3) Looking from the top, are any of the figures the same?
 
-### Solution to Exercise 117
+### Solution to Exercise 1
 
-By **Definition 10.6.1 (Line Graphs)**: (1) the mileage rises year by year, with the line slanting upward to the right; (2) comparing adjacent years' vertical gaps, the largest increase occurs around 2020–2021 or 2016 (take the adjacent pair with the largest difference in the figure); (3) high-speed rail construction is fast, and despite a large later base the mileage keeps growing. $\blacksquare$
+By **Definition 8.2.1 (Observing Objects from Different Directions)**, observe the six objects one by one from the front, left side and top, compare the seen figures with figures A and B, and list the numbers by category; then compare the top views of the objects and point out the ones that are the same. $\blacksquare$
 
-## Exercise 118
+## Exercise 2
 
-(Lesson: Single Line Graphs, Example 2) The number of teams in a regional youth robotics contest from 2012 to 2021 is: 128, 123, 137, 168, 175, 190, 212, 203, 247, 264. (1) Which year had the most teams? Which year had the largest increase over the previous? (2) How did the number of teams change?
+(Lesson: Observing Objects, Practice 4, Problem 6) Below are the figures seen from the front, top and left side of the same object. Please build it.
 
-### Solution to Exercise 118
+### Solution to Exercise 2
 
-By **Definition 10.6.1 (Line Graphs)**: (1) the most is 2021 (264 teams); taking year-to-year differences, the largest increase is in 2014 (137$\to$168, up 31) or 2020 (203$\to$247, up 44), whichever adjacent difference is largest; (2) the number of teams generally rises, showing growing participation. $\blacksquare$
+By **Definition 8.2.1 (Observing Objects from Different Directions)**, combining the arrangements of squares seen from the three directions, reverse-engineer the object's shape with small cubes and build it, then check from the three directions that it matches the given figures. $\blacksquare$
 
-## Exercise 119
+## Exercise 3
 
-(Lesson: Double Line Graphs, Example) National births and deaths from 1998 to 2021 are plotted as a double line graph. Observe and answer: what trends do births and deaths show? When do the two lines get close?
+(Lesson: Observing Objects, Practice 4, Problem 7) The object in the figure is built from ( ) small cubes.
 
-### Solution to Exercise 119
+### Solution to Exercise 3
 
-By **Definition 10.6.2 (Double Line Graphs)**: births generally decline (sharply late on), while deaths rise slowly; the two lines gradually approach each other, showing that natural population growth is shrinking. A double line graph makes it easy to compare two data sets' trends in one coordinate system. $\blacksquare$
+By **Definition 8.2.1 (Observing Objects from Different Directions)**, count layer by layer the small cubes that are visible and those that are hidden, and add them up to get the total. Count layer by layer according to the figure. $\blacksquare$
 
-## Exercise 120
+## Exercise 4
 
-(Lesson: Exercise 24, Problem 1) A patient's temperature recorded in a line graph: 0:00 $39.2^\circ\mathrm{C}$, 6:00 $38^\circ$, 12:00 $38.5^\circ\mathrm{C}$, 18:00 $37.5^\circ\mathrm{C}$. How did the patient's temperature change?
+(Lesson: Operation Laws of Addition, Try It) Fill in the blanks by the commutative law of addition: $300+600=600+$ ___; $78+$ ___ $=43+$ ___; $a+12=12+$ ___; ___ $+65=65+35$.
 
-### Solution to Exercise 120
+### Solution to Exercise 4
 
-By **Definition 10.6.1 (Line Graphs)**, the temperature first drops from $39.2^\circ\mathrm{C}$ to $38^\circ\mathrm{C}$, rises slightly to $38.5^\circ\mathrm{C}$, then drops to $37.5^\circ\mathrm{C}$; overall it trends downward, showing the patient is recovering. $\blacksquare$
+By **Definition 8.3.1 (Commutative Law of Addition)**, swap the addends: $300+600=600+300$; $78+43=43+78$; $a+12=12+a$; $35+65=65+35$. $\blacksquare$
 
-## Exercise 121
+## Exercise 5
 
-(Lesson: Exercise 25, Problem 1) Group discussion: For each of the two data sets below, is a bar chart or a line graph more suitable? (1) The number of students in each Grade-5 class; (2) the monthly average temperature over a year.
+(Lesson: Operation Laws of Addition, Try It) Fill in the blanks by the associative law of addition: $\left(25+68\right)+32=25+$( ___ $+$ ___ ); $130+\left(70+4\right)=\left(130+$ ___ $\right)+$ ___.
 
-### Solution to Exercise 121
+### Solution to Exercise 5
 
-By **Definition 10.6.1 (Line Graphs)**: (1) class sizes only compare amounts, so use a bar chart; (2) monthly average temperature requires seeing the trend over the year, so use a line graph. $\blacksquare$
+By **Definition 8.3.2 (Associative Law of Addition)**, add the last two (or first two) first: $\left(25+68\right)+32=25+\left(68+32\right)$; $130+\left(70+4\right)=\left(130+70\right)+4$. $\blacksquare$
+
+## Exercise 6
+
+(Lesson: Operation Laws of Addition, Practice 5, Problem 1) Which operation law does each expression below use? $76+18=18+76$; $56+72+28=56+\left(72+28\right)$; $31+67+19=31+19+67$; $24+42+76+58=\left(24+76\right)+\left(42+58\right)$.
+
+### Solution to Exercise 6
+
+By **Definition 8.3.1 (Commutative Law of Addition)** and **Definition 8.3.2 (Associative Law of Addition)**: $76+18=18+76$ uses the commutative law; $56+72+28=56+\left(72+28\right)$ uses the associative law; $31+67+19=31+19+67$ uses the commutative law; $24+42+76+58=\left(24+76\right)+\left(42+58\right)$ uses both the commutative and associative laws. $\blacksquare$
+
+## Exercise 7
+
+(Lesson: Operation Laws of Addition, Practice 5, Problem 2) Calculate the following, then check using the commutative law of addition: $56+89$; $307+348$; $425+480$; $118+274$; $38+456$; $123+2847$.
+
+### Solution to Exercise 7
+
+$56+89=145$; $307+348=655$; $425+480=905$; $118+274=392$; $38+456=494$; $123+2847=2970$. Check by swapping the two addends and adding again. $\blacksquare$
+
+## Exercise 8
+
+(Lesson: Operation Laws of Addition, Practice 5, Problem 3) First calculate, then fill the table (the two addends are $36,78,135,296$, find all pairwise sums). Observe what feature the numbers in the table have.
+
+### Solution to Exercise 8
+
+By **Definition 8.3.1 (Commutative Law of Addition)**, $a+b=b+a$, so the two sums symmetric about the diagonal in the table are equal. $36+78=114$, $36+135=171$, $36+296=332$, $78+135=213$, $78+296=374$, $135+296=431$. $\blacksquare$
+
+## Exercise 9
+
+(Lesson: Operation Laws of Addition, Practice 5, Problem 4) Complete the following table (a mall's first-quarter appliance sales, unit: sets). Televisions: January $385$, February $415$, March $537$; refrigerators: $248,309,291$; washing machines: $347,418,353$. Find the total for each appliance.
+
+### Solution to Exercise 9
+
+By **Definition 8.3.2 (Associative Law of Addition)**, add the roundable ones first: televisions $385+415+537=800+537=1337$ (sets); refrigerators $248+309+291=248+600=848$ (sets); washing machines $347+418+353=700+418=1118$ (sets). $\blacksquare$
+
+## Exercise 10
+
+(Lesson: Operation Laws of Addition, Practice 5, Problem 5) Which two flowers have numbers that sum to $100$? Draw the connections. The numbers on the flowers: $18,25,57,69,75,31,96,43,82,19$.
+
+### Solution to Exercise 10
+
+Connect the pairs that sum to $100$: $18+82=100$, $25+75=100$, $57+43=100$, $69+31=100$. The remaining $96$ and $19$ cannot be paired to make $100$. $\blacksquare$
+
+## Exercise 11
+
+(Lesson: Application of the Operation Laws of Addition, Try It, Problem 1) Calculate the following, as conveniently as possible: $425+14+186$; $75+168+25$; $245+180+20+155$; $67+25+33+75$.
+
+### Solution to Exercise 11
+
+By **Definition 8.3.8 (Convenient Calculation)**, make round numbers: $425+14+186=425+200=625$; $75+168+25=\left(75+25\right)+168=268$; $245+180+20+155=\left(245+155\right)+\left(180+20\right)=600$; $67+25+33+75=\left(67+33\right)+\left(25+75\right)=200$. $\blacksquare$
+
+## Exercise 12
+
+(Lesson: Application of the Operation Laws of Addition, Try It, Problem 2) Teacher Liu buys sports goods priced at $48$ yuan, $55$ yuan, $52$ yuan, and $45$ yuan. How much was spent in total?
+
+### Solution to Exercise 12
+
+By **Definition 8.3.8 (Convenient Calculation)**, $48+55+52+45=\left(48+52\right)+\left(55+45\right)=100+100=200$ (yuan). $\blacksquare$
+
+## Exercise 13
+
+(Lesson: Operation Property of Subtraction, Try It, Problem 1) Fill in the $\bigcirc$ and the lines with operation signs and numbers: $868-52-48=868\bigcirc\left(52+$ ___ $\right)$; $1500-28-272=$ ___ $\bigcirc\left(28\bigcirc272\right)$; $415-74-26=$ ___; $a-b-c=$ ___.
+
+### Solution to Exercise 13
+
+By **Definition 8.3.3 (Operation Property of Subtraction)**, subtracting two numbers in a row equals subtracting their sum: $868-52-48=868-\left(52+48\right)$; $1500-28-272=1500-\left(28+272\right)$; $415-74-26=415-\left(74+26\right)$; $a-b-c=a-\left(b+c\right)$. $\blacksquare$
+
+## Exercise 14
+
+(Lesson: Operation Property of Subtraction, Try It, Problem 2) Calculate the following, as conveniently as possible: $528-53-47$; $545-167-145$; $487-187-139-61$; $169-25-25-50$.
+
+### Solution to Exercise 14
+
+By **Definition 8.3.3 (Operation Property of Subtraction)** and **Definition 8.3.8 (Convenient Calculation)**: $528-53-47=528-100=428$; $545-167-145=545-145-167=400-167=233$; $487-187-139-61=300-\left(139+61\right)=100$; $169-25-25-50=169-100=69$. $\blacksquare$
+
+## Exercise 15
+
+(Lesson: Convenient Addition and Subtraction, Practice 6, Problem 1) Calculate the following, as conveniently as possible: $60+255+40$; $282+41+159$; $548+52+468$; $13+46+55+54+87$; $5+137+45+63+50$; $800-138-162$; $672-36-64$; $672-36+64$.
+
+### Solution to Exercise 15
+
+$60+255+40=\left(60+40\right)+255=355$; $282+41+159=282+200=482$; $548+52+468=600+468=1068$; $13+46+55+54+87=\left(13+87\right)+\left(46+54\right)+55=255$; $5+137+45+63+50=\left(5+45+50\right)+\left(137+63\right)=300$; $800-138-162=800-300=500$; $672-36-64=672-100=572$; $672-36+64=636+64=700$. $\blacksquare$
+
+## Exercise 16
+
+(Lesson: Convenient Addition and Subtraction, Practice 6, Problem 2) On the $3$rd month (March) the $6$th Aunt Wang received a transfer of $225.00$ yuan, on the $3$rd month the $10$th she received $328.00$ yuan, and on the $3$rd month the $11$th she received $175.00$ yuan. How much transfer money did she receive in total over these days?
+
+### Solution to Exercise 16
+
+By **Definition 8.3.8 (Convenient Calculation)**, $225+328+175=\left(225+175\right)+328=400+328=728$ (yuan). $\blacksquare$

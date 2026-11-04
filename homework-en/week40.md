@@ -1,251 +1,205 @@
 # week40
-> **Definition 5.4.1 (等量的等量相等与总量等于各分量之和)**
+> **Definition 4.5.1 (万以内加法笔算)**
 > 
-> 等量的等量相等; 总量等于各分量之和.
-> **Definition 5.7.3 (直角, 锐角, 钝角)**
+> 列竖式加法时, 相同数位对齐, 从个位加起; 哪一位上的数相加满十, 就向前一位进 $1$. 相同数位对齐是为了相同计数单位的个数相加.
+> **Definition 4.5.2 (万以内减法笔算)**
 > 
-> 参见教材相应章节关于此概念的论述.
-> **Definition 5.9.1 (数与运算的整理)**
+> 列竖式减法时, 相同数位对齐, 从个位减起; 哪一位上的数不够减, 就从前一位退 $1$, 在本位上加 $10$ 再减.
+> **Definition 4.5.3 (加法各部分间的关系)**
 > 
-> 多位数乘一位数都可以转化为表内乘法来算: 口算把数分成几个千, 百, 十, 一再相乘相加; 笔算从个位起依次乘, 满几十进几. 混合运算: 同级从左往右, 先乘除后加减, 有括号先算括号里. 分数可表示部分与整体的关系, 同分母分数相加减, 分母不变分子加减.
-> **Definition 5.9.2 (数量关系与解决问题的整理)**
+> 把两个数合并成一个数的运算叫加法. 和 $=$ 加数 $+$ 加数, 加数 $=$ 和 $-$ 另一个加数.
+> **Definition 4.5.4 (减法各部分间的关系)**
 > 
-> 解决多步问题先找数量关系, 可画线段图分析, 分步列式或列综合算式; 根据需要选择估算或精确计算. 把人数往大估钱都够, 实际一定够.
-> **Definition 5.9.3 (常见的量与图形的整理)**
-> 
-> 长度单位: 毫米, 厘米, 分米, 米, 千米 (相邻进率 $10$, $10$, $10$, $1000$); 质量单位: 克, 千克, 吨 (进率都是 $1000$). 线有线段, 射线, 直线; 角有锐角, 直角, 钝角 (锐角 $< $ 直角 $< $ 钝角). 从不同方向观察物体, 看到的形常常不同.
-> **Definition 5.9.4 (搭配问题)**
-> 
-> 完成一件事要分两步, 每步分别有几种选择, 总数用乘法, 如上装 $2$ 种下装 $3$ 种共 $2\times3=6$ 种搭配; 完成一件事分两类, 总数用加法, 如 $2$ 班飞机和 $3$ 班高铁共 $2+3=5$ 种选择.
+> 已知两个加数的和与其中一个加数, 求另一个加数的运算叫减法, 减法是加法的逆运算. 差 $=$ 被减数 $-$ 减数, 减数 $=$ 被减数 $-$ 差, 被减数 $=$ 减数 $+$ 差.
 
-## Exercise 269
+## Exercise 1
 
-(Lesson: Application Improvement, Problem 1) Route distances: Beijing–Chengdu $1542$ kilometers, Beijing–Guangzhou $1908$ kilometers, Beijing–Sanya $2543$ kilometers, Beijing–Urumqi $2464$ kilometers. (1) Fill in the units: $1$ hour of flight is about $900$ ( ), maximum takeoff mass about $72$ ( ), total fuselage length about $39$ ( ). (2) Flying from Beijing to Guangzhou and then $690$ kilometers to Sanya, how many kilometers more is that than flying directly to Sanya? (3) One plane carries $164$ people; estimate whether $5$ planes can carry $1000$ people in one trip. (4) A hard-sleeper ticket is $745$ yuan; an air ticket is about $4$ times that. About how much is an air ticket?
+(Lesson: Addition, Practice) A crew repairs an $840$-meter road, repairing $356$ meters in the morning and $278$ meters in the afternoon; how many meters did they repair in all?
 
-### Solution to Exercise 269
+### Solution to Exercise 1
 
-(1) Flight $900$ kilometers, takeoff mass $72$ tons, fuselage $39$ meters. (2) $1908+690=2598$ kilometers, $2598-2543=55$ kilometers. (3) $164< 200$, $200\times5=1000$; actually $164\times5=820< 1000$, so it cannot. (4) $745\times4\approx2980$ yuan. $\blacksquare$
+$356+278=634$ meters. They repaired $634$ meters in all. $\blacksquare$
 
-## Exercise 270
+## Exercise 2
 
-(Lesson: Application Improvement, Problem 2) (1) How many angles are in the figure on the right? Which of them are right angles? (2) Draw a straight line so that the right angles inside the figure increase to $3$.
+(Lesson: Addition, Practice) Calculate and fill the $\square$: $65+8$, $65+98$, $65+398$, $4398+2565$, $4398+565$. Can you do the last one?
 
-### Solution to Exercise 270
+### Solution to Exercise 2
 
-By **Definition 5.7.3 (Right, Acute, Obtuse Angles)**, first count the existing angles and right angles; then draw a straight line perpendicular to some side so that extra right angles appear at the new intersection, bringing the total to $3$. Follow the figure. $\blacksquare$
+$65+8=73$; $65+98=163$; $65+398=463$; $4398+2565=6963$; $4398+565=4963$. Even with more digits, align the places and carry at ten. $\blacksquare$
 
-## Exercise 271
+## Exercise 3
 
-(Lesson: Application Improvement, Problem 3) Fraction wall: (1) Which fractions can you find? Arrange them from smallest to largest. (2) How many of $\frac{1}{2}$, $\frac{1}{3}$, $\cdots$, $\frac{1}{9}$ are in $1$? (3) Which different fractions add up to $1$? (4) Raise other questions and answer them.
+(Lesson: Addition, Practice) Fill the $\square$ with the same number so that the vertical form holds.
 
-### Solution to Exercise 271
+### Solution to Exercise 3
 
-(1) $\frac{1}{9}< \frac{1}{8}< \frac{1}{7}< \frac{1}{6}< \frac{1}{5}< \frac{1}{4}< \frac{1}{3}< \frac{1}{2}$. (2) In $1$ there are $2$ of $\frac{1}{2}$, $3$ of $\frac{1}{3}$, $\cdots$, $9$ of $\frac{1}{9}$. (3) For example, $\frac{1}{2}+\frac{1}{2}=1$, $\frac{1}{3}+\frac{1}{3}+\frac{1}{3}=1$, $\frac{1}{4}+\frac{1}{4}+\frac{1}{4}+\frac{1}{4}=1$. (4) Answers may vary. $\blacksquare$
+From the carry situation in the ones and tens places, try one same digit in the $\square$ so that both sides are equal. Start from the ones and try place by place. $\blacksquare$
 
-## Exercise 272
+## Exercise 4
 
-(Lesson: Application Improvement, Problem 4) Match: the figures seen respectively by Xiaohong, Xiaoli, Xiaoliang and Xiaoming.
+(Lesson: Addition, Thinking Question) Put $150,151,152,153,154,155,156,157,158$ in a three-by-three grid so that the sum of every row and column is equal.
 
-### Solution to Exercise 272
+### Solution to Exercise 4
 
-By **Definition 5.9.3 (Review of Common Measures and Figures)**, match according to the features of the face seen from each person's direction. $\blacksquare$
+Put the middle number $154$ in the center, pair opposite corners $\left(150,158\right),\left(151,157\right),\left(152,156\right),\left(153,155\right)$; each line's two ends sum to $308$, and adding the center $154$ gives a row sum of $462$. $\blacksquare$
 
-## Exercise 273
+## Exercise 5
 
-(Lesson: Practice 19, Problem 1) Fill in the appropriate numbers: $4$ kilometers $=\left(\ \right)$ meters; $70$ centimeters $=\left(\ \right)$ decimeters; $5$ centimeters $=\left(\ \right)$ millimeters; $8000$ kilograms $=\left(\ \right)$ tons.
+(Lesson: Addition, Practice) Grandpa Wang buys a microwave for $650$ yuan and a wok for $120$ yuan; he only has $100$-yuan bills, how many bills must he pay?
 
-### Solution to Exercise 273
+### Solution to Exercise 5
 
-By **Definition 5.9.3 (常见的量与图形的整理)**: $4$ kilometers $=4000$ meters; $70$ centimeters $=7$ decimeters; $5$ centimeters $=50$ millimeters; $8000$ kilograms $=8$ tons. $\blacksquare$
+In all $650+120=770$ yuan; paying all in $100$-yuan bills, $770$ yuan needs $8$ bills ($7$ bills give only $700$, not enough). $\blacksquare$
 
-## Exercise 274
+## Exercise 6
 
-(Lesson: Practice 19, Problem 2) Fill in suitable units: (1) the Beijing–Shanghai high-speed railway is $1318$ ( ) long; (2) a bag of rice weighs $5$ ( ); (3) a mobile phone is about $7$ ( ) thick.
+(Lesson: Subtraction, Do It) Compute in vertical form: $963-76$, $356-85$, $648-296$, $924-583$.
 
-### Solution to Exercise 274
+### Solution to Exercise 6
 
-(1) kilometers; (2) kilograms; (3) millimeters. $\blacksquare$
+By **Definition 4.5.2 (Written Subtraction within Ten Thousand)**, $963-76=887$; $356-85=271$; $648-296=352$; $924-583=341$. $\blacksquare$
 
-## Exercise 275
+## Exercise 7
 
-(Lesson: Practice 19, Problem 3) Compute: $22\times3$; $15\times6$; $204\times7$; $913\times8$; $41\times2$; $156\times9$; $2600\times4$; $190\times5$.
+(Lesson: Subtraction, Do It) An oven costs $549$ yuan in store A and $498$ yuan in store B; how much cheaper is store B than store A?
 
-### Solution to Exercise 275
+### Solution to Exercise 7
 
-$22\times3=66$; $15\times6=90$; $204\times7=1428$; $913\times8=7304$; $41\times2=82$; $156\times9=1404$; $2600\times4=10400$; $190\times5=950$. $\blacksquare$
+$549-498=51$ yuan. It is $51$ yuan cheaper. $\blacksquare$
 
-## Exercise 276
+## Exercise 8
 
-(Lesson: Practice 19, Problem 4) Estimate, match, and then verify: $42\times6$, $192\times3$, $302\times8$, $1700\times3$; products $252$, $576$, $5100$, $2416$.
+(Lesson: Subtraction, Do It) Compute in vertical form: $595-87$, $921-378$, $413-228$.
 
-### Solution to Exercise 276
+### Solution to Exercise 8
 
-$42\times6=252$; $192\times3=576$; $302\times8=2416$; $1700\times3=5100$. $\blacksquare$
+$595-87=508$; $921-378=543$; $413-228=185$. $\blacksquare$
 
-## Exercise 277
+## Exercise 9
 
-(Lesson: Practice 19, Problem 5) Teacher Li's home is $4$ kilometers from school and $2500$ meters from the supermarket; the bookstore is $2$ kilometers from school. (1) How many meters is it from the bookstore to the supermarket? (2) Teacher Li rides $220$ meters per minute; can he get to school in $20$ minutes?
+(Lesson: Subtraction, Do It) Grade 6 donated $301$ books and Grade 3 donated $145$; how many books more did Grade 6 donate than Grade 3?
 
-### Solution to Exercise 277
+### Solution to Exercise 9
 
-(1) Teacher Li's home is in the middle: school $4000$ meters, supermarket $2500$ meters, bookstore $2000$ meters, so the bookstore to the supermarket is $2500-2000=500$ meters (according to the positions in the figure). (2) $220\times20=4400$ meters $> 4000$ meters, so he can arrive. $\blacksquare$
+$301-145=156$ books. The difference is $156$ books (the tens place is $0$, so borrow $1$ from the hundreds and turn it into $10$ tens). $\blacksquare$
 
-## Exercise 278
+## Exercise 10
 
-(Lesson: Practice 19, Problem 6) Compute: $173-26+35$; $54-\left(62-34\right)$; $\left(182-18\right)\times8$; $63\div\left(44-37\right)$; $72+8\times65$; $87\times5+13\times5$.
+(Lesson: Subtraction, Do It) The supermarket has $504$ bags of rice and sells $146$; how many are left?
 
-### Solution to Exercise 278
+### Solution to Exercise 10
 
-By **Definition 5.9.1 (数与运算的整理)**: $173-26+35=182$; $54-\left(62-34\right)=54-28=26$; $\left(182-18\right)\times8=164\times8=1312$; $63\div\left(44-37\right)=63\div7=9$; $72+8\times65=72+520=592$; $87\times5+13\times5=\left(87+13\right)\times5=500$. $\blacksquare$
+$504-146=358$ bags. The ones $4$ cannot subtract $6$, and the tens is $0$, so borrow $1$ from the hundreds, turn it into $10$ tens, then borrow $1$ to the ones. $\blacksquare$
 
-## Exercise 279
+## Exercise 11
 
-(Lesson: Practice 19, Problem 7) Compute: $\frac{3}{7}+\frac{1}{7}$; $\frac{5}{7}-\frac{2}{7}$; $\frac{4}{9}+\frac{1}{9}$; $\frac{6}{6}-\frac{3}{6}$; $1-\frac{2}{3}$; $\frac{1}{6}+\frac{5}{6}$; $\frac{7}{8}-\frac{4}{8}$; $\frac{1}{4}+\frac{3}{4}$.
+(Lesson: Subtraction, Do It) Compute in vertical form and check: $805-736$, $510-184$, $1000-439$.
 
-### Solution to Exercise 279
+### Solution to Exercise 11
 
-$\frac{3}{7}+\frac{1}{7}=\frac{4}{7}$; $\frac{5}{7}-\frac{2}{7}=\frac{3}{7}$; $\frac{4}{9}+\frac{1}{9}=\frac{5}{9}$; $\frac{6}{6}-\frac{3}{6}=\frac{3}{6}$; $1-\frac{2}{3}=\frac{1}{3}$; $\frac{1}{6}+\frac{5}{6}=1$; $\frac{7}{8}-\frac{4}{8}=\frac{3}{8}$; $\frac{1}{4}+\frac{3}{4}=1$. $\blacksquare$
+$805-736=69$; $510-184=326$; $1000-439=561$. Check by difference $+$ subtrahend $=$ minuend. $\blacksquare$
 
-## Exercise 280
+## Exercise 12
 
-(Lesson: Practice 19, Problem 8) One-minute jump rope: Xiaofang jumped $160$, $8$ more than Xiaohong; Xiaoqiang jumped $180$. How many more did Xiaoqiang jump than Xiaohong?
+(Lesson: Subtraction, Practice) First say how to subtract in the tens and hundreds places, then compute: $438-256$, $792-478$, $940-83$, $305-168$.
 
-### Solution to Exercise 280
+### Solution to Exercise 12
 
-Xiaohong: $160-8=152$; Xiaoqiang jumped $180-152=28$ more than Xiaohong. $\blacksquare$
+$438-256=182$; $792-478=314$; $940-83=857$; $305-168=137$. $\blacksquare$
 
-## Exercise 281
+## Exercise 13
 
-(Lesson: Practice 19, Problem 9) Aunt Zhang braids $4$ Chinese knots per hour and Aunt Liu $3$ per hour. Braiding together for a day ($8$ hours), can they finish $50$?
+(Lesson: Subtraction, Practice) Compute in vertical form and check: $175-93$, $496-279$, $716-348$, $200-67$, $602-375$, $1000-586$.
 
-### Solution to Exercise 281
+### Solution to Exercise 13
 
-$\left(4+3\right)\times8=56$, and $56> 50$, so they can finish. $\blacksquare$
+$175-93=82$; $496-279=217$; $716-348=368$; $200-67=133$; $602-375=227$; $1000-586=414$. Check by addition. $\blacksquare$
 
-## Exercise 282
+## Exercise 14
 
-(Lesson: Practice 19, Problem 10) Xiaoliang collected $20$ insect specimens, which is $4$ more than $2$ times what Xiaojun collected. How many did Xiaojun collect?
+(Lesson: Subtraction, Practice) Fill the blanks in the table: minuend $468,645,803,766,600$; subtrahend $76,\_\_,674,\_\_,493$; difference $\_\_,579,\_\_,607,\_\_$.
 
-### Solution to Exercise 282
+### Solution to Exercise 14
 
-$\left(20-4\right)\div2=16\div2=8$. Xiaojun collected $8$. $\blacksquare$
+By **Definition 4.5.4 (减法各部分间的关系)**, $468-76=392$; $645-579=66$; $803-674=129$; $766-607=159$; $600-493=107$. $\blacksquare$
 
-## Exercise 283
+## Exercise 15
 
-(Lesson: Practice 19, Problem 11) Use a compass to construct the segment CD on the straight line l so that its length is $3$ times the segment AB.
+(Lesson: Subtraction, Practice) Write an expression from the picture: from home to school is $503$ meters in all, and $148$ meters have been traveled; how many meters are left?
 
-### Solution to Exercise 283
+### Solution to Exercise 15
 
-Measure off the length of AB with the compass; on the straight line l, starting from C, step off the length of AB $3$ times to get CD, so that $CD=3AB$. $\blacksquare$
+$503-148=355$ meters. $355$ meters are left. $\blacksquare$
 
-## Exercise 284
+## Exercise 16
 
-(Lesson: Practice 19, Problem 12) Taking the three points as vertices respectively, draw an acute angle, a right angle and an obtuse angle.
+(Lesson: Subtraction, Practice) An ecological park had $843$ visitors in the morning, $265$ left at noon, and $408$ more came in the afternoon; how many visitors are in the park then?
 
-### Solution to Exercise 284
+### Solution to Exercise 16
 
-By **Definition 5.9.3 (常见的量与图形的整理)**, an acute angle opens narrower than a right angle, a right angle is compared with the triangular ruler, and an obtuse angle opens wider than a right angle. $\blacksquare$
+$843-265+408=986$ people. Then there are $986$ people in the park. $\blacksquare$
 
-## Exercise 285
+## Exercise 17
 
-(Lesson: Practice 19, Problem 13) From which position (front, top, right) is each figure below seen? Fill in the numbers.
+(Lesson: Subtraction, Practice) The sum and difference of the two numbers on each card: $614$ and $245$, $775$ and $135$, $600$ and $243$, $505$ and $356$, $468$ and $239$.
 
-### Solution to Exercise 285
+### Solution to Exercise 17
 
-By **Definition 5.9.3 (Review of Common Measures and Figures)**, fill in the numbers according to the shape seen from each direction. $\blacksquare$
+$614+245=859$, $614-245=369$; $775+135=910$, $775-135=640$; $600+243=843$, $600-243=357$; $505+356=861$, $505-356=149$; $468+239=707$, $468-239=229$. $\blacksquare$
 
-## Exercise 286
+## Exercise 18
 
-(Lesson: Practice 19, Problem 14) Balance conversion: one watermelon $=6$ kilograms, one watermelon $=$ three pineapples, and one pineapple $=$ three apples. Find how many kilograms one pineapple and one apple are.
+(Lesson: Subtraction, Practice) A forest park received two truckloads of saplings: truck 1 has $198$ and truck 2 has $265$; how many in all? How many more did truck 2 bring than truck 1?
 
-### Solution to Exercise 286
+### Solution to Exercise 18
 
-One pineapple is $6\div3=2$ kilograms, one apple $2\div3$? According to the figure: watermelon $6$ kilograms, pineapple $6\div3=2$ kilograms, apple $2\div2=1$ kilogram. Fill in according to the correspondence in the figure. $\blacksquare$
+In all $198+265=463$ saplings; truck 2 brought $265-198=67$ more than truck 1. $\blacksquare$
 
-## Exercise 287
+## Exercise 19
 
-(Lesson: Practice 19, Problem 15) Uncle Wang and $3$ colleagues travel on business by train; second class is $245$ yuan and first class is $354$ yuan. (1) Buying second class for both ways, is $2000$ yuan enough?
+(Lesson: Subtraction, Practice) Observe the two groups of expressions; what do you notice? $156+199=\_\_$, $156+200-1=\_\_$; $537-398=\_\_$, $537-400+2=\_\_$.
 
-### Solution to Exercise 287
+### Solution to Exercise 19
 
-There are $4$ people, so a round trip is $4\times2=8$ tickets; $245\times8=1960$ yuan $< 2000$ yuan, so it is enough. $\blacksquare$
+$156+199=355$, $156+200-1=355$; $537-398=139$, $537-400+2=139$. Notice: adding $199$ you may first add $200$ then subtract $1$, and subtracting $398$ you may first subtract $400$ then add $2$; the result is unchanged. $\blacksquare$
 
-## Exercise 288
+## Exercise 20
 
-(Lesson: Practice 19, Problem 16) Grandpa is $64$ years old; Xiaohong's age is $\frac{1}{8}$ of Grandpa's, and Dad's age is $4$ times Xiaohong's. How old are Xiaohong and Dad?
+(Lesson: Subtraction, Practice) Make three-digit numbers from digit cards. (1) Continuing to build, about how much is the sum of the two? The difference? (2) Your deskmate lays only the highest place; say about how much the sum and difference are.
 
-### Solution to Exercise 288
+### Solution to Exercise 20
 
-Xiaohong: $64\div8=8$ years old; Dad: $8\times4=32$ years old. $\blacksquare$
+Estimate from the hundreds place only: however many hundreds the two hundreds digits add to, the sum is close to that round hundred; subtracting the two hundreds digits, the difference is about some hundreds. Just explain by estimation. $\blacksquare$
 
-## Exercise 289
+## Exercise 21
 
-(Lesson: Practice 19, Problem 17) The garbage station receives $90$ tons of waste; other waste is $\frac{2}{3}$ of it, of which $\frac{1}{2}$ is sorted out for recycling. How many tons of other waste are recycled?
+(Lesson: Relations Among Add/Subtract Parts, Do It) From $375+289=664$, say directly the results of $664-375$ and $664-289$.
 
-### Solution to Exercise 289
+### Solution to Exercise 21
 
-Other waste: $90\div3\times2=60$ tons; recycled: $60\div2=30$ tons. $\blacksquare$
+By **Definition 4.5.3 (addend $=$ sum $-$ the other addend)**, $664-375=289$, $664-289=375$. $\blacksquare$
 
-## Exercise 290
+## Exercise 22
 
-(Lesson: Thinking Problem 1) Uncle Wang's home and Uncle Li's home are $18$ kilometers apart; they ride toward each other at the same time, and after $10$ minutes their positions are as in the figure (together they have covered $\frac{2}{3}$ of the whole route). (1) What fraction have they covered by then? How many kilometers is that? (2) In how many more minutes will they meet?
+(Lesson: Relations Among Add/Subtract Parts, Do It) From $703-298=405$, write directly: $298+405=\_\_$, $703-405=\_\_$.
 
-### Solution to Exercise 290
+### Solution to Exercise 22
 
-(1) Together they covered $\frac{2}{3}$ of the whole route, $18\div3\times2=12$ kilometers. (2) $10$ minutes covers $\frac{2}{3}$, so covering the whole route takes $10\div2\times3=15$ minutes; in another $15-10=5$ minutes they meet. $\blacksquare$
+By **Definition 4.5.4 (减法各部分间的关系)**, $298+405=703$ (subtrahend $+$ difference $=$ minuend), $703-405=298$ (minuend $-$ difference $=$ subtrahend). $\blacksquare$
 
-## Exercise 291
+## Exercise 23
 
-(Lesson: Thinking Problem 2) $28$ people go rowing; a small boat holds $4$ people at $30$ yuan, and a large boat holds $6$ people at $40$ yuan. (1) How to rent boats so that every boat is full? (2) Which way is cheapest?
+(Lesson: Relations Among Add/Subtract Parts, Do It) Use addition to check whether $432-178=254$ is correct.
 
-### Solution to Exercise 291
+### Solution to Exercise 23
 
-(1) Options: all small boats, $28\div4=7$; $2$ large boats for $12$ people and $4$ small boats for $16$ people; $4$ large boats for $24$ people and $1$ small boat for $4$ people. (2) Per person, a large boat is $40\div6\approx7$ yuan and a small boat is $30\div4=7.5$ yuan, so rent as many large boats as possible: $4$ large and $1$ small gives $4\times40+30=190$ yuan, the cheapest. $\blacksquare$
+Check by difference $+$ subtrahend $=$ minuend: $254+178=432$, equal to the minuend, so the calculation is correct. $\blacksquare$
 
-## Exercise 292
+## Exercise 24
 
-(Lesson: Thinking Problem 3) It was originally planned to assemble $300$ electric vehicles per day, finishing in $5$ days. Actually $50$ more per day were assembled, and it took $2$ more days to finish. How many additional vehicles did the customer order?
+(Lesson: Estimation, Do It) The cinema has $500$ seats; Grades 1–3 bring $298$ people and Grades 4–6 bring $187$ people; can all six grades sit together?
 
-### Solution to Exercise 292
+### Solution to Exercise 24
 
-Originally planned: $300\times5=1500$; actually $350$ per day for $7$ days gives $350\times7=2450$; the additional order is $2450-1500=950$. $\blacksquare$
-
-## Exercise 293
-
-(Lesson: Thinking Problem 4) On the shelf there are large, medium and small tubes of toothpaste; a small box is $50$ grams, and each layer has the same total mass. How many grams are a large box and a medium box?
-
-### Solution to Exercise 293
-
-By **Definition 5.4.1 (Equals of Equals are Equal)**, using the equal number of toothpastes on each layer: for example, on the first layer $1$ large $=1$ medium $+3$ small, and on the second layer $1$ large $=3$ medium, from which a large box is $300$ grams and a medium box $150$ grams. Calculate according to the correspondence in the figure. $\blacksquare$
-
-## Exercise 294
-
-(Lesson: Matching Problems — Example) Xiaohong has $2$ tops and $3$ bottoms, choosing $1$ of each; how many outfits are there?
-
-### Solution to Exercise 294
-
-By **Definition 5.9.4 (Matching Problems)**, each top pairs with $3$ bottoms, giving $2\times3=6$ outfits. $\blacksquare$
-
-## Exercise 295
-
-(Lesson: Matching Problems — Example) From home to City A there are $2$ flights and $3$ high-speed trains; how many choices are there in total?
-
-### Solution to Exercise 295
-
-By **Definition 5.9.4 (搭配问题)**, there are two categories of transport, so use addition: $2+3=5$ choices. $\blacksquare$
-
-## Exercise 296
-
-(Lesson: Challenge Yourself, Problem 1) Using $2,5,7$, how many two-digit numbers with no repeated digits can be formed?
-
-### Solution to Exercise 296
-
-Tens digit $2$: $25,27$; tens digit $5$: $52,57$; tens digit $7$: $72,75$. There are $6$ in total. $\blacksquare$
-
-## Exercise 297
-
-(Lesson: Challenge Yourself, Problem 2) In a soccer tournament among the $4$ classes of grade three, every $2$ classes play one match; how many matches are played in total?
-
-### Solution to Exercise 297
-
-With $4$ classes: the $1$ class plays the $2,3,4$ classes ($3$ matches), the $2$ class plays the $3,4$ classes ($2$ matches), the $3$ class plays the $4$ class ($1$ match), for a total of $3+2+1=6$ matches. $\blacksquare$
+Estimate: $298\approx300$, $187\approx200$, $300+200=500$; actually $298< 300$, $187< 200$, so the actual sum is less than $500$, and they can sit. $\blacksquare$

@@ -1,193 +1,156 @@
 # week82
-> **Definition 10.5.1 (分数的意义)**
+> **Definition 8.1.1 (加法的意义和各部分间的关系)**
 > 
-> 把单位 1 平均分成若干份, 表示这样的一份或几份的数叫做分数.
-> **Definition 10.5.2 (分数单位)**
+> 把两个数合并成一个数的运算, 叫作加法. 相加的两个数叫作加数, 加得的数叫作和. 和 $=$ 加数 $+$ 加数, 加数 $=$ 和 $-$ 另一个加数.
+> **Definition 8.1.2 (减法的意义和各部分间的关系)**
 > 
-> 把单位 1 平均分成若干份, 表示其中一份的数叫做分数单位.
-> **Definition 10.5.3 (分数与除法)**
+> 已知两个加数的和与其中一个加数, 求另一个加数的运算, 叫作减法. 在减法中, 已知的和叫作被减数. 减法是加法的逆运算. 差 $=$ 被减数 $-$ 减数, 被减数 $=$ 减数 $+$ 差, 减数 $=$ 被减数 $-$ 差.
+> **Definition 8.1.3 (乘法的意义和各部分间的关系)**
 > 
-> 被除数$\div$除数$=\frac{\text{被除数}}{\text{除数}}$, 即 $a\div b=\frac{a}{b}$ ($b\ne0$). 求一个数是另一个数的几分之几, 用除法.
-> **Definition 10.5.4 (真分数和假分数)**
+> 求几个相同加数的和的简便运算, 叫作乘法. 相乘的两个数叫作因数, 乘得的数叫作积. 积 $=$ 因数 $\times$ 因数, 因数 $=$ 积 $\div$ 另一个因数.
+> **Definition 8.1.4 (除法的意义和各部分间的关系)**
 > 
-> 分子比分母小的分数叫真分数, 真分数小于 $1$; 分子比分母大或分子和分母相等的分数叫假分数, 假分数大于 $1$ 或等于 $1$. 由整数和真分数合成的数叫带分数.
-> **Definition 10.5.5 (分数的基本性质)**
+> 已知两个因数的积与其中一个因数, 求另一个因数的运算, 叫作除法. 在除法中, 已知的积叫作被除数. 除法是乘法的逆运算. 商 $=$ 被除数 $\div$ 除数, 除数 $=$ 被除数 $\div$ 商, 被除数 $=$ 商 $\times$ 除数.
+> **Definition 8.1.5 (有关 0 的运算)**
 > 
-> 分数的分子和分母同时乘或者除以相同的数 ($0$ 除外), 分数的大小不变.
-> **Definition 10.5.6 (最大公因数与约分)**
+> 一个数加上 $0$ 还得原数; 被减数等于减数时, 差是 $0$; 一个数和 $0$ 相乘仍得 $0$; $0$ 除以一个非 $0$ 的数还得 $0$. $0$ 不能作除数.
+> **Definition 8.1.6 (有余数除法各部分间的关系)**
 > 
-> 几个数公有的因数叫做它们的公因数, 其中最大的一个叫做最大公因数. 把一个分数化成和它相等, 但分子和分母都比较小的分数, 叫做约分; 约分时通常要约成最简分数 (分子和分母只有公因数 $1$).
-> **Definition 10.5.7 (最小公倍数与通分)**
+> 在有余数的除法里, 被除数 $=$ 商 $\times$ 除数 $+$ 余数, 余数要比除数小.
+> **Definition 8.1.7 (四则混合运算的顺序)**
 > 
-> 几个数公有的倍数叫做它们的公倍数, 其中最小的一个叫做最小公倍数. 把异分母分数分别化成和原来分数相等的同分母分数, 叫做通分.
-> **Definition 10.5.8 (分数和小数的互化)**
+> 加, 减, 乘, 除四种运算统称四则运算. 一个算式里, 既有小括号又有中括号, 要先算小括号里面的, 再算中括号里面的, 最后算括号外面的.
+> **Definition 8.1.8 (租船租车问题的策略)**
 > 
-> 小数表示的就是十分之几, 百分之几, 千分之几的数, 可以直接写成分母是 $10,100,1000,\cdots$ 的分数再化简; 分数化成小数, 用分子除以分母, 除不尽时按"四舍五入"法取近似数.
+> 解决怎样租船 (租车) 最省钱的问题, 先算每种船 (车) 每个座位的单价, 优先租单价便宜的, 再调整尽量不空座位, 比较几种方案后选最便宜的.
+> **Definition 8.2.1 (从不同方向观察物体)**
+> 
+> 从前面, 上面, 左面 (或右面) 观察由小正方体搭成的物体, 看到的平面图形叫作这个方向看到的形. 从不同方向看同一个物体, 看到的图形一般不同; 从同一个位置看不同的物体, 看到的图形也可能相同.
 
-## Exercise 96
+## Exercise 1
 
-(Lesson: Meaning of Fractions, Do It) State the meaning and fraction unit of each: $\frac{3}{5}$, $\frac{7}{10}$, $\frac{5}{8}$, $\frac{3}{4}$. Divide a $1$$m$ ribbon equally into $5$ pieces; how long is each piece?
+(Lesson: Parentheses, Try It) First state the order of operations, then calculate: $360\div\left(70-4\times16\right)$; $168\div\left[\left(28+44\right)\div9\right]$.
 
-### Solution to Exercise 96
+### Solution to Exercise 1
 
-By **Definition 10.5.1 (Meaning of Fractions)** and **Definition 10.5.2 (Fraction Unit)**: $\frac{3}{5}$ means dividing the unit "$1$" into $5$ parts and taking $3$, with fraction unit $\frac{1}{5}$; $\frac{7}{10}$ has unit $\frac{1}{10}$; $\frac{5}{8}$ has unit $\frac{1}{8}$; $\frac{3}{4}$ has unit $\frac{1}{4}$. Each piece is $1\div5=\frac{1}{5}\,\mathrm{m}$. $\blacksquare$
+By **Definition 8.1.7 (Order of Four-Operation Mixed Calculations)**, first inside the parentheses, then inside the square brackets: $360\div\left(70-4\times16\right)=360\div\left(70-64\right)=360\div6=60$; $168\div\left[\left(28+44\right)\div9\right]=168\div\left[72\div9\right]=168\div8=21$. $\blacksquare$
 
-## Exercise 97
+## Exercise 2
 
-(Lesson: Meaning of Fractions, Exercise 11, Problems 3, 4) Divide 8 apples equally among 4 children; how many does each child get? What fraction of the apples does each child get? Divide a 3$m$ rope equally into 5 pieces; how long is each piece? What fraction of the whole rope is each piece?
+(Lesson: Parentheses, Practice 3, Problem 1) First state the order of operations, then calculate: $450+390\div130-123$; $38+56\div7\times4$; $209+102\div\left(52-35\right)$; $940\times\left[128-\left(154-31\right)\right]$.
 
-### Solution to Exercise 97
+### Solution to Exercise 2
 
-By **Definition 10.5.1 (Meaning of Fractions)** and **Definition 10.5.3 (Fractions and Division)**: each child gets $8\div4=2$ apples, which is $\frac{1}{4}$ of the apples; each piece is $3\div5=\frac{3}{5}\,\mathrm{m}$, and each piece is $\frac{1}{5}$ of the whole. $\blacksquare$
+By **Definition 8.1.7 (Order of Four-Operation Mixed Calculations)**: $450+390\div130-123=450+3-123=330$; $38+56\div7\times4=38+8\times4=38+32=70$; $209+102\div\left(52-35\right)=209+102\div17=209+6=215$; $940\times\left[128-\left(154-31\right)\right]=940\times\left[128-123\right]=940\times5=4700$. $\blacksquare$
 
-## Exercise 98
+## Exercise 3
 
-(Lesson: Fractions and Division, Do It) (1) Xiaoxin's family raises 7 geese and 10 ducks; what fraction of the ducks' count is the geese's? (2) Dissolve 10$g$ sugar in 90$g$ water; what fraction of the sugar-water is sugar?
+(Lesson: Parentheses, Practice 3, Problem 2) Calculate the following: $72-4\times6\div3$; $6000\div75-60-10$; $\left(72-4\right)\times6\div3$; $6000\div\left(75-60\right)-10$; $\left(72-4\right)\times\left(6\div3\right)$; $6000\div\left[75-\left(60-10\right)\right]$.
 
-### Solution to Exercise 98
+### Solution to Exercise 3
 
-By **Definition 10.5.3 (Fractions and Division)**: (1) $7\div10=\frac{7}{10}$; (2) the sugar-water totals $10+90=100\,\mathrm{g}$, and sugar is $10\div100=\frac{10}{100}=\frac{1}{10}$. $\blacksquare$
+By **Definition 8.1.7 (Order of Four-Operation Mixed Calculations)**: $72-4\times6\div3=72-8=64$; $6000\div75-60-10=80-70=10$; $\left(72-4\right)\times6\div3=68\times2=136$; $6000\div\left(75-60\right)-10=6000\div15-10=390$; $\left(72-4\right)\times\left(6\div3\right)=68\times2=136$; $6000\div\left[75-\left(60-10\right)\right]=6000\div\left[75-50\right]=6000\div25=240$. $\blacksquare$
 
-## Exercise 99
+## Exercise 4
 
-(Lesson: Fractions and Division, Exercise 12, Problems 3, 5) The zoo has 9 elephants and 4 golden snub-nosed monkeys; what fraction of the elephants' count is the monkeys'? Xiaoming walks 1$km$ in 15 minutes; what fraction of a kilometer does he walk per minute on average?
+(Lesson: Parentheses, Practice 3, Problem 3) Calculate in order and fill in the boxes, then write a combined expression.
 
-### Solution to Exercise 99
+### Solution to Exercise 4
 
-By **Definition 10.5.3 (Fractions and Division)**: the monkeys are $4\div9=\frac{4}{9}$ of the elephants; per minute he walks $1\div15=\frac{1}{15}\,\mathrm{km}$. $\blacksquare$
+Following the order indicated by the arrows, first fill the intermediate result of each step into the box, then successively replace the numbers in the last step expression with the previous expressions, add the necessary parentheses, and write one combined expression. Just fill in the numbers in the textbook's boxes and write the expression accordingly. $\blacksquare$
 
-## Exercise 100
+## Exercise 5
 
-(Lesson: Proper and Improper Fractions, Do It) Which of these are proper and which improper? $\frac{1}{3}$, $\frac{3}{3}$, $\frac{5}{3}$, $\frac{1}{6}$, $\frac{6}{6}$, $\frac{7}{6}$, $\frac{13}{6}$.
+(Lesson: Solving Problems, Practice 3, Problem 4) How to rent cars most cheaply? Each large car seats $40$ people at a rental of $900$ yuan; each small car seats $20$ people at a rental of $500$ yuan. For this spring outing there are $18$ teachers and $322$ students.
 
-### Solution to Exercise 100
+### Solution to Exercise 5
 
-By **Definition 10.5.4 (Proper and Improper Fractions)**: proper fractions are $\frac{1}{3}$, $\frac{1}{6}$ (numerator smaller than denominator); improper fractions are $\frac{3}{3}$, $\frac{5}{3}$, $\frac{6}{6}$, $\frac{7}{6}$, $\frac{13}{6}$ (numerator greater than or equal to denominator). $\blacksquare$
+Total people $18+322=340$ (people). Per seat: large car $900\div40=22.5$ (yuan), small car $500\div20=25$ (yuan), so the large car is cheaper. By **Definition 8.1.8 (Strategy for Boat/Car-Rental Problems)**, $340\div40=8$ (cars) $\cdots\cdots20$ (people), and the remaining $20$ people exactly fill $1$ small car with no empty seats: $8\times900+1\times500=7700$ (yuan). Renting $8$ large cars and $1$ small car is the cheapest. $\blacksquare$
 
-## Exercise 101
+## Exercise 6
 
-(Lesson: Proper and Improper Fractions, Exercise 13, Problem 4) Convert $\frac{7}{3}$ and $\frac{6}{2}$ to mixed numbers or integers.
+(Lesson: Solving Problems, Practice 3, Problem 5) A travel agency offers two price plans for a "one-day tour of the scenic area". Plan 1: $150$ yuan per adult and $60$ yuan per child. Plan 2: groups of more than $10$ people (including $10$) pay $100$ yuan per person. (1) With $6$ adults and $4$ children, which plan is the better deal? (2) With $4$ adults and $6$ children, which plan is the better deal?
 
-### Solution to Exercise 101
+### Solution to Exercise 6
 
-By **Definition 10.5.4 (Proper and Improper Fractions)**, $\frac{7}{3}=7\div3=2\frac{1}{3}$; $\frac{6}{2}=6\div2=3$. $\blacksquare$
+(1) Plan 1: $6\times150+4\times60=900+240=1140$ (yuan); Plan 2: $\left(6+4\right)\times100=1000$ (yuan), so Plan 2 is the better deal. (2) Plan 1: $4\times150+6\times60=600+360=960$ (yuan); Plan 2: $\left(4+6\right)\times100=1000$ (yuan), so Plan 1 is the better deal. $\blacksquare$
 
-## Exercise 102
+## Exercise 7
 
-(Lesson: Basic Property of Fractions, Do It) Convert $\frac{3}{5}$ to a fraction over 20 with the same value; convert $\frac{16}{24}$ to a fraction over 12 with the same value.
+(Lesson: Parentheses, Practice 3, Problem 6) Fill in the $\bigcirc$ with the appropriate operation signs to make both sides of the equals sign equal: $3\bigcirc3\bigcirc3\bigcirc3=1$; $3\bigcirc3\bigcirc3\bigcirc3=2$; $3\bigcirc3\bigcirc3\bigcirc3=3$; $3\bigcirc3\bigcirc3\bigcirc3=7$; $3\bigcirc3\bigcirc3\bigcirc3=8$; $3\bigcirc3\bigcirc3\bigcirc3=9$.
 
-### Solution to Exercise 102
+### Solution to Exercise 7
 
-By **Definition 10.5.5 (Basic Property of Fractions)**: $\frac{3}{5}=\frac{3\times4}{5\times4}=\frac{12}{20}$; $\frac{16}{24}=\frac{16\div2}{24\div2}=\frac{8}{12}$. $\blacksquare$
+The answer is not unique, for example: $3\div3+3-3=1$; $3\div3+3\div3=2$; $\left(3+3+3\right)\div3=3$; $3+3+3\div3=7$; $3\times3-3\div3=8$; $3\times3+3-3=9$. $\blacksquare$
 
-## Exercise 103
+## Exercise 8
 
-(Lesson: Basic Property of Fractions, Exercise 14, Problem 3) Fill in the blanks: $\frac{3}{4}=\frac{\left(\, \right)}{12}$, $\frac{4}{8}=\frac{\left(\, \right)}{2}$, $\frac{5}{9}=\frac{15}{\left(\, \right)}$, $\frac{16}{24}=\frac{\left(\, \right)}{3}$.
+(Lesson: Parentheses, Practice 3, Problem 7) With the point values on the following $4$ playing cards, what operations can produce $24$?
 
-### Solution to Exercise 103
+### Solution to Exercise 8
 
-By **Definition 10.5.5 (Basic Property of Fractions)**: $\frac{3}{4}=\frac{9}{12}$; $\frac{4}{8}=\frac{1}{2}$; $\frac{5}{9}=\frac{15}{27}$; $\frac{16}{24}=\frac{2}{3}$. $\blacksquare$
+Using the point values on the $4$ cards, add $+$, $-$, $\times$, $\div$ and parentheses so that the result equals $24$. For example, with cards $6,4,3,2$, $\left(6+4-2\right)\times3=24$. Just try combinations with the $4$ point values in hand. $\blacksquare$
 
-## Exercise 104
+## Exercise 9
 
-(Lesson: Greatest Common Factor, Do It) Find the greatest common factor of 16 and 24, 8 and 20, 15 and 20.
+(Lesson: Observing Objects, Try It) From which positions did Xiao Hua see the following figures? Build it, look, and draw the matching connections (view from the front, view from the top, view from the left side).
 
-### Solution to Exercise 104
+### Solution to Exercise 9
 
-By **Definition 10.5.6 (Greatest Common Factor and Reducing)**: factors of 16 are $1,2,4,8,16$, factors of 24 are $1,2,3,4,6,8,12,24$, GCF $8$; GCF of 8 and 20 is $4$; GCF of 15 and 20 is $5$. $\blacksquare$
+By **Definition 8.2.1 (Observing Objects from Different Directions)**, build the object in the figure with small cubes and stand at the front, top and left positions to look: the head-on view connects to "view from the front", the top-down view connects to "view from the top", and the left-side view connects to "view from the left side". $\blacksquare$
 
-## Exercise 105
+## Exercise 10
 
-(Lesson: Greatest Common Factor, Exercise 15, Problem 5) A rectangular paper is 70$cm$ long and 50$cm$ wide; to cut it into equal squares with no waste, what is the largest possible square side in centimeters?
+(Lesson: Observing Objects, Try It) From which positions did Xiao Qiang see the following figures? Draw the connections (view from the front, view from the top, view from the left side).
 
-### Solution to Exercise 105
+### Solution to Exercise 10
 
-By **Definition 10.5.6 (Greatest Common Factor and Reducing)**, the square side must divide both 70 and 50; the largest is $\left(70,50\right)=10$, so the largest side is $10\,\mathrm{cm}$. $\blacksquare$
+By **Definition 8.2.1 (Observing Objects from Different Directions)**, build the object Xiao Qiang saw, observe it from the front, top and left side, and connect each seen figure to the corresponding direction. $\blacksquare$
 
-## Exercise 106
+## Exercise 11
 
-(Lesson: Greatest Common Factor, Exercise 15, Problem 6) 48 boys and 36 girls stand in rows, with the same number in each row; at most how many per row? How many rows of boys and girls?
+(Lesson: Observing Objects, Try It) Build it and look. Of these $3$ objects, from which side are the seen figures the same? From which side are they different?
 
-### Solution to Exercise 106
+### Solution to Exercise 11
 
-By **Definition 10.5.6 (Greatest Common Factor and Reducing)**, the row size is a common factor of 48 and 36; the maximum is $\left(48,36\right)=12$; boys $48\div12=4$ rows, girls $36\div12=3$ rows. $\blacksquare$
+By **Definition 8.2.1 (Observing Objects from Different Directions)**, look at these $3$ objects from the front, top and left side, and compare the seen figures pairwise. Usually the top and left views are the same while the front view is different (compare according to the actual arrangement). $\blacksquare$
 
-## Exercise 107
+## Exercise 12
 
-(Lesson: Reducing Fractions, Do It) Which fractions below are in lowest terms? Reduce the others: $\frac{15}{16}$, $\frac{10}{21}$, $\frac{17}{30}$, $\frac{20}{45}$, $\frac{31}{91}$.
+(Lesson: Observing Objects, Try It) Build it and look. Looking at these $3$ objects from the top, are the figures the same? What about from the left side and the front?
 
-### Solution to Exercise 107
+### Solution to Exercise 12
 
-By **Definition 10.5.6 (Greatest Common Factor and Reducing)**: $\frac{15}{16}$, $\frac{10}{21}$, $\frac{17}{30}$, $\frac{31}{91}$ are in lowest terms; $\frac{20}{45}=\frac{20\div5}{45\div5}=\frac{4}{9}$. $\blacksquare$
+By **Definition 8.2.1 (Observing Objects from Different Directions)**, the top views are the same, the left views are also the same, and the front views are not the same. $\blacksquare$
 
-## Exercise 108
+## Exercise 13
 
-(Lesson: Reducing Fractions, Exercise 16, Problem 4) Lanlan took 80 art photos, 35 of which she likes. Use lowest-terms fractions for the share she likes and the share of the rest.
+(Lesson: Observing Objects, Practice 4, Problem 1) Draw connections: given one object and the three figures seen from the front, top and left side, connect each to the corresponding direction.
 
-### Solution to Exercise 108
+### Solution to Exercise 13
 
-By **Definition 10.5.6 (Greatest Common Factor and Reducing)**: liked $\frac{35}{80}=\frac{7}{16}$; the rest $\frac{80-35}{80}=\frac{45}{80}=\frac{9}{16}$. $\blacksquare$
+By **Definition 8.2.1 (Observing Objects from Different Directions)**, connect each seen planar figure to its corresponding viewing direction (front, top, left side). $\blacksquare$
 
-## Exercise 109
+## Exercise 14
 
-(Lesson: Least Common Multiple, Do It) Find the least common multiple of 6 and 8, 8 and 10, 6 and 15.
+(Lesson: Observing Objects, Practice 4, Problem 2) Place a cube and a cuboid as shown in the figure. From which positions are the following figures seen? Draw the connections (view from the front, view from the top, view from the left side).
 
-### Solution to Exercise 109
+### Solution to Exercise 14
 
-By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**: LCM of 6 and 8 is $24$; of 8 and 10 is $40$; of 6 and 15 is $30$. $\blacksquare$
+By **Definition 8.2.1 (Observing Objects from Different Directions)**, according to the left-right arrangement of the cube and cuboid, judge whether each view is seen from the front, top or left side, and then draw the connections. $\blacksquare$
 
-## Exercise 110
+## Exercise 15
 
-(Lesson: Least Common Multiple, Exercise 17, Problem 6) Aunt Li waters her roses every 4 days and her clivia every 6 days. On May 1 she watered both; when is the next day she waters both again?
+(Lesson: Observing Objects, Practice 4, Problem 3) Build it, and draw the figures seen from the front, top and left side (for objects (1) and (2)).
 
-### Solution to Exercise 110
+### Solution to Exercise 15
 
-By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**, the days until the next time is the LCM of 4 and 6, which is $12$; $1+12=13$, i.e. May 13. $\blacksquare$
+By **Definition 8.2.1 (Observing Objects from Different Directions)**, build the two objects with small cubes, look from the front, top and left side, and draw the arrangement of the seen squares on grid paper. $\blacksquare$
 
-## Exercise 111
+## Exercise 16
 
-(Lesson: Least Common Multiple, Exercise 17, Problem 9) Route 3 buses leave every 6 minutes and Route 5 every 8 minutes; after they leave together, how many minutes until the second joint departure?
+(Lesson: Observing Objects, Practice 4, Problem 4) Of these $3$ objects, from which side are the seen figures the same? From which side are they different?
 
-### Solution to Exercise 111
+### Solution to Exercise 16
 
-By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**, the time to the second joint departure is the LCM of 6 and 8, which is $24$ minutes. $\blacksquare$
-
-## Exercise 112
-
-(Lesson: Common Denominators, Do It) Compare: $\frac{3}{5}\bigcirc\frac{4}{5}$, $\frac{5}{6}\bigcirc\frac{5}{8}$, $\frac{3}{4}\bigcirc\frac{5}{6}$.
-
-### Solution to Exercise 112
-
-By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**: same denominators, compare numerators, $\frac{3}{5}< \frac{4}{5}$; same numerators, compare denominators, $\frac{5}{6}> \frac{5}{8}$; common denominator $\frac{3}{4}=\frac{9}{12}$, $\frac{5}{6}=\frac{10}{12}$, so $\frac{3}{4}< \frac{5}{6}$. $\blacksquare$
-
-## Exercise 113
-
-(Lesson: Common Denominators, Exercise 18, Problem 1) Compare each pair: $\frac{3}{8}$ and $\frac{5}{8}$, $\frac{7}{9}$ and $\frac{5}{9}$, $\frac{2}{5}$ and $\frac{2}{7}$, $\frac{11}{12}$ and $\frac{13}{16}$.
-
-### Solution to Exercise 113
-
-By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**: $\frac{3}{8}< \frac{5}{8}$; $\frac{7}{9}> \frac{5}{9}$; $\frac{2}{5}> \frac{2}{7}$; common denominator $\frac{11}{12}=\frac{44}{48}$, $\frac{13}{16}=\frac{39}{48}$, so $\frac{11}{12}> \frac{13}{16}$. $\blacksquare$
-
-## Exercise 114
-
-(Lesson: Converting Fractions and Decimals, Do It) Convert $0.7$, $0.25$, $0.123$ to fractions; convert $\frac{3}{4}$, $\frac{9}{40}$, $\frac{2}{9}$, $\frac{5}{14}$ to decimals (round to two places).
-
-### Solution to Exercise 114
-
-By **Definition 10.5.8 (Converting Fractions and Decimals)**: $0.7=\frac{7}{10}$, $0.25=\frac{25}{100}=\frac{1}{4}$, $0.123=\frac{123}{1000}$; $\frac{3}{4}=0.75$, $\frac{9}{40}=0.225$, $\frac{2}{9}\approx0.22$, $\frac{5}{14}\approx0.36$. $\blacksquare$
-
-## Exercise 115
-
-(Lesson: Converting Fractions and Decimals, Exercise 19, Problem 9) Aunt Li types $0.9$ characters per second on average, and Uncle Wang types $\frac{5}{6}$ characters per second; who types faster?
-
-### Solution to Exercise 115
-
-By **Definition 10.5.8 (Converting Fractions and Decimals)**, $\frac{5}{6}\approx0.83$, and $0.9> 0.83$, so Aunt Li types faster. $\blacksquare$
-
-## Exercise 116
-
-(Lesson: Summary and Review, Problem 2) A square cloth can be cut into squares of side $8\,\mathrm{cm}$ or into squares of side $10\,\mathrm{cm}$, in either case with no waste; at minimum, what is the cloth's side length in centimeters?
-
-### Solution to Exercise 116
-
-By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**, the side is a multiple of both 8 and 10; the least is $\left[8,10\right]=40$, so the side is at least $40\,\mathrm{cm}$. $\blacksquare$
+By **Definition 8.2.1 (Observing Objects from Different Directions)**, observe and compare from the three directions: find the sides where the seen figures are the same and where they are different, and state the conclusion according to the actual arrangement. $\blacksquare$

@@ -1,301 +1,172 @@
 # week27
-> **Definition 4.3.1 (倍的意义)**
+> **Definition 3.6.1 (身体尺)**
 > 
-> 把两个数量比较, 把较少的看作 $1$ 份, 较多的有这样的几份, 就说较多的是较少的几倍. 如鹅 $2$ 只看作 $1$ 份, 鸡有 $3$ 个 $2$ 只, 鸡的只数就是鹅的 $3$ 倍.
-> **Definition 4.3.2 (求一个数是另一个数的几倍)**
+> 拃,步,庹,脚,指,手,肘等是古代使用过的长度单位, 又称为"身体尺". 没有尺子或不方便用尺子时, 可以选用合适的身体尺测量长度.
+> **Definition 3.6.2 (1 拃)**
 > 
-> 求甲数是乙数的几倍, 就是求甲数里面有几个乙数, 用除法计算. 如求 $12$ 盆是 $4$ 盆的几倍, $12\div4=3$.
-> **Definition 4.3.3 (求一个数的几倍是多少)**
+> 把手指用力张开, 大拇指指尖到中指指尖的距离是 $1$ 拃.
+> **Definition 3.6.3 (1 庹)**
 > 
-> 求一个数的几倍是多少, 就是求几个几是多少, 用乘法计算. 如牛有 $8$ 头, 羊是牛的 $4$ 倍, 羊有 $4$ 个 $8$ 只, $8\times4=32$ 只.
-> **Definition 4.3.4 (已知几倍求 $1$ 份是多少)**
+> 两臂左右平伸, 两个中指指尖之间的距离是 $1$ 庹; $1$ 庹的长和身高差不多.
+> **Definition 3.7.1 (7 的乘法口诀)**
 > 
-> 知道一个数是另一个数的几倍和这个数, 求 $1$ 份是多少, 用除法计算. 如跳的距离 $12$ 米是体长的 $6$ 倍, $12\div6=2$ 米就是体长.
+> 一七得七, 二七十四, 三七二十一, 四七二十八, 五七三十五, 六七四十二, 七七四十九. 相邻两句口诀的积相差 $7$; 一句口诀一般可计算两个乘法算式.
+> **Definition 3.7.2 (8 的乘法口诀)**
+> 
+> 一八得八, 二八十六, 三八二十四, 四八三十二, 五八四十, 六八四十八, 七八五十六, 八八六十四. 相邻两句口诀的积相差 $8$.
+> **Definition 3.7.3 (9 的乘法口诀)**
+> 
+> 一九得九, 二九十八, 三九二十七, 四九三十六, 五九四十五, 六九五十四, 七九六十三, 八九七十二, 九九八十一. 几个九就是几个十减几, 如 $9\times5$ 就是 $50-5=45$; 积的十位数字与个位数字之和都是 $9$.
+> **Definition 3.7.4 (用 7~9 的乘法口诀求商)**
+> 
+> 计算除数是 $7,8,9$ 的除法时, 想"除数和几相乘得被除数", 那句乘法口诀中缺失的乘数就是商. 如 $56\div8$, 想"七八五十六", 商是 $7$.
+> **Definition 3.7.5 (乘除两步解决问题)**
+> 
+> 先用乘法求出总数, 再用除法求每份数或份数; 前一步算出的结果就是后一步的条件, 两步缺一不可.
+> **Definition 3.7.6 (乘法口诀表)**
+> 
+> 小九九口诀表共 $45$ 句, 呈三角形排列, 从"一一得一"到"九九八十一"; 除两个乘数相同的口诀外, 每句口诀可计算两个乘法算式和两个除法算式.
 
-## Exercise 55
+## Exercise 1
 
-(Lesson: Understanding Times, Do It) Say from the picture: the number of $\bigcirc$ is $\_\_$ times the number of $\triangle$, and the number of $\square$ is $\_\_$ times the number of $\triangle$.
+(Lesson: Lengths on the Body, Measure) Which body parts' lengths do you want to know? Measure and record. Parts to measure: height, shoulder width, waist circumference, head circumference, neck circumference.
 
-### Solution to Exercise 55
+### Solution to Exercise 1
 
-By **Definition 4.3.1 (The Meaning of "Times")**, take the fewer kind of shape as $1$ share, count how many such shares the other kind has, and that is the number of times. Count the shares from the numbers in the picture and fill in. $\blacksquare$
+By **Definition 3.6.1 (Body Ruler)**, working in pairs, use a tape measure to measure height, shoulder width, waist circumference, head circumference, and neck circumference, and fill the values in centimeters into the "measurement result" column of the table. $\blacksquare$
 
-## Exercise 56
+## Exercise 2
 
-(Lesson: Understanding Times, Do It) The first row lays $5$ sticks, and the second row lays $4$ times the first row; the second row lays $\_\_$ copies of $5$ sticks, for a total of $\_\_$ sticks.
+(Lesson: Rulers on the Body, Find Them) Have you seen these ways of measuring length? Which body rulers can you find? Tell everyone.
 
-### Solution to Exercise 56
+### Solution to Exercise 2
 
-By **Definition 4.3.1 (The Meaning of "Times")**, $4$ times the first row is $4$ copies of $5$ sticks; the second row lays $4$ copies of $5$ sticks, for $5\times4=20$ sticks in all. $\blacksquare$
+By **Definition 3.6.1 (Body Ruler)**, common body rulers include $1$ hand-span, $1$ arm-span, $1$ pace, $1$ foot, $1$ finger, $1$ hand, and $1$ elbow; for example measure the textbook's width in hand-spans, the classroom's length in paces, and the blackboard's length in arm-spans. $\blacksquare$
 
-## Exercise 57
+## Exercise 3
 
-(Lesson: Finding How Many Times One Number Is Another, Do It) A short jump rope is $3$ meters long and a long one is $9$ meters long; the long rope is $\_\_$ times the short rope.
+(Lesson: Measure, Record) Working in pairs, choose suitable rulers to measure your body rulers and record the results (in centimeters or meters).
 
-### Solution to Exercise 57
+### Solution to Exercise 3
 
-By **Definition 4.3.2 (Finding How Many Times One Number Is Another)**, $9\div3=3$, so the long rope is $3$ times the short one. $\blacksquare$
+By **Definition 3.6.1 (Body Ruler)**, use a straight ruler to measure $1$ hand-span, a tape measure to measure $1$ pace and $1$ foot, and a meter stick to measure $1$ arm-span; fill the centimeter value of each body ruler into the "body ruler, measurement result" table. $\blacksquare$
 
-## Exercise 58
+## Exercise 4
 
-(Lesson: Finding How Many Times One Number Is Another, Practice) Draw and write: draw $\bigcirc\bigcirc$ in the first row, and draw $\triangle$ in the second row; the number of $\triangle$ is $4$ times the number of $\bigcirc$, so the second row has $\_\_$ $\triangle$.
+(Lesson: Use It, Match) When you have no ruler or it is inconvenient to measure with one, which body ruler would you choose? Match them. The length of a winding road — pace; the thickness of an old tree trunk — arm-span (or tape measure); placing the "fu" character — hand-span.
 
-### Solution to Exercise 58
+### Solution to Exercise 4
 
-There are $2$ $\bigcirc$, and $4$ times that is $4$ copies of $2$, $2\times4=8$; draw $8$ $\triangle$ in the second row. $\blacksquare$
+By **Definition 3.6.1 (Body Ruler)**, measure a winding road in paces (walk it); measure an old tree trunk's thickness by wrapping an arm-span or tape measure around it; use hand-spans to judge the distance when placing the "fu" character. Choose a different body ruler for different occasions. $\blacksquare$
 
-## Exercise 59
+## Exercise 5
 
-(Lesson: Finding How Many Times One Number Is Another, Practice) Xiaohong says "the number of watermelons is $2$ times the number of pineapples"; is she right? Why?
+(Lesson: Use It, Discover) Compare the body rulers with the lengths of some body parts; what do you find? "My $1$ arm-span is about my height." "My upper arm is about as long as my head."
 
-### Solution to Exercise 59
+### Solution to Exercise 5
 
-By **Definition 4.3.2 (求一个数是另一个数的几倍)**, check whether the number of watermelons contains exactly $2$ copies of the number of pineapples. Count both fruits, divide the watermelon count by the pineapple count; she is right only if the quotient is $2$, otherwise she is wrong. $\blacksquare$
+By **Definition 3.6.2 (One Hand-span)** and **Definition 3.6.3 (One Arm-span)**, comparing you find: a person's $1$ arm-span is about their height; the upper arm is about as long as the head; for people of different ages, the relation between head length and height differs. $\blacksquare$
 
-## Exercise 60
+## Exercise 6
 
-(Lesson: Finding How Many Times One Number Is Another, Practice) Fill in from the picture: (1) The number of peaches is $\_\_$ times the number of bananas. (2) The number of apples is $\_\_$ times the number of pears.
+(Lesson: Little Lecture Hall, Measurement Record) Say: what did you measure? Which body ruler did you use? What did you find? The item measured, the body ruler, the result (how many body-rulers long), and about how many centimeters. What other situations have you met that need a body ruler?
 
-### Solution to Exercise 60
+### Solution to Exercise 6
 
-By **Definition 4.3.2 (Finding How Many Times One Number Is Another)**, divide the peach count by the banana count and the apple count by the pear count; the quotient is the number of times. Compute from the picture and fill in. $\blacksquare$
+By **Definition 3.6.1 (Body Ruler)**, for example measure the TV's width in hand-spans, which is $6$ hand-spans, then measure $1$ hand-span as about $15$ centimeters with a ruler, and work out the TV width is about $90$ centimeters; you find that both you and your deskmate measured the blackboard in arm-spans, but because everyone's arm-span differs, the results differ too. $\blacksquare$
 
-## Exercise 61
+## Exercise 7
 
-(Lesson: Finding How Many Times One Number Is Another, Practice) Circle and fill in. First row $\bigcirc\bigcirc$: (1) The number of $\triangle$ is $\_\_$ times the number of $\bigcirc$. (2) If one $\triangle$ is taken away, the number of $\triangle$ is $\_\_$ times the number of $\bigcirc$.
+(Lesson: Little Lecture Hall, Head Length and Height) A person's head length and their height have different length relations at different ages. When drawing: $2$ heads tall, $4$ heads tall, $5$ heads tall, $6$ heads tall, $7$ heads tall, $8$ heads tall.
 
-### Solution to Exercise 61
+### Solution to Exercise 7
 
-By **Definition 4.3.2 (求一个数是另一个数的几倍)**, divide the count of $\triangle$ by the count of $\bigcirc$ for the multiple; after taking one away the $\triangle$ decrease by $1$, and divide again by the count of $\bigcirc$ for the new multiple. Compute from the picture. $\blacksquare$
+By **Definition 3.6.1 (Body Ruler)**, people of different ages are about so many heads tall: a baby about $2$ heads tall, a child about $4\sim6$ heads tall, an adult about $7\sim8$ heads tall. Adjust the figure's proportions in drawing accordingly. $\blacksquare$
 
-## Exercise 62
+## Exercise 8
 
-(Lesson: Finding How Many Times One Number Is Another, Practice) (1) How many times is the number of $\star$ in the first row the number of $\triangle$? (2) Color the $\bigcirc$ in the second row with two different colors, then raise a math problem based on the coloring and solve it.
+(Lesson: Body Rulers in Classical Chinese) Spread the hand to know the foot; a single stride crosses a thousand li. $1$ pace $=2$ strides.
 
-### Solution to Exercise 62
+### Solution to Exercise 8
 
-(1) Divide the count of $\star$ in the first row by the count of $\triangle$. (2) For example, however many of each color there are, raise a problem like "how many times is one color the other?" and solve it with division. $\blacksquare$
+By **Definition 3.6.1 (Body Ruler)**, "spread the hand to know the foot" means measuring length with the outstretched hand (hand-span); in "a stride crosses a thousand li", $1$ stride is one step, and $1$ pace $=2$ strides. Ancient people used their bodies as tools for measuring length. $\blacksquare$
 
-## Exercise 63
+## Exercise 9
 
-(Lesson: Finding How Many Times One Number Is Another, Practice) Xiaoyu is $9$ years old, her mother is $36$, and her grandmother is $63$. (1) How many times is the mother's age Xiaoyu's? (2) Raise other math problems and solve them.
+(Lesson: Growth Portfolio) What gains and feelings did you have from the activity? Write and draw a little. Evaluate your own performance in this activity.
 
-### Solution to Exercise 63
+### Solution to Exercise 9
 
-(1) By **Definition 4.3.2 (求一个数是另一个数的几倍)**, $36\div9=4$, so the mother's age is $4$ times Xiaoyu's. (2) For example how many times the grandmother is Xiaoyu: $63\div9=7$; how much older the mother is than Xiaoyu: $36-9=27$ years. $\blacksquare$
+By **Definition 3.6.1 (Body Ruler)**, through this activity you learned body rulers such as the hand-span, arm-span, and pace, can choose a suitable body ruler for different occasions, and can analyze measurement data and discover the relations between body rulers and body parts. $\blacksquare$
 
-## Exercise 64
+## Exercise 10
 
-(Lesson: Finding How Many Times One Number Is Another, Practice) An older sister and her younger brother practice brush characters; in the same time the sister writes $18$ characters and the brother writes $9$. How many times is the sister's count the brother's? How many more characters did the sister write than the brother?
+(Lesson: Multiplication Rhymes of 7, Example, Puzzle) You have studied the rhymes of $1\sim6$; now try to make up the rhymes of $7$: for puzzle piece counts $1\sim7$, the number of tiles is each a multiple of $7$, and write out each rhyme and the two corresponding multiplication expressions.
 
-### Solution to Exercise 64
+### Solution to Exercise 10
 
-By **Definition 4.3.2 (求一个数是另一个数的几倍)**, $18\div9=2$, so the sister wrote $2$ times as many as the brother. The sister wrote $18-9=9$ more characters than the brother. $\blacksquare$
+By **Definition 3.7.1 (Multiplication Rhymes of 7)**: one seven is seven ($7\times1=7$, $1\times7=7$), two seven fourteen ($7\times2=14$, $2\times7=14$), three seven twenty-one, four seven twenty-eight, five seven thirty-five, six seven forty-two, seven seven forty-nine ($7\times7=49$). $\blacksquare$
 
-## Exercise 65
+## Exercise 11
 
-(Lesson: Finding How Many Times One Number Is Another, Practice) The same kind of tissue pack: one costs $6$ yuan, another costs $18$ yuan ($12$ packs). (1) Raise a problem about the multiplication/division relation and solve it. (2) Raise other math problems and solve them.
+(Lesson: Multiplication Rhymes of 7, Do It, Problem 1) Mental arithmetic: $7\times4=$, $5\times7=$, $7\times6=$, $4\times7=$, $7\times5=$, $6\times7=$. Which rhyme does each use?
 
-### Solution to Exercise 65
+### Solution to Exercise 11
 
-(1) For example "how many times is the $18$-yuan one the $6$-yuan one": $18\div6=3$. (2) For example "how much more expensive": $18-6=12$ yuan. The answer is not unique. $\blacksquare$
+By **Definition 3.7.1 (Multiplication Rhymes of 7)**: $7\times4=28$ (four seven twenty-eight), $5\times7=35$ (five seven thirty-five), $7\times6=42$ (six seven forty-two), $4\times7=28$, $7\times5=35$, $6\times7=42$. Swapping the factors uses the same rhyme. $\blacksquare$
 
-## Exercise 66
+## Exercise 12
 
-(Lesson: Finding a Multiple of a Number, Do It) A set of checkers is $9$ yuan, and a set of Chinese chess is $3$ times that; how much is a set of Chinese chess?
+(Lesson: Multiplication Rhymes of 7, Do It, Problem 2) Look at the calendar for June 2025: one week has $7$ days; how many days are in $2$ weeks? In $3$ weeks? Write the expression $\square\times\square=\square$.
 
-### Solution to Exercise 66
+### Solution to Exercise 12
 
-By **Definition 4.3.3 (Finding a Multiple of a Number)**, $3$ times $9$ is $3$ copies of $9$, $9\times3=27$ yuan. A set of Chinese chess is $27$ yuan. $\blacksquare$
+By **Definition 3.7.1 (Multiplication Rhymes of 7)**, $2$ weeks: $7\times2=14$ (days); $3$ weeks: $7\times3=21$ (days). $\blacksquare$
 
-## Exercise 67
+## Exercise 13
 
-(Lesson: Given the Multiple, Finding $1$ Share, Do It) A ship is $24$ meters long, which is $3$ times a whale's body length; what is the whale's body length?
+(Lesson: Multiplication Rhymes of 7, Math Game) Match: $7\times6$, $7\times3$, $7\times4$, $7\times2$, $7\times5$ with $21$, $42$, $35$, $28$, $14$.
 
-### Solution to Exercise 67
+### Solution to Exercise 13
 
-By **Definition 4.3.4 (Given the Multiple, Finding What $1$ Share Is)**, take the whale's body length as $1$ share; the ship has $3$ such shares, $24$ meters in all, so $24\div3=8$ meters. The whale is $8$ meters long. $\blacksquare$
+By **Definition 3.7.1 (Multiplication Rhymes of 7)**: $7\times6=42$, $7\times3=21$, $7\times4=28$, $7\times2=14$, $7\times5=35$. Connect in order. $\blacksquare$
 
-## Exercise 68
+## Exercise 14
 
-(Lesson: Solving Problems, Practice) Taking the high-speed train from Beijing to Jinan takes about $2$ hours, and Beijing to Guangzhou takes $4$ times as long; about how many hours is Beijing to Guangzhou?
+(Lesson: Multiplication Rhymes of 8, Example) Following the rhymes of $7$, make up the rhymes of $8$: starting from $1\times8=8$, write in turn $2\times8$ up to $8\times8$ and the corresponding rhymes.
 
-### Solution to Exercise 68
+### Solution to Exercise 14
 
-By **Definition 4.3.3 (Finding a Multiple of a Number)**, $4$ times $2$ hours is $2\times4=8$ hours. $\blacksquare$
+By **Definition 3.7.2 (Multiplication Rhymes of 8)**: one eight is eight, two eight sixteen, three eight twenty-four, four eight thirty-two, five eight forty, six eight forty-eight, seven eight fifty-six, eight eight sixty-four. Neighboring products increase by $8$. $\blacksquare$
 
-## Exercise 69
+## Exercise 15
 
-(Lesson: Solving Problems, Practice) There are $8$ $\triangle$, and the number of $\bigcirc$ is $4$ times the number of $\triangle$; how many $\bigcirc$ are there?
+(Lesson: Multiplication Rhymes of 8, Do It) Fill in the rhymes: five eight $\left(\;\;\right)$, two eight $\left(\;\;\right)$, eight eight $\left(\;\;\right)$; $\left(\;\;\right)$ eight twenty-four, $\left(\;\;\right)$ eight forty-eight, $\left(\;\;\right)$ eight fifty-six.
 
-### Solution to Exercise 69
+### Solution to Exercise 15
 
-By **Definition 4.3.3 (求一个数的几倍是多少)**, $\bigcirc$ is $4$ times $8$, $8\times4=32$ items. There are $32$ $\bigcirc$. $\blacksquare$
+By **Definition 3.7.2 (Multiplication Rhymes of 8)**: five eight forty, two eight sixteen, eight eight sixty-four; three eight twenty-four, six eight forty-eight, seven eight fifty-six. $\blacksquare$
 
-## Exercise 70
+## Exercise 16
 
-(Lesson: Solving Problems, Practice) The picture has $18$ deer, $6$ monkeys, $24$ rabbits, and $8$ squirrels. (1) How many times is the number of deer the number of monkeys? (2) Raise other math problems and solve them.
+(Lesson: Multiplication Rhymes of 8, Practice, Problem 1) Mental arithmetic: $7\times2$, $5\times7$, $6\times7$, $5\times8$, $4\times7$, $7\times7$, $3\times8$, $8\times8$, $7\times3$, $7\times6$, $8\times5$, $8\times4$.
 
-### Solution to Exercise 70
+### Solution to Exercise 16
 
-(1) By **Definition 4.3.2 (求一个数是另一个数的几倍)**, $18\div6=3$, so the deer are $3$ times the monkeys. (2) For example how many times the rabbits are the monkeys: $24\div6=4$. The answer is not unique. $\blacksquare$
+By **Definition 3.7.1 (Multiplication Rhymes of 7)** and **Definition 3.7.2 (Multiplication Rhymes of 8)**: $7\times2=14$, $5\times7=35$, $6\times7=42$, $5\times8=40$, $4\times7=28$, $7\times7=49$, $3\times8=24$, $8\times8=64$, $7\times3=21$, $7\times6=42$, $8\times5=40$, $8\times4=32$. $\blacksquare$
 
-## Exercise 71
+## Exercise 17
 
-(Lesson: Solving Problems, Practice) A bookshelf has three shelves; the middle shelf has $36$ books, which is $4$ times the bottom shelf, and the top shelf is $3$ times the bottom shelf. (1) How many books on the bottom shelf? (2) How many on the top shelf?
+(Lesson: Multiplication Rhymes of 8, Practice, Problem 2) One group of piano keys has $7$ white keys and $5$ black keys; how many white keys and how many black keys do $7$ groups have?
 
-### Solution to Exercise 71
+### Solution to Exercise 17
 
-(1) By **Definition 4.3.4 (已知几倍求 $1$ 份是多少)**, the middle shelf's $36$ books are $4$ times the bottom shelf, so the bottom shelf is $36\div4=9$ books. (2) By **Definition 4.3.3 (求一个数的几倍是多少)**, the top shelf is $3$ times the bottom shelf's $9$ books, $9\times3=27$ books. $\blacksquare$
+White keys: by **Definition 3.7.1 (Multiplication Rhymes of 7)**, $7\times7=49$ (keys); black keys: by the rhyme learned before **Definition 3.7.2 (Multiplication Rhymes of 8)**, $5\times7=35$ (keys). $\blacksquare$
 
-## Exercise 72
+## Exercise 18
 
-(Lesson: Solving Problems, Practice) Write expressions from the picture. (1) One segment stands for $7$ items, and another segment is some multiple of it; find the total number of items. (2) One segment is $1$ meter long, and another is $2$ meters; find the total meters.
+(Lesson: Multiplication Rhymes of 8, Practice, Problem 3) How many small squares are in each figure? Say how you computed it (three figures made of small squares).
 
-### Solution to Exercise 72
+### Solution to Exercise 18
 
-By the tape diagram: (1) first find the segment that is the multiple, then add it to the $7$ items, such as $7\times$ multiple $+7$. (2) Read the multiple relation between the two segments; use multiplication or division for the meters, and write the expression per the multiple marked in the picture. $\blacksquare$
-
-## Exercise 73
-
-(Lesson: Solving Problems, Practice) Xiaoli is $6$ years old this year, and her father's age is $6$ times hers. (1) How old is her father this year? (2) Last year, how many times was her father's age Xiaoli's?
-
-### Solution to Exercise 73
-
-(1) By **Definition 4.3.3 (求一个数的几倍是多少)**, the father is $6\times6=36$ years old. (2) Last year the father was $35$ and Xiaoli was $5$, $35\div5=7$, so last year the father's age was $7$ times Xiaoli's. $\blacksquare$
-
-## Exercise 74
-
-(Lesson: Solving Problems, Practice) A kind of bacterium, every $1$ hour, multiplies from $1$ to $2$; after $3$ hours, how many times the original is the count?
-
-### Solution to Exercise 74
-
-After the $1$st hour there are $2$, after the $2$nd hour $4$, after the $3$rd hour $8$, $8\div1=8$. It is $8$ times the original. $\blacksquare$
-
-## Exercise 75
-
-(Lesson: Solving Problems, Practice) The baby bear says "I have $5$ corn cobs", and the mother bear says "after I give you $3$ of my cobs, my cobs will be $2$ times yours"; how many cobs did the mother bear originally have?
-
-### Solution to Exercise 75
-
-After the gift the baby has $5+3=8$ cobs, and then the mother is $2$ times that, $8\times2=16$ cobs. These $16$ cobs are after giving away $3$, so the mother originally had $16+3=19$ cobs. $\blacksquare$
-
-## Exercise 76
-
-(Lesson: Solving Problems, Do It) You bought $7$ rabbit lanterns, and the goldfish lanterns are $4$ times the rabbit lanterns. How many goldfish lanterns were bought? How many more goldfish than rabbit lanterns?
-
-### Solution to Exercise 76
-
-Goldfish lanterns: $7\times4=28$; $28-7=21$ more than rabbit lanterns. $\blacksquare$
-
-## Exercise 77
-
-(Lesson: Solving Problems, Do It) Given the conditions and the question, raise a question or supply a suitable condition, then solve. (1) The class hung $42$ red balloons and $7$ yellow balloons, $\_\_\_\_$? (2) The teacher bought $45$ $\triangle$, $\_\_\_\_$, how many $\bigcirc$ were bought?
-
-### Solution to Exercise 77
-
-(1) You may raise "how many times are the red balloons the yellow": $42\div7=6$. (2) You may supply "how many times $\bigcirc$ is $\triangle$" or "how many more/fewer", for example $\bigcirc$ is $2$ times $\triangle$, $45\times2=90$. The supplied condition should be reasonable, and the answer is not unique. $\blacksquare$
-
-## Exercise 78
-
-(Lesson: Solving Problems, Practice) Write an expression from the picture: there are $7$ red-bean buns, and the meat buns are $4$ times the red-bean buns; how many in all?
-
-### Solution to Exercise 78
-
-Meat buns: $7\times4=28$, and in all $28+7=35$ buns. $\blacksquare$
-
-## Exercise 79
-
-(Lesson: Solving Problems, Practice) On Monday a supermarket sold $5$ bags of flour, and the rice sold was $4$ times the flour; how many bags of rice were sold? How many more bags of rice than flour?
-
-### Solution to Exercise 79
-
-Rice: $5\times4=20$ bags; $20-5=15$ more bags of rice than flour. $\blacksquare$
-
-## Exercise 80
-
-(Lesson: Solving Problems, Practice) Teacher Li buys prizes: $5$ fountain pens, and the pencils are some multiple of the pens (see tape diagram). (1) How many pencils were bought? (2) Raise a question from the picture and solve it.
-
-### Solution to Exercise 80
-
-Per the tape diagram, however many times the pencils are the pens, multiply $5$ by that multiple to get the pencils. (2) For example "how many in all": add the pens and pencils. $\blacksquare$
-
-## Exercise 81
-
-(Lesson: Solving Problems, Practice) Choose a question or condition, complete the problem, and solve. (1) Master Wang fixes $26$ air conditioners and Master Zhang fixes $15$, $\_\_$? (① how many more the two differ ② how many in all) (2) There are $6$ black rabbits, $\_\_$, how many white rabbits? (① black rabbits are $3$ more than white ② white rabbits are $3$ more than black ③ black rabbits are $3$ times white ④ white rabbits are $3$ times black)
-
-### Solution to Exercise 81
-
-(1) Choose ①: $26-15=11$ units; choose ②: $26+15=41$ units. (2) Choose ②: white rabbits $6+3=9$; choose ④: white rabbits $6\times3=18$. Choose ③: $6\div3=2$ rabbits (fewer white). Write the expression per the chosen condition. $\blacksquare$
-
-## Exercise 82
-
-(Lesson: Solving Problems, Practice) To solve the following problems by addition, what condition could you add? (1) A pot of Chinese rose was $9$ yuan originally, $\_\_$, how much is a pot now? (2) Grandpa Li bought $18$ peach saplings, $\_\_$, how many apricot saplings did he buy?
-
-### Solution to Exercise 82
-
-To use addition, the added condition should be "now it costs how many yuan more" or "how many more apricot than peach saplings". For example (1) now it costs $3$ yuan more, $9+3=12$ yuan; (2) the apricot saplings are $5$ more than the peach, $18+5=23$ saplings. The answer is not unique. $\blacksquare$
-
-## Exercise 83
-
-(Lesson: Solving Problems, Practice) Given the expression, supply a suitable condition or raise a question. (1) Uncle Wang bought $\_\_$, of which orange juice is $4$ boxes; how many boxes of apple juice did he buy? $12-4=8$ (boxes). (2) Uncle Wang bought $4$ boxes of orange juice, and the apple juice is $2$ times the orange juice, $\_\_$? $4\times2=8$ (boxes), $8+4=12$ (boxes).
-
-### Solution to Exercise 83
-
-(1) $12-4=8$ means the apple juice and orange juice total $12$ boxes, so add "orange juice and apple juice total $12$ boxes". (2) $4\times2=8$ finds the boxes of apple juice (raise "how many boxes of apple juice"), and $8+4=12$ finds the total (raise "how many boxes of the two juices in all"). $\blacksquare$
-
-## Exercise 84
-
-(Lesson: Solving Problems, Practice) Choose a suitable condition from the picture, raise a math problem, and solve it: there are $9$ comic books and $27$ science books, and the science books are $3$ times the comics.
-
-### Solution to Exercise 84
-
-You may raise "how many times are the science books the comics": $27\div9=3$; or "how many books in all": $27+9=36$ books. The answer is not unique. $\blacksquare$
-
-## Exercise 85
-
-(Lesson: Solving Problems, Practice) Jiajia makes a necklace with $7$ red beads and $48$ blue beads, and wants the blue beads to be $6$ times the red. (1) If the red beads stay the same, how many blue beads must be added or removed? (2) If the blue beads stay the same, how many red beads are needed? How many beads in all for the necklace?
-
-### Solution to Exercise 85
-
-(1) Red beads stay $7$, so blue should be $7\times6=42$ beads; there are $48$, so remove $48-42=6$ beads. (2) Blue beads stay $48$, so red should be $48\div6=8$ beads; in all $48+8=56$ beads. $\blacksquare$
-
-## Exercise 86
-
-(Lesson: Organization and Review) Looking back on this unit: the relations between two quantities are add/subtract, difference, and times (multiply/divide); $3$ times $5$ is $3$ copies of $5$, using multiplication; finding how many times one number is another uses division; and use tape diagrams to show the times relation. Show your knowledge map to everyone.
-
-### Solution to Exercise 86
-
-Organize as "relations between two quantities — add/subtract, difference, times — multiply/divide", marking $5\times3=15$, $15\div3=5$, $15\div5=3$. $\blacksquare$
-
-## Exercise 87
-
-(Lesson: Organization and Review, Practice) Last year $8$ wintering swans came to the park, and this year's number is $4$ times last year's; how many wintering swans came this year?
-
-### Solution to Exercise 87
-
-By **Definition 4.3.3 (求一个数的几倍是多少)**, $8\times4=32$ swans. This year $32$ came. $\blacksquare$
-
-## Exercise 88
-
-(Lesson: Organization and Review, Practice) Xiaoliang wrote $6$ brush characters on Friday and $18$ on Saturday; how many times Saturday's count is Friday's?
-
-### Solution to Exercise 88
-
-By **Definition 4.3.2 (求一个数是另一个数的几倍)**, $18\div6=3$. Saturday's writing is $3$ times Friday's. $\blacksquare$
-
-## Exercise 89
-
-(Lesson: Organization and Review, Practice) (1) The dance group has $9$ boys, and the girls are $3$ times the boys; how many girls? How many in all? (2) The dance group has $9$ boys, and the girls are $18$ more than the boys; how many girls? How many in all?
-
-### Solution to Exercise 89
-
-(1) Girls $9\times3=27$, in all $27+9=36$. (2) Girls $9+18=27$, in all $27+9=36$. $\blacksquare$
-
-## Exercise 90
-
-(Lesson: Organization and Review, Practice) From the picture, supply a suitable condition or question, then solve. (1) There are $8$ $\triangle$, and $\bigcirc$ is $3$ times $\triangle$, $\_\_\_\_$? (2) There are $8$ $\triangle$, $\_\_\_\_$, how many $\bigcirc$?
-
-### Solution to Exercise 90
-
-(1) You may raise "how many $\bigcirc$": $8\times3=24$ flowers. (2) Supply a condition such as "$\bigcirc$ is $2$ times $\triangle$" or "$\bigcirc$ is $5$ more than $\triangle$", then multiply or add accordingly. The answer is not unique. $\blacksquare$
+Multiply the count per row by the number of rows; for example $4$ per row and $3$ rows gives $4\times3=12$; the exact count is the product of the rows and columns in the picture. $\blacksquare$

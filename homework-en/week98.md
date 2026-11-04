@@ -1,104 +1,175 @@
 # week98
-> **Definition 12.1.1 (Positive and Negative Numbers)**
+> **Definition 9.1.1 (视图)**
 > 
-> 像 3, 1.8%, 3.5 这样大于 0 的数叫做正数; 像 -3, -2.7%, -4.5 这样在正数前加上负号的数叫做负数.
-> **Definition 12.1.2 (正负数的读法)**
+> 从某一方向观察一个物体时, 所看到的平面图形叫作物体的一个视图. 按观察方向分为主视图 (从前面看), 俯视图 (从上面看), 左视图 (从左面看) 等.
+> **Definition 9.1.2 (从同一方向观察不同组合体)**
 > 
-> 负数先读"负", 再读数, 如 $-3$ 读作负三, $-\frac{3}{8}$ 读作负八分之三. 正数前面加 "+" 时读作正几, 如 $+3$ 读作正三; 一般 "+" 省略, 直接读数.
-> **Definition 12.1.3 (用数轴表示正负数)**
+> 从同一方向观察不同的组合体, 看到的图形可能相同, 也可能不同; 从不同方向观察同一个组合体, 看到的图形一般也不同.
+> **Definition 9.1.3 (Reconstructing from Views)**
 > 
-> 用带箭头的直线上的点表示数, 直线上的 $0$ 是分界点 (原点), $0$ 右边的数是正数, $0$ 左边的数是负数. 正数和负数表示相反意义的量, 方向相反则符号相反.
+> 根据从前面, 上面, 左面三个方向看到的图形, 可以确定由小正方体摆成的组合体的形; 若只给出一个方向的视图, 组合体的摆法往往不唯一.
+> **Definition 9.2.1 (小数乘整数)**
+> 
+> 先把小数转化为整数 (乘 $10,100,\cdots$), 按整数乘法算出积, 再把积除以相同的倍数, 点上小数点. 如 $9.5\times3$, 把 $9.5$ 看作 $95$ 角, $95\times3=285$ 角 $=28.5$ 元.
+> **Definition 9.2.2 (小数乘小数)**
+> 
+> 先按整数乘法算出积, 再看两个乘数中一共有几位小数, 就从积的右边起数出几位, 点上小数点; 乘得的积的小数位数不够时, 要在前面用 $0$ 补足, 再点小数点.
+> **Definition 9.2.3 (积的近似数)**
+> 
+> 根据需要, 按"四舍五入"法保留一定的小数位数, 求出积的近似数.
+> **Definition 9.2.4 (倍数是小数)**
+> 
+> 一个数 ( $0$ 除外) 乘大于 $1$ 的数, 积比原来的数大; 乘小于 $1$ 的数, 积比原来的数小. 用小数表示倍的关系时, 也用乘法解决.
+> **Definition 9.2.5 (整数乘法运算律推广到小数)**
+> 
+> .2 13.7+0.98+0.02+4.3 计算下面各题,怎样简便就怎样计算. 2 做一做 整数加法运算律推广到小数 谁的方法更简便?你是怎样想的? 说一说小丽在计算时应用了什么运算律. 小伟这样算: 0.6+7.91+3.4+0.09 = 8.51+3.4+0.09 = 11.91+0.09 = 12 0.6+7.91+3.4+0.09 = (0.6+3.4)+(7.91+0.09) = 4+8 = 12 小丽这样算: 计算0.6+7.91+3.4+0.09. 4 3.2+0.5 0.5+3.2 (4.7+2.6)+7.4 4.7+(2.6+7.4) 整数加法的交换律,结合律对小数加法同样适用. 应用运算律,可以使一些小数计算更简便. 我们已经学过整数加法的运算律,这些运算律在小数运算中还 适用吗?计算下面每组的两个算式,看看它们有什么关系. 你有什么发现?你能 举例验证吗? 整数加法运算律推广到小数 我们已经学过整数加法的运算律,这些运算律在小数运算中还 适用吗?计算下面每组
+> **Definition 9.2.6 (估算解决实际问题)**
+> 
+> 98人,四至六 年级来了187人.六个年级的学生同时看电影,坐得下吗? 做一做 有时不需要精确计算,估算也能解决问题. 只要算出总价,与500 元, 700元比较就行了.不过这 两个三位数相加不好算. 我来估计:358+249. ↓ ↓ 只看百位:300+200=500, 总价肯定超过500元了. 我也只看百位,就 知道带700元够了. 75 右边的两种棋各 买一副,500元够 吗?700元呢? 围棋:358元 国际象棋:249元 阅读理解 知道了两种棋的价格····要解决的问题是····· 分析解答 我来估计:358+249. 只要算出总价,与500元, 只看百位:300+200=500, 700元比较就行了.不过这 总价肯定超过500元了 两个三位数相加不好算 我也只看百位,就 知道带700元够了. + 21 41 358< 400, 249< 300, 那么 358＋249小于 700. 口答:两种棋各买一副,500元不够,700元够. 回顾反思 有时不需要精确计算,估
+> **Definition 9.2.7 (分段计费)**
+> 
+> 出租车, 水费等分段计费问题, 先按标准分成几段, 分别计算每段费用, 再相加; 不足 $1$ 单位按 $1$ 单位计算.
 
 ## Exercise 1
 
-(Lesson: Understanding Negative Numbers, Do It, Problem 1) Which temperature is lower, $-3\,^{\circ}\mathrm{C}$ or $-18\,^{\circ}\mathrm{C}$?
+(Lesson: Observing Simple Combinations, Practice 1, Review and Consolidation, Problem 1) Place a cube and a cuboid as a combination; from which direction is each figure below seen? Draw connections (front view, top view, left view).
 
 ### Solution to Exercise 1
 
-By **Definition 12.1.1 (Positive and Negative Numbers)**, sub-zero temperatures carry a minus sign, and the more negative the number the lower the temperature. Since $-18$ is smaller than $-3$, $-18\,^{\circ}\mathrm{C}$ is the lower temperature. $\blacksquare$
+By **Definition 9.1.1 (Views)**, observe the combination from the three directions and connect each seen planar figure to the corresponding direction. $\blacksquare$
 
 ## Exercise 2
 
-(Lesson: Understanding Negative Numbers, Do It, Problem 2) Read the following numbers aloud and state which are positive and which are negative: $-7$, $2.5$, $0$, $-\frac{5}{2}$, $-5.2$, $+41$, $-\frac{3}{4}$, $+\frac{1}{5}$.
+(Lesson: Observing Simple Combinations, Practice 1, Review and Consolidation, Problem 2) Draw the figures seen from the front, top and left of the two given combinations.
 
 ### Solution to Exercise 2
 
-By **Definition 12.1.1 (Positive and Negative Numbers)** and **Definition 12.1.2 (Reading Positive and Negative Numbers)**: the positive numbers are $2.5$, $+41$, $+\frac{1}{5}$; the negative numbers are $-7$, $-\frac{5}{2}$, $-5.2$, $-\frac{3}{4}$; and $0$ is neither positive nor negative. $\blacksquare$
+By **Definition 9.1.1 (Views)**, observe the combinations from the three directions and draw the arrangement of small squares on grid paper. $\blacksquare$
 
 ## Exercise 3
 
-(Lesson: Number Line, Do It) Mark the following numbers on the number line: $-4$, $-2$, $2.5$, $-0.5$, $1.5$, $-\frac{5}{2}$.
+(Lesson: Observing Simple Combinations, Practice 1, Review and Consolidation, Problem 3) Among the following $3$ combinations, from which direction are the seen figures the same, and from which direction are they different?
 
 ### Solution to Exercise 3
 
-By **Definition 12.1.3 (Representing Positive and Negative Numbers on the Number Line)**, to the right of $0$ mark $1.5$, $2.5$ in order; to the left of $0$ mark $-0.5$, $-2$, $-\frac{5}{2}=-2.5$, $-4$ in order. Their positions are shown below.
-
-(Figure: a horizontal number line with arrow, origin $0$ in the middle, $1.5$ and $2.5$ marked to the right, and $-0.5$, $-2$, $-2.5$, $-4$ marked to the left.)
-
-$\blacksquare$
+By **Definition 9.1.2 (Observing Different Combinations from the Same Direction)**, compare direction by direction: same if the projections coincide, otherwise different. $\blacksquare$
 
 ## Exercise 4
 
-(Lesson: Exercise 1, Problem 1) On the Moon's surface the daytime temperature can reach $127\,^{\circ}\mathrm{C}$ above zero, recorded as $\_\_\,^{\circ}\mathrm{C}$; the nighttime temperature can reach $183\,^{\circ}\mathrm{C}$ below zero, recorded as $\_\_\,^{\circ}\mathrm{C}$.
+(Lesson: Observing Simple Combinations, Practice 1, Review and Consolidation, Problem 4) Use $5$ identical small cubes to build the combination as required: (1) from the front see two small squares of $1\times2$; (2) on the basis of (1), from above see the specified shape.
 
 ### Solution to Exercise 4
 
-By **Definition 12.1.1 (Positive and Negative Numbers)**, temperatures above zero are recorded as positive and below zero as negative: daytime is recorded as $+127\,^{\circ}\mathrm{C}$ (i.e. $127\,^{\circ}\mathrm{C}$); nighttime is recorded as $-183\,^{\circ}\mathrm{C}$. $\blacksquare$
+By **Definition 9.1.3 (Reconstructing a Combination from Its Views)**, first arrange by the front shape, then adjust the position of the $5$th cube according to the top shape; there may be several arrangements. $\blacksquare$
 
 ## Exercise 5
 
-(Lesson: Exercise 1, Problem 2) China takes the long-term mean sea level as the elevation datum, i.e. elevation $0\,\mathrm{m}$; elevation above sea level is positive and below sea level is negative. The elevation of Mount Everest is $\_\_\,\mathrm{m}$, and the elevation of the lowest point of the Turpan Basin is $\_\_\,\mathrm{m}$ (Mount Everest rises $8848.86\,\mathrm{m}$ above sea level, while the lowest point of the Turpan Basin lies $154.31\,\mathrm{m}$ below sea level).
+(Lesson: Observing Simple Combinations, Practice 1, Integrated Use, Problem 1) Below are some combinations built from identical small cubes. (1) Which look from the front like the specified shape, and which look from the left like the specified shape? (2) Observing from the front a combination built from $5$ cubes, the seen figure is the same as the front view of a known combination; how many different arrangements does this combination have?
 
 ### Solution to Exercise 5
 
-By **Definition 12.1.1 (Positive and Negative Numbers)**, points above sea level are recorded as positive and below sea level as negative: Mount Everest's elevation is $+8848.86\,\mathrm{m}$ (i.e. $8848.86\,\mathrm{m}$); the lowest point of the Turpan Basin is $-154.31\,\mathrm{m}$. $\blacksquare$
+By **Definition 9.1.2 (从同一方向观察不同组合体)** and **Definition 9.1.3 (Reconstructing from Views)**, examine each combination's front and left views and classify them; with the front view fixed, the $5$th cube can be placed in several positions that do not change the front view; enumerate them to get the number of arrangements. $\blacksquare$
 
 ## Exercise 6
 
-(Lesson: Exercise 1, Problem 3) If Beijing time is recorded as $0$ o'clock, then relative to Beijing time, Tokyo is $1$ hour ahead and is recorded as $+1$ hour, while Paris is $7$ hours behind and is recorded as $-7$ hours. At this moment, it is $12{:}00$ in Beijing, $13{:}00$ in Tokyo, $5{:}00$ in Paris, $4{:}00$ in London, and $15{:}00$ in Sydney. Record Sydney time and London time in this way.
+(Lesson: Observing Simple Combinations, Practice 1, Extension and Improvement, Problem 1) Observing from the front a combination built from identical small cubes, the seen figure is two small squares of $1\times2$. (1) If the combination has $4$ cubes, how can it be arranged? (2) If it has $5$, $6$, $7$ or more cubes, how can it be arranged?
 
 ### Solution to Exercise 6
 
-By **Definition 12.1.1 (Positive and Negative Numbers)**, times ahead of Beijing are recorded as positive and times behind as negative. Sydney at $15{:}00$ is $3$ hours ahead of Beijing at $12{:}00$, recorded as $+3$ hours; London at $4{:}00$ is $8$ hours behind Beijing at $12{:}00$, recorded as $-8$ hours. $\blacksquare$
+By **Definition 9.1.3 (Reconstructing a Combination from Its Views)**, with the front view fixed, extra cubes can only be placed where they do not change the front projection (stacked or offset along the front-back direction). With $4$ cubes there are already several arrangements; each added cube can be placed behind or above the existing combination without affecting the front view. $\blacksquare$
 
 ## Exercise 7
 
-(Lesson: Exercise 1, Problem 4) (1) If the warning level of a river is recorded as $0\,\mathrm{m}$ and positive numbers mean the water surface is above the warning level, then during flood season the level is $1.5\,\mathrm{m}$ above the warning level, recorded as $\_\_\,\mathrm{m}$; during the dry season the level is $3\,\mathrm{m}$ below the warning level, recorded as $\_\_\,\mathrm{m}$. (2) The standard net weight of a packaged food is $200\,\mathrm{g}$; if a net weight of $205\,\mathrm{g}$ is recorded as $+5\,\mathrm{g}$, then a net weight of $197\,\mathrm{g}$ is recorded as $\_\_\,\mathrm{g}$.
+(Lesson: Observing Simple Combinations, Practice 1, Extension and Improvement, Problem 2) Build a combination from identical cubes; in the top view the number on each square indicates how many cubes are used at that position. What does this combination look like from the front? From the left?
 
 ### Solution to Exercise 7
 
-By **Definition 12.1.1 (Positive and Negative Numbers)**, values above the standard are recorded as positive and below as negative. (1) The flood-season level $1.5\,\mathrm{m}$ above is recorded as $+1.5\,\mathrm{m}$; the dry-season level $3\,\mathrm{m}$ below is recorded as $-3\,\mathrm{m}$. (2) $197\,\mathrm{g}$ is $3\,\mathrm{g}$ less than the standard $200\,\mathrm{g}$, so it is recorded as $-3\,\mathrm{g}$. $\blacksquare$
+By **Definition 9.1.1 (Views)**, the top view fixes the bottom layout and the layers in each column; from the front take the maximum layer of each column to draw the column height, and from the left take the maximum layer of each row to draw the column height. $\blacksquare$
 
 ## Exercise 8
 
-(Lesson: Exercise 1, Problem 5) The number line is marked with scales $-8, -6, -2, 0, 2, 4, 8$, and the points $A, B, C, D, E$ lie between the corresponding scales. Write the numbers represented by the points $A, B, C, D, E$.
+(Lesson: Observing Simple Combinations, Practice 1, Extension and Improvement, Problem 3) Among the four options on the right, which combination is different from the one on the left?
 
 ### Solution to Exercise 8
 
-By **Definition 12.1.3 (Representing Positive and Negative Numbers on the Number Line)**, numbers to the right of $0$ are positive and those to the left are negative; simply read off the value at each point's scale position (in the figure, point $A$ lies near $-8$; read off the numbers corresponding to $B, C, D, E$ in order toward the positive direction). $\blacksquare$
+By **Definition 9.1.2 (Observing Different Combinations from the Same Direction)**, compare the left combination with each option from the front, top and left; all three views must match for it to be the same combination, and any differing direction makes it a different combination. $\blacksquare$
 
 ## Exercise 9
 
-(Lesson: Exercise 1, Problem 6) Monthly income and expenditure for Xiaoming's family: parents' salary income totals $9500$ yuan; giving $2000$ yuan to the elderly at Spring Festival; giving $100$ yuan each to Xiaoming and his sister as New Year gifts; paying last month's utilities and other expenses of $400$ yuan; buying $800$ yuan of food; and buying new clothes for the $4$ family members, costing $1000$ yuan. Record income as positive and expenditure as negative, fill in the income-expenditure table, and compute the balance for this month.
+(Lesson: Multiplying a Decimal by an Integer, Example 1) An item costs $9.5$ yuan; how much do $3$ cost? $9.5\times3=\_\_$.
 
 ### Solution to Exercise 9
 
-By **Definition 12.1.1 (Positive and Negative Numbers)**, income is recorded as positive and expenditure as negative: parents' salary $+9500$; Spring Festival gift to the elderly $-2000$; New Year gifts to Xiaoming and his sister $-200$; utilities and other expenses $-400$; buying food $-800$; buying new clothes $-1000$. The balance is
-$$9500-2000-200-400-800-1000=5100\text{ \left(元\right)}.$$
-$\blacksquare$
+By **Definition 9.2.1 (Multiplying a Decimal by an Integer)**, $9.5$ yuan $=95$ jiao, $95\times3=285$ jiao $=28.5$ yuan. That is, $9.5\times3=28.5$ yuan. $\blacksquare$
 
 ## Exercise 10
 
-(Lesson: Exercise 1, Problem 7) If $1$ grid on the number line represents $1\,\mathrm{m}$, point $A$ is at $-1$, and point $B$ is $3\,\mathrm{m}$ from point $A$. Mark the possible positions of point $B$ on the diagram.
+(Lesson: Multiplying a Decimal by an Integer, Example 2) Calculate $0.72\times60$.
 
 ### Solution to Exercise 10
 
-By **Definition 12.1.3 (Representing Positive and Negative Numbers on the Number Line)**, point $B$ may lie on either side of point $A$. $3$ grids to the right: $-1+3=2$; $3$ grids to the left: $-1-3=-4$. Thus point $B$ may be at $2$ or at $-4$. $\blacksquare$
+By **Definition 9.2.1 (小数乘整数)**, expand $0.72$ by $100$ to get $72$, $72\times60=4320$, then divide by $100$ to get $43.20$, and remove the trailing $0$ to get $43.2$. $\blacksquare$
 
 ## Exercise 11
 
-(Lesson: Exercise 1, Problem 8) A mall's revenue in month $1$ was $100$ ten-thousand yuan; in month $2$ it was $130$ ten-thousand yuan, a $\_\_\%$ increase over month $1$. In month $3$ it was $117$ ten-thousand yuan, a $10\%$ decrease over month $2$, called negative growth, which may also be recorded as a growth of $-10\%$. In month $4$ it was $111.15$ ten-thousand yuan, a $\_\_\%$ increase over month $3$. In month $5$ it was $111.15$ ten-thousand yuan, unchanged from month $4$, with a growth rate of $\_\_\%$, also called zero growth.
+(Lesson: Multiplying a Decimal by an Integer, Try It, Problem 1) An item costs $8.6$ yuan; how much do $6$ cost? Is $40$ yuan enough for $7$?
 
 ### Solution to Exercise 11
 
-By **Definition 12.1.1 (Positive and Negative Numbers)**, a positive growth rate means growth and a negative one means a decrease. Month $2$ vs month $1$: $\left(130-100\right)\div100=30\%$, a $30\%$ increase. Month $4$ vs month $3$: $\left(111.15-117\right)\div117=-5\%$, i.e. a growth of $-5\%$. Month $5$ is unchanged from month $4$, so the growth rate is $0\%$. $\blacksquare$
+By **Definition 9.2.1 (小数乘整数)**, $6$ items: $8.6\times6=51.6$ yuan. $7$ items: $8.6\times7=60.2$ yuan; $60.2> 40$, so not enough. $\blacksquare$
+
+## Exercise 12
+
+(Lesson: Multiplying a Decimal by a Decimal, Example 1) Class 4(1)'s campus test plot is $4.2$ m long and $0.8$ m wide; what is its area? $4.2\times0.8=\_\_$.
+
+### Solution to Exercise 12
+
+By **Definition 9.2.2 (Multiplying a Decimal by a Decimal)**, expand $4.2$ by $10$ to $42$ and $0.8$ by $10$ to $8$, $42\times8=336$; the two factors have two decimal places in total, so count two places from the right and place the point: $3.36$ m$^2$. $\blacksquare$
+
+## Exercise 13
+
+(Lesson: Multiplying a Decimal by a Decimal, Try It) Calculate $1.92\times0.9$ and $0.32\times2.79$.
+
+### Solution to Exercise 13
+
+By **Definition 9.2.2 (小数乘小数)**: for $1.92\times0.9$, $192\times9=1728$, three decimal places in total, giving $1.728$. For $0.32\times2.79$, $32\times279=8928$, five decimal places in total, padding a $0$ on the front to get $0.8928$. $\blacksquare$
+
+## Exercise 14
+
+(Lesson: Multiplying a Decimal by a Decimal, Try It, Problem 1) Calculate: $6.7\times0.3$, $2.4\times6.2$, $5.4\times1.07$, $0.45\times0.6$.
+
+### Solution to Exercise 14
+
+By **Definition 9.2.2 (小数乘小数)**: $6.7\times0.3=2.01$; $2.4\times6.2=14.88$; $5.4\times1.07=5.778$; $0.45\times0.6=0.27$. $\blacksquare$
+
+## Exercise 15
+
+(Lesson: Multiplying a Decimal by a Decimal, Try It, Problem 2) Calculate: $0.56\times0.04$, $3.7\times4.6$, $0.48\times1.5$, $0.29\times0.07$, $0.056\times0.15$.
+
+### Solution to Exercise 15
+
+By **Definition 9.2.2 (小数乘小数)**: $0.56\times0.04=0.0224$ (pad $0$ on the front when there are too few places); $3.7\times4.6=17.02$; $0.48\times1.5=0.72$; $0.29\times0.07=0.0203$; $0.056\times0.15=0.0084$. $\blacksquare$
+
+## Exercise 16
+
+(Lesson: Approximate Value of a Product, Example) A human has about $0.049$ hundred million olfactory cells, and a dog has $45$ times as many. About how many hundred million olfactory cells does a dog have? (Keep one decimal.)
+
+### Solution to Exercise 16
+
+By **Definition 9.2.3 (Approximate Value of a Product)**, $0.049\times45=2.205$; keeping one decimal, look at the hundredths digit $0< 5$, discard it, giving $2.2$ hundred million. $\blacksquare$
+
+## Exercise 17
+
+(Lesson: Decimal Multiplication, Practice 2, Review and Consolidation, Problem 1) Place the decimal point in each product: $4.6\times30$, $0.46\times30$, $0.46\times300$ (the vertical products are $138$, $1380$, $13800$).
+
+### Solution to Exercise 17
+
+By **Definition 9.2.2 (小数乘小数)**: $4.6\times30$, one decimal place, gives $138.0=138$; $0.46\times30$, two decimal places, gives $13.80=13.8$; $0.46\times300$, two decimal places, gives $138.00=138$. $\blacksquare$
+
+## Exercise 18
+
+(Lesson: Decimal Multiplication, Practice 2, Review and Consolidation, Problem 2) Calculate: $0.86\times7$, $12.8\times42$, $0.19\times40$, $0.37\times0.4$, $1.06\times25$, $0.082\times0.14$, $27\times0.43$, $0.055\times0.06$.
+
+### Solution to Exercise 18
+
+By **Definition 9.2.1 (小数乘整数)** and **Definition 9.2.2 (小数乘小数)**: $0.86\times7=6.02$; $12.8\times42=537.6$; $0.19\times40=7.6$; $0.37\times0.4=0.148$; $1.06\times25=26.5$; $0.082\times0.14=0.01148$; $27\times0.43=11.61$; $0.055\times0.06=0.0033$. $\blacksquare$

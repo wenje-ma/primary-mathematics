@@ -1,218 +1,174 @@
 # week10
-> **Definition 2.2.1 (十几减 $9$)**
+> **Definition 1.4.4 (Teen Numbers Addition/Subtraction)**
 > 
-> 计算十几减 $9$, 可以"想加算减", 如想 $9+6=15$, 所以 $15-9=6$; 也可以用"破十法", 先算 $10-9=1$, 再加个位上的几.
-> **Definition 2.2.2 (退位减法)**
+> 11-20 各数加上一个一位数, 以及相应的减法, 可以用数的组成来计算.
+> **Definition 1.5.1 (凑十法)**
 > 
-> 个位不够减时, 从十位退 $1$ 当作 $10$, 与个位上的数合起来再减.
-> **Definition 2.2.3 (解决实际问题)**
+> 计算进位加法时, 把一个加数凑成 $10$, 再加剩下的部分. 如 $9+4$, 把 $4$ 分成 $1$ 和 $3$, $9+1=10$, $10+3=13$.
+> **Definition 1.5.2 (交换加数位置)**
 > 
-> 读题后先找出已知条件和问题, 选择与问题有关的条件列式, 多余的条件不参与计算, 算后再检查.
+> 交换两个加数的位置, 和不变. 如 $8+5=13$, $5+8=13$, 可以用大数加小数来算.
+> **Definition 1.5.3 (用加法解决问题)**
+> 
+> 求总数,求"原来有多少", 把两部分合起来用加法, 如领走的 $6$ 个加剩下的 $5$ 个, $6+5=11$.
+> **Definition 1.6.1 (20以内数的认识)**
+> 
+> $0\sim20$ 各数按顺序排列, 后面的数比前面的大; $10$ 个一是 $1$ 个十; 从右边起第一位是个位, 第二位是十位, 有几个十就在十位写几, 有几个一就在个位写几.
+> **Definition 1.6.2 (20以内的加,减法)**
+> 
+> 把两部分合起来用加法, 从总数里去掉一部分用减法; 进位加法用凑十法, 把一个加数凑成 $10$ 再算.
+> **Definition 1.6.3 (立体图形)**
+> 
+> 长方体,正方体有平平的面; 圆柱可以立起来也可以滚动; 球能向四面八方滚动.
+
+## Exercise 1
+
+(Lesson: Review and Organization, Practice, Problem 1) Mental math: $3+9$; $6+7$; $5+8$; $2+9$; $3+7$; $7+5$; $10+4$; $8-3$; $6+6$; $7+7$; $8+8$; $9+9$.
+
+### Solution to Exercise 1
+
+By **Definition 1.5.1 (Make-a-Ten Method)**: $3+9=12$, $6+7=13$, $5+8=13$, $2+9=11$, $3+7=10$, $7+5=12$, $10+4=14$, $8-3=5$, $6+6=12$, $7+7=14$, $8+8=16$, $9+9=18$. $\blacksquare$
+
+## Exercise 2
+
+(Lesson: Review and Organization, Practice, Problem 2) Compare: calculate each expression and see whose result is larger.
+
+### Solution to Exercise 2
+
+By **Definition 1.5.1 (Make-a-Ten Method)**, calculate $4+9=13$, $6+5=11$, $5+8=13$, $4+7=11$, $9+8=17$, $8+6=14$, $7+7=14$, $8+5=13$, $9+4=13$, $9+9=18$, $6+7=13$, $8+7=15$, $6+9=15$, $9+3=12$, then compare. $\blacksquare$
+
+## Exercise 3
+
+(Lesson: Review and Organization, Practice, Problem 3) Fill in: $5+8=\square$; $6+7=\square$; $8+3=\square$; $7+4=\square$.
+
+### Solution to Exercise 3
+
+By **Definition 1.5.1 (Make-a-Ten Method)**: $5+8=13$, $6+7=13$, $8+3=11$, $7+4=11$. $\blacksquare$
+
+## Exercise 4
+
+(Lesson: Review and Organization, Practice, Problem 4) I used $7$ blocks, and you used $9$. How many blocks did we use in total? We used $8$ yellow ones and $8$ red ones. $\square\bigcirc\square=\square$ (blocks).
+
+### Solution to Exercise 4
+
+By **Definition 1.5.3 (Using Addition to Solve Problems)**: $7+9=16$ (blocks); $8+8=16$ (blocks). $\blacksquare$
+
+## Exercise 5
+
+(Lesson: Review and Organization, Practice, Problem 5) Say out, group by group, the addition expressions whose sums are $11,12,13,\cdots,20$.
+
+### Solution to Exercise 5
+
+By **Definition 1.5.1 (Make-a-Ten Method)**, sum $11$: $2+9,3+8,4+7,5+6$; sum $12$: $3+9,4+8,5+7,6+6$; and so on. $\blacksquare$
+
+## Exercise 6
+
+(Lesson: Review and Organization, Practice, Problem 6) Fill "$+$" or "$-$" in $\bigcirc$: $8\bigcirc5=13$; $10\bigcirc5=5$; $9\bigcirc6=15$; $16\bigcirc10=6$.
+
+### Solution to Exercise 6
+
+$8+5=13$; $10-5=5$; $9+6=15$; $16-10=6$. $\blacksquare$
+
+## Exercise 7
+
+(Lesson: Review and Organization, Practice, Problem 7) I ate $8$ dumplings, and $5$ remain. How many dumplings were there originally? $\square\bigcirc\square=\square$ (dumplings).
+
+### Solution to Exercise 7
+
+By **Definition 1.5.3 (Using Addition to Solve Problems)**: $8+5=13$ (dumplings). $\blacksquare$
+
+## Exercise 8
+
+(Lesson: Review and Organization, Practice, Problem 8) Fill in: $7+\square=16$; $9+\square=12$; $\square+3=11$; $6+\square=13$; $8+\square=15$; $\square+4=14$.
+
+### Solution to Exercise 8
+
+By **Definition 1.5.1 (Make-a-Ten Method)**: $7+9=16$; $9+3=12$; $8+3=11$; $6+7=13$; $8+7=15$; $10+4=14$. $\blacksquare$
+
+## Exercise 9
+
+(Lesson: Review and Organization, Thinking Question) There are $9$ people in front of me and $5$ behind me. How many people in total?
+
+### Solution to Exercise 9
+
+By **Definition 1.5.3 (Using Addition to Solve Problems)**, $9$ in front plus $5$ behind plus myself: $9+5+1=15$ (people). $\blacksquare$
+
+## Exercise 10
+
+(Lesson: Application and Improvement, Problem 1) Carefully observe the table below and answer the questions after it. (1) The number before $14$ is (), and the number after $14$ is (). (2) In the $9$th row, the $7$th number counting from the left is (), which is composed of () tens and () ones. (3) Fill in the blanks; can you walk from the entrance to the exit in order from $1\sim19$? (4) Color the $11$s in the table red. What do you notice? Draw $11$ on the counter. (5) Explain how the numbers in the table are arranged.
+
+### Solution to Exercise 10
+
+By **Definition 1.6.1 (Understanding Numbers Within 20)**: (1) before $14$ is $13$, and after it is $15$; (2) count the $7$th number in the row and write it as tens and ones; (3) fill in the blanks and connect in order $1,2,3,\cdots,19$; (4) the $11$s are arranged diagonally; draw $1$ bead on the tens place and $1$ on the ones place; (5) the numbers are arranged diagonally from smallest to largest. $\blacksquare$
+
+## Exercise 11
+
+(Lesson: Application and Improvement, Problem 2) Carefully observe and fill in the blanks with suitable expressions. (1) Point to any expression and quickly say the result. (2) Color the expressions with result $10$ red. What do you notice? (3) What other patterns do you notice in the table?
+
+### Solution to Exercise 11
+
+By **Definition 1.6.2 (Addition and Subtraction Within 20)**, fill in following the addition table pattern; expressions with result $10$ lie on a diagonal; each row's result increases by $1$, and each column's first addend increases by $1$. $\blacksquare$
+
+## Exercise 12
+
+(Lesson: Application and Improvement, Problem 3) $3$ swam away and $8$ remain. How many were there originally? (1) What information do you know? What is the problem to solve? (2) What method did you use? Is the answer correct? (3) Pose another math problem from the picture and solve it.
+
+### Solution to Exercise 12
+
+By **Definition 1.6.2 (Addition and Subtraction Within 20)**, the ones that swam away plus the remaining is the original: $3+8=11$; then pose and solve another addition or subtraction problem. $\blacksquare$
+
+## Exercise 13
+
+(Lesson: Application and Improvement, Problem 4) (1) What shapes can $4$ cubes form? Try it. (2) At least () cubes are needed to form a large cube.
+
+### Solution to Exercise 13
+
+By **Definition 1.6.3 (Solid Shapes)**, $4$ cubes can form a cuboid; at least $8$ small cubes are needed to form a large cube. $\blacksquare$
+
+## Exercise 14
+
+(Lesson: Practice, Problem 1) Write the numbers from the picture: the numbers shown on the tens and ones places of the counter.
+
+### Solution to Exercise 14
+
+By **Definition 1.6.1 (Understanding Numbers Within 20)**, write the number of beads on the tens place in the tens digit, and the number of beads on the ones place in the ones digit. $\blacksquare$
+
+## Exercise 15
+
+(Lesson: Practice, Problem 2) (1) $1$ ten and $2$ ones make (). (2) $18$ has () tens and () ones. (3) $20$ has () tens.
+
+### Solution to Exercise 15
+
+By **Definition 1.6.1 (Understanding Numbers Within 20)**: (1) $1$ ten and $2$ ones make $12$; (2) $18$ has $1$ ten and $8$ ones; (3) $20$ has $2$ tens. $\blacksquare$
+
+## Exercise 16
+
+(Lesson: Practice, Problem 3) Count: cuboids (), cubes (), spheres (), cylinders ().
+
+### Solution to Exercise 16
+
+By **Definition 1.6.3 (Solid Shapes)**, count by shape category. $\blacksquare$
+
+## Exercise 17
+
+(Lesson: Practice, Problem 4) Mental math: $8+7$; $6+9$; $5+8$; $6+10$; $8-6$; $7-3$; $9-4$; $19-9$; $9+4$; $2+8$; $7+5$; $11-10$; $9-7$; $4+8$; $7-7$; $10+6$.
+
+### Solution to Exercise 17
+
+By **Definition 1.6.2 (Addition and Subtraction Within 20)**: $8+7=15$, $6+9=15$, $5+8=13$, $6+10=16$, $8-6=2$, $7-3=4$, $9-4=5$, $19-9=10$, $9+4=13$, $2+8=10$, $7+5=12$, $11-10=1$, $9-7=2$, $4+8=12$, $7-7=0$, $10+6=16$. $\blacksquare$
+
+## Exercise 18
+
+(Lesson: Practice, Problem 5) Fill "$> $" "$< $" or "$=$" in $\bigcirc$: $5+9\bigcirc14$; $9\bigcirc18-10$; $7+8\bigcirc16$; $10-8\bigcirc7$; $12\bigcirc3+8$; $9+6\bigcirc15$.
+
+### Solution to Exercise 18
+
+Calculate first, then compare: $5+9=14$, so $=$; $18-10=8$, $9> 8$; $7+8=15< 16$; $10-8=2< 7$; $3+8=11$, $12> 11$; $9+6=15$, so $=$. $\blacksquare$
 
 ## Exercise 19
 
-(Lesson: Ten-Something Minus 9, Do It, Problem 1) Place and calculate: $17-9=\square$, $16-9=\square$.
+(Lesson: Practice, Problem 6) Calculate: $12\xrightarrow{+4}\square\xrightarrow{-6}\square\xrightarrow{+9}\square\xrightarrow{+5}\square$; $15\xrightarrow{-5}\square\xrightarrow{+6}\square\xrightarrow{-10}\square\xrightarrow{+8}\square\xrightarrow{-3}\square$.
 
 ### Solution to Exercise 19
 
-By **Definition 2.2.1 (Ten-Something Minus $9$)**: $17-9=8$, $16-9=7$. $\blacksquare$
-
-## Exercise 20
-
-(Lesson: Ten-Something Minus 9, Do It, Problem 2) Calculate: $9+4=\square$, $9+5=\square$; $13-9=\square$, $14-9=\square$.
-
-### Solution to Exercise 20
-
-By **Definition 2.2.1 (Ten-Something Minus $9$)**, think addition to do subtraction: $9+4=13$, $9+5=14$, so $13-9=4$, $14-9=5$. $\blacksquare$
-
-## Exercise 21
-
-(Lesson: Ten-Something Minus 9, Do It, Problem 3) Calculate: $12-9$, $19-9$, $11-9$, $18-9$.
-
-### Solution to Exercise 21
-
-By **Definition 2.2.1 (Ten-Something Minus $9$)**: $12-9=3$, $19-9=10$, $11-9=2$, $18-9=9$. $\blacksquare$
-
-## Exercise 22
-
-(Lesson: Ten-Something Minus 9, Practice, Problem 1) Circle and calculate: $17-9=\square$, $14-9=\square$.
-
-### Solution to Exercise 22
-
-By **Definition 2.2.1 (Ten-Something Minus $9$)**: $17-9=8$, $14-9=5$. $\blacksquare$
-
-## Exercise 23
-
-(Lesson: Ten-Something Minus 9, Practice, Problem 2) Connect: $13-9$, $15-9$, $16-9$, $11-9$, $18-9$, $12-9$ with their corresponding results.
-
-### Solution to Exercise 23
-
-By **Definition 2.2.1 (Ten-Something Minus $9$)**: $13-9=4$, $15-9=6$, $16-9=7$, $11-9=2$, $18-9=9$, $12-9=3$; connect each expression to its result. $\blacksquare$
-
-## Exercise 24
-
-(Lesson: Ten-Something Minus 9, Practice, Problem 3) Following the example, fill in the $\square$.
-
-### Solution to Exercise 24
-
-Following "think addition to do subtraction," by **Definition 2.2.1 (Ten-Something Minus $9$)**, fill in the corresponding addition and subtraction expressions as in the example. $\blacksquare$
-
-## Exercise 25
-
-(Lesson: Ten-Something Minus 9, Practice, Problem 4) Move the card and each time subtract $9$ from the number in the grid: $10-9=1$; calculate the rest similarly.
-
-### Solution to Exercise 25
-
-By **Definition 2.2.1 (Ten-Something Minus $9$)**, subtract $9$ from each number in the grid; e.g. $11-9=2$, $12-9=3$, $13-9=4$, $14-9=5$, $15-9=6$, $16-9=7$, $17-9=8$, $18-9=9$, $19-9=10$. $\blacksquare$
-
-## Exercise 26
-
-(Lesson: Ten-Something Minus 9, Practice, Step-by-Step) Calculate: $17-9+2$, $6+4-9$, $12-9-3$, $7+8-9$, $19-9-6$, $18-5-9$.
-
-### Solution to Exercise 26
-
-By **Definition 2.2.2 (Regrouping Subtraction)**, calculate from left to right: $17-9+2=10$, $6+4-9=1$, $12-9-3=0$, $7+8-9=6$, $19-9-6=4$, $18-5-9=4$. $\blacksquare$
-
-## Exercise 27
-
-(Lesson: Ten-Something Minus 9, Solve the Problem, Problem 1) I pulled $16$ radishes and gave you $9$. How many do you have left?
-
-### Solution to Exercise 27
-
-By **Definition 2.2.3 (Solving Word Problems)**, remove the given part from the total: $16-9=7$ (radishes). $\blacksquare$
-
-## Exercise 28
-
-(Lesson: Ten-Something Minus 9, Solve the Problem, Problem 2) $14$ Chinese knots need to be woven in total, and $9$ are already done. How many more need to be woven?
-
-### Solution to Exercise 28
-
-By **Definition 2.2.3 (Solving Word Problems)**: $14-9=5$ (knots). $\blacksquare$
-
-## Exercise 29
-
-(Lesson: Ten-Something Minus 9, Thinking Question) There are $10$ flags below. Insert one flag between each adjacent pair. How many flags can be inserted in total?
-
-### Solution to Exercise 29
-
-Between $10$ flags there are $9$ gaps; inserting one flag in each gap gives $9$ flags in total. $\blacksquare$
-
-## Exercise 30
-
-(Lesson: Ten-Something Minus 8, 7, 6, Do It, Problem 1) Circle and calculate: $16-8=\square$, $15-8=\square$.
-
-### Solution to Exercise 30
-
-By **Definition 2.2.2 (Regrouping Subtraction)**: $16-8=8$, $15-8=7$. $\blacksquare$
-
-## Exercise 31
-
-(Lesson: Ten-Something Minus 8, 7, 6, Do It, Problem 2) Calculate: $8+5$, $8+3$, $8+6$; $13-8$, $11-8$, $14-8$.
-
-### Solution to Exercise 31
-
-Think addition to do subtraction: $8+5=13$, $8+3=11$, $8+6=14$, so $13-8=5$, $11-8=3$, $14-8=6$. $\blacksquare$
-
-## Exercise 32
-
-(Lesson: Ten-Something Minus 8, 7, 6, Do It, Problem 3) Calculate: $17-8$, $10-8$, $18-8$.
-
-### Solution to Exercise 32
-
-By **Definition 2.2.2 (Regrouping Subtraction)**: $17-8=9$, $10-8=2$, $18-8=10$. $\blacksquare$
-
-## Exercise 33
-
-(Lesson: Ten-Something Minus 8, 7, 6, Do It, Problem 4) There are $13$ fish, $7$ black. How many red? There are $13$ fish, $6$ red. How many black?
-
-### Solution to Exercise 33
-
-By **Definition 2.2.3 (Solving Word Problems)**: $13-7=6$ (fish), $13-6=7$ (fish). $\blacksquare$
-
-## Exercise 34
-
-(Lesson: Ten-Something Minus 8, 7, 6, Practice, Problem 1) Calculate: $12-7$, $16-7$, $14-6$, $13-6$, $15-7$, $17-8$.
-
-### Solution to Exercise 34
-
-By **Definition 2.2.2 (Regrouping Subtraction)**: $12-7=5$, $16-7=9$, $14-6=8$, $13-6=7$, $15-7=8$, $17-8=9$. $\blacksquare$
-
-## Exercise 35
-
-(Lesson: Ten-Something Minus 8, 7, 6, Practice, Problem 2) Fill "$> $""$< $" or "$=$" in $\bigcirc$: $14-8\bigcirc12-6$, $15-8\bigcirc13-7$, $11-6\bigcirc14-7$.
-
-### Solution to Exercise 35
-
-Calculate both sides: $14-8=6$, $12-6=6$; $15-8=7$, $13-7=6$; $11-6=5$, $14-7=7$. Thus $14-8=12-6$, $15-8> 13-7$, $11-6< 14-7$. $\blacksquare$
-
-## Exercise 36
-
-(Lesson: Ten-Something Minus 8, 7, 6, Practice, Problem 3) A company's car rental situation: buses total $11$, rented $6$; trucks total $12$, rented $7$; sedans total $18$, rented $9$. How many remain of each?
-
-### Solution to Exercise 36
-
-By **Definition 2.2.3 (Solving Word Problems)**, use "total $-$ rented": buses $11-6=5$ (vehicles), trucks $12-7=5$ (vehicles), sedans $18-9=9$ (vehicles). $\blacksquare$
-
-## Exercise 37
-
-(Lesson: Ten-Something Minus 5, 4, 3, 2, Do It) Fill in: $5+\square=13$, $4+\square=13$, $5+\square=11$; $13-5=\square$, $13-4=\square$, $11-5=\square$.
-
-### Solution to Exercise 37
-
-Think addition to do subtraction: $5+8=13$, $4+9=13$, $5+6=11$, so $13-5=8$, $13-4=9$, $11-5=6$. $\blacksquare$
-
-## Exercise 38
-
-(Lesson: Ten-Something Minus 5, 4, 3, 2, Math Game) Find the cards with the same result.
-
-### Solution to Exercise 38
-
-Calculate each card's result and group those with the same result; e.g. $13-6=7$, $15-7=8$, $12-5=7$, etc. grouped by result. $\blacksquare$
-
-## Exercise 39
-
-(Lesson: Solving Problems, Example 5) $4$ people made $15$ red and green round fans in total, of which $9$ are red. How many green round fans are there?
-
-### Solution to Exercise 39
-
-By **Definition 2.2.3 (Solving Word Problems)**, "4 people" is an irrelevant condition and is not used: from $15$ remove the $9$ red, $15-9=6$ (fans); there are $6$ green round fans. $\blacksquare$
-
-## Exercise 40
-
-(Lesson: Solving Problems, Do It) Mom bought $16$ apples; after the family ate for $2$ days, $7$ remain. How many were eaten?
-
-### Solution to Exercise 40
-
-By **Definition 2.2.3 (Solving Word Problems)**, "$2$ days" is an irrelevant condition: $16-7=9$ (apples); $9$ were eaten. $\blacksquare$
-
-## Exercise 41
-
-(Lesson: Solving Problems, Practice) Mother squirrel and baby squirrel gathered $12$ pinecones in total; Mother squirrel gathered $8$. How many did the baby gather?
-
-### Solution to Exercise 41
-
-By **Definition 2.2.3 (Solving Word Problems)**: $12-8=4$ (cones); the baby gathered $4$. $\blacksquare$
-
-## Exercise 42
-
-(Lesson: Review and Organization, Regrouping Subtraction Table) Write all regrouping subtraction expressions within $20$ on cards and organize them: (3) Calculate the first column of expressions. What pattern do you notice?
-
-### Solution to Exercise 42
-
-By **Definition 2.2.2 (Regrouping Subtraction)**, the first column is $10-9=1$, $11-9=2$, $12-9=3$, ...; when the subtrahend stays the same, each increase of $1$ in the minuend increases the difference by $1$. $\blacksquare$
-
-## Exercise 43
-
-(Lesson: Review and Organization, Practice, Problem 1) Mental math: $13-6$, $8+7$, $13-5$, $16-8$, $15-6$, $7+9$, $15-7$, $14-5$, $6+6$, $12-7$, $14-6$, $12-9$.
-
-### Solution to Exercise 43
-
-$13-6=7$, $8+7=15$, $13-5=8$, $16-8=8$, $15-6=9$, $7+9=16$, $15-7=8$, $14-5=9$, $6+6=12$, $12-7=5$, $14-6=8$, $12-9=3$. $\blacksquare$
-
-## Exercise 44
-
-(Lesson: Review and Organization, Practice, Problem 2) Xiaoyue and Xiaojun folded $14$ paper boats in total, of which $6$ are yellow. Xiaojun folded $8$. How many did Xiaoyue fold?
-
-### Solution to Exercise 44
-
-By **Definition 2.2.3 (Solving Word Problems)**, "$6$ yellow" is an irrelevant condition: $14-8=6$ (boats); Xiaoyue folded $6$. $\blacksquare$
+By **Definition 1.6.2 (Addition and Subtraction Within 20)**: $12+4=16$, $16-6=10$, $10+9=19$, $19+5=24$; $15-5=10$, $10+6=16$, $16-10=6$, $6+8=14$, $14-3=11$. $\blacksquare$

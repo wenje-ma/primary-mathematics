@@ -1,138 +1,181 @@
 # week45
-> **Definition 6.5.1 (数据的收集与记录)**
+> **Definition 5.2.1 (综合算式与同级运算顺序)**
 > 
-> 用举手, 填写问卷等方式收集数据, 用画"正"字记录: 一个"正"字有 $5$ 画, 代表 $5$ 个. 再把结果填入统计表, 每人只能选一项, 不重复不遗漏.
-> **Definition 6.5.2 (复式统计表)**
+> 把两个分步算式合并成一个算式, 这样的算式是综合算式. 在没有括号的算式里, 只有加, 减法或只有乘, 除法, 从左往右按顺序计算.
+> **Definition 5.2.2 (先乘除后加减)**
 > 
-> 把两个 (或多个) 有联系的单式统计表合成一个表, 能同时表示多组数据, 便于比较和分析.
-> **Definition 6.5.3 (数据的分段整理)**
+> 在没有括号的算式里, 既有乘, 除法又有加, 减法, 要先算乘, 除法, 再算加, 减法.
+> **Definition 5.2.3 (小括号)**
 > 
-> 数据较多时, 按一定标准把数据分成几段整理, 这也是按标准分类. 用统计解决问题: 先收集整理数据, 再分析, 最后得出结论.
+> 算式里有括号, 要先算括号里面的. 括号可以改变运算顺序.
+> **Definition 5.2.4 (解决多步实际问题)**
+> 
+> 解决需要多步计算的实际问题时, 通常把问题分解为几个关联的小问题, 一步解决一个小问题; 可以画线段图分析数量关系, 列综合算式解答.
 
-## Exercise 162
+## Exercise 1
 
-(Lesson: Data Collection — Do It, Problem 1) Count the numbers of trucks, buses, cars and motorcycles passing an intersection in $10$ minutes (record with tally marks). (1) Fill the table. (2) Which kind of vehicle is most numerous? Which is least?
+(Lesson: Practice 2, Problem 14) Merge each pair into a combined expression: (1) $54+9=63$, $63\div7=9$; (2) $14-6=8$, $48\div8=6$.
 
-### Solution to Exercise 162
+### Solution to Exercise 1
 
-By **Definition 6.5.1 (数据的收集与记录)**, each tally group represents $5$ vehicles; count the tally groups and strokes for each kind and fill the table; compare the counts, and the largest count is the most numerous, the smallest the least. $\blacksquare$
+(1) $\left(54+9\right)\div7=63\div7=9$. (2) $48\div\left(14-6\right)=48\div8=6$. $\blacksquare$
 
-## Exercise 163
+## Exercise 2
 
-(Lesson: Data Collection — Do It, Problem 2) Buying fruit for a party: survey the students on which fruit they like best, fill the table and make a purchase plan.
+(Lesson: Practice 2, Problem 15, Thinking Question) Given $39+8\times5< 100-\square\times7$, what can go in the $\square$?
 
-### Solution to Exercise 163
+### Solution to Exercise 2
 
-By **Definition 6.5.1 (数据的收集与记录)**, after the survey fill into the tally table the number of people who like each fruit; buy more of the fruit liked by more people and less of the fruit liked by fewer. $\blacksquare$
+Left side $39+8\times5=39+40=79$. Need $79< 100-\square\times7$, i.e. $100-\square\times7> 79$, $\square\times7< 21$, $\square< 3$. The $\square$ can take $0,1,2$. $\blacksquare$
 
-## Exercise 164
+## Exercise 3
 
-(Lesson: Two-Way Tally Table — Do It, Problem 1) Fill the numbers of days at each air-quality level for the years 2016, 2020 and 2024 of a city into a two-way tally table; compare and state what you find.
+(Lesson: Solving Problems, Example 4) The paper-cutting group must cut $96$ window flowers; on day 1 they cut $14$ and on day 2 they cut $15$; how many are left?
 
-### Solution to Exercise 164
+### Solution to Exercise 3
 
-By **Definition 6.5.2 (Two-Way Tally Table)**, fill the days at the same level for the three years into the same row. Comparison shows: the number of "excellent" days increases year by year, the polluted days decrease year by year, and air quality gets better and better. $\blacksquare$
+By **Definition 5.2.4 (Solving Multi-Step Real Problems)**: $96-14-15=82-15=67$; or $96-\left(14+15\right)=96-29=67$. $67$ are left. $\blacksquare$
 
-## Exercise 165
+## Exercise 4
 
-(Lesson: Two-Way Tally Table — Do It, Problem 2) Survey your class on the favorite kinds of books (literature, science, history); count the boys' and girls' numbers separately and fill the two-way table. (1) Which kind do the boys like most? (2) Which kind do the girls like most?
+(Lesson: Solving Problems, Example 5) Xiaoming made $8$ flowers, Xiaohong made $3$ fewer than Xiaoming, and Xiaojun made $2$ times as many as Xiaohong. How many flowers did Xiaojun make?
 
-### Solution to Exercise 165
+### Solution to Exercise 4
 
-By **Definition 6.5.2 (复式统计表)**, fill into the two-way table the numbers of boys and girls who like each kind of book; in the boys' row and the girls' row, whichever number is largest is the favorite kind. $\blacksquare$
+By **Definition 5.2.4 (Solving Multi-Step Real Problems)**: Xiaohong $8-3=5$, Xiaojun $5\times2=10$. Combined: $\left(8-3\right)\times2=5\times2=10$ flowers. $\blacksquare$
 
-## Exercise 166
+## Exercise 5
 
-(Lesson: Binning Data — Example) The one-minute jump-rope results of $30$ students in Class 1, Grade 3, sorted by boys and girls into excellent, good, pass and fail intervals; how many students are at each level?
+(Lesson: Solving Problems, Example 6) Red beads $72$, yellow beads $56$, and $8$ same-color beads make one bracelet. How many more bracelets can the red beads make than the yellow?
 
-### Solution to Exercise 166
+### Solution to Exercise 5
 
-By **Definition 6.5.3 (Binning Data into Intervals)**, first split by gender, then classify each result against the level ranges (girls: $\leqslant38$ fail, $39\sim108$ pass, $109\sim124$ good, $\geqslant125$ excellent; the boys' standard is slightly lower), count the numbers, and fill the two-way table. $\blacksquare$
+Method one: $72\div8-56\div8=9-7=2$. Method two: $\left(72-56\right)\div8=16\div8=2$. $2$ more bracelets. $\blacksquare$
 
-## Exercise 167
+## Exercise 6
 
-(Lesson: Binning Data — Do It) Survey your class on height, sorted into intervals $119$ and below, $120\sim129$, $130\sim139$, and $140$ and above; count the boys' and girls' numbers and fill the two-way table. (1) Which interval is most numerous? (2) Raise and answer a question. (3) What do you find?
+(Lesson: Solving Problems, Do It, Problem 1) The bookstore took in $80$ fairy-tale books; last week sold $25$ and this week sold $38$; how many are left?
 
-### Solution to Exercise 167
+### Solution to Exercise 6
 
-By **Definition 6.5.3 (数据的分段整理)**, measure each student's height and classify into the four intervals, count the boys' and girls' numbers and fill the table; compare the totals of each interval, and the interval with the most people is the answer. $\blacksquare$
+$80-25-38=55-38=17$, or $80-\left(25+38\right)=80-63=17$. $17$ are left. $\blacksquare$
 
-## Exercise 168
+## Exercise 7
 
-(Lesson: Practice 14, Problem 1) Class 2, Grade 3 chooses a class-sign background color; survey results: red $5$ people, yellow $4$, blue $20$, white $3$. (1) How many people in the whole class? Which color is liked most? (2) Which color is most suitable? (3) What about your class?
+(Lesson: Solving Problems, Do It, Problem 2) A basketball game has a first and second half. In the first half the blue team scored $24$, in the second half both teams scored the same, and the red team scored $42$ in all. How many did the red team score in the first half?
 
-### Solution to Exercise 168
+### Solution to Exercise 7
 
-By **Definition 6.5.1 (数据的收集与记录)**, the whole class is $5+4+20+3=32$ (people); blue is liked most ($20$ people); blue is the most suitable background color for the class sign. $\blacksquare$
+The red team's second half equals the blue team's second half. The blue team's total score is known from the picture (e.g. the blue and red second halves are equal). The red team's second half is $42-$ the red team's first half. By the problem: the red team's second half $=$ the blue team's second half. If the blue team's total is $42$ then the second half is $42-24=18$, and the red team's first half is $=42-18=24$? Computing from the red team's total in the picture: the red team's second half is $18$, the first half is $42-18=24$. $\blacksquare$
 
-## Exercise 169
+## Exercise 8
 
-(Lesson: Practice 14, Problem 2) Xiaoming recorded a month's weather: sunny three tally groups, cloudy two tally groups, rainy as recorded. (1) Fill the table. (2) How many days in this month? How many more cloudy days than rainy days?
+(Lesson: Solving Problems, Do It, Problem 3) Uncle Wang's family had $13$ rabbits, bought another $11$, and put them equally into $8$ hutches; how many in each hutch?
 
-### Solution to Exercise 169
+### Solution to Exercise 8
 
-By **Definition 6.5.1 (数据的收集与记录)**, sunny $15$ days, cloudy $10$ days, and the rainy days filled in from the tally strokes. The month's total days $=$ sunny$+$cloudy$+$rainy; the extra cloudy days $=$ cloudy$-$rainy. $\blacksquare$
+$\left(13+11\right)\div8=24\div8=3$. $3$ rabbits in each hutch. $\blacksquare$
 
-## Exercise 170
+## Exercise 9
 
-(Lesson: Practice 14, Problem 3) A car dealer's five-year sales: fuel cars $2364,2222,2210,2192,2035$; new-energy cars $355,500,816,1150,1898$. Predict next year's sales of the two kinds.
+(Lesson: Solving Problems, Do It, Problem 4) Xiaoli buys $1$ mechanical pencil and $4$ notebooks for $19$ yuan in all. Each pencil is $3$ yuan; how much is each notebook?
 
-### Solution to Exercise 170
+### Solution to Exercise 9
 
-By **Definition 6.5.2 (复式统计表)** and **Definition 6.5.3 (数据的分段整理)**, fuel-car sales decline year by year while new-energy sales rise rapidly; predict that next year fuel cars continue to decrease and new-energy cars continue to surge, possibly approaching or even exceeding fuel cars. $\blacksquare$
+$\left(19-3\right)\div4=16\div4=4$ yuan. Each notebook is $4$ yuan. $\blacksquare$
 
-## Exercise 171
+## Exercise 10
 
-(Lesson: Practice 14, Problem 4) The weekend housework time of $10$ students, sorted by boys and girls into $10$ and below, $11\sim20$, $21\sim30$, and $31$ and above; organize and fill the table. (2) What suggestions are there?
+(Lesson: Solving Problems, Do It, Problem 5) Each towel is $12$ yuan, and the sale makes each $3$ yuan cheaper; Mom buys $3$ towels, how much to pay?
 
-### Solution to Exercise 171
+### Solution to Exercise 10
 
-By **Definition 6.5.3 (数据的分段整理)**, classify each student's time into the four intervals, count the boys' and girls' numbers and fill the table; based on the distribution of housework time, give suggestions, such as encouraging more housework. $\blacksquare$
+$\left(12-3\right)\times3=9\times3=27$ yuan. Pay $27$ yuan. $\blacksquare$
 
-## Exercise 172
+## Exercise 11
 
-(Lesson: Practice 14, Problem 5) Staff of two branch companies: Company 1 production $133$, management $27$, support $55$; Company 2 production $267$, management $45$, support $62$. (1) Combine into one two-way table. (2) Raise a math question and answer it.
+(Lesson: Solving Problems, Do It, Problem 6) Aunt Wang buys vegetables: greens $3$ yuan/bunch, radishes $4$ yuan/bunch, tomatoes $5$ yuan/bunch. (1) Say what the expression $\left(4+3\right)\times2$ means. (2) Raise other problems and solve them.
 
-### Solution to Exercise 172
+### Solution to Exercise 11
 
-By **Definition 6.5.2 (复式统计表)**, fill the production, management and support staff of both companies into the two-way table. For example, Company 2 totals $267+45+62=374$ (people), Company 1 totals $133+27+55=215$ (people); answers may vary. $\blacksquare$
+(1) How much in all for $2$ bunches of radishes and $2$ bunches of greens. (2) E.g. $3$ bunches of tomatoes: $5\times3=15$ yuan. The answer is not unique. $\blacksquare$
 
-## Exercise 173
+## Exercise 12
 
-(Lesson: Practice 15, Problem 1) Storytelling contest vote: Xiaogang three tally groups, Xiaoyu four tally groups. (1) Fill the table. (2) Who should be chosen? (3) If the two absent students voted, how might the result change?
+(Lesson: Practice 3, Problem 1) Uncle Zhang picked $105$ watermelons, Uncle Wang hauled away $40$, and Aunt Li hauled away $27$; how many are left?
 
-### Solution to Exercise 173
+### Solution to Exercise 12
 
-By **Definition 6.5.1 (数据的收集与记录)**, Xiaogang $15$ votes, Xiaoyu $20$ votes; Xiaoyu should be chosen. (3) They differ by $5$ votes; even if the $2$ votes both went to Xiaogang, Xiaoyu still leads, and the result is unchanged. $\blacksquare$
+$105-40-27=65-27=38$, or $105-\left(40+27\right)=105-67=38$. $38$ are left. $\blacksquare$
 
-## Exercise 174
+## Exercise 13
 
-(Lesson: Practice 15, Problem 2) After-school club vote: science $9$ tally groups, art $3$ tally groups, sports $7$ tally groups. (1) Fill the table. (2) What suggestions for organizing clubs?
+(Lesson: Practice 3, Problem 2) Class 3(1) has $16$ boys and $20$ girls; every $4$ people form one study group; how many groups in all?
 
-### Solution to Exercise 174
+### Solution to Exercise 13
 
-By **Definition 6.5.1 (数据的收集与记录)**, science $45$ votes, art $15$ votes, sports $35$ votes. More people like science and sports, so suggest organizing more science and sports clubs. $\blacksquare$
+$\left(16+20\right)\div4=36\div4=9$. $9$ groups in all. $\blacksquare$
 
-## Exercise 175
+## Exercise 14
 
-(Lesson: Practice 15, Problem 3) Class 2, Grade 3 students' physical-fitness grade levels (excellent, good, pass, fail) in grade one and grade three, $30$ people each; organize into a two-way table. (2) Compare and state what you find.
+(Lesson: Practice 3, Problem 3) Prices: instant noodles $2$ yuan/bag, milk $5$ yuan/jug, bread $4$ yuan/bag, candy $3$ yuan/box, chocolate $18$ yuan/box. (1) The price of $1$ can is $3$ times the price of $1$ box of milk; how much in all for $1$ can and $1$ box of milk? (2) With $50$ yuan buying $1$ box of chocolate, how many bags of crackers can the rest buy? (3) Raise other problems and solve them.
 
-### Solution to Exercise 175
+### Solution to Exercise 14
 
-By **Definition 6.5.2 (复式统计表)** and **Definition 6.5.3 (数据的分段整理)**, count the numbers at each level in grade one and grade three and fill the two-way table. Comparison shows: in grade three the numbers at excellent and good are greater than in grade one, the pass and fail numbers decrease, and overall fitness improves. $\blacksquare$
+(1) The can is $5\times3=15$ yuan, in all $15+5=20$ yuan. (2) $50-18=32$ yuan; crackers are $4$ yuan/bag, $32\div4=8$ bags. (3) The answer is not unique. $\blacksquare$
 
-## Exercise 176
+## Exercise 15
 
-(Lesson: Practice 15, Problem 4) The reading time of $10$ students each from Class 2, Grade 3 and Class 3, Grade 3, sorted into intervals $0\sim30$, $31\sim60$, and $60$ and above. (2) What suggestions are there?
+(Lesson: Practice 3, Problem 4) In Xinghua village only $8$ households used natural gas the year before last; last year was $5$ times that, and this year added $20$ households; how many households this year?
 
-### Solution to Exercise 176
+### Solution to Exercise 15
 
-By **Definition 6.5.3 (数据的分段整理)**, classify each student's reading time into the three intervals, count the two classes' numbers and fill the two-way table; based on the reading-time distribution, suggest that students with short reading time read more. $\blacksquare$
+Last year $8\times5=40$ households, this year $40+20=60$. Combined: $8\times5+20=60$ households. $\blacksquare$
 
-## Exercise 177
+## Exercise 16
 
-(Lesson: Practice 15, Problem 5) The school orders sports shoes for the grade-three track team; help the PE teacher make an order plan.
+(Lesson: Practice 3, Problem 5) Choose conditions and a question to make a real problem: ① red ribbons $18$; ② yellow ribbons $9$; ③ red is $3$ times blue; ④ yellow is $3$ times blue; ⑤ how many times red is blue; ⑥ how many times yellow is blue.
 
-### Solution to Exercise 177
+### Solution to Exercise 16
 
-By **Definition 6.5.1 (数据的收集与记录)** and **Definition 6.5.2 (复式统计表)**, first survey each track-team member's shoe size, record and organize into a tally table; for each size, order as many pairs as there are people, preparing according to the counts. $\blacksquare$
+E.g. choose ①③⑤: blue ribbons $18\div3=6$, red is $18\div6=3$ times blue. Choose ②④⑥: blue ribbons $9\div3=3$, yellow is $9\div3=3$ times blue. The answer is not unique. $\blacksquare$
+
+## Exercise 17
+
+(Lesson: Practice 3, Problem 6) A dolphin is $2$ meters long; a killer whale is $4$ times the dolphin; a blue whale is $7$ meters more than $3$ times the killer whale. How long is the blue whale?
+
+### Solution to Exercise 17
+
+Killer whale $2\times4=8$ meters, blue whale $8\times3+7=24+7=31$ meters. $\blacksquare$
+
+## Exercise 18
+
+(Lesson: Practice 3, Problem 7) Xiaoli plans to buy $3$ identical buns; how much more does the $5$-yuan one cost than the $3$-yuan one?
+
+### Solution to Exercise 18
+
+$\left(5-3\right)\times3=2\times3=6$ yuan, or $5\times3-3\times3=15-9=6$ yuan. $\blacksquare$
+
+## Exercise 19
+
+(Lesson: Practice 3, Problem 8) Xiaohong leaves home for school; in $5$ minutes she walks $300$ meters, and walking another $150$ meters reaches the halfway point. How far is her home from school?
+
+### Solution to Exercise 19
+
+The halfway point is $300+150=450$ meters, the whole way is $450\times2=900$ meters. $\blacksquare$
+
+## Exercise 20
+
+(Lesson: Practice 3, Problem 9) Grandma Li collects $28$ eggs in the morning and $8$ fewer in the afternoon; $6$ eggs per box; how many boxes can this day's eggs fill?
+
+### Solution to Exercise 20
+
+Afternoon $28-8=20$, all day $28+20=48$, $48\div6=8$ boxes. $\blacksquare$
+
+## Exercise 21
+
+(Lesson: Practice 3, Problem 10) $4$ parents take $5$ children to the wetland park. Adult ticket $10$ yuan/person, child ticket $5$ yuan/person, group ticket ($6$ or more) $8$ yuan/person. How to buy tickets most cheaply?
+
+### Solution to Exercise 21
+
+Plan one: buy separately $4\times10+5\times5=40+25=65$ yuan. Plan two: all group $9\times8=72$ yuan. Plan three: $4$ parents and $2$ children buy group $6\times8=48$ yuan, the remaining $3$ children buy child tickets $3\times5=15$ yuan, in all $63$ yuan. Plan three is cheapest: $63$ yuan. $\blacksquare$

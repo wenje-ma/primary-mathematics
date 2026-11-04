@@ -1,119 +1,201 @@
 # week5
-> **Definition 1.3.1 (长方体,正方体)**
+> **Definition 1.2.2 (Comparing, Ordinal Numbers)**
 > 
-> 长方体有平平的面, 放在桌面上很稳; 正方体的每个面都是正方形, 大小一样, 也有平平的面.
-> **Definition 1.3.2 (圆柱,球)**
+> 比较两个数的大小, 用大于号,小于号或等号连接; 第几表示排列的位置 (序数).
+> **Definition 1.2.3 (分与合)**
 > 
-> 圆柱上下两个面是圆形, 可以立起来, 也可以滚动; 球能向四面八方滚动.
+> 一个数可以分成两个数, 两个数也可以合成这个数; 按顺序分, 成对写出, 既不重复也不遗漏. 如 $6=1+5=2+4=3+3$.
+> **Definition 1.2.4 (Four Equations from One Picture)**
+> 
+> 根据一幅图可以列出两道加法算式和两道减法算式, 称为一图四式.
+> **Definition 1.2.5 (10的认识)**
+> 
+> $9$ 添上 $1$ 是 $10$; $10$ 个一就是 $1$ 个十; $0\sim10$ 按顺序排列, 后面的数比前面的大.
+> **Definition 1.2.6 (10的加,减法)**
+> 
+> 根据 $10$ 的组成计算 $10$ 加几,几加 $10$,$10$ 减几, 如 $1+9=10$, $9+1=10$, $10-1=9$, $10-9=1$.
+> **Definition 1.2.7 (连加)**
+> 
+> 三个数连续相加, 从左到右先算前两个数的和, 再加上第三个数, 如 $5+2+1=8$.
+> **Definition 1.2.8 (连减)**
+> 
+> 从一个数里连续减去两个数, 从左到右依次减, 如 $8-2-2=4$.
+> **Definition 1.2.9 (加减混合)**
+> 
+> 一道算式里既有加法又有减法, 从左到右依次计算, 如 $4+3-2=5$.
 
-## Exercise 125
+## Exercise 1
 
-(Lesson: Recognizing Solid Shapes, Sort It) Sort by shape: what shape are these objects?
+(Lesson: Understanding 10, Pair Chant) I say $8$, what do you say to make $10$? I say $2$, what do you say?
 
-### Solution to Exercise 125
+### Solution to Exercise 1
 
-By **Definition 1.3.1 (Cuboid and Cube)** and **Definition 1.3.2 (Cylinder and Sphere)**, classify the objects into four categories: cuboids (e.g. soap), cubes, cylinders (e.g. cans), and spheres. $\blacksquare$
+By **Definition 1.2.6 (Addition and Subtraction of 10)**, $10-8=2$, so say $2$; $10-2=8$, so say $8$. $\blacksquare$
 
-## Exercise 126
+## Exercise 2
 
-(Lesson: Recognizing Solid Shapes, Say It) Name objects around you that have these shapes.
+(Lesson: Addition and Subtraction of 10, Do It, Problem 1) Find friends: connect the two numbers that sum to $10$.
 
-### Solution to Exercise 126
+### Solution to Exercise 2
 
-By **Definition 1.3.1 (Cuboid and Cube)** and **Definition 1.3.2 (Cylinder and Sphere)**, e.g. a refrigerator is a cuboid, a Rubik's cube is a cube, a water cup is a cylinder, a ball is a sphere. $\blacksquare$
+By **Definition 1.2.6 (Addition and Subtraction of 10)**, connect $1$ to $9$, $2$ to $8$, $3$ to $7$, $4$ to $6$, $5$ to $5$. $\blacksquare$
 
-## Exercise 127
+## Exercise 3
 
-(Lesson: Recognizing Solid Shapes, Do It, Problem 1) I say you pick: take out a cylinder.
+(Lesson: Addition and Subtraction of 10, Do It, Problem 2) Mental math: $6+4=\square$; $10-8=\square$; $7+3=\square$; $10-0=\square$.
 
-### Solution to Exercise 127
+### Solution to Exercise 3
 
-By **Definition 1.3.2 (Cylinder and Sphere)**, find the solid shape with circular top and bottom faces that can stand upright, and take it out. $\blacksquare$
+By **Definition 1.2.6 (Addition and Subtraction of 10)**: $6+4=10$, $10-8=2$, $7+3=10$, $10-0=10$. $\blacksquare$
 
-## Exercise 128
+## Exercise 4
 
-(Lesson: Recognizing Solid Shapes, Do It, Problem 2) I say you guess: it can stand upright and also roll. Is it a cylinder?
+(Lesson: Addition and Subtraction of 10, Practice, Problem 1) Fill in the numbers in order: $0,1,2,3,4,\_\_,\_\_,7,8,\_\_,10$.
 
-### Solution to Exercise 128
+### Solution to Exercise 4
 
-By **Definition 1.3.2 (Cylinder and Sphere)**, what can both stand upright and roll is a cylinder (a sphere cannot stand steadily), so it is a cylinder. $\blacksquare$
+By **Definition 1.2.5 (Understanding 10)**: $0,1,2,3,4,5,6,7,8,9,10$. $\blacksquare$
 
-## Exercise 129
+## Exercise 5
 
-(Lesson: Recognizing Solid Shapes, Do It, Problem 3) I say you build: first place a cuboid, then put a cube on top of it.
+(Lesson: Addition and Subtraction of 10, Practice, Problem 2) Count backward: $\_\_,\_\_,\_\_,\_\_,8,\_\_,6,5,\_\_,\_\_,1$, ignition!
 
-### Solution to Exercise 129
+### Solution to Exercise 5
 
-By **Definition 1.3.1 (Cuboid and Cube)**, place the cuboid flat as the base, put the cube on top, and build up layer by layer. $\blacksquare$
+By **Definition 1.2.5 (Understanding 10)**, count backward from $10$: $10,9,7,8,6,5,4,3,2,1$, i.e. fill in $10,9,7,8,4,3$ (in blank order). $\blacksquare$
 
-## Exercise 130
+## Exercise 6
 
-(Lesson: Recognizing Solid Shapes, Build It) Use all the blocks; see who can build the sturdiest and tallest tower.
+(Lesson: Addition and Subtraction of 10, Practice, Problem 3) Decomposition and composition of $10$: $9,2,4,6,8$ each combine with what to make $10$? What about $1,3,5,7,9$?
 
-### Solution to Exercise 130
+### Solution to Exercise 6
 
-By **Definition 1.3.1 (Cuboid and Cube)** and **Definition 1.3.2 (Cylinder and Sphere)**, put flat, stable cuboids at the bottom as the base, place the sphere on top or prop it up with a cuboid, and skillfully use each block's characteristics to build sturdily and tall. $\blacksquare$
+By **Definition 1.2.6 (Addition and Subtraction of 10)**: $10-9=1$, $10-2=8$, $10-4=6$, $10-6=4$, $10-8=2$; $10-1=9$, $10-3=7$, $10-5=5$, $10-7=3$, $10-9=1$. $\blacksquare$
 
-## Exercise 131
+## Exercise 7
 
-(Lesson: Recognizing Solid Shapes, Piece It Together) Using $2$ identical cubes, what can you form?
+(Lesson: Addition and Subtraction of 10, Practice, Problem 4) Which two cards sum to $10$?
 
-### Solution to Exercise 131
+### Solution to Exercise 7
 
-By **Definition 1.3.1 (Cuboid and Cube)**, $2$ cubes can form a cuboid. $\blacksquare$
+By **Definition 1.2.6 (Addition and Subtraction of 10)**, find the cards summing to $10$, e.g. $6$ and $4$, $4$ and $6$, $1$ and $9$, $3$ and $7$, $8$ and $2$, $5$ and $5$, $0$ and $10$. $\blacksquare$
 
-## Exercise 132
+## Exercise 8
 
-(Lesson: Recognizing Solid Shapes, Do It, Problem 1) Which are made of $4$ cubes? Draw a "√" in the parentheses.
+(Lesson: Addition and Subtraction of 10, Practice, Problem 5) Mental math: $10-5$; $10-3$; $10-8$; $10-1$; $10-7$; $10-2$; $10-4$; $10-6$; $10-9$.
 
-### Solution to Exercise 132
+### Solution to Exercise 8
 
-By **Definition 1.3.1 (Cuboid and Cube)**, count how many cubes each shape is made of; draw a "√" for those with $4$. $\blacksquare$
+By **Definition 1.2.6 (Addition and Subtraction of 10)**: $10-5=5$, $10-3=7$, $10-8=2$, $10-1=9$, $10-7=3$, $10-2=8$, $10-4=6$, $10-6=4$, $10-9=1$. $\blacksquare$
 
-## Exercise 133
+## Exercise 9
 
-(Lesson: Recognizing Solid Shapes, Do It, Problem 2) Which two piles can form a large cube? Connect them.
+(Lesson: Addition and Subtraction of 10, Practice, Problem 6) Fill in: $1+\square=10$; $10-1=\square$; $10-\square=1$; $10=\square+\square$.
 
-### Solution to Exercise 133
+### Solution to Exercise 9
 
-By **Definition 1.3.1 (Cuboid and Cube)**, connect the two piles that together form a large cube. $\blacksquare$
+By **Definition 1.2.6 (Addition and Subtraction of 10)**: $1+9=10$; $10-1=9$; $10-9=1$; $10=5+5$ (answers not unique). $\blacksquare$
 
-## Exercise 134
+## Exercise 10
 
-(Lesson: Recognizing Solid Shapes, Do It, Problem 3) Using $4$ identical cubes, how many different cuboids can you form?
+(Lesson: Addition and Subtraction of 10, Practice, Problem 7) There are $10$ sticks in total and $6$ $\bigcirc$. How many objects in total? How many sticks remain? $\square\bigcirc\square=\square$ (objects); $\square\bigcirc\square=\square$ (sticks).
 
-### Solution to Exercise 134
+### Solution to Exercise 10
 
-By **Definition 1.3.1 (Cuboid and Cube)**, you can form a single-layer cuboid with $4$ in a row, or a cuboid with $2$ rows of $2$ each, etc. $\blacksquare$
+By **Definition 1.2.4 (Four Sentences from One Picture)**, use addition for the total and subtraction for the remainder; write according to the quantities in the picture, e.g. $6+4=10$ (objects); $10-3=7$ (sticks). $\blacksquare$
 
-## Exercise 135
+## Exercise 11
 
-(Lesson: Recognizing Solid Shapes, Practice, Problem 1) Match: connect the solid shapes to their names.
+(Lesson: Addition and Subtraction of 10, Practice, Problem 8) Look at the picture and tell the math story of $7+3=10$.
 
-### Solution to Exercise 135
+### Solution to Exercise 11
 
-By **Definition 1.3.1 (Cuboid and Cube)** and **Definition 1.3.2 (Cylinder and Sphere)**, connect cuboid to cuboid, cube to cube, cylinder to cylinder, sphere to sphere. $\blacksquare$
+E.g. "there are $7$ birds, and $3$ more fly in, making $10$ in total"; the story should be reasonable. $\blacksquare$
 
-## Exercise 136
+## Exercise 12
 
-(Lesson: Recognizing Solid Shapes, Practice, Problem 2) Count: () cuboids, () cubes, () spheres, () cylinders, () solid shapes in total.
+(Lesson: Addition and Subtraction of 10, Practice, Problem 9) Use $10-4=6$ to tell a math story.
 
-### Solution to Exercise 136
+### Solution to Exercise 12
 
-By **Definition 1.3.1 (Cuboid and Cube)** and **Definition 1.3.2 (Cylinder and Sphere)**, count by shape category, then add them up for the total. $\blacksquare$
+E.g. "there are $10$ apples, $4$ are eaten, and $6$ remain"; the story should be reasonable. $\blacksquare$
 
-## Exercise 137
+## Exercise 13
 
-(Lesson: Recognizing Solid Shapes, Practice, Problem 3) Count: () $\triangle$, () $\bigcirc$.
+(Lesson: Continuous Addition and Subtraction, Do It) Write the sentence from the picture: $4+3+\square=\square$; $10-3-\square=\square$.
 
-### Solution to Exercise 137
+### Solution to Exercise 13
 
-Count the solid shapes in the picture and fill in the blanks. $\blacksquare$
+By **Definition 1.2.7 (Continuous Addition)** and **Definition 1.2.8 (Continuous Subtraction)**, write according to the quantities in the picture, e.g. $4+3+2=9$; $10-3-2=5$. $\blacksquare$
 
-## Exercise 138
+## Exercise 14
 
-(Lesson: Recognizing Solid Shapes, Practice, Problem 4) What should be placed next? Circle the correct answer.
+(Lesson: Mixed Addition and Subtraction, Do It) Write the sentence from the picture: $6\bigcirc\square\bigcirc\square=\square$.
 
-### Solution to Exercise 138
+### Solution to Exercise 14
 
-Following the arrangement pattern of the shapes already placed, infer the next solid shape and circle it. $\blacksquare$
+By **Definition 1.2.9 (Mixed Addition and Subtraction)**, write according to the scene of flying in then flying away, e.g. $6+3-2=7$. $\blacksquare$
+
+## Exercise 15
+
+(Lesson: Continuous Addition and Subtraction, Practice, Problem 1) Mental math: $2+3$; $8-3$; $4+2$; $5+4$; $5-2$; $6-4$; $2+3+4$; $8-3-2$; $4+2-4$.
+
+### Solution to Exercise 15
+
+By **Definition 1.2.7 (Continuous Addition)**, **Definition 1.2.8 (Continuous Subtraction)**, and **Definition 1.2.9 (Mixed Addition and Subtraction)**: $2+3=5$, $8-3=5$, $4+2=6$, $5+4=9$, $5-2=3$, $6-4=2$, $2+3+4=9$, $8-3-2=3$, $4+2-4=2$. $\blacksquare$
+
+## Exercise 16
+
+(Lesson: Continuous Addition and Subtraction, Practice, Problem 2) Look at the picture and fill: $6+\square+\square=\square$; $9-\square-\square=\square$.
+
+### Solution to Exercise 16
+
+By **Definition 1.2.7 (Continuous Addition)** and **Definition 1.2.8 (Continuous Subtraction)**, write according to the quantities in the picture, e.g. $6+1+2=9$; $9-3-2=4$. $\blacksquare$
+
+## Exercise 17
+
+(Lesson: Continuous Addition and Subtraction, Practice, Problem 3) Walk: $0\xrightarrow{+2}\square\xrightarrow{+2}\square$; $9\xrightarrow{-2}\square\xrightarrow{-2}\square$.
+
+### Solution to Exercise 17
+
+By **Definition 1.2.7 (Continuous Addition)** and **Definition 1.2.8 (Continuous Subtraction)**: $0+2=2$, $2+2=4$; $9-2=7$, $7-2=5$. $\blacksquare$
+
+## Exercise 18
+
+(Lesson: Continuous Addition and Subtraction, Practice, Problem 4) Calculate: $5+3\xrightarrow{-2}\square\xrightarrow{+4}\square\xrightarrow{-5}\square\xrightarrow{+3}\square$; $8-6\xrightarrow{+2}\square\xrightarrow{+5}\square\xrightarrow{-3}\square\xrightarrow{-4}\square$.
+
+### Solution to Exercise 18
+
+By **Definition 1.2.9 (Mixed Addition and Subtraction)**: $5+3=8$, $8-2=6$, $6+4=10$, $10-5=5$, $5+3=8$; $8-6=2$, $2+2=4$, $4+5=9$, $9-3=6$, $6-4=2$. $\blacksquare$
+
+## Exercise 19
+
+(Lesson: Continuous Addition and Subtraction, Practice, Problem 5) Mental math: $1+4+5$; $2+4+4$; $7+2-5$; $10-1-4$; $10-4-4$; $7-5+2$.
+
+### Solution to Exercise 19
+
+By **Definition 1.2.7 (Continuous Addition)**, **Definition 1.2.8 (Continuous Subtraction)**, and **Definition 1.2.9 (Mixed Addition and Subtraction)**: $1+4+5=10$, $2+4+4=10$, $7+2-5=4$, $10-1-4=5$, $10-4-4=2$, $7-5+2=4$. $\blacksquare$
+
+## Exercise 20
+
+(Lesson: Continuous Addition and Subtraction, Practice, Problem 6) Explain the picture, then fill: $10-3-\square=\square$ (sticks); $4\bigcirc\square=\square$ (cars).
+
+### Solution to Exercise 20
+
+By **Definition 1.2.8 (Continuous Subtraction)** and **Definition 1.2.4 (Four Sentences from One Picture)**, write according to the quantities in the picture, e.g. $10-3-2=5$ (sticks); $4+2=6$ (cars). $\blacksquare$
+
+## Exercise 21
+
+(Lesson: Continuous Addition and Subtraction, Practice, Problem 7) Fill in the numbers so that the three numbers in each row, column, or line sum to $10$.
+
+### Solution to Exercise 21
+
+By **Definition 1.2.7 (Continuous Addition)**, the sum of three numbers on each line is $10$; when two are known, the third $=10-$ the sum of the two known numbers. $\blacksquare$
+
+## Exercise 22
+
+(Lesson: Review and Organization, Expression Cards, Problem 1) Explain how the expressions in the table are arranged.
+
+### Solution to Exercise 22
+
+In the addition table, the first addend increases from $0$, and the second addend starts from $0$; in the subtraction table, the minuend increases from $0$, and the subtrahend starts from $0$. $\blacksquare$

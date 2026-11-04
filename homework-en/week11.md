@@ -1,208 +1,236 @@
 # week11
-> **Definition 2.3.1 (数数与数的组成)**
+> **Definition 1.6.1 (20以内数的认识)**
 > 
-> $10$ 个一是 $1$ 个十, $10$ 个十是一百. 几个十和几个一合起来是几十几, 如 $4$ 个十和 $6$ 个一合起来是四十六.
-> **Definition 2.3.2 (数位)**
+> $0\sim20$ 各数按顺序排列, 后面的数比前面的大; $10$ 个一是 $1$ 个十; 从右边起第一位是个位, 第二位是十位, 有几个十就在十位写几, 有几个一就在个位写几.
+> **Definition 1.6.2 (20以内的加,减法)**
 > 
-> 从右边起, 第一位是个位, 第二位是十位, 第三位是百位. 读数和写数都从高位起.
-> **Definition 2.3.3 (Comparing Two-digit Numbers)**
+> 把两部分合起来用加法, 从总数里去掉一部分用减法; 进位加法用凑十法, 把一个加数凑成 $10$ 再算.
+> **Definition 1.6.3 (立体图形)**
 > 
-> 比较两位数大小时, 先看十位上的数, 十位上数大的那个数就大; 十位相同再看个位.
-> **Definition 2.3.4 (多些与多得多)**
+> 长方体,正方体有平平的面; 圆柱可以立起来也可以滚动; 球能向四面八方滚动.
+> **Definition 2.1.1 (平面图形)**
 > 
-> 两个数相差不大时说"大一些""小一些", 相差很大时说"大得多""小得多".
-> **Definition 2.3.5 (整十数加一位数及相应减法)**
+> 从立体图形上可以找到长方形, 正方形, 平行四边形, 三角形, 圆等平面图形, 它们的面是平的.
+> **Definition 2.1.2 (图形的拼组)**
 > 
-> 几个十和几个一合起来是几十几, 如 $30+2=32$, $32-2=30$, $32-30=2$.
+> 几个同样的平面图形可以拼成一个新的平面图形, 一个平面图形也可以分成几个平面图形. 如 $2$ 个同样的长方形可以拼成一个新的长方形, $2$ 个同样的三角形可以拼成一个平行四边形.
+> **Definition 2.1.3 (七巧板)**
+> 
+> 七巧板是我国的一种传统益智玩具, 由 $7$ 块板组成, 用它们可以拼出千变万化的图案.
+> **Definition 2.2.1 (十几减 $9$)**
+> 
+> 计算十几减 $9$, 可以"想加算减", 如想 $9+6=15$, 所以 $15-9=6$; 也可以用"破十法", 先算 $10-9=1$, 再加个位上的几.
+> **Definition 2.2.2 (退位减法)**
+> 
+> 个位不够减时, 从十位退 $1$ 当作 $10$, 与个位上的数合起来再减.
+> **Definition 2.2.3 (解决实际问题)**
+> 
+> 读题后先找出已知条件和问题, 选择与问题有关的条件列式, 多余的条件不参与计算, 算后再检查.
 
-## Exercise 45
+## Exercise 1
 
-(Lesson: Counting and Number Composition, Try It) Count: adding $1$ to thirty-nine is $\_\_$; $10$ ones is $1$ $\_\_$; $\_\_$ tens is $\_\_$.
+(Lesson: Practice, Problem 7) $9$ fish have already been eaten. How many fish were there originally? $\square\bigcirc\square=\square$ (fish).
 
-### Solution to Exercise 45
+### Solution to Exercise 1
 
-By **Definition 2.3.1 (Counting and Number Composition)**, adding $1$ to thirty-nine is forty; $10$ ones is $1$ ten; $10$ tens is one hundred. $\blacksquare$
+By **Definition 1.6.2 (Addition and Subtraction Within 20)**, eaten plus remaining: $9+5=14$ (fish). $\blacksquare$
 
-## Exercise 46
+## Exercise 2
 
-(Lesson: Counting and Number Composition, Do It, Problem 1) Fill in: $\_\_$ tens and $\_\_$ ones combine to make $\_\_$.
+(Lesson: Practice, Problem 8) Fill in: $10+5=\square$; $7+\square=16$; $\square+\square=13$; $15-\square=10$; $16-\square=7$; $15-\square=5$; $16-\square=9$.
 
-### Solution to Exercise 46
+### Solution to Exercise 2
 
-By **Definition 2.3.1 (Counting and Number Composition)**, count the tens and ones in the picture, combine them and write the corresponding number. $\blacksquare$
+By **Definition 1.6.2 (Addition and Subtraction Within 20)**: $10+5=15$; $7+9=16$; $6+7=13$ (answers not unique); $15-5=10$; $16-9=7$; $15-10=5$; $16-7=9$. $\blacksquare$
 
-## Exercise 47
+## Exercise 3
 
-(Lesson: Counting and Number Composition, Do It, Problem 2) Count how many bubbles it blew.
+(Lesson: Practice, Problem 9) Which two piles can form a large cube? Connect them with lines.
 
-### Solution to Exercise 47
+### Solution to Exercise 3
 
-By **Definition 2.3.1 (Counting and Number Composition)**, count the bubbles one by one and write the corresponding number. $\blacksquare$
+By **Definition 1.6.3 (Solid Shapes)**, connect the two piles that together form a large cube. $\blacksquare$
 
-## Exercise 48
+## Exercise 4
 
-(Lesson: Counting and Number Composition, Do It, Problem 3) First circle out $10$ beads, then estimate about how many there are on the right in total; count to see whether the estimate is accurate.
+(Lesson: Practice, Problem 10) Can you pose a math problem from the picture and solve it? $\square\bigcirc\square=\square$ (birds); $\square\bigcirc\square=\square$ (birds).
 
-### Solution to Exercise 48
+### Solution to Exercise 4
 
-First circle out $10$ beads as a standard, then estimate the total, finally count the actual number one by one, and compare the estimate with the actual. $\blacksquare$
+By **Definition 1.6.2 (Addition and Subtraction Within 20)**, choose two parts from the picture for an addition problem, or use the known total for a subtraction problem; write and solve. $\blacksquare$
 
-## Exercise 49
+## Exercise 5
 
-(Lesson: Reading and Writing Numbers, Do It, Problem 1) How many buttons of each color are there? There are twenty-seven, thirty-three, and forty. Do the two "$3$"s in $33$ mean the same thing?
+(Lesson: Practice, Problem 11) Xiaohong bought $2$ boxes of small seals from the $3$ boxes below. How many seals might she have bought? $\square\bigcirc\square=\square$ (seals).
 
-### Solution to Exercise 49
+### Solution to Exercise 5
 
-By **Definition 2.3.2 (Place Value)**, in $33$ the $3$ in the tens place represents $3$ tens, and the $3$ in the ones place represents $3$ ones; the two "$3$"s do not mean the same thing. $\blacksquare$
+By **Definition 1.6.2 (Addition and Subtraction Within 20)**, choose $2$ of the $3$ boxes and add their counts; answers are not unique. $\blacksquare$
 
-## Exercise 50
+## Exercise 6
 
-(Lesson: Reading and Writing Numbers, Do It, Problem 2) Write the following numbers: sixty-three, thirty-eight, fifty-five, ninety.
+(Lesson: Practice, Problem 12) What can go in $\square$? $9+\square+6< 15$; $18-\square> 10$; $13+\square< 19$.
 
-### Solution to Exercise 50
+### Solution to Exercise 6
 
-By **Definition 2.3.2 (Place Value)** and **Definition 2.3.1 (Counting and Number Composition)**: write $63$, $38$, $55$, $90$. $\blacksquare$
+$9+\square+6< 15$, i.e. $15+\square< 15$, $\square$ can be $0$; $18-\square> 10$, $\square$ can be $0\sim7$; $13+\square< 19$, $\square$ can be $0\sim5$. $\blacksquare$
 
-## Exercise 51
+## Exercise 7
 
-(Lesson: Reading and Writing Numbers, Do It, Problem 3) I say you place: what number is formed by $5$ tens and $8$ ones?
+(Lesson: Practice, Thinking Question) Xiaoming and Xiaohua are reading the same storybook. Xiaoming read $8$ pages and Xiaohua read $9$ pages. Who has more left?
 
-### Solution to Exercise 51
+### Solution to Exercise 7
 
-By **Definition 2.3.1 (Counting and Number Composition)**, the number formed by $5$ tens and $8$ ones is $58$. $\blacksquare$
+The same book has the same total pages; whoever read less has more left. Xiaoming read $8$ pages and Xiaohua read $9$ pages, $8< 9$, so Xiaoming has more left. $\blacksquare$
 
-## Exercise 52
+## Exercise 8
 
-(Lesson: Number Order and Comparing Size, Count and Recognize) Adding $1$ to $99$ gives what? $10$ tens is what?
+(Lesson: Recognizing Plane Shapes, Draw and Sort) Draw and sort: classify rectangles, squares, parallelograms, triangles, and circles.
 
-### Solution to Exercise 52
+### Solution to Exercise 8
 
-By **Definition 2.3.1 (Counting and Number Composition)**, adding $1$ to $99$ gives one hundred, and $10$ tens is one hundred. $\blacksquare$
+By **Definition 2.1.1 (Plane Shapes)**, sort the shapes into five categories—rectangles, squares, parallelograms, triangles, and circles—according to shape, placing the same kind together. The figure shows a mixed set of the learned plane shapes (several rectangles, squares, parallelograms, triangles, and circles); classify them by shape. $\blacksquare$
 
-## Exercise 53
+## Exercise 9
 
-(Lesson: Number Order and Comparing Size, Do It, Problem 1) Represent $1$ one, $1$ ten, and $1$ hundred on the counter, read them, then write them out.
+(Lesson: Recognizing Plane Shapes, Say It) Name objects around you whose faces have these shapes.
 
-### Solution to Exercise 53
+### Solution to Exercise 9
 
-By **Definition 2.3.2 (Place Value)**, $1$ one writes $1$ in the ones place, $1$ ten writes $1$ in the tens place, $1$ hundred writes $1$ in the hundreds place, i.e. $1$, $10$, $100$. $\blacksquare$
+By **Definition 2.1.1 (Plane Shapes)**, e.g. the face of a textbook is a rectangle, the face of a handkerchief is a square, the face of a red scarf is a triangle, the face of a CD is a circle, and the face of an expanding gate is a parallelogram; reasonable examples suffice. $\blacksquare$
 
-## Exercise 54
+## Exercise 10
 
-(Lesson: Number Order and Comparing Size, Practice, Problem 1) Write the following numbers: seventy-six, thirty, one hundred, eighty-eight.
+(Lesson: Recognizing Plane Shapes, Do It, Problem 1) Color: color the plane shapes you have learned with your favorite colors.
 
-### Solution to Exercise 54
+### Solution to Exercise 10
 
-By **Definition 2.3.2 (Place Value)**: write $76$, $30$, $100$, $88$. $\blacksquare$
+By **Definition 2.1.1 (Plane Shapes)**, color the rectangles, squares, parallelograms, triangles, and circles in the picture respectively. $\blacksquare$
 
-## Exercise 55
+## Exercise 11
 
-(Lesson: Number Order and Comparing Size, Practice, Problem 2) Write as required: classify the numbers with ones digit $5$ and those with ones digit $0$ respectively ($45,50,70,60,65,55,75,95,85,90,80,100$).
+(Lesson: Recognizing Plane Shapes, Do It, Problem 2) Stretch it on a geoboard: use rubber bands to stretch the learned plane shapes on the geoboard.
 
-### Solution to Exercise 55
+### Solution to Exercise 11
 
-By **Definition 2.3.2 (Place Value)**, those with ones digit $5$ are $45,65,55,75,95,85$; those with ones digit $0$ are $50,70,60,90,80,100$. $\blacksquare$
+Use rubber bands on the geoboard to stretch closed shapes such as rectangles, squares, and triangles; appreciate that plane shapes are "enclosed by lines." $\blacksquare$
 
-## Exercise 56
+## Exercise 12
 
-(Lesson: Number Order and Comparing Size, Hundreds Table) Fill in the numbers in the blanks of the hundreds table in numerical order, and talk about interesting arrangements you find.
+(Lesson: Recognizing Plane Shapes, Do It, Problem 3) Draw a favorite pattern.
 
-### Solution to Exercise 56
+### Solution to Exercise 12
 
-By **Definition 2.3.3 (Comparing Two-Digit Numbers)**, each row from left to right increases by $1$, and each column from top to bottom increases by $10$; numbers with the same tens digit or same ones digit form a row or column. The figure is a $10\times10$ hundreds table with some cells already filled (the first row is $1,2,\ldots,10$, the second row $11,12,\ldots,20$, and so on); fill the blanks in numerical order. $\blacksquare$
+Freely piece together and draw using the learned plane shapes; the pattern should contain rectangles, squares, triangles, circles, etc. $\blacksquare$
 
-## Exercise 57
+## Exercise 13
 
-(Lesson: Number Order and Comparing Size, Compare) Fill "$> $""$< $" or "$=$" in $\bigcirc$: $41\bigcirc45$, $63\bigcirc53$, $89\bigcirc98$, $47\bigcirc32$, $63\bigcirc68$, $37\bigcirc73$, $81\bigcirc18$, $29\bigcirc30$.
+(Lesson: Piece It Together, Try It, Problem 1) Using $2$ identical rectangles, what new shape can you form?
 
-### Solution to Exercise 57
+### Solution to Exercise 13
 
-By **Definition 2.3.3 (Comparing Two-Digit Numbers)**: $41< 45$, $63> 53$, $89< 98$, $47> 32$, $63< 68$, $37< 73$, $81> 18$, $29< 30$. $\blacksquare$
+By **Definition 2.1.2 (Combining and Dividing Shapes)**, $2$ identical rectangles can form a new rectangle. $\blacksquare$
 
-## Exercise 58
+## Exercise 14
 
-(Lesson: Number Order and Comparing Size, Do It, Problem 1) Fill in and compare: $87$, $31$, $25$, $99$; use "much larger" and "a little larger" to describe.
+(Lesson: Piece It Together, Try It, Problem 2) Using $2$ identical triangles, what shape can you form?
 
-### Solution to Exercise 58
+### Solution to Exercise 14
 
-By **Definition 2.3.4 (A Little More and Much More More)**, from smallest to largest $25< 31< 87< 99$; $87$ is much larger than $25$, $31$ is a little larger than $25$, and $99$ is a little larger than $87$. $\blacksquare$
+By **Definition 2.1.2 (Combining and Dividing Shapes)**, $2$ identical triangles can form a parallelogram. $\blacksquare$
 
-## Exercise 59
+## Exercise 15
 
-(Lesson: Number Order and Comparing Size, Do It, Problem 2) I ate $35$ pests, Doudou ate much more than me, and Tiaotiao ate a little fewer than me. How many might Doudou and Tiaotiao each have eaten? ($80$, $40$, $28$)
+(Lesson: Piece It Together, Do It, Problem 1) Fold a square piece of paper and cut along the dashed line. What do you notice?
 
-### Solution to Exercise 59
+### Solution to Exercise 15
 
-By **Definition 2.3.4 (A Little More and Much More More)**, much more than $35$ choose $80$, a little fewer than $35$ choose $28$; thus Doudou ate $80$ and Tiaotiao ate $28$. $\blacksquare$
+By **Definition 2.1.2 (Combining and Dividing Shapes)**, after cutting a square along the fold line, it can be divided into two identical rectangles (or two identical triangles), i.e. one plane shape can be divided into several plane shapes. $\blacksquare$
 
-## Exercise 60
+## Exercise 16
 
-(Lesson: Number Order and Comparing Size, Practice, Problem 1) Write and dial: twenty-two, thirty-six, fifty-one, seventy-two, forty, twenty-seven, eighty-nine, ninety-five, one hundred.
+(Lesson: Piece It Together, Do It, Problem 2) Use several square pieces of paper to cut, paste, and color to design a beautiful pattern.
 
-### Solution to Exercise 60
+### Solution to Exercise 16
 
-By **Definition 2.3.2 (Place Value)** and **Definition 2.3.1 (Counting and Number Composition)**, write $22$, $36$, $51$, $72$, $40$, $27$, $89$, $95$, $100$, and dial them on the counter. $\blacksquare$
+Cut the square paper into several plane shapes, piece them into a pattern, and color it; answers are not unique. $\blacksquare$
 
-## Exercise 61
+## Exercise 17
 
-(Lesson: Number Order and Comparing Size, Practice, Problem 2) Fill in the appropriate number in $\square$: $70$, $71$, $72$, $\_\_$, $\_\_$, $76$, $\_\_$, $79$. Is $77$ closer to $70$ or closer to $80$? What about $72$?
+(Lesson: Tangram Puzzle, Reading) Use a tangram to form triangles: I used $2$ identical triangles to form a new triangle; using $2$ triangles and $1$ square can also form a triangle. How else can you form a triangle?
 
-### Solution to Exercise 61
+### Solution to Exercise 17
 
-Fill in order $73,74,75,77,78$. $77$ is nearer to $80$, i.e. closer to $80$; $72$ is nearer to $70$, i.e. closer to $70$. $\blacksquare$
+By **Definition 2.1.3 (Tangram)** and **Definition 2.1.2 (Combining and Dividing Shapes)**, $2$ identical triangles can form a new triangle, and $2$ triangles plus $1$ square can also form a triangle; the ways are not unique. $\blacksquare$
 
-## Exercise 62
+## Exercise 18
 
-(Lesson: Number Order and Comparing Size, Practice, Problem 3) Connect: divide $29,96,85,80,56,61,51,38,48,26,74$ into "numbers greater than $60$" and "numbers less than $60$."
+(Lesson: Tangram Puzzle, Try It) Use the tangram to form rectangles and squares.
 
-### Solution to Exercise 62
+### Solution to Exercise 18
 
-By **Definition 2.3.3 (Comparing Two-Digit Numbers)**, those greater than $60$ are $96,85,80,61,74$; those less than $60$ are $29,56,51,38,48,26$. $\blacksquare$
+By **Definition 2.1.3 (Tangram)**, choose suitable pieces from the tangram to form rectangles and squares; the ways are not unique. $\blacksquare$
 
-## Exercise 63
+## Exercise 19
 
-(Lesson: Simple Addition and Subtraction, Do It) Calculate: $10+20$, $20+10$, $30-20$, $30-10$; $30+2$, $2+30$, $32-2$, $32-30$.
+(Lesson: Recognizing Plane Shapes, Review and Organization) In this unit, what knowledge did you learn? What else did you discover?
 
-### Solution to Exercise 63
+### Solution to Exercise 19
 
-By **Definition 2.3.5 (Round-Tens Plus a One-Digit Number and Corresponding Subtraction)** and **Definition 2.3.1 (Counting and Number Composition)**: $10+20=30$, $20+10=30$, $30-20=10$, $30-10=20$; $30+2=32$, $2+30=32$, $32-2=30$, $32-30=2$. $\blacksquare$
+By **Definition 2.1.1 (Plane Shapes)**, from solid shapes we found rectangles, squares, parallelograms, triangles, and circles; by **Definition 2.1.2 (Combining and Dividing Shapes)**, several plane shapes can form a new plane shape, and one plane shape can also be divided into several. $\blacksquare$
 
-## Exercise 64
+## Exercise 20
 
-(Lesson: Simple Addition and Subtraction, Do It Continued) Calculate: $70+2$, $40+4$, $5+60$; $72-2$, $44-4$, $65-5$; $72-70$, $44-40$, $65-60$.
+(Lesson: Recognizing Plane Shapes, Practice, Problem 1) Which object on the right can be used to draw the shape on the left? Circle it.
 
-### Solution to Exercise 64
+### Solution to Exercise 20
 
-By **Definition 2.3.5 (Round-Tens Plus a One-Digit Number and Corresponding Subtraction)**: $70+2=72$, $40+4=44$, $5+60=65$; $72-2=70$, $44-4=40$, $65-5=60$; $72-70=2$, $44-40=4$, $65-60=5$. $\blacksquare$
+By **Definition 2.1.1 (Plane Shapes)**, choose the object whose face matches the left shape and circle it; e.g. a cuboid's face can draw a rectangle, and a cylinder's base can draw a circle. $\blacksquare$
 
-## Exercise 65
+## Exercise 21
 
-(Lesson: Place It and Think) Using $2$ discs on the tens and ones places, how many different numbers can be placed? What about $3$? What do you notice?
+(Lesson: Recognizing Plane Shapes, Practice, Problem 2) Draw the learned shapes on the dot grid.
 
-### Solution to Exercise 65
+### Solution to Exercise 21
 
-By **Definition 2.3.1 (Counting and Number Composition)** and **Definition 2.3.2 (Place Value)**, $2$ discs can form $2$, $11$, $20$, totaling $3$ numbers; $3$ discs can form $3$, $12$, $21$, $30$, totaling $4$ numbers. Each additional $1$ disc gives $1$ more number. $\blacksquare$
+Connect the points on the dot grid to draw closed shapes such as rectangles, squares, triangles, and parallelograms. $\blacksquare$
 
-## Exercise 66
+## Exercise 22
 
-(Lesson: Understanding Numbers Within 100, Practice, Problem 1) Read the following numbers: No. $86$ Xingfu Road, calcium tablets $31$, $60$ tablets.
+(Lesson: Recognizing Plane Shapes, Practice, Problem 3) What should be placed next? Circle the correct answer.
 
-### Solution to Exercise 66
+### Solution to Exercise 22
 
-By **Definition 2.3.2 (Place Value)**, read as eighty-six, thirty-one, sixty. $\blacksquare$
+Find the arrangement pattern of the shapes, and select and circle the next shape to place. $\blacksquare$
 
-## Exercise 67
+## Exercise 23
 
-(Lesson: Understanding Numbers Within 100, Practice, Problem 2) Say which round-ten number each of the following is closer to: $36$, $48$, $32$, $59$, $64$.
+(Lesson: Recognizing Plane Shapes, Practice, Problem 4) $\_\_$ pieces are missing.
 
-### Solution to Exercise 67
+### Solution to Exercise 23
 
-See which round-ten number it is closer to: $36$ is close to $40$, $48$ is close to $50$, $32$ is close to $30$, $59$ is close to $60$, $64$ is close to $60$. $\blacksquare$
+Following the arrangement pattern, draw in the missing pieces one by one, and count how many are missing; e.g. $2$ pieces are missing (depending on the actual gap in the picture). $\blacksquare$
 
-## Exercise 68
+## Exercise 24
 
-(Lesson: Understanding Numbers Within 100, Practice, Problem 3) Card-drawing game: can form $58$ or $85$. (1) If two identical cards are drawn, which two-digit numbers can be formed? (2) If one card is "$7$", which two-digit numbers can be formed?
+(Lesson: Recognizing Plane Shapes, Practice, Problem 5) Which shapes on the right can be combined to form the shape on the left? Circle them.
 
-### Solution to Exercise 68
+### Solution to Exercise 24
 
-By **Definition 2.3.2 (Place Value)**, (1) two identical cards can only form $11,22,...,99$; (2) if one card is $7$, can form $17,71,27,72,...,97,79$, etc. (the other card takes $1\sim9$ respectively). $\blacksquare$
+By **Definition 2.1.2 (Combining and Dividing Shapes)**, select and circle the shapes on the right that can combine to form the left shape. $\blacksquare$
+
+## Exercise 25
+
+(Lesson: Recognizing Plane Shapes, Thinking Question) Cut a rectangular piece of paper into two equal parts. What cutting methods can you think of?
+
+### Solution to Exercise 25
+
+By **Definition 2.1.2 (Combining and Dividing Shapes)**, cutting along the line connecting the midpoints of the long sides, along the line connecting the midpoints of the short sides, or along the diagonal all produce two equal parts; the methods are not unique. $\blacksquare$
+
+## Exercise 26
+
+(Lesson: Ten-Something Minus 9, Do It, Problem 1) Place and calculate: $17-9=\square$, $16-9=\square$.
+
+### Solution to Exercise 26
+
+By **Definition 2.2.1 (Ten-Something Minus $9$)**: $17-9=8$, $16-9=7$. $\blacksquare$

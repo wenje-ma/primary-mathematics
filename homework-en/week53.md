@@ -1,210 +1,206 @@
 # week53
-> **Definition 7.5.1 (加法模型)**
+> **Definition 5.7.1 (线段, 射线, 直线)**
 > 
-> 把几个部分合起来求总数, 用加法: 总量 $=$ 分量 $+$ 分量. 已知总量和一个分量求另一个分量用减法: 分量 $=$ 总量 $-$ 分量.
-> **Definition 7.5.2 (Unit Price, Quantity, Total Price)**
+> 一根拉紧的线可以看作线段, 线段有两个端点, 可以量出长度. 把线段向一端无限延伸得到射线, 射线只有一个端点. 把线段向两端无限延伸得到直线, 直线没有端点, 是无限长的. 两点间所有连线中线段最短, 这条线段的长度叫作两点间的距离.
+> **Definition 5.7.2 (角)**
 > 
-> 每件商品的价钱叫做单价, 买了多少叫做数量, 一共用的钱数叫做总价. 总价 = 单价 * 数量.
-> **Definition 7.5.3 (速度, 时间, 路程)**
+> 从一个点引出两条射线得到的图形是角, 这个点是角的顶点, 两条射线是角的两条边. 角用符号 "$\angle$" 表示. 角的两条边张开得越大, 角越大.
+> **Definition 5.7.3 (直角, 锐角, 钝角)**
 > 
-> 每小时 (或每分钟等) 行的路程叫速度, 一共行多长的路叫路程, 行了几小时 (或几分钟等) 叫时间. 路程 $=$ 速度 $\times$ 时间; 速度 $=$ 路程 $\div$ 时间; 时间 $=$ 路程 $\div$ 速度.
+> 参见教材相应章节关于此概念的论述.
+> **Definition 5.8.1 (分数的初步认识)**
+> 
+> 把一个物体平均分成若干份, 其中的一份是几分之一, 几份是几分之几. 分数中间的横线叫分数线, 下面的数叫分母 (表示平均分成几份), 上面的数叫分子 (表示取了几份).
+> **Definition 5.8.2 (分数的大小比较)**
+> 
+> 分母相同的分数, 分子大的分数大; 分子相同的分数, 分母大的反而小 (平均分的份数越多, 每份就越小).
+> **Definition 5.8.3 (同分母分数的加减法)**
+> 
+> 同分母分数相加减, 分母不变, 分子相加减. $1$ 可以写成分子, 分母相同的分数, 如 $1=\frac{4}{4}$.
+> **Definition 5.8.4 (求一个数的几分之几)**
+> 
+> 求一个数的几分之一, 把这个数平均分成分母那么多份, 求出一份; 求几分之几, 再用一份的数乘分子.
 
-## Exercise 130
+## Exercise 1
 
-(Lesson: Addition Model, Try It) $95$ primary-school students join after-school clubs (one club per person). The science club has $5$ boys and some girls; the dance club has $27$ boys and $22$ girls; the art club has $18$ boys and $18$ girls. (1) How many people are in the dance and art clubs altogether? (2) How many girls joined the clubs in total? (3) Pose a question and answer it.
+(Lesson: Practice 13, Problem 3) Match them: acute angle, right angle, obtuse angle.
 
-### Solution to Exercise 130
+### Solution to Exercise 1
 
-By **Definition 7.5.1 (Addition Model)**: (1) $\left(27+22\right)+\left(18+18\right)=49+36=85$ people; (2) total number of people $95$, boys $5+27+18=50$, girls $95-50=45$, girls in the science club $=45-22-18=5$; (3) e.g., how many people are in the science club $=5+5=10$. $\blacksquare$
+By **Definition 5.7.3 (Right Angle, Acute Angle, Obtuse Angle)**, match those smaller than a right angle to acute angle, those equal to the triangular ruler's right angle to right angle, and those larger than a right angle to obtuse angle. $\blacksquare$
 
-## Exercise 131
+## Exercise 2
 
-(Lesson: Practice 12, Problem 1) Fill in the appropriate numbers in the $\square$: $22+78+\square=180$; $45+55+50=$; $180-22-\square=78$; $\square-55-45=50$.
+(Lesson: Practice 13, Problem 4) Draw three angles of different sizes on a dot grid, and say what kind of angle each is.
 
-### Solution to Exercise 131
+### Solution to Exercise 2
 
-By **Definition 7.5.1 (Addition Model)**: $22+78=100$, $\square=180-100=80$; $45+55+50=150$; $180-22=158$, $\square=158-78=80$; $\square=50+55+45=150$. $\blacksquare$
+By **Definition 5.7.3 (直角, 锐角, 钝角)**, draw an acute angle with the narrowest opening, a right angle whose opening is exactly the triangular ruler's right angle, and an obtuse angle with a wider opening. $\blacksquare$
 
-## Exercise 132
+## Exercise 3
 
-(Lesson: Practice 12, Problem 2) Identify the total and the parts in the following problems. (1) After $15$ books were borrowed from the book corner, $30$ books remained; how many books were there originally? (2) There are $30$ rabbits, and the chickens are $15$ more than the rabbits; how many chickens and rabbits are there altogether? (3) $30$ shared bikes; from $7{:}00$—$9{:}30$, $20$ were ridden away and $5$ were returned; how many bikes are there now?
+(Lesson: Practice 13, Problem 5) Find the right angles, acute angles and obtuse angles in the triangles below. What do you find?
 
-### Solution to Exercise 132
+### Solution to Exercise 3
 
-By **Definition 7.5.1 (Addition Model)**: (1) the total $=$ the borrowed $15$ books $+$ the remaining $30$ books, originally $45$ books; (2) chickens $=30+15=45$, total $30+45=75$; (3) $30-20+5=15$ bikes. $\blacksquare$
+A right triangle has $1$ right angle and $2$ acute angles; an obtuse triangle has $1$ obtuse angle and $2$ acute angles; an acute triangle has three acute angles. Finding: a triangle has at most one right angle or one obtuse angle. $\blacksquare$
 
-## Exercise 133
+## Exercise 4
 
-(Lesson: Practice 12, Problem 3) (1) Apples $180$ kg, pears $460$ kg; how many kilograms are harvested in total? (2) Pears $460$ kg, apples are $280$ kg fewer than the pears; how many kilograms are harvested in total?
+(Lesson: Practice 13, Problem 6) Count how many angles each figure below has.
 
-### Solution to Exercise 133
+### Solution to Exercise 4
 
-By **Definition 7.5.1 (Addition Model)**: (1) $180+460=640$ kg; (2) apples $=460-280=180$ kg, total $460+180=640$ kg. $\blacksquare$
+By **Definition 5.7.2 (Angle)**, count vertex by vertex: a triangle has $3$ angles, a rectangle has $4$ angles, and composite figures are counted vertex by vertex. $\blacksquare$
 
-## Exercise 134
+## Exercise 5
 
-(Lesson: Practice 12, Problem 4) Bus rental plans: Plan ① has $8$ large buses ($60$ people each), $5$ medium buses ($40$ people each), $2$ small buses ($8$ people each); Plan ② has $8$ large buses, $4$ medium buses, and some small buses. (1) How many teachers and students are there altogether? (2) In Plan ②, how many people ride the small buses?
+(Lesson: Practice 13, Problem 7) A square piece of paper has $4$ corners; cut off one corner, how many corners remain? How many ways of cutting are there?
 
-### Solution to Exercise 134
+### Solution to Exercise 5
 
-By **Definition 7.5.1 (Addition Model)**: (1) $60\times8+40\times5+8\times2=480+200+16=696$ people; (2) in Plan ② the large and medium buses carry $60\times8+40\times4=480+160=640$ people, so $696-640=56$ people ride the small buses. $\blacksquare$
+Different cuts give different results: cutting along the diagonal leaves $3$ corners; cutting from one vertex to the opposite side leaves $4$ corners; cutting across two adjacent sides leaves $5$ corners. There are $3$ ways in total. $\blacksquare$
 
-## Exercise 135
+## Exercise 6
 
-(Lesson: Unit Price, Quantity, Total Price, Try It, Problem 1) Give examples to explain what unit price, quantity, and total price are.
+(Lesson: Practice 13, Problem 8) Using a pair of triangular rulers, which different angles can you draw?
 
-### Solution to Exercise 135
+### Solution to Exercise 6
 
-By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**: for example, each pen at $3$ yuan is the unit price, buying $5$ pens is the quantity, and spending $15$ yuan in total is the total price. $\blacksquare$
+With the triangular rulers you can directly draw $30^{\circ}$, $45^{\circ}$, $60^{\circ}$, $90^{\circ}$; by putting two angles together you can also draw $75^{\circ}$, $105^{\circ}$, $120^{\circ}$, $135^{\circ}$, $150^{\circ}$, and so on. $\blacksquare$
 
-## Exercise 136
+## Exercise 7
 
-(Lesson: Unit Price, Quantity, Total Price, Try It, Problem 2) (1) Each school uniform costs $120$ yuan; how much are $5$ sets? (2) Buying $4$ boxes of chalk costs $840$ yuan in total; how much is each box?
+(Lesson: Practice 13, Problem 9) (1) What shape is each piece of the tangram? What angles does each have? (2) Compare the angles of the five triangular pieces. (3) Use two pieces to make a right angle or an obtuse angle.
 
-### Solution to Exercise 136
+### Solution to Exercise 7
 
-By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**: (1) $120\times5=600$ yuan; (2) $840\div4=210$ yuan. $\blacksquare$
+(1) The tangram has triangles, a square and a parallelogram. (2) The triangular pieces have a right angle and two acute angles. (3) Two acute angles put together can make a right angle or an obtuse angle. $\blacksquare$
 
-## Exercise 137
+## Exercise 8
 
-(Lesson: Promotion Problems, Try It) In a mall promotion, buying $4$ bags of rice costs $236$ yuan in total, which is $84$ yuan cheaper than before; what was the original price per bag?
+(Lesson: Practice 14, Problem 1) On a straight line there are three points A, B and C. How many rays and how many line segments are there in total?
 
-### Solution to Exercise 137
+### Solution to Exercise 8
 
-Originally the total for $4$ bags was $=236+84=320$ yuan, so the original price per bag was $320\div4=80$ yuan. $\blacksquare$
+By **Definition 5.7.1 (线段, 射线, 直线)**, each point forms a ray in each of the left and right directions, so $3$ points give $6$ rays; the line segments are AB, AC, BC, $3$ in total. $\blacksquare$
 
-## Exercise 138
+## Exercise 9
 
-(Lesson: Practice 13, Problem 1) First fill in the quantitative relationship, then write the equation: (1) Each item is $15$ yuan; buying some costs $\_\_$ yuan in total. (2) The total price is $126$ yuan for $?$ items; find the unit price.
+(Lesson: Practice 14, Problem 2) How many angles and how many line segments does each figure below have?
 
-### Solution to Exercise 138
+### Solution to Exercise 9
 
-By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**: (1) total price $=$ unit price $\times$ quantity; (2) unit price $=$ total price $\div$ quantity $=126\div$ quantity. $\blacksquare$
+By **Definition 5.7.1 (线段, 射线, 直线)** and **Definition 5.7.2 (角)**, count one by one: a triangle has $3$ segments and $3$ angles; a quadrilateral has $4$ segments and $4$ angles; other composite figures are filled in according to the number of sides and vertices. $\blacksquare$
 
-## Exercise 139
+## Exercise 10
 
-(Lesson: Practice 13, Problem 2) A flower shop sells flowers: roses have a total price of $288$ yuan with unknown unit price; lilies have a total price of $135$ yuan; sunflowers have a unit price of $24$ yuan with unknown quantity. Fill in the blanks.
+(Lesson: Practice 14, Problem 3) Look and fill in: (1) The straight lines AB and CD intersect at point ( ). (2) How many angles do two intersecting straight lines form?
 
-### Solution to Exercise 139
+### Solution to Exercise 10
 
-By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**, use total price $=$ unit price $\times$ quantity to compute each from the others. $\blacksquare$
+(1) They intersect at point O. (2) Two intersecting straight lines form $4$ angles. $\blacksquare$
 
-## Exercise 140
+## Exercise 11
 
-(Lesson: Practice 13, Problem 3) Combo 1 is $21$ yuan each, and Combo 2 is $18$ yuan each; with $60$ yuan buying $3$ combos, how many ways are there to buy them?
+(Lesson: Practice 14, Problem 4, Challenge Problem) Take a cube box; first see how many right angles are on each face, then count how many right angles there are on the whole box. Try a cuboid box and count again; what do you find?
 
-### Solution to Exercise 140
+### Solution to Exercise 11
 
-All Combo 1: $21\times3=63> 60$, not allowed; all Combo 2: $18\times3=54\le60$, allowed; $2$ of Combo 1 and $1$ of Combo 2: $42+18=60$, allowed; $1$ of Combo 1 and $2$ of Combo 2: $21+36=57$, allowed. There are $3$ ways in total. $\blacksquare$
+Each face is a square (rectangle) with $4$ right angles; a cube has $6$ faces, giving $4\times6=24$ right angles in total. Each face of a cuboid is also a rectangle, likewise $24$ right angles. Finding: both a cuboid and a cube have $24$ right angles. $\blacksquare$
 
-## Exercise 141
+## Exercise 12
 
-(Lesson: Practice 13, Problem 4) Complete the supermarket receipt: sea bass has a unit price of $25$ yuan with unknown amount; tomatoes have a unit price of $8$ yuan and an amount of $32$ yuan; mineral water has an amount of $15$ yuan; the total is $172$ yuan. Find the amount for the sea bass.
+(Lesson: One Over Some Number — Example 1) Divide a mooncake into two equal parts; each part is half of the mooncake. How is this written?
 
-### Solution to Exercise 141
+### Solution to Exercise 12
 
-By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**, the quantity of tomatoes is $=32\div8=4$ kg. The amount for sea bass is $=172-32-15=125$ yuan, and its quantity is $=125\div25=5$ kg. $\blacksquare$
+By **Definition 5.8.1 (An Initial Look at Fractions)**, each part is one half of the mooncake, written $\frac{1}{2}$. Half a mooncake is also $\frac{1}{2}$ of a mooncake. $\blacksquare$
 
-## Exercise 142
+## Exercise 13
 
-(Lesson: Practice 13, Problem 5) Buying $6$ basketballs at $85$ yuan each and $2$ footballs costs $66$ yuan in total; how much is spent altogether?
+(Lesson: One Over Some Number — Do It Yourself) Fold and color sheets of paper of different shapes to show their $\frac{1}{2}$. Why can the colored parts, though different in shape, all represent $\frac{1}{2}$?
 
-### Solution to Exercise 142
+### Solution to Exercise 13
 
-By **Definition 7.5.2 (Unit Price, Quantity, Total Price)** and **Definition 7.5.1 (Addition Model)**: basketballs $85\times6=510$ yuan, total $510+66=576$ yuan. $\blacksquare$
+By **Definition 5.8.1 (分数的初步认识)**, as long as the figure is folded into $2$ equal parts and $1$ part is colored, the colored part is $\frac{1}{2}$ of the figure. It does not matter that the shapes differ; the key is equal division. $\blacksquare$
 
-## Exercise 143
+## Exercise 14
 
-(Lesson: Practice 13, Problem 6) Park tickets: adults $8$ yuan, children $4$ yuan, group ($10$ people or more) $6$ yuan. With $2$ teachers and $32$ students, what is the least amount to spend?
+(Lesson: One Over Some Number — Example 2) Divide a mooncake into $4$ equal parts; what fraction of the mooncake is each part?
 
-### Solution to Exercise 143
+### Solution to Exercise 14
 
-Teachers buy adult tickets and students buy child tickets: $2\times8+32\times4=16+128=144$ yuan. If group tickets are bought, $34\times6=204$ yuan, which is more expensive. The least is $144$ yuan. $\blacksquare$
+By **Definition 5.8.1 (分数的初步认识)**, each part is $\frac{1}{4}$ of the mooncake, i.e. $\frac{1}{4}$ of a mooncake. $\blacksquare$
 
-## Exercise 144
+## Exercise 15
 
-(Lesson: Practice 13, Problem 7) Milk: $5$ cartons for $16$ yuan, $8$ cartons for $24$ yuan, and some bought individually. (1) Which way of buying has the cheapest unit price? (2) To buy $20$ cartons, what is the most cost-effective way?
+(Lesson: Names of the Parts of a Fraction) Say the names of the parts of $\frac{1}{2}$ and how it is read.
 
-### Solution to Exercise 144
+### Solution to Exercise 15
 
-By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**: (1) $16\div5=3.2$ yuan/carton, $24\div8=3$ yuan/carton, so the $8$-carton pack is cheaper per unit. (2) Buying $2$ sets of the $8$-carton pack ($16$ cartons, $48$ yuan) plus $1$ set of the $5$-carton pack ($5$ cartons, $16$ yuan) gives $21$ cartons for $64$ yuan, which is the most cost-effective. $\blacksquare$
+By **Definition 5.8.1 (分数的初步认识)**, the horizontal bar in the middle of $\frac{1}{2}$ is the fraction bar, $2$ is the denominator, $1$ is the numerator, and it is read as "one half". $\blacksquare$
 
-## Exercise 145
+## Exercise 16
 
-(Lesson: Practice 13, Problem 8) Buying $6$ bowls and $6$ cups costs $108$ yuan in total; each bowl is $8$ yuan. What problem does the expression $108\div6$ solve?
+(Lesson: Try It) Use your own method to represent $\frac{1}{3}$ and $\frac{1}{5}$.
 
-### Solution to Exercise 145
+### Solution to Exercise 16
 
-$108\div6$ gives the total price of $1$ bowl and $1$ cup, i.e., how much each set (one bowl and one cup) costs. $\blacksquare$
+By **Definition 5.8.1 (分数的初步认识)**, divide a figure into $3$ equal parts and color $1$ part to show $\frac{1}{3}$; divide into $5$ equal parts and color $1$ part to show $\frac{1}{5}$. $\blacksquare$
 
-## Exercise 146
+## Exercise 17
 
-(Lesson: Speed, Time, Distance, Try It, Problem 1) Give examples to explain what speed, time, and distance are.
+(Lesson: Do It Yourself) What fraction of the whole figure is the colored part in each figure below? Express it as a fraction.
 
-### Solution to Exercise 146
+### Solution to Exercise 17
 
-By **Definition 7.5.3 (Speed, Time, Distance)**: for example, a person walking $60$ m per minute is the speed, walking for $15$ minutes is the time, and walking $900$ m in total is the distance. $\blacksquare$
+By **Definition 5.8.1 (分数的初步认识)**, take the total number of equal parts as the denominator and the number of colored parts as the numerator; for example, divided into $3$ equal parts with $1$ colored gives $\frac{1}{3}$. Fill in according to each figure. $\blacksquare$
 
-## Exercise 147
+## Exercise 18
 
-(Lesson: Speed, Time, Distance, Try It, Problem 2) (1) Xiao Lin walks $60$ m per minute; how many meters does he walk in $15$ minutes? (2) A bee flies $5$ m per second; how long does it take to fly $600$ m?
+(Lesson: Do It Yourself) You drank $\frac{1}{2}$ of a cup of juice; what fraction of a cup is left?
 
-### Solution to Exercise 147
+### Solution to Exercise 18
 
-By **Definition 7.5.3 (Speed, Time, Distance)**: (1) $60\times15=900$ m; (2) $600\div5=120$ seconds. $\blacksquare$
+Take a cup of juice as $1$; having drunk $\frac{1}{2}$, what remains is $1-\frac{1}{2}=\frac{1}{2}$ cup. $\blacksquare$
 
-## Exercise 148
+## Exercise 19
 
-(Lesson: Speed, Time, Distance, Try It, Problem 3) Uncle Li sets off from City A at $8{:}30$ and arrives at City B at $11{:}30$; the odometer reads $2522$ km when he leaves and $2792$ km when he arrives. What is his speed?
+(Lesson: Do It Yourself) $\frac{1}{4}$ is part of a figure; what shape might this figure be? Draw it on grid paper.
 
-### Solution to Exercise 148
+### Solution to Exercise 19
 
-By **Definition 7.5.3 (Speed, Time, Distance)**, the distance is $=2792-2522=270$ km, the time is $=3$ hours, and the speed is $=270\div3=90$ km/h. $\blacksquare$
+By **Definition 5.8.1 (分数的初步认识)**, just put together $3$ more equal parts with the drawn part to form an evenly divided figure. The shape is not unique. $\blacksquare$
 
-## Exercise 149
+## Exercise 20
 
-(Lesson: Speed, Time, Distance, Try It, Problem 4) In the afternoon at $1{:}30$, Uncle Li travels from City B to City C at the same speed and arrives at $3{:}30$; what is the distance from City B to City C?
+(Lesson: Some Number Over That Number — Count) Divide $1$ decimeter into $10$ equal parts; what fraction of a decimeter is each part?
 
-### Solution to Exercise 149
+### Solution to Exercise 20
 
-By **Definition 7.5.3 (Speed, Time, Distance)**, the time is $=2$ hours, and the distance is $=90\times2=180$ km. $\blacksquare$
+Each part is $1$ centimeter, which is $\frac{1}{10}$ of $1$ decimeter, i.e. $\frac{1}{10}$ decimeter. $\blacksquare$
 
-## Exercise 150
+## Exercise 21
 
-(Lesson: Practice 14, Problem 1) Xiao Jun's speed is $72$ meters/minute; Xiao Dong walks $400$ m in $5$ minutes. Who walks faster?
+(Lesson: Some Number Over That Number — Count) How many cups is $\frac{1}{5}$ of $1$ cup of juice? What are $2$ of the $\frac{1}{5}$ cups? What about $3$ or $4$ of them?
 
-### Solution to Exercise 150
+### Solution to Exercise 21
 
-By **Definition 7.5.3 (Speed, Time, Distance)**, Xiao Dong's speed is $=400\div5=80$ meters/minute; $80> 72$, so Xiao Dong is faster. $\blacksquare$
+$1$ of the $\frac{1}{5}$ cups is $\frac{1}{5}$ cup; $2$ of the $\frac{1}{5}$ cups is $\frac{2}{5}$ cups; $3$ of the $\frac{1}{5}$ cups is $\frac{3}{5}$ cups; $4$ of the $\frac{1}{5}$ cups is $\frac{4}{5}$ cups. $\blacksquare$
 
-## Exercise 151
+## Exercise 22
 
-(Lesson: Practice 14, Problem 2) Uncle Wang runs for $20$ minutes every day at $300$ m per minute; how many kilometers does he run in a week?
+(Lesson: Simple Fraction Calculations — Example) Of a watermelon, the younger brother ate $\frac{1}{8}$ and the older brother ate $\frac{2}{8}$. (1) What fraction did the two eat altogether? (2) How much more did the older brother eat than the younger one?
 
-### Solution to Exercise 151
+### Solution to Exercise 22
 
-By **Definition 7.5.3 (Speed, Time, Distance)**, each day $300\times20=6000$ m $=6$ km, and in a week $6\times7=42$ km. $\blacksquare$
+By **Definition 5.8.3 (Adding and Subtracting Fractions with the Same Denominator)**: (1) $\frac{1}{8}+\frac{2}{8}=\frac{3}{8}$; (2) $\frac{2}{8}-\frac{1}{8}=\frac{1}{8}$. $\blacksquare$
 
-## Exercise 152
+## Exercise 23
 
-(Lesson: Practice 14, Problem 3) Cities A and B are $305$ km apart; after Aunt Gao drives for $3$ hours she is still $20$ km away from City B. What is her average speed?
+(Lesson: Simple Fraction Calculations — Do It Yourself) Compute: $\frac{2}{7}+\frac{2}{7}$; $\frac{1}{2}+\frac{1}{2}$; $\frac{5}{6}-\frac{1}{6}$; $\frac{8}{9}-\frac{7}{9}$; $\frac{4}{5}-\frac{2}{5}$; $\frac{1}{5}+\frac{3}{5}$.
 
-### Solution to Exercise 152
+### Solution to Exercise 23
 
-By **Definition 7.5.3 (Speed, Time, Distance)**, she has traveled $305-20=285$ km, and the speed is $=285\div3=95$ km/h. $\blacksquare$
-
-## Exercise 153
-
-(Lesson: Practice 14, Problem 4) Cities A and B are $500$ km apart; Service Area A is $115$ km from City A, and Service Area B is $117$ km from Service Area A. Traveling from Service Area B to City B at $95$ km per hour, can it be reached in $3$ hours?
-
-### Solution to Exercise 153
-
-The distance from Service Area B to City B is $=500-115-117=268$ km; $95\times3=285> 268$, so it can be reached. $\blacksquare$
-
-## Exercise 154
-
-(Lesson: Practice 14, Problem 5) On the way there, Uncle Liu's speed was $40$ km/h and it took $3$ hours; on the return it took $2$ hours. (1) How far is it from the county town to Wang Village? (2) What was the average speed on the return?
-
-### Solution to Exercise 154
-
-By **Definition 7.5.3 (Speed, Time, Distance)**: (1) $40\times3=120$ km; (2) $120\div2=60$ km/h. $\blacksquare$
+By **Definition 5.8.3 (同分母分数的加减法)**: $\frac{2}{7}+\frac{2}{7}=\frac{4}{7}$; $\frac{1}{2}+\frac{1}{2}=1$; $\frac{5}{6}-\frac{1}{6}=\frac{4}{6}$; $\frac{8}{9}-\frac{7}{9}=\frac{1}{9}$; $\frac{4}{5}-\frac{2}{5}=\frac{2}{5}$; $\frac{1}{5}+\frac{3}{5}=\frac{4}{5}$. $\blacksquare$

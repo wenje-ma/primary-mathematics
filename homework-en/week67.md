@@ -1,76 +1,196 @@
 # week67
-> **Definition 8.10.1 (鸡兔同笼问题与假设法)**
+> **Definition 6.1.1 (轴对称图形与对称轴)**
 > 
-> 鸡兔同笼: 笼子里鸡和兔共若干只, 已知头的总数和脚的总数, 求鸡和兔各几只. 用假设法: 先假设全是鸡, 脚数 $=$ 头数 $\times2$, 比实际少的脚数除以每只兔比鸡多的 $2$ 只脚, 就是兔的只数.
+> 如果一个图形沿一条直线折叠, 直线两旁的部分能够互相重合, 这个图形叫做轴对称图形.
+> **Definition 6.1.2 (平移)**
+> 
+> 物体或图形沿直线方向运动而本身方向不发生改变, 这种运动叫做平移.
+> **Definition 6.1.3 (旋转)**
+> 
+> 物体绕着一个点或轴进行圆周运动的现象叫做旋转.
+> **Definition 6.7.1 (小数的意义和性质)**
+> 
+> 参见教材相应章节关于此概念的论述.
+> **Definition 6.7.2 (小数的大小比较)**
+> 
+> 先比较整数部分, 整数部分大的那个数就大; 整数部分相同, 再从高位起逐位比较小数部分.
+> **Definition 6.7.3 (简单的小数加,减法)**
+> 
+> 列竖式时小数点要对齐, 也就是相同单位上的数对齐, 再按整数加减法计算, 得数的小数点也要对齐.
+> **Definition 6.7.3 (简单的小数加减法)**
+> 
+> 70 计算小数加减法,先把各数的小数点对齐(也就是把 相同数位上的数对齐),再按照整数加减法的法则进行计 算,最后在得数里点上小数点.如果得数的小数部分末尾 有0,可以把0去掉. 一起总结小数加减法的计算方法. (1) 小林买了下面两本书,一共花了多少钱? 2 (2) 《数学家的故事》比《神奇的大自然》便宜多少钱? 计算下面各题并验算. 12+0.5 27-0.8 113.04+7.8 0.3-0.18 12.56+5.8 16.4-3.2 做一做 百分位上怎样减? 16.45+18.3=34.75 4 3 4 3 7 5 5 1 1 + . . . 1 6 8 18.3-16.45=1.85 - 1 3 3 4 8 0 5 5 1 . . . 1 8 3 6 18.3元 16.45元 (1)小林买了下面两本书,一共花了多少钱? 数学家的 神奇的 故事 大自然 16.45元 18.3元 16.45+18.3
+> **Definition 6.8.1 (全册知识结构)**
+> 
+> 会解决生活中的很多问题了. 你已经学会了表内乘,除法和多位数乘一位数的乘法.本学 期,聪聪将带你挑战除数是一位数的除法. 在图形方面,线和角对你来说应该已经很熟悉了,本学期你将 研究四边形的特征并探索如何计算长方形,正方形的周长和面积. 也许下一次装修时,你就能帮着爸爸妈妈计算要买多少块瓷砖啦! 本学期,聪聪还将带你认识生活中的运动现象,寻找日历上的 规律…… 现在,就和聪聪一起继续探索数学的奥秘吧! 36.6 ℃, 体温正常. 致同学 致同学 愉快的寒假结束了.在假期生活中,你有没有遇到过新的数学 问题?带着这些问题,开始新的学习旅程吧! 测量体温和身高时,经常会看到下面图中的数.它们表示什 么?怎么读?弄清这些,你就会解决生活中的很多问题了. 36.6 ℃, 1米 体温正常. 1.2米 你已经学会了表内乘,除法和多位数乘一位数的乘法.本学 期,聪聪将带你挑战除数是一位数的除法 在图形方面,线和角对你来说应该已经很熟悉了,本学期你将 研究四边形的特征并探索如何计算长方形,正方形的周长和
+> **Definition 6.8.2 (重叠问题)**
+> 
+> 两部分有重叠时, 总数 $=$ 两部分的和 $-$ 重叠部分, 直接相加会把重叠的重复计算.
 
-## Exercise 232
+## Exercise 1
 
-(Lesson: Chickens and Rabbits in a Cage, Try It) There are $10$ bicycles and tricycles altogether, with $26$ wheels in total. How many bicycles and how many tricycles are there?
+(Lesson: Practice 17, Problem 3) Book prices: 《Children's Literature》$10.8$ yuan, 《Selected Fairy Tales》$8.4$ yuan, 《Use Your Head》$12.5$ yuan. (1) How much cheaper is 《Use Your Head》 than 《Selected Fairy Tales》? (2) Is $20$ yuan enough to buy one of each? (3) Raise other questions.
 
-### Solution to Exercise 232
+### Solution to Exercise 1
 
-By **Definition 8.10.1 (Assumption Method)**, assume all are bicycles: wheels $10\times2=20$, short by $26-20=6$; each tricycle has $1$ more wheel than a bicycle, so tricycles $6\div1=6$ and bicycles $10-6=4$. $\blacksquare$
+By **Definition 6.7.3 (简单的小数加,减法)**, (1) $12.5-8.4=4.1$ (yuan). (2) $8.4+12.5=20.9$ (yuan), $20.9> 20$, not enough. (3) For example, 《Children's Literature》 is $10.8-8.4=2.4$ yuan more expensive than 《Selected Fairy Tales》; answers may vary. $\blacksquare$
 
-## Exercise 233
+## Exercise 2
 
-(Lesson: Chickens and Rabbits in a Cage, Practice 24, Problem 1) A box holds $30$ large and small steel balls weighing $266\,\mathrm{g}$ altogether. Each large ball is $11\,\mathrm{g}$ and each small ball $7\,\mathrm{g}$. How many large and how many small balls?
+(Lesson: Practice 17, Problem 4) Using the four cards $1,2,3,.$ (using all of them), how many decimals can be formed?
 
-### Solution to Exercise 233
+### Solution to Exercise 2
 
-By **Definition 8.10.1 (Assumption Method)**, assume all are small balls: weight $30\times7=210\,\mathrm{g}$, short by $266-210=56\,\mathrm{g}$; each large ball is $11-7=4\,\mathrm{g}$ heavier, so large balls $56\div4=14$ and small balls $30-14=16$. $\blacksquare$
+By **Definition 6.7.1 (Decimals)**, the decimal point can be placed in different positions: one-decimal-place numbers such as $1.23,1.32,2.13,2.31,3.12,3.21$; two-decimal-place numbers such as $12.3,13.2,21.3,23.1,31.2,32.1$, totaling $12$. $\blacksquare$
 
-## Exercise 234
+## Exercise 3
 
-(Lesson: Chickens and Rabbits in a Cage, Practice 24, Problem 2) There are $40$ tortoises and cranes altogether, with $112$ legs in total. How many tortoises and how many cranes?
+(Lesson: Application Practice, Problem 1) Three families' May electricity use: Xiaohong's family $3$ people used $189$ kWh, Xiaoli's family $4$ people used $276$ kWh, Xiaojun's family $5$ people used $260$ kWh. (1) Fill in the electricity use per person on average. (2) Xiaohong's family used $9$ tons of water per month last year, and the half-year water bill was $270$ yuan; how much is each ton of water?
 
-### Solution to Exercise 234
+### Solution to Exercise 3
 
-By **Definition 8.10.1 (Assumption Method)**, assume all are cranes: legs $40\times2=80$, short by $112-80=32$; each tortoise has $4-2=2$ more legs than a crane, so tortoises $32\div2=16$ and cranes $40-16=24$. $\blacksquare$
+(1) Xiaohong $189\div3=63$, Xiaoli $276\div4=69$, Xiaojun $260\div5=52$ (kWh). (2) Half a year is $6$ months, using $9\times6=54$ tons; each ton is $270\div54=5$ (yuan). $\blacksquare$
 
-## Exercise 235
+## Exercise 4
 
-(Lesson: Chickens and Rabbits in a Cage, Practice 24, Problem 3) There are $38$ people in total and $8$ boats rented, every boat fully occupied. A large boat holds $6$ people and a small boat $4$ people. How many large and how many small boats were rented?
+(Lesson: Application Practice, Problem 2) Two rectangles of length $6$ cm and width $3$ cm can be joined into one rectangle or into one square. (1) What is each perimeter? (2) What is each area?
 
-### Solution to Exercise 235
+### Solution to Exercise 4
 
-By **Definition 8.10.1 (Assumption Method)**, assume all are small boats: people $8\times4=32$, short by $38-32=6$; each large boat holds $6-4=2$ more people, so large boats $6\div2=3$ and small boats $8-3=5$. $\blacksquare$
+Joined into a rectangle (length $12$, width $3$): perimeter $\left(12+3\right)\times2=30$ (centimeters), area $12\times3=36$ (square centimeters). Joined into a square (side $6$): perimeter $6\times4=24$ (centimeters), area $6\times6=36$ (square centimeters). $\blacksquare$
 
-## Exercise 236
+## Exercise 5
 
-(Lesson: Chickens and Rabbits in a Cage, Practice 24, Problem 4) A $12$-person "environmental guardians" squad plants trees; each boy plants $3$ trees and each girl $2$ trees, planting $32$ trees altogether. How many boys and how many girls?
+(Lesson: Practice 18, Problem 1) Mental math: $25+7$, $41-6$, $30\times5$, $39\div3$, $14\times5$, $540\div6$, $440-70$, $260+500$, $59+34$, $84-65$, $210\div7$, $240\times4$, $84\div4$, $17\times4$, $180+50$, $300-40$.
 
-### Solution to Exercise 236
+### Solution to Exercise 5
 
-By **Definition 8.10.1 (Assumption Method)**, assume all are girls: trees $12\times2=24$, short by $32-24=8$; each boy plants $3-2=1$ more tree, so boys $8\div1=8$ and girls $12-8=4$. $\blacksquare$
+$32,35,150,13,70,90,370,760,93,19,30,960,21,68,230,260$. $\blacksquare$
 
-## Exercise 237
+## Exercise 6
 
-(Lesson: Chickens and Rabbits in a Cage, Practice 24, Problem 5) In a basketball game, a basket outside the $3$-point line scores $3$ points and inside scores $2$ points. Zhang Peng took $15$ shots, made $9$, had no free throws, and scored $21$ points. How many $3$-point baskets did he make?
+(Lesson: Practice 18, Problem 2) Written calculation: $528\div3$, $228\div6$, $504\div8$, $414\div9$.
 
-### Solution to Exercise 237
+### Solution to Exercise 6
 
-By **Definition 8.10.1 (Assumption Method)**, assume all $9$ baskets were $2$-pointers: score $9\times2=18$, short by $21-18=3$; each $3$-pointer scores $1$ more than a $2$-pointer, so $3$-pointers $3\div1=3$. $\blacksquare$
+By **Definition 6.8.1 (division by a one-digit divisor)**: $528\div3=176$, $228\div6=38$, $504\div8=63$, $414\div9=46$. $\blacksquare$
 
-## Exercise 238
+## Exercise 7
 
-(Lesson: Chickens and Rabbits in a Cage, Practice 24, Problem 6) A knowledge quiz: $10$ points for a correct answer and $6$ points deducted for a wrong one. (1) Contestant No. $3$ answered $8$ questions and scored $64$; how many correct? (2) Contestant No. $1$ answered $10$ questions and scored $36$; how many wrong? (3) Contestant No. $2$ answered $16$ questions and scored $16$; how many correct?
+(Lesson: Practice 18, Problem 3) A bird eats $665$ insects in one week ($7$ days); how many does it eat per day on average?
 
-### Solution to Exercise 238
+### Solution to Exercise 7
 
-By **Definition 8.10.1 (Assumption Method)**, a wrong answer loses $10+6=16$ points compared with a correct one: (1) assume all correct: $8\times10=80$, short by $80-64=16$, wrong $16\div16=1$, correct $7$; (2) assume all correct: $10\times10=100$, short by $100-36=64$, wrong $64\div16=4$; (3) assume all correct: $16\times10=160$, short by $160-16=144$, wrong $144\div16=9$, correct $16-9=7$. $\blacksquare$
+$665\div7=95$ (insects). $\blacksquare$
 
-## Exercise 239
+## Exercise 8
 
-(Lesson: Chickens and Rabbits in a Cage, Practice 24, Problem 7) Teacher Li buys $6$ basketballs and volleyballs altogether for $360$ yuan. A basketball is $62$ yuan and a volleyball $58$ yuan. How many of each?
+(Lesson: Practice 18, Problem 4) A square fish pond has side $6$ meters; what is its perimeter in meters? What is its water area in square meters?
 
-### Solution to Exercise 239
+### Solution to Exercise 8
 
-By **Definition 8.10.1 (Assumption Method)**, assume all are volleyballs: cost $6\times58=348$ yuan, short by $360-348=12$; each basketball is $62-58=4$ yuan more expensive, so basketballs $12\div4=3$ and volleyballs $6-3=3$. $\blacksquare$
+Perimeter $6\times4=24$ (meters), area $6\times6=36$ (square meters). $\blacksquare$
 
-## Exercise 240
+## Exercise 9
 
-(Lesson: Chickens and Rabbits in a Cage, Practice 24, Problem 8) A hundred monks and a hundred buns: $100$ monks eat $100$ buns; each big monk eats $3$ buns, and every $3$ little monks eat $1$ bun. How many big and little monks?
+(Lesson: Practice 18, Problem 5) (1) $3$ years $=\left(\ \ \right)$ months, $24$ months $=\left(\ \ \right)$ years. (2) Month $7$ has $\left(\ \ \right)$ days, and $15$ o'clock is $\left(\ \ \right)$ p.m. (3) Xiaoliang arrives at school at $8:10$ and leaves at $12:00$, and in the afternoon arrives at $2:00$ and leaves at $17:00$; how many hours and minutes is he at school all day?
 
-### Solution to Exercise 240
+### Solution to Exercise 9
 
-By **Definition 8.10.1 (Assumption Method)**, assume all are big monks: buns $100\times3=300$, an excess of $300-100=200$. Replacing $3$ big monks with $3$ little monks changes the buns from $9$ to $1$, saving $8$. Replace $200\div8=25$ groups, each with $3$ little monks, so little monks $25\times3=75$ and big monks $100-75=25$. $\blacksquare$
+(1) $3$ years $=36$ months, $24$ months $=2$ years. (2) Month $7$ has $31$ days, and $15$ o'clock is $3$ p.m. (3) Morning $3$ hours $50$ minutes, afternoon $3$ hours, totaling $6$ hours $50$ minutes. $\blacksquare$
+
+## Exercise 10
+
+(Lesson: Practice 18, Problem 6) Write the decimals pointed to by the arrows on the number line (graduations $0\sim5$).
+
+### Solution to Exercise 10
+
+By **Definition 6.7.1 (Decimals)**, each small division is $0.1$; count the divisions from the arrow's position and write the decimal. $\blacksquare$
+
+## Exercise 11
+
+(Lesson: Practice 18, Problem 7) Compute: $1.4-0.8$, $6+0.6$, $7.8+0.5$, $5.3-1.7$, $3.8-1.9$, $4.6+2.7$.
+
+### Solution to Exercise 11
+
+By **Definition 6.7.3 (lining up the decimal points)**: $0.6,6.6,8.3,3.6,1.9,7.3$. $\blacksquare$
+
+## Exercise 12
+
+(Lesson: Practice 18, Problem 8) Which of the following patterns are axisymmetric figures?
+
+### Solution to Exercise 12
+
+By **Definition 6.1.1 (axisymmetry)**, a pattern that folds along a straight line with both sides matching completely is axisymmetric; judge each one accordingly. $\blacksquare$
+
+## Exercise 13
+
+(Lesson: Practice 18, Problem 9) From figure $①$, which figure is obtained by translation and which by rotation?
+
+### Solution to Exercise 13
+
+By **Definition 6.1.2 (translation)** and **Definition 6.1.3 (rotation)**, translation does not change direction but only position, while rotation changes direction; choose the figures accordingly. $\blacksquare$
+
+## Exercise 14
+
+(Lesson: Practice 18, Problem 10) $4$ sheets of paper make $12$ paper planes. (1) How many do $6$ sheets make? (2) How many sheets are needed to make $24$?
+
+### Solution to Exercise 14
+
+Each sheet makes $12\div4=3$ (planes). (1) $3\times6=18$ (planes). (2) $24\div3=8$ (sheets). $\blacksquare$
+
+## Exercise 15
+
+(Lesson: Practice 18, Problem 11) There are $48$ refrigerators; a truck delivers $4$ at a time, $2$ times a day; how many days to finish?
+
+### Solution to Exercise 15
+
+Each day delivers $4\times2=8$ (units); $48\div8=6$ (days). $\blacksquare$
+
+## Exercise 16
+
+(Lesson: Practice 18, Problem 12) A deer walks for $15$ minutes: it is $1.6$ km from the rabbit's home, the rabbit to the calf is $0.8$ km, and the calf to the pony is $2.4$ km. (1) How far did the deer walk? (2) How far apart are the rabbit's home and the calf's home?
+
+### Solution to Exercise 16
+
+(1) $1.6+3.2+7.8=12.6$ (km). (2) Rabbit to calf $0.8+2.4=3.2$ (km). $\blacksquare$
+
+## Exercise 17
+
+(Lesson: Practice 18, Problem 13) A glass of length $2$ m and width $1$ m is cut into $8$ equal rectangles, each of length $5$ dm; what should the width be?
+
+### Solution to Exercise 17
+
+The glass area is $2\times1=2$ (square meters) $=200$ (square decimeters); each piece is $200\div8=25$ (square decimeters); the width is $25\div5=5$ (decimeters). $\blacksquare$
+
+## Exercise 18
+
+(Lesson: Practice 18, Problem 14) Originally $95$ sets of desks and chairs are produced per day, completing an order in $7$ days; now it is completed in $5$ days; how many more sets per day are produced on average than before?
+
+### Solution to Exercise 18
+
+The order totals $95\times7=665$ (sets); now per day $665\div5=133$ (sets); the extra is $133-95=38$ (sets). $\blacksquare$
+
+## Exercise 19
+
+(Lesson: Practice 18, Problem 15) Per $100$ g of soy milk contains carbohydrate $1.2$ g, protein $3$ g, fat $1.6$ g; milk contains $4.9$ g, $3.3$ g, $3.6$ g. (1) Complete the two-way tally table. (2) How much protein and fat are taken in from $200$ g of milk and $200$ g of soy milk?
+
+### Solution to Exercise 19
+
+(1) Fill the two-way table with the data. (2) $200$ g milk: protein $3.3\times2=6.6$ g, fat $3.6\times2=7.2$ g; $200$ g soy milk: protein $3\times2=6$ g, fat $1.6\times2=3.2$ g. $\blacksquare$
+
+## Exercise 20
+
+(Lesson: Practice 18, Problem 16) Two rectangular lawns of length $9$ m and width $6$ m overlap; in the overlap a square flower bed of side $3$ m is built. (1) What is the lawn area? (2) How long is the fence?
+
+### Solution to Exercise 20
+
+By **Definition 6.8.2 (the overlap problem)**, (1) $9\times6\times2-3\times3=108-9=99$ (square meters). (2) The fence length is computed around the outer perimeter of the figure. $\blacksquare$
+
+## Exercise 21
+
+(Lesson: Math Corner — Overlap Problem) In Class 2, Grade 3, $6$ people won awards in model aircraft and $6$ in robotics, among whom Luo Yang and Yang Ming won both. How many people in Class 2, Grade 3 won awards in total?
+
+### Solution to Exercise 21
+
+By **Definition 6.8.2 (the overlap problem)**, $6+6-2=10$ (people). $\blacksquare$

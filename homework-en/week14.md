@@ -1,138 +1,225 @@
 # week14
-> **Definition 2.6.1 (用加法解决问题)**
+> **Definition 2.3.1 (数数与数的组成)**
 > 
-> 知道两部分数量求总数, 用加法; 知道一个数和"比它多几", 求较大数, 也用加法.
-> **Definition 2.6.2 (用减法解决问题)**
+> $10$ 个一是 $1$ 个十, $10$ 个十是一百. 几个十和几个一合起来是几十几, 如 $4$ 个十和 $6$ 个一合起来是四十六.
+> **Definition 2.3.2 (数位)**
 > 
-> 知道总数和其中一部分求另一部分, 用减法; 求一个数比另一个数多 (少) 几, 用大数减小数.
-> **Definition 2.6.3 (比多少)**
+> 从右边起, 第一位是个位, 第二位是十位, 第三位是百位. 读数和写数都从高位起.
+> **Definition 2.3.3 (Comparing Two-digit Numbers)**
 > 
-> 求一个数比另一个数多 (或少) 多少, 用减法计算.
+> 比较两位数大小时, 先看十位上的数, 十位上数大的那个数就大; 十位相同再看个位.
+> **Definition 2.3.4 (多些与多得多)**
+> 
+> 两个数相差不大时说"大一些""小一些", 相差很大时说"大得多""小得多".
+> **Definition 2.3.5 (整十数加一位数及相应减法)**
+> 
+> 几个十和几个一合起来是几十几, 如 $30+2=32$, $32-2=30$, $32-30=2$.
+> **Definition 2.4.1 (口算加法)**
+> 
+> 口算加法把几个一和几个一相加, 几个十和几个十相加; 个位相加满十, 向十位进 $1$.
+> **Definition 2.4.2 (口算减法)**
+> 
+> 口算减法把几个一和几个一相减, 几个十和几个十相减; 个位不够减, 从十位退 $1$ 作 $10$ 再减.
+> **Definition 2.4.3 (用连减解决问题)**
+> 
+> "每几个装一份, 求能装满几份还剩几个", 可以 $8$ 个 $8$ 个地圈一圈, 也可以连续减.
 
-## Exercise 115
+## Exercise 1
 
-(Lesson: Addition-Subtraction Relationships Between Quantities, Introduction) There were originally $5$ boxes, and $1$ more was brought; how many boxes are there now? There are $3$ flowers on the left and $4$ flowers on the right; how many flowers in total?
+(Lesson: Understanding Numbers Within 100, Practice, Problem 1) Read the following numbers: No. $86$ Xingfu Road, calcium tablets $31$, $60$ tablets.
 
-### Solution to Exercise 115
+### Solution to Exercise 1
 
-By **Definition 2.6.1 (Solving Problems with Addition)**, both ask for the total from two parts: $5+1=6$ (boxes), $3+4=7$ (flowers). $\blacksquare$
+By **Definition 2.3.2 (Place Value)**, read as eighty-six, thirty-one, sixty. $\blacksquare$
 
-## Exercise 116
+## Exercise 2
 
-(Lesson: Addition-Subtraction Relationships Between Quantities, Introduction) There were originally some basketballs, $6$ were taken away, and $5$ remain; how many were there originally?
+(Lesson: Understanding Numbers Within 100, Practice, Problem 2) Say which round-ten number each of the following is closer to: $36$, $48$, $32$, $59$, $64$.
 
-### Solution to Exercise 116
+### Solution to Exercise 2
 
-By **Definition 2.6.1 (Solving Problems with Addition)**, combine the taken-away and the remaining: $6+5=11$ (basketballs). $\blacksquare$
+See which round-ten number it is closer to: $36$ is close to $40$, $48$ is close to $50$, $32$ is close to $30$, $59$ is close to $60$, $64$ is close to $60$. $\blacksquare$
 
-## Exercise 117
+## Exercise 3
 
-(Lesson: Comparing More and Less, Example 1) Class 1 got $12$ red flags, and Class 2 got $9$. How many more flags did Class 1 get than Class 2?
+(Lesson: Understanding Numbers Within 100, Practice, Problem 3) Card-drawing game: can form $58$ or $85$. (1) If two identical cards are drawn, which two-digit numbers can be formed? (2) If one card is "$7$", which two-digit numbers can be formed?
 
-### Solution to Exercise 117
+### Solution to Exercise 3
 
-By **Definition 2.6.2 (Solving Problems with Subtraction)**, remove the equal part: $12-9=3$ (flags); Class 1 got $3$ more flags than Class 2. $\blacksquare$
+By **Definition 2.3.2 (Place Value)**, (1) two identical cards can only form $11,22,...,99$; (2) if one card is $7$, can form $17,71,27,72,...,97,79$, etc. (the other card takes $1\sim9$ respectively). $\blacksquare$
 
-## Exercise 118
+## Exercise 4
 
-(Lesson: Comparing More and Less, Example 2) Class 1 got $12$ red flags, and Class 3 got $3$ more than Class 1. How many flags did Class 3 get?
+(Lesson: Mental Addition, Example 1) I wrote $26$ characters and still need to write $2$; how many characters in total? I wrote $20$ characters; how many characters have Xiaoliang and Xiaoli written in total?
 
-### Solution to Exercise 118
+### Solution to Exercise 4
 
-By **Definition 2.6.3 (Comparing More and Less)**, to find the number that is several more than a given number, use addition: $12+3=15$ (flags). $\blacksquare$
+By **Definition 2.4.1 (Mental Addition)**, $26+2=28$ (characters), $26+20=46$ (characters). The former adds $2$ ones, and the latter adds $2$ tens. $\blacksquare$
 
-## Exercise 119
+## Exercise 5
 
-(Lesson: Comparing More and Less, Example 3) Class 1 got $12$ red flags, and Class 4 got $4$ fewer than Class 1. How many flags did Class 4 get?
+(Lesson: Mental Addition, Try It) Calculate: $26+22$, $34+35$.
 
-### Solution to Exercise 119
+### Solution to Exercise 5
 
-By **Definition 2.6.3 (Comparing More and Less)**, to find the number that is several less than a given number, use subtraction: $12-4=8$ (flags). $\blacksquare$
+By **Definition 2.4.1 (Mental Addition)**, add the ones and tens separately: $26+22=48$, $34+35=69$. $\blacksquare$
 
-## Exercise 120
+## Exercise 6
 
-(Lesson: Comparing More and Less, Example 4) Mom participated in $14$ volunteer activities, and Xiaohong participated in $5$ fewer than Mom. How many did Xiaohong participate in? How many did Mom and Xiaohong participate in together?
+(Lesson: Mental Addition, Do It, Problem 1) Compare and calculate: $7+21$, $64+3$, $51+6$, $24+30$; $70+21$, $64+30$, $51+46$, $24+33$.
 
-### Solution to Exercise 120
+### Solution to Exercise 6
 
-By **Definition 2.6.3 (Comparing More and Less)** and **Definition 2.6.1 (Solving Problems with Addition)**, first find Xiaohong: $14-5=9$ (times), then find the total: $14+9=23$ (times). $\blacksquare$
+By **Definition 2.4.1 (Mental Addition)**: $7+21=28$, $64+3=67$, $51+6=57$, $24+30=54$; $70+21=91$, $64+30=94$, $51+46=97$, $24+33=57$. $\blacksquare$
 
-## Exercise 121
+## Exercise 7
 
-(Lesson: Comparing More and Less, Do It, Problem 1) Xiaoxin picked $32$ shells, and Xiaoliang picked $25$. How many more shells did Xiaoxin pick than Xiaoliang?
+(Lesson: Mental Addition, Example 2) How many bottles of mineral water in total? $28+5=\square$.
 
-### Solution to Exercise 121
+### Solution to Exercise 7
 
-By **Definition 2.6.2 (Solving Problems with Subtraction)**: $32-25=7$ (shells). $\blacksquare$
+By **Definition 2.4.1 (Mental Addition)**, the ones $8+5=13$ reaches ten and carry $1$: $28+5=33$. $\blacksquare$
 
-## Exercise 122
+## Exercise 8
 
-(Lesson: Comparing More and Less, Do It, Problem 2) Xiaolan raised $14$ silkworms, and Xiaoning raised $8$. How many more did Xiaolan raise than Xiaoning? How many fewer did Xiaoning raise than Xiaolan?
+(Lesson: Mental Addition, Do It, Problem 2) Place and calculate: $27+4$, $36+8$.
 
-### Solution to Exercise 122
+### Solution to Exercise 8
 
-By **Definition 2.6.2 (Solving Problems with Subtraction)**: $14-8=6$; Xiaolan raised $6$ more than Xiaoning, and Xiaoning raised $6$ fewer than Xiaolan. $\blacksquare$
+By **Definition 2.4.1 (Mental Addition)**, the ones reach ten and carry $1$: $27+4=31$, $36+8=44$. $\blacksquare$
 
-## Exercise 123
+## Exercise 9
 
-(Lesson: Comparing More and Less, Do It, Problem 3) There are $45$ boxes of apples, pears are $17$ boxes more than apples, and oranges are $8$ boxes fewer than apples. How many boxes of pears? What about oranges?
+(Lesson: Mental Addition, Practice, Problem 1) Calculate: $23+4$, $58+40$, $64+32$, $5+31$; $37+8$, $20+67$, $45+43$, $6+77$.
 
-### Solution to Exercise 123
+### Solution to Exercise 9
 
-By **Definition 2.6.3 (Comparing More and Less)**: pears $45+17=62$ (boxes), oranges $45-8=37$ (boxes). $\blacksquare$
+By **Definition 2.4.1 (Mental Addition)**: $23+4=27$, $58+40=98$, $64+32=96$, $5+31=36$; $37+8=45$, $20+67=87$, $45+43=88$, $6+77=83$. $\blacksquare$
 
-## Exercise 124
+## Exercise 10
 
-(Lesson: Comparing More and Less, Do It, Problem 4) There are $84$ pumpkins; Uncle Li transported away $40$, how many remain? Uncle Wang then transported away $26$, how many remain?
+(Lesson: Mental Addition, Practice, Problem 2) Are the following calculations correct? Correct the incorrect ones: $23+8=21$, $67+2=87$, $59+2=61$, $5+47=97$.
 
-### Solution to Exercise 124
+### Solution to Exercise 10
 
-By **Definition 2.6.2 (Solving Problems with Subtraction)**: $84-40=44$ (pumpkins), $44-26=18$ (pumpkins). $\blacksquare$
+By **Definition 2.4.1 (Mental Addition)**, correct: $23+8=31$, $67+2=69$, $5+47=52$; $59+2=61$ is correct. $\blacksquare$
 
-## Exercise 125
+## Exercise 11
 
-(Lesson: Comparing More and Less, Do It, Problem 5) Xiaoming has $28$ story books, and science books are $6$ more than story books. How many science books? How many story and science books in total?
+(Lesson: Mental Addition, Solve the Problem, Problem 1) There were originally $16$ mineral water bottles, and $11$ more were put in; how many are there now?
 
-### Solution to Exercise 125
+### Solution to Exercise 11
 
-By **Definition 2.6.3 (Comparing More and Less)** and **Definition 2.6.1 (Solving Problems with Addition)**: science books $28+6=34$ (books), total $28+34=62$ (books). $\blacksquare$
+By **Definition 2.4.1 (Mental Addition)**: $16+11=27$ (bottles). $\blacksquare$
 
-## Exercise 126
+## Exercise 12
 
-(Lesson: Addition-Subtraction Relationships Between Quantities, Review and Organization, Practice) Haohao wiped $12$ desks, and Jiajia wiped $9$ desks and $6$ chairs. (1) How many desks did Jiajia and Haohao wipe in total? (2) How many more desks did Haohao wipe than Jiajia?
+(Lesson: Mental Addition, Solve the Problem, Problem 2) There are $8$ swans and $25$ wild ducks; how many wild ducks and swans in total?
 
-### Solution to Exercise 126
+### Solution to Exercise 12
 
-"$6$ chairs" is irrelevant to desks. (1) By **Definition 2.6.1 (Solving Problems with Addition)**: $12+9=21$ (desks). (2) By **Definition 2.6.2 (Solving Problems with Subtraction)**: $12-9=3$ (desks). $\blacksquare$
+By **Definition 2.4.1 (Mental Addition)**: $25+8=33$ (birds). $\blacksquare$
 
-## Exercise 127
+## Exercise 13
 
-(Lesson: Addition-Subtraction Relationships Between Quantities, Practice, Problem 1) In $2020$ China conducted $39$ space launches, and $2021$ was $16$ more than $2020$. How many launches in $2021$?
+(Lesson: Mental Subtraction, Example 1) There are $35$ story books, and $2$ are lent out; how many remain? There are $35$ science books, and $20$ are lent out; how many remain?
 
-### Solution to Exercise 127
+### Solution to Exercise 13
 
-By **Definition 2.6.3 (Comparing More and Less)**: $39+16=55$ (launches). $\blacksquare$
+By **Definition 2.4.2 (Mental Subtraction)**: $35-2=33$ (books), $35-20=15$ (books). The former subtracts $2$ ones, and the latter subtracts $2$ tens. $\blacksquare$
 
-## Exercise 128
+## Exercise 14
 
-(Lesson: Addition-Subtraction Relationships Between Quantities, Practice, Problem 2) Artificial incubation of ducklings takes $28$ days. (1) Incubating chicks uses $7$ days fewer than ducklings; how many days for chicks? (2) Incubating goslings uses $9$ days more than chicks; how many days for goslings?
+(Lesson: Mental Subtraction, Try It) Calculate: $35-22$, $76-45$.
 
-### Solution to Exercise 128
+### Solution to Exercise 14
 
-By **Definition 2.6.3 (Comparing More and Less)**: (1) $28-7=21$ (days); (2) $21+9=30$ (days). $\blacksquare$
+By **Definition 2.4.2 (Mental Subtraction)**: $35-22=13$, $76-45=31$. $\blacksquare$
 
-## Exercise 129
+## Exercise 15
 
-(Lesson: Addition-Subtraction Relationships Between Quantities, Practice, Problem 3) The art interest group has $24$ boys, and girls are $7$ fewer than boys. How many girls? How many in the art group in total?
+(Lesson: Mental Subtraction, Do It, Problem 1) Compare and calculate: $76-4$, $87-3$, $68-5$, $99-9$; $87-30$, $68-50$, $76-40$, $99-90$.
 
-### Solution to Exercise 129
+### Solution to Exercise 15
 
-By **Definition 2.6.3 (Comparing More and Less)** and **Definition 2.6.1 (Solving Problems with Addition)**: girls $24-7=17$ (people), total $24+17=41$ (people). $\blacksquare$
+By **Definition 2.4.2 (Mental Subtraction)**: $76-4=72$, $87-3=84$, $68-5=63$, $99-9=90$; $87-30=57$, $68-50=18$, $76-40=36$, $99-90=9$. $\blacksquare$
 
-## Exercise 130
+## Exercise 16
 
-(Lesson: Addition-Subtraction Relationships Between Quantities, Practice, Problem 4) Can you tell a "comparing more and less" math story? Represent it using your favorite method.
+(Lesson: Mental Subtraction, Example 2) There are $36$ soccer balls in total, and $8$ are borrowed; how many remain? $36-8=\square$.
 
-### Solution to Exercise 130
+### Solution to Exercise 16
 
-Make up a story about who has how many more or fewer than whom, and represent the quantitative relationship by drawing or writing an expression; e.g. "Xiaohong has $10$ flowers, Xiaoming has $3$ fewer than her, Xiaoming has $7$." $\blacksquare$
+By **Definition 2.4.2 (Mental Subtraction)**, the ones $6$ minus $8$ is not enough; borrow $1$ from $30$ as $10$: $16-8=8$, giving $36-8=28$. $\blacksquare$
+
+## Exercise 17
+
+(Lesson: Mental Subtraction, Do It, Problem 2) Circle and calculate: $32-5$, $44-9$, $30-6$.
+
+### Solution to Exercise 17
+
+By **Definition 2.4.2 (Mental Subtraction)**: $32-5=27$, $44-9=35$, $30-6=24$. $\blacksquare$
+
+## Exercise 18
+
+(Lesson: Mental Subtraction, Do It, Problem 3) Calculate: $35-5$, $40-7$, $74-2$, $56-4$; $35-9$, $40-3$, $74-5$, $56-8$.
+
+### Solution to Exercise 18
+
+By **Definition 2.4.2 (Mental Subtraction)**: $35-5=30$, $40-7=33$, $74-2=72$, $56-4=52$; $35-9=26$, $40-3=37$, $74-5=69$, $56-8=48$. $\blacksquare$
+
+## Exercise 19
+
+(Lesson: Mental Subtraction, Example 3) $26$ oranges, $8$ per bag; how many bags can be filled? How many remain?
+
+### Solution to Exercise 19
+
+By **Definition 2.4.3 (Solving Problems with Continuous Subtraction)**, $26-8-8-8=2$; $3$ bags can be filled, and $2$ remain. $\blacksquare$
+
+## Exercise 20
+
+(Lesson: Mental Subtraction, Do It) $40$ badminton balls, $12$ per tube; how many tubes can be filled? How many remain?
+
+### Solution to Exercise 20
+
+By **Definition 2.4.3 (Solving Problems with Continuous Subtraction)**, $40-12-12-12=4$; $3$ tubes can be filled, and $4$ remain. $\blacksquare$
+
+## Exercise 21
+
+(Lesson: Mental Subtraction, Practice, Problem 1) First say the tens digit of the result, then calculate: $84-6$, $60-3$, $92-7$, $53-4$; $84-60$, $60-30$, $92-70$, $53-40$.
+
+### Solution to Exercise 21
+
+By **Definition 2.4.2 (Mental Subtraction)**: $84-6=78$, $60-3=57$, $92-7=85$, $53-4=49$; $84-60=24$, $60-30=30$, $92-70=22$, $53-40=13$. $\blacksquare$
+
+## Exercise 22
+
+(Lesson: Mental Subtraction, Practice, Problem 2) Subtract $7$ from $70$ consecutively, and write the difference each time.
+
+### Solution to Exercise 22
+
+By **Definition 2.4.2 (Mental Subtraction)**: $70$, $63$, $56$, $49$, $42$, $35$, $28$, $21$, $14$, $7$, $0$. $\blacksquare$
+
+## Exercise 23
+
+(Lesson: Mental Subtraction, Solve the Problem) There were originally $68$ boxes, and $12$ remain; how many boxes were transported away?
+
+### Solution to Exercise 23
+
+By **Definition 2.4.2 (Mental Subtraction)**: $68-12=56$ (boxes). $\blacksquare$
+
+## Exercise 24
+
+(Lesson: Mental Subtraction, Solve the Problem) Dad bought $3$ bags of apples, $6$ per bag; how many apples did he buy in total?
+
+### Solution to Exercise 24
+
+$6+6+6=18$ (apples). $\blacksquare$
+
+## Exercise 25
+
+(Lesson: Mental Addition and Subtraction Within 100, Practice) Today $42$ parents are coming, and $30$ chairs have already been set out; how many more chairs are needed?
+
+### Solution to Exercise 25
+
+By **Definition 2.4.2 (Mental Subtraction)**: $42-30=12$ (chairs). $\blacksquare$

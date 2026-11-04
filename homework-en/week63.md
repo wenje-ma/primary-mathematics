@@ -1,261 +1,225 @@
 # week63
-> **Definition 8.4.1 (小数的意义和计数单位)**
+> **Definition 6.3.1 (多边形)**
 > 
-> 把整体 1 平均分成 10 份,100 份,1000 份, 这样的一份或几份可以用分母是 10,100,1000 的分数来表示, 也可以用小数表示.
-> **Definition 8.6.1 (小数加减法)**
+> 由线段围成的封闭图形是多边形, 有几条边就有几个角. 三角形有 $3$ 条边, 四边形有 $4$ 条边, 五边形有 $5$ 条边, 六边形有 $6$ 条边. 每条边都相等的多边形叫正多边形.
+> **Definition 6.3.2 (长方形和正方形的特征)**
 > 
-> 探索图形的运动,理 解轴对称和平移的特点. 同样,小数对你来说也并不是新知识,但小数的意义和性质, 小数加减法的计算方法却能让你感受到学习新知识的愉悦. 编 者 的 话 上学期你刚刚学习了单式条形统计图,本学期将在此基础上进 一步认识复式条形统计图.同时,你还将初步认识平均数,了解平 均数在生活中的广泛应用. 本次数学之旅不仅能使你加深对数与运算的理解,还能使你感 受到图形运动之美.让我们和聪聪一起出发吧! 1 m 编者的话 每一个学期的数学旅程,都既要温习已知,又要求索 新知. 通过多个学期的学习,你已经掌握了整数的四则运算.在本学 期,总结整数四则运算的意义和运算律就成了新的任务. 包括三角形在内的平面图形对你来说并不陌生,在本学期,你 将要学习更多有关三角形的知识,同时进一步探索图形的运动,理 解轴对称和平移的特点. 同样,小数对你来说也并不是新知识,但小数的意义和性质, 小数加减法的计算方法却能让你感受到学习新知识的愉悦 1 m 上学期你刚刚学习了单式条形统计图,本学期将
-> **Definition 8.6.2 (小数加减混合运算的顺序)**
+> 长方形对边相等, 有 $4$ 个直角; 正方形 $4$ 条边都相等, 有 $4$ 个直角. 把长方形折出最大的正方形, 正方形的边长正好等于长方形的宽.
+> **Definition 6.3.3 (周长)**
 > 
-> 在没有括号的算式里, 有乘除法和加减法, 要先算乘除法; 算式里有括号, 要先算括号里面的.
-> **Definition 8.6.3 (整数加法运算律推广到小数)**
+> 封闭图形一周的长度, 是它的周长.
+> **Definition 6.3.4 (长方形和正方形的周长)**
 > 
-> 整数加法的交换律, 结合律对小数加法同样适用, 应用运算律可以使一些小数计算更简便.
+> 参见教材相应章节关于此概念的论述.
+> **Definition 6.4.1 (面积)**
+> 
+> 物体表面或封闭图形的大小, 是它们的面积. 比较面积大小要用统一的面积单位去测量, 看含有多少个这样的单位.
+> **Definition 6.4.2 (面积单位)**
+> 
+> 常用面积单位有平方厘米 ($cm^2$), 平方分米 ($dm^2$), 平方米 ($m^2$). 边长 $1$ 厘米的正方形面积是 $1$ 平方厘米, 边长 $1$ 分米的正方形面积是 $1$ 平方分米, 边长 $1$ 米的正方形面积是 $1$ 平方米.
+> **Definition 6.4.3 (长方形和正方形的面积)**
+> 
+> 长方形面积 $=$ 长$\times$宽; 正方形面积 $=$ 边长$\times$边长. 求面积看它包含多少个面积单位.
+> **Definition 6.4.4 (面积单位间的进率)**
+> 
+> 相邻两个常用面积单位间的进率是 $100$: $1$ 平方分米 $=100$ 平方厘米, $1$ 平方米 $=100$ 平方分米.
 
-## Exercise 167
+## Exercise 1
 
-(Lesson: Adding and Subtracting Decimals, Try It) Calculate the following and check: $2.98+0.56$; $12.53+4.67$; $6.07+4.89$; $5.64-1.78$; $7.2-0.8$; $15.62-7.46$.
+(Lesson: Practice 9, Problem 1) Measure and fill in: head circumference, chest circumference, waist circumference (cm).
 
-### Solution to Exercise 167
+### Solution to Exercise 1
 
-By **Definition 8.6.1 (How to Add and Subtract Decimals)**, align the decimal points: $2.98+0.56=3.54$; $12.53+4.67=17.20=17.2$; $6.07+4.89=10.96$; $5.64-1.78=3.86$; $7.2-0.8=6.4$; $15.62-7.46=8.16$. $\blacksquare$
+By **Definition 6.3.3 (周长)**, use a tape measure to go once around the head, chest and waist, and fill in each length. $\blacksquare$
 
-## Exercise 168
+## Exercise 2
 
-(Lesson: Adding and Subtracting Decimals, Try It) Xiao Ming's weight: at age $7$ $26.7\,\mathrm{kg}$, at age $8$ $30.6\,\mathrm{kg}$, at age $9$ $34.5\,\mathrm{kg}$, at age $10$ $38.8\,\mathrm{kg}$. (1) From age $7$ to age $10$, how much weight was gained? (2) Which year saw the largest increase over the previous year?
+(Lesson: Practice 9, Problem 2) The sides of the park map are $150,20,100,80,180$ meters; about how many meters does Grandma Wang walk in one loop around the park?
 
-### Solution to Exercise 168
+### Solution to Exercise 2
 
-(1) $38.8-26.7=12.1$ ($\mathrm{kg}$). (2) Each year's increase: $30.6-26.7=3.9$, $34.5-30.6=3.9$, $38.8-34.5=4.3$; the year at age $9$ saw the largest increase, gaining $4.3\,\mathrm{kg}$. $\blacksquare$
+By **Definition 6.3.3 (周长)**, add the sides: $150+20+100+80+180=530$ (meters). $\blacksquare$
 
-## Exercise 169
+## Exercise 3
 
-(Lesson: Adding and Subtracting Decimals, Try It) Calculate the following and check: $12+0.5$; $12.56+5.8$; $113.04+7.8$; $27-0.8$; $16.4-3.2$; $0.3-0.18$.
+(Lesson: Practice 9, Problem 3) First measure, then compute the perimeter.
 
-### Solution to Exercise 169
+### Solution to Exercise 3
 
-By **Definition 8.6.1 (align the decimal points and pad with $0$ when digits are lacking)**: $12+0.5=12.5$; $12.56+5.8=18.36$; $113.04+7.8=120.84$; $27-0.8=26.2$; $16.4-3.2=13.2$; $0.3-0.18=0.12$. $\blacksquare$
+By **Definition 6.3.3 (周长)** and **Definition 6.3.4 (长方形和正方形的周长)**, after measuring the sides, use (length$+$width)$\times2$ for a rectangle, side$\times4$ for a square, and add the sides for other figures. $\blacksquare$
 
-## Exercise 170
+## Exercise 4
 
-(Lesson: Adding and Subtracting Decimals, Practice 17, Problem 1) Mental arithmetic: $2.5+0.9$; $7.8+1.6$; $0.39+0.15$; $1.2-0.5$; $4.7-2.8$; $0.96-0.33$.
+(Lesson: Practice 9, Problem 4) Use a compass and straightedge to compare the perimeters of the two figures below.
 
-### Solution to Exercise 170
+### Solution to Exercise 4
 
-$2.5+0.9=3.4$; $7.8+1.6=9.4$; $0.39+0.15=0.54$; $1.2-0.5=0.7$; $4.7-2.8=1.9$; $0.96-0.33=0.63$. $\blacksquare$
+By **Definition 6.3.3 (周长)**, use the compass to lay each figure's perimeter into a segment, then compare the two segments. $\blacksquare$
 
-## Exercise 171
+## Exercise 5
 
-(Lesson: Adding and Subtracting Decimals, Practice 17, Problem 2) Calculate and check: $3.64+0.48$; $21.56+6.74$; $7.85+9.19$; $41.2-15.6$; $8.24-3.56$; $11.65-7.39$.
+(Lesson: Practice 9, Problem 5) A basketball court is $28$ m long and $15$ m wide. What is its perimeter in meters?
 
-### Solution to Exercise 171
+### Solution to Exercise 5
 
-By **Definition 8.6.1 (Adding and Subtracting Decimals)**: $3.64+0.48=4.12$; $21.56+6.74=28.30$; $7.85+9.19=17.04$; $41.2-15.6=25.6$; $8.24-3.56=4.68$; $11.65-7.39=4.26$. $\blacksquare$
+By **Definition 6.3.4 (长方形和正方形的周长)**, $\left(28+15\right)\times2=86$ (meters). $\blacksquare$
 
-## Exercise 172
+## Exercise 6
 
-(Lesson: Adding and Subtracting Decimals, Practice 17, Problem 3) How many kilograms of water are in the cup? (The cup plus water weigh a known amount, and the empty cup's weight is known.)
+(Lesson: Practice 9, Problem 6) Are the perimeters of the figures in each group below the same? How do you reason?
 
-### Solution to Exercise 172
+### Solution to Exercise 6
 
-By **Definition 8.6.1 (Subtracting Decimals)**, the water's mass is the total mass of cup and water minus the empty cup's mass. Subtract using the data in the figure. $\blacksquare$
+By **Definition 6.3.3 (周长)**, add up each figure's side lengths to compare. Figures of different shape with the same total outer side length have the same perimeter; otherwise they differ, and the one with more (or longer) sides has the longer perimeter. $\blacksquare$
 
-## Exercise 173
+## Exercise 7
 
-(Lesson: Adding and Subtracting Decimals, Practice 17, Problem 4) Xiao Li's phone and broadband bills: phone bill in month $4$ $83.54$ yuan, in month $5$ $79.26$ yuan; broadband $80.00$ yuan per month. Complete the subtotals and grand total.
+(Lesson: Practice 9, Problem 7) A rectangular vegetable plot is $6$ m long and $3$ m wide. How many meters of fence are needed to enclose all four sides? If one side is against a wall, how many meters of fence are needed at minimum?
 
-### Solution to Exercise 173
+### Solution to Exercise 7
 
-Month $4$ subtotal $83.54+80=163.54$ yuan; month $5$ subtotal $79.26+80=159.26$ yuan; phone bill total $83.54+79.26=162.80$ yuan; the two-month grand total $163.54+159.26=322.80$ yuan. $\blacksquare$
+All four sides: $\left(6+3\right)\times2=18$ (meters). To minimize with one side against a wall, put the long side against the wall, needing only $6+3+3=12$ (meters). $\blacksquare$
 
-## Exercise 174
+## Exercise 8
 
-(Lesson: Adding and Subtracting Decimals, Practice 17, Problem 6) Are the following calculations correct? Correct the wrong ones.
+(Lesson: Practice 9, Problem 8) Fill the table: exercise book length $21$ cm width $15$ cm, find the perimeter; desk length $7$ dm perimeter $24$ dm, find the width; blackboard width $1$ m perimeter $10$ m, find the length.
 
-### Solution to Exercise 174
+### Solution to Exercise 8
 
-By **Definition 8.6.1 (the decimal points must be aligned)**, check each vertical calculation; wherever the decimal points are not aligned or there is an error in carrying or borrowing, correct it. $\blacksquare$
+Exercise book perimeter $\left(21+15\right)\times2=72$ (cm); desk width $24\div2-7=5$ (dm); blackboard length $10\div2-1=4$ (m). $\blacksquare$
 
-## Exercise 175
+## Exercise 9
 
-(Lesson: Adding and Subtracting Decimals, Practice 17, Problem 7) Calculate the following with decimals: $5$ yuan $6$ jiao $2$ fen $+3$ yuan and $9$ fen; $1\,\mathrm{t}\,30\,\mathrm{kg}+980\,\mathrm{kg}$; $4\,\mathrm{m}\,35\,\mathrm{cm}+5\,\mathrm{m}\,70\,\mathrm{cm}$; $10\,\mathrm{kg}-4\,\mathrm{kg}\,800\,\mathrm{g}$; $4\,\mathrm{km}\,800\,\mathrm{m}-3\,\mathrm{km}\,50\,\mathrm{m}$; $6\,\mathrm{km}-2\,\mathrm{km}\,860\,\mathrm{m}$.
+(Lesson: Practice 9, Problem 9) A square tabletop has a perimeter of $320$ cm. What is its side length in cm?
 
-### Solution to Exercise 175
+### Solution to Exercise 9
 
-First convert to decimals, then calculate by **Definition 8.6.1 (Decimal Addition/Subtraction)**: $5.62+3.09=8.71$ yuan; $1.03+0.98=2.01\,\mathrm{t}$; $4.35+5.70=10.05\,\mathrm{m}$; $10-4.8=5.2\,\mathrm{kg}$; $4.8-3.05=1.75\,\mathrm{km}$; $6-2.86=3.14\,\mathrm{km}$. $\blacksquare$
+By **Definition 6.3.4 (长方形和正方形的周长)**, the side length is $=320\div4=80$ (cm). $\blacksquare$
 
-## Exercise 176
+## Exercise 10
 
-(Lesson: Adding and Subtracting Decimals, Practice 17, Problem 8) Buying one soccer ball and one volleyball, the ball prices are $58.00$ yuan, $75.80$ yuan, $45.50$ yuan, $92.50$ yuan. How can you buy them? How much should you pay?
+(Lesson: Practice 9, Problem 10) A rectangle is $4$ cm wide, and its length is $3$ times its width. What is its perimeter in cm?
 
-### Solution to Exercise 176
+### Solution to Exercise 10
 
-Choose one soccer ball and one volleyball from the $4$ balls and add the two prices, e.g. $58+45.50=103.50$ yuan, $58+92.50=150.50$ yuan, $75.80+45.50=121.30$ yuan, $75.80+92.50=168.30$ yuan; the answer is not unique. $\blacksquare$
+The length is $=4\times3=12$ (cm), perimeter $\left(12+4\right)\times2=32$ (cm). $\blacksquare$
 
-## Exercise 177
+## Exercise 11
 
-(Lesson: Adding and Subtracting Decimals, Practice 17, Problem 9) By how much do the Chinese and world records differ in each women's track event? (high jump $1.97$ vs $2.09$, long jump $7.01$ vs $7.52$, shot put $21.76$ vs $22.63$, discus $71.68$ vs $76.80$, javelin $67.98$ vs $72.28$, $100\,\mathrm{m}$ $10.79$s vs $10.49$s.)
+(Lesson: Practice 9, Problem 11) Using $6$ small squares of side $2$ cm to form a new rectangle, how to arrange for the smallest perimeter? To form a square, at least how many more small squares are needed? What is the perimeter of the square formed?
 
-### Solution to Exercise 177
+### Solution to Exercise 11
 
-By **Definition 8.6.1 (Subtracting Decimals)**, subtract the Chinese record from the world record: high jump $2.09-1.97=0.12\,\mathrm{m}$; long jump $7.52-7.01=0.51\,\mathrm{m}$; shot put $22.63-21.76=0.87\,\mathrm{m}$; discus $76.80-71.68=5.12\,\mathrm{m}$; javelin $72.28-67.98=4.30\,\mathrm{m}$; $100\,\mathrm{m}$ $10.79-10.49=0.30$s. $\blacksquare$
+$6=1\times6=2\times3$. Arranged in $2$ rows of $3$ each (length $6$ cm width $4$ cm), the perimeter $\left(6+4\right)\times2=20$ cm is smallest. To form a square needs $3\times3=9$, adding at least $9-6=3$ more; the square has side $6$ cm and perimeter $6\times4=24$ cm. $\blacksquare$
 
-## Exercise 178
+## Exercise 12
 
-(Lesson: Adding and Subtracting Decimals, Practice 17, Problem 10) Find the pattern and fill in: (1) $0.2,0.4,0.6,0.8$, ___, ___; (2) $1.11,1.16,1.21,1.26$, ___, ___; (3) $4.363,4.366,4.369,4.372$, ___, ___; (4) $7.897,7.892,7.887,7.882$, ___, ___.
+(Lesson: Practice 9, Problem 12) Paste $18$ square artworks of side $2$ dm into a rectangular "art gallery", with a border around the edge; how to design it to minimize the border?
 
-### Solution to Exercise 178
+### Solution to Exercise 12
 
-(1) Add $0.2$ each time: $1.0,1.2$; (2) add $0.05$ each time: $1.31,1.36$; (3) add $0.003$ each time: $4.375,4.378$; (4) subtract $0.005$ each time: $7.877,7.872$. $\blacksquare$
+$18=1\times18=2\times9=3\times6$; arranged in $3$ rows of $6$ each, closest to a square, the length is $6\times2=12$ dm, width $3\times2=6$ dm, and the border $\left(12+6\right)\times2=36$ dm is minimal. $\blacksquare$
 
-## Exercise 179
+## Exercise 13
 
-(Lesson: Mixed Addition and Subtraction of Decimals, Try It) Calculate: $0.38+0.26+2.6$; $5.7-0.81-1.29$; $98.2+32.5-13.4$.
+(Lesson: Practice 9, Problem 13) Use a $22$-cm string to enclose a rectangle; what are the length and width? How many ways?
 
-### Solution to Exercise 179
+### Solution to Exercise 13
 
-By **Definition 8.6.2 (Mixed Addition and Subtraction of Decimals)**: $0.38+0.26+2.6=3.24$; $5.7-0.81-1.29=5.7-2.1=3.6$; $98.2+32.5-13.4=117.3$. $\blacksquare$
+length$+$width$=22\div2=11$ (cm), taking length$\geqslant$width: length $10$ width $1$, length $9$ width $2$, length $8$ width $3$, length $7$ width $4$, length $6$ width $5$, $5$ ways in total. $\blacksquare$
 
-## Exercise 180
+## Exercise 14
 
-(Lesson: Mixed Addition and Subtraction of Decimals, Practice 18, Problem 1) Mental arithmetic: $0.4+8.7$; $4.5+3.6$; $0.28+0.54$; $1.4-0.9$; $7.1-3.5$; $5-2.7$.
+(Lesson: Practice 9, Problem 14) A $48$-cm wire is cut equally into two pieces, one enclosing a rectangle and the other a square. (1) What is the square's side? (2) The rectangle's length is $2$ times its width; what are the length and width?
 
-### Solution to Exercise 180
+### Solution to Exercise 14
 
-$0.4+8.7=9.1$; $4.5+3.6=8.1$; $0.28+0.54=0.82$; $1.4-0.9=0.5$; $7.1-3.5=3.6$; $5-2.7=2.3$. $\blacksquare$
+Each piece is $48\div2=24$ (cm). (1) The square's side is $24\div4=6$ (cm). (2) The rectangle's length$+$width$=12$, the length is $2$ times the width, width $12\div3=4$ (cm), length $8$ cm. $\blacksquare$
 
-## Exercise 181
+## Exercise 15
 
-(Lesson: Mixed Addition and Subtraction of Decimals, Practice 18, Problem 2) Calculate: $16.8+5.47$; $21.6-9.86$.
+(Lesson: Practice 9, Problem 15) A rectangular sheet of paper is divided into two parts; which part has the longer perimeter?
 
-### Solution to Exercise 181
+### Solution to Exercise 15
 
-By **Definition 8.6.1 (align the decimal points)**: $16.8+5.47=22.27$; $21.6-9.86=11.74$. $\blacksquare$
+By **Definition 6.3.3 (周长)**, each part's perimeter includes one length and one width of the original rectangle as well as the shared cut line; if the cut lines are the same, the two perimeters are equal; otherwise compare the sum of each part's outer sides. $\blacksquare$
 
-## Exercise 182
+## Exercise 16
 
-(Lesson: Mixed Addition and Subtraction of Decimals, Practice 18, Problem 3) Calculate: $7.02+11.38+20.96$; $12.45-1.96-0.8$; $19.92+14.4-9.92$; $85.7-\left(15.3-4.8\right)$; $40-\left(2.75+0.86\right)$; $9.5+4.85-6.13$.
+(Lesson: Practice 9, Problem 16) Compute the perimeter of the combined figure below (unit: cm).
 
-### Solution to Exercise 182
+### Solution to Exercise 16
 
-By **Definition 8.6.2 (order of mixed operations)**: $7.02+11.38+20.96=39.36$; $12.45-1.96-0.8=9.69$; $19.92+14.4-9.92=24.4$; $85.7-\left(15.3-4.8\right)=85.7-10.5=75.2$; $40-\left(2.75+0.86\right)=40-3.61=36.39$; $9.5+4.85-6.13=8.22$. $\blacksquare$
+By **Definition 6.3.3 (周长)**, add up the outer sides of the combined figure in order (the recessed sides also count) to get the total length around. $\blacksquare$
 
-## Exercise 183
+## Exercise 17
 
-(Lesson: Mixed Addition and Subtraction of Decimals, Practice 18, Problem 4) The Earth's surface area is about $5.1$ hundred million square kilometers, of which land is about $1.49$ hundred million square kilometers. By how many hundred million square kilometers is the ocean area greater than the land area?
+(Lesson: Practice 10, Problem 1) A rectangular paper of length $36$ cm is cut exactly into two identical squares. What is the perimeter of one square? What is the perimeter of the rectangular paper?
 
-### Solution to Exercise 183
+### Solution to Exercise 17
 
-The ocean area is $5.1-1.49=3.61$ (hundred million square kilometers), greater than the land by $3.61-1.49=2.12$ (hundred million square kilometers). $\blacksquare$
+The rectangle's length is two square side lengths; the square side is $36\div2=18$ (cm), square perimeter $18\times4=72$ (cm); the rectangle's width is $18$ cm, perimeter $\left(36+18\right)\times2=108$ (cm). $\blacksquare$
 
-## Exercise 184
+## Exercise 18
 
-(Lesson: Mixed Addition and Subtraction of Decimals, Practice 18, Problem 5) A pair of sneakers costs $78$ yuan and a jump rope $13.6$ yuan. How much do these two items cost together? If you pay $100$ yuan, how much change should you get?
+(Lesson: Practice 10, Problem 2) What routes are there from Xiaoling's home to school? Which is shorter? Which is longer?
 
-### Solution to Exercise 184
+### Solution to Exercise 18
 
-Together $78+13.6=91.6$ (yuan); paying $100$ yuan gives change $100-91.6=8.4$ (yuan). $\blacksquare$
+By **Definition 6.3.3 (周长)**, add up each segment of each route, compare the total lengths; the smaller sum is shorter and the larger sum longer. $\blacksquare$
 
-## Exercise 185
+## Exercise 19
 
-(Lesson: Mixed Addition and Subtraction of Decimals, Practice 18, Problem 6) In a high-jump competition, Zhang Ying jumped $1.1\,\mathrm{m}$, Wang Qiang jumped $0.15\,\mathrm{m}$ higher than Zhang Ying, and Xiao Hong jumped $0.09\,\mathrm{m}$ lower than Wang Qiang. How many meters did Xiao Hong jump?
+(Lesson: Practice 10, Problem 3) A rectangle and a square form a combined figure; the rectangle's perimeter is $16$ cm and the square's is $8$ cm. What is the perimeter of the combined figure?
 
-### Solution to Exercise 185
+### Solution to Exercise 19
 
-Wang Qiang jumped $1.1+0.15=1.25\,\mathrm{m}$; Xiao Hong jumped $1.25-0.09=1.16\,\mathrm{m}$. $\blacksquare$
+The square's side is $8\div4=2$ (cm). At the join, one side of the square coincides with the rectangle; the combined perimeter is $=16+8-2\times2=20$ (cm). $\blacksquare$
 
-## Exercise 186
+## Exercise 20
 
-(Lesson: Mixed Addition and Subtraction of Decimals, Practice 18, Problem 7) Complete the diving final score table (five-round scores for the Chinese, US and Mexican divers), and state each diver's cumulative score and ranking after each round.
+(Lesson: Practice 10, Problem 4) $4$ identical rectangles form a large square on the outside; the large square's perimeter is $24$ dm. What is each rectangle's perimeter?
 
-### Solution to Exercise 186
+### Solution to Exercise 20
 
-By **Definition 8.6.1 (Adding Decimals)**, accumulate each diver's scores round by round to get the cumulative total, then compare the totals to rank them. $\blacksquare$
+The large square's side is $24\div4=6$ (dm). The rectangle's length$+$width exactly equals the large square's side of $6$ dm, so each rectangle's perimeter is $=6\times2=12$ (dm). $\blacksquare$
 
-## Exercise 187
+## Exercise 21
 
-(Lesson: Mixed Addition and Subtraction of Decimals, Practice 18, Problem 8) An online store's anniversary sale: for every $100$ yuan spent, $20$ yuan is off. Item prices: $52.00$ yuan, $149.00$ yuan, $69.80$ yuan, $78.99$ yuan. (1) If Uncle Wang buys two of them, how much should he pay? (2) Pose and solve your own question.
+(Lesson: Area and Area Units — Do It, Problem 1) Feel the cover of an exercise book and the surface of a pencil-box lid, and say which surface has the smaller area.
 
-### Solution to Exercise 187
+### Solution to Exercise 21
 
-First add the two items' prices; for every full $100$ yuan, subtract $20$. For example, buying the $149.00$ yuan and $69.80$ yuan items totals $218.80$ yuan, subtracting $40$ yuan means paying $178.80$ yuan. Calculate according to the chosen items. $\blacksquare$
+By **Definition 6.4.1 (Area)**, the size of an object's surface is its area; the pencil-box lid is smaller than the exercise-book cover, so the pencil-box lid has the smaller area. $\blacksquare$
 
-## Exercise 188
+## Exercise 22
 
-(Lesson: Mixed Addition and Subtraction of Decimals, Practice 18, Problem 9) Teacher Wang buys a long rope, a basketball and a soccer ball. Mall A: long rope $25.50$, basketball $69.88$, soccer $46.70$ yuan; Mall B: long rope $26.20$, basketball $72.56$, soccer $43.68$ yuan. How to buy to spend the least?
+(Lesson: Area Units — Do It, Problem 1) Find objects around you whose one face is about $1$ square centimeter, $1$ square decimeter and $1$ square meter respectively.
 
-### Solution to Exercise 188
+### Solution to Exercise 22
 
-Choose the cheaper one for each item: long rope A $25.50$ yuan, basketball A $69.88$ yuan, soccer B $43.68$ yuan, totaling $25.50+69.88+43.68=139.06$ (yuan). $\blacksquare$
+By **Definition 6.4.2 (Area Units)**, a fingernail is about $1$ square centimeter, a palm (or one face of a chalk box) about $1$ square decimeter, and a square tabletop (or a floor tile) about $1$ square meter. $\blacksquare$
 
-## Exercise 189
+## Exercise 23
 
-(Lesson: Extending the Integer Addition Laws to Decimals, Try It, Problem 1) Fill the $\square$ with suitable numbers: (1) $6.7+4.95+3.3=6.7+\square+4.95$; (2) $\left(1.38+1.75\right)+0.25=\square+\left(\square+\square\right)$.
+(Lesson: Area Units — Do It, Problem 2) First estimate about how many square centimeters the rectangle's area is, then measure it with $1$-square-centimeter squares.
 
-### Solution to Exercise 189
+### Solution to Exercise 23
 
-By **Definition 8.6.3 (Extending the Integer Addition Laws to Decimals)**: (1) $6.7+4.95+3.3=6.7+3.3+4.95$; (2) $\left(1.38+1.75\right)+0.25=1.38+\left(1.75+0.25\right)$. $\blacksquare$
+By **Definition 6.4.2 (面积单位)**, lay down $1$-square-centimeter squares and count how many fit; that number of square centimeters is the area. $\blacksquare$
 
-## Exercise 190
+## Exercise 24
 
-(Lesson: Extending the Integer Addition Laws to Decimals, Try It, Problem 2) Calculate the following as conveniently as possible: $1.88+2.3+3.7$; $5.17-1.8-3.2$; $4.02-3.5+0.98$; $13.7+0.98+0.02+4.3$.
+(Lesson: Area Units — Do It, Problem 3) Try: how many students can stand inside a $1$-square-meter square?
 
-### Solution to Exercise 190
+### Solution to Exercise 24
 
-By **Definition 8.6.3 (Extending the Laws)** and the subtraction property: $1.88+2.3+3.7=1.88+6=7.88$; $5.17-1.8-3.2=5.17-5=0.17$; $4.02-3.5+0.98=5-3.5=1.5$; $13.7+0.98+0.02+4.3=\left(13.7+4.3\right)+\left(0.98+0.02\right)=19$. $\blacksquare$
+By **Definition 6.4.2 (面积单位)**, actually have students stand on a $1$-m-square floor and count how many fit, to appreciate the size of $1$ square meter. $\blacksquare$
 
-## Exercise 191
+## Exercise 25
 
-(Lesson: Extending the Integer Addition Laws to Decimals, Practice 19, Problem 1) Calculate: $5.6+2.7+4.5$; $9.14-1.43-4.57$; $77+2.7+2.8+25$; $0.38+0.36+2.64$; $8.7-5.69+2.03$; $5.26+3.43+0.74$; $51.27-8.03-1.34$; $1.29+3.7+0.71+6.3$; $10.75+0.4-9.86$; $3.9+4.08+3.92+1.1$.
+(Lesson: Practice 11, Problem 1) First trace the outline around each figure with a red pen, then shade them to show their area.
 
-### Solution to Exercise 191
+### Solution to Exercise 25
 
-By **Definition 8.6.3 (Extending the Laws)**: $5.6+2.7+4.5=12.8$; $9.14-1.43-4.57=9.14-6=3.14$; $77+2.7+2.8+25=107.5$; $0.38+0.36+2.64=0.38+3=3.38$; $8.7-5.69+2.03=5.04$; $5.26+3.43+0.74=5.26+0.74+3.43=9.43$; $51.27-8.03-1.34=41.9$; $1.29+3.7+0.71+6.3=\left(1.29+0.71\right)+\left(3.7+6.3\right)=12$; $10.75+0.4-9.86=1.29$; $3.9+4.08+3.92+1.1=\left(3.9+1.1\right)+\left(4.08+3.92\right)=13$. $\blacksquare$
-
-## Exercise 192
-
-(Lesson: Extending the Integer Addition Laws to Decimals, Practice 19, Problem 2) Convert the following fractions to decimals and then calculate: $\frac{7}{10}+\frac{5}{10}$; $\frac{93}{100}-\frac{76}{100}$; $\frac{61}{100}+\frac{7}{10}$; $\frac{3}{10}-\frac{1}{100}$.
-
-### Solution to Exercise 192
-
-By **Definition 8.4.1 (Converting Fractions to Decimals)** and **Definition 8.6.1 (Decimal Addition and Subtraction)**: $0.7+0.5=1.2$; $0.93-0.76=0.17$; $0.61+0.7=1.31$; $0.3-0.01=0.29$. $\blacksquare$
-
-## Exercise 193
-
-(Lesson: Extending the Integer Addition Laws to Decimals, Practice 19, Problem 3) Teacher Li cycles from home through the school to the park; the segments are $1.80\,\mathrm{km}$, $2.76\,\mathrm{km}$, $2.30\,\mathrm{km}$, $1.55\,\mathrm{km}$, $2.65\,\mathrm{km}$. (1) Choose a route and compute its length; (2) Which way is the shortest?
-
-### Solution to Exercise 193
-
-By **Definition 8.6.1 (Adding Decimals)**, add the segments of the chosen route. The direct route home $\to$ school $\to$ park is the shortest; add the corresponding two segments. $\blacksquare$
-
-## Exercise 194
-
-(Lesson: Extending the Integer Addition Laws to Decimals, Practice 19, Problem 5) Calculate: $36.7-19.4+35.8$; $1.28+3.7+2.46$; $2-0.4-0.8$; $6.07+0.4-0.08$; $4.01-3.5+0.31$; $15.06-3.94-2.06$.
-
-### Solution to Exercise 194
-
-By **Definition 8.6.2 (Mixed Operations Order)** and **Definition 8.6.3 (Operation Laws Extended)**: $36.7-19.4+35.8=53.1$; $1.28+3.7+2.46=7.44$; $2-0.4-0.8=0.8$; $6.07+0.4-0.08=6.39$; $4.01-3.5+0.31=0.82$; $15.06-3.94-2.06=15.06-6=9.06$. $\blacksquare$
-
-## Exercise 195
-
-(Lesson: Extending the Integer Addition Laws to Decimals, Practice 19, Problem 6) A kind of sock: buy $5$ pairs get $1$ pair free, each pair $4.68$ yuan. Aunt Zhang wants $12$ pairs; how much will she spend?
-
-### Solution to Exercise 195
-
-Buy $5$ get $1$ free; buying $10$ pairs gets $2$ free, exactly $12$ pairs, so only pay for $10$ pairs: $4.68\times10=46.8$ (yuan). $\blacksquare$
-
-## Exercise 196
-
-(Lesson: Extending the Integer Addition Laws to Decimals, Practice 19, Problem 7) An object is dropped from a height and hits the ground after $4$ seconds. In the $1$st second it falls $4.9\,\mathrm{m}$, and each later second it falls $9.8\,\mathrm{m}$ farther than the previous second. How high above the ground was the object before being dropped?
-
-### Solution to Exercise 196
-
-The $2$nd second: $4.9+9.8=14.7\,\mathrm{m}$; the $3$rd second: $24.5\,\mathrm{m}$; the $4$th second: $34.3\,\mathrm{m}$. Total $4.9+14.7+24.5+34.3=78.4$ ($\mathrm{m}$). $\blacksquare$
-
-## Exercise 197
-
-(Lesson: Extending the Integer Addition Laws to Decimals, Practice 19, Problem 8) The average distances from the major planets to the sun (hundred million kilometers): Mercury $0.58$, Venus $1.08$, Earth $1.50$, Mars $2.28$, Jupiter $7.78$, Saturn $14.29$, Uranus $28.71$, Neptune $45.04$. Based on the data, pose and solve math questions.
-
-### Solution to Exercise 197
-
-The answer is not unique, e.g. Neptune is farther than Earth by $45.04-1.50=43.54$ (hundred million kilometers); Mercury and Venus are $1.08-0.58=0.50$ (hundred million kilometers) apart. Just solve using decimal addition and subtraction. $\blacksquare$
+By **Definition 6.4.1 (面积)** and **Definition 6.3.3 (Perimeter)**, tracing the outline gives the perimeter, while shading the whole face gives the area; note the difference between the two. $\blacksquare$

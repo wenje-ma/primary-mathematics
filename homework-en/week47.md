@@ -1,138 +1,173 @@
 # week47
-> **Definition 6.7.1 (小数的意义和性质)**
+> **Definition 5.3.1 (毫米与厘米的关系)**
 > 
-> 像 $3.45$, $0.85$, $2.60$, $36.6$ 这样的数叫小数, "$.$" 叫小数点. $1$ 分米 $=\frac{1}{10}$ 米 $=0.1$ 米, $1$ 厘米 $=\frac{1}{100}$ 米 $=0.01$ 米; $1$ 角 $=0.1$ 元, $1$ 分 $=0.01$ 元.
-> **Definition 6.7.2 (小数的大小比较)**
+> 毫米 (mm) 是比厘米更小的长度单位, 量较短的物体或要求量得比较精确时用毫米. 直尺上 $1$ 厘米中间每小格的长度是 $1$ 毫米, $1$ 厘米 $=10$ 毫米.
+> **Definition 5.3.2 (分米与厘米, 米的关系)**
 > 
-> 先比较整数部分, 整数部分大的那个数就大; 整数部分相同, 再从高位起逐位比较小数部分.
-> **Definition 6.7.3 (简单的小数加,减法)**
+> 分米 (dm) 是比厘米大, 比米小的长度单位. 直尺上 $10$ 厘米的长度是 $1$ 分米, $1$ 分米 $=10$ 厘米, $1$ 米 $=10$ 分米.
+> **Definition 5.3.3 (千米)**
 > 
-> 列竖式时小数点要对齐, 也就是相同单位上的数对齐, 再按整数加减法计算, 得数的小数点也要对齐.
+> 计量比较长的路程通常用千米 (km) 作单位, $1$ 千米 $=1000$ 米. 千米在日常生活中也叫公里.
+> **Definition 5.3.4 (长度单位的进率与估测)**
+> 
+> 长度单位从大到小: 千米, 米, 分米, 厘米, 毫米. 相邻两个单位间, 除千米与米间是 $1000$, 其余都是 $10$. 估计一段距离要先选定一个长度作为标准.
 
-## Exercise 186
+## Exercise 1
 
-(Lesson: Understanding Decimals — Do It, Problem 1) Look at the picture and fill in the blanks: $1$ centimeter is $\left(\ \ \right)$ centimeters, $0.1$ decimeter is $\left(\ \ \right)$ decimeters, and so on; express the graduations with decimals.
+(Lesson: Practice 5, Thinking Question) Some equal iron rings are linked together; each ring is $4$ cm long and $5$ mm thick. How long are these $3$ rings when pulled tight?
 
-### Solution to Exercise 186
+### Solution to Exercise 1
 
-By **Definition 6.7.1 (Understanding Decimals)**, split $1$ evenly into $10$ parts, each part is $0.1$; split into $100$ parts, each part is $0.01$; accordingly fill the corresponding decimals into the parentheses. $\blacksquare$
+$3$ unlinked rings are $4\times3=12$ cm $=120$ mm long. Each linkage overlaps the thickness of $2$ rings (each deducts $5$ mm, so one overlap deducts $10$ mm); with $2$ overlaps, deduct $20$ mm. $120-20=100$ mm $=10$ cm. $\blacksquare$
 
-## Exercise 187
+## Exercise 2
 
-(Lesson: Understanding Decimals — Do It, Problem 2) $1$ yuan $=10$ jiao; $1$ jiao is $\frac{1}{10}$ yuan, i.e. $0.1$ yuan. $8$ jiao is how many $1$ jiao, and how many yuan as a decimal? $1$ yuan $=100$ fen; $5$ fen written as a decimal is how many yuan? $1$ yuan $8$ jiao $5$ fen written as a decimal is how many yuan?
+(Lesson: Knowing the Kilometer, Example) Fill in: $3$ km $=\left(\ \right)$ m; $5000$ m $=\left(\ \right)$ km.
 
-### Solution to Exercise 187
+### Solution to Exercise 2
 
-By **Definition 6.7.1 (Decimals)**: $8$ jiao is $8$ of $1$ jiao $=0.8$ yuan; $5$ fen is $5$ of $1$ fen $=0.05$ yuan; $1$ yuan $8$ jiao $5$ fen $=1.85$ yuan. $\blacksquare$
+By **Definition 5.3.3 (The Kilometer)**, $1$ km is $1000$ m, so $3$ km is $3$ copies of $1000$ m, and $3$ km $=3000$ m; $5000$ m has $5$ copies of $1000$ m, and $5000$ m $=5$ km. $\blacksquare$
 
-## Exercise 188
+## Exercise 3
 
-(Lesson: Comparing Decimals — Do It, Problem 1) On the number line (in meters), fill decimals into the $\square$.
+(Lesson: Knowing the Kilometer, Do It) On the playground, measure off $100$ m and walk it. How many such lengths make $1$ km? After school, walk $1$ km with a parent.
 
-### Solution to Exercise 188
+### Solution to Exercise 3
 
-By **Definition 6.7.1 (Decimals)**, split $1$ meter evenly into $10$ parts, each small division is $0.1$ meter; count the divisions from the graduation and fill the decimal. $\blacksquare$
+By **Definition 5.3.3 (The Kilometer)**, $1$ km $=1000$ m; $10$ copies of $100$ m is $1000$ m, i.e. $10$ stretches of $100$ m make $1$ km. Walking $1$ km takes about $10\sim15$ minutes. $\blacksquare$
 
-## Exercise 189
+## Exercise 4
 
-(Lesson: Comparing Decimals — Do It, Problem 2) Look at the picture and compare: $0.4\bigcirc0.6$; $2.5\bigcirc1.8$.
+(Lesson: Estimating Distance, Example) About how far is it from your home to school? How do you estimate?
 
-### Solution to Exercise 189
+### Solution to Exercise 4
 
-By **Definition 6.7.2 (Comparing Decimals)**: $0.4< 0.6$; $2.5> 1.8$. $\blacksquare$
+By **Definition 5.3.4 (Conversion Rates and Estimation of Length Units)**, first pick a standard: e.g. a step about $50$ cm, two steps about $1$ m, $1000$ steps about $500$ m; or walking about $70$ m a minute, $10$ minutes about $700$ m; or $3$ bus stops, each about $500$ m, about $1500$ m in all. $\blacksquare$
 
-## Exercise 190
+## Exercise 5
 
-(Lesson: Decimal Addition and Subtraction — Do It) Unit prices: eraser $2.3$ yuan, pencil $1.5$ yuan, pencil sharpener $13.2$ yuan, watercolor pens $15.8$ yuan, pencil case $3.8$ yuan. (1) How much cheaper is a pencil than a pencil sharpener? (2) Buying one watercolor set and one pencil case, is $20$ yuan enough?
+(Lesson: Estimating Distance, Do It) Estimate the length and width of the campus.
 
-### Solution to Exercise 190
+### Solution to Exercise 5
 
-By **Definition 6.7.3 (简单的小数加,减法)**, (1) $13.2-1.5=11.7$ (yuan). (2) $15.8+3.8=19.6$ (yuan), $19.6< 20$, enough. $\blacksquare$
+Pick one length as a standard (e.g. an arm-span about $1$ m, or a step about $5$ dm), and multiply the number of steps or spans by the standard length to estimate the campus length and width. $\blacksquare$
 
-## Exercise 191
+## Exercise 6
 
-(Lesson: Practice 16, Problem 1) Read the following decimals aloud: an African elephant is $3.5$ m tall and weighs $5.25$ tons; an ostrich is $2.75$ m tall; a giraffe is $5.8$ m tall.
+(Lesson: Practice 6, Problem 1) How long does each travel mode below take to go $1$ km? Circle the right answer (walking: $4$ s/$4$ min/$1$ h; bicycle: $15$ s/$15$ min/$1$ h; car: $1$ s/$1$ min/$1$ h).
 
-### Solution to Exercise 191
+### Solution to Exercise 6
 
-$3.5$ is read "three point five", $5.25$ "five point two five", $2.75$ "two point seven five", $5.8$ "five point eight". $\blacksquare$
+Walking $1$ km takes about $15$ min, bicycle about $4$ min, car about $1$ min (depending on speed). Circle the reasonable answer from daily experience. $\blacksquare$
 
-## Exercise 192
+## Exercise 7
 
-(Lesson: Practice 16, Problem 2) Look at the picture and write the appropriate decimals (prices in yuan).
+(Lesson: Practice 6, Problem 2) Fill in: $7$ dm $=\left(\ \right)$ cm; $6000$ m $=\left(\ \right)$ km; $300$ mm $=\left(\ \right)$ dm; $50$ dm $=\left(\ \right)$ m; $8$ km $=\left(\ \right)$ m; $3$ m $=\left(\ \right)$ mm.
 
-### Solution to Exercise 192
+### Solution to Exercise 7
 
-By **Definition 6.7.1 (Decimals)**, write the yuan in the integer part, the jiao in the first place after the decimal point, and the fen in the second place, producing a decimal in yuan. $\blacksquare$
+By **Definition 5.3.4 (长度单位的进率与估测)**: $7$ dm $=70$ cm; $6000$ m $=6$ km; $300$ mm $=3$ dm; $50$ dm $=5$ m; $8$ km $=8000$ m; $3$ m $=3000$ mm. $\blacksquare$
 
-## Exercise 193
+## Exercise 8
 
-(Lesson: Practice 16, Problem 3) Compare: $0.6$ yuan $\bigcirc0.9$ yuan; $10$ yuan $\bigcirc9.9$ yuan; $0.27$ m $\bigcirc\frac{27}{100}$ m; $3.8$ m $\bigcirc4.5$ m; $1.15$ yuan $\bigcirc1.51$ yuan; $2$ dm $\bigcirc\frac{7}{10}$ m.
+(Lesson: Practice 6, Problem 3) A track is $400$ m around, and Xiaoming ran $5$ laps; how many kilometers did he run in all?
 
-### Solution to Exercise 193
+### Solution to Exercise 8
 
-By **Definition 6.7.2 (小数的大小比较)**: $0.6< 0.9$; $10> 9.9$; $0.27$ m $=\frac{27}{100}$ m; $3.8< 4.5$; $1.15< 1.51$; $2$ dm $=0.2$ m $< \frac{7}{10}=0.7$ m. $\blacksquare$
+$400\times5=2000$ m $=2$ km. $\blacksquare$
 
-## Exercise 194
+## Exercise 9
 
-(Lesson: Practice 16, Problem 4) A truck's total loaded mass is $16.7$ tons. (1) The limit is $18$ tons; is it overloaded? (2) The truck itself weighs $6.8$ tons; how many tons of cargo are loaded?
+(Lesson: Practice 6, Problem 4) A pool is $50$ m long; to swim $1$ km, how many round trips? (A round trip is there and back once.)
 
-### Solution to Exercise 194
+### Solution to Exercise 9
 
-(1) $16.7< 18$, not overloaded. (2) $16.7-6.8=9.9$ (tons). $\blacksquare$
+One round trip is $50\times2=100$ m; $1$ km $=1000$ m, $1000\div100=10$ round trips. $\blacksquare$
 
-## Exercise 195
+## Exercise 10
 
-(Lesson: Practice 16, Problem 5) Two bamboo poles are $2.4$ m and $3.2$ m long, overlapping by $0.8$ m in the middle. (1) How long when joined? (2) Stuck into the water, $0.9$ m shows above the surface; how deep is the river?
+(Lesson: Practice 6, Problem 5) Estimate about how high the school teaching building is, and say how you estimated.
 
-### Solution to Exercise 195
+### Solution to Exercise 10
 
-(1) $2.4+3.2-0.8=4.8$ (m). (2) $4.8-0.9=3.9$ (m). $\blacksquare$
+One floor is about $3$ m, the building has about $4$ floors, so it is about $12$ m high. Estimate by multiplying the number of floors by the height per floor. $\blacksquare$
 
-## Exercise 196
+## Exercise 11
 
-(Lesson: Practice 16, Problem 6) Green beans cost $5.68$ yuan per $500$ g, and bok choy costs $1.41$ yuan per $500$ g. Buying $500$ g of each, how much in total? How much more expensive are green beans than bok choy?
+(Lesson: Practice 6, Problem 6) Compute: $20$ mm $+30$ mm $=\left(\ \right)$ cm; $1$ km $-700$ m $=\left(\ \right)$ m; $3$ m $-1$ m $=\left(\ \right)$ dm; $2$ m $+3$ cm $=\left(\ \right)$ cm.
 
-### Solution to Exercise 196
+### Solution to Exercise 11
 
-By **Definition 6.7.3 (简单的小数加,减法)**: $5.68+1.41=7.09$ (yuan); $5.68-1.41=4.27$ (yuan). $\blacksquare$
+Unify units: $20$ mm $+30$ mm $=50$ mm $=5$ cm; $1$ km $-700$ m $=1000$ m $-700$ m $=300$ m; $3$ m $-1$ m $=2$ m $=20$ dm; $2$ m $+3$ cm $=200$ cm $+3$ cm $=203$ cm. $\blacksquare$
 
-## Exercise 197
+## Exercise 12
 
-(Lesson: Practice 16, Problem 7) Continue the pattern: (1) $1.1,1.2,1.3,1.4,1.5,\_\_,\_\_,\_\_$. (2) $0.6,1.2,1.8,2.4,3.0,\_\_,\_\_,\_\_$.
+(Lesson: Practice 6, Problem 7) Teacher Wang's home is $3$ km from school; he walks about $100$ m a minute and leaves home at $7:00$; can he reach school by $7:45$?
 
-### Solution to Exercise 197
+### Solution to Exercise 12
 
-(1) Add $0.1$ each time: $1.6,1.7,1.8$. (2) Add $0.6$ each time: $3.6,4.2,4.8$. $\blacksquare$
+$3$ km $=3000$ m; walking $3000$ m takes $3000\div100=30$ minutes. Leaving at $7:00$, $30$ minutes gets him there at $7:30$, so by $7:45$ he certainly can. $\blacksquare$
 
-## Exercise 198
+## Exercise 13
 
-(Lesson: Practice 17, Problem 1) Classify the following numbers: $20,3,0.9,\frac{10}{3},4.20,18.5,100,7,0.03,4,0.86,35$, putting them into integers, fractions and decimals respectively.
+(Lesson: Practice 6, Problem 8) Mom takes Xiaoliang on a long-distance bus to visit Grandpa; the trip is $308$ km. They leave at $8$ in the morning and the bus averages $80$ km per hour; can they arrive by noon at $12$?
 
-### Solution to Exercise 198
+### Solution to Exercise 13
 
-Integers: $20,3,100,7,4,35$; fractions: $\frac{10}{3}$; decimals: $0.9,4.20,18.5,0.03,0.86$. $\blacksquare$
+From $8$ o'clock to $12$ o'clock is $4$ hours, traveling $80\times4=320$ km; $320> 308$, so by noon at $12$ they can arrive. $\blacksquare$
 
-## Exercise 199
+## Exercise 14
 
-(Lesson: Practice 17, Problem 2) Express the prices as decimals and arrange from smallest to largest: $3$ yuan $5$ jiao, $5$ jiao, $4$ yuan $9$ jiao $9$ fen, $3$ yuan $4$ jiao $9$ fen.
+(Lesson: Practice 6, Problem 9) Choose a suitable travel mode: to the botanical garden $3$ km, to Sand Lake $30$ km, to Mount Huang $1200$ km.
 
-### Solution to Exercise 199
+### Solution to Exercise 14
 
-By **Definition 6.7.1 (Decimals)**: $3$ yuan $5$ jiao $=3.5$ yuan, $5$ jiao $=0.5$ yuan, $4$ yuan $9$ jiao $9$ fen $=4.99$ yuan, $3$ yuan $4$ jiao $9$ fen $=3.49$ yuan. From smallest to largest: $0.5< 3.49< 3.5< 4.99$. $\blacksquare$
+Choose by distance: $3$ km walk or bike, $30$ km by car, $1200$ km by train or plane. $\blacksquare$
 
-## Exercise 200
+## Exercise 15
 
-(Lesson: Practice 17, Problem 3) Book prices: 《Children's Literature》$10.8$ yuan, 《Selected Fairy Tales》$8.4$ yuan, 《Use Your Head》$12.5$ yuan. (1) How much cheaper is 《Use Your Head》 than 《Selected Fairy Tales》? (2) Is $20$ yuan enough to buy one of each? (3) Raise other questions.
+(Lesson: Practice 7, Problem 1) Fill a suitable length unit: (1) the full marathon course is about $42$ ( ); (2) a Chinese textbook is about $6$ ( ) thick; (3) a footbridge is about $30$ ( ) long.
 
-### Solution to Exercise 200
+### Solution to Exercise 15
 
-By **Definition 6.7.3 (简单的小数加,减法)**, (1) $12.5-8.4=4.1$ (yuan). (2) $8.4+12.5=20.9$ (yuan), $20.9> 20$, not enough. (3) For example, 《Children's Literature》 is $10.8-8.4=2.4$ yuan more expensive than 《Selected Fairy Tales》; answers may vary. $\blacksquare$
+Marathon $42$ km; Chinese textbook thickness $6$ mm; footbridge length $30$ m. $\blacksquare$
 
-## Exercise 201
+## Exercise 16
 
-(Lesson: Practice 17, Problem 4) Using the four cards $1,2,3,.$ (using all of them), how many decimals can be formed?
+(Lesson: Practice 7, Problem 2) Fill in "$> $" "$< $" or "$=$": $90$ mm $\bigcirc$ $9$ cm; $4$ m $\bigcirc$ $30$ dm; $2$ km $\bigcirc$ $3000$ m; $400$ cm $\bigcirc$ $3$ m; $5$ cm $\bigcirc$ $5$ dm; $6$ dm $\bigcirc$ $500$ mm.
 
-### Solution to Exercise 201
+### Solution to Exercise 16
 
-By **Definition 6.7.1 (Decimals)**, the decimal point can be placed in different positions: one-decimal-place numbers such as $1.23,1.32,2.13,2.31,3.12,3.21$; two-decimal-place numbers such as $12.3,13.2,21.3,23.1,31.2,32.1$, totaling $12$. $\blacksquare$
+$90$ mm $=9$ cm; $4$ m $=40$ dm $> 30$ dm; $2$ km $=2000$ m $< 3000$ m; $400$ cm $=4$ m $> 3$ m; $5$ cm $< 50$ cm $=5$ dm; $6$ dm $=600$ mm $> 500$ mm. $\blacksquare$
+
+## Exercise 17
+
+(Lesson: Practice 7, Problem 3) Judge: mark "√" if right and "×" if wrong: (1) A primary-school dictionary is $40$ mm thick. (2) A towel is $7$ cm long. (3) Xiaohong's home and grandma's home are $50$ km apart, so she had best walk.
+
+### Solution to Exercise 17
+
+(1) √ ($40$ mm $=4$ cm is reasonable). (2) × (a towel is about $7$ dm long). (3) × ($50$ km is too far, she should ride). $\blacksquare$
+
+## Exercise 18
+
+(Lesson: Practice 7, Problem 4) From Xiaojun's home to the Children's Palace, which way is shortest? How many meters? Routes: Xiaojun's home—park $600$ m—hotel $300$ m—Palace $500$ m; Xiaojun's home—supermarket $900$ m—community hospital $600$ m—Palace $500$ m.
+
+### Solution to Exercise 18
+
+Route one: $600+300+500=1400$ m. Route two: $900+600+500=2000$ m. The way via the park and hotel is shortest, and takes $1400$ m. $\blacksquare$
+
+## Exercise 19
+
+(Lesson: Practice 7, Problem 5) Estimate the length and width of the school basketball court, and say how you estimated.
+
+### Solution to Exercise 19
+
+The court is about $28$ m long and $15$ m wide. Use steps (a step about $5$ dm) to count how many steps the length and width are, then multiply by $5$ dm to estimate. $\blacksquare$
+
+## Exercise 20
+
+(Lesson: Practice 7, Problem 6, Thinking Question) Xiaoliang wants to know how many meters a bundle of wire has in all; help him design a research plan and write the main steps.
+
+### Solution to Exercise 20
+
+By **Definition 5.3.4 (Conversion Rates and Estimation of Length Units)**, first measure a short piece of wire (e.g. $1$ m) and weigh it, then weigh the whole bundle; compute how many times the bundle's mass is the short piece's, and the bundle's length is that times $1$ m. $\blacksquare$

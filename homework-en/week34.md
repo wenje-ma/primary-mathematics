@@ -1,285 +1,169 @@
 # week34
-> **Definition 5.3.1 (毫米与厘米的关系)**
+> **Definition 4.2.1 (余数)**
 > 
-> 毫米 (mm) 是比厘米更小的长度单位, 量较短的物体或要求量得比较精确时用毫米. 直尺上 $1$ 厘米中间每小格的长度是 $1$ 毫米, $1$ 厘米 $=10$ 毫米.
-> **Definition 5.3.2 (分米与厘米, 米的关系)**
+> 把一些物品平均分后还有剩余, 剩余的部分就是余数. 如 $9$ 根小棒每 $4$ 根摆一个正方形, 摆 $2$ 个还剩 $1$ 根: $9\div4=2$(个)……$1$(根), 读作"$9$ 除以 $4$ 等于 $2$ 余 $1$", 余下的 $1$ 叫余数.
+> **Definition 4.2.2 (余数要比除数小)**
 > 
-> 分米 (dm) 是比厘米大, 比米小的长度单位. 直尺上 $10$ 厘米的长度是 $1$ 分米, $1$ 分米 $=10$ 厘米, $1$ 米 $=10$ 分米.
-> **Definition 5.3.3 (千米)**
+> 参见教材相应章节关于此概念的论述.
+> **Definition 4.2.3 (被除数等于除数乘商加余数)**
 > 
-> 计量比较长的路程通常用千米 (km) 作单位, $1$ 千米 $=1000$ 米. 千米在日常生活中也叫公里.
-> **Definition 5.3.4 (长度单位的进率与估测)**
+> 被除数 $\div$ 除数 $=$ 商……余数, 且被除数 $=$ 除数 $\times$ 商 $+$ 余数. 如 $13\div4=3\cdots\cdots1$, $13=4\times3+1$.
+> **Definition 4.2.4 (试商)**
 > 
-> 长度单位从大到小: 千米, 米, 分米, 厘米, 毫米. 相邻两个单位间, 除千米与米间是 $1000$, 其余都是 $10$. 估计一段距离要先选定一个长度作为标准.
+> 求商时想: 除数和几相乘的积接近被除数, 并且小于被除数, 商就是几; 算出后要检查余数是否比除数小.
+> **Definition 4.3.1 (倍的意义)**
+> 
+> 把两个数量比较, 把较少的看作 $1$ 份, 较多的有这样的几份, 就说较多的是较少的几倍. 如鹅 $2$ 只看作 $1$ 份, 鸡有 $3$ 个 $2$ 只, 鸡的只数就是鹅的 $3$ 倍.
+> **Definition 4.3.2 (求一个数是另一个数的几倍)**
+> 
+> 求甲数是乙数的几倍, 就是求甲数里面有几个乙数, 用除法计算. 如求 $12$ 盆是 $4$ 盆的几倍, $12\div4=3$.
+> **Definition 4.3.3 (求一个数的几倍是多少)**
+> 
+> 求一个数的几倍是多少, 就是求几个几是多少, 用乘法计算. 如牛有 $8$ 头, 羊是牛的 $4$ 倍, 羊有 $4$ 个 $8$ 只, $8\times4=32$ 只.
+> **Definition 4.3.4 (已知几倍求 $1$ 份是多少)**
+> 
+> 知道一个数是另一个数的几倍和这个数, 求 $1$ 份是多少, 用除法计算. 如跳的距离 $12$ 米是体长的 $6$ 倍, $12\div6=2$ 米就是体长.
 
-## Exercise 55
+## Exercise 1
 
-(Lesson: Knowing the Millimeter, Do It) Say: in daily life, which objects are usually measured in millimeters? Show the length of $1$ millimeter with a hand gesture.
+(Lesson: Solving Problems, Practice) Draw following the pattern below.
 
-### Solution to Exercise 55
+### Solution to Exercise 1
 
-By **Definition 5.3.1 (The Relation between Millimeters and Centimeters)**, short or precise objects are measured in millimeters, e.g. the thickness of an ID card (about $1$ millimeter), the thickness of a coin, rainfall, etc. $1$ millimeter is about the thickness of an ID card. $\blacksquare$
+Just continue drawing following the repeating pattern given in the picture (such as a cycle of colors or shapes), with each group the same as the previous. $\blacksquare$
 
-## Exercise 56
+## Exercise 2
 
-(Lesson: Knowing the Millimeter, Do It) Measure: the length, width, and thickness of the math book, recording in centimeters and in millimeters.
+(Lesson: Solving Problems, Practice) To celebrate a festival, Class 2(1) decorates the classroom with colored lights; following the pattern below, what color is the $53$rd light?
 
-### Solution to Exercise 56
+### Solution to Exercise 2
 
-Measure with a ruler: length about $26$ cm ($260$ mm), width about $18$ cm ($180$ mm), thickness less than $1$ cm, about $7$ mm. Fill per the actual measurement. $\blacksquare$
+First count how many lights are in one group, divide $53$ by that number, and judge by the remainder: the remainder tells which light in a group, no remainder means the last light, and read the color per the pattern. $\blacksquare$
 
-## Exercise 57
+## Exercise 3
 
-(Lesson: Knowing the Decimeter, Example) Fill in: $3$ cm $=\left(\ \right)$ mm; $70$ cm $=\left(\ \right)$ dm.
+(Lesson: Solving Problems, Practice) (1) Arranging flowers following the pattern above, what color should the $32$nd pot be? (2) Raise other math problems and solve them.
 
-### Solution to Exercise 57
+### Solution to Exercise 3
 
-By **Definition 5.3.1 (毫米与厘米的关系)** and **Definition 5.3.2 (分米与厘米, 米的关系)**, $1$ cm is $10$ mm, so $3$ cm is $3$ copies of $10$ mm, and $3$ cm $=30$ mm; $10$ cm is $1$ dm, so $70$ cm has $7$ copies of $10$ cm, and $70$ cm $=7$ dm. $\blacksquare$
+Count how many pots are in one group, divide $32$ by that number, and judge by the remainder which pot in a group the $32$nd is, then read the color. (2) For example "what color is the $20$th pot?"; solve it the same way by division and remainder. $\blacksquare$
 
-## Exercise 58
+## Exercise 4
 
-(Lesson: Knowing the Decimeter, Do It) Fill in: $8$ dm $=\left(\ \right)$ cm; $5$ m $=\left(\ \right)$ dm; $60$ mm $=\left(\ \right)$ cm.
+(Lesson: Solving Problems, Practice) Xiaoliang and Xiaoli arrange flowers by patterns; say what pattern each is following. The $21$st flower Xiaoliang arranges is $\_\_$, and the $21$st flower Xiaoli arranges is $\_\_$.
 
-### Solution to Exercise 58
+### Solution to Exercise 4
 
-By **Definition 5.3.2 (分米与厘米, 米的关系)** and **Definition 5.3.1 (毫米与厘米的关系)**: $8$ dm $=80$ cm; $5$ m $=50$ dm; $60$ mm $=6$ cm. $\blacksquare$
+First find each one's repeating group, divide $21$ by the number of flowers in a group, judge by the remainder which flower in the group the $21$st is, then read the shape per each pattern. $\blacksquare$
 
-## Exercise 59
+## Exercise 5
 
-(Lesson: Knowing the Decimeter, Do It) A $2$-m-long board is sawed into $4$ equal pieces to make the $4$ legs of a stool. About how high is the stool?
+(Lesson: Solving Problems, Practice) Put $22$ chickens into two kinds of coops; a large coop holds at most $6$ and a small coop at most $4$. (1) If all go into large coops, at least how many are needed? (2) If all go into small coops, at least how many? (3) What numbers of large and small coops together hold exactly $22$ chickens?
 
-### Solution to Exercise 59
+### Solution to Exercise 5
 
-$2$ m $=20$ dm, $20\div4=5$ dm. The stool is about $5$ dm high. $\blacksquare$
+(1) $22\div6=3$(coops)……$4$(chickens); the $4$ left need $1$ more large coop, so at least $4$. (2) $22\div4=5$(coops)……$2$(chickens), so at least $6$ small coops. (3) Try combinations: $6\times3+4\times1=22$, i.e. $3$ large coops and $1$ small coop hold them exactly (other combinations also work). $\blacksquare$
 
-## Exercise 60
+## Exercise 6
 
-(Lesson: Practice 5, Problem 1) Measure the length of each side of the figures below (in millimeters).
+(Lesson: Solving Problems, Thinking Question) Choose $4$ numbers from $2,3,5,7,8,26$ to form a division expression: $\_\_\div\_\_=\_\_$……$\_\_$.
 
-### Solution to Exercise 60
+### Solution to Exercise 6
 
-Measure each side with a ruler, reading to the millimeter. Fill per the actual measurement. $\blacksquare$
+By **Definition 4.2.3 (Dividend = Divisor x Quotient + Remainder)**, dividend $=$ divisor $\times$ quotient $+$ remainder. Take $26\div3=8\cdots\cdots2$ ($3\times8+2=26$), using the four numbers $26,3,8,2$. The answer is not unique. $\blacksquare$
 
-## Exercise 61
+## Exercise 7
 
-(Lesson: Practice 5, Problem 2) Fill a suitable length unit in the ( ): a pencil is $16$ ( ) long; a pencil is $7$ ( ) thick; a table is $1$ ( ) high.
+(Lesson: Solving Problems, Practice) Making fruit platters: $23$ apples, $15$ pears, $17$ oranges. (1) Each set-1 platter needs $5$ apples and $3$ pears; at most how many set-1 platters? (2) Each set-2 platter needs $2$ apples and $2$ oranges; at most how many set-2 platters?
 
-### Solution to Exercise 61
+### Solution to Exercise 7
 
-By **Definition 5.3.1 (毫米与厘米的关系)** and **Definition 5.3.2 (分米与厘米, 米的关系)**, the pencil is $16$ cm long, $7$ mm thick, and the table is $1$ m high. $\blacksquare$
+(1) Apples allow $23\div5=4$(platters)……$3$(apples), pears allow $15\div3=5$(platters); limited by the apples, at most $4$ set-1 platters. (2) Apples allow $23\div2=11$(platters)……$1$(apple), oranges allow $17\div2=8$(platters)……$1$(orange); limited by the oranges, at most $8$ set-2 platters. $\blacksquare$
 
-## Exercise 62
+## Exercise 8
 
-(Lesson: Practice 5, Problem 3) Fill in: $90$ cm $=\left(\ \right)$ dm; $100$ mm $=\left(\ \right)$ dm; $2$ m $=\left(\ \right)$ cm; $6$ dm $=\left(\ \right)$ cm.
+(Lesson: Organization and Review) Looking back on this unit, even division with no remainder uses table division (such as $8\div2=4$), and division with a remainder uses division with remainder (such as $8\div3=2\cdots\cdots2$); when finding the quotient, the remainder must be smaller than the divisor; sometimes understanding the remainder is the key to solving a problem. Show your knowledge map to everyone.
 
-### Solution to Exercise 62
+### Solution to Exercise 8
 
-By **Definition 5.3.4 (Conversion Rates and Estimation of Length Units)**: $90$ cm $=9$ dm; $100$ mm $=1$ dm; $2$ m $=200$ cm; $6$ dm $=60$ cm. $\blacksquare$
+Organize it into a map as "equal distribution — no remainder / with remainder — table division / division with remainder — solving real problems", marking remainder $< $ divisor and dividend $=$ divisor $\times$ quotient $+$ remainder. $\blacksquare$
 
-## Exercise 63
+## Exercise 9
 
-(Lesson: Practice 5, Problem 4) Fill in "$> $" "$< $" or "$=$": $5$ dm $\bigcirc$ $5$ mm; $8$ mm $\bigcirc$ $2$ cm; $6$ cm $\bigcirc$ $60$ mm; $1$ m $\bigcirc$ $7$ dm; $9$ mm $\bigcirc$ $3$ dm; $4$ m $\bigcirc$ $4$ dm.
+(Lesson: Organization and Review, Practice) Calculate and think: $74\div8=\_\_$, $8\times9+2=\_\_$; $28\div5=\_\_$, $5\times5+3=\_\_$; $46\div7=\_\_$, $7\times6+4=\_\_$.
 
-### Solution to Exercise 63
+### Solution to Exercise 9
 
-Unify units then compare: $5$ dm $=500$ mm $> 5$ mm; $8$ mm $< 20$ mm $=2$ cm; $6$ cm $=60$ mm; $1$ m $=10$ dm $> 7$ dm; $9$ mm $< 300$ mm $=3$ dm; $4$ m $=40$ dm $> 4$ dm. $\blacksquare$
+By **Definition 4.2.3 (Dividend = Divisor x Quotient + Remainder)**, $74\div8=9\cdots\cdots2$, $8\times9+2=74$; $28\div5=5\cdots\cdots3$, $5\times5+3=28$; $46\div7=6\cdots\cdots4$, $7\times6+4=46$. The latter expression equals the dividend, and can be used to check. $\blacksquare$
 
-## Exercise 64
+## Exercise 10
 
-(Lesson: Practice 5, Problem 5) Draw line segments as required: (1) Draw a segment $5$ cm $8$ mm long. (2) Draw a segment $3$ cm $5$ mm shorter than $1$ dm.
+(Lesson: Organization and Review, Practice) Buying stationery: pens are $6$ yuan each, and there is a big promotion "buy $2$ get $1$ free"; I have $15$ yuan, how many pens can I buy?
 
-### Solution to Exercise 64
+### Solution to Exercise 10
 
-(1) From the ruler's $0$ draw to $5$ cm $8$ mm. (2) $1$ dm $=10$ cm, $10$ cm $-3$ cm $5$ mm $=6$ cm $5$ mm; draw a segment $6$ cm $5$ mm long. $\blacksquare$
+$15\div6=2$(pens)……$3$(yuan), so first buy $2$ pens; "buy $2$ get $1$ free", giving $1$ more pen, for a total of $3$ pens. $\blacksquare$
 
-## Exercise 65
+## Exercise 11
 
-(Lesson: Practice 5, Problem 6) Fill a suitable unit or number: an ant is $6$ ( ) long; a step is $5$ ( ) long; a dictionary is ( ) mm thick.
+(Lesson: Organization and Review, Practice) Pack $50$ eggs into cartons. (1) $6$ per carton, how many cartons can be filled? (2) $8$ per carton, how many can be filled? How many cartons are needed to pack them all?
 
-### Solution to Exercise 65
+### Solution to Exercise 11
 
-An ant is $6$ mm long; a step is $5$ dm long; a dictionary is about $40$ mm thick. $\blacksquare$
+(1) $50\div6=8$(cartons)……$2$(eggs), filling $8$ cartons. (2) $50\div8=6$(cartons)……$2$(eggs), filling $6$ cartons; the $2$ left need $1$ more carton, so $7$ cartons in all. $\blacksquare$
 
-## Exercise 66
+## Exercise 12
 
-(Lesson: Practice 5, Problem 7) First estimate, then measure: the length of chalk, the length of the pencil case, the length of the desk.
+(Lesson: Organization and Review, Practice) Xiaoli arranged a row of shapes by a pattern: $\star\star\square\bigcirc\bigcirc\bigcirc\star\star\square\bigcirc\bigcirc\bigcirc\cdots\cdots$; what is the $33$rd shape?
 
-### Solution to Exercise 66
+### Solution to Exercise 12
 
-By **Definition 5.3.4 (Conversion Rates and Estimation of Length Units)**, first pick a body ruler (e.g. a span about $15$ cm) to estimate, then measure with a ruler. E.g. chalk about $7$ cm, pencil case about $20$ cm, desk about $60$ cm. Fill per the actual. $\blacksquare$
+One group is $\star\star\square\bigcirc\bigcirc\bigcirc$, $6$ shapes; $33\div6=5$(groups)……$3$(shapes), so remainder $3$ is the $3$rd shape in a group, namely $\square$. $\blacksquare$
 
-## Exercise 67
+## Exercise 13
 
-(Lesson: Practice 5, Problem 8) A rope $4$ dm long is folded in half, then folded in half again; how long is each piece?
+(Lesson: Organization and Review, Practice) Think and fill in. (1) $\star\div5=\triangle$……$\square$; $\square$ is at most $\_\_$. (2) $\star\div\square=\triangle$……$5$; $\square$ is at least $\_\_$. (3) $\star\div5=5$……$\square$; $\square$ is at most $\_\_$, and then $\star$ is $\_\_$.
 
-### Solution to Exercise 67
+### Solution to Exercise 13
 
-Folding once makes $2$ pieces, folding again makes $4$ pieces, $4$ dm $\div4=1$ dm. Each piece is $1$ dm long. $\blacksquare$
+By **Definition 4.2.2 (The Remainder Must Be Smaller Than the Divisor)** and **Definition 4.2.3 (Dividend = Divisor x Quotient + Remainder)**: (1) The divisor is $5$, so the remainder is at most $4$. (2) The remainder is $5$, so the divisor must be greater than $5$, at least $6$. (3) The divisor is $5$, so the remainder is at most $4$; then $\star=5\times5+4=29$. $\blacksquare$
 
-## Exercise 68
+## Exercise 14
 
-(Lesson: Practice 5, Problem 9) Two short boards each $8$ dm long are joined into one long board, and the overlapping nailed part is $15$ cm. How long is the long board?
+(Lesson: Organization and Review, Practice) Some oranges, divided equally among $2$ people or among $3$ people, always leave $1$ orange; at least how many oranges are there? How many could there be otherwise?
 
-### Solution to Exercise 68
+### Solution to Exercise 14
 
-$8$ dm $=80$ cm, the two boards together are $80+80=160$ cm; the $15$ cm overlap is counted once, so $160-15=145$ cm $=1$ m $4$ dm $5$ cm. $\blacksquare$
+Dividing among $2$ or $3$ people both leave $1$, so the number of oranges minus $1$ is divisible by both $2$ and $3$, i.e. a multiple of $6$. The least is $6+1=7$; otherwise it could be $13,19,25,\cdots$ (adding $6$ each time). $\blacksquare$
 
-## Exercise 69
+## Exercise 15
 
-(Lesson: Practice 5, Thinking Question) Some equal iron rings are linked together; each ring is $4$ cm long and $5$ mm thick. How long are these $3$ rings when pulled tight?
+(Lesson: Organization and Review, Practice) A week has $7$ days, and month $6$ has $30$ days. (1) How many weeks are in month $6$, and how many extra days? (2) If a certain month $6$ has $5$ Saturdays and Sundays, what day of the week is the $1$st of month $6$?
 
-### Solution to Exercise 69
+### Solution to Exercise 15
 
-$3$ unlinked rings are $4\times3=12$ cm $=120$ mm long. Each linkage overlaps the thickness of $2$ rings (each deducts $5$ mm, so one overlap deducts $10$ mm); with $2$ overlaps, deduct $20$ mm. $120-20=100$ mm $=10$ cm. $\blacksquare$
+(1) $30\div7=4$(weeks)……$2$(days), so $4$ weeks with $2$ extra days. (2) The $2$ extra days must be exactly Saturday and Sunday, so the $1$st of month $6$ is a Saturday and the $2$nd is a Sunday; then the remaining full four weeks each contain a Saturday and Sunday, for $5$ in all. $\blacksquare$
 
-## Exercise 70
+## Exercise 16
 
-(Lesson: Knowing the Kilometer, Example) Fill in: $3$ km $=\left(\ \right)$ m; $5000$ m $=\left(\ \right)$ km.
+(Lesson: Organization and Review, Practice) Complete the long division.
 
-### Solution to Exercise 70
+### Solution to Exercise 16
 
-By **Definition 5.3.3 (The Kilometer)**, $1$ km is $1000$ m, so $3$ km is $3$ copies of $1000$ m, and $3$ km $=3000$ m; $5000$ m has $5$ copies of $1000$ m, and $5000$ m $=5$ km. $\blacksquare$
+By **Definition 4.2.3 (dividend $=$ divisor $\times$ quotient $+$ remainder)** and "the remainder must be smaller than the divisor", start from the known divisor, quotient, remainder, or product, work out the blanks cell by cell, and check by multiplication. $\blacksquare$
 
-## Exercise 71
+## Exercise 17
 
-(Lesson: Knowing the Kilometer, Do It) On the playground, measure off $100$ m and walk it. How many such lengths make $1$ km? After school, walk $1$ km with a parent.
+(Lesson: Understanding Times, Do It) Say from the picture: the number of $\bigcirc$ is $\_\_$ times the number of $\triangle$, and the number of $\square$ is $\_\_$ times the number of $\triangle$.
 
-### Solution to Exercise 71
+### Solution to Exercise 17
 
-By **Definition 5.3.3 (The Kilometer)**, $1$ km $=1000$ m; $10$ copies of $100$ m is $1000$ m, i.e. $10$ stretches of $100$ m make $1$ km. Walking $1$ km takes about $10\sim15$ minutes. $\blacksquare$
+By **Definition 4.3.1 (The Meaning of "Times")**, take the fewer kind of shape as $1$ share, count how many such shares the other kind has, and that is the number of times. Count the shares from the numbers in the picture and fill in. $\blacksquare$
 
-## Exercise 72
+## Exercise 18
 
-(Lesson: Estimating Distance, Example) About how far is it from your home to school? How do you estimate?
+(Lesson: Understanding Times, Do It) The first row lays $5$ sticks, and the second row lays $4$ times the first row; the second row lays $\_\_$ copies of $5$ sticks, for a total of $\_\_$ sticks.
 
-### Solution to Exercise 72
+### Solution to Exercise 18
 
-By **Definition 5.3.4 (Conversion Rates and Estimation of Length Units)**, first pick a standard: e.g. a step about $50$ cm, two steps about $1$ m, $1000$ steps about $500$ m; or walking about $70$ m a minute, $10$ minutes about $700$ m; or $3$ bus stops, each about $500$ m, about $1500$ m in all. $\blacksquare$
-
-## Exercise 73
-
-(Lesson: Estimating Distance, Do It) Estimate the length and width of the campus.
-
-### Solution to Exercise 73
-
-Pick one length as a standard (e.g. an arm-span about $1$ m, or a step about $5$ dm), and multiply the number of steps or spans by the standard length to estimate the campus length and width. $\blacksquare$
-
-## Exercise 74
-
-(Lesson: Practice 6, Problem 1) How long does each travel mode below take to go $1$ km? Circle the right answer (walking: $4$ s/$4$ min/$1$ h; bicycle: $15$ s/$15$ min/$1$ h; car: $1$ s/$1$ min/$1$ h).
-
-### Solution to Exercise 74
-
-Walking $1$ km takes about $15$ min, bicycle about $4$ min, car about $1$ min (depending on speed). Circle the reasonable answer from daily experience. $\blacksquare$
-
-## Exercise 75
-
-(Lesson: Practice 6, Problem 2) Fill in: $7$ dm $=\left(\ \right)$ cm; $6000$ m $=\left(\ \right)$ km; $300$ mm $=\left(\ \right)$ dm; $50$ dm $=\left(\ \right)$ m; $8$ km $=\left(\ \right)$ m; $3$ m $=\left(\ \right)$ mm.
-
-### Solution to Exercise 75
-
-By **Definition 5.3.4 (长度单位的进率与估测)**: $7$ dm $=70$ cm; $6000$ m $=6$ km; $300$ mm $=3$ dm; $50$ dm $=5$ m; $8$ km $=8000$ m; $3$ m $=3000$ mm. $\blacksquare$
-
-## Exercise 76
-
-(Lesson: Practice 6, Problem 3) A track is $400$ m around, and Xiaoming ran $5$ laps; how many kilometers did he run in all?
-
-### Solution to Exercise 76
-
-$400\times5=2000$ m $=2$ km. $\blacksquare$
-
-## Exercise 77
-
-(Lesson: Practice 6, Problem 4) A pool is $50$ m long; to swim $1$ km, how many round trips? (A round trip is there and back once.)
-
-### Solution to Exercise 77
-
-One round trip is $50\times2=100$ m; $1$ km $=1000$ m, $1000\div100=10$ round trips. $\blacksquare$
-
-## Exercise 78
-
-(Lesson: Practice 6, Problem 5) Estimate about how high the school teaching building is, and say how you estimated.
-
-### Solution to Exercise 78
-
-One floor is about $3$ m, the building has about $4$ floors, so it is about $12$ m high. Estimate by multiplying the number of floors by the height per floor. $\blacksquare$
-
-## Exercise 79
-
-(Lesson: Practice 6, Problem 6) Compute: $20$ mm $+30$ mm $=\left(\ \right)$ cm; $1$ km $-700$ m $=\left(\ \right)$ m; $3$ m $-1$ m $=\left(\ \right)$ dm; $2$ m $+3$ cm $=\left(\ \right)$ cm.
-
-### Solution to Exercise 79
-
-Unify units: $20$ mm $+30$ mm $=50$ mm $=5$ cm; $1$ km $-700$ m $=1000$ m $-700$ m $=300$ m; $3$ m $-1$ m $=2$ m $=20$ dm; $2$ m $+3$ cm $=200$ cm $+3$ cm $=203$ cm. $\blacksquare$
-
-## Exercise 80
-
-(Lesson: Practice 6, Problem 7) Teacher Wang's home is $3$ km from school; he walks about $100$ m a minute and leaves home at $7:00$; can he reach school by $7:45$?
-
-### Solution to Exercise 80
-
-$3$ km $=3000$ m; walking $3000$ m takes $3000\div100=30$ minutes. Leaving at $7:00$, $30$ minutes gets him there at $7:30$, so by $7:45$ he certainly can. $\blacksquare$
-
-## Exercise 81
-
-(Lesson: Practice 6, Problem 8) Mom takes Xiaoliang on a long-distance bus to visit Grandpa; the trip is $308$ km. They leave at $8$ in the morning and the bus averages $80$ km per hour; can they arrive by noon at $12$?
-
-### Solution to Exercise 81
-
-From $8$ o'clock to $12$ o'clock is $4$ hours, traveling $80\times4=320$ km; $320> 308$, so by noon at $12$ they can arrive. $\blacksquare$
-
-## Exercise 82
-
-(Lesson: Practice 6, Problem 9) Choose a suitable travel mode: to the botanical garden $3$ km, to Sand Lake $30$ km, to Mount Huang $1200$ km.
-
-### Solution to Exercise 82
-
-Choose by distance: $3$ km walk or bike, $30$ km by car, $1200$ km by train or plane. $\blacksquare$
-
-## Exercise 83
-
-(Lesson: Practice 7, Problem 1) Fill a suitable length unit: (1) the full marathon course is about $42$ ( ); (2) a Chinese textbook is about $6$ ( ) thick; (3) a footbridge is about $30$ ( ) long.
-
-### Solution to Exercise 83
-
-Marathon $42$ km; Chinese textbook thickness $6$ mm; footbridge length $30$ m. $\blacksquare$
-
-## Exercise 84
-
-(Lesson: Practice 7, Problem 2) Fill in "$> $" "$< $" or "$=$": $90$ mm $\bigcirc$ $9$ cm; $4$ m $\bigcirc$ $30$ dm; $2$ km $\bigcirc$ $3000$ m; $400$ cm $\bigcirc$ $3$ m; $5$ cm $\bigcirc$ $5$ dm; $6$ dm $\bigcirc$ $500$ mm.
-
-### Solution to Exercise 84
-
-$90$ mm $=9$ cm; $4$ m $=40$ dm $> 30$ dm; $2$ km $=2000$ m $< 3000$ m; $400$ cm $=4$ m $> 3$ m; $5$ cm $< 50$ cm $=5$ dm; $6$ dm $=600$ mm $> 500$ mm. $\blacksquare$
-
-## Exercise 85
-
-(Lesson: Practice 7, Problem 3) Judge: mark "√" if right and "×" if wrong: (1) A primary-school dictionary is $40$ mm thick. (2) A towel is $7$ cm long. (3) Xiaohong's home and grandma's home are $50$ km apart, so she had best walk.
-
-### Solution to Exercise 85
-
-(1) √ ($40$ mm $=4$ cm is reasonable). (2) × (a towel is about $7$ dm long). (3) × ($50$ km is too far, she should ride). $\blacksquare$
-
-## Exercise 86
-
-(Lesson: Practice 7, Problem 4) From Xiaojun's home to the Children's Palace, which way is shortest? How many meters? Routes: Xiaojun's home—park $600$ m—hotel $300$ m—Palace $500$ m; Xiaojun's home—supermarket $900$ m—community hospital $600$ m—Palace $500$ m.
-
-### Solution to Exercise 86
-
-Route one: $600+300+500=1400$ m. Route two: $900+600+500=2000$ m. The way via the park and hotel is shortest, and takes $1400$ m. $\blacksquare$
-
-## Exercise 87
-
-(Lesson: Practice 7, Problem 5) Estimate the length and width of the school basketball court, and say how you estimated.
-
-### Solution to Exercise 87
-
-The court is about $28$ m long and $15$ m wide. Use steps (a step about $5$ dm) to count how many steps the length and width are, then multiply by $5$ dm to estimate. $\blacksquare$
-
-## Exercise 88
-
-(Lesson: Practice 7, Problem 6, Thinking Question) Xiaoliang wants to know how many meters a bundle of wire has in all; help him design a research plan and write the main steps.
-
-### Solution to Exercise 88
-
-By **Definition 5.3.4 (Conversion Rates and Estimation of Length Units)**, first measure a short piece of wire (e.g. $1$ m) and weigh it, then weigh the whole bundle; compute how many times the bundle's mass is the short piece's, and the bundle's length is that times $1$ m. $\blacksquare$
+By **Definition 4.3.1 (The Meaning of "Times")**, $4$ times the first row is $4$ copies of $5$ sticks; the second row lays $4$ copies of $5$ sticks, for $5\times4=20$ sticks in all. $\blacksquare$

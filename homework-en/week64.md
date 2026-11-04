@@ -1,138 +1,195 @@
 # week64
-> **Definition 8.7.1 (轴对称图形)**
+> **Definition 6.3.3 (周长)**
 > 
-> 一个图形沿一条直线对折, 直线两旁的部分能够完全重合, 这个图形叫作轴对称图形, 这条直线叫作它的对称轴. 轴对称图形中, 对应点到对称轴的距离相等.
-> **Definition 8.7.2 (平移)**
+> 封闭图形一周的长度, 是它的周长.
+> **Definition 6.3.4 (长方形和正方形的周长)**
 > 
-> 平移不改变图形的形和大小, 只改变图形的位置.
-> **Definition 8.7.3 (用平移求面积和周长)**
+> 参见教材相应章节关于此概念的论述.
+> **Definition 6.4.1 (面积)**
 > 
-> 的大小. 这是利用旋转 设计的图案. 这是我剪 出的图案. 我们可以按2:1 将这个图形放大, 再利用平移做板 报的花边. 91 图形的运动 我们学过哪些关于图形运动的知识?哪些运动不改变图形的形和大小? 哪些运动只改变图形的大小,而不改变图形的形? 平移,旋转和轴 图形的放大和缩小 对称不改变图形 只改变图形的大小. 的形和大小. 利用图形的运动设计图案 这是我剪 出的图案. 这是利用旋转 设计的图案. 我们可以按2:1 将这个图形放大, 再利用平移做板 报的花边. 做一做 图中 A→B→C→D是怎样变化的? 91
+> 物体表面或封闭图形的大小, 是它们的面积. 比较面积大小要用统一的面积单位去测量, 看含有多少个这样的单位.
+> **Definition 6.4.2 (面积单位)**
+> 
+> 常用面积单位有平方厘米 ($cm^2$), 平方分米 ($dm^2$), 平方米 ($m^2$). 边长 $1$ 厘米的正方形面积是 $1$ 平方厘米, 边长 $1$ 分米的正方形面积是 $1$ 平方分米, 边长 $1$ 米的正方形面积是 $1$ 平方米.
+> **Definition 6.4.3 (长方形和正方形的面积)**
+> 
+> 长方形面积 $=$ 长$\times$宽; 正方形面积 $=$ 边长$\times$边长. 求面积看它包含多少个面积单位.
+> **Definition 6.4.4 (面积单位间的进率)**
+> 
+> 相邻两个常用面积单位间的进率是 $100$: $1$ 平方分米 $=100$ 平方厘米, $1$ 平方米 $=100$ 平方分米.
 
-## Exercise 198
+## Exercise 1
 
-(Lesson: Axial Symmetry, Try It) Complete this axially symmetric figure based on the axis of symmetry.
+(Lesson: Practice 11, Problem 2) Of the three figures below, which has the largest area and which the smallest? (each small cell represents $1$ square centimeter)
 
-### Solution to Exercise 198
+### Solution to Exercise 1
 
-By **Definition 8.7.1 (Axially Symmetric Figures)**, first find several key points on the known half, count each point's grid distance to the axis, mark the corresponding point on the other side at the same distance, then connect them in order. $\blacksquare$
+By **Definition 6.4.1 (面积)**, count the small cells each figure occupies; the one with the most cells has the largest area, and the one with the fewest has the smallest. $\blacksquare$
 
-## Exercise 199
+## Exercise 2
 
-(Lesson: Translation, Try It) Draw the translated figure: translate $5$ squares up and $7$ squares to the right.
+(Lesson: Practice 11, Problem 3) To measure the areas of an ID card, a desk top, a classroom and a playground, which area unit is appropriate in each case?
 
-### Solution to Exercise 199
+### Solution to Exercise 2
 
-By **Definition 8.7.2 (Translation)**, first move each key point of the figure by counting squares in the required direction to its new position, then connect the corresponding points following the original shape. $\blacksquare$
+By **Definition 6.4.2 (面积单位)**, use square centimeters for the ID card, square decimeters for the desk top, and square meters for the classroom and playground. $\blacksquare$
 
-## Exercise 200
+## Exercise 3
 
-(Lesson: Applications of Translation, Try It) What is the area of the figure below? (The two sides are curves, one grid is $1\,\mathrm{cm}$.)
+(Lesson: Practice 11, Problem 4) Fill in the units: the blackboard is $4$ $\_\_$ long; a stamp's area is $4$ $\_\_$; Xiaoming is $128$ $\_\_$ tall; a handkerchief's area is $4$ $\_\_$; Xiaohua's waist is $6$ $\_\_$; the blackboard's area is $4$ $\_\_$.
 
-### Solution to Exercise 200
+### Solution to Exercise 3
 
-By **Definition 8.7.3 (Finding Area by Translation)**, translate the protruding semicircle on the left $6$ squares to the right, exactly forming a rectangle of length $6\,\mathrm{cm}$ and width $4\,\mathrm{cm}$; the area is $6\times4=24$ ($\mathrm{cm}^2$). $\blacksquare$
+Blackboard length $4$ meters, stamp area $4$ square centimeters, height $128$ cm, handkerchief area $4$ square decimeters, waist $6$ dm, blackboard area $4$ square meters. $\blacksquare$
 
-## Exercise 201
+## Exercise 4
 
-(Lesson: Axial Symmetry, Practice 20, Problem 1) Cut out the figures on the attached page, fold them first, then draw the axes of symmetry of the figures below and see how many can be drawn.
+(Lesson: Practice 11, Problem 5) Use $4$ squares of $1$ square centimeter to form the figures below; what is each area? And each perimeter?
 
-### Solution to Exercise 201
+### Solution to Exercise 4
 
-By **Definition 8.7.1 (Axially Symmetric Figures)**, fold in different directions; every fold line along which the parts coincide completely is an axis of symmetry. Count the axes for each figure according to the actual folds. $\blacksquare$
+By **Definition 6.4.1 (面积)**, however they are arranged, they are made of $4$ squares of $1$ square centimeter, so the area is always $4$ square centimeters; the perimeter differs with the arrangement, computed by adding up each figure's outer sides. $\blacksquare$
 
-## Exercise 202
+## Exercise 5
 
-(Lesson: Axial Symmetry, Practice 20, Problem 2) Cut out the masks on the attached page and paste them in the blanks below.
+(Lesson: Areas of Rectangles and Squares — Do It, Problem 1) A rectangular paper is $10$ cm long and $7$ cm wide. (1) What is its area? (2) Cut out the largest square; what is its area?
 
-### Solution to Exercise 202
+### Solution to Exercise 5
 
-By **Definition 8.7.1 (Axially Symmetric Figures)**, fold the mask along the axis of symmetry, cut out half, and unfolding gives a complete axially symmetric mask. $\blacksquare$
+By **Definition 6.4.3 (长方形和正方形的面积)**, (1) $10\times7=70$ (square centimeters). (2) The largest square's side equals the width, $7$ cm, area $7\times7=49$ (square centimeters). $\blacksquare$
 
-## Exercise 203
+## Exercise 6
 
-(Lesson: Axial Symmetry, Practice 20, Problem 3) Fold a sheet of paper in half repeatedly $3$ times, then cut along the red line; what pattern is cut out? What about $4$ folds?
+(Lesson: Areas of Rectangles and Squares — Do It, Problem 2) Using the area of a math-book cover (about $3$ dm long and $2$ dm wide), estimate the desk-top area, and then estimate the classroom area.
 
-### Solution to Exercise 203
+### Solution to Exercise 6
 
-By **Definition 8.7.1 (Axially Symmetric Figures)**, each fold adds one axis of symmetry; after $3$ folds the cut pattern has $4$ continuous layers of axial symmetry, and after $4$ folds it has $8$ layers. $\blacksquare$
+The book cover is $3\times2=6$ (square decimeters); see about how many covers fit on the desk top and multiply by $6$; estimate the classroom floor by length times width; the answer follows your actual estimate. $\blacksquare$
 
-## Exercise 204
+## Exercise 7
 
-(Lesson: Axial Symmetry, Practice 20, Problem 4) Draw the axes of symmetry of the two axially symmetric figures below, and describe what is special about the distance of corresponding points from the axis.
+(Lesson: Area-Unit Rates — Do It, Problem 1) Fill in: $6$ square decimeters $=\_\_$ square centimeters; $5$ square meters $=\_\_$ square decimeters; $300$ square centimeters $=\_\_$ square decimeters.
 
-### Solution to Exercise 204
+### Solution to Exercise 7
 
-By **Definition 8.7.1 (corresponding points are equidistant from the axis of symmetry)**, each pair of corresponding points is the same number of grid squares from the axis. $\blacksquare$
+By **Definition 6.4.4 (Rates Between Area Units)**: $6$ square decimeters $=600$ square centimeters, $5$ square meters $=500$ square decimeters, $300$ square centimeters $=3$ square decimeters. $\blacksquare$
 
-## Exercise 205
+## Exercise 8
 
-(Lesson: Axial Symmetry, Practice 20, Problem 5) Draw the other half of each of the two axially symmetric figures below.
+(Lesson: Area-Unit Rates — Do It, Problem 2) A traffic sign is roughly square, side $8$ dm; about how many square decimeters is its area? How many square centimeters?
 
-### Solution to Exercise 205
+### Solution to Exercise 8
 
-By **Definition 8.7.1 (Axially Symmetric Figures)**, find the key points, mark the corresponding points at equal distance on the other side of the axis, then connect them. $\blacksquare$
+By **Definition 6.4.3 (长方形和正方形的面积)** and **Definition 6.4.4 (面积单位间的进率)**, area $8\times8=64$ (square decimeters), $64$ square decimeters $=6400$ square centimeters. $\blacksquare$
 
-## Exercise 206
+## Exercise 9
 
-(Lesson: Axial Symmetry, Practice 20, Problem 6) Which sheet of paper was each figure below cut from? Draw the connections.
+(Lesson: Practice 12, Problem 1) Compute the perimeter and area of the figures below (unit: cm).
 
-### Solution to Exercise 206
+### Solution to Exercise 9
 
-By **Definition 8.7.1 (Axially Symmetric Figures)**, fold the cut-out pattern along the fold line and compare with the holes in each sheet; connect the ones that coincide. $\blacksquare$
+By **Definition 6.3.4 (Perimeter of Rectangles)** and **Definition 6.4.3 (长方形和正方形的面积)**, for a rectangle the perimeter is $=$(length$+$width)$\times2$ and the area is $=$ length$\times$width; for a square the perimeter is $=$ side$\times4$ and the area is $=$ side$\times$side; compute each. $\blacksquare$
 
-## Exercise 207
+## Exercise 10
 
-(Lesson: Axial Symmetry, Practice 20, Problem 7) Can you draw the other half of the figure below? Have a try.
+(Lesson: Practice 12, Problem 2) Fill in: $3$ square decimeters $=\_\_$ square centimeters; $2$ square meters $=\_\_$ square decimeters; $500$ square centimeters $=\_\_$ square decimeters; $100$ dm $=\_\_$ m.
 
-### Solution to Exercise 207
+### Solution to Exercise 10
 
-By **Definition 8.7.1 (Axially Symmetric Figures)**, count each key point's distance to the axis, mark the corresponding points on the other side, then connect them. $\blacksquare$
+By **Definition 6.4.4 (面积单位间的进率)**: $3$ square decimeters $=300$ square centimeters, $2$ square meters $=200$ square decimeters, $500$ square centimeters $=5$ square decimeters; $100$ dm $=10$ m. $\blacksquare$
 
-## Exercise 208
+## Exercise 11
 
-(Lesson: Translation, Practice 21, Problem 1) Translate the boat $4$ squares to the right and color the resulting figure.
+(Lesson: Practice 12, Problem 3) The front wall of the classroom is $6$ m long and $3$ m wide; the blackboard on it has area $3$ square meters. What area is to be painted?
 
-### Solution to Exercise 208
+### Solution to Exercise 11
 
-By **Definition 8.7.2 (Translation)**, move each point of the boat $4$ squares to the right to its new position, connect them into the new boat, then color it. $\blacksquare$
+Wall area $6\times3=18$ (square meters), minus the blackboard's $3$ square meters, leaves $18-3=15$ (square meters) to paint. $\blacksquare$
 
-## Exercise 209
+## Exercise 12
 
-(Lesson: Translation, Practice 21, Problem 2) Draw the figures obtained by translating the figure $3$ squares up and $8$ squares to the left.
+(Lesson: Practice 12, Problem 4) A square pond has perimeter $36$ m; what is its area in square meters?
 
-### Solution to Exercise 209
+### Solution to Exercise 12
 
-By **Definition 8.7.2 (Translation)**, first move the key points $3$ squares up and connect them for the first figure, then move them $8$ squares to the left and connect them for the second figure. $\blacksquare$
+Side $36\div4=9$ (m), area $9\times9=81$ (square meters). $\blacksquare$
 
-## Exercise 210
+## Exercise 13
 
-(Lesson: Translation, Practice 21, Problem 3) What fraction of the whole figure is the colored part?
+(Lesson: Practice 12, Problem 5) Look around for rectangular and square surfaces; first estimate the area, then measure and compute.
 
-### Solution to Exercise 210
+### Solution to Exercise 13
 
-By **Definition 8.7.3 (using translation)**, move the scattered colored pieces together by translation, then count what fraction of the whole figure the assembled pieces occupy. $\blacksquare$
+By **Definition 6.4.3 (长方形和正方形的面积)**, first estimate by eye, then measure the length and width (or side), use length$\times$width (side$\times$side) to compute the actual area, and fill in the table. $\blacksquare$
 
-## Exercise 211
+## Exercise 14
 
-(Lesson: Translation, Practice 21, Problem 4) Think about how to compute the perimeter of the figure below. (One grid is $1\,\mathrm{cm}$.)
+(Lesson: Practice 12, Problem 6) A rectangular flower bed is $5$ m long and $2$ m wide. (1) Find the flower bed's area. (2) Enclose it on all four sides with a fence; how long is the fence?
 
-### Solution to Exercise 211
+### Solution to Exercise 14
 
-By **Definition 8.7.3 (Finding Perimeter by Translation)**, translate the recessed horizontal edge upward and the vertical edges outward, exactly transforming the figure into a rectangle; compute it by the rectangle perimeter formula. $\blacksquare$
+(1) Area $5\times2=10$ (square meters). (2) The fence length is the perimeter $\left(5+2\right)\times2=14$ (meters). $\blacksquare$
 
-## Exercise 212
+## Exercise 15
 
-(Lesson: Translation, Practice 21, Problem 5) In which direction and by how many squares should each little animal translate to reach its favorite food?
+(Lesson: Practice 12, Problem 7) From a square sheet of side $5$ cm, cut out a rectangle $3$ cm long and $2$ cm wide, in three ways; what is the remaining area in each? And the perimeter?
 
-### Solution to Exercise 212
+### Solution to Exercise 15
 
-By **Definition 8.7.2 (Translation)**, observe the relative position of each animal to its food, count the horizontal and vertical squares needed, e.g. translate right by some squares then up by some squares. $\blacksquare$
+Original area $5\times5=25$ (square centimeters), cut out $3\times2=6$ (square centimeters); for all three ways the remaining area is $25-6=19$ (square centimeters). The perimeter differs by the way: cutting from an edge keeps it unchanged or adds two sides, and cutting from a corner keeps it unchanged; add up the outer sides in each case. $\blacksquare$
 
-## Exercise 213
+## Exercise 16
 
-(Lesson: Translation, Practice 21, Problem 6) First complete this axially symmetric figure based on the axis, then draw the figure obtained by translating it $10$ squares to the right.
+(Lesson: Practice 12, Problem 8) A plan of a park lawn (a large rectangle $10\times8$ m with a $5\times4$ m gap); what is the lawn's area? Can you compute it a different way?
 
-### Solution to Exercise 213
+### Solution to Exercise 16
 
-By **Definition 8.7.1 (Axial Symmetry)**, first complete the other half; then by **Definition 8.7.2 (Translation)**, move each key point of the completed figure $10$ squares to the right and connect them to get the translated figure. $\blacksquare$
+By **Definition 6.4.3 (长方形和正方形的面积)**, the large rectangle is $10\times8=80$ (square meters), minus the gap $5\times4=20$ (square meters), giving a lawn of $80-20=60$ (square meters); alternatively split the lawn into two rectangles, compute each and add. $\blacksquare$
+
+## Exercise 17
+
+(Lesson: Practice 13, Problem 1) Fill in the units: a big tree is $16$ $\_\_$ tall; a crayon is $1$ $\_\_$ long; a dictionary is $5$ $\_\_$ thick; the school occupies $9000$ $\_\_$.
+
+### Solution to Exercise 17
+
+Tree height $16$ m, crayon length $1$ dm, dictionary thickness $5$ cm, school area $9000$ square meters. $\blacksquare$
+
+## Exercise 18
+
+(Lesson: Practice 13, Problem 2) Fill in "$> $", "$< $" or "$=$": $100$ square meters$\bigcirc10$ square meters; $10$ square decimeters$\bigcirc999$ square centimeters; $400$ square centimeters$\bigcirc4$ square decimeters; $1000$ square centimeters$\bigcirc1$ square meter.
+
+### Solution to Exercise 18
+
+By **Definition 6.4.4 (面积单位间的进率)**: $100$ square meters $> 10$ square meters; $10$ square decimeters $=1000$ square centimeters $> 999$ square centimeters; $400$ square centimeters $=4$ square decimeters; $1000$ square centimeters $< 1$ square meter ($1$ square meter $=10000$ square centimeters). $\blacksquare$
+
+## Exercise 19
+
+(Lesson: Practice 13, Problem 3) A robot vacuum cleans $3$ square meters per minute; the room is $6$ m long and $4$ m wide. How many minutes to clean this room?
+
+### Solution to Exercise 19
+
+Room area $6\times4=24$ (square meters), $24\div3=8$ (minutes). $\blacksquare$
+
+## Exercise 20
+
+(Lesson: Practice 13, Problem 4) An empty lot $15$ m long and $6$ m wide is to be fully paved with square tiles of side $3$ dm; how many tiles are needed?
+
+### Solution to Exercise 20
+
+Lot area $15\times6=90$ (square meters) $=9000$ square decimeters; each tile is $3\times3=9$ (square decimeters); $9000\div9=1000$ (tiles). $\blacksquare$
+
+## Exercise 21
+
+(Lesson: Practice 13, Problem 5) A sprinkler truck travels $200$ m per minute, watering a width of $8$ m; what area does it water in $5$ minutes?
+
+### Solution to Exercise 21
+
+Per minute it waters $200\times8=1600$ (square meters); in $5$ minutes, $1600\times5=8000$ (square meters). $\blacksquare$
+
+## Exercise 22
+
+(Lesson: Practice 13, Problem 6) True or false: (1) $6$ square meters $=60$ square decimeters. (2) Using $8$ identical squares to form a rectangle has only one way. (3) Any figure formed by $8$ squares of $1$ square decimeter has area $8$ square decimeters.
+
+### Solution to Exercise 22
+
+(1) $\times$, $6$ square meters $=600$ square decimeters. (2) $\times$, $8=1\times8=2\times4$, so there are two ways. (3) $\surd$, however arranged, the total area is always $8$ squares of $1$ square decimeter. $\blacksquare$

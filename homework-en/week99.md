@@ -1,184 +1,134 @@
 # week99
-> **Definition 12.1.1 (Positive and Negative Numbers)**
+> **Definition 9.2.1 (小数乘整数)**
 > 
-> 像 3, 1.8%, 3.5 这样大于 0 的数叫做正数; 像 -3, -2.7%, -4.5 这样在正数前加上负号的数叫做负数.
-> **Definition 12.2.1 (折扣)**
+> 先把小数转化为整数 (乘 $10,100,\cdots$), 按整数乘法算出积, 再把积除以相同的倍数, 点上小数点. 如 $9.5\times3$, 把 $9.5$ 看作 $95$ 角, $95\times3=285$ 角 $=28.5$ 元.
+> **Definition 9.2.2 (小数乘小数)**
 > 
-> 商品按原价的百分之几出售, 通常称打几折出售. 几折就表示十分之几, 也就是百分之几十.
-> **Definition 12.2.2 (成数)**
+> 先按整数乘法算出积, 再看两个乘数中一共有几位小数, 就从积的右边起数出几位, 点上小数点; 乘得的积的小数位数不够时, 要在前面用 $0$ 补足, 再点小数点.
+> **Definition 9.2.3 (积的近似数)**
 > 
-> 成数表示一个数是另一个数的十分之几, 通称"几成". 一成就是十分之一, 即 $10\%$; 二成就是 $20\%$; 三成五就是十分之三点五, 即 $35\%$.
-> **Definition 12.2.3 (税率)**
+> 根据需要, 按"四舍五入"法保留一定的小数位数, 求出积的近似数.
+> **Definition 9.2.4 (倍数是小数)**
 > 
-> 应缴纳的税款叫作应纳税额, 应纳税额与各种收入 (销售额, 营业额等) 中应纳税部分的比率叫作税率. 应纳税额 $=$ 收入中应纳税部分 $\times$ 税率.
-> **Definition 12.2.4 (Interest Rate and Interest)**
+> 一个数 ( $0$ 除外) 乘大于 $1$ 的数, 积比原来的数大; 乘小于 $1$ 的数, 积比原来的数小. 用小数表示倍的关系时, 也用乘法解决.
+> **Definition 9.2.5 (整数乘法运算律推广到小数)**
 > 
-> 存入银行的钱叫做本金, 取款时银行多支付的钱叫做利息, 单位时间内利息与本金的比率叫做利率. 利息 = 本金 * 利率 * 存期.
+> .2 13.7+0.98+0.02+4.3 计算下面各题,怎样简便就怎样计算. 2 做一做 整数加法运算律推广到小数 谁的方法更简便?你是怎样想的? 说一说小丽在计算时应用了什么运算律. 小伟这样算: 0.6+7.91+3.4+0.09 = 8.51+3.4+0.09 = 11.91+0.09 = 12 0.6+7.91+3.4+0.09 = (0.6+3.4)+(7.91+0.09) = 4+8 = 12 小丽这样算: 计算0.6+7.91+3.4+0.09. 4 3.2+0.5 0.5+3.2 (4.7+2.6)+7.4 4.7+(2.6+7.4) 整数加法的交换律,结合律对小数加法同样适用. 应用运算律,可以使一些小数计算更简便. 我们已经学过整数加法的运算律,这些运算律在小数运算中还 适用吗?计算下面每组的两个算式,看看它们有什么关系. 你有什么发现?你能 举例验证吗? 整数加法运算律推广到小数 我们已经学过整数加法的运算律,这些运算律在小数运算中还 适用吗?计算下面每组
+> **Definition 9.2.6 (估算解决实际问题)**
+> 
+> 98人,四至六 年级来了187人.六个年级的学生同时看电影,坐得下吗? 做一做 有时不需要精确计算,估算也能解决问题. 只要算出总价,与500 元, 700元比较就行了.不过这 两个三位数相加不好算. 我来估计:358+249. ↓ ↓ 只看百位:300+200=500, 总价肯定超过500元了. 我也只看百位,就 知道带700元够了. 75 右边的两种棋各 买一副,500元够 吗?700元呢? 围棋:358元 国际象棋:249元 阅读理解 知道了两种棋的价格····要解决的问题是····· 分析解答 我来估计:358+249. 只要算出总价,与500元, 只看百位:300+200=500, 700元比较就行了.不过这 总价肯定超过500元了 两个三位数相加不好算 我也只看百位,就 知道带700元够了. + 21 41 358< 400, 249< 300, 那么 358＋249小于 700. 口答:两种棋各买一副,500元不够,700元够. 回顾反思 有时不需要精确计算,估
+> **Definition 9.2.7 (分段计费)**
+> 
+> 出租车, 水费等分段计费问题, 先按标准分成几段, 分别计算每段费用, 再相加; 不足 $1$ 单位按 $1$ 单位计算.
+
+## Exercise 1
+
+(Lesson: Decimal Multiplication, Practice 2, Review and Consolidation, Problem 3) Judge whether the number of decimal places in each product is wrong: $2.8\times5.6=1.568$; $56.7\times38=2154.6$; $0.37\times0.94=3.478$; $1.56\times0.9=1.404$; $1.23\times29.2=359.16$; $0.78\times6.1=47.58$.
+
+### Solution to Exercise 1
+
+Check the decimal places by **Definition 9.2.2 (小数乘小数)**: $2.8\times5.6$ has two places, $28\times56=1568$, should be $15.68$, the original $1.568$ is wrong; $56.7\times38$ has one place, $2154.6$ is right; $0.37\times0.94$ has four places, $37\times94=3478$, should be $0.3478$, the original $3.478$ is wrong; $1.56\times0.9$ has three places, $1404$, should be $1.404$, right; $1.23\times29.2$ has three places, $123\times292=35916$, should be $359.16$, right; $0.78\times6.1$ has three places, $78\times61=4758$, should be $4.758$, the original $47.58$ is wrong. $\blacksquare$
+
+## Exercise 2
+
+(Lesson: Decimal Multiplication, Practice 2, Review and Consolidation, Problem 4) Calculate as required: (1) keep one decimal: $0.37\times8.7$, $1.2\times1.4$, $3.14\times3.9$; (2) keep two decimals: $2.34\times0.17$, $0.86\times1.6$, $1.05\times0.26$.
+
+### Solution to Exercise 2
+
+By **Definition 9.2.3 (积的近似数)**: (1) $0.37\times8.7=3.219\approx3.2$; $1.2\times1.4=1.68\approx1.7$; $3.14\times3.9=12.246\approx12.2$. (2) $2.34\times0.17=0.3978\approx0.40$; $0.86\times1.6=1.376\approx1.38$; $1.05\times0.26=0.273\approx0.27$. $\blacksquare$
+
+## Exercise 3
+
+(Lesson: Decimal Multiplication, Practice 2, Integrated Use, Problem 1) Xiao Ming takes a $3.4$-hour bus ride to his grandfather's house at an average speed of $70.5$ km/h; how many kilometers does the bus travel?
+
+### Solution to Exercise 3
+
+Distance $=$ speed $\times$ time, $70.5\times3.4=239.7$ km. $\blacksquare$
+
+## Exercise 4
+
+(Lesson: Decimal Multiplication, Practice 2, Integrated Use, Problem 2) Based on $32\times15=480$, complete the table: factors $32,320,32,3.2,32,0.32$; factors $15,150,15,15,1.5,0.15$; product $480$.
+
+### Solution to Exercise 4
+
+By the decimal-place relation of factors and product in **Definition 9.2.2 (小数乘小数)**: $32\times15=480$; $320\times150=48000$; $32\times15=480$; $3.2\times15=48$; $32\times1.5=48$; $0.32\times0.15=0.048$. $\blacksquare$
+
+## Exercise 5
+
+(Lesson: Decimal Multiplication, Practice 2, Integrated Use, Problem 3) The Earth's diameter is about $1.28$ ten thousand km, and the Moon-to-Earth distance is about $30$ times the Earth's diameter. How far is the Moon from the Earth?
+
+### Solution to Exercise 5
+
+$1.28\times30=38.4$ ten thousand km. $\blacksquare$
+
+## Exercise 6
+
+(Lesson: Decimal Multiplication, Practice 2, Integrated Use, Problem 4) Xiao Liang's home is about $1.3$ km from school; he walks back and forth twice a day. (1) How many kilometers does he walk each day? How many from Monday to Friday?
+
+### Solution to Exercise 6
+
+Two round trips means $4$ one-way trips: $1.3\times4=5.2$ km. Monday to Friday, $5$ days: $5.2\times5=26$ km. $\blacksquare$
+
+## Exercise 7
+
+(Lesson: Decimal Multiplication, Practice 2, Integrated Use, Problem 5) A building has $21$ floors, each $3.04$ m high. About how tall is the building? (Keep an integer.)
+
+### Solution to Exercise 7
+
+By **Definition 9.2.3 (积的近似数)**, $3.04\times21=63.84\approx64$ m. $\blacksquare$
+
+## Exercise 8
+
+(Lesson: Decimal Multiplication, Practice 2, Extension and Improvement, Problem 1) Based on $65\times39=2535$, fill suitable numbers in the parentheses: $2.535=\left(\ \ \right)\times\left(\ \ \right)$; $25.35=\left(\ \ \right)\times\left(\ \ \right)$; $253.5=\left(\ \ \right)\times\left(\ \ \right)$; $0.2535=\left(\ \ \right)\times\left(\ \ \right)$.
+
+### Solution to Exercise 8
+
+By **Definition 9.2.2 (小数乘小数)**, the product's decimal places equal the sum of the factors' decimal places. The answer is not unique, e.g. $2.535=6.5\times0.39$; $25.35=6.5\times3.9$; $253.5=65\times3.9$; $0.2535=0.65\times0.39$. $\blacksquare$
+
+## Exercise 9
+
+(Lesson: Decimal Multiplication, Practice 2, Thinking Question) An integer (denoted $\square$) and a decimal (denoted $\triangle$) sum to exactly their product: $\square+\triangle=\square\times\triangle$. What are the two numbers?
+
+### Solution to Exercise 9
+
+From $\square+\triangle=\square\times\triangle$, rearrange to $\triangle=\frac{\square}{\square-1}$. Try $\square=2$, $\triangle=2$; try $\square=3$, $\triangle=\frac{3}{2}=1.5$, check $3+1.5=4.5=3\times1.5$. One solution is $\square=3$, $\triangle=1.5$. $\blacksquare$
+
+## Exercise 10
+
+(Lesson: Multiples That Are Decimals, Example) Class 4(1)'s peanut yield is $3.9$ kg; Class 4(2) is $0.8$ times Class 4(1), and Class 4(3) is $1.2$ times Class 4(1). Find the yields of Class 4(2) and Class 4(3).
+
+### Solution to Exercise 10
+
+By **Definition 9.2.4 (Multiples That Are Decimals)**, Class 4(2): $3.9\times0.8=3.12$ kg; Class 4(3): $3.9\times1.2=4.68$ kg. $\blacksquare$
+
+## Exercise 11
+
+(Lesson: Multiples That Are Decimals, Try It) A ribbon costs $3.2$ yuan per meter; how much do $0.8$ m, $0.5$ m, $1.4$ m and $2.6$ m cost?
+
+### Solution to Exercise 11
+
+By **Definition 9.2.4 (倍数是小数)**: $3.2\times0.8=2.56$ yuan; $3.2\times0.5=1.6$ yuan; $3.2\times1.4=4.48$ yuan; $3.2\times2.6=8.32$ yuan. $\blacksquare$
 
 ## Exercise 12
 
-(Lesson: Discount, Example 1) (1) Dad buys Xiaoyu a bicycle originally priced at $280$ yuan, now sold at 15% off. How much does the bicycle cost? (2) An electric kettle originally priced at $160$ yuan is now sold at 10% off. How much cheaper is it than the original price?
+(Lesson: Multiples That Are Decimals, Try It, Problem 2) Fill the $\bigcirc$ with $> $, $< $ or $=$: $756\times0.9\bigcirc756$; $1\times0.94\bigcirc1$; $4.25\times1.1\bigcirc4.25$; $31.4\times1.2\bigcirc31.4$.
 
 ### Solution to Exercise 12
 
-By **Definition 12.2.1 (Discount)**. (1) Current price $=280\times85\%=238$ (yuan). (2) Selling at 10% off means $90\%$ of the original price; the saving is $1-90\%=10\%$ of the original price: $160\times\left(1-90\%\right)=160\times10\%=16$ (yuan). $\blacksquare$
+By **Definition 9.2.4 (倍数是小数)**, multiplying by a number less than $1$ shrinks the product and by a number greater than $1$ enlarges it: $756\times0.9< 756$; $1\times0.94< 1$; $4.25\times1.1> 4.25$; $31.4\times1.2> 31.4$. $\blacksquare$
 
 ## Exercise 13
 
-(Lesson: Discount, Do It) Compute the discounted price of each item below (unit: yuan): original price $80$ at 65%; original price $105$ at 70%; original price $35$ at 88%.
+(Lesson: Extending the Integer Multiplication Laws to Decimals, Example) Convenient calculation: $0.25\times4.78\times4$; $0.65\times202$.
 
 ### Solution to Exercise 13
 
-By **Definition 12.2.1 (Discount)**, current price $=$ original price $\times$ discount: $80\times65\%=52$ (yuan); $105\times70\%=73.5$ (yuan); $35\times88\%=30.8$ (yuan). $\blacksquare$
+By **Definition 9.2.5 (Extending the Laws)**: $0.25\times4.78\times4=0.25\times4\times4.78=1\times4.78=4.78$; $0.65\times202=0.65\times\left(200+2\right)=0.65\times200+0.65\times2=130+1.3=131.3$. $\blacksquare$
 
 ## Exercise 14
 
-(Lesson: Tenths (Cheng), Example 2) A factory used $350$ ten-thousand kWh of electricity last year; this year it reduced consumption by 25% (two and a half cheng). How much electricity did it use this year, in ten-thousand kWh?
+(Lesson: Extending the Integer Multiplication Laws to Decimals, Try It) Fill by the operation laws and calculate conveniently: $4.2\times1.69=\_\_\times\_\_$; $2.5\times\left(0.77\times0.4\right)=\left(\_\_\times\_\_\right)\times\_\_$; $7.2\times8.4+2.8\times8.4=\_\_\times\left(\_\_+\_\_\right)$; $101\times0.45$; $4.75\times99+4.75$; $0.034\times0.5\times0.6$; $2.73\times99$.
 
 ### Solution to Exercise 14
 
-By **Definition 12.2.2 (Tenths, or Cheng)**, reducing consumption by 25% means using $25\%$ less, so this year's usage is $1-25\%=75\%$ of last year's: $350\times\left(1-25\%\right)=350\times75\%=262.5$ (ten-thousand kWh). $\blacksquare$
-
-## Exercise 15
-
-(Lesson: Tenths (Cheng), Do It) A city received about $96$ ten-thousand tourist visits in 2019, a 20% (two cheng) increase over the previous year. About how many ten-thousand tourist visits did the city receive in 2018?
-
-### Solution to Exercise 15
-
-By **Definition 12.2.2 (Tenths, or Cheng)**, a 20% increase means 2019 is $1+20\%=120\%$ of 2018. The 2018 number of visitors $=96\div\left(1+20\%\right)=96\div1.2=80$ (ten thousand). $\blacksquare$
-
-## Exercise 16
-
-(Lesson: Tax Rate, Example 3) A small-scale taxpayer must pay value-added tax at $3\%$ of its taxable sales. In October its taxable sales were $30$ ten-thousand yuan. How much value-added tax must it pay in October, in ten-thousand yuan?
-
-### Solution to Exercise 16
-
-By **Definition 12.2.3 (Tax Rate)**, the taxable amount $=30\times3\%=0.9$ (ten thousand yuan). $\blacksquare$
-
-## Exercise 17
-
-(Lesson: Tax Rate, Do It) In a certain month, Aunt Li's taxable portion of salary was $2500$ yuan, on which she must pay personal income tax on wages and salaries at a rate of $3\%$. How much personal income tax on wages and salaries should she pay that month?
-
-### Solution to Exercise 17
-
-By **Definition 12.2.3 (Tax Rate)**, the taxable amount $=2500\times3\%=75$ (yuan). $\blacksquare$
-
-## Exercise 18
-
-(Lesson: Interest Rate, Example 4) Grandma Wang deposits $5000$ yuan in a lump-sum time deposit at the bank for a two-year term at an annual interest rate of $2.10\%$. When the deposit matures, she withdraws both principal and interest. How much can she withdraw?
-
-### Solution to Exercise 18
-
-By **Definition 12.2.4 (Interest Rate and Interest)**, interest $=5000\times2.10\%\times2=210$ (yuan); principal plus interest $=5000+210=5210$ (yuan). $\blacksquare$
-
-## Exercise 19
-
-(Lesson: Interest Rate, Do It) Grandpa Zhang deposits $8000$ yuan in a three-year time deposit at an annual interest rate of $2.75\%$. When it matures and is withdrawn, how much interest does he earn? How much can he withdraw in total at maturity?
-
-### Solution to Exercise 19
-
-By **Definition 12.2.4 (Interest Rate and Interest)**, interest $=8000\times2.75\%\times3=660$ (yuan); total withdrawal $=8000+660=8660$ (yuan). $\blacksquare$
-
-## Exercise 20
-
-(Lesson: Promotion, Example 5) A brand of skirt is sold at 45% off at Mall A, and at "spend $100$, save $50$" at Mall B. Mom wants to buy a skirt tagged at $230$ yuan. (1) How much would she pay at each mall, A and B? (2) Which mall saves more money?
-
-### Solution to Exercise 20
-
-By **Definition 12.2.1 (Discount)**. (1) Mall A: $230\times55\%=126.5$ (yuan). Mall B: $230$ contains $2$ instances of $100$, so subtract $2$ savings of $50$ yuan: $230-50\times2=130$ (yuan). (2) Since $126.5< 130$, Mall A saves more. $\blacksquare$
-
-## Exercise 21
-
-(Lesson: Promotion, Do It) A brand of sneakers is sold at "spend $100$, save $40$" at Mall A, and at 40% off at Mall B. Mom plans to buy Xiaoli a pair of sneakers tagged at $120$ yuan. What is the price difference between buying at Mall A and Mall B?
-
-### Solution to Exercise 21
-
-By **Definition 12.2.1 (Discount)**. Mall A: $120$ contains $1$ of $100$, so $120-40=80$ (yuan). Mall B: $120\times60\%=72$ (yuan). The difference is $80-72=8$ (yuan). $\blacksquare$
-
-## Exercise 22
-
-(Lesson: Exercise 2, Problem 1) After $8{:}00$ p.m., the bread counter offers 50% off on everything. The four kinds of bread are originally priced at $4$, $6$, $5$, and $8.8$ yuan. (1) After the discount, how much is each kind? (2) After $8{:}00$ p.m., Lingling takes $10$ yuan to buy bread; how might she buy it?
-
-### Solution to Exercise 22
-
-By **Definition 12.2.1 (Discount)**, 50% off means selling at $50\%$ of the original price. (1) After discount they are $4\times50\%=2$ yuan, $6\times50\%=3$ yuan, $5\times50\%=2.5$ yuan, and $8.8\times50\%=4.4$ yuan. (2) With $10$ yuan she can combine freely, as long as the discounted total does not exceed $10$ yuan; for example, two $2$-yuan loaves plus one $4.4$-yuan loaf come to $8.4$ yuan. $\blacksquare$
-
-## Exercise 23
-
-(Lesson: Exercise 2, Problem 2) Xiaofeng's parents are buying new furniture and have chosen $4$ pieces. For the anniversary sale everything is 20% off; their original prices are $200$, $220$, and $2400$ yuan, plus a fourth piece. After the discount, how much is due for each of the $4$ pieces?
-
-### Solution to Exercise 23
-
-By **Definition 12.2.1 (Discount)**, 20% off means $80\%$ of the original price. The $200$-yuan piece costs $200\times80\%=160$ yuan; the $220$-yuan piece costs $220\times80\%=176$ yuan; the $2400$-yuan piece costs $2400\times80\%=1920$ yuan; the $4$th piece is computed by multiplying its original price by $80\%$. $\blacksquare$
-
-## Exercise 24
-
-(Lesson: Exercise 2, Problem 3) Books at a bookstore are 20% off with a discount card. Xiaoming bought a set of books with the card and saved $9.6$ yuan. What was the original price of the set?
-
-### Solution to Exercise 24
-
-By **Definition 12.2.1 (Discount)**, 20% off means paying only $80\%$ of the original price, so the saving is $1-80\%=20\%$ of the original price; this $20\%$ equals $9.6$ yuan. The original price $=9.6\div\left(1-80\%\right)=9.6\div20\%=48$ (yuan). $\blacksquare$
-
-## Exercise 25
-
-(Lesson: Exercise 2, Problem 4) A county's autumn grain output the year before last was $48$ ten-thousand tons, and last year it increased by 20% (two cheng). What was last year's autumn grain output in ten-thousand tons?
-
-### Solution to Exercise 25
-
-By **Definition 12.2.2 (Tenths, or Cheng)**, a 20% increase means last year was $1+20\%=120\%$ of the year before last: $48\times\left(1+20\%\right)=48\times1.2=57.6$ (ten-thousand tons). $\blacksquare$
-
-## Exercise 26
-
-(Lesson: Exercise 2, Problem 5) An automobile company exported $1.3$ ten-thousand cars in February, a 30% (three cheng) increase over the previous month. How many ten-thousand cars did it export in January?
-
-### Solution to Exercise 26
-
-By **Definition 12.2.2 (Tenths, or Cheng)**, February's 30% growth over January means February was $1+30\%=130\%$ of January. January's exports $=1.3\div\left(1+30\%\right)=1.3\div1.3=1$ (ten thousand). $\blacksquare$
-
-## Exercise 27
-
-(Lesson: Exercise 2, Problem 6) Mom bought a bottle of cosmetics priced at $200$ yuan, on which consumption tax accounts for $15\%$ of the price. How much consumption tax did she pay?
-
-### Solution to Exercise 27
-
-By **Definition 12.2.3 (Tax Rate)**, consumption tax $=200\times15\%=30$ (yuan). $\blacksquare$
-
-## Exercise 28
-
-(Lesson: Exercise 2, Problem 7) Xiaoming's father received a service fee of $3000$ yuan, of which $800$ yuan is tax-free; the remainder is taxed at $20\%$. How much tax is paid on this service fee in total?
-
-### Solution to Exercise 28
-
-By **Definition 12.2.3 (Tax Rate)**, the taxable portion $=3000-800=2200$ yuan; the taxable amount $=2200\times20\%=440$ (yuan). $\blacksquare$
-
-## Exercise 29
-
-(Lesson: Exercise 2, Problem 8) A department store promotion: Brand A shoes save $100$ yuan on every $200$ spent; Brand B shoes offer a "discount on a discount" — first 40% off, then a further 5% off. Both brands have a pair tagged at $220$ yuan. Which brand is cheaper?
-
-### Solution to Exercise 29
-
-By **Definition 12.2.1 (Discount)**. Brand A: $220$ contains $1$ of $200$, so $220-100=120$ (yuan). Brand B: $220\times60\%\times95\%=220\times0.6\times0.95=125.4$ (yuan). Since $120< 125.4$, Brand A is cheaper. $\blacksquare$
-
-## Exercise 30
-
-(Lesson: Exercise 2, Problem 9) Dad wants to buy books at an online bookstore: Shop A sells at 30% off, while Shop B saves $19$ yuan on every $69$ spent. If the book Dad wants is tagged at $80$ yuan, how much would he pay at each shop, A and B? What is the difference?
-
-### Solution to Exercise 30
-
-By **Definition 12.2.1 (Discount)**. Shop A: $80\times70\%=56$ (yuan). Shop B: $80$ contains $1$ of $69$, so $80-19=61$ (yuan). The difference is $61-56=5$ (yuan). $\blacksquare$
-
-## Exercise 31
-
-(Lesson: Exercise 2, Problem 10) Mom has $1$ ten-thousand yuan and two investment options: one is a three-year government bond at an annual interest rate of $3.35\%$; the other is a one-year bank wealth-management product with an expected annual return of $3.6\%$, rolled over each year with principal and interest into the next year. If the expected return is realized, what is the difference in earnings between the two options after $3$ years?
-
-### Solution to Exercise 31
-
-By **Definition 12.2.4 (Interest Rate and Interest)**. Bond interest $=10000\times3.35\%\times3=1005$ (yuan). The wealth-management product rolls over principal plus interest each year: at the end of year 1, $10000\times1.036=10360$ yuan; at the end of year 2, $10360\times1.036=10732.96$ yuan; at the end of year 3, $10732.96\times1.036\approx11119.35$ yuan, giving earnings of about $11119.35-10000=1119.35$ yuan. The difference in earnings is $1119.35-1005=114.35$ (yuan). $\blacksquare$
-
-## Exercise 32
-
-(Lesson: Exercise 2, Problem 11) In 2021, China's output of LCD TVs was $17424.3$ ten-thousand sets, a growth of $-9.5\%$ over 2020. What was China's LCD TV output in 2020 in ten-thousand sets? (Round to one decimal place.)
-
-### Solution to Exercise 32
-
-By **Definition 12.1.1 (Positive and Negative Numbers)** and **Definition 12.2.2 (Tenths, or Cheng)**, a growth of $-9.5\%$ means 2021 was $9.5\%$ below 2020, i.e. $1-9.5\%=90.5\%$ of 2020. The 2020 output $=17424.3\div90.5\%\approx19253.4$ (ten thousand). $\blacksquare$
+By **Definition 9.2.5 (Operation Laws Extended)**: $4.2\times1.69=1.69\times4.2$; $2.5\times\left(0.77\times0.4\right)=\left(2.5\times0.4\right)\times0.77$; $7.2\times8.4+2.8\times8.4=8.4\times\left(7.2+2.8\right)=84$. Convenient calculation: $101\times0.45=\left(100+1\right)\times0.45=45+0.45=45.45$; $4.75\times99+4.75=4.75\times\left(99+1\right)=475$; $0.034\times0.5\times0.6=0.034\times0.3=0.0102$; $2.73\times99=2.73\times\left(100-1\right)=273-2.73=270.27$. $\blacksquare$

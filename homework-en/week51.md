@@ -1,210 +1,182 @@
 # week51
-> **Definition 7.3.1 (角的再认识)**
+> **Definition 5.5.1 (口算乘法)**
 > 
-> 角可以看作由一条射线绕着它的端点, 从一个位置旋转到另一个位置所形成的图形. 旋转半周形成平角, 旋转一周形成周角, 旋转四分之一周形成直角.
-> **Definition 7.3.2 (角的分类)**
+> 整十, 整百数乘一位数, 先把 $0$ 前面的数与一位数相乘, 再在积的末尾添上相应个数的 $0$. 两位数乘一位数, 把两位数分成整十数和一位数, 分别相乘后再相加.
+> **Definition 5.5.2 (笔算乘法)**
 > 
-> 锐角小于 90 度, 直角等于 90 度, 钝角大于 90 度小于 180 度, 平角等于 180 度, 周角等于 360 度.
-> **Definition 7.3.3 (角的度量单位)**
+> 多位数乘一位数的竖式: 从个位起, 用一位数依次乘多位数的每一位; 哪一位上乘得的积满几十, 就向前一位进几.
+> **Definition 5.5.3 (0 的乘法)**
 > 
-> 把圆平均分成 $360$ 份, 其中 $1$ 份所对的角作为度量角的单位, 它的大小就是 $1$ 度, 记作 $1^{\circ}$. 量角器是把半圆分成 $180$ 等份制成的.
-> **Definition 7.3.4 (量角的方法)**
+> $0$ 和任何数相乘都得 $0$.
+> **Definition 5.5.4 (因数中间或末尾有 0 的乘法)**
 > 
-> 把量角器的中心与角的顶点重合, $0^{\circ}$ 刻度线与角的一条边重合, 角的另一条边所对的量角器上的刻度就是这个角的度数.
-> **Definition 7.3.5 (画角的方法)**
+> 因数中间有 $0$, 这一位也要乘; 因数末尾有 $0$, 可以先乘 $0$ 前面的数, 再在积的末尾添上相同个数的 $0$.
+> **Definition 5.5.5 (用估算解决问题)**
 > 
-> 先画一条射线, 使量角器中心和射线端点重合, $0^{\circ}$ 刻度线和射线重合; 在目标刻度处点一个点; 以射线端点为端点, 通过刚画的点再画一条射线.
+> 有时只需判断"够不够", 不必精确计算, 可把数往大估或往小估: 把人数往大估, 钱数都够, 实际一定够.
+> **Definition 5.6.1 (数字编码)**
+> 
+> 生活中有许多数字编码, 是人们根据实际需要, 按照一定标准给事物编制的"身份号码", 每一部分数字表示特定的信息. 公民身份号码由 $18$ 位数字组成: 地址码, 出生日期码, 顺序码和校验码; 其中第 $17$ 位单数为男性, 双数为女性; 校验码由前 $17$ 位计算得到, 可为 $0\sim10$, 是 $10$ 时写作罗马数字 X.
+> **Definition 5.6.2 (设计编码方案)**
+> 
+> 设计一个编码方案, 要先确定需要包含哪些信息 (如年级, 班级, 序号, 性别), 再给每部分规定固定的位数和顺序; 编码范围扩大 (全班, 全校, 全市) 时, 方案要相应增加位数才能不重复.
 
-## Exercise 50
+## Exercise 1
 
-(Lesson: Angles Revisited — Do It) What kind of angle is each of the following? Write the name of each angle.
+(Lesson: Practice 10, Problem 4) Each square formation has $108$ students; how many students in total for $3$ square formations?
 
-### Solution to Exercise 50
+### Solution to Exercise 1
 
-By **Definition 7.3.2 (Classification of Angles)**, less than $90^{\circ}$ is an acute angle, equal to $90^{\circ}$ is a right angle, greater than $90^{\circ}$ and less than $180^{\circ}$ is an obtuse angle, equal to $180^{\circ}$ is a straight angle, and equal to $360^{\circ}$ is a full angle. $\blacksquare$
+$108\times3=324$ students. $\blacksquare$
 
-## Exercise 51
+## Exercise 2
 
-(Lesson: Measuring Angles — Do It, Problem 1) Read the graduations on the protractor and fill in the degree of each angle (two protractor pictures).
+(Lesson: Practice 10, Problem 5) Write in vertical form: $640\times2$; $450\times6$; $380\times5$; $460\times7$.
 
-### Solution to Exercise 51
+### Solution to Exercise 2
 
-By **Definition 7.3.4 (How to Measure an Angle)**, one side of the angle matches the $0^{\circ}$ graduation line, and the graduation opposite the other side is the degree of the angle; just read it from the actual graduation in the picture. $\blacksquare$
+$640\times2=1280$; $450\times6=2700$; $380\times5=1900$; $460\times7=3220$. $\blacksquare$
 
-## Exercise 52
+## Exercise 3
 
-(Lesson: Measuring Angles — Do It, Problem 2) Measure the degrees of the following two angles and compare their sizes. What do you find?
+(Lesson: Practice 10, Problem 6) Compute and discover the pattern: $4\times7$, $40\times7$, $400\times7$; $21\times3$, $210\times3$, $2100\times3$; $34\times2$, $340\times2$, $3400\times2$.
 
-### Solution to Exercise 52
+### Solution to Exercise 3
 
-By **Definition 7.3.4 (How to Measure an Angle)**, measure the two angles and compare. We find that the size of an angle does not depend on the length of its sides but only on how wide the two sides open. $\blacksquare$
+$4\times7=28$, $40\times7=280$, $400\times7=2800$; $21\times3=63$, $210\times3=630$, $2100\times3=6300$; $34\times2=68$, $340\times2=680$, $3400\times2=6800$. Pattern: when one factor stays the same and the other is enlarged $10$ times, the product is also enlarged $10$ times. $\blacksquare$
 
-## Exercise 53
+## Exercise 4
 
-(Lesson: Drawing Angles — Do It, Problem 1) Measure the degree of each of the following angles.
+(Lesson: Practice 10, Problem 7) One silkworm spins about $1500$ meters of silk; about how many meters do $6$ silkworms spin in total? How many kilometers is that?
 
-### Solution to Exercise 53
+### Solution to Exercise 4
 
-By **Definition 7.3.4 (How to Measure an Angle)**, measure each angle's degree following the measuring steps. $\blacksquare$
+$1500\times6=9000$ meters $=9$ kilometers. $\blacksquare$
 
-## Exercise 54
+## Exercise 5
 
-(Lesson: Drawing Angles — Do It, Problem 2) Draw angles of $75^{\circ}$ and $105^{\circ}$.
+(Lesson: Practice 10, Problem 8) Correct the mistakes: $208\times4=8032$; $102\times3=306$; $350\times6=210$.
 
-### Solution to Exercise 54
+### Solution to Exercise 5
 
-By **Definition 7.3.5 (How to Draw an Angle)**, first draw a ray, align the protractor center with the endpoint and the $0^{\circ}$ line with the ray, mark a point at the $75^{\circ}$ and $105^{\circ}$ graduations, then draw the ray. $\blacksquare$
+$208\times4=832$ (the original missed multiplying the middle tens $0$, so it should be $832$, not $8032$); $102\times3=306$ (correct); $350\times6=2100$ (the original missed appending the ending $0$). $\blacksquare$
 
-## Exercise 55
+## Exercise 6
 
-(Lesson: Drawing Angles — Do It, Problem 3) Draw the following angles: $20^{\circ}$, $30^{\circ}$, $85^{\circ}$, $120^{\circ}$, $135^{\circ}$.
+(Lesson: Practice 10, Problem 9) $417$ teachers and students travel by vehicle; each vehicle's limit is $49$ people (including the driver). Are $8$ vehicles enough?
 
-### Solution to Exercise 55
+### Solution to Exercise 6
 
-By **Definition 7.3.5 (How to Draw an Angle)**, draw each angle. Among them, $20^{\circ}$, $30^{\circ}$, $85^{\circ}$ are acute, and $120^{\circ}$, $135^{\circ}$ are obtuse. $\blacksquare$
+Each vehicle actually carries $49-1=48$ students; $8$ vehicles carry $48\times8=384$ people, and $384< 417$, so it is not enough. $\blacksquare$
 
-## Exercise 56
+## Exercise 7
 
-(Lesson: Practice 5, Problem 1) Measure the degree of each of the following angles: $\angle1$, $\angle2$, $\angle3$, $\angle4$, $\angle5$.
+(Lesson: Practice 10, Problem 10) Aunt Zhang travels with $4$ elderly people, $5$ people in total. The fares are $197$ yuan, $208$ yuan and $242$ yuan. Aunt Zhang said $1000$ yuan would be enough; which fare did she buy?
 
-### Solution to Exercise 56
+### Solution to Exercise 7
 
-By **Definition 7.3.4 (How to Measure an Angle)**, read each angle's degree from the protractor. $\blacksquare$
+For $5$ people: $197\times5=985$ yuan $< 1000$; $208\times5=1040$ yuan $> 1000$; $242\times5=1210$ yuan $> 1000$. She bought the $197$ yuan fare. $\blacksquare$
 
-## Exercise 57
+## Exercise 8
 
-(Lesson: Practice 5, Problem 2) On the protractor, taking ray $OA$ as one side, draw two $50^{\circ}$ angles opening in different directions.
+(Lesson: Practice 10, Problem 11) Fill in the table and compute the products: factors $612,9,620,260,405,504$; factors $3,123,6,6,5,5$.
 
-### Solution to Exercise 57
+### Solution to Exercise 8
 
-By **Definition 7.3.5 (How to Draw an Angle)**, one angle opens to the upper right and one to the upper left, and the angle between the sides and $OA$ is $50^{\circ}$ in both. $\blacksquare$
+$612\times3=1836$; $9\times123=1107$; $620\times6=3720$; $260\times6=1560$; $405\times5=2025$; $504\times5=2520$. $\blacksquare$
 
-## Exercise 58
+## Exercise 9
 
-(Lesson: Practice 5, Problem 3) Say what kind of angle each of the following is.
+(Lesson: Practice 10, Problem 12) Correct the vertical forms: $208\times4$, $102\times3$, $350\times6$.
 
-### Solution to Exercise 58
+### Solution to Exercise 9
 
-By **Definition 7.3.2 (Classification of Angles)**, judge by degree: less than $90^{\circ}$ acute, equal to $90^{\circ}$ right, $90^{\circ}\sim180^{\circ}$ obtuse, $180^{\circ}$ straight, $360^{\circ}$ full. $\blacksquare$
+$208\times4=832$; $102\times3=306$; $350\times6=2100$. $\blacksquare$
 
-## Exercise 59
+## Exercise 10
 
-(Lesson: Practice 5, Problem 4) Measure and compute. (1) Measure $\angle1$, $\angle2$, $\angle3$ and sum them. (2) Measure $\angle1$, $\angle2$. (3) With a pair of set squares, what other degree angles can you put together?
+(Lesson: Practice 10, Problem 13) There are $168$ storybooks; comic books are $40$ fewer than storybooks, and popular-science books are $2$ times the total of storybooks and comic books. How many popular-science books are there?
 
-### Solution to Exercise 59
+### Solution to Exercise 10
 
-By **Definition 7.3.4 (How to Measure an Angle)**, measure each angle. A pair of set squares has angles $30^{\circ},60^{\circ},90^{\circ}$ and $45^{\circ},45^{\circ},90^{\circ}$, and can form $15^{\circ},75^{\circ},105^{\circ},120^{\circ},135^{\circ},150^{\circ},180^{\circ}$ and so on. $\blacksquare$
+Comic books: $168-40=128$; together $168+128=296$; popular-science books: $296\times2=592$. $\blacksquare$
 
-## Exercise 60
+## Exercise 11
 
-(Lesson: Practice 5, Problem 5) Measure the degrees of the following angles; what can you find? The four angles formed by two intersecting straight lines.
+(Lesson: Practice 10, Problem 14) Xiaofeng's home is $490$ meters from school, and he travels back and forth to school twice each day. How many meters does he walk each day?
 
-### Solution to Exercise 60
+### Solution to Exercise 11
 
-By **Definition 7.3.4 (How to Measure an Angle)**, measure $\angle1,\angle2,\angle3,\angle4$. We find that vertical angles are equal, and two adjacent angles sum to $180^{\circ}$. $\blacksquare$
+One round trip is $490\times2=980$ meters, and two round trips are $980\times2=1960$ meters. $\blacksquare$
 
-## Exercise 61
+## Exercise 12
 
-(Lesson: Practice 5, Problem 6) Compare and observe: (1) A line segment of length $1$ cm contains ( ) units of $1$ cm. (2) A rectangle's area contains ( ) units of $1$ cm$^2$. (3) An angle's degree contains ( ) units of $1^{\circ}$. I find that measuring length, area and angles all means counting how many corresponding units the measured figure contains.
+(Lesson: Practice 10, Problem 15) Grandpa Zhang has $8$ bags of rice weighing $59,63,62,60,57,58,62,58$ kilograms respectively. Can a tricycle with a load capacity of $500$ kilograms carry them all in one trip?
 
-### Solution to Exercise 61
+### Solution to Exercise 12
 
-By **Definition 7.3.3 (The Unit for Measuring Angles)**: (1) The line segment contains $1$ unit of $1$ cm; (2) the rectangle's area contains several units of $1$ cm$^2$; (3) the angle contains several units of $1^{\circ}$. Measuring means counting how many corresponding measuring units the measured figure contains. $\blacksquare$
+Altogether about $60\times8=480$ kilograms; precisely: $59+63+62+60+57+58+62+58=479$ kilograms $< 500$ kilograms, so it can carry them in one trip. $\blacksquare$
 
-## Exercise 62
+## Exercise 13
 
-(Lesson: Practice 5, Problem 7) Find a way to learn the degrees of the following two angles (the sides of the angles are not long enough).
+(Lesson: Practice 10, Problem 16) A lucky draw sets $1$ first-prize winner, $5$ second-prize winners, and $10$ third-prize winners; the total value of prizes is no more than $1$ ten-thousand yuan. Items: tablet $3999$ yuan, phone $2998$ yuan, refrigerator $1968$ yuan, fitness card $998$ yuan, book card $200$ yuan. Choose $3$ kinds as first, second and third prizes.
 
-### Solution to Exercise 62
+### Solution to Exercise 13
 
-By **Definition 7.3.4 (How to Measure an Angle)**, extend the two sides of the angle with a ruler and then measure with the protractor; the size of the angle does not depend on the length of the sides. $\blacksquare$
+Try the most expensive as first, next as second, cheapest as third: $3999+2998\times5+200\times10=3999+14990+2000=20989$, which exceeds the limit. Adjust: first prize tablet $3999$, second prize fitness card $998\times5=4990$, third prize book card $200\times10=2000$, total $3999+4990+2000=10989$, still exceeds. First prize refrigerator $1968$, second prize fitness card $4990$, third prize book card $2000$, total $8958$ yuan $< 10000$. $\blacksquare$
 
-## Exercise 63
+## Exercise 14
 
-(Lesson: Practice 5, Problem 8) Count and fill: drawing $2$ rays from one point forms ( ) angles; drawing $3$ rays from one point forms ( ) angles. If one more ray is added, how many angles are formed?
+(Lesson: Practice 10, Problem 17, Challenge Problem) Fill $1,2,3,4$ into $\square\square\times\square$ to make the product as large as possible and as small as possible.
 
-### Solution to Exercise 63
+### Solution to Exercise 14
 
-$2$ rays form $1$ angle; $3$ rays form $3$ angles ($3\times2\div2=3$); $4$ rays form $6$ angles ($4\times3\div2=6$). $n$ rays form $n\left(n-1\right)\div2$ angles. $\blacksquare$
+Largest product: put the larger digits in higher places; $321\times4=1284$ or $421\times3=1263$, so $321\times4=1284$ is the largest. Smallest product: $234\times1=234$ is the smallest. $\blacksquare$
 
-## Exercise 64
+## Exercise 15
 
-(Lesson: Information Technology Application) Command a robot to deliver food: starting at the pickup counter facing table ①, use combinations of "go straight N grids" and "turn left N degrees" to deliver to table ① and return; deliver and return along the route ①→④→③; deliver and return along the route ①→②→③→④→③.
+(Lesson: Practice 11, Problem 1) Estimate first, then compute in writing: $96\times4$; $905\times9$; $680\times7$; $234\times9$.
 
-### Solution to Exercise 64
+### Solution to Exercise 15
 
-Combine commands by direction and distance: go straight $3$ grids to table ①, turn left $180^{\circ}$, go straight $3$ grids back to the pickup counter; use loop commands to simplify the repeated path. $\blacksquare$
+$96\times4=384$; $905\times9=8145$; $680\times7=4760$; $234\times9=2106$. $\blacksquare$
 
-## Exercise 65
+## Exercise 16
 
-(Lesson: Practice 6, Problem 1) Measure the degree of each of the following angles.
+(Lesson: Practice 11, Problem 2) Choose a suitable method to solve: (1) $200$ sets of desks and chairs, each seating $2$ students; how many students in total? (2) Each flower box holds $126$ pots of flowers; how many pots do $6$ flower boxes hold in total? (3) Xiaojun's home is $400$ meters from school and he walks $65$ meters per minute; can he arrive in $7$ minutes?
 
-### Solution to Exercise 65
+### Solution to Exercise 16
 
-By **Definition 7.3.4 (How to Measure an Angle)**, measure each angle's degree one by one. $\blacksquare$
+(1) $200\times2=400$ students. (2) $126\times6=756$ pots. (3) $65\times7=455$ meters $> 400$ meters, so he can arrive. $\blacksquare$
 
-## Exercise 66
+## Exercise 17
 
-(Lesson: Practice 6, Problem 2) Choose a suitable method to draw the following angles, and say what kind each is: $70^{\circ}$, $60^{\circ}$, $115^{\circ}$, $150^{\circ}$, $45^{\circ}$, $180^{\circ}$.
+(Lesson: Practice 11, Problem 3) Each soccer ball costs $58$ yuan; paying $200$ yuan for $4$ balls, how much change should be returned?
 
-### Solution to Exercise 66
+### Solution to Exercise 17
 
-By **Definition 7.3.5 (How to Draw an Angle)** draw the angles, and by **Definition 7.3.2 (Classification of Angles)** judge: $70^{\circ}$ acute, $60^{\circ}$ acute, $115^{\circ}$ obtuse, $150^{\circ}$ obtuse, $45^{\circ}$ acute, $180^{\circ}$ straight. $\blacksquare$
+$58\times4=232$ yuan? No, $58\times4=232> 200$, which is not enough. According to the figure the soccer ball is $46$ yuan: $46\times4=184$ yuan, and the change is $200-184=16$ yuan. $\blacksquare$
 
-## Exercise 67
+## Exercise 18
 
-(Lesson: Practice 6, Problem 3) Judge whether the statements are correct and explain why. (1) Split a straight angle into two angles; if one is acute, the other must be obtuse. (2) $1$ full angle $=2$ right angles. (3) Two acute angles together must be greater than a right angle. (4) An acute angle and a right angle together must be obtuse.
+(Lesson: Practice 11, Problem 4) $7$ buttons are sewn into one button flower, and $68$ flowers are to be sewn. Estimate: is buying $400$ buttons enough? What about $500$?
 
-### Solution to Exercise 67
+### Solution to Exercise 18
 
-By **Definition 7.3.2 (Classification of Angles)**: (1) Correct; a straight angle $180^{\circ}$ minus an acute angle (less than $90^{\circ}$) is greater than $90^{\circ}$ and less than $180^{\circ}$, so it is obtuse. (2) Wrong; $1$ full angle $=4$ right angles. (3) Wrong; for example $30^{\circ}+40^{\circ}=70^{\circ}< 90^{\circ}$. (4) Correct; an acute angle plus a right angle is greater than $90^{\circ}$ and less than $180^{\circ}$, so it is obtuse. $\blacksquare$
+$7\times68$; take $68$ as $70$, $7\times70=490$. $400< 490$, not enough; $500> 490$, enough. Precisely $7\times68=476$ buttons. $\blacksquare$
 
-## Exercise 68
+## Exercise 19
 
-(Lesson: Practice 6, Problem 4) (1) Fold a rectangular paper to make angles of $45^{\circ}$ and $135^{\circ}$. (2) After folding a circular paper three times and unfolding it, what degree angles can you get?
+(Lesson: Practice 11, Problem 5, Challenge Problem) Write in vertical form: $1392\times4$; $2316\times5$; $1207\times8$; $2900\times3$.
 
-### Solution to Exercise 68
+### Solution to Exercise 19
 
-By **Definition 7.3.2 (Classification of Angles)**: (1) Folding the rectangular paper corner-to-corner gives $45^{\circ}$, and folding once more gives $135^{\circ}$ ($180^{\circ}-45^{\circ}$). (2) Folding the circle once gives a straight angle $180^{\circ}$, twice gives a right angle $90^{\circ}$, three times gives $45^{\circ}$; after unfolding you get $45^{\circ},90^{\circ},135^{\circ},180^{\circ},225^{\circ},270^{\circ},315^{\circ},360^{\circ}$. $\blacksquare$
+$1392\times4=5568$; $2316\times5=11580$; $1207\times8=9656$; $2900\times3=8700$. $\blacksquare$
 
-## Exercise 69
+## Exercise 20
 
-(Lesson: Practice 6, Problem 5) Look at the picture and fill in. (1) Given $\angle1=70^{\circ}$, find $\angle2$. (2) Given $\angle1=40^{\circ}$, find $\angle2$, $\angle3$, $\angle4$.
+(Lesson: Numeral Codes — Activity Preparation) Choose a numeral code you have seen in daily life and investigate the information it represents (such as a phone number, an ID card number, a bank card number, or a book ISBN).
 
-The figure: (1) on a straight line there is a vertex, from which a ray is drawn dividing the straight angle into two parts labeled $\angle1$ and $\angle2$; (2) two straight lines intersect at one point, forming four angles labeled clockwise as $\angle1$, $\angle2$, $\angle3$, and $\angle4$.
+### Solution to Exercise 20
 
-### Solution to Exercise 69
-
-By **Definition 7.3.2 (Classification of Angles)**, a straight angle $=180^{\circ}$, and vertical angles are equal: (1) $\angle1$ and $\angle2$ form a straight angle, so $\angle2=180^{\circ}-70^{\circ}=110^{\circ}$; (2) $\angle2=180^{\circ}-40^{\circ}=140^{\circ}$, $\angle3=\angle1=40^{\circ}$, $\angle4=\angle2=140^{\circ}$. $\blacksquare$
-
-## Exercise 70
-
-(Lesson: Practice 6, Problem 6) Measure the degrees of the angles on the right, $\angle1,\angle2,\angle3$; what can you find?
-
-### Solution to Exercise 70
-
-By **Definition 7.3.4 (How to Measure an Angle)**, measure each angle. We find that the three angles on one straight line sum to $180^{\circ}$, or that angles facing the same arc are equal. $\blacksquare$
-
-## Exercise 71
-
-(Lesson: Practice 6, Problem 7) A paper on which an angle is drawn is damaged; how do you measure the degree of this angle?
-
-### Solution to Exercise 71
-
-By **Definition 7.3.4 (How to Measure an Angle)**, extend the two sides of the angle to meet at the vertex and then measure with the protractor; the size of the angle does not depend on the length of the sides. $\blacksquare$
-
-## Exercise 72
-
-(Lesson: Practice 6, Problem 8) Aunt Li broke a pane of glass into $3$ pieces; taking only one piece, she bought a new pane the same size. Which piece did she take?
-
-### Solution to Exercise 72
-
-Take the piece that keeps both sides of the original angle (or two complete angles); then you can extend the two sides to restore the size of the original angle. $\blacksquare$
-
-## Exercise 73
-
-(Lesson: Practice 6, Problem 9) In each picture on the right, are $\angle1$ and $\angle2$ equal? Explain why.
-
-### Solution to Exercise 73
-
-By **Definition 7.3.2 (Classification of Angles)**, if both $\angle1$ and $\angle2$ form a right angle (or straight angle) with the same middle angle, then $\angle1=\angle2$. Complements (or supplements) of the same angle are equal. $\blacksquare$
+By **Definition 5.6.1 (Numeral Codes)**, for example, the telephone area code $010$ stands for Beijing; the $6$-digit postal code locates the mailing address, with the first two digits standing for the province; a book ISBN contains a group code, a publisher code, a title number and a check code. Investigate the chosen code and explain the meaning of each part. $\blacksquare$

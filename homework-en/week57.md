@@ -1,230 +1,228 @@
 # week57
-> **Definition 7.1.3 (Reading Large Numbers)**
+> **Definition 5.4.1 (等量的等量相等与总量等于各分量之和)**
 > 
-> 读大数时, 从高位读起, 亿级和万级的数按照个级的读法来读, 再在后面加上亿字或万字.
-> **Definition 7.1.4 (Writing Large Numbers)**
+> 等量的等量相等; 总量等于各分量之和.
+> **Definition 5.7.3 (直角, 锐角, 钝角)**
 > 
-> 写大数时, 从高位写起, 哪一位上一个单位也没有, 就在那一位上写 0.
-> **Definition 7.1.6 (数的改写)**
+> 参见教材相应章节关于此概念的论述.
+> **Definition 5.9.1 (数与运算的整理)**
 > 
-> 把整万或整亿的数改写成用万或亿作单位的数, 去掉末尾的 4 个 0 或 8 个 0, 加上万字或亿字.
-> **Definition 7.3.2 (角的分类)**
+> 多位数乘一位数都可以转化为表内乘法来算: 口算把数分成几个千, 百, 十, 一再相乘相加; 笔算从个位起依次乘, 满几十进几. 混合运算: 同级从左往右, 先乘除后加减, 有括号先算括号里. 分数可表示部分与整体的关系, 同分母分数相加减, 分母不变分子加减.
+> **Definition 5.9.2 (数量关系与解决问题的整理)**
 > 
-> 锐角小于 90 度, 直角等于 90 度, 钝角大于 90 度小于 180 度, 平角等于 180 度, 周角等于 360 度.
-> **Definition 7.4.1 (口算乘法)**
+> 解决多步问题先找数量关系, 可画线段图分析, 分步列式或列综合算式; 根据需要选择估算或精确计算. 把人数往大估钱都够, 实际一定够.
+> **Definition 5.9.3 (常见的量与图形的整理)**
 > 
-> 两位数乘一位数的口算, 先把两位数分成整十数和一位数, 分别相乘后再相加.
-> **Definition 7.4.2 (笔算乘法)**
+> 长度单位: 毫米, 厘米, 分米, 米, 千米 (相邻进率 $10$, $10$, $10$, $1000$); 质量单位: 克, 千克, 吨 (进率都是 $1000$). 线有线段, 射线, 直线; 角有锐角, 直角, 钝角 (锐角 $< $ 直角 $< $ 钝角). 从不同方向观察物体, 看到的形常常不同.
+> **Definition 5.9.4 (搭配问题)**
 > 
-> 多位数乘多位数时, 把相同数位对齐, 从个位乘起, 用第二个因数的每一位分别乘第一个因数, 再把所得的积相加.
-> **Definition 7.4.3 (积的变化规律)**
+> 完成一件事要分两步, 每步分别有几种选择, 总数用乘法, 如上装 $2$ 种下装 $3$ 种共 $2\times3=6$ 种搭配; 完成一件事分两类, 总数用加法, 如 $2$ 班飞机和 $3$ 班高铁共 $2+3=5$ 种选择.
+> **Definition 6.1.1 (轴对称图形与对称轴)**
 > 
-> 一个因数不变, 另一个因数乘 (或除以) 几 (0 除外), 积也乘 (或除以) 相同的数.
-> **Definition 7.5.2 (Unit Price, Quantity, Total Price)**
+> 如果一个图形沿一条直线折叠, 直线两旁的部分能够互相重合, 这个图形叫做轴对称图形.
+> **Definition 6.1.2 (平移)**
 > 
-> 每件商品的价钱叫做单价, 买了多少叫做数量, 一共用的钱数叫做总价. 总价 = 单价 * 数量.
-> **Definition 7.6.3 (平行四边形)**
+> 物体或图形沿直线方向运动而本身方向不发生改变, 这种运动叫做平移.
+> **Definition 6.1.3 (旋转)**
 > 
-> 两组对边分别平行的四边形叫做平行四边形.
-> **Definition 7.6.4 (梯形)**
-> 
-> 只有一组对边平行的四边形叫做梯形.
-> **Definition 7.7.2 (复式条形统计图)**
-> 
-> 复式条形统计图 下面是某地区城乡人口数统计图. 某地区城镇人口数统计图 某地区农村人口数统计图 人数/万人 60 60 58 54 49 50 46 50 43 40 40 34 30 27 30 21 20 20 10 10 19801990200020102020年份 19801990200020102020年份 有时为了便于比较,往往把两幅统计图合成一幅,请你把下面 的统计图补充完整 某地区城乡人口数统计图 城镇 农村 人数/万人 60 58 54 50 40 30 27 21 20 1980 1990 2000 2010 2020年份 这是复式条形统计图,看看它与单式条形统计图有什么区别, 然后回答下面的问题 (1)哪一年城镇人口数最多?哪一年最少? (2)哪一年农村人口数最多?哪一年最少? (3)哪一年城乡人口数相差的数量最大?哪一年最小? (4)你还能得到哪些信息? 96 条形
-> **Definition 7.8.1 (八个方向)**
-> 
-> 寻宝,你还有哪些感兴趣的问题? 描述方向时,只 除了方向,距离和 能用指南针上的 确定位置有关,还 八个方向吗? 从问题中选一个你感兴趣的,研究一下,给同学讲一讲 106 寻找宝藏
-> **Definition 7.9.1 (数与运算的整理)**
-> 
-> 万以上数的认识包括计数单位与数位, 读写, 比大小, 改写与求近似数; 多位数乘两位数包括口算, 笔算与积的变化规律. 读法写法都要先分级.
-> **Definition 7.9.2 (数量关系的整理)**
-> 
-> 加法模型: 总量 $=$ 分量 $+$ 分量. 乘法模型: 总价 $=$ 单价 $\times$ 数量, 路程 $=$ 速度 $\times$ 时间.
-> **Definition 7.9.3 (图形与统计的整理)**
-> 
-> 线: 平行与垂直; 角: 锐角 $< $ 直角 $< $ 钝角 $< $ 平角 $< $ 周角; 四边形: 平行四边形 (两组对边平行), 梯形 (一组对边平行); 数据用条形统计图表示更直观.
+> 物体绕着一个点或轴进行圆周运动的现象叫做旋转.
 
-## Exercise 219
+## Exercise 1
 
-(Lesson: Application and Improvement, Problem 1) Write a number larger than $1$ hundred million in the place-value table and have a classmate read it aloud; point to a digit and explain its meaning; rewrite it in units of "ten thousand" or "hundred million".
+(Lesson: Practice 19, Problem 9) Aunt Zhang braids $4$ Chinese knots per hour and Aunt Liu $3$ per hour. Braiding together for a day ($8$ hours), can they finish $50$?
 
-### Solution to Exercise 219
+### Solution to Exercise 1
 
-By **Definition 7.9.1 (Review of Numbers and Operations)**, for example write $1003840005$, read as "one billion, three million, eight hundred forty thousand, five"; the two $3$'s are in the hundred-million place and the million place respectively; rewriting in units of "ten thousand" gives $=100384.0005$ ten thousand (or approximately $10$ hundred million). $\blacksquare$
+$\left(4+3\right)\times8=56$, and $56> 50$, so they can finish. $\blacksquare$
 
-## Exercise 220
+## Exercise 2
 
-(Lesson: Application and Improvement, Problem 2) Analyze the causes of errors in written multiplication.
+(Lesson: Practice 19, Problem 10) Xiaoliang collected $20$ insect specimens, which is $4$ more than $2$ times what Xiaojun collected. How many did Xiaojun collect?
 
-### Solution to Exercise 220
+### Solution to Exercise 2
 
-By the alignment rules of **Definition 7.4.2 (Written Multiplication)**, the usual error is that the last digit of the product obtained by multiplying by the tens digit is not aligned with the tens place, or an error occurs in adding the two partial products. $\blacksquare$
+$\left(20-4\right)\div2=16\div2=8$. Xiaojun collected $8$. $\blacksquare$
 
-## Exercise 221
+## Exercise 3
 
-(Lesson: Application and Improvement, Problem 3) Compare by ticking boxes in a table: square, rectangle, parallelogram, trapezoid, with respect to "both pairs of opposite sides parallel", "only one pair of opposite sides parallel", "both pairs of opposite sides equal", "all four sides equal", and "four right angles".
+(Lesson: Practice 19, Problem 11) Use a compass to construct the segment CD on the straight line l so that its length is $3$ times the segment AB.
 
-### Solution to Exercise 221
+### Solution to Exercise 3
 
-By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: a square and a rectangle have both pairs of opposite sides parallel and equal, four right angles, and a square has all four sides equal; a parallelogram has both pairs of opposite sides parallel and equal, no right angles and unequal sides; a trapezoid has only one pair of opposite sides parallel. $\blacksquare$
+Measure off the length of AB with the compass; on the straight line l, starting from C, step off the length of AB $3$ times to get CD, so that $CD=3AB$. $\blacksquare$
 
-## Exercise 222
+## Exercise 4
 
-(Lesson: Application and Improvement, Problem 4) Zoo guide map: the giraffe house is in the northwest corner. (1) How do you get to the giraffe house? (2) In what direction from the lion-tiger hill are the other animal enclosures?
+(Lesson: Practice 19, Problem 12) Taking the three points as vertices respectively, draw an acute angle, a right angle and an obtuse angle.
 
-### Solution to Exercise 222
+### Solution to Exercise 4
 
-By **Definition 7.8.1 (The Eight Directions)**, first walk north to the lion-tiger hill, then go northwest; judge the direction of each enclosure by north up, south down, west left, east right. $\blacksquare$
+By **Definition 5.9.3 (常见的量与图形的整理)**, an acute angle opens narrower than a right angle, a right angle is compared with the triangular ruler, and an obtuse angle opens wider than a right angle. $\blacksquare$
 
-## Exercise 223
+## Exercise 5
 
-(Lesson: Practice 20, Problem 1) Read the following numbers: $30600$, $7056200$, $13820000$, $504200$, $12000900$, $406098000$.
+(Lesson: Practice 19, Problem 13) From which position (front, top, right) is each figure below seen? Fill in the numbers.
 
-### Solution to Exercise 223
+### Solution to Exercise 5
 
-By **Definition 7.1.3 (Reading Large Numbers)**: $30600$ reads "thirty thousand six hundred"; $7056200$ reads "seven million, fifty-six thousand, two hundred"; $13820000$ reads "thirteen million, eight hundred twenty thousand"; $504200$ reads "five hundred four thousand, two hundred"; $12000900$ reads "twelve million nine hundred"; $406098000$ reads "four hundred six million, ninety-eight thousand". $\blacksquare$
+By **Definition 5.9.3 (Review of Common Measures and Figures)**, fill in the numbers according to the shape seen from each direction. $\blacksquare$
 
-## Exercise 224
+## Exercise 6
 
-(Lesson: Practice 20, Problem 2) Write the numbers on the lines: (1) Ordinary primary schools enroll 17,013,874 students, and 107,320,594 are enrolled. (2) There are 6,629,421 full-time teachers.
+(Lesson: Practice 19, Problem 14) Balance conversion: one watermelon $=6$ kilograms, one watermelon $=$ three pineapples, and one pineapple $=$ three apples. Find how many kilograms one pineapple and one apple are.
 
-### Solution to Exercise 224
+### Solution to Exercise 6
 
-By **Definition 7.1.4 (Writing Large Numbers)**: (1) $17013874$, $107320594$; (2) $6629421$. $\blacksquare$
+One pineapple is $6\div3=2$ kilograms, one apple $2\div3$? According to the figure: watermelon $6$ kilograms, pineapple $6\div3=2$ kilograms, apple $2\div2=1$ kilogram. Fill in according to the correspondence in the figure. $\blacksquare$
 
-## Exercise 225
+## Exercise 7
 
-(Lesson: Practice 20, Problem 3) Rewrite in units of "ten thousand" or "hundred million": (1) $27180000$ automobiles, $7000000$ new-energy vehicles. (2) $440000$ sets of industrial robots. (3) $3830000$ hectares of afforestation, $1200000$ hectares artificial. (4) $1900000000$ telephone users, $1700000000$ mobile.
+(Lesson: Practice 19, Problem 15) Uncle Wang and $3$ colleagues travel on business by train; second class is $245$ yuan and first class is $354$ yuan. (1) Buying second class for both ways, is $2000$ yuan enough?
 
-### Solution to Exercise 225
+### Solution to Exercise 7
 
-By **Definition 7.1.6 (Rewriting Numbers)**: (1) $2718$ ten thousand vehicles, $700$ ten thousand vehicles; (2) $44$ ten thousand sets; (3) $383$ ten thousand hectares, $120$ ten thousand hectares; (4) $19$ hundred million households, $17$ hundred million households. $\blacksquare$
+There are $4$ people, so a round trip is $4\times2=8$ tickets; $245\times8=1960$ yuan $< 2000$ yuan, so it is enough. $\blacksquare$
 
-## Exercise 226
+## Exercise 8
 
-(Lesson: Practice 20, Problem 4) Fill in the blanks. (1) $4607000430$ is a ( )-digit number, its highest place is the ( ) place, and $7$ is in the ( ) place, representing $7$ ( ). (2) Compare $40200\bigcirc42000$, $70$ hundred million $\bigcirc6900000000$, $125\times80\bigcirc430\times30$, $43\times300\bigcirc1250\times40$. (3) The product is $50$; if one factor is multiplied by $12$ and the other is unchanged, the product is ( ).
+(Lesson: Practice 19, Problem 16) Grandpa is $64$ years old; Xiaohong's age is $\frac{1}{8}$ of Grandpa's, and Dad's age is $4$ times Xiaohong's. How old are Xiaohong and Dad?
 
-### Solution to Exercise 226
+### Solution to Exercise 8
 
-By **Definition 7.9.1 (Review of Numbers and Operations)**: (1) a ten-digit number, the highest place is the ten-billion place, and $7$ is in the million place representing $7$ millions; (2) $40200< 42000$, $70$ hundred million $> 69$ hundred million, $125\times80=10000> 430\times30=12900$? Actually $10000< 12900$, $43\times300=12900=1250\times40=50000$? $43\times300=12900< 1250\times40=50000$; (3) $50\times12=600$. $\blacksquare$
+Xiaohong: $64\div8=8$ years old; Dad: $8\times4=32$ years old. $\blacksquare$
 
-## Exercise 227
+## Exercise 9
 
-(Lesson: Practice 20, Problem 5) Mental arithmetic: $12\times60$, $23\times30$, $5\times90$, $96\div4$, $36\times5$, $20\times80$, $11\times600$, $27\times2$, $320\div8$, $50\times60$, $720\div9$, $480+60$, $140\times40$, $84\div4$, $200\times40$, $560\div7$, $70\times130$, $65-37$.
+(Lesson: Practice 19, Problem 17) The garbage station receives $90$ tons of waste; other waste is $\frac{2}{3}$ of it, of which $\frac{1}{2}$ is sorted out for recycling. How many tons of other waste are recycled?
 
-### Solution to Exercise 227
+### Solution to Exercise 9
 
-By **Definition 7.4.1 (Mental Multiplication)**: $12\times60=720$, $23\times30=690$, $5\times90=450$, $96\div4=24$, $36\times5=180$, $20\times80=1600$, $11\times600=6600$, $27\times2=54$, $320\div8=40$, $50\times60=3000$, $720\div9=80$, $480+60=540$, $140\times40=5600$, $84\div4=21$, $200\times40=8000$, $560\div7=80$, $70\times130=9100$, $65-37=28$. $\blacksquare$
+Other waste: $90\div3\times2=60$ tons; recycled: $60\div2=30$ tons. $\blacksquare$
 
-## Exercise 228
+## Exercise 10
 
-(Lesson: Practice 20, Problem 6) Calculate and check: $39\times84$, $207\times22$, $420\times64$, $43\times125$, $605\times30$, $15\times340$.
+(Lesson: Thinking Problem 1) Uncle Wang's home and Uncle Li's home are $18$ kilometers apart; they ride toward each other at the same time, and after $10$ minutes their positions are as in the figure (together they have covered $\frac{2}{3}$ of the whole route). (1) What fraction have they covered by then? How many kilometers is that? (2) In how many more minutes will they meet?
 
-### Solution to Exercise 228
+### Solution to Exercise 10
 
-By **Definition 7.4.2 (Written Multiplication)**: $39\times84=3276$, $207\times22=4554$, $420\times64=26880$, $43\times125=5375$, $605\times30=18150$, $15\times340=5100$. $\blacksquare$
+(1) Together they covered $\frac{2}{3}$ of the whole route, $18\div3\times2=12$ kilometers. (2) $10$ minutes covers $\frac{2}{3}$, so covering the whole route takes $10\div2\times3=15$ minutes; in another $15-10=5$ minutes they meet. $\blacksquare$
 
-## Exercise 229
+## Exercise 11
 
-(Lesson: Practice 20, Problem 7) Write the products directly without calculating. (1) $43\times7=301$, then $43\times21=$, $43\times700=$. (2) $75\times40=3000$, then $150\times40=$, $75\times20=$. (3) $\star\times\bigtriangleup=180$, then $\left(★\times2\right)\times\bigtriangleup=$, $\left(★\div9\right)\times\bigtriangleup=$.
+(Lesson: Thinking Problem 2) $28$ people go rowing; a small boat holds $4$ people at $30$ yuan, and a large boat holds $6$ people at $40$ yuan. (1) How to rent boats so that every boat is full? (2) Which way is cheapest?
 
-### Solution to Exercise 229
+### Solution to Exercise 11
 
-By **Definition 7.4.3 (Rules for How the Product Changes)**: (1) $43\times21=903$, $43\times700=30100$; (2) $150\times40=6000$, $75\times20=1500$; (3) $\left(★\times2\right)\times\triangle=360$, $\left(★\div9\right)\times\triangle=20$. $\blacksquare$
+(1) Options: all small boats, $28\div4=7$; $2$ large boats for $12$ people and $4$ small boats for $16$ people; $4$ large boats for $24$ people and $1$ small boat for $4$ people. (2) Per person, a large boat is $40\div6\approx7$ yuan and a small boat is $30\div4=7.5$ yuan, so rent as many large boats as possible: $4$ large and $1$ small gives $4\times40+30=190$ yuan, the cheapest. $\blacksquare$
 
-## Exercise 230
+## Exercise 12
 
-(Lesson: Practice 20, Problem 8) Fruit store stock: apples at unit price $56$ yuan, $75$ boxes; grapes at unit price $38$ yuan, total price $405$ yuan; oranges at unit price $132$ yuan, quantity unknown. Fill in the blanks.
+(Lesson: Thinking Problem 3) It was originally planned to assemble $300$ electric vehicles per day, finishing in $5$ days. Actually $50$ more per day were assembled, and it took $2$ more days to finish. How many additional vehicles did the customer order?
 
-### Solution to Exercise 230
+### Solution to Exercise 12
 
-By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**: apple total price $=56\times75=4200$ yuan; grape quantity $=405\div38\approx10.66$ boxes (according to the actual data); oranges are calculated according to the actual data. $\blacksquare$
+Originally planned: $300\times5=1500$; actually $350$ per day for $7$ days gives $350\times7=2450$; the additional order is $2450-1500=950$. $\blacksquare$
 
-## Exercise 231
+## Exercise 13
 
-(Lesson: Practice 20, Problem 9) Fold a rectangular piece of paper to obtain an angle of $135^{\circ}$ and mark it.
+(Lesson: Thinking Problem 4) On the shelf there are large, medium and small tubes of toothpaste; a small box is $50$ grams, and each layer has the same total mass. How many grams are a large box and a medium box?
 
-### Solution to Exercise 231
+### Solution to Exercise 13
 
-By **Definition 7.3.2 (Classification of Angles)**, folding the rectangular paper twice gives a $90^{\circ}$ angle, folding once more bisects the right angle to give $45^{\circ}$, and $135^{\circ}=90^{\circ}+45^{\circ}$. $\blacksquare$
+By **Definition 5.4.1 (Equals of Equals are Equal)**, using the equal number of toothpastes on each layer: for example, on the first layer $1$ large $=1$ medium $+3$ small, and on the second layer $1$ large $=3$ medium, from which a large box is $300$ grams and a medium box $150$ grams. Calculate according to the correspondence in the figure. $\blacksquare$
 
-## Exercise 232
+## Exercise 14
 
-(Lesson: Practice 20, Problem 10) Draw the angles and say what kind they are: $65^{\circ}$, $142^{\circ}$, $180^{\circ}$, $360^{\circ}$.
+(Lesson: Matching Problems — Example) Xiaohong has $2$ tops and $3$ bottoms, choosing $1$ of each; how many outfits are there?
 
-### Solution to Exercise 232
+### Solution to Exercise 14
 
-By **Definition 7.3.2 (Classification of Angles)**: $65^{\circ}$ is an acute angle, $142^{\circ}$ is an obtuse angle, $180^{\circ}$ is a straight angle, $360^{\circ}$ is a full angle. $\blacksquare$
+By **Definition 5.9.4 (Matching Problems)**, each top pairs with $3$ bottoms, giving $2\times3=6$ outfits. $\blacksquare$
 
-## Exercise 233
+## Exercise 15
 
-(Lesson: Practice 20, Problem 11) Choose the figure: A square, B rectangle, C parallelogram, D trapezoid. (1) Both pairs of opposite sides parallel and four right angles. (2) Only one pair of opposite sides parallel. (3) Both pairs of opposite sides parallel.
+(Lesson: Matching Problems — Example) From home to City A there are $2$ flights and $3$ high-speed trains; how many choices are there in total?
 
-### Solution to Exercise 233
+### Solution to Exercise 15
 
-By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: (1) A square and B rectangle; (2) D trapezoid; (3) A, B, C. $\blacksquare$
+By **Definition 5.9.4 (搭配问题)**, there are two categories of transport, so use addition: $2+3=5$ choices. $\blacksquare$
 
-## Exercise 234
+## Exercise 16
 
-(Lesson: Practice 20, Problem 12) Draw a trapezoid of the same size as the one in the figure, then draw a line segment dividing it into a parallelogram and a triangle.
+(Lesson: Challenge Yourself, Problem 1) Using $2,5,7$, how many two-digit numbers with no repeated digits can be formed?
 
-### Solution to Exercise 234
+### Solution to Exercise 16
 
-By **Definition 7.6.4 (Trapezoid)**, through one endpoint of the upper base draw a line parallel to a leg, meeting the lower base; the left part is a parallelogram and the right part is a triangle. $\blacksquare$
+Tens digit $2$: $25,27$; tens digit $5$: $52,57$; tens digit $7$: $72,75$. There are $6$ in total. $\blacksquare$
 
-## Exercise 235
+## Exercise 17
 
-(Lesson: Practice 20, Problem 13) A case of drinks costs $36$ yuan; buy $5$ cases and get $1$ case free. How much does it cost to buy $480$ cases?
+(Lesson: Challenge Yourself, Problem 2) In a soccer tournament among the $4$ classes of grade three, every $2$ classes play one match; how many matches are played in total?
 
-### Solution to Exercise 235
+### Solution to Exercise 17
 
-Buy $5$ get $1$ free, i.e. paying for $5$ cases gets $6$ cases. $480\div6=80$ groups, each group costs $5\times36=180$ yuan, for a total of $80\times180=14400$ yuan. $\blacksquare$
+With $4$ classes: the $1$ class plays the $2,3,4$ classes ($3$ matches), the $2$ class plays the $3,4$ classes ($2$ matches), the $3$ class plays the $4$ class ($1$ match), for a total of $3+2+1=6$ matches. $\blacksquare$
 
-## Exercise 236
+## Exercise 18
 
-(Lesson: Practice 20, Problem 14) A train is $375$ m long and travels $83$ m per second. It takes $2$ minutes for the whole train to pass through a tunnel. How long is the tunnel?
+(Lesson: Axisymmetric Figures — Do It, Problem 1) Which of the figures below are axisymmetric? Mark "√" in the ( ).
 
-### Solution to Exercise 236
+### Solution to Exercise 18
 
-$2$ minutes $=120$ seconds, the train travels $83\times120=9960$ m in total, so the tunnel length $=9960-375=9585$ m. $\blacksquare$
+By **Definition 6.1.1 (Axisymmetric Figures and Axes of Symmetry)**, imagine folding each figure along a straight line; the ones whose two sides coincide completely are axisymmetric, so mark "√" after them; do not mark those that do not coincide. $\blacksquare$
 
-## Exercise 237
+## Exercise 19
 
-(Lesson: Practice 20, Problem 15) Intangible cultural heritage: traditional music — first batch $72$, second batch $67$, third batch $16$; folk literature — first batch $31$, second batch $53$, third batch $41$. (1) Draw a double bar chart. (2) Which batch of traditional music is the largest? Which batch of folk literature is the smallest?
+(Lesson: Axisymmetric Figures — Do It, Problem 2) Which folded sheet of paper was each figure below cut from? Match them.
 
-### Solution to Exercise 237
+### Solution to Exercise 19
 
-By **Definition 7.7.2 (Double Bar Chart)**: (2) traditional music is the largest in the first batch at $72$, and folk literature is the smallest in the third batch at $41$. $\blacksquare$
+By **Definition 6.1.1 (Axisymmetric Figures and Axes of Symmetry)**, a cut-out figure coincides on both sides when folded along the crease; so match each half-pattern with the complete figure it becomes when unfolded. $\blacksquare$
 
-## Exercise 238
+## Exercise 20
 
-(Lesson: Practice 20, Problem 16) Teacher Wang buys $29$ basketballs and pays $3600$ yuan, getting some change. The basketball prices are $88$ yuan, $123$ yuan, $168$ yuan. Estimate which one it is. How much was actually spent? How much change?
+(Lesson: Translation — Do It) Among the phenomena below, which are translations? Mark "√" in the ( ).
 
-### Solution to Exercise 238
+### Solution to Exercise 20
 
-$29\times88=2552$ yuan, $29\times123=3567$ yuan, $29\times168=4872$ yuan. With $3600$ yuan and some change, the closest is the $123$ yuan one; actually $3567$ yuan was spent, and the change is $3600-3567=33$ yuan. $\blacksquare$
+By **Definition 6.1.2 (Translation)**, a phenomenon in which an object moves along a straight line without changing direction, shape or size is a translation, so mark "√" after it; turning about a point is not a translation. $\blacksquare$
 
-## Exercise 239
+## Exercise 21
 
-(Lesson: Math Corner, Chickens and Rabbits in a Cage) In a cage there are $8$ heads and $28$ legs of chickens and rabbits. How many chickens and how many rabbits are there?
+(Lesson: Translation — Think About It) Think: which little houses can coincide with one another through translation?
 
-### Solution to Exercise 239
+### Solution to Exercise 21
 
-Assuming all are chickens, there should be $16$ legs; the excess is $28-16=12$ legs. Each time a chicken is replaced by a rabbit adds $2$ legs, so rabbits $=12\div2=6$, and chickens $=8-6=2$. $\blacksquare$
+By **Definition 6.1.2 (Translation)**, translation does not change a figure's shape, size or orientation; so only the little houses that are exactly alike in shape, size and orientation can coincide through translation. Those with a different orientation must first be flipped and cannot coincide directly by translation. $\blacksquare$
 
-## Exercise 240
+## Exercise 22
 
-(Lesson: Math Corner, Chickens and Rabbits in a Cage) The original problem from The Mathematical Classic of Sun Zi: $35$ heads and $94$ legs. How many chickens and how many rabbits?
+(Lesson: Rotation — Do It, Problem 1) Among the phenomena below, which are rotations and which are translations?
 
-### Solution to Exercise 240
+### Solution to Exercise 22
 
-The ancient method: $94\div2=47$, rabbits $=47-35=12$, chickens $=35-12=23$. $\blacksquare$
+By **Definition 6.1.2 (Translation)** and **Definition 6.1.3 (Rotation)**, moving along a straight line without changing direction is translation; turning about a point is rotation. Decide one by one which category each phenomenon belongs to. $\blacksquare$
 
-## Exercise 241
+## Exercise 23
 
-(Lesson: Math Corner, Challenge Yourself) A hundred monks and a hundred buns: $100$ monks eat $100$ buns; each big monk eats $3$ buns, and every $3$ little monks eat $1$ bun. How many big and little monks are there?
+(Lesson: Rotation — Do It, Problem 2) Make a spinning top as shown below. After the top spins, what shape does each point trace out? Give it a try!
 
-### Solution to Exercise 241
+### Solution to Exercise 23
 
-Let there be $x$ big monks and $100-x$ little monks. $3x+\left(100-x\right)\div3=100$, solving gives $x=25$, so there are $25$ big monks and $75$ little monks. $\blacksquare$
+By **Definition 6.1.3 (Rotation)**, the top turns about its center point, and each point on it traces out a circle around the center; the farther a point is from the center, the larger the circle it traces. $\blacksquare$
+
+## Exercise 24
+
+(Lesson: Paper Cutting — Try It) Can you cut out $2$ paper people holding hands like the one on the right? First try cutting $1$ paper person, then try cutting $2$. Try it: can you cut out the pattern on the right?
+
+### Solution to Exercise 24
+
+By **Definition 6.1.1 (Axisymmetric Figures and Axes of Symmetry)**, first fold the paper in half, then draw half a paper person starting from the crease (both head and body drawn from the crease), cut it out and unfold it. Folding $1$ time cuts out $1$ paper person; folding $2$ times cuts out $2$ paper people holding hands. If the head and body are not drawn from the crease, the cut-out paper person will be incomplete. $\blacksquare$
+
+## Exercise 25
+
+(Lesson: Practice 1, Problem 1) Which of the figures below are axisymmetric? Mark "√" in the ( ).
+
+### Solution to Exercise 25
+
+By **Definition 6.1.1 (Axisymmetric Figures and Axes of Symmetry)**, mark "√" on the figures whose two sides coincide completely when folded along a straight line; do not mark those that do not coincide. $\blacksquare$

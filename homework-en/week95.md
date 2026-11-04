@@ -1,349 +1,128 @@
 # week95
-> **Definition 11.7.1 (百分数)**
+> **Definition 8.6.1 (小数加减法)**
 > 
-> 像 $14\%$, $65.5\%$, $120\%$ 这样的数叫做百分数, 表示一个数是另一个数的百分之几. 百分数又叫百分率或百分比, 后面不能带单位.
-> **Definition 11.7.2 (百分率)**
+> 计算小数减法时, 先把小数点对齐, 再按照整数减法的法则进行计算.
+> **Definition 8.8.1 (平均数)**
 > 
-> 达标率 $=\frac{\text{达标人数}}{\text{总人数}}$; 发芽率 $=\frac{\text{发芽种子数}}{\text{试验种子总数}}$; 出勤率 $=\frac{\text{出勤人数}}{\text{应出勤人数}}$; 命中率 $=\frac{\text{命中次数}}{\text{总射击次数}}$.
-> **Definition 11.7.3 (折扣与成数)**
+> 一组数据的和除以这组数据的个数所得的商, 叫作这组数据的平均数. 平均数 $=$ 总数量 $\div$ 总份数. 平均数能较好地反映一组数据的总体情况.
+> **Definition 8.8.2 (复式条形统计图)**
 > 
-> 几折就表示十分之几, 也就是百分之几十; 几成也表示十分之几. "七折"就是按原价的 $70\%$ 出售, "二成五"就是 $25\%$.
-> **Definition 11.7.4 (税率与利率)**
+> 复式条形统计图可以同时表示多组数据, 便于直观比较.
+> **Definition 8.9.1 (营养午餐的标准)**
 > 
-> 应纳税额与各种收入中应纳税部分的比率叫税率; 单位时间内利息与本金的比率叫利率. 利息 $=$ 本金 $\times$ 利率 $\times$ 存期.
+> $10$ 岁左右的儿童从每顿午餐中获取的热量应不低于 $2926$ 千焦, 脂肪应不超过 $50\,\mathrm{g}$. 搭配午餐时要同时满足热量和脂肪两项要求.
+> **Definition 8.10.1 (鸡兔同笼问题与假设法)**
+> 
+> 解决鸡兔同笼问题时, 先假设全是鸡或全是兔, 再根据实际数量调整, 这种方法叫做假设法.
 
-## Exercise 203
+## Exercise 1
 
-(Lesson: Meaning of Percent, Do It Problem 1) Explain: a high school's freshman admission rate is $85\%$; Beijing's urban green coverage is $35\%$.
+(Lesson: The Mean, Practice 22, Problem 5) Two groups do sit-ups: the first group of $4$ people did $132$ in total, the second group of $5$ people did $155$ in total. Which group performed better?
 
-### Solution to Exercise 203
+### Solution to Exercise 1
 
-By **Definition 11.7.1 (Percentages)**, $85\%$ means admitted students are $\frac{85}{100}$ of all applicants; $35\%$ means green-covered area is $\frac{35}{100}$ of Beijing's urban area. $\blacksquare$
+The numbers of people differ, so by **Definition 8.8.1 (Mean)** compare the averages: first group $132\div4=33$ (sit-ups), second group $155\div5=31$ (sit-ups). The first group performed better. $\blacksquare$
 
-## Exercise 204
+## Exercise 2
 
-(Lesson: Meaning of Percent, Do It Problem 2) Write/read: one percent, twenty-eight percent, zero point five percent; $1\%$, $28\%$, $0.5\%$.
+(Lesson: The Mean, Practice 22, Problem 6) A fruit store's strawberry sales over $7$ days: $12,11,11,10,12,9,9\,\mathrm{kg}$. (1) How many kilograms are sold per day on average? (2) As a buyer, how much should be stocked on day $25$?
 
-### Solution to Exercise 204
+### Solution to Exercise 2
 
-Write $1\%$, $28\%$, $0.5\%$; read as one percent, twenty-eight percent, zero point five percent. $\blacksquare$
+(1) By **Definition 8.8.1 (Mean)**, $\left(12+11+11+10+12+9+9\right)\div7=74\div7\approx10.6\,\mathrm{kg}$. (2) Stock about $10\sim11\,\mathrm{kg}$ per day on average, adjusting according to the sales trend. $\blacksquare$
 
-## Exercise 205
+## Exercise 3
 
-(Lesson: Percent-Fraction-Decimal Conversion, Example 1) Convert: $0.98$, $1.15$, $0.684$; $\frac{1}{4}$, $\frac{1}{6}$, $\frac{3}{5}$.
+(Lesson: Double Bar Chart, Try It) Number of fourth-graders who like each sport: table tennis boys $17$ girls $13$, soccer boys $18$ girls $4$, running boys $8$ girls $6$, swimming boys $14$ girls $13$, jump rope boys $7$ girls $16$. Draw a double bar chart and answer: (1) Which sport is most liked by boys? Least by girls? (2) Which sport is most liked overall? Least?
 
-### Solution to Exercise 205
+### Solution to Exercise 3
 
-$0.98=98\%$; $1.15=115\%$; $0.684=68.4\%$; $\frac{1}{4}=0.25=25\%$; $\frac{1}{6}\approx0.167=16.7\%$; $\frac{3}{5}=0.6=60\%$. $\blacksquare$
+By **Definition 8.8.2 (Double Bar Chart)**, use two bars for boys and girls. (1) Boys like soccer most at $18$, girls like soccer least at $4$; (2) totals: table tennis $30$, soccer $22$, running $14$, swimming $27$, jump rope $23$; table tennis is most liked and running least. $\blacksquare$
 
-## Exercise 206
+## Exercise 4
 
-(Lesson: Percent-Fraction-Decimal Conversion, Do It) Convert: $0.97$, $0.08$, $0.005$, $0.132$; $\frac{1}{4}$, $\frac{1}{8}$, $\frac{3}{5}$, $\frac{1}{6}$.
+(Lesson: Double Bar Chart, Practice 23, Problem 1) Fourth-grade one-minute jump-rope results: $100$ times or less boys $2$ girls $1$; $101\sim120$ boys $8$ girls $4$; $121\sim140$ boys $18$ girls $17$; $141\sim160$ boys $14$ girls $8$; $161$ times or more boys $3$ girls $9$. Draw a double bar chart. (1) How many boys and girls are in the $121\sim160$ times range? For girls, $135$ times and above is excellent; there are $12$ girls in the $135\sim140$ times range; how many excellent girls are there?
 
-### Solution to Exercise 206
+### Solution to Exercise 4
 
-$97\%$, $8\%$, $0.5\%$, $13.2\%$; $25\%$, $12.5\%$, $60\%$, $16.7\%$. $\blacksquare$
+Draw the chart by **Definition 8.8.2 (Double Bar Chart)**. (1) In the $121\sim160$ times range: boys $18+14=32$, girls $17+8=25$; excellent girls $12+9=21$ (the $12$ in the $135\sim140$ range plus the $9$ at $161$ times and above). $\blacksquare$
 
-## Exercise 207
+## Exercise 5
 
-(Lesson: Percent-Fraction-Decimal Conversion, Exercise 14 Problem 1) Explain: Dongdong's mom's wool coat fabric is $42\%$ wool; a milk is $3.2\%$ calcium.
+(Lesson: Double Bar Chart, Practice 23, Problem 2) Urban and rural residents' per-capita housing area: in $2016$ urban $24.96\,\mathrm{m}^2$, rural $26.2\,\mathrm{m}^2$; in $2020$ urban $32.6\,\mathrm{m}^2$, rural $28.9\,\mathrm{m}^2$. By how much did urban and rural housing increase from $2016$ to $2020$?
 
-### Solution to Exercise 207
+### Solution to Exercise 5
 
-By **Definition 11.7.1 (Percentages)**, $42\%$ means wool is $\frac{42}{100}$ of the fabric; $3.2\%$ means calcium is $\frac{3.2}{100}$ of the milk. $\blacksquare$
+By **Definition 8.6.1 (Subtracting Decimals)**, urban increased $32.6-24.96=7.64\,\mathrm{m}^2$; rural increased $28.9-26.2=2.7\,\mathrm{m}^2$. $\blacksquare$
 
-## Exercise 208
+## Exercise 6
 
-(Lesson: Percent-Fraction-Decimal Conversion, Exercise 14 Problem 2) Write/read: six percent, zero point six four percent, one hundred twenty percent; $6\%$, $0.64\%$, $120\%$.
+(Lesson: Double Bar Chart, Practice 23, Problem 3) A city's per-capita lifespan: in $1990$ male $71$ female $76$; in $2000$ male $74$ female $78$; in $2010$ male $75$ female $80$; in $2020$ male $77$ female $82$ (years). Complete the double bar chart and write your thoughts.
 
-### Solution to Exercise 208
+### Solution to Exercise 6
 
-Write $6\%$, $0.64\%$, $120\%$; read as six percent, zero point six four percent, one hundred twenty percent. $\blacksquare$
+Draw by **Definition 8.8.2 (Double Bar Chart)**. Thoughts: both male and female average lifespans rise year by year, and the female average lifespan is always higher than the male. $\blacksquare$
 
-## Exercise 209
+## Exercise 7
 
-(Lesson: Percent-Fraction-Decimal Conversion, Exercise 14 Problem 3) Express the shaded part of the figure as a percent.
+(Lesson: Double Bar Chart, Practice 23, Problem 4) Fourth-grade weight chart: below $33\,\mathrm{kg}$ boys $4$ girls $3$; $33\sim35\,\mathrm{kg}$ boys $7$ girls $8$; $35\sim37\,\mathrm{kg}$ boys $13$ girls $11$; above $37\,\mathrm{kg}$ boys $15$ girls $14$. (1) How many people weigh above $37\,\mathrm{kg}$? (3) A $10$-year-old boy is above $145\,\mathrm{cm}$ tall and below $33\,\mathrm{kg}$; compared with the $10$-year-old average (boys' height $143.1\,\mathrm{cm}$, weight $38.6\,\mathrm{kg}$), evaluate his height and weight.
 
-### Solution to Exercise 209
+### Solution to Exercise 7
 
-From the grid, count shaded cells divided by total cells and convert to percent, e.g. shaded $23$ cells $/$ out of $100$ cells = $23\%$. $\blacksquare$
+(1) Above $37\,\mathrm{kg}$: $15+14=29$ (people). (3) This boy's height $145\,\mathrm{cm}$ is above the average $143.1\,\mathrm{cm}$, and his weight $33\,\mathrm{kg}$ is below the average $38.6\,\mathrm{kg}$; he is tall for his age and on the thin side. $\blacksquare$
 
-## Exercise 210
+## Exercise 8
 
-(Lesson: Percent-Fraction-Decimal Conversion, Exercise 14 Problem 4) Class 6(1) has $50$ students, $15$ merit students; what percent are merit students? Also: what do $100\%$ and $3\%$ mean?
+(Lesson: Double Bar Chart, Practice 23, Problem 5) Telephone users in $2016\sim2021$: landline $20663,19376,18225,19104,18191,18070$ ten-thousand households; mobile $132193,141749,156610,160134,159407,164283$ ten-thousand households. (1) In which year were landline users the most? In which year were mobile users the most?
 
-### Solution to Exercise 210
+### Solution to Exercise 8
 
-$15\div50=30\%$. $100\%$ means all; $3\%$ means three parts out of a hundred. $\blacksquare$
+By **Definition 8.8.2 (Double Bar Chart)**, landline users were most in $2016$ at $20663$ ten-thousand households, and mobile users most in $2021$ at $164283$ ten-thousand households. Mobile users grow year by year while landline users decline. $\blacksquare$
 
-## Exercise 211
+## Exercise 9
 
-(Lesson: Percent-Fraction-Decimal Conversion, Exercise 14 Problem 5) Convert decimals: $2.1$, $0.313$, $1.86$, $0.36$, $0.06$, $0.005$.
+(Lesson: Double Bar Chart, Practice 23, Problem 6) In a singing contest, contestant No. $6$ was scored by $7$ judges: $92,99,91,93,82,95,94$. Dropping the highest $99$ and the lowest $82$, what is the average score? Why drop the highest and lowest?
 
-### Solution to Exercise 211
+### Solution to Exercise 9
 
-Move the decimal two places and add %: $210\%$, $31.3\%$, $186\%$, $36\%$, $6\%$, $0.5\%$. $\blacksquare$
+By **Definition 8.8.1 (Mean)**, $\left(92+91+93+95+94\right)\div5=465\div5=93$ (points). Dropping the extreme scores avoids one judge's too-high or too-low score skewing the average, making the result fairer. $\blacksquare$
 
-## Exercise 212
+## Exercise 10
 
-(Lesson: Percent-Fraction-Decimal Conversion, Exercise 14 Problem 6) Convert fractions: $\frac{3}{4}$, $\frac{5}{8}$, $\frac{1}{6}$, $\frac{5}{9}$.
+(Lesson: Nutritious Lunch) The energy (kilojoules), fat ($\mathrm{g}$) and protein ($\mathrm{g}$) content of $9$ dishes in a cafeteria: fried chicken cutlet $1254,19,20$; tomato scrambled eggs $899,15,11$; mushroom bok choy $911,11,7$; sweet-and-sour fish $2112,18,14$; home-style tofu $1020,16,13$; coriander winter melon $564,7,1$; kung pao chicken $1033,18,7$; potato beef stew $1095,23,16$; leek stir-fried bean sprouts $497,12,3$. Which dishes would you choose?
 
-### Solution to Exercise 212
+### Solution to Exercise 10
 
-First to decimal then percent: $75\%$, $62.5\%$, $16.7\%$, $55.6\%$. $\blacksquare$
+By **Definition 8.9.1 (Standards for a Nutritious Lunch)**, choose dishes with high energy but not excessive fat, e.g. combining meat and vegetables, ensuring energy and protein without exceeding the fat limit. The answer is not unique. $\blacksquare$
 
-## Exercise 213
+## Exercise 11
 
-(Lesson: Percent-Fraction-Decimal Conversion, Exercise 14 Problem 7) Complete the table: percent $32\%$, $0.5\%$, $25\%$; decimal $1.5$, $0.025$; fraction $\frac{1}{8}$, $\frac{1}{2}$.
+(Lesson: Nutritious Lunch) Each lunch combines $3$ different dishes. How many qualifying lunches can you make? (Energy no less than $2926$ kilojoules, fat no more than $50\,\mathrm{g}$.)
 
-### Solution to Exercise 213
+### Solution to Exercise 11
 
-$32\%=0.32=\frac{8}{25}$; $0.5\%=0.005=\frac{1}{200}$; $25\%=0.25=\frac{1}{4}$; $1.5=150\%=\frac{3}{2}$; $0.025=2.5\%=\frac{1}{40}$; $\frac{1}{8}=0.125=12.5\%$; $\frac{1}{2}=0.5=50\%$. $\blacksquare$
+By **Definition 8.9.1 (Standards for a Nutritious Lunch)**, take any $3$ of the $9$ dishes and keep those whose energy sums to at least $2926$ and fat to at most $50$. For example, fried chicken cutlet $1254+$ tomato scrambled eggs $899+$ mushroom bok choy $911=3064$ kilojoules, fat $19+15+11=45\,\mathrm{g}\le50\,\mathrm{g}$, which qualifies. Count all qualifying combinations by this standard. $\blacksquare$
 
-## Exercise 214
+## Exercise 12
 
-(Lesson: Percent-Fraction-Decimal Conversion, Exercise 14 Problem 8) A science group ran a germination test on corn seeds; $288$ of $300$ sprouted. Germination rate?
+(Lesson: Nutritious Lunch) A table of the whole class's $6$ favorite combinations (combination, dish numbers, number who like it, number of boys, number of girls). (1) Draw a double bar chart based on the table.
 
-### Solution to Exercise 214
+### Solution to Exercise 12
 
-By **Definition 11.7.2 (Percent Rates)**: $288\div300=96\%$. $\blacksquare$
+By **Definition 8.8.2 (Double Bar Chart)**, let the horizontal axis show the $6$ combinations and the vertical axis the number of people, use two bars for boys and girls, and label the legend and data. $\blacksquare$
 
-## Exercise 215
+## Exercise 13
 
-(Lesson: Percent-Fraction-Decimal Conversion, Exercise 14 Problem 9) Class 6(1) has $21$ boys and $26$ girls. What percent are boys?
+(Lesson: Nutritious Lunch) (2) Which combination contains the most protein?
 
-### Solution to Exercise 215
+### Solution to Exercise 13
 
-Class total $47$, $21\div47\approx44.7\%$. $\blacksquare$
+Add the protein of the $3$ dishes in each combination and compare which combination has the largest protein total; that is the combination with the most protein. $\blacksquare$
 
-## Exercise 216
+## Exercise 14
 
-(Lesson: Percent-Fraction-Decimal Conversion, Exercise 14 Problem 10) Compute attendance rate per grade (given grade size and attendance).
+(Lesson: Chickens and Rabbits in a Cage, Try It) There are $10$ bicycles and tricycles altogether, with $26$ wheels in total. How many bicycles and how many tricycles are there?
 
-### Solution to Exercise 216
+### Solution to Exercise 14
 
-By **Definition 11.7.2 (Percent Rates)**, attendance rate $=$ attendees $\div$ grade size $\times100\%$, computed row by row. $\blacksquare$
-
-## Exercise 217
-
-(Lesson: Percent-Fraction-Decimal Conversion, Exercise 14 Problem 11) Add $25\,\text{g}$ salt to $100\,\text{g}$ water; what percent of the solution is salt?
-
-### Solution to Exercise 217
-
-Solution $=100+25=125\,\text{g}$, $25\div125=20\%$. $\blacksquare$
-
-## Exercise 218
-
-(Lesson: Percent-Fraction-Decimal Conversion, Exercise 14 Problem 12) Car A goes $50\,\text{km}$ per hour, Car B $40\,\text{km}$ per hour. By what percent is A's speed faster than B's?
-
-### Solution to Exercise 218
-
-$\left(50-40\right)\div40=25\%$. $\blacksquare$
-
-## Exercise 219
-
-(Lesson: Percent-Fraction-Decimal Conversion, Exercise 14 Problem 13) Gardeners planted $45\%$ of the trees; $110$ remain. How many trees total?
-
-### Solution to Exercise 219
-
-Remaining $1-45\%=55\%$ is $110$; $110\div55\%=200$ trees. $\blacksquare$
-
-## Exercise 220
-
-(Lesson: Common Percent Rates, Example 2) Grade 6 has $160$ students; $120$ meet the national fitness standard. Meeting rate? Germination tests: mung bean $95\%$, peanut $92\%$, garlic $98\%$.
-
-### Solution to Exercise 220
-
-By **Definition 11.7.2 (Percent Rates)**: $120\div160=75\%$. The three crop germination rates are $95\%$, $92\%$, $98\%$. $\blacksquare$
-
-## Exercise 221
-
-(Lesson: Common Percent Rates, Do It) How are attendance rate, oil yield, survival rate, hit rate computed?
-
-### Solution to Exercise 221
-
-By **Definition 11.7.2 (Percent Rates)**: attendance $=$ attendees $\div$ expected attendees; oil yield $=$ oil mass $\div$ oil-crop mass; survival $=$ survivors $\div$ total; hit rate $=$ hits $\div$ total attempts. $\blacksquare$
-
-## Exercise 222
-
-(Lesson: Percent Increase/Decrease, Example 3) The school library had $1400$ books; this year the count grew $12\%$. How many now?
-
-### Solution to Exercise 222
-
-$1400\times\left(1+12\%\right)=1400\times1.12=1568$ books. $\blacksquare$
-
-## Exercise 223
-
-(Lesson: Percent Increase/Decrease, Do It) Aunt Zhang's son was $1.5\,\text{m}$ last year, now $1.62\,\text{m}$. Percent growth?
-
-### Solution to Exercise 223
-
-$\left(1.62-1.5\right)\div1.5=8\%$. $\blacksquare$
-
-## Exercise 224
-
-(Lesson: Percent Increase/Decrease, Example 4) A product dropped $20\%$ in month $4$ vs month $3$, then rose $20\%$ in month $5$ vs month $4$. Is month $5$'s price up or down vs. month $3$? By how much?
-
-### Solution to Exercise 224
-
-Take month $3$ as $1$; month $4$ $0.8$; month $5$ $0.8\times1.2=0.96$. Month $5$ is down $\left(1-0.96\right)\div1=4\%$ vs. month $3$. $\blacksquare$
-
-## Exercise 225
-
-(Lesson: Percent Increase/Decrease, Do It) Egg prices fell $20\%$ in month $5$ vs month $4$; by what percent must they rise in month $6$ vs month $5$ to return to month $4$'s price?
-
-### Solution to Exercise 225
-
-Take month $4$ as $1$; month $5$ $0.8$. Month $6$ returns to $1$, i.e. rise from $0.8$ to $1$, i.e. $\left(1-0.8\right)\div0.8=25\%$. $\blacksquare$
-
-## Exercise 226
-
-(Lesson: Percent Word Problems, Exercise 15 Problem 1) Germination tests: corn $246$ of $250$; rice $192$ of $200$; garlic $141$ of $150$. Find the rates.
-
-### Solution to Exercise 226
-
-Corn $246\div250=98.4\%$; rice $192\div200=96\%$; garlic $141\div150=94\%$. $\blacksquare$
-
-## Exercise 227
-
-(Lesson: Percent Word Problems, Exercise 15 Problem 2) Class 6(1) has $50$; on Monday $1$ personal leave and $1$ sick. Attendance rate Monday?
-
-### Solution to Exercise 227
-
-Present $50-2=48$, $48\div50=96\%$. $\blacksquare$
-
-## Exercise 228
-
-(Lesson: Percent Word Problems, Exercise 15 Problem 3) $760\,\text{kg}$ of paddy yields $550\,\text{kg}$ of milled rice. Milling rate?
-
-### Solution to Exercise 228
-
-$550\div760\approx72.4\%$. $\blacksquare$
-
-## Exercise 229
-
-(Lesson: Percent Word Problems, Exercise 15 Problem 4) A machine part cost $2500$ yuan each, now $1600$. Percent cost reduction?
-
-### Solution to Exercise 229
-
-$\left(2500-1600\right)\div2500=36\%$. $\blacksquare$
-
-## Exercise 230
-
-(Lesson: Percent Word Problems, Exercise 15 Problem 5) A plant planned $800$ parts, actually made $920$. Percent overproduction?
-
-### Solution to Exercise 230
-
-$\left(920-800\right)\div800=15\%$. $\blacksquare$
-
-## Exercise 231
-
-(Lesson: Percent Word Problems, Exercise 15 Problem 6) Dongdong was $1.25\,\text{m}$ last year, now $1.29\,\text{m}$. Percent growth?
-
-### Solution to Exercise 231
-
-$\left(1.29-1.25\right)\div1.25=3.2\%$. $\blacksquare$
-
-## Exercise 232
-
-(Lesson: Percent Word Problems, Exercise 15 Problem 7) Antelopes were about $7$ ten-thousand in $1999$, about $30$ ten-thousand in $2021$. Percent increase over $1999$?
-
-### Solution to Exercise 232
-
-$\left(30-7\right)\div7\approx328.6\%$. $\blacksquare$
-
-## Exercise 233
-
-(Lesson: Percent Word Problems, Exercise 15 Problem 8) The school dance-choir club had $64$ members; this year it grew $12.5\%$. Now how many?
-
-### Solution to Exercise 233
-
-$64\times\left(1+12.5\%\right)=64\times1.125=72$ members. $\blacksquare$
-
-## Exercise 234
-
-(Lesson: Percent Word Problems, Exercise 15 Problem 9) A coal mine produced $500$ ten-thousand tons last year; this year output drops by 2.5 cheng. This year?
-
-### Solution to Exercise 234
-
-By **Definition 11.7.3 (Discounts and Cheng)**, 2.5 cheng $=25\%$: $500\times\left(1-25\%\right)=375$ ten-thousand tons. $\blacksquare$
-
-## Exercise 235
-
-(Lesson: Percent Word Problems, Exercise 15 Problem 10) A Beijing–Zhengzhou ticket lists at $2000$ yuan, now at 20% off. How much cheaper than list?
-
-### Solution to Exercise 235
-
-Saving $20\%\times2000=400$ yuan. $\blacksquare$
-
-## Exercise 236
-
-(Lesson: Percent Word Problems, Exercise 15 Problem 11) Tuanjie Road widens from $12\,\text{m}$ to $20\,\text{m}$. Percent widening?
-
-### Solution to Exercise 236
-
-$\left(20-12\right)\div12\approx66.7\%$. $\blacksquare$
-
-## Exercise 237
-
-(Lesson: Percent Word Problems, Exercise 15 Problem 12) A laptop drops $10\%$, then another $10\%$. List price $7600$ yuan; current price?
-
-### Solution to Exercise 237
-
-$7600\times0.9\times0.9=6156$ yuan. $\blacksquare$
-
-## Exercise 238
-
-(Lesson: Discounts, Cheng, Tax, Interest, Example 5) Store goods at 30% off; Grandpa Wang harvested $1500\,\text{kg}$ corn last year, this year up 2 cheng; a mall's month $10$ taxable turnover is $30$ ten-thousand yuan at $3\%$ VAT; deposit $8000$ yuan at $2.10\%$ annual for two years.
-
-### Solution to Exercise 238
-
-30% off $=$ list $\times70\%$; 2 cheng $=20\%$, this year $1500\times1.2=1800\,\text{kg}$; VAT $30\times3\%=0.9$ ten-thousand yuan; interest $8000\times2.10\%\times2=336$ yuan. $\blacksquare$
-
-## Exercise 239
-
-(Lesson: Discounts, Cheng, Tax, Interest, Do It) A shirt lists at $120$ yuan, now 15% off; Lixing Factory's month $9$ taxable amount is $6800$ yuan at $3\%$ VAT.
-
-### Solution to Exercise 239
-
-After discount $120\times85\%=102$ yuan; VAT $6800\times3\%=204$ yuan. $\blacksquare$
-
-## Exercise 240
-
-(Lesson: Discounts, Cheng, Tax, Interest, Exercise 16 Problem 1) Sale prices at 35% off, 30% off, 12% off (list 80, 120, 60 yuan).
-
-### Solution to Exercise 240
-
-$80\times65\%=52$ yuan; $120\times70\%=84$ yuan; $60\times88\%=52.8$ yuan. $\blacksquare$
-
-## Exercise 241
-
-(Lesson: Discounts, Cheng, Tax, Interest, Exercise 16 Problem 2) A cement plant made $240$ ten-thousand tons last year; this year up 1.5 cheng. Planned output?
-
-### Solution to Exercise 241
-
-$240\times\left(1+15\%\right)=276$ ten-thousand tons. $\blacksquare$
-
-## Exercise 242
-
-(Lesson: Discounts, Cheng, Tax, Interest, Exercise 16 Problem 3) Lixing Factory's month $10$ taxable sales are $3000$ ten-thousand yuan at $3\%$ VAT. VAT due?
-
-### Solution to Exercise 242
-
-By **Definition 11.7.4 (Tax Rate and Interest Rate)**: $3000\times3\%=90$ ten-thousand yuan. $\blacksquare$
-
-## Exercise 243
-
-(Lesson: Discounts, Cheng, Tax, Interest, Exercise 16 Problem 4) Grandma deposits $6000$ yuan for two years at $2.25\%$ annual. Interest at maturity? Total returned?
-
-### Solution to Exercise 243
-
-Interest $=6000\times2.25\%\times2=270$ yuan; total $6000+270=6270$ yuan. $\blacksquare$
-
-## Exercise 244
-
-(Lesson: Discounts, Cheng, Tax, Interest, Exercise 16 Problem 5) Left pan holds a $100\,\text{g}$ weight; right pan holds a $2500\,\text{mm}$ wood strip in balance. With only the $100\,\text{g}$ on the right, the balancing wood is $x\,\text{mm}$. Find $x$.
-
-### Solution to Exercise 244
-
-By lever balance, weight and length are inversely proportional, $100\times2500=100\times x$, giving $x=2500\,\text{mm}$ (i.e. the same $100\,\text{g}$ corresponds to $2500\,\text{mm}$). $\blacksquare$
+By **Definition 8.10.1 (Assumption Method)**, assume all are bicycles: wheels $10\times2=20$, short by $26-20=6$; each tricycle has $1$ more wheel than a bicycle, so tricycles $6\div1=6$ and bicycles $10-6=4$. $\blacksquare$

@@ -1,325 +1,175 @@
 # week21
-> **Definition 3.5.1 (厘米)**
+> **Definition 3.2.1 (乘法的含义)**
 > 
-> "厘米"是一个统一的长度单位, 可以用"$\mathrm{cm}$"表示. 量比较短的物体, 可以用厘米作单位. 食指宽,某种便利贴宽大约是 $1$ 厘米.
-> **Definition 3.5.2 (米)**
+> 求几个相同加数的和, 可以用乘法表示. 如 $5$ 个 $3$ 相加, 写成 $3\times5=15$, 读作"$3$ 乘 $5$ 等于 $15$".
+> **Definition 3.2.2 (乘法算式各部分名称)**
 > 
-> 量比较长的物体, 通常用"米"作单位, 可以用"$\mathrm{m}$"表示. $1$ 米 $=100$ 厘米.
-> **Definition 3.5.3 (线段)**
+> 乘号两边的数都叫乘数, 乘得的结果叫积. 如在 $3\times5=15$ 中, $3$ 和 $5$ 是乘数, $15$ 是积.
+> **Definition 3.2.3 (乘法口诀)**
 > 
-> 拉直的一根线可以看作一条线段. 线段是直的, 可以量出长度. 黑板的边,桌子的边,书的边都可以看作线段.
-> **Definition 3.5.4 (测量方法)**
+> 乘法口诀是计算表内乘法的基础, 每句口诀对应两个乘法算式 (如二三得六对应 2*3=6 和 3*2=6).
+> **Definition 3.2.4 (乘加,乘减)**
 > 
-> 量物体长度时, 把尺子的刻度 $0$ 对准物体的一端, 再看物体的另一端对着刻度几, 就是几厘米.
+> 形如 $3\times3+2$,$3\times4-1$ 的算式叫乘加,乘减; 在这样的算式中, 要先算乘法, 再算加法或减法.
+> **Definition 3.2.5 (乘法解决问题)**
+> 
+> 求几个几是多少, 用乘法计算; 把相同加数连加的问题, 都可以用乘法简便地解决.
+> **Definition 3.3.1 (平均分)**
+> 
+> 每份分得同样多, 叫平均分. 如把 $6$ 块糖分成 $3$ 份,每份 $2$ 块, 就是平均分.
+> **Definition 3.3.2 (除法的含义)**
+> 
+> 平均分的过程可以用除法表示. 如 $12$ 个竹笋每 $4$ 个放一盘, 能放 $3$ 盘, 写成 $12\div4=3$, 读作"$12$ 除以 $4$ 等于 $3$".
+> **Definition 3.3.3 (除法算式各部分名称)**
+> 
+> 除号前面的数叫被除数, 除号后面的数叫除数, 除得的结果叫商. 如在 $12\div4=3$ 中, $12$ 是被除数, $4$ 是除数, $3$ 是商.
+> **Definition 3.3.4 (用乘法口诀求商)**
+> 
+> 计算除法时, 想"除数和几相乘得被除数", 那句乘法口诀的得数就是商. 如 $12\div3$, 想"三 (四) 十二", 商是 $4$.
+> **Definition 3.3.5 (乘除关系)**
+> 
+> 乘法和除法有关系, 可以用同一句乘法口诀计算. 如由"三四十二"可算 $3\times4=12$, $4\times3=12$, $12\div3=4$, $12\div4=3$.
 
-## Exercise 123
+## Exercise 1
 
-(Lesson: Centimeters and Meters, Example, Desk) Long ago, how did people measure length? They used the arm-span, the hand-span, and the like as units of length. Using the hand-span to measure the desk, some say it is $5$ hand-spans long, others $3$. They measure the same length, so why are the results different?
+(Lesson: Practice, Problem 2) The floor tiles on Xiaolin's balcony have $6$ tiles in each row when viewed horizontally and $4$ tiles in each column when viewed vertically. How many floor tiles are laid on the balcony in total?
 
-### Solution to Exercise 123
+### Solution to Exercise 1
 
-By **Definition 3.5.1 (Centimeter)**, because everyone's hand-span is a different length, using the hand-span to measure the same desk gives different results. To make comparison and communication easy, measurement must use a unified unit of length. $\blacksquare$
+By **Definition 3.2.5 (Solving Problems with Multiplication)**, $6$ tiles in each row and $4$ rows (i.e. $4$ tiles in each column and $6$ columns), which is $4$ copies of $6$: $6\times4=24$ (tiles). $\blacksquare$
 
-## Exercise 124
+## Exercise 2
 
-(Lesson: Centimeter, Example, Ruler) The "centimeter" is a unified unit of length. The picture below shows part of a ruler; the length of each big division is $1$ centimeter. Say: which objects around you are about $1$ centimeter long?
+(Lesson: Practice, Problem 3) The "tree" character has $4$ strokes; how many strokes does the character "sen" (three stacked "tree" characters) have? What about the two characters of "forest"?
 
-### Solution to Exercise 124
+### Solution to Exercise 2
 
-By **Definition 3.5.1 (Centimeter)**, objects around you that are about $1$ centimeter include: the width of an index finger, the width of a certain sticky note, the length of one side of a practice square, and the diameter of a button. $\blacksquare$
+By **Definition 3.2.5 (Solving Problems with Multiplication)**, the character "sen" is made of $3$ "tree" characters: $4\times3=12$ (strokes); "forest" is "sen" plus "lin" ($2$ "tree" characters), for a total of $5$ "tree" characters: $4\times5=20$ (strokes). $\blacksquare$
 
-## Exercise 125
+## Exercise 3
 
-(Lesson: Centimeter, Example, Strip of Paper) Measure it: the strip of paper below is $\left(\;\;\right)$ centimeters long. Line up the ruler's mark $0$ with the left end of the strip, then read which mark its right end points to.
+(Lesson: Practice, Problem 5) Price list of the food cart: boiled corn $5$ yuan each, egg pancake $6$ yuan each, millet porridge $4$ yuan a cup. (1) Buying $1$ boiled corn and $1$ cup of millet porridge, how much does it cost in total? (2) There are $3$ people in Xiaoming's family, each wanting $1$ cup of millet porridge; how much does it cost in total? (3) Raise other mathematical problems and solve them.
 
-### Solution to Exercise 125
+### Solution to Exercise 3
 
-By **Definition 3.5.4 (How to Measure)**, line up the ruler's mark $0$ with the left end of the strip; the right end points to the mark $5$, so the strip is $5$ centimeters long. $\blacksquare$
+(1) Combine the two parts: $5+4=9$ (yuan); (2) find $3$ copies of $4$ yuan: $4\times3=12$ (yuan); (3) raise a problem such as "how much are $2$ egg pancakes?" and solve it as $6\times2=12$ (yuan). $\blacksquare$
 
-## Exercise 126
+## Exercise 4
 
-(Lesson: Centimeter, Do It, Problem 1) Using the arm-span or the pace as a unit, choose an object that interests you and measure its length.
+(Lesson: Practice, Problem 6) Use sticks to form triangles, and continue in this way; how many sticks does the $4$th figure need? What about the $6$th?
 
-### Solution to Exercise 126
+### Solution to Exercise 4
 
-By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.2 (Meter)**, for example measure the classroom's length in paces and the blackboard's length in arm-spans; record how many paces or arm-spans long it is, then measure the actual length with a ruler. $\blacksquare$
+By **Definition 3.2.5 (Solving Problems with Multiplication)**, each triangle uses $3$ sticks, so the $4$th figure uses $3\times4=12$ (sticks) and the $6$th uses $3\times6=18$ (sticks). $\blacksquare$
 
-## Exercise 127
+## Exercise 5
 
-(Lesson: Centimeter, Do It, Problem 2) The pencil is $\left(\;\;\right)$ centimeters long.
+(Lesson: Organization and Review, The Multiplication Table) Write out the multiplication rhymes of $1\sim6$ on cards, and organize them into a table. (1) What pattern does the table Xiaoli organized have? (2) Help her complete the multiplication table. (3) Point to any rhyme at random and say the multiplication expressions it computes.
 
-### Solution to Exercise 127
+### Solution to Exercise 5
 
-By **Definition 3.5.4 (How to Measure)**, line up the ruler's mark $0$ with one end of the pencil, see which mark the other end points to, and read off the pencil's length in centimeters. $\blacksquare$
+By **Definition 3.2.3 (Multiplication Rhymes)**, from top to bottom the table has the rhymes of $1$, the rhymes of $2$, and so on; each row has one more rhyme than the row above, which is the arrangement of the "little nine-nine" table. Complete the missing rhymes (such as "two two is four", "two three is six", …); point to any one, such as "three four is twelve", and you can say $3\times4=12$ and $4\times3=12$. $\blacksquare$
 
-## Exercise 128
+## Exercise 6
 
-(Lesson: Centimeter, Do It, Problem 3) To measure the long edge of the paper, is the way of measuring below correct? Say why.
+(Lesson: Practice, Problem 1) Calculate. $5\times5$, $3\times6$, $2\times6$, $3\times5$; $3\times3$, $2\times3$, $5\times3$, $4\times2$; $3\times1$, $4\times5$, $5\times2$, $1\times1$; $6\times4$, $3\times4$, $4\times1$, $4\times3$; $6\times3-8$, $5\times4+30$, $4\times4+12$, $5\times3+9$, $6\times6+6$, $4\times6-4$.
 
-### Solution to Exercise 128
+### Solution to Exercise 6
 
-By **Definition 3.5.4 (How to Measure)**, when measuring the ruler must lie flat, close to the object, and the mark $0$ must line up with one end; measuring at a slant or not lining up the mark $0$ is wrong. $\blacksquare$
+By **Definition 3.2.3 (Multiplication Rhymes)** and **Definition 3.2.4 (Multiplication-Addition and Multiplication-Subtraction)**: $5\times5=25$, $3\times6=18$, $2\times6=12$, $3\times5=15$; $3\times3=9$, $2\times3=6$, $5\times3=15$, $4\times2=8$; $3\times1=3$, $4\times5=20$, $5\times2=10$, $1\times1=1$; $6\times4=24$, $3\times4=12$, $4\times1=4$, $4\times3=12$; $6\times3-8=10$, $5\times4+30=50$, $4\times4+12=28$, $5\times3+9=24$, $6\times6+6=42$, $4\times6-4=20$. $\blacksquare$
 
-## Exercise 129
+## Exercise 7
 
-(Lesson: Centimeter, Do It, Problem 4) Using a ruler, show with your fingers about how long $5$ centimeters and $10$ centimeters are.
+(Lesson: Practice, Problem 2) A set of toy cars has $5$ cars, each at $5$ yuan; how much does $1$ such set of toy cars cost? What about $2$ sets?
 
-### Solution to Exercise 129
+### Solution to Exercise 7
 
-By **Definition 3.5.1 (Centimeter)**, first mark out $1$ centimeter on the ruler, then use your fingers to show the lengths of $5$ copies of $1$ centimeter ($5$ centimeters) and $10$ copies of $1$ centimeter ($10$ centimeters). $\blacksquare$
+By **Definition 3.2.5 (Solving Problems with Multiplication)**, $1$ set has $5$ cars at $5$ yuan each: $5\times5=25$ (yuan); $2$ sets: $25\times2=50$ (yuan) (or $5\times5\times2$). $\blacksquare$
 
-## Exercise 130
+## Exercise 8
 
-(Lesson: Meter, Example, Blackboard) To measure longer objects, you usually use the "meter" as the unit. Measure the length of the blackboard.
+(Lesson: Practice, Problem 3) In the supermarket, size-7 batteries come in a pack of $4$ and also in a pack of $6$. (1) Buying $1$ pack of each kind, how many batteries are there in total? (2) If you buy $4$ packs of the $6$-battery kind, how many batteries are there in total?
 
-### Solution to Exercise 130
+### Solution to Exercise 8
 
-By **Definition 3.5.2 (Meter)**, measure the blackboard with a meter stick; its length is about so many meters and centimeters (for example $3$ meters). $\blacksquare$
+(1) Combine the two packs: $4+6=10$ (batteries); (2) find $4$ copies of $6$ batteries: $6\times4=24$ (batteries). $\blacksquare$
 
-## Exercise 131
+## Exercise 9
 
-(Lesson: Meter, Example, Meter Stick) Take a meter stick and see how long $1$ meter is. Look on the meter stick: how many copies of $1$ centimeter are in $1$ meter?
+(Lesson: Practice, Problem 4) Each kitten catches $6$ fish; how many fish do $5$ kittens catch? Are the fish caught by $7$ kittens more or fewer than $40$?
 
-### Solution to Exercise 131
+### Solution to Exercise 9
 
-By **Definition 3.5.2 (Meter)**, on the meter stick $1$ meter is exactly $100$ centimeters, so $1$ meter contains $100$ copies of $1$ centimeter, i.e. $1$ meter $=100$ centimeters. $\blacksquare$
+By **Definition 3.2.5 (Solving Problems with Multiplication)**, $5$ kittens: $6\times5=30$ (fish); $7$ kittens: $6\times7=42$ (fish), and $42> 40$, which is more than $40$. $\blacksquare$
 
-## Exercise 132
+## Exercise 10
 
-(Lesson: Meter, Do It, Problem 1) Measure following the example and fill in. About $\left(\;\;\right)$ meters, $\left(\;\;\right)$ meters $\left(\;\;\right)$ centimeters.
+(Lesson: An Introduction to Division, Example, Candies) Divide $6$ candies into $3$ shares; how can you divide them?
 
-### Solution to Exercise 132
+### Solution to Exercise 10
 
-By **Definition 3.5.2 (Meter)** and **Definition 3.5.4 (How to Measure)**, measure the object's length with a meter stick, and express the part beyond $1$ meter in centimeters, for example $1$ meter $20$ centimeters. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, you can divide share by share: method one is $1$, $1$, $4$ candies; method two is $1$, $2$, $3$ candies; method three is $2$ candies in each share ($2,2,2$). Only method three has the same amount in each share, i.e. equal distribution. $\blacksquare$
 
-## Exercise 133
+## Exercise 11
 
-(Lesson: Meter, Do It, Problem 2) Choose the right answer and draw "$\sqrt{}$" in the $\bigcirc$. Longer / shorter than $1$ meter, taller / shorter than $1$ meter.
+(Lesson: An Introduction to Division, Do It, Problem 1) $8$ bags of crackers, $2$ bags per share; how many shares can you make? Circle them and explain.
 
-### Solution to Exercise 133
+### Solution to Exercise 11
 
-By **Definition 3.5.2 (Meter)**, judge from everyday experience: the classroom door is taller than $1$ meter, the desk height is shorter than $1$ meter, the blackboard is longer than $1$ meter, and the pencil case is shorter than $1$ meter. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, circle every $2$ bags; the $8$ bags make exactly $4$ shares, so they can be divided into $4$ shares. $\blacksquare$
 
-## Exercise 134
+## Exercise 12
 
-(Lesson: Practice, Problem 1) Fill in. The desk's height is $\left(\;\;\right)$ pencils long, and the stick is $\left(\;\;\right)$ feet long.
+(Lesson: An Introduction to Division, Example, Crackers) Circle them: $12$ bags of crackers, $3$ bags per share; how many shares can you make?
 
-### Solution to Exercise 134
+### Solution to Exercise 12
 
-By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.4 (How to Measure)**, measure using pencils or feet as units, and count how many pencils long and how many feet long it is. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, circle every $3$ bags; the $12$ bags make exactly $4$ shares, so they can be divided into $4$ shares. $\blacksquare$
 
-## Exercise 135
+## Exercise 13
 
-(Lesson: Practice, Problem 2) Compare: pencil number $\left(\;\;\right)$ is the longest.
+(Lesson: An Introduction to Division, Do It, Problem 1) Which ways of dividing are equal distribution? For the correct ones, draw "$\sqrt{}$" in the $\left(\;\;\right)$.
 
-### Solution to Exercise 135
+### Solution to Exercise 13
 
-By **Definition 3.5.4 (How to Measure)**, line up one end of the three pencils, and see which one's other end sticks out the farthest; that one is the longest. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, only the way that gives the same amount in each share is equal distribution; draw "$\sqrt{}$" in the corresponding parentheses, and not in the others. $\blacksquare$
 
-## Exercise 136
+## Exercise 14
 
-(Lesson: Practice, Problem 3) Fill the $\bigcirc$ with "$> $", "$< $", or "$=$". $10$ meters $\bigcirc$ $10$ centimeters, $100$ centimeters $\bigcirc$ $1$ meter, $80$ centimeters $\bigcirc$ $1$ meter.
+(Lesson: An Introduction to Division, Do It, Problem 2) There are $\left(\;\;\right)$ maple leaves in total, $\left(\;\;\right)$ leaves per share, divided equally into $\left(\;\;\right)$ shares.
 
-### Solution to Exercise 136
+### Solution to Exercise 14
 
-By **Definition 3.5.2 (Meter)**, $1$ meter $=100$ centimeters: $10$ meters $> 10$ centimeters; $100$ centimeters $=1$ meter; $80$ centimeters $< 1$ meter. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, first count the total number of maple leaves, then circle them by the number per share shown in the picture; however many shares you circle is how many shares they were divided into; fill them in in order. $\blacksquare$
 
-## Exercise 137
+## Exercise 15
 
-(Lesson: Practice, Problem 4) Fill in. The eraser is $\left(\;\;\right)$ centimeters long.
+(Lesson: An Introduction to Division, Do It, Problem 3) Circle and fill in. (1) $10$ sticks, $2$ sticks per share, can be divided into $\left(\;\;\right)$ shares; $5$ sticks per share, into $\left(\;\;\right)$ shares. (2) $16$ cups, $2$ cups per box, can fill $\left(\;\;\right)$ boxes; $4$ cups per box, $\left(\;\;\right)$ boxes; $8$ cups per box, $\left(\;\;\right)$ boxes.
 
-### Solution to Exercise 137
+### Solution to Exercise 15
 
-By **Definition 3.5.4 (How to Measure)**, measure the eraser with a ruler, line up the mark $0$ with one end, and read the other end's centimeter value. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, (1) $10$ sticks at $2$ per share make $5$ shares; at $5$ per share make $2$ shares. (2) $16$ cups at $2$ per box fill $8$ boxes; at $4$ per box fill $4$ boxes; at $8$ per box fill $2$ boxes. $\blacksquare$
 
-## Exercise 138
+## Exercise 16
 
-(Lesson: Practice, Problem 5) Take a string, measure off $1$ meter and $2$ meters to show your classmates, and get a feel for how long they are.
+(Lesson: An Introduction to Division, Example, Oranges) Divide $18$ oranges equally into $6$ shares; how many in each share?
 
-### Solution to Exercise 138
+### Solution to Exercise 16
 
-By **Definition 3.5.2 (Meter)**, use the meter stick to mark off $1$ meter and $2$ meters on the string, gesture with your hand to feel roughly where on your body $1$ meter reaches, and note that $2$ meters is twice as long as $1$ meter. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, first put $1$ in each share, using up $6$; then put another $1$ in each, using up another $6$; finally put $1$ more in each, and they are exactly used up; this took $3$ rounds, and each share has $3$, i.e. $3$ per share. $\blacksquare$
 
-## Exercise 139
+## Exercise 17
 
-(Lesson: Practice, Problem 6) Which measurement results are correct? Draw "$\sqrt{}$" in the $\left(\;\;\right)$. $5$ cm long, $4$ cm long, about $5$ cm long.
+(Lesson: An Introduction to Division, Do It, Problem 1) Divide $10$ cartons of yogurt equally into $2$ shares; $\left(\;\;\right)$ cartons per share.
 
-### Solution to Exercise 139
+### Solution to Exercise 17
 
-By **Definition 3.5.4 (How to Measure)**, check whether the ruler's mark $0$ lines up and whether the object lies against the ruler: draw "$\sqrt{}$" for the correct way of measuring, and not for the wrong ones. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, distribute the $10$ cartons of yogurt share by share so each gets the same, namely $5$ cartons per share. $\blacksquare$
 
-## Exercise 140
+## Exercise 18
 
-(Lesson: Practice, Problem 7) Estimate, then measure. The eraser's length, the pencil's length, the math book's length, and the jump rope's length; estimate first, then measure.
+(Lesson: An Introduction to Division, Do It, Problem 2) To make each bear get the same amount, each bear can get $\left(\;\;\right)$ jars of honey.
 
-### Solution to Exercise 140
+### Solution to Exercise 18
 
-By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.4 (How to Measure)**, first estimate each object's length by feel, then actually measure with a ruler, fill the estimate and the measurement into a table, and compare which estimate was accurate. $\blacksquare$
-
-## Exercise 141
-
-(Lesson: Practice, Problem 8) A string is $1$ meter long; $30$ centimeters are cut off. How many centimeters of the string are left?
-
-### Solution to Exercise 141
-
-By **Definition 3.5.2 (Meter)**, $1$ meter $=100$ centimeters; cutting off $30$ centimeters: $100-30=70$ (centimeters), so $70$ centimeters are left. $\blacksquare$
-
-## Exercise 142
-
-(Lesson: Line Segment, Try It) Draw a line segment $3$ centimeters long. Start drawing at the mark $0$ and draw to the point $3$ centimeters away.
-
-### Solution to Exercise 142
-
-By **Definition 3.5.3 (Line Segment)** and **Definition 3.5.4 (How to Measure)**, first mark one endpoint on the paper, line up the ruler's mark $0$ with this point, draw along the ruler to the mark $3$ and mark another endpoint, and you get a line segment $3$ centimeters long. $\blacksquare$
-
-## Exercise 143
-
-(Lesson: Line Segment, Do It, Problem 1) Point out which of the following are line segments.
-
-### Solution to Exercise 143
-
-By **Definition 3.5.3 (Line Segment)**, only a straight line with endpoints on both ends is a line segment; a bent line or a straight line with no endpoints is not. $\blacksquare$
-
-## Exercise 144
-
-(Lesson: Line Segment, Do It, Problem 2) How many line segments bound each figure? Fill in. $\left(\;\;\right)$ segments, $\left(\;\;\right)$ segments, $\left(\;\;\right)$ segments.
-
-### Solution to Exercise 144
-
-By **Definition 3.5.3 (Line Segment)**, count the number of straight sides bounding each figure, for example a triangle $3$, a rectangle $4$, a pentagon $5$. $\blacksquare$
-
-## Exercise 145
-
-(Lesson: Line Segment, Do It, Problem 3) Connect every pair of points with a line segment; how many line segments did you draw in total?
-
-### Solution to Exercise 145
-
-By **Definition 3.5.3 (Line Segment)**, draw a segment between every pair of points, then count the total number, without repeats or omissions. $\blacksquare$
-
-## Exercise 146
-
-(Lesson: Line Segment, Do It, Problem 4) Draw a line segment as long as the one below.
-
-### Solution to Exercise 146
-
-By **Definition 3.5.4 (How to Measure)**, first measure the known segment's length with a ruler (for example $4$ centimeters), then, following the method of Exercise 142, draw a segment of the same length. $\blacksquare$
-
-## Exercise 147
-
-(Lesson: Line Segment, Do It, Problem 5) On the line, draw a $\bigstar$ $3$ centimeters from the little flower, draw a $\triangle$ at $5$ centimeters, and draw a $\bigcirc$ at $10$ centimeters.
-
-### Solution to Exercise 147
-
-By **Definition 3.5.4 (How to Measure)**, starting from the flower's position, use the ruler along the line to measure off $3$ centimeters, $5$ centimeters, and $10$ centimeters, and draw the symbols at the corresponding positions. $\blacksquare$
-
-## Exercise 148
-
-(Lesson: Solving Problems, Example, Flagpole) Is the height of the school flagpole $13$ centimeters or $13$ meters? How do you tell?
-
-### Solution to Exercise 148
-
-By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.2 (Meter)**, $13$ centimeters is about $1$ hand-span, and a flagpole cannot be that short; even a new pencil is more than $13$ centimeters, while a child is a bit over $1$ meter tall, and $10$ children's heights stacked up are about as tall as the flagpole, so the flagpole is $13$ meters high. $\blacksquare$
-
-## Exercise 149
-
-(Lesson: Solving Problems, Do It) Fill in the $\left(\;\;\right)$ with "centimeters" or "meters". (1) The desk is $60$ $\left(\;\;\right)$ long. (2) The basketball court is $28$ $\left(\;\;\right)$ long. (3) A sparrow's claw print is $3$ $\left(\;\;\right)$ long. Say how you decided.
-
-### Solution to Exercise 149
-
-By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.2 (Meter)**, the desk is about $60$ centimeters long; the basketball court is about $28$ meters long; the sparrow's claw print is about $3$ centimeters long. Use centimeters for short things and meters for long things. $\blacksquare$
-
-## Exercise 150
-
-(Lesson: Practice, Problem 1) Which objects in daily life have edges that can be regarded as line segments? Measure their lengths.
-
-### Solution to Exercise 150
-
-By **Definition 3.5.3 (Line Segment)** and **Definition 3.5.4 (How to Measure)**, the edges of a textbook, a table, and a door frame are all line segments; measure each edge with a ruler and record it. $\blacksquare$
-
-## Exercise 151
-
-(Lesson: Practice, Problem 2) On a cuboid and a cube, how many line segments can you find on each? Take one corresponding building block of each and check whether you found them correctly.
-
-### Solution to Exercise 151
-
-By **Definition 3.5.3 (Line Segment)**, every edge of a cuboid or a cube is a line segment; a cuboid has $12$ edges and a cube also has $12$ edges, so you can find $12$ line segments on each; count the edges with the blocks to verify. $\blacksquare$
-
-## Exercise 152
-
-(Lesson: Practice, Problem 3) Fill in the right unit in the $\left(\;\;\right)$. (1) A water bottle is about $25$ $\left(\;\;\right)$ high. (2) A book is about $1$ $\left(\;\;\right)$ thick. (3) An elephant is about $3$ $\left(\;\;\right)$ high. (4) Walking from one end of the playground to the other is $50$ $\left(\;\;\right)$.
-
-### Solution to Exercise 152
-
-By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.2 (Meter)**: the water bottle is about $25$ centimeters high; the book is about $1$ centimeter thick; the elephant is about $3$ meters high; the playground is about $50$ meters long. $\blacksquare$
-
-## Exercise 153
-
-(Lesson: Practice, Problem 4) Measure it; the turtle has to crawl $\left(\;\;\right)$ centimeters to reach the little fish. Raise a math problem and solve it.
-
-### Solution to Exercise 153
-
-By **Definition 3.5.4 (How to Measure)**, measure the route from the turtle to the little fish segment by segment in centimeters and add them up to get how far the turtle crawls; then raise a problem such as "how many centimeters does the ant crawl to the grain of rice?" and solve it. $\blacksquare$
-
-## Exercise 154
-
-(Lesson: Organization and Review, Knowledge Map) From studying this unit, what have you gained? In the "knowledge map" Xiaoli organized, how are centimeters, meters, and line segments related?
-
-### Solution to Exercise 154
-
-By **Definition 3.5.1 (Centimeter)**, **Definition 3.5.2 (Meter)**, and **Definition 3.5.3 (Line Segment)**, both the centimeter and the meter are units of length, and $1$ meter $=100$ centimeters; use centimeters for short objects and meters for long ones; a line segment is straight and can be measured, and when measuring it line up the left end with the mark $0$, keep it against the object, and do not tilt. $\blacksquare$
-
-## Exercise 155
-
-(Lesson: Practice, Problem 1) Fill in. $\left(\;\;\right)$ centimeters long.
-
-### Solution to Exercise 155
-
-By **Definition 3.5.4 (How to Measure)**, measure the segment with a ruler, line up the mark $0$ with one end, and read the other end's mark. $\blacksquare$
-
-## Exercise 156
-
-(Lesson: Practice, Problem 2) Estimate how long each object in the picture below is, then measure. About $\left(\;\;\right)$ centimeters.
-
-### Solution to Exercise 156
-
-By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.4 (How to Measure)**, first use $1$ centimeter as a gauge to estimate how many copies of $1$ centimeter the object is, then actually measure with a ruler, and compare the estimate with the measurement. $\blacksquare$
-
-## Exercise 157
-
-(Lesson: Practice, Problem 4) Circle the right answer. Your shoe is longer / shorter than $10$ centimeters; the classroom door is wider / narrower than $1$ meter; the span of your outstretched arms is longer / shorter than $1$ meter.
-
-### Solution to Exercise 157
-
-By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.2 (Meter)**, the shoe is longer than $10$ centimeters (about $20$-something centimeters); the classroom door is wider than $1$ meter; the span of your outstretched arms is about your height, which is longer than $1$ meter. $\blacksquare$
-
-## Exercise 158
-
-(Lesson: Practice, Problem 5) Count; how many line segments make up each figure below? $\left(\;\;\right)$ segments, $\left(\;\;\right)$ segments, $\left(\;\;\right)$ segments.
-
-### Solution to Exercise 158
-
-By **Definition 3.5.3 (Line Segment)**, count the straight sides of each figure one by one, taking care not to repeat or omit any. $\blacksquare$
-
-## Exercise 159
-
-(Lesson: Practice, Problem 6) Fill in the right length unit in the $\left(\;\;\right)$. The math book is about $26$ $\left(\;\;\right)$ long; the lamp tube is about $50$ $\left(\;\;\right)$ long; the room is about $3$ $\left(\;\;\right)$ high; the dictionary is about $6$ $\left(\;\;\right)$ thick; the big tree is about $8$ $\left(\;\;\right)$ high; the classroom is about $10$ $\left(\;\;\right)$ long.
-
-### Solution to Exercise 159
-
-By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.2 (Meter)**: the math book is $26$ centimeters long; the lamp tube is $50$ centimeters long; the room is $3$ meters high; the dictionary is $6$ centimeters thick; the big tree is $8$ meters high; the classroom is $10$ meters long. $\blacksquare$
-
-## Exercise 160
-
-(Lesson: Practice, Problem 7) Measure and fill in. (1) About $\left(\;\;\right)$ pencils placed end to end are $1$ meter long. (2) About $\left(\;\;\right)$ chopsticks placed end to end are $1$ meter long.
-
-### Solution to Exercise 160
-
-By **Definition 3.5.2 (Meter)** and **Definition 3.5.4 (How to Measure)**, first measure one pencil (about $20$ centimeters) and one chopstick (about $25$ centimeters), then think how many of these lengths fit into $100$ centimeters: about $5$ pencils or $4$ chopsticks placed end to end are $1$ meter long. $\blacksquare$
-
-## Exercise 161
-
-(Lesson: Practice, Problem 8) A wire: first half of it is used, then half of what remains is used, and finally $3$ meters are left. How long was the wire originally?
-
-### Solution to Exercise 161
-
-By **Definition 3.5.2 (Meter)**, work backward: in the end $3$ meters are left, which is half of what remained before the second use, so before the second use there were $3\times2=6$ (meters); these $6$ meters are half of the original, so originally the wire was $6\times2=12$ (meters) long. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, count the total jars of honey and the number of bears, divide the honey equally among the bears, and the jars each bear gets equals "total jars $\div$ number of bears". $\blacksquare$

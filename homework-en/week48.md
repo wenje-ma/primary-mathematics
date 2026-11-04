@@ -1,198 +1,212 @@
 # week48
-> **Definition 6.1.1 (轴对称图形与对称轴)**
+> **Definition 5.4.1 (等量的等量相等与总量等于各分量之和)**
 > 
-> 如果一个图形沿一条直线折叠, 直线两旁的部分能够互相重合, 这个图形叫做轴对称图形.
-> **Definition 6.1.2 (平移)**
+> 等量的等量相等; 总量等于各分量之和.
+> **Definition 5.4.2 (克与千克)**
 > 
-> 物体或图形沿直线方向运动而本身方向不发生改变, 这种运动叫做平移.
-> **Definition 6.1.3 (旋转)**
+> 克 (g), 千克 (kg) 是表示物体质量的常用单位. 计量比较轻的物品用克, 计量比较重的物品用千克. $1$ 千克 $=1000$ 克. 千克在日常生活中也叫公斤.
+> **Definition 5.4.3 (吨)**
 > 
-> 物体绕着一个点或轴进行圆周运动的现象叫做旋转.
-> **Definition 6.7.1 (小数的意义和性质)**
+> 计量较重的或大宗物品的质量, 通常用吨 (t) 作单位. $1$ 吨 $=1000$ 千克.
+> **Definition 5.4.4 (用已知质量作标准称物体)**
 > 
-> 参见教材相应章节关于此概念的论述.
-> **Definition 6.7.3 (简单的小数加减法)**
+> 没有秤时, 可以用已知质量的物品 (如每袋 $200$ 克的盐) 作标准, 通过拎一拎比较或等量替换称出其他物体的质量. 生活中还有公斤, 斤, 两等单位: $1$ 公斤 $=1$ 千克, $1$ 斤 $=500$ 克, $1$ 公斤 $=2$ 斤, $1$ 斤 $=10$ 两.
+> **Definition 5.5.1 (口算乘法)**
 > 
-> 70 计算小数加减法,先把各数的小数点对齐(也就是把 相同数位上的数对齐),再按照整数加减法的法则进行计 算,最后在得数里点上小数点.如果得数的小数部分末尾 有0,可以把0去掉. 一起总结小数加减法的计算方法. (1) 小林买了下面两本书,一共花了多少钱? 2 (2) 《数学家的故事》比《神奇的大自然》便宜多少钱? 计算下面各题并验算. 12+0.5 27-0.8 113.04+7.8 0.3-0.18 12.56+5.8 16.4-3.2 做一做 百分位上怎样减? 16.45+18.3=34.75 4 3 4 3 7 5 5 1 1 + . . . 1 6 8 18.3-16.45=1.85 - 1 3 3 4 8 0 5 5 1 . . . 1 8 3 6 18.3元 16.45元 (1)小林买了下面两本书,一共花了多少钱? 数学家的 神奇的 故事 大自然 16.45元 18.3元 16.45+18.3
-> **Definition 6.8.1 (全册知识结构)**
+> 整十, 整百数乘一位数, 先把 $0$ 前面的数与一位数相乘, 再在积的末尾添上相应个数的 $0$. 两位数乘一位数, 把两位数分成整十数和一位数, 分别相乘后再相加.
+> **Definition 5.5.2 (笔算乘法)**
 > 
-> 会解决生活中的很多问题了. 你已经学会了表内乘,除法和多位数乘一位数的乘法.本学 期,聪聪将带你挑战除数是一位数的除法. 在图形方面,线和角对你来说应该已经很熟悉了,本学期你将 研究四边形的特征并探索如何计算长方形,正方形的周长和面积. 也许下一次装修时,你就能帮着爸爸妈妈计算要买多少块瓷砖啦! 本学期,聪聪还将带你认识生活中的运动现象,寻找日历上的 规律…… 现在,就和聪聪一起继续探索数学的奥秘吧! 36.6 ℃, 体温正常. 致同学 致同学 愉快的寒假结束了.在假期生活中,你有没有遇到过新的数学 问题?带着这些问题,开始新的学习旅程吧! 测量体温和身高时,经常会看到下面图中的数.它们表示什 么?怎么读?弄清这些,你就会解决生活中的很多问题了. 36.6 ℃, 1米 体温正常. 1.2米 你已经学会了表内乘,除法和多位数乘一位数的乘法.本学 期,聪聪将带你挑战除数是一位数的除法 在图形方面,线和角对你来说应该已经很熟悉了,本学期你将 研究四边形的特征并探索如何计算长方形,正方形的周长和
-> **Definition 6.8.2 (重叠问题)**
+> 多位数乘一位数的竖式: 从个位起, 用一位数依次乘多位数的每一位; 哪一位上乘得的积满几十, 就向前一位进几.
+> **Definition 5.5.3 (0 的乘法)**
 > 
-> 两部分有重叠时, 总数 $=$ 两部分的和 $-$ 重叠部分, 直接相加会把重叠的重复计算.
+> $0$ 和任何数相乘都得 $0$.
+> **Definition 5.5.4 (因数中间或末尾有 0 的乘法)**
+> 
+> 因数中间有 $0$, 这一位也要乘; 因数末尾有 $0$, 可以先乘 $0$ 前面的数, 再在积的末尾添上相同个数的 $0$.
+> **Definition 5.5.5 (用估算解决问题)**
+> 
+> 有时只需判断"够不够", 不必精确计算, 可把数往大估或往小估: 把人数往大估, 钱数都够, 实际一定够.
 
-## Exercise 202
+## Exercise 1
 
-(Lesson: Application Practice, Problem 1) Three families' May electricity use: Xiaohong's family $3$ people used $189$ kWh, Xiaoli's family $4$ people used $276$ kWh, Xiaojun's family $5$ people used $260$ kWh. (1) Fill in the electricity use per person on average. (2) Xiaohong's family used $9$ tons of water per month last year, and the half-year water bill was $270$ yuan; how much is each ton of water?
+(Lesson: The Story of Cao Chong Weighing the Elephant — Share Your Thoughts) Do you know the story of Cao Chong weighing the elephant? Tell about the steps and method of how Cao Chong weighed the elephant.
 
-### Solution to Exercise 202
+### Solution to Exercise 1
 
-(1) Xiaohong $189\div3=63$, Xiaoli $276\div4=69$, Xiaojun $260\div5=52$ (kWh). (2) Half a year is $6$ months, using $9\times6=54$ tons; each ton is $270\div54=5$ (yuan). $\blacksquare$
+By **Definition 5.4.1 (Equals of Equals are Equal, and the Whole Equals the Sum of Its Parts)**, the steps are: lead the elephant onto the boat and draw a line on the gunwale along the water surface; lead the elephant off and load stones until the boat sinks to the drawn line; weigh the total mass of the stones on the boat in several batches, and the sum of the masses from each weighing is the elephant's mass. $\blacksquare$
 
-## Exercise 203
+## Exercise 2
 
-(Lesson: Application Practice, Problem 2) Two rectangles of length $6$ cm and width $3$ cm can be joined into one rectangle or into one square. (1) What is each perimeter? (2) What is each area?
+(Lesson: Activity Preparation — Before-Class Survey) What weighing tools are there in daily life? What units are used to record or express how heavy an object is?
 
-### Solution to Exercise 203
+### Solution to Exercise 2
 
-Joined into a rectangle (length $12$, width $3$): perimeter $\left(12+3\right)\times2=30$ (centimeters), area $12\times3=36$ (square centimeters). Joined into a square (side $6$): perimeter $6\times4=24$ (centimeters), area $6\times6=36$ (square centimeters). $\blacksquare$
+Weighing tools include the pan scale, balance, electronic scale, platform scale, weighbridge (truck scale), steelyard, and so on. Grams, kilograms and tons are commonly used to record mass; in daily life the kilo, jin and liang are also used. $\blacksquare$
 
-## Exercise 204
+## Exercise 3
 
-(Lesson: Practice 18, Problem 1) Mental math: $25+7$, $41-6$, $30\times5$, $39\div3$, $14\times5$, $540\div6$, $440-70$, $260+500$, $59+34$, $84-65$, $210\div7$, $240\times4$, $84\div4$, $17\times4$, $180+50$, $300-40$.
+(Lesson: Getting to Know Mass Units — Share Your Thoughts) Discuss your before-class survey in groups: where did you find "grams" and "kilograms"? Tell about your own body weight.
 
-### Solution to Exercise 204
+### Solution to Exercise 3
 
-$32,35,150,13,70,90,370,760,93,19,30,960,21,68,230,260$. $\blacksquare$
+By **Definition 5.4.2 (The Gram and the Kilogram)**, gram and kilogram markings are common on pan scales, balances and electronic scales; a child's weight is about $25$ kilograms. $\blacksquare$
 
-## Exercise 205
+## Exercise 4
 
-(Lesson: Practice 18, Problem 2) Written calculation: $528\div3$, $228\div6$, $504\div8$, $414\div9$.
+(Lesson: Getting to Know Mass Units — Read Them) Can you read the mass of the objects below? Whatever number the pointer points to on the scale face tells how many grams or kilograms the weighed object has.
 
-### Solution to Exercise 205
+### Solution to Exercise 4
 
-By **Definition 6.8.1 (division by a one-digit divisor)**: $528\div3=176$, $228\div6=38$, $504\div8=63$, $414\div9=46$. $\blacksquare$
+By **Definition 5.4.2 (The Gram and the Kilogram)**, read the unit on the scale face and the pointer position: for example, if the pan-scale pointer points to the $2$ kilogram mark, read it as $2$ kilograms; for a balance, add the readings of the weight set. Read off the specific grams or kilograms according to each pointer position in the figure. $\blacksquare$
 
-## Exercise 206
+## Exercise 5
 
-(Lesson: Practice 18, Problem 3) A bird eats $665$ insects in one week ($7$ days); how many does it eat per day on average?
+(Lesson: Getting to Know Mass Units — Small Survey) Investigate how heavy the following animals are and fill in the table: dragonfly, sparrow, giant panda, polar bear, hippopotamus, blue whale.
 
-### Solution to Exercise 206
+### Solution to Exercise 5
 
-$665\div7=95$ (insects). $\blacksquare$
+Look it up: a dragonfly is about a few grams, a sparrow about $20\sim30$ grams, a giant panda about $100$ kilograms, a polar bear about $500$ kilograms, a hippopotamus about $3$ tons, and a blue whale about $150$ tons. By **Definition 5.4.3 (The Ton)**, very heavy animals are measured in tons. $\blacksquare$
 
-## Exercise 207
+## Exercise 6
 
-(Lesson: Practice 18, Problem 4) A square fish pond has side $6$ meters; what is its perimeter in meters? What is its water area in square meters?
+(Lesson: I'm Good at Weighing — Compare) Find some objects, heft them, and compare which is lighter and which is heavier.
 
-### Solution to Exercise 207
+### Solution to Exercise 6
 
-Perimeter $6\times4=24$ (meters), area $6\times6=36$ (square meters). $\blacksquare$
+Compare by hefting in your hand; if the difference is obvious, you can say directly which is lighter and which is heavier (for example, an orange is heavier than an egg); if the difference is not obvious, you need to weigh them before comparing, for example an apple is about $30$ grams heavier than an orange. $\blacksquare$
 
-## Exercise 208
+## Exercise 7
 
-(Lesson: Practice 18, Problem 5) (1) $3$ years $=\left(\ \ \right)$ months, $24$ months $=\left(\ \ \right)$ years. (2) Month $7$ has $\left(\ \ \right)$ days, and $15$ o'clock is $\left(\ \ \right)$ p.m. (3) Xiaoliang arrives at school at $8:10$ and leaves at $12:00$, and in the afternoon arrives at $2:00$ and leaves at $17:00$; how many hours and minutes is he at school all day?
+(Lesson: I'm Good at Weighing — Weigh It) Weigh some common objects and see how many of them make up $1$ gram or $1$ kilogram.
 
-### Solution to Exercise 208
+### Solution to Exercise 7
 
-(1) $3$ years $=36$ months, $24$ months $=2$ years. (2) Month $7$ has $31$ days, and $15$ o'clock is $3$ p.m. (3) Morning $3$ hours $50$ minutes, afternoon $3$ hours, totaling $6$ hours $50$ minutes. $\blacksquare$
+By **Definition 5.4.2 (The Gram and the Kilogram)**, for example, $5$ soybeans weigh about $1$ gram, and $1$ kilogram of tomatoes is about $6$ of them. $1$ bag of grain is $100$ kilograms, and $10$ bags weigh $1$ ton. $\blacksquare$
 
-## Exercise 209
+## Exercise 8
 
-(Lesson: Practice 18, Problem 6) Write the decimals pointed to by the arrows on the number line (graduations $0\sim5$).
+(Lesson: I'm Good at Weighing — Weigh It) In groups, choose an appropriate scale and weigh the objects everyone brought to see how heavy they are.
 
-### Solution to Exercise 209
+### Solution to Exercise 8
 
-By **Definition 6.7.1 (Decimals)**, each small division is $0.1$; count the divisions from the arrow's position and write the decimal. $\blacksquare$
+Light objects (such as an eraser or a pencil) are weighed in grams on a balance or electronic scale; heavy objects (such as a schoolbag or a water bottle) are weighed in kilograms on a pan or platform scale. Record the results after weighing. $\blacksquare$
 
-## Exercise 210
+## Exercise 9
 
-(Lesson: Practice 18, Problem 7) Compute: $1.4-0.8$, $6+0.6$, $7.8+0.5$, $5.3-1.7$, $3.8-1.9$, $4.6+2.7$.
+(Lesson: I'm Good at Weighing — Choose) Which unit is appropriate for measuring how heavy the following objects are? (a pear, a bag of rice, an elephant.)
 
-### Solution to Exercise 210
+### Solution to Exercise 9
 
-By **Definition 6.7.3 (lining up the decimal points)**: $0.6,6.6,8.3,3.6,1.9,7.3$. $\blacksquare$
+By **Definition 5.4.2 (克与千克)** and **Definition 5.4.3 (吨)**, a pear is measured in grams ($5$ pears weigh about $1$ kilogram), a bag of rice in kilograms, and an elephant in tons. $\blacksquare$
 
-## Exercise 211
+## Exercise 10
 
-(Lesson: Practice 18, Problem 8) Which of the following patterns are axisymmetric figures?
+(Lesson: I'm Good at Weighing — Think) If you want to find the mass of a very light object, what method do you have?
 
-### Solution to Exercise 211
+### Solution to Exercise 10
 
-By **Definition 6.1.1 (axisymmetry)**, a pattern that folds along a straight line with both sides matching completely is axisymmetric; judge each one accordingly. $\blacksquare$
+A light object (such as a single grain of rice) cannot be weighed accurately on its own; you can weigh the mass of $100$ grains of rice and then divide by $100$ to get the mass of one grain. $\blacksquare$
 
-## Exercise 212
+## Exercise 11
 
-(Lesson: Practice 18, Problem 9) From figure $①$, which figure is obtained by translation and which by rotation?
+(Lesson: The Great Weighing Challenge) If there is no scale and you are only given some bags of salt weighing $200$ grams each, can you find a way to "weigh" the mass of $1$ flashlight, $1$ water cup, and $1$ potted plant? What other objects of known mass would you like to use as a standard?
 
-### Solution to Exercise 212
+### Solution to Exercise 11
 
-By **Definition 6.1.2 (translation)** and **Definition 6.1.3 (rotation)**, translation does not change direction but only position, while rotation changes direction; choose the figures accordingly. $\blacksquare$
+By **Definition 5.4.4 (Weighing an Object by Using a Known Mass as a Standard)**, hold a bag of salt in one hand and the object in the other and compare by hefting: $1$ water cup weighs about as much as $2$ bags of salt ($400$ grams), and $1$ flashlight about as much as $1$ bag of salt ($200$ grams). For the flowerpot you can use Cao Chong's method of weighing the elephant: put the pot into a basin of water and mark the water level, take out the pot and add bags of salt until the water reaches the mark, then count the bags. A pencil case is about $200$ grams and a dictionary about $400$ grams, and these can also be used as standards. $\blacksquare$
 
-## Exercise 213
+## Exercise 12
 
-(Lesson: Practice 18, Problem 10) $4$ sheets of paper make $12$ paper planes. (1) How many do $6$ sheets make? (2) How many sheets are needed to make $24$?
+(Lesson: Mini Lecture) What other mass units and scales are there in daily life? Were the mass units and scales in ancient times the same as today's?
 
-### Solution to Exercise 213
+### Solution to Exercise 12
 
-Each sheet makes $12\div4=3$ (planes). (1) $3\times6=18$ (planes). (2) $24\div3=8$ (sheets). $\blacksquare$
+By **Definition 5.4.4 (Weighing an Object by Using a Known Mass as a Standard)**, besides the gram and kilogram there are also the kilo, jin and liang: $1$ kilo $=1$ kilogram, $1$ jin $=500$ grams, $1$ kilo $=2$ jin, $1$ jin $=10$ liang. In ancient times people used units such as the jin, liang and jun and the steelyard, which differ from today's International System of Units; the idioms "half a jin and eight liang" (six of one and half a dozen of the other), "to haggle over every jin", and "strength to move a thousand jun" all contain mass units. $\blacksquare$
 
-## Exercise 214
+## Exercise 13
 
-(Lesson: Practice 18, Problem 11) There are $48$ refrigerators; a truck delivers $4$ at a time, $2$ times a day; how many days to finish?
+(Lesson: Mental Multiplication — Example 1) Riding the roller coaster costs $20$ yuan per person; how much do $3$ people need?
 
-### Solution to Exercise 214
+### Solution to Exercise 13
 
-Each day delivers $4\times2=8$ (units); $48\div8=6$ (days). $\blacksquare$
+$20\times3=60$ yuan. By **Definition 5.5.1 (Mental Multiplication)**, $20$ is $2$ tens; $2$ tens times $3$ is $6$ tens, i.e. $60$. $\blacksquare$
 
-## Exercise 215
+## Exercise 14
 
-(Lesson: Practice 18, Problem 12) A deer walks for $15$ minutes: it is $1.6$ km from the rabbit's home, the rabbit to the calf is $0.8$ km, and the calf to the pony is $2.4$ km. (1) How far did the deer walk? (2) How far apart are the rabbit's home and the calf's home?
+(Lesson: Mental Multiplication — Think It Through) $200\times3=$ ?
 
-### Solution to Exercise 215
+### Solution to Exercise 14
 
-(1) $1.6+3.2+7.8=12.6$ (km). (2) Rabbit to calf $0.8+2.4=3.2$ (km). $\blacksquare$
+By **Definition 5.5.1 (口算乘法)**, $200$ is $2$ hundreds; $2$ hundreds times $3$ is $6$ hundreds, so $200\times3=600$. $\blacksquare$
 
-## Exercise 216
+## Exercise 15
 
-(Lesson: Practice 18, Problem 13) A glass of length $2$ m and width $1$ m is cut into $8$ equal rectangles, each of length $5$ dm; what should the width be?
+(Lesson: Mental Multiplication — Example 2) Riding the bumper cars costs $12$ yuan per person; how much do $3$ people need?
 
-### Solution to Exercise 216
+### Solution to Exercise 15
 
-The glass area is $2\times1=2$ (square meters) $=200$ (square decimeters); each piece is $200\div8=25$ (square decimeters); the width is $25\div5=5$ (decimeters). $\blacksquare$
+$12=10+2$, $10\times3=30$, $2\times3=6$, $30+6=36$ yuan. $\blacksquare$
 
-## Exercise 217
+## Exercise 16
 
-(Lesson: Practice 18, Problem 14) Originally $95$ sets of desks and chairs are produced per day, completing an order in $7$ days; now it is completed in $5$ days; how many more sets per day are produced on average than before?
+(Lesson: Mental Multiplication — Think It Through) $12\times4=$ ?
 
-### Solution to Exercise 217
+### Solution to Exercise 16
 
-The order totals $95\times7=665$ (sets); now per day $665\div5=133$ (sets); the extra is $133-95=38$ (sets). $\blacksquare$
+$12=10+2$, $10\times4=40$, $2\times4=8$, $40+8=48$. $\blacksquare$
 
-## Exercise 218
+## Exercise 17
 
-(Lesson: Practice 18, Problem 15) Per $100$ g of soy milk contains carbohydrate $1.2$ g, protein $3$ g, fat $1.6$ g; milk contains $4.9$ g, $3.3$ g, $3.6$ g. (1) Complete the two-way tally table. (2) How much protein and fat are taken in from $200$ g of milk and $200$ g of soy milk?
+(Lesson: Mental Multiplication — Do It Yourself) Mental math: $10\times7$; $20\times7$; $200\times7$; $21\times4$; $23\times2$; $32\times3$.
 
-### Solution to Exercise 218
+### Solution to Exercise 17
 
-(1) Fill the two-way table with the data. (2) $200$ g milk: protein $3.3\times2=6.6$ g, fat $3.6\times2=7.2$ g; $200$ g soy milk: protein $3\times2=6$ g, fat $1.6\times2=3.2$ g. $\blacksquare$
+By **Definition 5.5.1 (口算乘法)**: $10\times7=70$; $20\times7=140$; $200\times7=1400$; $21\times4=84$; $23\times2=46$; $32\times3=96$. $\blacksquare$
 
-## Exercise 219
+## Exercise 18
 
-(Lesson: Practice 18, Problem 16) Two rectangular lawns of length $9$ m and width $6$ m overlap; in the overlap a square flower bed of side $3$ m is built. (1) What is the lawn area? (2) How long is the fence?
+(Lesson: Practice 8, Problem 1) Mental math: $13\times2$; $33\times2$; $34\times2$; $21\times2$; $12\times2$; $22\times3$; $42\times2$; $23\times3$; $30\times7$; $40\times6$; $90\times7$; $50\times5$; $600\times8$; $800\times9$; $700\times6$; $400\times4$.
 
-### Solution to Exercise 219
+### Solution to Exercise 18
 
-By **Definition 6.8.2 (the overlap problem)**, (1) $9\times6\times2-3\times3=108-9=99$ (square meters). (2) The fence length is computed around the outer perimeter of the figure. $\blacksquare$
+$13\times2=26$; $33\times2=66$; $34\times2=68$; $21\times2=42$; $12\times2=24$; $22\times3=66$; $42\times2=84$; $23\times3=69$; $30\times7=210$; $40\times6=240$; $90\times7=630$; $50\times5=250$; $600\times8=4800$; $800\times9=7200$; $700\times6=4200$; $400\times4=1600$. $\blacksquare$
 
-## Exercise 220
+## Exercise 19
 
-(Lesson: Math Corner — Overlap Problem) In Class 2, Grade 3, $6$ people won awards in model aircraft and $6$ in robotics, among whom Luo Yang and Yang Ming won both. How many people in Class 2, Grade 3 won awards in total?
+(Lesson: Practice 8, Problem 2) When multiplying a one-digit number by a round-ten, round-hundred or round-thousand number, how do you calculate it easily? Compute: $20\times4$, $200\times4$, $2000\times4$; $60\times9$, $600\times9$, $6\times9$.
 
-### Solution to Exercise 220
+### Solution to Exercise 19
 
-By **Definition 6.8.2 (the overlap problem)**, $6+6-2=10$ (people). $\blacksquare$
+By **Definition 5.5.1 (Mental Multiplication)**, first do the table multiplication and then append $0$s: $20\times4=80$, $200\times4=800$, $2000\times4=8000$; $60\times9=540$, $600\times9=5400$, $6\times9=54$. $\blacksquare$
 
-## Exercise 221
+## Exercise 20
 
-(Lesson: Challenge Yourself, Problem 1) Two rectangles of length $8$ cm and width $3$ cm overlap, and the overlap is a square of side $3$ cm; what is the area of this figure?
+(Lesson: Practice 8, Problem 3) A children's tricycle costs $90$ yuan; the kindergarten buys $4$ of them. How much is spent in total?
 
-### Solution to Exercise 221
+### Solution to Exercise 20
 
-By **Definition 6.8.2 (重叠问题)**, $8\times3\times2-3\times3=48-9=39$ (square centimeters). $\blacksquare$
+$90\times4=360$ yuan. $\blacksquare$
 
-## Exercise 222
+## Exercise 21
 
-(Lesson: Challenge Yourself, Problem 2) Two circles are filled respectively with the integers "greater than $50$ and less than $70$" and "greater than $60$ and less than $80$". (1) How many numbers appear in both circles?
+(Lesson: Practice 8, Problem 4) A fruit-and-vegetable shop receives $6$ baskets of tomatoes, each $20$ kilograms; and $5$ baskets of cucumbers, each $30$ kilograms. (1) How many kilograms of tomatoes are received in total? (2) Raise other questions and answer them.
 
-### Solution to Exercise 222
+### Solution to Exercise 21
 
-By **Definition 6.8.2 (重叠问题)**, the overlap is the integers greater than $60$ and less than $70$: $61,62,\ldots,69$, totaling $9$. $\blacksquare$
+(1) $20\times6=120$ kilograms. (2) For example, the cucumbers total $30\times5=150$ kilograms. Answers may vary. $\blacksquare$
 
-## Exercise 223
+## Exercise 22
 
-(Lesson: Challenge Yourself, Problem 3) Write four-character idioms containing "spring": Xiaoliang wrote $15$, Xiaoli $8$ (all of Xiaoli's were also written by Xiaoliang), Xiaohong $10$ (of which $5$ were also written by Xiaoliang). (1) How many did Xiaoliang and Xiaoli write in total? (2) How many did Xiaoliang and Xiaohong write in total?
+(Lesson: Practice 8, Problem 5) There are $12$ badminton shuttlecocks per tube. (1) How many shuttlecocks are in $4$ tubes? (2) One shuttlecock costs $3$ yuan; how much is one tube?
 
-### Solution to Exercise 223
+### Solution to Exercise 22
 
-By **Definition 6.8.2 (the overlap problem)**: (1) All $8$ of Xiaoli's were also written by Xiaoliang, so totaling $15$. (2) $15+10-5=20$ (idioms). $\blacksquare$
+(1) $12\times4=48$ shuttlecocks. (2) $12\times3=36$ yuan. $\blacksquare$
+
+## Exercise 23
+
+(Lesson: Practice 8, Problem 6) Fill in the table and compute the products: factors $90,31,700,44,60,13$; factors $8,2,5,2,6,3$.
+
+### Solution to Exercise 23
+
+$90\times8=720$; $31\times2=62$; $700\times5=3500$; $44\times2=88$; $60\times6=360$; $13\times3=39$. $\blacksquare$

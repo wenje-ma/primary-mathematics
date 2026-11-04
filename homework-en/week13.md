@@ -1,186 +1,201 @@
 # week13
-> **Definition 2.5.1 (竖式)**
+> **Definition 2.2.1 (十几减 $9$)**
 > 
-> 笔算加,减法用竖式计算: 相同数位要对齐, 从个位算起.
-> **Definition 2.5.2 (笔算加法)**
+> 计算十几减 $9$, 可以"想加算减", 如想 $9+6=15$, 所以 $15-9=6$; 也可以用"破十法", 先算 $10-9=1$, 再加个位上的几.
+> **Definition 2.2.2 (退位减法)**
 > 
-> 个位相加满十, 向十位进 $1$.
-> **Definition 2.5.3 (笔算减法)**
+> 个位不够减时, 从十位退 $1$ 当作 $10$, 与个位上的数合起来再减.
+> **Definition 2.2.3 (解决实际问题)**
 > 
-> 个位不够减, 从十位退 $1$.
+> 读题后先找出已知条件和问题, 选择与问题有关的条件列式, 多余的条件不参与计算, 算后再检查.
+> **Definition 2.3.1 (数数与数的组成)**
+> 
+> $10$ 个一是 $1$ 个十, $10$ 个十是一百. 几个十和几个一合起来是几十几, 如 $4$ 个十和 $6$ 个一合起来是四十六.
+> **Definition 2.3.2 (数位)**
+> 
+> 从右边起, 第一位是个位, 第二位是十位, 第三位是百位. 读数和写数都从高位起.
+> **Definition 2.3.3 (Comparing Two-digit Numbers)**
+> 
+> 比较两位数大小时, 先看十位上的数, 十位上数大的那个数就大; 十位相同再看个位.
+> **Definition 2.3.4 (多些与多得多)**
+> 
+> 两个数相差不大时说"大一些""小一些", 相差很大时说"大得多""小得多".
+> **Definition 2.3.5 (整十数加一位数及相应减法)**
+> 
+> 几个十和几个一合起来是几十几, 如 $30+2=32$, $32-2=30$, $32-30=2$.
 
-## Exercise 93
+## Exercise 1
 
-(Lesson: Written Addition, Example 1) Class 1(1) has $35$ students, and Class 1(2) has $32$; how many students in total? $35+32=\square$.
+(Lesson: Review and Organization, Practice, Problem 2) Xiaoyue and Xiaojun folded $14$ paper boats in total, of which $6$ are yellow. Xiaojun folded $8$. How many did Xiaoyue fold?
 
-### Solution to Exercise 93
+### Solution to Exercise 1
 
-By **Definition 2.5.1 (Vertical Form)**, align the same place values and add from the ones: $5+2=7$, $30+30=60$, $35+32=67$. $\blacksquare$
+By **Definition 2.2.3 (Solving Word Problems)**, "$6$ yellow" is an irrelevant condition: $14-8=6$ (boats); Xiaoyue folded $6$. $\blacksquare$
 
-## Exercise 94
+## Exercise 2
 
-(Lesson: Written Addition, Example 2) Class 1(1) has $35$ students, and Class 1(3) has $37$; how many students in total? $35+37=\square$.
+(Lesson: Counting and Number Composition, Try It) Count: adding $1$ to thirty-nine is $\_\_$; $10$ ones is $1$ $\_\_$; $\_\_$ tens is $\_\_$.
 
-### Solution to Exercise 94
+### Solution to Exercise 2
 
-By **Definition 2.5.2 (Written Addition)**, the ones $5+7=12$ reaches ten and carry $1$ to the tens: $35+37=72$. $\blacksquare$
+By **Definition 2.3.1 (Counting and Number Composition)**, adding $1$ to thirty-nine is forty; $10$ ones is $1$ ten; $10$ tens is one hundred. $\blacksquare$
 
-## Exercise 95
+## Exercise 3
 
-(Lesson: Written Addition, Try It) Calculate in vertical form: $56+34$, $46+9$.
+(Lesson: Counting and Number Composition, Do It, Problem 1) Fill in: $\_\_$ tens and $\_\_$ ones combine to make $\_\_$.
 
-### Solution to Exercise 95
+### Solution to Exercise 3
 
-By **Definition 2.5.1 (Vertical Form)** and **Definition 2.5.2 (Written Addition)**: $56+34=90$, $46+9=55$. $\blacksquare$
+By **Definition 2.3.1 (Counting and Number Composition)**, count the tens and ones in the picture, combine them and write the corresponding number. $\blacksquare$
 
-## Exercise 96
+## Exercise 4
 
-(Lesson: Written Addition, Do It) Place and calculate: $45+24$, $28+33$, $5+29$, $41+27$, $46+24$, $8+44$, $37+16$, $23+32$, $42+28$.
+(Lesson: Counting and Number Composition, Do It, Problem 2) Count how many bubbles it blew.
 
-### Solution to Exercise 96
+### Solution to Exercise 4
 
-By **Definition 2.5.2 (Written Addition)**: $45+24=69$, $28+33=61$, $5+29=34$, $41+27=68$, $46+24=70$, $8+44=52$, $37+16=53$, $23+32=55$, $42+28=70$. $\blacksquare$
+By **Definition 2.3.1 (Counting and Number Composition)**, count the bubbles one by one and write the corresponding number. $\blacksquare$
 
-## Exercise 97
+## Exercise 5
 
-(Lesson: Written Addition, Practice, Problem 1) Calculate in vertical form: $48+24$, $7+64$, $36+63$, $29+43$; $55+7$, $46+47$, $74+16$, $54+19$.
+(Lesson: Counting and Number Composition, Do It, Problem 3) First circle out $10$ beads, then estimate about how many there are on the right in total; count to see whether the estimate is accurate.
 
-### Solution to Exercise 97
+### Solution to Exercise 5
 
-By **Definition 2.5.2 (Written Addition)**: $48+24=72$, $7+64=71$, $36+63=99$, $29+43=72$; $55+7=62$, $46+47=93$, $74+16=90$, $54+19=73$. $\blacksquare$
+First circle out $10$ beads as a standard, then estimate the total, finally count the actual number one by one, and compare the estimate with the actual. $\blacksquare$
 
-## Exercise 98
+## Exercise 6
 
-(Lesson: Written Addition, Practice, Problem 2) Grandma Wang raised $18$ roosters and $25$ hens; how many roosters and hens in total?
+(Lesson: Reading and Writing Numbers, Do It, Problem 1) How many buttons of each color are there? There are twenty-seven, thirty-three, and forty. Do the two "$3$"s in $33$ mean the same thing?
 
-### Solution to Exercise 98
+### Solution to Exercise 6
 
-By **Definition 2.5.1 (Vertical Form)**: $18+25=43$ (birds). $\blacksquare$
+By **Definition 2.3.2 (Place Value)**, in $33$ the $3$ in the tens place represents $3$ tens, and the $3$ in the ones place represents $3$ ones; the two "$3$"s do not mean the same thing. $\blacksquare$
 
-## Exercise 99
+## Exercise 7
 
-(Lesson: Written Addition, Practice, Problem 3) Are the following calculations correct? Correct the incorrect ones: $49+44=83$, $21+39=6$, $26+4=66$.
+(Lesson: Reading and Writing Numbers, Do It, Problem 2) Write the following numbers: sixty-three, thirty-eight, fifty-five, ninety.
 
-### Solution to Exercise 99
+### Solution to Exercise 7
 
-By **Definition 2.5.2 (Written Addition)**, correct: $49+44=93$, $21+39=60$, $26+4=30$. $\blacksquare$
+By **Definition 2.3.2 (Place Value)** and **Definition 2.3.1 (Counting and Number Composition)**: write $63$, $38$, $55$, $90$. $\blacksquare$
 
-## Exercise 100
+## Exercise 8
 
-(Lesson: Written Addition, Practice, Problem 4) Fill "$> $""$< $" or "$=$" in $\bigcirc$: $4+38\bigcirc40+38$, $38+17\bigcirc57-5$, $25+47\bigcirc35+35$.
+(Lesson: Reading and Writing Numbers, Do It, Problem 3) I say you place: what number is formed by $5$ tens and $8$ ones?
 
-### Solution to Exercise 100
+### Solution to Exercise 8
 
-Calculate both sides first: $4+38=42$, $40+38=78$; $38+17=55$, $57-5=52$; $25+47=72$, $35+35=70$. Thus $4+38< 40+38$, $38+17> 57-5$, $25+47> 35+35$. $\blacksquare$
+By **Definition 2.3.1 (Counting and Number Composition)**, the number formed by $5$ tens and $8$ ones is $58$. $\blacksquare$
 
-## Exercise 101
+## Exercise 9
 
-(Lesson: Written Subtraction, Example 1) The bus can carry at most $52$ passengers; after Class 1(1)'s $35$ people board, how many more can still board? $52-35=\square$.
+(Lesson: Number Order and Comparing Size, Count and Recognize) Adding $1$ to $99$ gives what? $10$ tens is what?
 
-### Solution to Exercise 101
+### Solution to Exercise 9
 
-By **Definition 2.5.3 (Written Subtraction)**, the ones $2$ minus $5$ is not enough; borrow $1$ from the tens: $52-35=17$. $\blacksquare$
+By **Definition 2.3.1 (Counting and Number Composition)**, adding $1$ to $99$ gives one hundred, and $10$ tens is one hundred. $\blacksquare$
 
-## Exercise 102
+## Exercise 10
 
-(Lesson: Written Subtraction, Example 2) Calculate in vertical form: $60-32=\square$.
+(Lesson: Number Order and Comparing Size, Do It, Problem 1) Represent $1$ one, $1$ ten, and $1$ hundred on the counter, read them, then write them out.
 
-### Solution to Exercise 102
+### Solution to Exercise 10
 
-By **Definition 2.5.3 (Written Subtraction)**, the ones $0$ minus $2$ is not enough; borrow $1$ from the tens: $60-32=28$. $\blacksquare$
+By **Definition 2.3.2 (Place Value)**, $1$ one writes $1$ in the ones place, $1$ ten writes $1$ in the tens place, $1$ hundred writes $1$ in the hundreds place, i.e. $1$, $10$, $100$. $\blacksquare$
 
-## Exercise 103
+## Exercise 11
 
-(Lesson: Written Subtraction, Try It) Calculate in vertical form: $53-8$, $47-41$.
+(Lesson: Number Order and Comparing Size, Practice, Problem 1) Write the following numbers: seventy-six, thirty, one hundred, eighty-eight.
 
-### Solution to Exercise 103
+### Solution to Exercise 11
 
-By **Definition 2.5.1 (Vertical Form)** and **Definition 2.5.3 (Written Subtraction)**: $53-8=45$, $47-41=6$. $\blacksquare$
+By **Definition 2.3.2 (Place Value)**: write $76$, $30$, $100$, $88$. $\blacksquare$
 
-## Exercise 104
+## Exercise 12
 
-(Lesson: Written Subtraction, Do It) Circle and calculate: $51-36$, $56-34$, $70-18$, $87-49$, $74-9$.
+(Lesson: Number Order and Comparing Size, Practice, Problem 2) Write as required: classify the numbers with ones digit $5$ and those with ones digit $0$ respectively ($45,50,70,60,65,55,75,95,85,90,80,100$).
 
-### Solution to Exercise 104
+### Solution to Exercise 12
 
-By **Definition 2.5.3 (Written Subtraction)**: $51-36=15$, $56-34=22$, $70-18=52$, $87-49=38$, $74-9=65$. $\blacksquare$
+By **Definition 2.3.2 (Place Value)**, those with ones digit $5$ are $45,65,55,75,95,85$; those with ones digit $0$ are $50,70,60,90,80,100$. $\blacksquare$
 
-## Exercise 105
+## Exercise 13
 
-(Lesson: Written Subtraction, Practice, Problem 1) Calculate in vertical form: $39-23$, $99-14$, $74-34$, $57-26$; $43-29$, $72-27$, $61-3$, $54-16$.
+(Lesson: Number Order and Comparing Size, Hundreds Table) Fill in the numbers in the blanks of the hundreds table in numerical order, and talk about interesting arrangements you find.
 
-### Solution to Exercise 105
+### Solution to Exercise 13
 
-By **Definition 2.5.3 (Written Subtraction)**: $39-23=16$, $99-14=85$, $74-34=40$, $57-26=31$; $43-29=14$, $72-27=45$, $61-3=58$, $54-16=38$. $\blacksquare$
+By **Definition 2.3.3 (Comparing Two-Digit Numbers)**, each row from left to right increases by $1$, and each column from top to bottom increases by $10$; numbers with the same tens digit or same ones digit form a row or column. The figure is a $10\times10$ hundreds table with some cells already filled (the first row is $1,2,\ldots,10$, the second row $11,12,\ldots,20$, and so on); fill the blanks in numerical order. $\blacksquare$
 
-## Exercise 106
+## Exercise 14
 
-(Lesson: Written Subtraction, Practice, Problem 2) First calculate the sum of the two numbers on each card, then calculate their difference ($45$ and $27$, $53$ and $25$, $62$ and $37$, $41$ and $19$, $70$ and $44$).
+(Lesson: Number Order and Comparing Size, Compare) Fill "$> $""$< $" or "$=$" in $\bigcirc$: $41\bigcirc45$, $63\bigcirc53$, $89\bigcirc98$, $47\bigcirc32$, $63\bigcirc68$, $37\bigcirc73$, $81\bigcirc18$, $29\bigcirc30$.
 
-### Solution to Exercise 106
+### Solution to Exercise 14
 
-Sum: $45+27=72$, $53+25=78$, $62+37=99$, $41+19=60$, $70+44=114$; difference: $45-27=18$, $53-25=28$, $62-37=25$, $41-19=22$, $70-44=26$. $\blacksquare$
+By **Definition 2.3.3 (Comparing Two-Digit Numbers)**: $41< 45$, $63> 53$, $89< 98$, $47> 32$, $63< 68$, $37< 73$, $81> 18$, $29< 30$. $\blacksquare$
 
-## Exercise 107
+## Exercise 15
 
-(Lesson: Written Subtraction, Practice, Problem 3) Are the following calculations correct? Correct the incorrect ones: $40-28=22$, $83-36=59$, $43-8=45$.
+(Lesson: Number Order and Comparing Size, Do It, Problem 1) Fill in and compare: $87$, $31$, $25$, $99$; use "much larger" and "a little larger" to describe.
 
-### Solution to Exercise 107
+### Solution to Exercise 15
 
-By **Definition 2.5.3 (Written Subtraction)**, correct: $40-28=12$, $43-8=35$; $83-36=59$ is correct. $\blacksquare$
+By **Definition 2.3.4 (A Little More and Much More More)**, from smallest to largest $25< 31< 87< 99$; $87$ is much larger than $25$, $31$ is a little larger than $25$, and $99$ is a little larger than $87$. $\blacksquare$
 
-## Exercise 108
+## Exercise 16
 
-(Lesson: Written Subtraction, Practice, Problem 4) Calculate step by step: $87-27-39$, $72-26-35$, $40+23-12$.
+(Lesson: Number Order and Comparing Size, Do It, Problem 2) I ate $35$ pests, Doudou ate much more than me, and Tiaotiao ate a little fewer than me. How many might Doudou and Tiaotiao each have eaten? ($80$, $40$, $28$)
 
-### Solution to Exercise 108
+### Solution to Exercise 16
 
-Calculate from left to right: $87-27-39=21$, $72-26-35=11$, $40+23-12=51$. $\blacksquare$
+By **Definition 2.3.4 (A Little More and Much More More)**, much more than $35$ choose $80$, a little fewer than $35$ choose $28$; thus Doudou ate $80$ and Tiaotiao ate $28$. $\blacksquare$
 
-## Exercise 109
+## Exercise 17
 
-(Lesson: Written Addition and Subtraction Within 100, Practice, Problem 1) Calculate and see what you notice: $49+7$, $56-7$, $56-49$; $16+78$, $94-16$, $94-78$; $35+48$, $83-35$, $83-48$.
+(Lesson: Number Order and Comparing Size, Practice, Problem 1) Write and dial: twenty-two, thirty-six, fifty-one, seventy-two, forty, twenty-seven, eighty-nine, ninety-five, one hundred.
 
-### Solution to Exercise 109
+### Solution to Exercise 17
 
-$49+7=56$, $56-7=49$, $56-49=7$; $16+78=94$, $94-16=78$, $94-78=16$; $35+48=83$, $83-35=48$, $83-48=35$. Notice that addition and subtraction are inverse operations. $\blacksquare$
+By **Definition 2.3.2 (Place Value)** and **Definition 2.3.1 (Counting and Number Composition)**, write $22$, $36$, $51$, $72$, $40$, $27$, $89$, $95$, $100$, and dial them on the counter. $\blacksquare$
 
-## Exercise 110
+## Exercise 18
 
-(Lesson: Written Addition and Subtraction Within 100, Practice, Problem 2) Calculate in vertical form: $72-38$, $63+18$, $35+58$, $56-17$; $69+27$, $88-64$, $43-25$, $36+54$.
+(Lesson: Number Order and Comparing Size, Practice, Problem 2) Fill in the appropriate number in $\square$: $70$, $71$, $72$, $\_\_$, $\_\_$, $76$, $\_\_$, $79$. Is $77$ closer to $70$ or closer to $80$? What about $72$?
 
-### Solution to Exercise 110
+### Solution to Exercise 18
 
-By **Definition 2.5.2 (Written Addition)** and **Definition 2.5.3 (Written Subtraction)**: $72-38=34$, $63+18=81$, $35+58=93$, $56-17=39$; $69+27=96$, $88-64=24$, $43-25=18$, $36+54=90$. $\blacksquare$
+Fill in order $73,74,75,77,78$. $77$ is nearer to $80$, i.e. closer to $80$; $72$ is nearer to $70$, i.e. closer to $70$. $\blacksquare$
 
-## Exercise 111
+## Exercise 19
 
-(Lesson: Written Addition and Subtraction Within 100, Practice, Problem 3) Fill "$> $""$< $" or "$=$" in $\bigcirc$: $53+13\bigcirc66$, $46-7\bigcirc41$, $42-18\bigcirc34$, $72+9\bigcirc73$.
+(Lesson: Number Order and Comparing Size, Practice, Problem 3) Connect: divide $29,96,85,80,56,61,51,38,48,26,74$ into "numbers greater than $60$" and "numbers less than $60$."
 
-### Solution to Exercise 111
+### Solution to Exercise 19
 
-$53+13=66$, $46-7=39$, $42-18=24$, $72+9=81$. Thus $53+13=66$, $46-7< 41$, $42-18< 34$, $72+9> 73$. $\blacksquare$
+By **Definition 2.3.3 (Comparing Two-Digit Numbers)**, those greater than $60$ are $96,85,80,61,74$; those less than $60$ are $29,56,51,38,48,26$. $\blacksquare$
 
-## Exercise 112
+## Exercise 20
 
-(Lesson: Written Addition and Subtraction Within 100, Solve the Problem, Problem 1) There were originally $24$ pigeons in the coop, and $8$ flew out; how many pigeons remain in the coop?
+(Lesson: Simple Addition and Subtraction, Do It) Calculate: $10+20$, $20+10$, $30-20$, $30-10$; $30+2$, $2+30$, $32-2$, $32-30$.
 
-### Solution to Exercise 112
+### Solution to Exercise 20
 
-$24-8=16$ (birds). $\blacksquare$
+By **Definition 2.3.5 (Round-Tens Plus a One-Digit Number and Corresponding Subtraction)** and **Definition 2.3.1 (Counting and Number Composition)**: $10+20=30$, $20+10=30$, $30-20=10$, $30-10=20$; $30+2=32$, $2+30=32$, $32-2=30$, $32-30=2$. $\blacksquare$
 
-## Exercise 113
+## Exercise 21
 
-(Lesson: Written Addition and Subtraction Within 100, Solve the Problem, Problem 2) Uncle Li picked $43$ boxes of strawberries, and after selling some, $28$ boxes remain; how many boxes were sold?
+(Lesson: Simple Addition and Subtraction, Do It Continued) Calculate: $70+2$, $40+4$, $5+60$; $72-2$, $44-4$, $65-5$; $72-70$, $44-40$, $65-60$.
 
-### Solution to Exercise 113
+### Solution to Exercise 21
 
-$43-28=15$ (boxes). $\blacksquare$
+By **Definition 2.3.5 (Round-Tens Plus a One-Digit Number and Corresponding Subtraction)**: $70+2=72$, $40+4=44$, $5+60=65$; $72-2=70$, $44-4=40$, $65-5=60$; $72-70=2$, $44-40=4$, $65-60=5$. $\blacksquare$
 
-## Exercise 114
+## Exercise 22
 
-(Lesson: Written Addition and Subtraction Within 100, Solve the Problem, Problem 3) Xiaolan collects stamps: landscapes $31$, portraits $22$, animals $25$, buildings $16$. (1) How many landscape and portrait stamps in total? (2) How many animal and building stamps in total?
+(Lesson: Place It and Think) Using $2$ discs on the tens and ones places, how many different numbers can be placed? What about $3$? What do you notice?
 
-### Solution to Exercise 114
+### Solution to Exercise 22
 
-By **Definition 2.5.1 (Vertical Form)**: (1) $31+22=53$ (stamps); (2) $25+16=41$ (stamps). $\blacksquare$
+By **Definition 2.3.1 (Counting and Number Composition)** and **Definition 2.3.2 (Place Value)**, $2$ discs can form $2$, $11$, $20$, totaling $3$ numbers; $3$ discs can form $3$, $12$, $21$, $30$, totaling $4$ numbers. Each additional $1$ disc gives $1$ more number. $\blacksquare$

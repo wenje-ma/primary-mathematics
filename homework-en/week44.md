@@ -1,251 +1,117 @@
 # week44
-> **Definition 6.3.3 (周长)**
+> **Definition 5.2.1 (综合算式与同级运算顺序)**
 > 
-> 封闭图形一周的长度, 是它的周长.
-> **Definition 6.3.4 (长方形和正方形的周长)**
+> 把两个分步算式合并成一个算式, 这样的算式是综合算式. 在没有括号的算式里, 只有加, 减法或只有乘, 除法, 从左往右按顺序计算.
+> **Definition 5.2.2 (先乘除后加减)**
 > 
-> 参见教材相应章节关于此概念的论述.
-> **Definition 6.4.1 (面积)**
+> 在没有括号的算式里, 既有乘, 除法又有加, 减法, 要先算乘, 除法, 再算加, 减法.
+> **Definition 5.2.3 (小括号)**
 > 
-> 物体表面或封闭图形的大小, 是它们的面积. 比较面积大小要用统一的面积单位去测量, 看含有多少个这样的单位.
-> **Definition 6.4.2 (面积单位)**
+> 算式里有括号, 要先算括号里面的. 括号可以改变运算顺序.
+> **Definition 5.2.4 (解决多步实际问题)**
 > 
-> 常用面积单位有平方厘米 ($cm^2$), 平方分米 ($dm^2$), 平方米 ($m^2$). 边长 $1$ 厘米的正方形面积是 $1$ 平方厘米, 边长 $1$ 分米的正方形面积是 $1$ 平方分米, 边长 $1$ 米的正方形面积是 $1$ 平方米.
-> **Definition 6.4.3 (长方形和正方形的面积)**
-> 
-> 长方形面积 $=$ 长$\times$宽; 正方形面积 $=$ 边长$\times$边长. 求面积看它包含多少个面积单位.
-> **Definition 6.4.4 (面积单位间的进率)**
-> 
-> 相邻两个常用面积单位间的进率是 $100$: $1$ 平方分米 $=100$ 平方厘米, $1$ 平方米 $=100$ 平方分米.
+> 解决需要多步计算的实际问题时, 通常把问题分解为几个关联的小问题, 一步解决一个小问题; 可以画线段图分析数量关系, 列综合算式解答.
 
-## Exercise 133
+## Exercise 1
 
-(Lesson: Area and Area Units — Do It, Problem 1) Feel the cover of an exercise book and the surface of a pencil-box lid, and say which surface has the smaller area.
+(Lesson: Practice 2, Problem 1) Compute: $32+47-28$; $95-48-15$; $87-13+56$; $2\times2\times5$; $42\div7\div2$; $64\div8\times7$.
 
-### Solution to Exercise 133
+### Solution to Exercise 1
 
-By **Definition 6.4.1 (Area)**, the size of an object's surface is its area; the pencil-box lid is smaller than the exercise-book cover, so the pencil-box lid has the smaller area. $\blacksquare$
+By **Definition 5.2.1 (Combined Expressions and Same-Level Order)**: $32+47-28=51$; $95-48-15=32$; $87-13+56=130$; $2\times2\times5=20$; $42\div7\div2=3$; $64\div8\times7=56$. $\blacksquare$
 
-## Exercise 134
+## Exercise 2
 
-(Lesson: Area Units — Do It, Problem 1) Find objects around you whose one face is about $1$ square centimeter, $1$ square decimeter and $1$ square meter respectively.
+(Lesson: Practice 2, Problem 2) Compute: $114-4\times6$; $405+4\times7$; $63\div9+8\times4$; $72-81\div9$; $36\div6\times5$; $5\times9+6\times8$.
 
-### Solution to Exercise 134
+### Solution to Exercise 2
 
-By **Definition 6.4.2 (Area Units)**, a fingernail is about $1$ square centimeter, a palm (or one face of a chalk box) about $1$ square decimeter, and a square tabletop (or a floor tile) about $1$ square meter. $\blacksquare$
+By **Definition 5.2.2 (Multiply/Divide Before Add/Subtract)**: $114-4\times6=114-24=90$; $405+4\times7=405+28=433$; $63\div9+8\times4=7+32=39$; $72-81\div9=72-9=63$; $36\div6\times5=6\times5=30$; $5\times9+6\times8=45+48=93$. $\blacksquare$
 
-## Exercise 135
+## Exercise 3
 
-(Lesson: Area Units — Do It, Problem 2) First estimate about how many square centimeters the rectangle's area is, then measure it with $1$-square-centimeter squares.
+(Lesson: Practice 2, Problem 3) There are $42$ storybooks, and science books are $6$ fewer than storybooks. How many storybooks and science books in all?
 
-### Solution to Exercise 135
+### Solution to Exercise 3
 
-By **Definition 6.4.2 (面积单位)**, lay down $1$-square-centimeter squares and count how many fit; that number of square centimeters is the area. $\blacksquare$
+Science books $42-6=36$, in all $42+36=78$. Combined: $42+\left(42-6\right)=78$ books. $\blacksquare$
 
-## Exercise 136
+## Exercise 4
 
-(Lesson: Area Units — Do It, Problem 3) Try: how many students can stand inside a $1$-square-meter square?
+(Lesson: Practice 2, Problem 4) Compute along the flow: $15\xrightarrow{-7}\square\xrightarrow{+14}\square$; $12\xrightarrow{\div3}\square\xrightarrow{\times5}\square$; $68\xrightarrow{\div4}\square\xrightarrow{+15}\square$; $30\xrightarrow{\times5}\square\xrightarrow{-?}\square$.
 
-### Solution to Exercise 136
+### Solution to Exercise 4
 
-By **Definition 6.4.2 (面积单位)**, actually have students stand on a $1$-m-square floor and count how many fit, to appreciate the size of $1$ square meter. $\blacksquare$
+Compute along the arrows: $15-7=8$, $8+14=22$; $12\div3=4$, $4\times5=20$; $68\div4=17$, $17+15=32$; $30\times5=150$. $\blacksquare$
 
-## Exercise 137
+## Exercise 5
 
-(Lesson: Practice 11, Problem 1) First trace the outline around each figure with a red pen, then shade them to show their area.
+(Lesson: Practice 2, Problem 5) Are the calculations below right? Correct the wrong ones: $36-13+7=36-20=16$; $7+14\div7=21\div7=3$; $18\div3\times3=18\div9=2$.
 
-### Solution to Exercise 137
+### Solution to Exercise 5
 
-By **Definition 6.4.1 (面积)** and **Definition 6.3.3 (Perimeter)**, tracing the outline gives the perimeter, while shading the whole face gives the area; note the difference between the two. $\blacksquare$
+All wrong. By **Definition 5.2.1 (综合算式与同级运算顺序)** and **Definition 5.2.2 (先乘除后加减)**: $36-13+7=23+7=30$; $7+14\div7=7+2=9$; $18\div3\times3=6\times3=18$. $\blacksquare$
 
-## Exercise 138
+## Exercise 6
 
-(Lesson: Practice 11, Problem 2) Of the three figures below, which has the largest area and which the smallest? (each small cell represents $1$ square centimeter)
+(Lesson: Practice 2, Problem 6) Write an expression from the picture: a big ball costs $25$ yuan and a small ball $8$ yuan; how much in all for $1$ big ball and $4$ small balls?
 
-### Solution to Exercise 138
+### Solution to Exercise 6
 
-By **Definition 6.4.1 (面积)**, count the small cells each figure occupies; the one with the most cells has the largest area, and the one with the fewest has the smallest. $\blacksquare$
+$25+8\times4=25+32=57$ yuan. By **Definition 5.2.2 (Multiply/Divide Before Add/Subtract)**, first compute the $4$ small balls, then add the big ball. $\blacksquare$
 
-## Exercise 139
+## Exercise 7
 
-(Lesson: Practice 11, Problem 3) To measure the areas of an ID card, a desk top, a classroom and a playground, which area unit is appropriate in each case?
+(Lesson: Practice 2, Problem 7) Fill in "$> $" "$< $" or "$=$": $15+25\div5$ $\bigcirc$ $19$; $12+54\div6$ $\bigcirc$ $21-5+7$; $9\times7-53$ $\bigcirc$ $10$; $24\div8\times3$ $\bigcirc$ $32-24\div4$.
 
-### Solution to Exercise 139
+### Solution to Exercise 7
 
-By **Definition 6.4.2 (面积单位)**, use square centimeters for the ID card, square decimeters for the desk top, and square meters for the classroom and playground. $\blacksquare$
+Compute both sides: $15+25\div5=15+5=20> 19$; $12+54\div6=12+9=21$, $21-5+7=23$, so $21< 23$; $9\times7-53=63-53=10=10$; $24\div8\times3=9$, $32-24\div4=32-6=26$, so $9< 26$. $\blacksquare$
 
-## Exercise 140
+## Exercise 8
 
-(Lesson: Practice 11, Problem 4) Fill in the units: the blackboard is $4$ $\_\_$ long; a stamp's area is $4$ $\_\_$; Xiaoming is $128$ $\_\_$ tall; a handkerchief's area is $4$ $\_\_$; Xiaohua's waist is $6$ $\_\_$; the blackboard's area is $4$ $\_\_$.
+(Lesson: Practice 2, Problem 8) First fill the blanks, then write the combined expression: first flow $43,36\xrightarrow{-5}\square\xrightarrow{\times6}\square$; second flow $65,21\xrightarrow{\div?}\square$.
 
-### Solution to Exercise 140
+### Solution to Exercise 8
 
-Blackboard length $4$ meters, stamp area $4$ square centimeters, height $128$ cm, handkerchief area $4$ square decimeters, waist $6$ dm, blackboard area $4$ square meters. $\blacksquare$
+First: $43-36=7$, then $7-5=2$; per the flow in the picture, first $43$ minus $36$ gives $7$, then $\times6$ gives $42$; the second, per the flow's order, fill the number and write the combined expression. Combined, e.g. $\left(43-36\right)\times6=42$. $\blacksquare$
 
-## Exercise 141
+## Exercise 9
 
-(Lesson: Practice 11, Problem 5) Use $4$ squares of $1$ square centimeter to form the figures below; what is each area? And each perimeter?
+(Lesson: Practice 2, Problem 9) First think about the order, then compute: $238-\left(112+23\right)$; $4\times\left(49\div7\right)$; $18\div6\times4$; $\left(25+17\right)\div6$; $160+5\times9$; $\left(387-323\right)\div8$.
 
-### Solution to Exercise 141
+### Solution to Exercise 9
 
-By **Definition 6.4.1 (面积)**, however they are arranged, they are made of $4$ squares of $1$ square centimeter, so the area is always $4$ square centimeters; the perimeter differs with the arrangement, computed by adding up each figure's outer sides. $\blacksquare$
+$238-\left(112+23\right)=238-135=103$; $4\times\left(49\div7\right)=4\times7=28$; $18\div6\times4=3\times4=12$; $\left(25+17\right)\div6=42\div6=7$; $160+5\times9=160+45=205$; $\left(387-323\right)\div8=64\div8=8$. $\blacksquare$
 
-## Exercise 142
+## Exercise 10
 
-(Lesson: Areas of Rectangles and Squares — Do It, Problem 1) A rectangular paper is $10$ cm long and $7$ cm wide. (1) What is its area? (2) Cut out the largest square; what is its area?
+(Lesson: Practice 2, Problem 10) First compute, then compare the order and result of each pair; what do you notice: $56-33-17$ with $56-\left(33+17\right)$; $6\div3\div2$ with $6\div\left(3\times2\right)$; $100-56-24$ with $100-\left(56+24\right)$; $8\div2\div2$ with $8\div\left(2\times2\right)$.
 
-### Solution to Exercise 142
+### Solution to Exercise 10
 
-By **Definition 6.4.3 (长方形和正方形的面积)**, (1) $10\times7=70$ (square centimeters). (2) The largest square's side equals the width, $7$ cm, area $7\times7=49$ (square centimeters). $\blacksquare$
+$56-33-17=6$, $56-\left(33+17\right)=6$; $6\div3\div2=1$, $6\div\left(3\times2\right)=1$; $100-56-24=20$, $100-\left(56+24\right)=20$; $8\div2\div2=2$, $8\div\left(2\times2\right)=2$. Notice: subtracting two numbers in turn equals subtracting their sum; dividing by two numbers in turn equals dividing by their product. $\blacksquare$
 
-## Exercise 143
+## Exercise 11
 
-(Lesson: Areas of Rectangles and Squares — Do It, Problem 2) Using the area of a math-book cover (about $3$ dm long and $2$ dm wide), estimate the desk-top area, and then estimate the classroom area.
+(Lesson: Practice 2, Problem 11) From the table, write combined expressions and compute: minuend $7\times9,492,42+14,250$; subtrahend $35,28,15-3,36\div6$. dividend $6+6,36,304-272,14$; divisor $16\div4,3,83-76,2$.
 
-### Solution to Exercise 143
+### Solution to Exercise 11
 
-The book cover is $3\times2=6$ (square decimeters); see about how many covers fit on the desk top and multiply by $6$; estimate the classroom floor by length times width; the answer follows your actual estimate. $\blacksquare$
+$7\times9-35=63-35=28$; $492-28=464$; $\left(42+14\right)-\left(15-3\right)=56-12=44$; $250-36\div6=250-6=244$. $\left(6+6\right)\div\left(16\div4\right)=12\div4=3$; $36\div3=12$; $\left(304-272\right)\div\left(83-76\right)=32\div7$; $14\div2=7$. $\blacksquare$
 
-## Exercise 144
+## Exercise 12
 
-(Lesson: Area-Unit Rates — Do It, Problem 1) Fill in: $6$ square decimeters $=\_\_$ square centimeters; $5$ square meters $=\_\_$ square decimeters; $300$ square centimeters $=\_\_$ square decimeters.
+(Lesson: Practice 2, Problem 12) Compute and compare; what do you notice: $4\times5+4\times3$ with $4\times\left(5+3\right)$; $2\times6+5\times6$ with $\left(2+5\right)\times6$; $9\times9-9\times7$ with $9\times\left(9-7\right)$.
 
-### Solution to Exercise 144
+### Solution to Exercise 12
 
-By **Definition 6.4.4 (Rates Between Area Units)**: $6$ square decimeters $=600$ square centimeters, $5$ square meters $=500$ square decimeters, $300$ square centimeters $=3$ square decimeters. $\blacksquare$
+$4\times5+4\times3=20+12=32$, $4\times\left(5+3\right)=4\times8=32$; $2\times6+5\times6=12+30=42$, $\left(2+5\right)\times6=42$; $9\times9-9\times7=81-63=18$, $9\times\left(9-7\right)=9\times2=18$. Notice: when two multiply expressions are added (subtracted) and share a factor, add (subtract) the other two factors first, then multiply by the shared factor; the result is unchanged. $\blacksquare$
 
-## Exercise 145
+## Exercise 13
 
-(Lesson: Area-Unit Rates — Do It, Problem 2) A traffic sign is roughly square, side $8$ dm; about how many square decimeters is its area? How many square centimeters?
+(Lesson: Practice 2, Problem 13) From the line-segment diagram, find the sum of A and B. (1) A is $8$, and B is as long as A; (2) A is $8$, and B is $16$ longer than A.
 
-### Solution to Exercise 145
+### Solution to Exercise 13
 
-By **Definition 6.4.3 (长方形和正方形的面积)** and **Definition 6.4.4 (面积单位间的进率)**, area $8\times8=64$ (square decimeters), $64$ square decimeters $=6400$ square centimeters. $\blacksquare$
-
-## Exercise 146
-
-(Lesson: Practice 12, Problem 1) Compute the perimeter and area of the figures below (unit: cm).
-
-### Solution to Exercise 146
-
-By **Definition 6.3.4 (Perimeter of Rectangles)** and **Definition 6.4.3 (长方形和正方形的面积)**, for a rectangle the perimeter is $=$(length$+$width)$\times2$ and the area is $=$ length$\times$width; for a square the perimeter is $=$ side$\times4$ and the area is $=$ side$\times$side; compute each. $\blacksquare$
-
-## Exercise 147
-
-(Lesson: Practice 12, Problem 2) Fill in: $3$ square decimeters $=\_\_$ square centimeters; $2$ square meters $=\_\_$ square decimeters; $500$ square centimeters $=\_\_$ square decimeters; $100$ dm $=\_\_$ m.
-
-### Solution to Exercise 147
-
-By **Definition 6.4.4 (面积单位间的进率)**: $3$ square decimeters $=300$ square centimeters, $2$ square meters $=200$ square decimeters, $500$ square centimeters $=5$ square decimeters; $100$ dm $=10$ m. $\blacksquare$
-
-## Exercise 148
-
-(Lesson: Practice 12, Problem 3) The front wall of the classroom is $6$ m long and $3$ m wide; the blackboard on it has area $3$ square meters. What area is to be painted?
-
-### Solution to Exercise 148
-
-Wall area $6\times3=18$ (square meters), minus the blackboard's $3$ square meters, leaves $18-3=15$ (square meters) to paint. $\blacksquare$
-
-## Exercise 149
-
-(Lesson: Practice 12, Problem 4) A square pond has perimeter $36$ m; what is its area in square meters?
-
-### Solution to Exercise 149
-
-Side $36\div4=9$ (m), area $9\times9=81$ (square meters). $\blacksquare$
-
-## Exercise 150
-
-(Lesson: Practice 12, Problem 5) Look around for rectangular and square surfaces; first estimate the area, then measure and compute.
-
-### Solution to Exercise 150
-
-By **Definition 6.4.3 (长方形和正方形的面积)**, first estimate by eye, then measure the length and width (or side), use length$\times$width (side$\times$side) to compute the actual area, and fill in the table. $\blacksquare$
-
-## Exercise 151
-
-(Lesson: Practice 12, Problem 6) A rectangular flower bed is $5$ m long and $2$ m wide. (1) Find the flower bed's area. (2) Enclose it on all four sides with a fence; how long is the fence?
-
-### Solution to Exercise 151
-
-(1) Area $5\times2=10$ (square meters). (2) The fence length is the perimeter $\left(5+2\right)\times2=14$ (meters). $\blacksquare$
-
-## Exercise 152
-
-(Lesson: Practice 12, Problem 7) From a square sheet of side $5$ cm, cut out a rectangle $3$ cm long and $2$ cm wide, in three ways; what is the remaining area in each? And the perimeter?
-
-### Solution to Exercise 152
-
-Original area $5\times5=25$ (square centimeters), cut out $3\times2=6$ (square centimeters); for all three ways the remaining area is $25-6=19$ (square centimeters). The perimeter differs by the way: cutting from an edge keeps it unchanged or adds two sides, and cutting from a corner keeps it unchanged; add up the outer sides in each case. $\blacksquare$
-
-## Exercise 153
-
-(Lesson: Practice 12, Problem 8) A plan of a park lawn (a large rectangle $10\times8$ m with a $5\times4$ m gap); what is the lawn's area? Can you compute it a different way?
-
-### Solution to Exercise 153
-
-By **Definition 6.4.3 (长方形和正方形的面积)**, the large rectangle is $10\times8=80$ (square meters), minus the gap $5\times4=20$ (square meters), giving a lawn of $80-20=60$ (square meters); alternatively split the lawn into two rectangles, compute each and add. $\blacksquare$
-
-## Exercise 154
-
-(Lesson: Practice 13, Problem 1) Fill in the units: a big tree is $16$ $\_\_$ tall; a crayon is $1$ $\_\_$ long; a dictionary is $5$ $\_\_$ thick; the school occupies $9000$ $\_\_$.
-
-### Solution to Exercise 154
-
-Tree height $16$ m, crayon length $1$ dm, dictionary thickness $5$ cm, school area $9000$ square meters. $\blacksquare$
-
-## Exercise 155
-
-(Lesson: Practice 13, Problem 2) Fill in "$> $", "$< $" or "$=$": $100$ square meters$\bigcirc10$ square meters; $10$ square decimeters$\bigcirc999$ square centimeters; $400$ square centimeters$\bigcirc4$ square decimeters; $1000$ square centimeters$\bigcirc1$ square meter.
-
-### Solution to Exercise 155
-
-By **Definition 6.4.4 (面积单位间的进率)**: $100$ square meters $> 10$ square meters; $10$ square decimeters $=1000$ square centimeters $> 999$ square centimeters; $400$ square centimeters $=4$ square decimeters; $1000$ square centimeters $< 1$ square meter ($1$ square meter $=10000$ square centimeters). $\blacksquare$
-
-## Exercise 156
-
-(Lesson: Practice 13, Problem 3) A robot vacuum cleans $3$ square meters per minute; the room is $6$ m long and $4$ m wide. How many minutes to clean this room?
-
-### Solution to Exercise 156
-
-Room area $6\times4=24$ (square meters), $24\div3=8$ (minutes). $\blacksquare$
-
-## Exercise 157
-
-(Lesson: Practice 13, Problem 4) An empty lot $15$ m long and $6$ m wide is to be fully paved with square tiles of side $3$ dm; how many tiles are needed?
-
-### Solution to Exercise 157
-
-Lot area $15\times6=90$ (square meters) $=9000$ square decimeters; each tile is $3\times3=9$ (square decimeters); $9000\div9=1000$ (tiles). $\blacksquare$
-
-## Exercise 158
-
-(Lesson: Practice 13, Problem 5) A sprinkler truck travels $200$ m per minute, watering a width of $8$ m; what area does it water in $5$ minutes?
-
-### Solution to Exercise 158
-
-Per minute it waters $200\times8=1600$ (square meters); in $5$ minutes, $1600\times5=8000$ (square meters). $\blacksquare$
-
-## Exercise 159
-
-(Lesson: Practice 13, Problem 6) True or false: (1) $6$ square meters $=60$ square decimeters. (2) Using $8$ identical squares to form a rectangle has only one way. (3) Any figure formed by $8$ squares of $1$ square decimeter has area $8$ square decimeters.
-
-### Solution to Exercise 159
-
-(1) $\times$, $6$ square meters $=600$ square decimeters. (2) $\times$, $8=1\times8=2\times4$, so there are two ways. (3) $\surd$, however arranged, the total area is always $8$ squares of $1$ square decimeter. $\blacksquare$
-
-## Exercise 160
-
-(Lesson: Practice 13, Problem 7) On grid paper each small cell is $1$ square centimeter; draw rectangles of perimeter $16$ cm. How many can you draw? Compute the areas and fill the table; what pattern do you find?
-
-### Solution to Exercise 160
-
-length$+$width$=16\div2=8$ (cm); you can draw: length $7$ width $1$ area $7$, length $6$ width $2$ area $12$, length $5$ width $3$ area $15$, length $4$ width $4$ (square) area $16$. Pattern: when the perimeter is equal, the closer the length and width, the larger the area. $\blacksquare$
-
-## Exercise 161
-
-(Lesson: Practice 13, Problem 8) Around a square flower bed there is a $1$-m-wide cement path; the path's total area is $16$ square meters. What is the flower bed's area?
-
-### Solution to Exercise 161
-
-Let the flower bed's side be $a$ m; the outer square of the path has side $\left(a+2\right)$ m. $\left(a+2\right)^2-a^2=4a+4=16$, giving $a=3$ (m); the flower bed's area is $3\times3=9$ (square meters). $\blacksquare$
+(1) B is also $8$, sum is $8+8=16$. (2) B is $8+16=24$, sum is $8+24=32$. $\blacksquare$
