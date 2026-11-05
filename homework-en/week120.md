@@ -1,7 +1,9 @@
 # week120
+
 > **Definition 11.1.1 (有序数对)**
 > 
 > 用两个数表示平面内一个点的位置, 第一个数表示"列", 第二个数表示"行", 记作 $\left(a,b\right)$. 同一列的点有序数对第一个数相同, 同一行的点第二个数相同.
+
 > **Definition 11.1.2 (方向和距离确定位置)**
 > 
 > 确定平面内一个物体的准确位置, 先确定参照点, 再知道物体相对于参照点的方向和距离. 方向一般用不大于 $45^{\circ}$ 的角描述, 如"北偏西 $40^{\circ}$"; 平面图上线段长度按比例尺表示实际距离.
@@ -115,11 +117,3 @@ Swap the observer point and the directions reverse. Beijing is south-by-west of 
 ### Solution to Exercise 13
 
 By **Definition 11.1.2 (Determining Position by Direction and Distance)**: with the rescue ship as vertex, draw a ray north-by-west $40^{\circ}$; $1000\,\text{m}$ is $2\,\text{cm}$ on the map; the endpoint is the ship. $\blacksquare$
-
-## Exercise 14
-
-(Lesson: Direction and Distance, Do It Problem 1) On the map draw the west-by-north $30^{\circ}$, west-by-south $40^{\circ}$, and east-by-south $20^{\circ}$ directions from Island A.
-
-### Solution to Exercise 14
-
-With Island A as vertex, use a protractor to draw rays: due west tilted north $30^{\circ}$, due west tilted south $40^{\circ}$, due east tilted south $20^{\circ}$. $\blacksquare$

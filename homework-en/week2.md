@@ -1,197 +1,217 @@
 # week2
+
 > **Definition 1.1.2 (Equal, More, Less)**
 > 
 > 用一一对应比较两类物体的多少: 一一对应后都对应完, 称为同样多; 有剩余的称为多, 另一类称为少.
+
 > **Definition 1.1.6 (加法的含义)**
 > 
 > 把两部分合起来, 求一共是多少, 用加法. 加号 "$+$", 算式如 $3+1=4$, 读作"$3$ 加 $1$ 等于 $4$". 计算时可以从第一个数后面接着往后数.
+
 > **Definition 1.1.7 (减法的含义)**
 > 
 > 从总数中去掉一部分, 求剩下多少, 用减法. 减号 "$-$", 算式如 $4-1=3$, 读作"$4$ 减 $1$ 等于 $3$". 计算时可以从总数倒着往前数.
+
 > **Definition 1.1.8 (0 的意义与运算)**
 > 
 > $0$ 表示"一个也没有", 也表示数轴上起点. 一个数加 $0$ 或减 $0$, 大小不变: $a+0=a$, $a-0=a$; 两个相同的数相减得 $0$: $a-a=0$.
 
+> **Definition 1.2.1 (6~9的认识)**
+> 
+> 数数时, $5$ 后面是 $6$, 接着数是 $7,8,9$; 用小棒,计数器或图表示各数, 会读会写, 按从小到大的顺序排列.
+
+> **Definition 1.2.2 (Comparing, Ordinal Numbers)**
+> 
+> 比较两个数的大小, 用大于号,小于号或等号连接; 第几表示排列的位置 (序数).
+
+> **Definition 1.2.3 (分与合)**
+> 
+> 一个数可以分成两个数, 两个数也可以合成这个数; 按顺序分, 成对写出, 既不重复也不遗漏. 如 $6=1+5=2+4=3+3$.
+
+> **Definition 1.2.4 (Four Equations from One Picture)**
+> 
+> 根据一幅图可以列出两道加法算式和两道减法算式, 称为一图四式.
+
 ## Exercise 1
-
-(Lesson: Addition and Subtraction Within 1–5, Do It, Problem 2) Place and fill: $1+3=\square$; $3+\square=\square$.
-
-### Solution to Exercise 1
-
-By **Definition 1.1.6 (Meaning of Addition)**, $1+3=4$; $3+1=4$. $\blacksquare$
-
-## Exercise 2
 
 (Lesson: Addition and Subtraction Within 1–5, Do It, Problem 3) First place sticks, then fill in the results: $1+1=\square$; $2+1=\square$; $2+3=\square$.
 
-### Solution to Exercise 2
+### Solution to Exercise 1
 
 By **Definition 1.1.6 (Meaning of Addition)**: $1+1=2$; $2+1=3$; $2+3=5$. $\blacksquare$
 
-## Exercise 3
+## Exercise 2
 
 (Lesson: Addition and Subtraction Within 1–5, Do It, Problem 1) Look at the picture and explain what the expressions mean: $5-1=4$; $4-2=2$.
 
-### Solution to Exercise 3
+### Solution to Exercise 2
 
 By **Definition 1.1.7 (Meaning of Subtraction)**, $5-1=4$ means removing $1$ from $5$ leaves $4$; $4-2=2$ means removing $2$ from $4$ leaves $2$. $\blacksquare$
 
-## Exercise 4
+## Exercise 3
 
 (Lesson: Addition and Subtraction Within 1–5, Do It, Problem 2) Draw and fill: $4-1=\square$; $4-\square=\square$.
 
-### Solution to Exercise 4
+### Solution to Exercise 3
 
 By **Definition 1.1.7 (Meaning of Subtraction)**, $4-1=3$; $4-2=2$ (or $4-3=1$). $\blacksquare$
 
-## Exercise 5
+## Exercise 4
 
 (Lesson: Addition and Subtraction Within 1–5, Do It, Problem 3) Color and fill: $3-1=\square$; $4-1=\square$; $5-2=\square$.
 
-### Solution to Exercise 5
+### Solution to Exercise 4
 
 By **Definition 1.1.7 (Meaning of Subtraction)**: $3-1=2$; $4-1=3$; $5-2=3$. $\blacksquare$
 
-## Exercise 6
+## Exercise 5
 
 (Lesson: Addition and Subtraction Within 1–5, Practice, Problem 1) Look at the picture and fill: $\square+1=\square$; $5-\square=\square$.
 
-### Solution to Exercise 6
+### Solution to Exercise 5
 
 According to the quantities in the picture, by **Definition 1.1.6 (Meaning of Addition)** and **Definition 1.1.7 (Meaning of Subtraction)**, for example $4+1=5$; $5-1=4$. $\blacksquare$
 
-## Exercise 7
+## Exercise 6
 
 (Lesson: Addition and Subtraction Within 1–5, Practice, Problem 2) Mental math: $1+2$, $2+3$, $2+2$, $1+4$; $3-1$, $5-2$, $4-2$, $5-1$.
 
-### Solution to Exercise 7
+### Solution to Exercise 6
 
 By **Definition 1.1.6 (Meaning of Addition)** and **Definition 1.1.7 (Meaning of Subtraction)**: $1+2=3$, $2+3=5$, $2+2=4$, $1+4=5$; $3-1=2$, $5-2=3$, $4-2=2$, $5-1=4$. $\blacksquare$
 
-## Exercise 8
+## Exercise 7
 
 (Lesson: Addition and Subtraction Within 1–5, Practice, Problem 3) Look at the picture and fill: $3+\square=\square$; $1+\square=\square$.
 
-### Solution to Exercise 8
+### Solution to Exercise 7
 
 According to the grouping quantities of white and gray rabbits in the picture, by **Definition 1.1.6 (Meaning of Addition)**, for example $3+2=5$; $1+3=4$. $\blacksquare$
 
-## Exercise 9
+## Exercise 8
 
 (Lesson: Addition and Subtraction Within 1–5, Practice, Problem 4) Look at the picture and fill in the operation symbol and number: $2\bigcirc\square=\square$; $\square\bigcirc\square=\square$.
 
-### Solution to Exercise 9
+### Solution to Exercise 8
 
 Write an addition sentence for birds flying onto branches, and a subtraction sentence for birds flying away. By **Definition 1.1.6 (Meaning of Addition)** and **Definition 1.1.7 (Meaning of Subtraction)**, fill in the symbols and numbers. $\blacksquare$
 
-## Exercise 10
+## Exercise 9
 
 (Lesson: Addition and Subtraction Within 1–5, Practice, Problem 5) Look at the picture, fill in, and explain what the expressions mean: $\square+\square=\square$; $\square-\square=\square$.
 
-### Solution to Exercise 10
+### Solution to Exercise 9
 
 For the picture of crabs gathering, write an addition sentence $\square+\square=\square$; for the picture of picking loofahs, write a subtraction sentence $\square-\square=\square$, and explain the meaning of combining or removing. $\blacksquare$
 
-## Exercise 11
+## Exercise 10
 
 (Lesson: Addition and Subtraction Within 1–5, Practice, Problem 6) Look at the expressions and tell a story: $1+2=3$; $1+4=5$; $4-2=2$; $5-3=2$.
 
-### Solution to Exercise 11
+### Solution to Exercise 10
 
 Make up a life situation for each; for example, "there is $1$ chick, and $2$ more come, making $3$ in total." $\blacksquare$
 
-## Exercise 12
+## Exercise 11
 
 (Lesson: Addition and Subtraction Within 1–5, Practice, Problem 7) Vertical addition and subtraction: $4+1$, $3+1$, $2+1$, $1+1$; $5-4$, $5-3$, $5-2$, $5-1$.
 
-### Solution to Exercise 12
+### Solution to Exercise 11
 
 $4+1=5$, $3+1=4$, $2+1=3$, $1+1=2$; $5-4=1$, $5-3=2$, $5-2=3$, $5-1=4$. $\blacksquare$
 
-## Exercise 13
+## Exercise 12
 
 (Lesson: Addition and Subtraction Within 1–5, Practice, Problem 8) Look at the picture, tell a story, and fill in the sentences (Guoguo and Huahua picking peaches and eating bananas).
 
-### Solution to Exercise 13
+### Solution to Exercise 12
 
 In the peach-picking picture, "I picked $2$ more" and "I picked $1$ more, now we have the same amount"; write equalities so both sides balance. In the banana-eating picture, for "I ate $2$" and "I ate $1$, the rest are the same," write equalities accordingly. $\blacksquare$
 
-## Exercise 14
+## Exercise 13
 
 (Lesson: Understanding 0 and Addition/Subtraction, Think About It) Think: $5-0=\square$.
 
-### Solution to Exercise 14
+### Solution to Exercise 13
 
 By **Definition 1.1.8 (Meaning and Operations of 0)**, subtracting $0$ from a number does not change it, so $5-0=5$. $\blacksquare$
 
-## Exercise 15
+## Exercise 14
 
 (Lesson: Understanding 0 and Addition/Subtraction, Do It) Mental math: $0+5$, $5+0$, $5-0$, $5-5$; $0+4$, $4+0$, $4-0$, $4-4$; $0+3$, $3+0$, $3-0$, $3-3$.
 
-### Solution to Exercise 15
+### Solution to Exercise 14
 
 By **Definition 1.1.8 (Meaning and Operations of 0)**: $0+5=5$, $5+0=5$, $5-0=5$, $5-5=0$; $0+4=4$, $4+0=4$, $4-0=4$, $4-4=0$; $0+3=3$, $3+0=3$, $3-0=3$, $3-3=0$. $\blacksquare$
 
-## Exercise 16
+## Exercise 15
 
 (Review and Organization, Expression Cards, Problem 1) Explain how the addition expressions and subtraction expressions are arranged.
 
-### Solution to Exercise 16
+### Solution to Exercise 15
 
 In the addition table, the first addend increases from $0$ to $5$, and the second addend starts from $0$; in the subtraction table, the minuend increases from $0$ to $5$, and the subtrahend starts from $0$. $\blacksquare$
 
-## Exercise 17
+## Exercise 16
 
 (Review and Organization, Expression Cards, Problem 2) Point to any expression and say the result.
 
-### Solution to Exercise 17
+### Solution to Exercise 16
 
 Calculate by **Definition 1.1.6 (Meaning of Addition)** and **Definition 1.1.7 (Meaning of Subtraction)**; the answer depends on the expression pointed to. $\blacksquare$
 
-## Exercise 18
+## Exercise 17
 
 (Review and Organization, Expression Cards, Problem 3) Observe the result of the last expression in each row. What do you notice?
 
-### Solution to Exercise 18
+### Solution to Exercise 17
 
 The last expression in each row is the sum of two identical numbers, with results $0+0=0$, $1+1=2$, $2+2=4$, $3+3=6$, $4+4=8$, $5+5=10$, i.e. the result is $2$ times that number. $\blacksquare$
 
-## Exercise 19
+## Exercise 18
 
 (Review and Organization, Practice, Problem 1) Fill in the numbers in order: $0\;\_\_\;2\;\_\_\;4\;\_\_$.
 
-### Solution to Exercise 19
+### Solution to Exercise 18
 
 In order from $0$ to $5$: $0,1,2,3,4,5$. $\blacksquare$
 
-## Exercise 20
+## Exercise 19
 
 (Review and Organization, Practice, Problem 2) Mental math: $1-0$, $2+3$, $0+0$, $5-3$; $3-2$, $2-2$, $4-3$, $4-1$; $1+3$, $3+1$, $0+2$, $5-5$.
 
-### Solution to Exercise 20
+### Solution to Exercise 19
 
 By **Definition 1.1.6 (Meaning of Addition)**, **Definition 1.1.7 (Meaning of Subtraction)**, and **Definition 1.1.8 (Meaning and Operations of 0)**: $1-0=1$, $2+3=5$, $0+0=0$, $5-3=2$; $3-2=1$, $2-2=0$, $4-3=1$, $4-1=3$; $1+3=4$, $3+1=4$, $0+2=2$, $5-5=0$. $\blacksquare$
 
-## Exercise 21
+## Exercise 20
 
 (Review and Organization, Practice, Problem 3) $\square$ is (more, fewer) than $\triangle$; $\triangle$ is (more, fewer) than $\square$; write the comparison sentence $\square\bigcirc\square$.
 
-### Solution to Exercise 21
+### Solution to Exercise 20
 
 According to the numbers of blue squares and red triangles in the picture, by **Definition 1.1.2 (Same Amount, More, Fewer)**, compare and fill in the blanks, then write the comparison sentence. $\blacksquare$
 
-## Exercise 22
+## Exercise 21
 
 (Review and Organization, Practice, Problem 4) Write the sentence from the picture (foxes and frogs).
 
-### Solution to Exercise 22
+### Solution to Exercise 21
 
 According to the numbers of foxes and frogs in the picture, by **Definition 1.1.6 (Meaning of Addition)** and **Definition 1.1.7 (Meaning of Subtraction)**, write the addition (or subtraction) sentence and calculate. $\blacksquare$
 
-## Exercise 23
+## Exercise 22
 
 (Review and Organization, Practice, Problem 5) What can go in $\square$: $\square> 3$; $\square< 5$; $4> \square$; $2< \square$.
 
-### Solution to Exercise 23
+### Solution to Exercise 22
 
 $\square> 3$, can fill $4,5$; $\square< 5$, can fill $0\sim4$; $4> \square$, can fill $0\sim3$; $2< \square$, can fill $3,4,5$. Answers are not unique. $\blacksquare$
+
+## Exercise 23
+
+(Lesson: Understanding 6–9, Say It) What other objects in daily life can $6$ represent the quantity of? What about $7$, $8$, $9$?
+
+### Solution to Exercise 23
+
+By **Definition 1.2.1 (Understanding 6–9)**, you may say $6$ can represent $6$ pots of flowers, $6$ birds, etc.; $7$ represents $7$ apples, etc.; $8$ represents $8$ stars, etc.; $9$ represents $9$ butterflies, etc.; as long as the quantity matches correctly. $\blacksquare$

@@ -1,13 +1,17 @@
 # week134
+
 > **Definition 11.7.1 (百分数)**
 > 
 > 像 $14\%$, $65.5\%$, $120\%$ 这样的数叫做百分数, 表示一个数是另一个数的百分之几. 百分数又叫百分率或百分比, 后面不能带单位.
+
 > **Definition 11.7.2 (百分率)**
 > 
 > 达标率 $=\frac{\text{达标人数}}{\text{总人数}}$; 发芽率 $=\frac{\text{发芽种子数}}{\text{试验种子总数}}$; 出勤率 $=\frac{\text{出勤人数}}{\text{应出勤人数}}$; 命中率 $=\frac{\text{命中次数}}{\text{总射击次数}}$.
+
 > **Definition 11.7.3 (折扣与成数)**
 > 
 > 几折就表示十分之几, 也就是百分之几十; 几成也表示十分之几. "七折"就是按原价的 $70\%$ 出售, "二成五"就是 $25\%$.
+
 > **Definition 11.7.4 (税率与利率)**
 > 
 > 应纳税额与各种收入中应纳税部分的比率叫税率; 单位时间内利息与本金的比率叫利率. 利息 $=$ 本金 $\times$ 利率 $\times$ 存期.
@@ -203,11 +207,3 @@ Saving $20\%\times2000=400$ yuan. $\blacksquare$
 ### Solution to Exercise 24
 
 $\left(20-12\right)\div12\approx66.7\%$. $\blacksquare$
-
-## Exercise 25
-
-(Lesson: Percent Word Problems, Exercise 15 Problem 12) A laptop drops $10\%$, then another $10\%$. List price $7600$ yuan; current price?
-
-### Solution to Exercise 25
-
-$7600\times0.9\times0.9=6156$ yuan. $\blacksquare$

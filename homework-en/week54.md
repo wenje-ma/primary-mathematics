@@ -1,13 +1,17 @@
 # week54
+
 > **Definition 5.8.1 (分数的初步认识)**
 > 
 > 把一个物体平均分成若干份, 其中的一份是几分之一, 几份是几分之几. 分数中间的横线叫分数线, 下面的数叫分母 (表示平均分成几份), 上面的数叫分子 (表示取了几份).
+
 > **Definition 5.8.2 (分数的大小比较)**
 > 
 > 分母相同的分数, 分子大的分数大; 分子相同的分数, 分母大的反而小 (平均分的份数越多, 每份就越小).
+
 > **Definition 5.8.3 (同分母分数的加减法)**
 > 
 > 同分母分数相加减, 分母不变, 分子相加减. $1$ 可以写成分子, 分母相同的分数, 如 $1=\frac{4}{4}$.
+
 > **Definition 5.8.4 (求一个数的几分之几)**
 > 
 > 求一个数的几分之一, 把这个数平均分成分母那么多份, 求出一份; 求几分之几, 再用一份的数乘分子.
@@ -171,19 +175,3 @@ $1-\frac{2}{3}=\frac{1}{3}$. The four-person boats are $\frac{1}{3}$. $\blacksqu
 ### Solution to Exercise 20
 
 (1) The sum of the two numerators is $4$: $\frac{1}{5}+\frac{3}{5}=\frac{4}{5}$ (or $\frac{2}{5}+\frac{2}{5}$). (2) The difference of the two numerators is $1$: $\frac{5}{9}-\frac{4}{9}=\frac{1}{9}$, and so on. Answers may vary. $\blacksquare$
-
-## Exercise 21
-
-(Lesson: Practice 16, Problem 6) Of a vegetable plot, $\frac{1}{10}$ is planted with celery and $\frac{3}{10}$ with cabbage, and the rest with green beans. What fraction is green beans?
-
-### Solution to Exercise 21
-
-$1-\frac{1}{10}-\frac{3}{10}=\frac{6}{10}$. The green beans are $\frac{6}{10}$. $\blacksquare$
-
-## Exercise 22
-
-(Lesson: Practice 16, Problem 7) Tiles are being laid in an auditorium; $\frac{1}{5}$ is laid in the morning and $\frac{2}{5}$ in the afternoon. Raise a math question and answer it.
-
-### Solution to Exercise 22
-
-For example, what fraction is laid altogether: $\frac{1}{5}+\frac{2}{5}=\frac{3}{5}$; what fraction remains: $1-\frac{3}{5}=\frac{2}{5}$. $\blacksquare$

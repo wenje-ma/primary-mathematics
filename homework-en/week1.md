@@ -1,25 +1,33 @@
 # week1
+
 > **Definition 1.1.1 (基数)**
 > 
 > 一个数可以表示一类事物的个数, 如 $1$ 表示 $1$ 栋房子, $5$ 表示 $5$ 只鸭子. 数到几, 就有几个.
+
 > **Definition 1.1.2 (Equal, More, Less)**
 > 
 > 用一一对应比较两类物体的多少: 一一对应后都对应完, 称为同样多; 有剩余的称为多, 另一类称为少.
+
 > **Definition 1.1.3 (等号,大于号,小于号)**
 > 
 > 表示两个数大小关系的符号: 等号 "$=$" (读作"等于"), 大于号 "$> $" (读作"大于"), 小于号 "$< $" (读作"小于"), 开口朝向较大的数.
+
 > **Definition 1.1.4 (基数与序数)**
 > 
 > "有几个"表示数量多少, 是基数; "第几个"表示排列的位置, 是序数. 如 $5$ 人排队, "有 $5$ 人"是基数, "排第 $2$"是序数.
+
 > **Definition 1.1.5 (数的分与合)**
 > 
 > 一个数可以分成两个数, 两个数也可以组成这个数. 如 $5$ 可以分成 $1$ 和 $4$, $2$ 和 $3$, $3$ 和 $2$, $4$ 和 $1$; 反之这些数对都可以组成 $5$.
+
 > **Definition 1.1.6 (加法的含义)**
 > 
 > 把两部分合起来, 求一共是多少, 用加法. 加号 "$+$", 算式如 $3+1=4$, 读作"$3$ 加 $1$ 等于 $4$". 计算时可以从第一个数后面接着往后数.
+
 > **Definition 1.1.7 (减法的含义)**
 > 
 > 从总数中去掉一部分, 求剩下多少, 用减法. 减号 "$-$", 算式如 $4-1=3$, 读作"$4$ 减 $1$ 等于 $3$". 计算时可以从总数倒着往前数.
+
 > **Definition 1.1.8 (0 的意义与运算)**
 > 
 > $0$ 表示"一个也没有", 也表示数轴上起点. 一个数加 $0$ 或减 $0$, 大小不变: $a+0=a$, $a-0=a$; 两个相同的数相减得 $0$: $a-a=0$.
@@ -209,3 +217,11 @@ By **Definition 1.1.1 (Cardinal Number)**, count the number of each animal; by *
 ### Solution to Exercise 23
 
 By **Definition 1.1.6 (Meaning of Addition)**, $2+2=4$ means combining $2$ and $2$ gives $4$; $4+1=5$ means combining $4$ and $1$ gives $5$. $\blacksquare$
+
+## Exercise 24
+
+(Lesson: Addition and Subtraction Within 1–5, Do It, Problem 2) Place and fill: $1+3=\square$; $3+\square=\square$.
+
+### Solution to Exercise 24
+
+By **Definition 1.1.6 (Meaning of Addition)**, $1+3=4$; $3+1=4$. $\blacksquare$

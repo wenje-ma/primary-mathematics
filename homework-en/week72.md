@@ -1,28 +1,37 @@
 # week72
+
 > **Definition 7.3.1 (角的再认识)**
 > 
 > 角可以看作由一条射线绕着它的端点, 从一个位置旋转到另一个位置所形成的图形. 旋转半周形成平角, 旋转一周形成周角, 旋转四分之一周形成直角.
+
 > **Definition 7.3.2 (角的分类)**
 > 
 > 锐角小于 90 度, 直角等于 90 度, 钝角大于 90 度小于 180 度, 平角等于 180 度, 周角等于 360 度.
+
 > **Definition 7.3.3 (角的度量单位)**
 > 
 > 把圆平均分成 $360$ 份, 其中 $1$ 份所对的角作为度量角的单位, 它的大小就是 $1$ 度, 记作 $1^{\circ}$. 量角器是把半圆分成 $180$ 等份制成的.
+
 > **Definition 7.3.4 (量角的方法)**
 > 
 > 把量角器的中心与角的顶点重合, $0^{\circ}$ 刻度线与角的一条边重合, 角的另一条边所对的量角器上的刻度就是这个角的度数.
+
 > **Definition 7.3.5 (画角的方法)**
 > 
 > 先画一条射线, 使量角器中心和射线端点重合, $0^{\circ}$ 刻度线和射线重合; 在目标刻度处点一个点; 以射线端点为端点, 通过刚画的点再画一条射线.
+
 > **Definition 7.4.1 (口算乘法)**
 > 
 > 两位数乘一位数的口算, 先把两位数分成整十数和一位数, 分别相乘后再相加.
+
 > **Definition 7.4.2 (笔算乘法)**
 > 
 > 多位数乘多位数时, 把相同数位对齐, 从个位乘起, 用第二个因数的每一位分别乘第一个因数, 再把所得的积相加.
+
 > **Definition 7.4.3 (积的变化规律)**
 > 
 > 一个因数不变, 另一个因数乘 (或除以) 几 (0 除外), 积也乘 (或除以) 相同的数.
+
 > **Definition 7.4.4 (乘法估算)**
 > 
 > 根据问题需要把乘数估大或估小, 快速判断结果范围, 再决定精确计算.
@@ -148,11 +157,3 @@ By **Definition 7.4.1 (Mental Multiplication)**: (1) $1$ hour $=60$ minutes, $50
 ### Solution to Exercise 15
 
 By **Definition 7.4.1 (Mental Multiplication)**: $44\times20=880$, $360\div6=60$, $16\times6=96$, $25\times4=100$, $80\div4=20$, $38\times2=76$, $22\times30=660$, $50\times16=800$. $\blacksquare$
-
-## Exercise 16
-
-(Lesson: Practice 7, Problem 7) Xiaoliang's essay paper holds at most $20$ characters per line, and he wrote $18$ lines; at most how many characters is the short essay?
-
-### Solution to Exercise 16
-
-By **Definition 7.4.1 (Mental Multiplication)**, $20\times18=360$ characters. $\blacksquare$

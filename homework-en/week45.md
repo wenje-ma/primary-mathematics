@@ -1,13 +1,17 @@
 # week45
+
 > **Definition 5.2.1 (综合算式与同级运算顺序)**
 > 
 > 把两个分步算式合并成一个算式, 这样的算式是综合算式. 在没有括号的算式里, 只有加, 减法或只有乘, 除法, 从左往右按顺序计算.
+
 > **Definition 5.2.2 (先乘除后加减)**
 > 
 > 在没有括号的算式里, 既有乘, 除法又有加, 减法, 要先算乘, 除法, 再算加, 减法.
+
 > **Definition 5.2.3 (小括号)**
 > 
 > 算式里有括号, 要先算括号里面的. 括号可以改变运算顺序.
+
 > **Definition 5.2.4 (解决多步实际问题)**
 > 
 > 解决需要多步计算的实际问题时, 通常把问题分解为几个关联的小问题, 一步解决一个小问题; 可以画线段图分析数量关系, 列综合算式解答.
@@ -179,3 +183,11 @@ Afternoon $28-8=20$, all day $28+20=48$, $48\div6=8$ boxes. $\blacksquare$
 ### Solution to Exercise 21
 
 Plan one: buy separately $4\times10+5\times5=40+25=65$ yuan. Plan two: all group $9\times8=72$ yuan. Plan three: $4$ parents and $2$ children buy group $6\times8=48$ yuan, the remaining $3$ children buy child tickets $3\times5=15$ yuan, in all $63$ yuan. Plan three is cheapest: $63$ yuan. $\blacksquare$
+
+## Exercise 22
+
+(Lesson: Practice 3, Problem 11, Thinking Question) In a subtraction, the sum of minuend, subtrahend, and difference is $54$, and the subtrahend is $2$ times the difference. Write this expression.
+
+### Solution to Exercise 22
+
+minuend $=$ subtrahend $+$ difference, so minuend $+$ subtrahend $+$ difference $=2\times$ minuend $=54$, minuend $=27$. subtrahend $+$ difference $=27$, and the subtrahend is $2$ times the difference, so difference $=27\div3=9$, subtrahend $=18$. Expression: $27-18=9$. $\blacksquare$

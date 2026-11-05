@@ -1,34 +1,45 @@
 # week139
+
 > **Definition 12.1.1 (Positive and Negative Numbers)**
 > 
 > 像 3, 1.8%, 3.5 这样大于 0 的数叫做正数; 像 -3, -2.7%, -4.5 这样在正数前加上负号的数叫做负数.
+
 > **Definition 12.2.1 (折扣)**
 > 
 > 商品按原价的百分之几出售, 通常称打几折出售. 几折就表示十分之几, 也就是百分之几十.
+
 > **Definition 12.2.2 (成数)**
 > 
 > 成数表示一个数是另一个数的十分之几, 通称"几成". 一成就是十分之一, 即 $10\%$; 二成就是 $20\%$; 三成五就是十分之三点五, 即 $35\%$.
+
 > **Definition 12.2.3 (税率)**
 > 
 > 应缴纳的税款叫作应纳税额, 应纳税额与各种收入 (销售额, 营业额等) 中应纳税部分的比率叫作税率. 应纳税额 $=$ 收入中应纳税部分 $\times$ 税率.
+
 > **Definition 12.2.4 (Interest Rate and Interest)**
 > 
 > 存入银行的钱叫做本金, 取款时银行多支付的钱叫做利息, 单位时间内利息与本金的比率叫做利率. 利息 = 本金 * 利率 * 存期.
+
 > **Definition 12.3.1 (千分数与万分数)**
 > 
 > 千分数表示一个数是另一个数的千分之几, 也叫千分率, 千分号写作 "$\perthousand$". 万分数表示一个数是另一个数的万分之几, 也叫万分率, 万分号写作 "$\pertenthousand$". 它们与百分数一样, 只是把分母换成 $1000$ 或 $10000$.
+
 > **Definition 12.4.1 (圆柱的认识)**
 > 
 > 圆柱由 $3$ 个面围成: 上, 下两个底面是大小完全相同的圆; 周围的面 (上, 下底面除外) 叫侧面, 是曲面; 两个底面之间的距离叫作高.
+
 > **Definition 12.4.2 (圆柱的侧面积与表面积)**
 > 
 > 把圆柱侧面沿高展开得到一个长方形, 长方形的长等于圆柱底面的周长, 宽等于圆柱的高. 侧面积 $=$ 底面周长 $\times$ 高 $=2\pi rh$; 一个底面积 $=\pi r^{2}$; 表面积 $=$ 侧面积 $+$ 两个底面积.
+
 > **Definition 12.4.3 (圆柱的体积)**
 > 
 > 把圆柱底面分成若干相等扇形, 切开后拼成一个近似长方体, 长方体底面积等于圆柱底面积, 高等于圆柱的高. 圆柱体积 $=$ 底面积 $\times$ 高 $=Sh=\pi r^{2}h$.
+
 > **Definition 12.4.4 (圆锥的认识)**
 > 
 > 圆锥的底面是一个圆, 侧面是曲面; 从圆锥的顶点到底面圆心的距离是圆锥的高.
+
 > **Definition 12.4.5 (圆锥的体积)**
 > 
 > 通过实验, 等底等高的圆锥形容器正好用 $3$ 次倒满圆柱形容器, 即圆锥体积是与它等底等高的圆柱体积的 $\frac{1}{3}$. 圆锥体积 $=\frac{1}{3}Sh=\frac{1}{3}\pi r^{2}h$.
@@ -148,11 +159,3 @@ By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, the area
 ### Solution to Exercise 14
 
 Along the length place $6$ cans: length $=6\times6=36\,\mathrm{cm}$; along the width place $4$ cans: width $=4\times6=24\,\mathrm{cm}$; the height equals the can height $=12\,\mathrm{cm}$. $\blacksquare$
-
-## Exercise 15
-
-(Lesson: Exercise 4, Problem 9) A cylinder has lateral area $188.4\,\mathrm{dm}^{2}$ and base radius $2\,\mathrm{dm}$. What is its height?
-
-### Solution to Exercise 15
-
-By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, lateral area $=2\pi rh$, so $h=188.4\div\left(2\times3.14\times2\right)=188.4\div12.56=15\,\mathrm{dm}$. $\blacksquare$

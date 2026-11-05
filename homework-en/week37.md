@@ -1,19 +1,25 @@
 # week37
+
 > **Definition 4.4.1 (计数单位的十进关系)**
 > 
 > 一个一个地数, $10$ 个一是十; 十个十个地数, $10$ 个十是一百; $10$ 个一百是一千; $10$ 个一千是一万. 个 (一), 十, 百, 千, 万都是计数单位, 相邻两个间都是 $10$ 倍.
+
 > **Definition 4.4.2 (数位与数位顺序)**
 > 
 > 从右边起依次是个位, 十位, 百位, 千位, 万位 $\cdots\cdots$ 哪一位上是几, 就表示有几个这样的计数单位. 如百位上的 $5$ 表示 $5$ 个百.
+
 > **Definition 4.4.3 (万以内数的读法)**
 > 
 > 从高位读起, 按数位顺序读: 千位是几读几千, 百位是几读几百 $\cdots\cdots$ 中间有一个 $0$ 或两个 $0$, 只读一个零; 末尾不管有几个 $0$, 都不读.
+
 > **Definition 4.4.4 (万以内数的写法)**
 > 
 > 从高位写起, 按数位顺序写: 几千就在千位写几, 几百就在百位写几 $\cdots\cdots$ 中间或末尾哪一位上一个也没有, 就在那一位上写 $0$.
+
 > **Definition 4.4.5 (比较万以内数的大小)**
 > 
 > 位数不同, 位数多的数大; 位数相同, 从最高位比起, 最高位上数大的那个就大, 最高位相同就比下一位, 直到比出大小.
+
 > **Definition 4.4.6 (近似数与约等号)**
 > 
 > 生活中有时不用准确数而用近似数. 接近整千, 整百的数可写成近似数, 用约等号 $\approx$ 连接, 读作约等于. 如 $6988\approx7000$, $7000$ 是 $6988$ 的近似数.
@@ -169,3 +175,11 @@ By **Definition 4.4.3 (万以内数的读法)**: $7438$ is read seven thousand f
 ### Solution to Exercise 19
 
 $1533$ is read one thousand five hundred thirty-three; $1300$ is read one thousand three hundred; $2155$ is read two thousand one hundred fifty-five; $2016$ is read two thousand sixteen; $1492$ is read one thousand four hundred ninety-two. $\blacksquare$
+
+## Exercise 20
+
+(Lesson: Reading and Writing Numbers up to Ten Thousand, Do It) Write the numbers below. (1) There are about seven thousand stars visible to the naked eye. (2) There are one thousand eight hundred sixty-four wild giant pandas. (3) Jiaolong's maximum dive depth is seven thousand sixty-two meters.
+
+### Solution to Exercise 20
+
+By **Definition 4.4.4 (万以内数的写法)**, seven thousand is written $7000$; one thousand eight hundred sixty-four is written $1864$; seven thousand sixty-two is written $7062$ (write $0$ where the hundreds place is empty). $\blacksquare$

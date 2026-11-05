@@ -1,25 +1,28 @@
 # week115
+
 > **Definition 10.3.1 (长方体和正方体的特征)**
 > 
 > 长方体有 $6$ 个面, $12$ 条棱, $8$ 个顶点; 相对的面完全相同, 相对的棱长度相等; 相交于一个顶点的三条棱的长度分别叫作长方体的长, 宽, 高. 正方体是长, 宽, 高都相等的长方体, $6$ 个面都是完全相同的正方形.
+
 > **Definition 10.3.2 (表面积)**
 > 
 > 长方体或正方体 6 个面的总面积, 叫做它的表面积.
+
 > **Definition 10.3.3 (体积和体积单位)**
 > 
 > 物体所占空间的大小叫做物体的体积. 常用的体积单位有立方厘米,立方分米和立方米.
+
 > **Definition 10.3.4 (体积计算公式)**
 > 
 > 长方体体积 = 长 * 宽 * 高; 正方体体积 = 棱长 * 棱长 * 棱长.
+
 > **Definition 10.3.5 (体积单位间的进率)**
 > 
 > $1\,\mathrm{dm^3}=1000\,\mathrm{cm^3}$, $1\,\mathrm{m^3}=1000\,\mathrm{dm^3}$.
+
 > **Definition 10.3.6 (容积和容积单位)**
 > 
 > 容器所能容纳物体的体积, 通常叫作它们的容积. 计量液体常用升 ($\mathrm{L}$) 和毫升 ($\mathrm{mL}$), $1\,\mathrm{L}=1\,\mathrm{dm^3}$, $1\,\mathrm{mL}=1\,\mathrm{cm^3}$, $1\,\mathrm{L}=1000\,\mathrm{mL}$.
-> **Definition 10.4.1 (Painted Cube)**
-> 
-> 参见教材相应章节关于此概念的论述.
 
 ## Exercise 1
 
@@ -140,11 +143,3 @@ By **Definition 10.3.6 (Capacity and Capacity Units)**, capacity $=8\times4.5\ti
 ### Solution to Exercise 15
 
 By **Definition 10.3.2 (Surface Area)**, first compute one lantern's side-decorated area (excluding top and bottom) from the dimensions shown, multiply by $25$ for the total area, then multiply by $18$ yuan/$\mathrm{m^2}$ for the total cost. $\blacksquare$
-
-## Exercise 16
-
-(Lesson: Exploring Figures) Build cubes ① ($2\times2\times2$), ② ($3\times3\times3$), ③ ($4\times4\times4$) from $1\,\mathrm{cm}$ small cubes and paint their surfaces. How many small cubes are painted on three, two, one, and zero faces? Complete the table and find the rule.
-
-### Solution to Exercise 16
-
-By **Definition 10.4.1 (Painted Cubes)**: ① $n=2$, three-face $8$, two-face $12\left(2-2\right)=0$, one-face $6\left(2-2\right)^2=0$, zero $\left(2-2\right)^3=0$; ② $n=3$, three-face $8$, two-face $12\left(3-2\right)=12$, one-face $6\left(3-2\right)^2=6$, zero $\left(3-2\right)^3=1$; ③ $n=4$, three-face $8$, two-face $12\left(4-2\right)=24$, one-face $6\left(4-2\right)^2=24$, zero $\left(4-2\right)^3=8$. Rule: three-face painted is always $8$ (the number of vertices), while two-face, one-face, and zero-face are computed by $12\left(n-2\right)$, $6\left(n-2\right)^2$, and $\left(n-2\right)^3$. $\blacksquare$

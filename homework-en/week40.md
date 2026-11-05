@@ -1,13 +1,17 @@
 # week40
+
 > **Definition 4.5.1 (万以内加法笔算)**
 > 
 > 列竖式加法时, 相同数位对齐, 从个位加起; 哪一位上的数相加满十, 就向前一位进 $1$. 相同数位对齐是为了相同计数单位的个数相加.
+
 > **Definition 4.5.2 (万以内减法笔算)**
 > 
 > 列竖式减法时, 相同数位对齐, 从个位减起; 哪一位上的数不够减, 就从前一位退 $1$, 在本位上加 $10$ 再减.
+
 > **Definition 4.5.3 (加法各部分间的关系)**
 > 
 > 把两个数合并成一个数的运算叫加法. 和 $=$ 加数 $+$ 加数, 加数 $=$ 和 $-$ 另一个加数.
+
 > **Definition 4.5.4 (减法各部分间的关系)**
 > 
 > 已知两个加数的和与其中一个加数, 求另一个加数的运算叫减法, 减法是加法的逆运算. 差 $=$ 被减数 $-$ 减数, 减数 $=$ 被减数 $-$ 差, 被减数 $=$ 减数 $+$ 差.
@@ -195,11 +199,3 @@ By **Definition 4.5.4 (减法各部分间的关系)**, $298+405=703$ (subtrahend
 ### Solution to Exercise 23
 
 Check by difference $+$ subtrahend $=$ minuend: $254+178=432$, equal to the minuend, so the calculation is correct. $\blacksquare$
-
-## Exercise 24
-
-(Lesson: Estimation, Do It) The cinema has $500$ seats; Grades 1–3 bring $298$ people and Grades 4–6 bring $187$ people; can all six grades sit together?
-
-### Solution to Exercise 24
-
-Estimate: $298\approx300$, $187\approx200$, $300+200=500$; actually $298< 300$, $187< 200$, so the actual sum is less than $500$, and they can sit. $\blacksquare$

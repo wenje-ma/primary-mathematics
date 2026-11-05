@@ -1,16 +1,36 @@
 # week47
+
 > **Definition 5.3.1 (毫米与厘米的关系)**
 > 
 > 毫米 (mm) 是比厘米更小的长度单位, 量较短的物体或要求量得比较精确时用毫米. 直尺上 $1$ 厘米中间每小格的长度是 $1$ 毫米, $1$ 厘米 $=10$ 毫米.
+
 > **Definition 5.3.2 (分米与厘米, 米的关系)**
 > 
 > 分米 (dm) 是比厘米大, 比米小的长度单位. 直尺上 $10$ 厘米的长度是 $1$ 分米, $1$ 分米 $=10$ 厘米, $1$ 米 $=10$ 分米.
+
 > **Definition 5.3.3 (千米)**
 > 
 > 计量比较长的路程通常用千米 (km) 作单位, $1$ 千米 $=1000$ 米. 千米在日常生活中也叫公里.
+
 > **Definition 5.3.4 (长度单位的进率与估测)**
 > 
 > 长度单位从大到小: 千米, 米, 分米, 厘米, 毫米. 相邻两个单位间, 除千米与米间是 $1000$, 其余都是 $10$. 估计一段距离要先选定一个长度作为标准.
+
+> **Definition 5.4.1 (等量的等量相等与总量等于各分量之和)**
+> 
+> 等量的等量相等; 总量等于各分量之和.
+
+> **Definition 5.4.2 (克与千克)**
+> 
+> 克 (g), 千克 (kg) 是表示物体质量的常用单位. 计量比较轻的物品用克, 计量比较重的物品用千克. $1$ 千克 $=1000$ 克. 千克在日常生活中也叫公斤.
+
+> **Definition 5.4.3 (吨)**
+> 
+> 计量较重的或大宗物品的质量, 通常用吨 (t) 作单位. $1$ 吨 $=1000$ 千克.
+
+> **Definition 5.4.4 (用已知质量作标准称物体)**
+> 
+> 没有秤时, 可以用已知质量的物品 (如每袋 $200$ 克的盐) 作标准, 通过拎一拎比较或等量替换称出其他物体的质量. 生活中还有公斤, 斤, 两等单位: $1$ 公斤 $=1$ 千克, $1$ 斤 $=500$ 克, $1$ 公斤 $=2$ 斤, $1$ 斤 $=10$ 两.
 
 ## Exercise 1
 
@@ -171,3 +191,11 @@ The court is about $28$ m long and $15$ m wide. Use steps (a step about $5$ dm) 
 ### Solution to Exercise 20
 
 By **Definition 5.3.4 (Conversion Rates and Estimation of Length Units)**, first measure a short piece of wire (e.g. $1$ m) and weigh it, then weigh the whole bundle; compute how many times the bundle's mass is the short piece's, and the bundle's length is that times $1$ m. $\blacksquare$
+
+## Exercise 21
+
+(Lesson: The Story of Cao Chong Weighing the Elephant — Share Your Thoughts) Do you know the story of Cao Chong weighing the elephant? Tell about the steps and method of how Cao Chong weighed the elephant.
+
+### Solution to Exercise 21
+
+By **Definition 5.4.1 (Equals of Equals are Equal, and the Whole Equals the Sum of Its Parts)**, the steps are: lead the elephant onto the boat and draw a line on the gunwale along the water surface; lead the elephant off and load stones until the boat sinks to the drawn line; weigh the total mass of the stones on the boat in several batches, and the sum of the masses from each weighing is the elephant's mass. $\blacksquare$

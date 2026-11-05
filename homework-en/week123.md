@@ -1,13 +1,17 @@
 # week123
+
 > **Definition 11.2.1 (分数乘整数)**
 > 
 > 分数乘整数, 用分子乘整数的积作分子, 分母不变. 能约分的可以先约分, 再计算. 如 $\frac{3}{8}\times2=\frac{3\times2}{8}=\frac{3}{4}$.
+
 > **Definition 11.2.2 (一个数乘分数)**
 > 
 > 一个数乘分数, 用分子相乘的积作分子, 用分母相乘的积作分母: $\frac{b}{a}\times\frac{d}{c}=\frac{bd}{ac}$ ($a,c\neq0$). 整数可以看成分母为 $1$ 的分数. 求一个数的几分之几是多少, 用乘法.
+
 > **Definition 11.2.3 (分数混合运算与运算律)**
 > 
 > 分数混合运算的顺序和整数混合运算相同; 整数乘法的交换律, 结合律, 分配律在分数运算中同样适用, 应用运算律有时可使计算简便.
+
 > **Definition 11.2.4 (连续求一个数的几分之几)**
 > 
 > 连续求一个数的几分之几是多少, 用连乘; 也可以先把两个几分之几相乘, 求出占整体的几分之几, 再乘整体.
@@ -123,11 +127,3 @@ By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $\frac{3}{5}
 ### Solution to Exercise 14
 
 By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $\frac{2}{3}\times3\times\frac{1}{7}=\frac{2}{7}$ (commutative); $\frac{8}{9}\times27+\frac{4}{27}\times27=24+4=28$ (distributive); $87\times\frac{3}{86}=\left(86+1\right)\times\frac{3}{86}=3+\frac{3}{86}=3\frac{3}{86}$ (distributive). $\blacksquare$
-
-## Exercise 15
-
-(Lesson: Mixed Fraction-Decimal Operations, Do It Problem 2) A dairy cow averages $\frac{1}{50}\,\text{t}$ of milk per day; how many tons do $42$ cows give in $100$ days?
-
-### Solution to Exercise 15
-
-By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $\frac{1}{50}\times42\times100=84\,\text{t}$. $\blacksquare$

@@ -1,28 +1,20 @@
 # week31
+
 > **Definition 3.8.1 (乘除关系的整理)**
 > 
 > 加数相同的加法用乘法表示更简便, 平均分的过程用除法表示更简便; 乘法和除法互为逆运算, 同一句乘法口诀可以计算两个乘法算式和两个除法算式. 如由"二三得六"算 $2\times3=6$, $3\times2=6$, $6\div2=3$, $6\div3=2$.
+
 > **Definition 3.8.2 (数量关系)**
 > 
 > 已知每份数和份数, 求总数用乘法: 每份数 $\times$ 份数 $=$ 总数; 已知总数和每份数, 求份数用除法; 已知总数和份数, 求每份数也用除法.
+
 > **Definition 3.8.3 (方向与测量的整理)**
 > 
 > 认识了东, 南, 西, 北四个方向, 地图上按上北下南, 左西右东绘制; 长度单位有厘米和米, $1$ 米 $=100$ 厘米; 线段是直的, 可以量出长度; 还认识了拃, 步, 庹等身体尺.
+
 > **Definition 3.8.4 (分类与整理的整理)**
 > 
 > 分类要按照一定的标准进行, 标准不同分得的结果可能不同, 但被分类事物的总数不变; 可以对第一次分类的结果按另一个标准继续分下去.
-> **Definition 4.1.1 (钟面的结构)**
-> 
-> 钟面上有三根指针: 时针, 分针, 秒针, 还有格子和数. 钟面被数平均分成 $12$ 个大格, 每个大格又分成 $5$ 个小格, 钟面上一共有 $60$ 个小格.
-> **Definition 4.1.2 (时,分,秒)**
-> 
-> 时针转 $1$ 大格是 $1$ 时, 分针转 $1$ 小格是 $1$ 分, 秒针转 $1$ 小格是 $1$ 秒. 时, 分, 秒是记录时间的单位.
-> **Definition 4.1.3 (Conversions of Time)**
-> 
-> 时针转 $1$ 圈是 $12$ 时, 分针转 $1$ 圈是 $60$ 分, 秒针转 $1$ 圈是 $60$ 秒. $1$ 时 $=60$ 分, $1$ 分 $=60$ 秒. 生活中把 $30$ 分说成半小时, 把 $30$ 秒说成半分钟.
-> **Definition 4.1.4 (认读几时几分)**
-> 
-> 认读钟面上的时间, 先看时针指过几就是几时多, 再看分针从 $12$ 起转了多少个小格就是几分. 时针指向 $7$, 分针指向 $12$, 是 $7$ 时; 如 $4$ 时 $5$ 分, $4$ 时 $30$ 分 ($4$ 时半), $4$ 时 $45$ 分.
 
 ## Exercise 1
 
@@ -135,11 +127,3 @@ By **Definition 3.8.3 (Reviewing Directions and Measurement)**, arrange the room
 ### Solution to Exercise 14
 
 Honestly color the red flowers against each point of performance, and think about which areas you should work harder on. This is a self-reflection on the whole semester's study; there is no standard answer. $\blacksquare$
-
-## Exercise 15
-
-(Lesson: Where Is Time, Say) Day and night alternate, and a day has passed. Say how Xiaoyun's day is arranged.
-
-### Solution to Exercise 15
-
-Using your own daily routine, say in chronological order the times when Xiaoyun gets up, eats, goes to school, plays, and sleeps; for example get up at $7$ in the morning, arrive at school at $8$, leave school at $4$ in the afternoon, and go to bed at $9$ at night. $\blacksquare$

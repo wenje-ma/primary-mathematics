@@ -1,16 +1,21 @@
 # week50
+
 > **Definition 5.5.1 (口算乘法)**
 > 
 > 整十, 整百数乘一位数, 先把 $0$ 前面的数与一位数相乘, 再在积的末尾添上相应个数的 $0$. 两位数乘一位数, 把两位数分成整十数和一位数, 分别相乘后再相加.
+
 > **Definition 5.5.2 (笔算乘法)**
 > 
 > 多位数乘一位数的竖式: 从个位起, 用一位数依次乘多位数的每一位; 哪一位上乘得的积满几十, 就向前一位进几.
+
 > **Definition 5.5.3 (0 的乘法)**
 > 
 > $0$ 和任何数相乘都得 $0$.
+
 > **Definition 5.5.4 (因数中间或末尾有 0 的乘法)**
 > 
 > 因数中间有 $0$, 这一位也要乘; 因数末尾有 $0$, 可以先乘 $0$ 前面的数, 再在积的末尾添上相同个数的 $0$.
+
 > **Definition 5.5.5 (用估算解决问题)**
 > 
 > 有时只需判断"够不够", 不必精确计算, 可把数往大估或往小估: 把人数往大估, 钱数都够, 实际一定够.
@@ -174,11 +179,3 @@ By **Definition 5.5.3 (Multiplication by 0)**, the multiplication expression end
 ### Solution to Exercise 20
 
 $8\times0=0< 8+0=8$; $14\times6=84> 16\times4=64$; $130\times0=0< 130-0=130$; $54-0=54=54+0$; $400+9=409< 400\times9=3600$; $304\times8=2432> 2400$. $\blacksquare$
-
-## Exercise 21
-
-(Lesson: Practice 10, Problem 3) Write in vertical form: $708\times3$; $607\times5$; $309\times4$; $502\times3$; $109\times7$; $406\times6$.
-
-### Solution to Exercise 21
-
-$708\times3=2124$; $607\times5=3035$; $309\times4=1236$; $502\times3=1506$; $109\times7=763$; $406\times6=2436$. $\blacksquare$

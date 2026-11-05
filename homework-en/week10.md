@@ -1,22 +1,29 @@
 # week10
+
 > **Definition 1.4.4 (Teen Numbers Addition/Subtraction)**
 > 
 > 11-20 各数加上一个一位数, 以及相应的减法, 可以用数的组成来计算.
+
 > **Definition 1.5.1 (凑十法)**
 > 
 > 计算进位加法时, 把一个加数凑成 $10$, 再加剩下的部分. 如 $9+4$, 把 $4$ 分成 $1$ 和 $3$, $9+1=10$, $10+3=13$.
+
 > **Definition 1.5.2 (交换加数位置)**
 > 
 > 交换两个加数的位置, 和不变. 如 $8+5=13$, $5+8=13$, 可以用大数加小数来算.
+
 > **Definition 1.5.3 (用加法解决问题)**
 > 
 > 求总数,求"原来有多少", 把两部分合起来用加法, 如领走的 $6$ 个加剩下的 $5$ 个, $6+5=11$.
+
 > **Definition 1.6.1 (20以内数的认识)**
 > 
 > $0\sim20$ 各数按顺序排列, 后面的数比前面的大; $10$ 个一是 $1$ 个十; 从右边起第一位是个位, 第二位是十位, 有几个十就在十位写几, 有几个一就在个位写几.
+
 > **Definition 1.6.2 (20以内的加,减法)**
 > 
 > 把两部分合起来用加法, 从总数里去掉一部分用减法; 进位加法用凑十法, 把一个加数凑成 $10$ 再算.
+
 > **Definition 1.6.3 (立体图形)**
 > 
 > 长方体,正方体有平平的面; 圆柱可以立起来也可以滚动; 球能向四面八方滚动.
@@ -164,11 +171,3 @@ By **Definition 1.6.2 (Addition and Subtraction Within 20)**: $8+7=15$, $6+9=15$
 ### Solution to Exercise 18
 
 Calculate first, then compare: $5+9=14$, so $=$; $18-10=8$, $9> 8$; $7+8=15< 16$; $10-8=2< 7$; $3+8=11$, $12> 11$; $9+6=15$, so $=$. $\blacksquare$
-
-## Exercise 19
-
-(Lesson: Practice, Problem 6) Calculate: $12\xrightarrow{+4}\square\xrightarrow{-6}\square\xrightarrow{+9}\square\xrightarrow{+5}\square$; $15\xrightarrow{-5}\square\xrightarrow{+6}\square\xrightarrow{-10}\square\xrightarrow{+8}\square\xrightarrow{-3}\square$.
-
-### Solution to Exercise 19
-
-By **Definition 1.6.2 (Addition and Subtraction Within 20)**: $12+4=16$, $16-6=10$, $10+9=19$, $19+5=24$; $15-5=10$, $10+6=16$, $16-10=6$, $6+8=14$, $14-3=11$. $\blacksquare$
