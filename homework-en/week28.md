@@ -86,7 +86,7 @@ By **Definition 3.7.3 (Multiplication Rhymes of 9)**: $9\times1=9$, $9\times2=18
 
 ### Solution to Exercise 8
 
-By the rhymes of **Definition 3.7.1 (7 的乘法口诀)**~**3.7.3**: $9\times7=63$, $3\times7=21$, $8\times7=56$, $6\times6=36$, $5\times8=40$, $9\times8=72$. $\blacksquare$
+By the rhymes of **Definition 3.7.1 (7 的乘法口诀)**~3.7.3: $9\times7=63$, $3\times7=21$, $8\times7=56$, $6\times6=36$, $5\times8=40$, $9\times8=72$. $\blacksquare$
 
 ## Exercise 9
 
@@ -150,4 +150,4 @@ $4\times8=32$ means $8$ copies of $4$ make $32$; $32\div8=4$ means dividing $32$
 
 ### Solution to Exercise 16
 
-By **Definition 3.7.4 (Finding the Quotient with the Rhymes of 7~9)** and **Definition 3.7.1 (7 的乘法口诀)**~**3.7.2**: $7\times3=21$, $21\div7=3$, $21\div3=7$ (three seven twenty-one); $8\times6=48$, $48\div8=6$, $48\div6=8$ (six eight forty-eight); $4\times7=28$, $28\div7=4$, $28\div4=7$ (four seven twenty-eight). $\blacksquare$
+By **Definition 3.7.4 (Finding the Quotient with the Rhymes of 7~9)** and **Definition 3.7.1 (7 的乘法口诀)**~3.7.2: $7\times3=21$, $21\div7=3$, $21\div3=7$ (three seven twenty-one); $8\times6=48$, $48\div8=6$, $48\div6=8$ (six eight forty-eight); $4\times7=28$, $28\div7=4$, $28\div4=7$ (four seven twenty-eight). $\blacksquare$

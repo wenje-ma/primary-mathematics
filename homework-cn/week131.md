@@ -146,7 +146,7 @@ $d=12.56\div3.14=4\,\text{cm}$, $r=2\,\text{cm}$. 半径扩大 $n$ 倍, 直径�
 
 ### 解答 练习十六
 
-由**练习一百七十**, 圆是正方形的 $\frac{\pi}{4}$: 圆面积 $20\times\frac{\pi}{4}=5\pi\approx15.7\,\text{cm}^2$; 涂色 $20-15.7=4.3\,\text{cm}^2$. $\blacksquare$
+由练习一百七十, 圆是正方形的 $\frac{\pi}{4}$: 圆面积 $20\times\frac{\pi}{4}=5\pi\approx15.7\,\text{cm}^2$; 涂色 $20-15.7=4.3\,\text{cm}^2$. $\blacksquare$
 
 ## 练习十七
 
