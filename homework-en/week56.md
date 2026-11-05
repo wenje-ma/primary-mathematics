@@ -34,7 +34,7 @@
 
 > **Definition 5.9.3 (常见的量与图形的整理)**
 > 
-> 长度单位: 毫米, 厘米, 分米, 米, 千米 (相邻进率 $10$, $10$, $10$, $1000$); 质量单位: 克, 千克, 吨 (进率都是 $1000$). 线有线段, 射线, 直线; 角有锐角, 直角, 钝角 (锐角 $< $ 直角 $< $ 钝角). 从不同方向观察物体, 看到的形常常不同.
+> 长度单位: 毫米, 厘米, 分米, 米, 千米 (相邻进率 $10$, $10$, $10$, $1000$); 质量单位: 克, 千克, 吨 (进率都是 $1000$). 线有线段, 射线, 直线; 角有锐角, 直角, 钝角 (锐角 $<$ 直角 $<$ 钝角). 从不同方向观察物体, 看到的形常常不同.
 
 > **Definition 5.9.4 (搭配问题)**
 > 
@@ -70,7 +70,7 @@ Traveled so far: $\frac{5}{10}+\frac{3}{10}=\frac{8}{10}$; remaining: $1-\frac{8
 
 ### Solution to Exercise 4
 
-(1) Flight $900$ kilometers, takeoff mass $72$ tons, fuselage $39$ meters. (2) $1908+690=2598$ kilometers, $2598-2543=55$ kilometers. (3) $164< 200$, $200\times5=1000$; actually $164\times5=820< 1000$, so it cannot. (4) $745\times4\approx2980$ yuan. $\blacksquare$
+(1) Flight $900$ kilometers, takeoff mass $72$ tons, fuselage $39$ meters. (2) $1908+690=2598$ kilometers, $2598-2543=55$ kilometers. (3) $164<200$, $200\times5=1000$; actually $164\times5=820<1000$, so it cannot. (4) $745\times4\approx2980$ yuan. $\blacksquare$
 
 ## Exercise 5
 
@@ -86,7 +86,7 @@ By **Definition 5.7.3 (Right, Acute, Obtuse Angles)**, first count the existing 
 
 ### Solution to Exercise 6
 
-(1) $\frac{1}{9}< \frac{1}{8}< \frac{1}{7}< \frac{1}{6}< \frac{1}{5}< \frac{1}{4}< \frac{1}{3}< \frac{1}{2}$. (2) In $1$ there are $2$ of $\frac{1}{2}$, $3$ of $\frac{1}{3}$, $\cdots$, $9$ of $\frac{1}{9}$. (3) For example, $\frac{1}{2}+\frac{1}{2}=1$, $\frac{1}{3}+\frac{1}{3}+\frac{1}{3}=1$, $\frac{1}{4}+\frac{1}{4}+\frac{1}{4}+\frac{1}{4}=1$. (4) Answers may vary. $\blacksquare$
+(1) $\frac{1}{9}<\frac{1}{8}<\frac{1}{7}<\frac{1}{6}<\frac{1}{5}<\frac{1}{4}<\frac{1}{3}<\frac{1}{2}$. (2) In $1$ there are $2$ of $\frac{1}{2}$, $3$ of $\frac{1}{3}$, $\cdots$, $9$ of $\frac{1}{9}$. (3) For example, $\frac{1}{2}+\frac{1}{2}=1$, $\frac{1}{3}+\frac{1}{3}+\frac{1}{3}=1$, $\frac{1}{4}+\frac{1}{4}+\frac{1}{4}+\frac{1}{4}=1$. (4) Answers may vary. $\blacksquare$
 
 ## Exercise 7
 
@@ -98,7 +98,7 @@ By **Definition 5.9.3 (Review of Common Measures and Figures)**, match according
 
 ## Exercise 8
 
-(Lesson: Practice 19, Problem 1) Fill in the appropriate numbers: $4$ kilometers $=\left(\ \right)$ meters; $70$ centimeters $=\left(\ \right)$ decimeters; $5$ centimeters $=\left(\ \right)$ millimeters; $8000$ kilograms $=\left(\ \right)$ tons.
+(Lesson: Practice 19, Problem 1) Fill in the appropriate numbers: $4$ kilometers $=\left(\,\right)$ meters; $70$ centimeters $=\left(\,\right)$ decimeters; $5$ centimeters $=\left(\,\right)$ millimeters; $8000$ kilograms $=\left(\,\right)$ tons.
 
 ### Solution to Exercise 8
 
@@ -134,7 +134,7 @@ $42\times6=252$; $192\times3=576$; $302\times8=2416$; $1700\times3=5100$. $\blac
 
 ### Solution to Exercise 12
 
-(1) Teacher Li's home is in the middle: school $4000$ meters, supermarket $2500$ meters, bookstore $2000$ meters, so the bookstore to the supermarket is $2500-2000=500$ meters (according to the positions in the figure). (2) $220\times20=4400$ meters $> 4000$ meters, so he can arrive. $\blacksquare$
+(1) Teacher Li's home is in the middle: school $4000$ meters, supermarket $2500$ meters, bookstore $2000$ meters, so the bookstore to the supermarket is $2500-2000=500$ meters (according to the positions in the figure). (2) $220\times20=4400$ meters $>4000$ meters, so he can arrive. $\blacksquare$
 
 ## Exercise 13
 

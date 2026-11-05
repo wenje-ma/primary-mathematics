@@ -66,7 +66,7 @@ By **Definition 7.4.2 (Written Multiplication)**: (1) $124\times32=3968$ t; (2) 
 
 ### Solution to Exercise 5
 
-$108\times52=5616$ yuan, $5616> 5000$, not enough. $\blacksquare$
+$108\times52=5616$ yuan, $5616>5000$, not enough. $\blacksquare$
 
 ## Exercise 6
 
@@ -82,7 +82,7 @@ By **Definition 7.4.2 (Written Multiplication)**: (1) $1$ hour $=3600$ seconds, 
 
 ### Solution to Exercise 7
 
-Compute the total for $15$ units of each: $128\times15=1920$ yuan, leaving $1080$; $198\times15=2970$ yuan, leaving $30$; $108\times15=1620$ yuan, leaving $1380$; $210\times15=3150$ yuan $> 3000$, not allowed. That gives $3$ options. $\blacksquare$
+Compute the total for $15$ units of each: $128\times15=1920$ yuan, leaving $1080$; $198\times15=2970$ yuan, leaving $30$; $108\times15=1620$ yuan, leaving $1380$; $210\times15=3150$ yuan $>3000$, not allowed. That gives $3$ options. $\blacksquare$
 
 ## Exercise 8
 

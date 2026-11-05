@@ -14,19 +14,19 @@
 
 > **Definition 8.3.4 (乘法交换律)**
 > 
-> 两个数相乘, 交换两个因数的位置, 积不变. 用字母表示: $a\times b=b\times a$.
+> 两个数相乘, 交换两个因数的位置, 积不变. 用字母表示: $a\times{b}=b\times{a}$.
 
 > **Definition 8.3.5 (乘法结合律)**
 > 
-> 三个数相乘, 先乘前两个数, 或者先乘后两个数, 积不变. 用字母表示: $\left(a\times b\right)\times c=a\times\left(b\times c\right)$.
+> 三个数相乘, 先乘前两个数, 或者先乘后两个数, 积不变. 用字母表示: $\left(a\times{b}\right)\times{c}=a\times\left(b\times{c}\right)$.
 
 > **Definition 8.3.6 (乘法分配律)**
 > 
-> 两个数的和与一个数相乘, 可以先把它们与这个数分别相乘, 再相加. 用字母表示: $\left(a+b\right)\times c=a\times c+b\times c$, 也可反过来 $a\times c+b\times c=\left(a+b\right)\times c$.
+> 两个数的和与一个数相乘, 可以先把它们与这个数分别相乘, 再相加. 用字母表示: $\left(a+b\right)\times{c}=a\times{c}+b\times{c}$, 也可反过来 $a\times{c}+b\times{c}=\left(a+b\right)\times{c}$.
 
 > **Definition 8.3.7 (除法的运算性质)**
 > 
-> 一个数连续除以两个数, 等于除以这两个除数的积: $a\div b\div c=a\div\left(b\times c\right)$.
+> 一个数连续除以两个数, 等于除以这两个除数的积: $a\div{b}\div{c}=a\div\left(b\times{c}\right)$.
 
 > **Definition 8.3.8 (简便计算)**
 > 
@@ -34,11 +34,11 @@
 
 ## Exercise 1
 
-(Lesson: Operation Laws of Multiplication, Practice 7, Problem 3) Which of the following expressions uses the distributive law of multiplication? $117\times\left(3+7\right)=117\times3+117\times7$; $24\times\left(5+12\right)=24\times17$; $36\times\left(4\times6\right)=36\times6\times4$; $4\times a+a\times5=\left(4+5\right)\times a$.
+(Lesson: Operation Laws of Multiplication, Practice 7, Problem 3) Which of the following expressions uses the distributive law of multiplication? $117\times\left(3+7\right)=117\times3+117\times7$; $24\times\left(5+12\right)=24\times17$; $36\times\left(4\times6\right)=36\times6\times4$; $4\times{a}+a\times5=\left(4+5\right)\times{a}$.
 
 ### Solution to Exercise 1
 
-By **Definition 8.3.6 (Distributive Law of Multiplication)**: $117\times\left(3+7\right)=117\times3+117\times7$ uses the distributive law; $24\times\left(5+12\right)=24\times17$ directly calculates inside the parentheses first; $36\times\left(4\times6\right)=36\times6\times4$ uses the commutative law; $4\times a+a\times5=\left(4+5\right)\times a$ uses the distributive law in reverse. $\blacksquare$
+By **Definition 8.3.6 (Distributive Law of Multiplication)**: $117\times\left(3+7\right)=117\times3+117\times7$ uses the distributive law; $24\times\left(5+12\right)=24\times17$ directly calculates inside the parentheses first; $36\times\left(4\times6\right)=36\times6\times4$ uses the commutative law; $4\times{a}+a\times5=\left(4+5\right)\times{a}$ uses the distributive law in reverse. $\blacksquare$
 
 ## Exercise 2
 
@@ -134,7 +134,7 @@ By **Definition 8.3.7 (Operation Property of Division)**, $350\div14=350\div7\di
 
 ### Solution to Exercise 13
 
-$5$ albums hold $32\times6\times5=32\times30=960$ (photos); since $960> 900$, they are enough. $\blacksquare$
+$5$ albums hold $32\times6\times5=32\times30=960$ (photos); since $960>900$, they are enough. $\blacksquare$
 
 ## Exercise 14
 

@@ -10,7 +10,7 @@
 
 > **Definition 10.5.3 (分数与除法)**
 > 
-> 被除数$\div$除数$=\frac{\text{被除数}}{\text{除数}}$, 即 $a\div b=\frac{a}{b}$ ($b\ne0$). 求一个数是另一个数的几分之几, 用除法.
+> 被除数$\div$除数$=\frac{\text{被除数}}{\text{除数}}$, 即 $a\div{b}=\frac{a}{b}$ ($b\ne0$). 求一个数是另一个数的几分之几, 用除法.
 
 > **Definition 10.5.4 (真分数和假分数)**
 > 
@@ -78,7 +78,7 @@ By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**, the ti
 
 ### Solution to Exercise 4
 
-By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**: same denominators, compare numerators, $\frac{3}{5}< \frac{4}{5}$; same numerators, compare denominators, $\frac{5}{6}> \frac{5}{8}$; common denominator $\frac{3}{4}=\frac{9}{12}$, $\frac{5}{6}=\frac{10}{12}$, so $\frac{3}{4}< \frac{5}{6}$. $\blacksquare$
+By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**: same denominators, compare numerators, $\frac{3}{5}<\frac{4}{5}$; same numerators, compare denominators, $\frac{5}{6}>\frac{5}{8}$; common denominator $\frac{3}{4}=\frac{9}{12}$, $\frac{5}{6}=\frac{10}{12}$, so $\frac{3}{4}<\frac{5}{6}$. $\blacksquare$
 
 ## Exercise 5
 
@@ -86,7 +86,7 @@ By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**: same d
 
 ### Solution to Exercise 5
 
-By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**: $\frac{3}{8}< \frac{5}{8}$; $\frac{7}{9}> \frac{5}{9}$; $\frac{2}{5}> \frac{2}{7}$; common denominator $\frac{11}{12}=\frac{44}{48}$, $\frac{13}{16}=\frac{39}{48}$, so $\frac{11}{12}> \frac{13}{16}$. $\blacksquare$
+By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**: $\frac{3}{8}<\frac{5}{8}$; $\frac{7}{9}>\frac{5}{9}$; $\frac{2}{5}>\frac{2}{7}$; common denominator $\frac{11}{12}=\frac{44}{48}$, $\frac{13}{16}=\frac{39}{48}$, so $\frac{11}{12}>\frac{13}{16}$. $\blacksquare$
 
 ## Exercise 6
 
@@ -102,7 +102,7 @@ By **Definition 10.5.8 (Converting Fractions and Decimals)**: $0.7=\frac{7}{10}$
 
 ### Solution to Exercise 7
 
-By **Definition 10.5.8 (Converting Fractions and Decimals)**, $\frac{5}{6}\approx0.83$, and $0.9> 0.83$, so Aunt Li types faster. $\blacksquare$
+By **Definition 10.5.8 (Converting Fractions and Decimals)**, $\frac{5}{6}\approx0.83$, and $0.9>0.83$, so Aunt Li types faster. $\blacksquare$
 
 ## Exercise 8
 
@@ -174,4 +174,4 @@ By **Definition 10.7.1 (Rotation)**, when a car passes on the right, the arm rot
 
 ### Solution to Exercise 16
 
-By **Definition 10.7.2 (Features of Rotation)**, the center O is fixed; first draw $A'$ with $OA'\perp OA$ and $OA'=OA$; then draw $B'$ with $OB'\perp OB$ and $OB'=OB$; finally join $O,A',B'$ in order to get the rotated triangle. $\blacksquare$
+By **Definition 10.7.2 (Features of Rotation)**, the center O is fixed; first draw $A'$ with $OA'\perp{O}A$ and $OA'=OA$; then draw $B'$ with $OB'\perp{O}B$ and $OB'=OB$; finally join $O,A',B'$ in order to get the rotated triangle. $\blacksquare$

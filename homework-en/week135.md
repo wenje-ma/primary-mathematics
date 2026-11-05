@@ -22,7 +22,7 @@
 
 > **Definition 11.9.1 (鸽巢原理, 抽屉原理)**
 > 
-> 把 $m$ 个物体任意分放进 $n$ 个抽屉 ($m> n$), 那么一定有一个抽屉里至少放了 $\lceil \frac{m}{n}\rceil$ 个物体. 计算方法: $m\div n=q\cdots\cdots r$, 当 $r> 0$ 时至少 $q+1$ 个, 当 $r=0$ 时至少 $q$ 个.
+> 把 $m$ 个物体任意分放进 $n$ 个抽屉 ($m>{}n$), 那么一定有一个抽屉里至少放了 $\lceil\frac{m}{n}\rceil$ 个物体. 计算方法: $m\div{n}=q\cdots\cdots{r}$, 当 $r>0$ 时至少 $q+1$ 个, 当 $r=0$ 时至少 $q$ 个.
 
 ## Exercise 1
 
@@ -86,7 +86,7 @@ Interest $=6000\times2.25\%\times2=270$ yuan; total $6000+270=6270$ yuan. $\blac
 
 ### Solution to Exercise 8
 
-By lever balance, weight and length are inversely proportional, $100\times2500=100\times x$, giving $x=2500\,\text{mm}$ (i.e. the same $100\,\text{g}$ corresponds to $2500\,\text{mm}$). $\blacksquare$
+By lever balance, weight and length are inversely proportional, $100\times2500=100\times{x}$, giving $x=2500\,\text{mm}$ (i.e. the same $100\,\text{g}$ corresponds to $2500\,\text{mm}$). $\blacksquare$
 
 ## Exercise 9
 
@@ -206,4 +206,4 @@ The road is the chord between two adjacent gates; the four gates lie on the circ
 
 ### Solution to Exercise 23
 
-Plan A has total satisfied $600\times60\%+400\times50\%=360+200=560$, i.e. $56\%< 60\%$; B $=330+280=610$, i.e. $61\%$; C $=390+220=610$, i.e. $61\%$. Thus plan A needs to be adjusted. $\blacksquare$
+Plan A has total satisfied $600\times60\%+400\times50\%=360+200=560$, i.e. $56\%<60\%$; B $=330+280=610$, i.e. $61\%$; C $=390+220=610$, i.e. $61\%$. Thus plan A needs to be adjusted. $\blacksquare$

@@ -110,7 +110,7 @@ By **Definition 6.2.6 (Totalization Problem)**, divide the total shown in the di
 
 ### Solution to Exercise 11
 
-(1) $72\div2\div4=9$ (specimens). (2) In $7$ days he can collect $9\times4\times7=252$ (specimens), $252> 224$, so he can finish. $\blacksquare$
+(1) $72\div2\div4=9$ (specimens). (2) In $7$ days he can collect $9\times4\times7=252$ (specimens), $252>224$, so he can finish. $\blacksquare$
 
 ## Exercise 12
 

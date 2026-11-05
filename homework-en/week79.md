@@ -66,7 +66,7 @@
 
 > **Definition 7.9.3 (图形与统计的整理)**
 > 
-> 线: 平行与垂直; 角: 锐角 $< $ 直角 $< $ 钝角 $< $ 平角 $< $ 周角; 四边形: 平行四边形 (两组对边平行), 梯形 (一组对边平行); 数据用条形统计图表示更直观.
+> 线: 平行与垂直; 角: 锐角 $<$ 直角 $<$ 钝角 $<$ 平角 $<$ 周角; 四边形: 平行四边形 (两组对边平行), 梯形 (一组对边平行); 数据用条形统计图表示更直观.
 
 ## Exercise 1
 
@@ -202,7 +202,7 @@ By **Definition 7.1.6 (Rewriting Numbers)**: (1) $2718$ ten thousand vehicles, $
 
 ### Solution to Exercise 17
 
-By **Definition 7.9.1 (Review of Numbers and Operations)**: (1) a ten-digit number, the highest place is the ten-billion place, and $7$ is in the million place representing $7$ millions; (2) $40200< 42000$, $70$ hundred million $> 69$ hundred million, $125\times80=10000> 430\times30=12900$? Actually $10000< 12900$, $43\times300=12900=1250\times40=50000$? $43\times300=12900< 1250\times40=50000$; (3) $50\times12=600$. $\blacksquare$
+By **Definition 7.9.1 (Review of Numbers and Operations)**: (1) a ten-digit number, the highest place is the ten-billion place, and $7$ is in the million place representing $7$ millions; (2) $40200<42000$, $70$ hundred million $>69$ hundred million, $125\times80=10000>430\times30=12900$? Actually $10000<12900$, $43\times300=12900=1250\times40=50000$? $43\times300=12900<1250\times40=50000$; (3) $50\times12=600$. $\blacksquare$
 
 ## Exercise 18
 

@@ -94,7 +94,7 @@ By **Definition 9.2.3 (积的近似数)**, $3.04\times21=63.84\approx64$ m. $\bl
 
 ## Exercise 9
 
-(Lesson: Decimal Multiplication, Practice 2, Extension and Improvement, Problem 1) Based on $65\times39=2535$, fill suitable numbers in the parentheses: $2.535=\left(\ \ \right)\times\left(\ \ \right)$; $25.35=\left(\ \ \right)\times\left(\ \ \right)$; $253.5=\left(\ \ \right)\times\left(\ \ \right)$; $0.2535=\left(\ \ \right)\times\left(\ \ \right)$.
+(Lesson: Decimal Multiplication, Practice 2, Extension and Improvement, Problem 1) Based on $65\times39=2535$, fill suitable numbers in the parentheses: $2.535=\left(\,\,\right)\times\left(\,\,\right)$; $25.35=\left(\,\,\right)\times\left(\,\,\right)$; $253.5=\left(\,\,\right)\times\left(\,\,\right)$; $0.2535=\left(\,\,\right)\times\left(\,\,\right)$.
 
 ### Solution to Exercise 9
 
@@ -126,11 +126,11 @@ By **Definition 9.2.4 (倍数是小数)**: $3.2\times0.8=2.56$ yuan; $3.2\times0
 
 ## Exercise 13
 
-(Lesson: Multiples That Are Decimals, Try It, Problem 2) Fill the $\bigcirc$ with $> $, $< $ or $=$: $756\times0.9\bigcirc756$; $1\times0.94\bigcirc1$; $4.25\times1.1\bigcirc4.25$; $31.4\times1.2\bigcirc31.4$.
+(Lesson: Multiples That Are Decimals, Try It, Problem 2) Fill the $\bigcirc$ with $>$, $<$ or $=$: $756\times0.9\bigcirc756$; $1\times0.94\bigcirc1$; $4.25\times1.1\bigcirc4.25$; $31.4\times1.2\bigcirc31.4$.
 
 ### Solution to Exercise 13
 
-By **Definition 9.2.4 (倍数是小数)**, multiplying by a number less than $1$ shrinks the product and by a number greater than $1$ enlarges it: $756\times0.9< 756$; $1\times0.94< 1$; $4.25\times1.1> 4.25$; $31.4\times1.2> 31.4$. $\blacksquare$
+By **Definition 9.2.4 (倍数是小数)**, multiplying by a number less than $1$ shrinks the product and by a number greater than $1$ enlarges it: $756\times0.9<756$; $1\times0.94<1$; $4.25\times1.1>4.25$; $31.4\times1.2>31.4$. $\blacksquare$
 
 ## Exercise 14
 

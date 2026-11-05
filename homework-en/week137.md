@@ -2,7 +2,7 @@
 
 > **Definition 11.9.1 (鸽巢原理, 抽屉原理)**
 > 
-> 把 $m$ 个物体任意分放进 $n$ 个抽屉 ($m> n$), 那么一定有一个抽屉里至少放了 $\lceil \frac{m}{n}\rceil$ 个物体. 计算方法: $m\div n=q\cdots\cdots r$, 当 $r> 0$ 时至少 $q+1$ 个, 当 $r=0$ 时至少 $q$ 个.
+> 把 $m$ 个物体任意分放进 $n$ 个抽屉 ($m>{}n$), 那么一定有一个抽屉里至少放了 $\lceil\frac{m}{n}\rceil$ 个物体. 计算方法: $m\div{n}=q\cdots\cdots{r}$, 当 $r>0$ 时至少 $q+1$ 个, 当 $r=0$ 时至少 $q$ 个.
 
 > **Definition 12.1.1 (Positive and Negative Numbers)**
 > 
@@ -110,11 +110,11 @@ By **Definition 12.1.1 (Positive and Negative Numbers)**, values above the stand
 
 ## Exercise 10
 
-(Lesson: Exercise 1, Problem 5) The number line is marked with scales $-8, -6, -2, 0, 2, 4, 8$, and the points $A, B, C, D, E$ lie between the corresponding scales. Write the numbers represented by the points $A, B, C, D, E$.
+(Lesson: Exercise 1, Problem 5) The number line is marked with scales $-8,-6,-2,0,2,4,8$, and the points $A,B,C,D,E$ lie between the corresponding scales. Write the numbers represented by the points $A,B,C,D,E$.
 
 ### Solution to Exercise 10
 
-By **Definition 12.1.3 (Representing Positive and Negative Numbers on the Number Line)**, numbers to the right of $0$ are positive and those to the left are negative; simply read off the value at each point's scale position (in the figure, point $A$ lies near $-8$; read off the numbers corresponding to $B, C, D, E$ in order toward the positive direction). $\blacksquare$
+By **Definition 12.1.3 (Representing Positive and Negative Numbers on the Number Line)**, numbers to the right of $0$ are positive and those to the left are negative; simply read off the value at each point's scale position (in the figure, point $A$ lies near $-8$; read off the numbers corresponding to $B,C,D,E$ in order toward the positive direction). $\blacksquare$
 
 ## Exercise 11
 
@@ -123,7 +123,7 @@ By **Definition 12.1.3 (Representing Positive and Negative Numbers on the Number
 ### Solution to Exercise 11
 
 By **Definition 12.1.1 (Positive and Negative Numbers)**, income is recorded as positive and expenditure as negative: parents' salary $+9500$; Spring Festival gift to the elderly $-2000$; New Year gifts to Xiaoming and his sister $-200$; utilities and other expenses $-400$; buying food $-800$; buying new clothes $-1000$. The balance is
-$$9500-2000-200-400-800-1000=5100\text{ \left(元\right)}.$$
+$$9500-2000-200-400-800-1000=5100\text{~\left(元\right)}.$$
 $\blacksquare$
 
 ## Exercise 12

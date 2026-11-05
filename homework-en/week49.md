@@ -62,7 +62,7 @@ $21\times2+5=42+5=47$. $\blacksquare$
 
 ## Exercise 6
 
-(Lesson: Practice 8, Problem 12) Fill in: $432=\left(\ \right)\times100+\left(\ \right)\times10+\left(\ \right)\times1$; $1597=\left(\ \right)\times1000+\left(\ \right)\times100+\left(\ \right)\times10+\left(\ \right)\times1$.
+(Lesson: Practice 8, Problem 12) Fill in: $432=\left(\,\right)\times100+\left(\,\right)\times10+\left(\,\right)\times1$; $1597=\left(\,\right)\times1000+\left(\,\right)\times100+\left(\,\right)\times10+\left(\,\right)\times1$.
 
 ### Solution to Exercise 6
 
@@ -122,7 +122,7 @@ $39\times2=78$; $41\times8=328$; $52\times4=208$; $27\times4=108$; $612\times7=4
 
 ### Solution to Exercise 13
 
-$24\times9=216$ bottles. Estimate: $20< 24< 30$, $180< 24\times9< 270$, so the result is reasonable. $\blacksquare$
+$24\times9=216$ bottles. Estimate: $20<24<30$, $180<24\times9<270$, so the result is reasonable. $\blacksquare$
 
 ## Exercise 14
 

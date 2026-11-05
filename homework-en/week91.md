@@ -142,7 +142,7 @@ By **Definition 8.5.5 (Classification by Angles)** and **Definition 8.5.6 (Isosc
 
 ### Solution to Exercise 9
 
-By **Definition 8.5.4 (Relationship Among the Three Sides of a Triangle)**, it works when the sum of the two shorter sides is greater than the third side: (1) $6+7> 8$, yes; (2) $3+3=6$, no; (3) $3+3> 3$, yes; (4) $2+2< 6$, no; (5) $3+3> 5$, yes. $\blacksquare$
+By **Definition 8.5.4 (Relationship Among the Three Sides of a Triangle)**, it works when the sum of the two shorter sides is greater than the third side: (1) $6+7>8$, yes; (2) $3+3=6$, no; (3) $3+3>3$, yes; (4) $2+2<6$, no; (5) $3+3>5$, yes. $\blacksquare$
 
 ## Exercise 10
 

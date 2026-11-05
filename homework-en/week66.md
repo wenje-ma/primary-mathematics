@@ -90,7 +90,7 @@ By **Definition 6.6.1 (年,月,日)** and knowledge of the twenty-four solar ter
 
 ## Exercise 9
 
-(Lesson: Understanding Decimals — Do It, Problem 1) Look at the picture and fill in the blanks: $1$ centimeter is $\left(\ \ \right)$ centimeters, $0.1$ decimeter is $\left(\ \ \right)$ decimeters, and so on; express the graduations with decimals.
+(Lesson: Understanding Decimals — Do It, Problem 1) Look at the picture and fill in the blanks: $1$ centimeter is $\left(\,\,\right)$ centimeters, $0.1$ decimeter is $\left(\,\,\right)$ decimeters, and so on; express the graduations with decimals.
 
 ### Solution to Exercise 9
 
@@ -118,7 +118,7 @@ By **Definition 6.7.1 (Decimals)**, split $1$ meter evenly into $10$ parts, each
 
 ### Solution to Exercise 12
 
-By **Definition 6.7.2 (Comparing Decimals)**: $0.4< 0.6$; $2.5> 1.8$. $\blacksquare$
+By **Definition 6.7.2 (Comparing Decimals)**: $0.4<0.6$; $2.5>1.8$. $\blacksquare$
 
 ## Exercise 13
 
@@ -126,7 +126,7 @@ By **Definition 6.7.2 (Comparing Decimals)**: $0.4< 0.6$; $2.5> 1.8$. $\blacksqu
 
 ### Solution to Exercise 13
 
-By **Definition 6.7.3 (简单的小数加,减法)**, (1) $13.2-1.5=11.7$ (yuan). (2) $15.8+3.8=19.6$ (yuan), $19.6< 20$, enough. $\blacksquare$
+By **Definition 6.7.3 (简单的小数加,减法)**, (1) $13.2-1.5=11.7$ (yuan). (2) $15.8+3.8=19.6$ (yuan), $19.6<20$, enough. $\blacksquare$
 
 ## Exercise 14
 
@@ -150,7 +150,7 @@ By **Definition 6.7.1 (Decimals)**, write the yuan in the integer part, the jiao
 
 ### Solution to Exercise 16
 
-By **Definition 6.7.2 (小数的大小比较)**: $0.6< 0.9$; $10> 9.9$; $0.27$ m $=\frac{27}{100}$ m; $3.8< 4.5$; $1.15< 1.51$; $2$ dm $=0.2$ m $< \frac{7}{10}=0.7$ m. $\blacksquare$
+By **Definition 6.7.2 (小数的大小比较)**: $0.6<0.9$; $10>9.9$; $0.27$ m $=\frac{27}{100}$ m; $3.8<4.5$; $1.15<1.51$; $2$ dm $=0.2$ m $<\frac{7}{10}=0.7$ m. $\blacksquare$
 
 ## Exercise 17
 
@@ -158,7 +158,7 @@ By **Definition 6.7.2 (小数的大小比较)**: $0.6< 0.9$; $10> 9.9$; $0.27$ m
 
 ### Solution to Exercise 17
 
-(1) $16.7< 18$, not overloaded. (2) $16.7-6.8=9.9$ (tons). $\blacksquare$
+(1) $16.7<18$, not overloaded. (2) $16.7-6.8=9.9$ (tons). $\blacksquare$
 
 ## Exercise 18
 

@@ -26,7 +26,7 @@
 
 > **定义 9.5.4 (等式的性质)**
 > 
-> 如果 $a=b$, 那么 $a+c=b+c$, $a-c=b-c$, $ac=bc$, $a\div c=b\div c$ ($c\neq0$). 利用等式的性质可以求出等式中的未知数.
+> 如果 $a=b$, 那么 $a+c=b+c$, $a-c=b-c$, $ac=bc$, $a\div{c}=b\div{c}$ ($c\neq0$). 利用等式的性质可以求出等式中的未知数.
 
 > **定义 9.5.5 (用字母表示数量关系并代入求值)**
 > 
@@ -182,7 +182,7 @@
 
 ### 解答 练习十九
 
-$c=at$, $t=c\div a=900\div45=20$ 分. $\blacksquare$
+$c=at$, $t=c\div{a}=900\div45=20$ 分. $\blacksquare$
 
 ## 练习二十
 
@@ -194,11 +194,11 @@ $c=at$, $t=c\div a=900\div45=20$ 分. $\blacksquare$
 
 ## 练习二十一
 
-(课时 用字母表示数 练习十一 复习巩固 第 2 题) 省略乘号写出各式: $b\times8$; $x\times x$; $b\times1$; $20\times a$.
+(课时 用字母表示数 练习十一 复习巩固 第 2 题) 省略乘号写出各式: $b\times8$; $x\times{x}$; $b\times1$; $20\times{a}$.
 
 ### 解答 练习二十一
 
-由**定义 9.5.2 (含有字母式子的书写)**: $b\times8=8b$; $x\times x=x^2$; $b\times1=b$; $20\times a=20a$. $\blacksquare$
+由**定义 9.5.2 (含有字母式子的书写)**: $b\times8=8b$; $x\times{x}=x^2$; $b\times1=b$; $20\times{a}=20a$. $\blacksquare$
 
 ## 练习二十二
 

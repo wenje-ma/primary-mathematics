@@ -26,7 +26,7 @@
 
 > **Definition 12.7.1 (鸽巢原理)**
 > 
-> 把多于 $n$ 个物体放进 $n$ 个抽屉, 总有一个抽屉里至少放进 $2$ 个物体. 把多于 $kn$ 个物体放进 $n$ 个抽屉, 总有一个抽屉至少放进 $k+1$ 个物体. 计算方法: 用物体数除以抽屉数, 若得商 $k$ 余 $r$ ($r> 0$), 则总有一个抽屉至少有 $k+1$ 个物体.
+> 把多于 $n$ 个物体放进 $n$ 个抽屉, 总有一个抽屉里至少放进 $2$ 个物体. 把多于 $kn$ 个物体放进 $n$ 个抽屉, 总有一个抽屉至少放进 $k+1$ 个物体. 计算方法: 用物体数除以抽屉数, 若得商 $k$ 余 $r$ ($r>0$), 则总有一个抽屉至少有 $k+1$ 个物体.
 
 > **Definition 12.8.1 (数的分类与意义)**
 > 
@@ -42,7 +42,7 @@
 
 > **Definition 12.8.4 (常见图形周长面积体积公式)**
 > 
-> 长方形 $C=2\left(a+b\right), S=ab$; 正方形 $C=4a, S=a^{2}$; 平行四边形 $S=ah$; 三角形 $S=\frac{1}{2}ah$; 梯形 $S=\frac{1}{2}\left(a+b\right)h$; 圆 $C=2\pi r, S=\pi r^{2}$; 长方体 $V=abh$; 正方体 $V=a^{3}$; 圆柱 $V=Sh$; 圆锥 $V=\frac{1}{3}Sh$.
+> 长方形 $C=2\left(a+b\right),S=ab$; 正方形 $C=4a,S=a^{2}$; 平行四边形 $S=ah$; 三角形 $S=\frac{1}{2}ah$; 梯形 $S=\frac{1}{2}\left(a+b\right)h$; 圆 $C=2\pi{r},S=\pi{r}^{2}$; 长方体 $V=abh$; 正方体 $V=a^{3}$; 圆柱 $V=Sh$; 圆锥 $V=\frac{1}{3}Sh$.
 
 ## Exercise 1
 
@@ -50,11 +50,11 @@
 
 ### Solution to Exercise 1
 
-By **Definition 12.6.1 (Mathematics in a Bicycle)**, the rear sprocket (rear wheel) makes $=\frac{48}{16}=3$ revolutions. The wheel circumference $=\pi d=3.14\times60=188.4\,\mathrm{cm}$. One pedal revolution travels $3\times188.4=565.2\,\mathrm{cm}\approx5.65\,\mathrm{m}$. $\blacksquare$
+By **Definition 12.6.1 (Mathematics in a Bicycle)**, the rear sprocket (rear wheel) makes $=\frac{48}{16}=3$ revolutions. The wheel circumference $=\pi{d}=3.14\times60=188.4\,\mathrm{cm}$. One pedal revolution travels $3\times188.4=565.2\,\mathrm{cm}\approx5.65\,\mathrm{m}$. $\blacksquare$
 
 ## Exercise 2
 
-(Lesson: Activity 2) A geared bicycle has front chainrings of $48$ and $40$ teeth and rear sprockets of $28, 24, 20, 18, 16, 14$ teeth. (1) How many different tooth ratios can be combined? (2) With the same number of pedal revolutions, which combination makes the bicycle travel farthest?
+(Lesson: Activity 2) A geared bicycle has front chainrings of $48$ and $40$ teeth and rear sprockets of $28,24,20,18,16,14$ teeth. (1) How many different tooth ratios can be combined? (2) With the same number of pedal revolutions, which combination makes the bicycle travel farthest?
 
 ### Solution to Exercise 2
 
@@ -158,7 +158,7 @@ Natural numbers fall into two classes by parity: odd and even, treated as $2$ dr
 
 ## Exercise 15
 
-(Lesson: Exercise 14, Problem 1) Fill in the blanks. (1) The highest temperature $49.7\,^{\circ}\mathrm{C}$ is recorded as $\_\_$, and the lowest temperature, $52.3\,^{\circ}\mathrm{C}$ below zero, is recorded as $\_\_$. (2) If $a\div b=c$ ($a,b,c$ are integers, $b\neq0$), then the greatest common factor of $a$ and $b$ is $\_\_$, and the least common multiple is $\_\_$. (3) A commodity is sold at 30% off; "30% off" means the current price is $\_\_\%$ of the original price, and on a $100$-yuan original price you pay $\_\_$ yuan less.
+(Lesson: Exercise 14, Problem 1) Fill in the blanks. (1) The highest temperature $49.7\,^{\circ}\mathrm{C}$ is recorded as $\_\_$, and the lowest temperature, $52.3\,^{\circ}\mathrm{C}$ below zero, is recorded as $\_\_$. (2) If $a\div{b}=c$ ($a,b,c$ are integers, $b\neq0$), then the greatest common factor of $a$ and $b$ is $\_\_$, and the least common multiple is $\_\_$. (3) A commodity is sold at 30% off; "30% off" means the current price is $\_\_\%$ of the original price, and on a $100$-yuan original price you pay $\_\_$ yuan less.
 
 ### Solution to Exercise 15
 
@@ -166,11 +166,11 @@ By **Definition 12.1.1 (Positive and Negative Numbers)**, **Definition 12.8.1 (C
 
 ## Exercise 16
 
-(Lesson: Exercise 14, Problem 4) Using the digits $2, 3, 4, 5$, how many two-digit numbers with no repeated digits can be formed? Among these two-digit numbers, which are odd and which are even? Which are multiples of $2, 3, 5$?
+(Lesson: Exercise 14, Problem 4) Using the digits $2,3,4,5$, how many two-digit numbers with no repeated digits can be formed? Among these two-digit numbers, which are odd and which are even? Which are multiples of $2,3,5$?
 
 ### Solution to Exercise 16
 
-The tens digit has $4$ choices and the units digit has $3$ left, giving $4\times3=12$ two-digit numbers. The odd ones end in $3$ or $5$: $23, 43, 53, 25, 35, 45$; the even ones end in $2$ or $4$: $32, 42, 52, 24, 34, 54$. The multiples of $2$ are the even ones above; the multiples of $3$, whose digit sum is a multiple of $3$, are $24, 42, 45, 54$; the multiples of $5$, ending in $0$ or $5$, are $25, 35, 45$. $\blacksquare$
+The tens digit has $4$ choices and the units digit has $3$ left, giving $4\times3=12$ two-digit numbers. The odd ones end in $3$ or $5$: $23,43,53,25,35,45$; the even ones end in $2$ or $4$: $32,42,52,24,34,54$. The multiples of $2$ are the even ones above; the multiples of $3$, whose digit sum is a multiple of $3$, are $24,42,45,54$; the multiples of $5$, ending in $0$ or $5$, are $25,35,45$. $\blacksquare$
 
 ## Exercise 17
 

@@ -154,7 +154,7 @@ $106\times4=424$; $205\times3=615$; $207\times8=1656$; $408\times5=2040$; $420\t
 
 ### Solution to Exercise 17
 
-By **Definition 5.5.5 (Solving Problems by Estimation)**, take $987$ as $1000$; since $987< 1000$, $1000\times8=8000$, so $987\times8< 8000$. $8000$ yuan is enough. $\blacksquare$
+By **Definition 5.5.5 (Solving Problems by Estimation)**, take $987$ as $1000$; since $987<1000$, $1000\times8=8000$, so $987\times8<8000$. $8000$ yuan is enough. $\blacksquare$
 
 ## Exercise 18
 
@@ -162,7 +162,7 @@ By **Definition 5.5.5 (Solving Problems by Estimation)**, take $987$ as $1000$; 
 
 ### Solution to Exercise 18
 
-Take $218$ as $200$; $200\times5=1000$. Actually $218> 200$, so $218\times5> 1000$, and $218\times5=1090$ yuan. $1000$ yuan is not enough. $\blacksquare$
+Take $218$ as $200$; $200\times5=1000$. Actually $218>200$, so $218\times5>1000$, and $218\times5=1090$ yuan. $1000$ yuan is not enough. $\blacksquare$
 
 ## Exercise 19
 
@@ -174,8 +174,8 @@ By **Definition 5.5.3 (Multiplication by 0)**, the multiplication expression end
 
 ## Exercise 20
 
-(Lesson: Practice 10, Problem 2) Fill in "$> $", "$< $" or "$=$": $8\times0\bigcirc8+0$; $14\times6\bigcirc16\times4$; $130\times0\bigcirc130-0$; $54-0\bigcirc54+0$; $400+9\bigcirc400\times9$; $304\times8\bigcirc2400$.
+(Lesson: Practice 10, Problem 2) Fill in "$>$", "$<$" or "$=$": $8\times0\bigcirc8+0$; $14\times6\bigcirc16\times4$; $130\times0\bigcirc130-0$; $54-0\bigcirc54+0$; $400+9\bigcirc400\times9$; $304\times8\bigcirc2400$.
 
 ### Solution to Exercise 20
 
-$8\times0=0< 8+0=8$; $14\times6=84> 16\times4=64$; $130\times0=0< 130-0=130$; $54-0=54=54+0$; $400+9=409< 400\times9=3600$; $304\times8=2432> 2400$. $\blacksquare$
+$8\times0=0<8+0=8$; $14\times6=84>16\times4=64$; $130\times0=0<130-0=130$; $54-0=54=54+0$; $400+9=409<400\times9=3600$; $304\times8=2432>2400$. $\blacksquare$

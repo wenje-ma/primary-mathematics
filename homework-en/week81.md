@@ -70,7 +70,7 @@ By **Definition 8.1.4 (Meaning of Division and the Relationships Among Its Parts
 
 ### Solution to Exercise 5
 
-By **Definition 8.1.3 (Multiplication)** and **Definition 8.1.4 (Division)**, which are inverse operations: $17\times42=714 \to 714\div17=42,\ 714\div42=17$; $208\times67=13936 \to 13936\div208=67,\ 13936\div67=208$; $1008\div48=21 \to 1008\div21=48,\ 21\times48=1008$; $1125\div25=45 \to 1125\div45=25,\ 45\times25=1125$. $\blacksquare$
+By **Definition 8.1.3 (Multiplication)** and **Definition 8.1.4 (Division)**, which are inverse operations: $17\times42=714\to714\div17=42,\,714\div42=17$; $208\times67=13936\to13936\div208=67,\,13936\div67=208$; $1008\div48=21\to1008\div21=48,\,21\times48=1008$; $1125\div25=45\to1125\div45=25,\,45\times25=1125$. $\blacksquare$
 
 ## Exercise 6
 

@@ -14,11 +14,11 @@
 
 > **Definition 11.5.4 (圆的周长)**
 > 
-> 围成圆的曲线的长叫圆的周长, $C=\pi d=2\pi r$.
+> 围成圆的曲线的长叫圆的周长, $C=\pi{d}=2\pi{r}$.
 
 > **Definition 11.5.5 (圆的面积)**
 > 
-> 圆所占平面的大小叫圆的面积. 把圆等分拼成近似长方形, 长为 $\pi r$, 宽为 $r$, 故 $S=\pi r^2$.
+> 圆所占平面的大小叫圆的面积. 把圆等分拼成近似长方形, 长为 $\pi{r}$, 宽为 $r$, 故 $S=\pi{r}^2$.
 
 ## Exercise 1
 
@@ -86,11 +86,11 @@ Rope length $=$ one full circumference $+$ some diameters. As circles increase, 
 
 ## Exercise 9
 
-(Lesson: Area of a Circle, Example 5) A circle of radius $10\,\text{cm}$. First estimate area by counting squares, then cut into equal sectors and rearrange into an approximate rectangle of length $\pi r$, width $r$. What is the area formula?
+(Lesson: Area of a Circle, Example 5) A circle of radius $10\,\text{cm}$. First estimate area by counting squares, then cut into equal sectors and rearrange into an approximate rectangle of length $\pi{r}$, width $r$. What is the area formula?
 
 ### Solution to Exercise 9
 
-By **Definition 11.5.5 (Area of a Circle)**, rectangle area $=$ length $\times$ width $=\pi r\times r=\pi r^2$, so $S=\pi r^2$. The more sectors, the closer to a rectangle. $\blacksquare$
+By **Definition 11.5.5 (Area of a Circle)**, rectangle area $=$ length $\times$ width $=\pi{r}\times{r}=\pi{r}^2$, so $S=\pi{r}^2$. The more sectors, the closer to a rectangle. $\blacksquare$
 
 ## Exercise 10
 
@@ -138,7 +138,7 @@ Annulus area $=$ outer $-$ inner $=3.14\times\left(\frac{26.3}{2}\right)^2-3.14\
 
 ### Solution to Exercise 15
 
-\"Square-outside circle-inside\": square side $=d=2a$, area $4a^2$, circle area $\pi a^2$, circle is $\frac{\pi}{4}$ of the square. \"Circle-outside square-inside\": view the square as two triangles, area $2a^2$, circle is $\frac{\pi}{2}$ of it. Overlaying, the large square is $2$ times the small. $\blacksquare$
+\"Square-outside circle-inside\": square side $=d=2a$, area $4a^2$, circle area $\pi{a}^2$, circle is $\frac{\pi}{4}$ of the square. \"Circle-outside square-inside\": view the square as two triangles, area $2a^2$, circle is $\frac{\pi}{2}$ of it. Overlaying, the large square is $2$ times the small. $\blacksquare$
 
 ## Exercise 16
 

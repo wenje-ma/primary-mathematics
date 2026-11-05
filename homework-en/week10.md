@@ -166,8 +166,8 @@ By **Definition 1.6.2 (Addition and Subtraction Within 20)**: $8+7=15$, $6+9=15$
 
 ## Exercise 18
 
-(Lesson: Practice, Problem 5) Fill "$> $" "$< $" or "$=$" in $\bigcirc$: $5+9\bigcirc14$; $9\bigcirc18-10$; $7+8\bigcirc16$; $10-8\bigcirc7$; $12\bigcirc3+8$; $9+6\bigcirc15$.
+(Lesson: Practice, Problem 5) Fill "$>$" "$<$" or "$=$" in $\bigcirc$: $5+9\bigcirc14$; $9\bigcirc18-10$; $7+8\bigcirc16$; $10-8\bigcirc7$; $12\bigcirc3+8$; $9+6\bigcirc15$.
 
 ### Solution to Exercise 18
 
-Calculate first, then compare: $5+9=14$, so $=$; $18-10=8$, $9> 8$; $7+8=15< 16$; $10-8=2< 7$; $3+8=11$, $12> 11$; $9+6=15$, so $=$. $\blacksquare$
+Calculate first, then compare: $5+9=14$, so $=$; $18-10=8$, $9>8$; $7+8=15<16$; $10-8=2<7$; $3+8=11$, $12>11$; $9+6=15$, so $=$. $\blacksquare$

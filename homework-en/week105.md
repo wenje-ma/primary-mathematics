@@ -14,7 +14,7 @@
 
 > **Definition 9.5.4 (等式的性质)**
 > 
-> 如果 $a=b$, 那么 $a+c=b+c$, $a-c=b-c$, $ac=bc$, $a\div c=b\div c$ ($c\neq0$). 利用等式的性质可以求出等式中的未知数.
+> 如果 $a=b$, 那么 $a+c=b+c$, $a-c=b-c$, $ac=bc$, $a\div{c}=b\div{c}$ ($c\neq0$). 利用等式的性质可以求出等式中的未知数.
 
 > **Definition 9.5.5 (用字母表示数量关系并代入求值)**
 > 
@@ -34,15 +34,15 @@ By **Definition 9.5.1 (用字母表示数)**: (1) $\left(a+3\right)$ cm. (2) $0.
 
 ### Solution to Exercise 2
 
-$c=an$, $a=c\div n$, $n=c\div a$. A set of table and chairs $\left(120+m\right)$ yuan. When $m=80$, $120+80=200$ yuan. $\blacksquare$
+$c=an$, $a=c\div{n}$, $n=c\div{a}$. A set of table and chairs $\left(120+m\right)$ yuan. When $m=80$, $120+80=200$ yuan. $\blacksquare$
 
 ## Exercise 3
 
-(Lesson: Using Letters to Stand for Numbers, Practice 11, Integrated Use, Problem 3) Fill by the operation laws: $a+\left(2+c\right)=\left(\_\_+\_\_\right)+\_\_$; $a\cdot b\cdot4=\_\_\cdot\left(\_\_\cdot\_\_\right)$; $3x+5x=\left(\_\_+\_\_\right)\cdot\_\_$; $4\left(x+3\right)=\_\_\cdot\_\_+\_\_\cdot\_\_$.
+(Lesson: Using Letters to Stand for Numbers, Practice 11, Integrated Use, Problem 3) Fill by the operation laws: $a+\left(2+c\right)=\left(\_\_+\_\_\right)+\_\_$; $a\cdot{b}\cdot4=\_\_\cdot\left(\_\_\cdot\_\_\right)$; $3x+5x=\left(\_\_+\_\_\right)\cdot\_\_$; $4\left(x+3\right)=\_\_\cdot\_\_+\_\_\cdot\_\_$.
 
 ### Solution to Exercise 3
 
-By **Definition 9.5.3 (用字母表示运算律和公式)**: $a+\left(2+c\right)=\left(a+2\right)+c$; $a\cdot b\cdot4=a\cdot\left(b\cdot4\right)$; $3x+5x=\left(3+5\right)\cdot x=8x$; $4\left(x+3\right)=4\cdot x+4\cdot3=4x+12$. $\blacksquare$
+By **Definition 9.5.3 (用字母表示运算律和公式)**: $a+\left(2+c\right)=\left(a+2\right)+c$; $a\cdot{b}\cdot4=a\cdot\left(b\cdot4\right)$; $3x+5x=\left(3+5\right)\cdot{x}=8x$; $4\left(x+3\right)=4\cdot{x}+4\cdot3=4x+12$. $\blacksquare$
 
 ## Exercise 4
 
@@ -142,7 +142,7 @@ By **Definition 9.5.1 (用字母表示数)**: (1) $\left(a+8\right)^\circ$C. (2)
 
 ## Exercise 16
 
-(Lesson: Using Letters to Stand for Numbers, Practice 13, Review and Consolidation, Problem 2) If $a=b$, fill by the equation properties: $a+3=b+\left(\ \ \right)$; $a-\left(\ \ \right)=b-9$; $a\times1.5=b\times\left(\ \ \right)$; $a-\left(\ \ \right)=b-c$.
+(Lesson: Using Letters to Stand for Numbers, Practice 13, Review and Consolidation, Problem 2) If $a=b$, fill by the equation properties: $a+3=b+\left(\,\,\right)$; $a-\left(\,\,\right)=b-9$; $a\times1.5=b\times\left(\,\,\right)$; $a-\left(\,\,\right)=b-c$.
 
 ### Solution to Exercise 16
 

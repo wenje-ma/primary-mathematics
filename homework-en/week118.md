@@ -118,7 +118,7 @@ By **Definition 10.8.3 (Mixed Addition and Subtraction of Fractions)**, use comm
 
 ### Solution to Exercise 12
 
-By **Definition 10.9.1 (Doubling Notification)**, the total notified in the $n$-th minute is $2^n-1$: (1) $2^4-1=15$, so 4 minutes to notify 15 members; (2) $2^5-1=31$, so at most 31 in 5 minutes; (3) $2^5-1=31< 50$, $2^6-1=63> 50$, so at least 6 minutes. $\blacksquare$
+By **Definition 10.9.1 (Doubling Notification)**, the total notified in the $n$-th minute is $2^n-1$: (1) $2^4-1=15$, so 4 minutes to notify 15 members; (2) $2^5-1=31$, so at most 31 in 5 minutes; (3) $2^5-1=31<50$, $2^6-1=63>50$, so at least 6 minutes. $\blacksquare$
 
 ## Exercise 13
 

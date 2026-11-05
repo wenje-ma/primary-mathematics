@@ -14,19 +14,19 @@
 
 > **定义 8.3.4 (乘法交换律)**
 > 
-> 两个数相乘, 交换两个因数的位置, 积不变. 用字母表示: $a\times b=b\times a$.
+> 两个数相乘, 交换两个因数的位置, 积不变. 用字母表示: $a\times{b}=b\times{a}$.
 
 > **定义 8.3.5 (乘法结合律)**
 > 
-> 三个数相乘, 先乘前两个数, 或者先乘后两个数, 积不变. 用字母表示: $\left(a\times b\right)\times c=a\times\left(b\times c\right)$.
+> 三个数相乘, 先乘前两个数, 或者先乘后两个数, 积不变. 用字母表示: $\left(a\times{b}\right)\times{c}=a\times\left(b\times{c}\right)$.
 
 > **定义 8.3.6 (乘法分配律)**
 > 
-> 两个数的和与一个数相乘, 可以先把它们与这个数分别相乘, 再相加. 用字母表示: $\left(a+b\right)\times c=a\times c+b\times c$, 也可反过来 $a\times c+b\times c=\left(a+b\right)\times c$.
+> 两个数的和与一个数相乘, 可以先把它们与这个数分别相乘, 再相加. 用字母表示: $\left(a+b\right)\times{c}=a\times{c}+b\times{c}$, 也可反过来 $a\times{c}+b\times{c}=\left(a+b\right)\times{c}$.
 
 > **定义 8.3.7 (除法的运算性质)**
 > 
-> 一个数连续除以两个数, 等于除以这两个除数的积: $a\div b\div c=a\div\left(b\times c\right)$.
+> 一个数连续除以两个数, 等于除以这两个除数的积: $a\div{b}\div{c}=a\div\left(b\times{c}\right)$.
 
 > **定义 8.3.8 (简便计算)**
 > 

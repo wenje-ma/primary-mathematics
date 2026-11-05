@@ -34,7 +34,7 @@
 
 > **Definition 12.8.4 (常见图形周长面积体积公式)**
 > 
-> 长方形 $C=2\left(a+b\right), S=ab$; 正方形 $C=4a, S=a^{2}$; 平行四边形 $S=ah$; 三角形 $S=\frac{1}{2}ah$; 梯形 $S=\frac{1}{2}\left(a+b\right)h$; 圆 $C=2\pi r, S=\pi r^{2}$; 长方体 $V=abh$; 正方体 $V=a^{3}$; 圆柱 $V=Sh$; 圆锥 $V=\frac{1}{3}Sh$.
+> 长方形 $C=2\left(a+b\right),S=ab$; 正方形 $C=4a,S=a^{2}$; 平行四边形 $S=ah$; 三角形 $S=\frac{1}{2}ah$; 梯形 $S=\frac{1}{2}\left(a+b\right)h$; 圆 $C=2\pi{r},S=\pi{r}^{2}$; 长方体 $V=abh$; 正方体 $V=a^{3}$; 圆柱 $V=Sh$; 圆锥 $V=\frac{1}{3}Sh$.
 
 ## Exercise 1
 
@@ -62,11 +62,11 @@ The money for $10\,\mathrm{L}$ was $=12\times10=120$ yuan. The new price $=12\ti
 
 ## Exercise 4
 
-(Lesson: Exercise 16, Problem 1) The school buys $9$ soccer balls at $a$ yuan each, and $b$ basketballs at $58$ yuan each. What does $9a$ represent? What does $58b$ represent? What does $9a+58b$ represent? If $a=45, b=6$, what is $9a+58b$?
+(Lesson: Exercise 16, Problem 1) The school buys $9$ soccer balls at $a$ yuan each, and $b$ basketballs at $58$ yuan each. What does $9a$ represent? What does $58b$ represent? What does $9a+58b$ represent? If $a=45,b=6$, what is $9a+58b$?
 
 ### Solution to Exercise 4
 
-By **Definition 12.8.3 (Equations)**, where letters stand for numbers. $9a$ is the total cost of buying $9$ soccer balls; $58b$ is the total cost of buying $b$ basketballs; $9a+58b$ is the total cost of the soccer balls and basketballs. Substituting $a=45, b=6$: $9\times45+58\times6=405+348=753$ yuan. $\blacksquare$
+By **Definition 12.8.3 (Equations)**, where letters stand for numbers. $9a$ is the total cost of buying $9$ soccer balls; $58b$ is the total cost of buying $b$ basketballs; $9a+58b$ is the total cost of the soccer balls and basketballs. Substituting $a=45,b=6$: $9\times45+58\times6=405+348=753$ yuan. $\blacksquare$
 
 ## Exercise 5
 
@@ -142,11 +142,11 @@ By **Definition 12.5.5 (Scale)**, since the scale is fixed on one map, the on-pa
 
 ## Exercise 14
 
-(Lesson: Exercise 18, Problem 2) There is one stick each of lengths $3\,\mathrm{cm}, 4\,\mathrm{cm}, 5\,\mathrm{cm}, 8\,\mathrm{cm}$. Which three can form a triangle?
+(Lesson: Exercise 18, Problem 2) There is one stick each of lengths $3\,\mathrm{cm},4\,\mathrm{cm},5\,\mathrm{cm},8\,\mathrm{cm}$. Which three can form a triangle?
 
 ### Solution to Exercise 14
 
-For a triangle, the sum of any two sides must exceed the third. Since $3+4> 5$, the $3, 4, 5$ sides form a triangle. Since $3+5< 8$ and $4+5< 8$, the other combinations cannot. Only the $3\,\mathrm{cm}, 4\,\mathrm{cm}, 5\,\mathrm{cm}$ sticks form a triangle. $\blacksquare$
+For a triangle, the sum of any two sides must exceed the third. Since $3+4>5$, the $3,4,5$ sides form a triangle. Since $3+5<8$ and $4+5<8$, the other combinations cannot. Only the $3\,\mathrm{cm},4\,\mathrm{cm},5\,\mathrm{cm}$ sticks form a triangle. $\blacksquare$
 
 ## Exercise 15
 

@@ -62,7 +62,7 @@ $21\times2+5=42+5=47$ 棵. $\blacksquare$
 
 ## 练习六
 
-(课时 练习八 第 12 题) 填一填: $432=\left(\ \right)\times100+\left(\ \right)\times10+\left(\ \right)\times1$; $1597=\left(\ \right)\times1000+\left(\ \right)\times100+\left(\ \right)\times10+\left(\ \right)\times1$.
+(课时 练习八 第 12 题) 填一填: $432=\left(\,\right)\times100+\left(\,\right)\times10+\left(\,\right)\times1$; $1597=\left(\,\right)\times1000+\left(\,\right)\times100+\left(\,\right)\times10+\left(\,\right)\times1$.
 
 ### 解答 练习六
 
@@ -122,7 +122,7 @@ $39\times2=78$; $41\times8=328$; $52\times4=208$; $27\times4=108$; $612\times7=4
 
 ### 解答 练习十三
 
-$24\times9=216$ 瓶. 估算: $20< 24< 30$, $180< 24\times9< 270$, 结果合理. $\blacksquare$
+$24\times9=216$ 瓶. 估算: $20<24<30$, $180<24\times9<270$, 结果合理. $\blacksquare$
 
 ## 练习十四
 

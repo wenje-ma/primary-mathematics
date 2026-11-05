@@ -74,7 +74,7 @@ By **Definition 11.3.3 (Work Problems)**: $1\div\left(\frac{1}{2}+\frac{1}{3}\ri
 
 ### Solution to Exercise 8
 
-By **Definition 11.3.3 (Work Problems)**: together $1\div\left(\frac{1}{12}+\frac{1}{10}\right)=1\div\frac{11}{60}=\frac{60}{11}\approx5.45$ days $< 6$, so yes. $\blacksquare$
+By **Definition 11.3.3 (Work Problems)**: together $1\div\left(\frac{1}{12}+\frac{1}{10}\right)=1\div\frac{11}{60}=\frac{60}{11}\approx5.45$ days $<6$, so yes. $\blacksquare$
 
 ## Exercise 9
 

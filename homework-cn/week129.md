@@ -34,11 +34,11 @@
 
 > **定义 11.5.4 (圆的周长)**
 > 
-> 围成圆的曲线的长叫圆的周长, $C=\pi d=2\pi r$.
+> 围成圆的曲线的长叫圆的周长, $C=\pi{d}=2\pi{r}$.
 
 > **定义 11.5.5 (圆的面积)**
 > 
-> 圆所占平面的大小叫圆的面积. 把圆等分拼成近似长方形, 长为 $\pi r$, 宽为 $r$, 故 $S=\pi r^2$.
+> 圆所占平面的大小叫圆的面积. 把圆等分拼成近似长方形, 长为 $\pi{r}$, 宽为 $r$, 故 $S=\pi{r}^2$.
 
 ## 练习一
 
@@ -82,11 +82,11 @@
 
 ## 练习六
 
-(课时 整理和复习 练习九 拓展提升 第 8 题) 观察 $\frac{3}{4}\times\frac{b}{a}$ 和 $\frac{3}{4}\div\frac{b}{a}$ ($a,b\neq0$). (1) 如果 $\frac{3}{4}\times\frac{b}{a}> \frac{3}{4}\div\frac{b}{a}$, 那么 $a\bigcirc b$; (2) 如果 $\frac{3}{4}\times\frac{b}{a}=\frac{3}{4}\div\frac{b}{a}$, 那么 $a\bigcirc b$; (3) 如果 $\frac{3}{4}\times\frac{b}{a}< \frac{3}{4}\div\frac{b}{a}$, 那么 $a\bigcirc b$. 又: 如果 $\frac{3}{4}\times c=\frac{3}{4}\div d$, 那么 $c$ 和 $d$ 是什么关系?
+(课时 整理和复习 练习九 拓展提升 第 8 题) 观察 $\frac{3}{4}\times\frac{b}{a}$ 和 $\frac{3}{4}\div\frac{b}{a}$ ($a,b\neq0$). (1) 如果 $\frac{3}{4}\times\frac{b}{a}>\frac{3}{4}\div\frac{b}{a}$, 那么 $a\bigcirc{b}$; (2) 如果 $\frac{3}{4}\times\frac{b}{a}=\frac{3}{4}\div\frac{b}{a}$, 那么 $a\bigcirc{b}$; (3) 如果 $\frac{3}{4}\times\frac{b}{a}<\frac{3}{4}\div\frac{b}{a}$, 那么 $a\bigcirc{b}$. 又: 如果 $\frac{3}{4}\times{c}=\frac{3}{4}\div{d}$, 那么 $c$ 和 $d$ 是什么关系?
 
 ### 解答 练习六
 
-$\frac{3}{4}\div\frac{b}{a}=\frac{3}{4}\times\frac{a}{b}$. 比较 $\frac{b}{a}$ 与 $\frac{a}{b}$: (1) $\frac{b}{a}> \frac{a}{b}$, 即 $b^2> a^2$, $b> a$, 填 $< $; (2) $\frac{b}{a}=\frac{a}{b}$, $a=b$; (3) $\frac{b}{a}< \frac{a}{b}$, $b< a$, 填 $> $. 若 $\frac{3}{4}\times c=\frac{3}{4}\div d=\frac{3}{4}\times\frac{1}{d}$, 则 $c=\frac{1}{d}$, $c,d$ 互为倒数. $\blacksquare$
+$\frac{3}{4}\div\frac{b}{a}=\frac{3}{4}\times\frac{a}{b}$. 比较 $\frac{b}{a}$ 与 $\frac{a}{b}$: (1) $\frac{b}{a}>\frac{a}{b}$, 即 $b^2>{}a^2$, $b>{}a$, 填 $<$; (2) $\frac{b}{a}=\frac{a}{b}$, $a=b$; (3) $\frac{b}{a}<\frac{a}{b}$, $b<{}a$, 填 $>$. 若 $\frac{3}{4}\times{c}=\frac{3}{4}\div{d}=\frac{3}{4}\times\frac{1}{d}$, 则 $c=\frac{1}{d}$, $c,d$ 互为倒数. $\blacksquare$
 
 ## 练习七
 

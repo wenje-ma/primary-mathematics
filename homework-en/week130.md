@@ -14,11 +14,11 @@
 
 > **Definition 11.5.4 (圆的周长)**
 > 
-> 围成圆的曲线的长叫圆的周长, $C=\pi d=2\pi r$.
+> 围成圆的曲线的长叫圆的周长, $C=\pi{d}=2\pi{r}$.
 
 > **Definition 11.5.5 (圆的面积)**
 > 
-> 圆所占平面的大小叫圆的面积. 把圆等分拼成近似长方形, 长为 $\pi r$, 宽为 $r$, 故 $S=\pi r^2$.
+> 圆所占平面的大小叫圆的面积. 把圆等分拼成近似长方形, 长为 $\pi{r}$, 宽为 $r$, 故 $S=\pi{r}^2$.
 
 ## Exercise 1
 
@@ -40,7 +40,7 @@ Fold the circular paper twice; the intersection of the two creases (diameters) i
 
 ## Exercise 3
 
-(Lesson: Understanding Circles, Example 2) The part between points $A$, $B$ on a circle is an arc, read \"arc $AB$\". The figure bounded by an arc and the two radii to its endpoints is a sector. An angle like $\angle AOB$ with vertex at the center is a central angle.
+(Lesson: Understanding Circles, Example 2) The part between points $A$, $B$ on a circle is an arc, read \"arc $AB$\". The figure bounded by an arc and the two radii to its endpoints is a sector. An angle like $\angle{A}OB$ with vertex at the center is a central angle.
 
 ### Solution to Exercise 3
 
@@ -142,7 +142,7 @@ The three circles overlap pairwise into a three-petal flower (each passes throug
 
 ### Solution to Exercise 15
 
-A circle's circumference is always a bit more than $3$ times its diameter. By **Definition 11.5.3 (Pi)**, the quotient is the fixed number $\pi$. So circumference $C=\pi d=2\pi r$. $\blacksquare$
+A circle's circumference is always a bit more than $3$ times its diameter. By **Definition 11.5.3 (Pi)**, the quotient is the fixed number $\pi$. So circumference $C=\pi{d}=2\pi{r}$. $\blacksquare$
 
 ## Exercise 16
 

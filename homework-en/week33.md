@@ -66,11 +66,11 @@ By **Definition 4.2.3 (Relations Among the Parts of Division with Remainder)**, 
 
 ## Exercise 7
 
-(Lesson: Finding the Quotient by Trial, Do It) What is the largest that can go in the $\_\_$? $\_\_\times6< 57$, $\_\_\times8< 26$, $\_\_\times4< 31$.
+(Lesson: Finding the Quotient by Trial, Do It) What is the largest that can go in the $\_\_$? $\_\_\times6<57$, $\_\_\times8<26$, $\_\_\times4<31$.
 
 ### Solution to Exercise 7
 
-By **Definition 4.2.4 (Finding the Quotient by Trial)**: $9\times6=54< 57$, $10\times6=60> 57$, so the largest is $9$; $3\times8=24< 26$, $4\times8=32> 26$, so the largest is $3$; $7\times4=28< 31$, $8\times4=32> 31$, so the largest is $7$. $\blacksquare$
+By **Definition 4.2.4 (Finding the Quotient by Trial)**: $9\times6=54<57$, $10\times6=60>57$, so the largest is $9$; $3\times8=24<26$, $4\times8=32>26$, so the largest is $3$; $7\times4=28<31$, $8\times4=32>31$, so the largest is $7$. $\blacksquare$
 
 ## Exercise 8
 
@@ -78,7 +78,7 @@ By **Definition 4.2.4 (Finding the Quotient by Trial)**: $9\times6=54< 57$, $10\
 
 ### Solution to Exercise 8
 
-By **Definition 4.2.4 (Finding the Quotient by Trial)**, $4\times6=24< 26$, $26\div4=6\cdots\cdots2$; $7\times8=56< 59$, $59\div7=8\cdots\cdots3$. The remainders $2,3$ are both smaller than the divisor. $\blacksquare$
+By **Definition 4.2.4 (Finding the Quotient by Trial)**, $4\times6=24<26$, $26\div4=6\cdots\cdots2$; $7\times8=56<59$, $59\div7=8\cdots\cdots3$. The remainders $2,3$ are both smaller than the divisor. $\blacksquare$
 
 ## Exercise 9
 
@@ -102,7 +102,7 @@ Find how many copies of $7$ at most are in $65$: $65\div7=9$(ropes)……$2$(met
 
 ### Solution to Exercise 11
 
-$14$ is the total number of lollipops (dividend), $4$ is the number of boxes (divisor), $3$ is the number in each box (quotient), $12$ is the $12$ sticks placed in the $4$ boxes in all (the product $4\times3$), and $2$ is the number left (remainder), with $2< 4$. $\blacksquare$
+$14$ is the total number of lollipops (dividend), $4$ is the number of boxes (divisor), $3$ is the number in each box (quotient), $12$ is the $12$ sticks placed in the $4$ boxes in all (the product $4\times3$), and $2$ is the number left (remainder), with $2<4$. $\blacksquare$
 
 ## Exercise 12
 
@@ -118,7 +118,7 @@ By **Definition 4.2.3 (Dividend = Divisor x Quotient + Remainder)**, $21\div5=4\
 
 ### Solution to Exercise 13
 
-By **Definition 4.2.4 (Finding the Quotient by Trial)**, $3\times8=24< 26$, $3\times9=27> 26$, so $26$ contains at most $8$ copies of $3$; $5\times5=25< 27$, $5\times6=30> 27$, so $27$ contains at most $5$ copies of $5$. $\blacksquare$
+By **Definition 4.2.4 (Finding the Quotient by Trial)**, $3\times8=24<26$, $3\times9=27>26$, so $26$ contains at most $8$ copies of $3$; $5\times5=25<27$, $5\times6=30>27$, so $27$ contains at most $5$ copies of $5$. $\blacksquare$
 
 ## Exercise 14
 

@@ -90,7 +90,7 @@ Measure with a ruler: length about $26$ cm ($260$ mm), width about $18$ cm ($180
 
 ## Exercise 8
 
-(Lesson: Knowing the Decimeter, Example) Fill in: $3$ cm $=\left(\ \right)$ mm; $70$ cm $=\left(\ \right)$ dm.
+(Lesson: Knowing the Decimeter, Example) Fill in: $3$ cm $=\left(\,\right)$ mm; $70$ cm $=\left(\,\right)$ dm.
 
 ### Solution to Exercise 8
 
@@ -98,7 +98,7 @@ By **Definition 5.3.1 (毫米与厘米的关系)** and **Definition 5.3.2 (分�
 
 ## Exercise 9
 
-(Lesson: Knowing the Decimeter, Do It) Fill in: $8$ dm $=\left(\ \right)$ cm; $5$ m $=\left(\ \right)$ dm; $60$ mm $=\left(\ \right)$ cm.
+(Lesson: Knowing the Decimeter, Do It) Fill in: $8$ dm $=\left(\,\right)$ cm; $5$ m $=\left(\,\right)$ dm; $60$ mm $=\left(\,\right)$ cm.
 
 ### Solution to Exercise 9
 
@@ -130,7 +130,7 @@ By **Definition 5.3.1 (毫米与厘米的关系)** and **Definition 5.3.2 (分�
 
 ## Exercise 13
 
-(Lesson: Practice 5, Problem 3) Fill in: $90$ cm $=\left(\ \right)$ dm; $100$ mm $=\left(\ \right)$ dm; $2$ m $=\left(\ \right)$ cm; $6$ dm $=\left(\ \right)$ cm.
+(Lesson: Practice 5, Problem 3) Fill in: $90$ cm $=\left(\,\right)$ dm; $100$ mm $=\left(\,\right)$ dm; $2$ m $=\left(\,\right)$ cm; $6$ dm $=\left(\,\right)$ cm.
 
 ### Solution to Exercise 13
 
@@ -138,11 +138,11 @@ By **Definition 5.3.4 (Conversion Rates and Estimation of Length Units)**: $90$ 
 
 ## Exercise 14
 
-(Lesson: Practice 5, Problem 4) Fill in "$> $" "$< $" or "$=$": $5$ dm $\bigcirc$ $5$ mm; $8$ mm $\bigcirc$ $2$ cm; $6$ cm $\bigcirc$ $60$ mm; $1$ m $\bigcirc$ $7$ dm; $9$ mm $\bigcirc$ $3$ dm; $4$ m $\bigcirc$ $4$ dm.
+(Lesson: Practice 5, Problem 4) Fill in "$>$" "$<$" or "$=$": $5$ dm $\bigcirc$ $5$ mm; $8$ mm $\bigcirc$ $2$ cm; $6$ cm $\bigcirc$ $60$ mm; $1$ m $\bigcirc$ $7$ dm; $9$ mm $\bigcirc$ $3$ dm; $4$ m $\bigcirc$ $4$ dm.
 
 ### Solution to Exercise 14
 
-Unify units then compare: $5$ dm $=500$ mm $> 5$ mm; $8$ mm $< 20$ mm $=2$ cm; $6$ cm $=60$ mm; $1$ m $=10$ dm $> 7$ dm; $9$ mm $< 300$ mm $=3$ dm; $4$ m $=40$ dm $> 4$ dm. $\blacksquare$
+Unify units then compare: $5$ dm $=500$ mm $>5$ mm; $8$ mm $<20$ mm $=2$ cm; $6$ cm $=60$ mm; $1$ m $=10$ dm $>7$ dm; $9$ mm $<300$ mm $=3$ dm; $4$ m $=40$ dm $>4$ dm. $\blacksquare$
 
 ## Exercise 15
 

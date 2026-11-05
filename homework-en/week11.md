@@ -86,11 +86,11 @@ By **Definition 1.6.2 (Addition and Subtraction Within 20)**, choose $2$ of the 
 
 ## Exercise 7
 
-(Lesson: Practice, Problem 12) What can go in $\square$? $9+\square+6< 15$; $18-\square> 10$; $13+\square< 19$.
+(Lesson: Practice, Problem 12) What can go in $\square$? $9+\square+6<15$; $18-\square>10$; $13+\square<19$.
 
 ### Solution to Exercise 7
 
-$9+\square+6< 15$, i.e. $15+\square< 15$, $\square$ can be $0$; $18-\square> 10$, $\square$ can be $0\sim7$; $13+\square< 19$, $\square$ can be $0\sim5$. $\blacksquare$
+$9+\square+6<15$, i.e. $15+\square<15$, $\square$ can be $0$; $18-\square>10$, $\square$ can be $0\sim7$; $13+\square<19$, $\square$ can be $0\sim5$. $\blacksquare$
 
 ## Exercise 8
 
@@ -98,7 +98,7 @@ $9+\square+6< 15$, i.e. $15+\square< 15$, $\square$ can be $0$; $18-\square> 10$
 
 ### Solution to Exercise 8
 
-The same book has the same total pages; whoever read less has more left. Xiaoming read $8$ pages and Xiaohua read $9$ pages, $8< 9$, so Xiaoming has more left. $\blacksquare$
+The same book has the same total pages; whoever read less has more left. Xiaoming read $8$ pages and Xiaohua read $9$ pages, $8<9$, so Xiaoming has more left. $\blacksquare$
 
 ## Exercise 9
 

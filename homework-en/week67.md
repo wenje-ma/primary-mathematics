@@ -50,7 +50,7 @@ Integers: $20,3,100,7,4,35$; fractions: $\frac{10}{3}$; decimals: $0.9,4.20,18.5
 
 ### Solution to Exercise 2
 
-By **Definition 6.7.1 (Decimals)**: $3$ yuan $5$ jiao $=3.5$ yuan, $5$ jiao $=0.5$ yuan, $4$ yuan $9$ jiao $9$ fen $=4.99$ yuan, $3$ yuan $4$ jiao $9$ fen $=3.49$ yuan. From smallest to largest: $0.5< 3.49< 3.5< 4.99$. $\blacksquare$
+By **Definition 6.7.1 (Decimals)**: $3$ yuan $5$ jiao $=3.5$ yuan, $5$ jiao $=0.5$ yuan, $4$ yuan $9$ jiao $9$ fen $=4.99$ yuan, $3$ yuan $4$ jiao $9$ fen $=3.49$ yuan. From smallest to largest: $0.5<3.49<3.5<4.99$. $\blacksquare$
 
 ## Exercise 3
 
@@ -58,7 +58,7 @@ By **Definition 6.7.1 (Decimals)**: $3$ yuan $5$ jiao $=3.5$ yuan, $5$ jiao $=0.
 
 ### Solution to Exercise 3
 
-By **Definition 6.7.3 (简单的小数加,减法)**, (1) $12.5-8.4=4.1$ (yuan). (2) $8.4+12.5=20.9$ (yuan), $20.9> 20$, not enough. (3) For example, 《Children's Literature》 is $10.8-8.4=2.4$ yuan more expensive than 《Selected Fairy Tales》; answers may vary. $\blacksquare$
+By **Definition 6.7.3 (简单的小数加,减法)**, (1) $12.5-8.4=4.1$ (yuan). (2) $8.4+12.5=20.9$ (yuan), $20.9>20$, not enough. (3) For example, 《Children's Literature》 is $10.8-8.4=2.4$ yuan more expensive than 《Selected Fairy Tales》; answers may vary. $\blacksquare$
 
 ## Exercise 4
 
@@ -118,7 +118,7 @@ Perimeter $6\times4=24$ (meters), area $6\times6=36$ (square meters). $\blacksqu
 
 ## Exercise 11
 
-(Lesson: Practice 18, Problem 5) (1) $3$ years $=\left(\ \ \right)$ months, $24$ months $=\left(\ \ \right)$ years. (2) Month $7$ has $\left(\ \ \right)$ days, and $15$ o'clock is $\left(\ \ \right)$ p.m. (3) Xiaoliang arrives at school at $8:10$ and leaves at $12:00$, and in the afternoon arrives at $2:00$ and leaves at $17:00$; how many hours and minutes is he at school all day?
+(Lesson: Practice 18, Problem 5) (1) $3$ years $=\left(\,\,\right)$ months, $24$ months $=\left(\,\,\right)$ years. (2) Month $7$ has $\left(\,\,\right)$ days, and $15$ o'clock is $\left(\,\,\right)$ p.m. (3) Xiaoliang arrives at school at $8:10$ and leaves at $12:00$, and in the afternoon arrives at $2:00$ and leaves at $17:00$; how many hours and minutes is he at school all day?
 
 ### Solution to Exercise 11
 

@@ -82,7 +82,7 @@ By **Definition 12.2.4 (Interest Rate and Interest)**, interest $=8000\times2.75
 
 ### Solution to Exercise 8
 
-By **Definition 12.2.1 (Discount)**. (1) Mall A: $230\times55\%=126.5$ (yuan). Mall B: $230$ contains $2$ instances of $100$, so subtract $2$ savings of $50$ yuan: $230-50\times2=130$ (yuan). (2) Since $126.5< 130$, Mall A saves more. $\blacksquare$
+By **Definition 12.2.1 (Discount)**. (1) Mall A: $230\times55\%=126.5$ (yuan). Mall B: $230$ contains $2$ instances of $100$, so subtract $2$ savings of $50$ yuan: $230-50\times2=130$ (yuan). (2) Since $126.5<130$, Mall A saves more. $\blacksquare$
 
 ## Exercise 9
 
@@ -154,7 +154,7 @@ By **Definition 12.2.3 (Tax Rate)**, the taxable portion $=3000-800=2200$ yuan; 
 
 ### Solution to Exercise 17
 
-By **Definition 12.2.1 (Discount)**. Brand A: $220$ contains $1$ of $200$, so $220-100=120$ (yuan). Brand B: $220\times60\%\times95\%=220\times0.6\times0.95=125.4$ (yuan). Since $120< 125.4$, Brand A is cheaper. $\blacksquare$
+By **Definition 12.2.1 (Discount)**. Brand A: $220$ contains $1$ of $200$, so $220-100=120$ (yuan). Brand B: $220\times60\%\times95\%=220\times0.6\times0.95=125.4$ (yuan). Since $120<125.4$, Brand A is cheaper. $\blacksquare$
 
 ## Exercise 18
 

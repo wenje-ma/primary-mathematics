@@ -146,7 +146,7 @@ By common sense and a feel for large numbers: (1) unreasonable, a school usually
 
 ### Solution to Exercise 15
 
-By **Definition 7.1.5 (Comparing the Size of Numbers)**: $92504$ is five digits, $103600$ is six digits, hence $< $; $830207000$ is nine digits, $1020010000$ is ten digits, hence $< $; $28906$ and $28890$ are both five digits with the same thousands digit, and the hundreds digit $9> 8$, hence $> $; $100388770000$ is twelve digits, $99385270000$ is eleven digits, hence $> $. $\blacksquare$
+By **Definition 7.1.5 (Comparing the Size of Numbers)**: $92504$ is five digits, $103600$ is six digits, hence $<$; $830207000$ is nine digits, $1020010000$ is ten digits, hence $<$; $28906$ and $28890$ are both five digits with the same thousands digit, and the hundreds digit $9>8$, hence $>$; $100388770000$ is twelve digits, $99385270000$ is eleven digits, hence $>$. $\blacksquare$
 
 ## Exercise 16
 
@@ -170,7 +170,7 @@ By **Definition 7.1.7 (Rounding to find approximate numbers)**: $25520\approx3$ 
 
 ### Solution to Exercise 18
 
-By **Definition 7.1.7 (Rounding to find approximate numbers)**: in $1034500000$ the ten-million digit is $3< 5$, drop it, $\approx10$ hundred-millions; in $9876540000$ the ten-million digit is $7\ge5$, carry $1$, $\approx99$ hundred-millions. $\blacksquare$
+By **Definition 7.1.7 (Rounding to find approximate numbers)**: in $1034500000$ the ten-million digit is $3<5$, drop it, $\approx10$ hundred-millions; in $9876540000$ the ten-million digit is $7\ge5$, carry $1$, $\approx99$ hundred-millions. $\blacksquare$
 
 ## Exercise 19
 
@@ -178,4 +178,4 @@ By **Definition 7.1.7 (Rounding to find approximate numbers)**: in $1034500000$ 
 
 ### Solution to Exercise 19
 
-By **Definition 7.1.5 (Comparing the Size of Numbers)**: $208808$ is six digits $> $ $99999$ five digits; $26090800000$ and $26900800000$ are both eleven digits, and the hundred-million digit $0< 9$, hence $< $; $30500000$ is eight digits $> $ $3050000$ seven digits; $7451030000$ is ten digits $< $ $54284000000$ eleven digits. $\blacksquare$
+By **Definition 7.1.5 (Comparing the Size of Numbers)**: $208808$ is six digits $>$ $99999$ five digits; $26090800000$ and $26900800000$ are both eleven digits, and the hundred-million digit $0<9$, hence $<$; $30500000$ is eight digits $>$ $3050000$ seven digits; $7451030000$ is ten digits $<$ $54284000000$ eleven digits. $\blacksquare$

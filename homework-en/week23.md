@@ -110,7 +110,7 @@ By **Definition 3.3.2 (The Meaning of Division)**, the first problem is "divide 
 
 ### Solution to Exercise 11
 
-By **Definition 3.3.2 (The Meaning of Division)**, first compute the price per pair: the first is $20\div5=4$ (yuan), the second is $30\div6=5$ (yuan); since $4< 5$, the pack of $5$ pairs priced at $20$ yuan is cheaper. $\blacksquare$
+By **Definition 3.3.2 (The Meaning of Division)**, first compute the price per pair: the first is $20\div5=4$ (yuan), the second is $30\div6=5$ (yuan); since $4<5$, the pack of $5$ pairs priced at $20$ yuan is cheaper. $\blacksquare$
 
 ## Exercise 12
 

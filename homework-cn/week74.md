@@ -50,11 +50,11 @@
 
 ## 练习五
 
-(课时 练习九 第 3 题) 在 $\bigcirc$ 里填 $> $, $< $ 或 $=$: $120\times20\bigcirc12\times200$; $500\times10\bigcirc10\times550$; $16\times400\bigcirc210\times4$; $19\times300\bigcirc30\times180$.
+(课时 练习九 第 3 题) 在 $\bigcirc$ 里填 $>$, $<$ 或 $=$: $120\times20\bigcirc12\times200$; $500\times10\bigcirc10\times550$; $16\times400\bigcirc210\times4$; $19\times300\bigcirc30\times180$.
 
 ### 解答 练习五
 
-由**定义 7.4.3 (积的变化规律)**: $120\times20=12\times200$; $500\times10=5000< 10\times550=5500$; $16\times400=6400> 210\times4=840$; $19\times300=5700> 30\times180=5400$. $\blacksquare$
+由**定义 7.4.3 (积的变化规律)**: $120\times20=12\times200$; $500\times10=5000<10\times550=5500$; $16\times400=6400>210\times4=840$; $19\times300=5700>30\times180=5400$. $\blacksquare$
 
 ## 练习六
 
@@ -102,7 +102,7 @@
 
 ### 解答 练习十一
 
-每车实际载师生 $47$ 人, $47\times19\approx50\times20=1000< 1026$, 不够. 精确算 $47\times19=893< 1026$, 不够. $\blacksquare$
+每车实际载师生 $47$ 人, $47\times19\approx50\times20=1000<1026$, 不够. 精确算 $47\times19=893<1026$, 不够. $\blacksquare$
 
 ## 练习十二
 
@@ -110,7 +110,7 @@
 
 ### 解答 练习十二
 
-$105\times30=3150$ 字, $3150> 3000$, 能录完. $\blacksquare$
+$105\times30=3150$ 字, $3150>3000$, 能录完. $\blacksquare$
 
 ## 练习十三
 
@@ -126,7 +126,7 @@ $105\times30=3150$ 字, $3150> 3000$, 能录完. $\blacksquare$
 
 ### 解答 练习十四
 
-$293\times18\approx300\times20=6000$ kg $=6$ t, 精确算 $293\times18=5274$ kg $< 6000$ kg, 能运走. $\blacksquare$
+$293\times18\approx300\times20=6000$ kg $=6$ t, 精确算 $293\times18=5274$ kg $<6000$ kg, 能运走. $\blacksquare$
 
 ## 练习十五
 
@@ -142,4 +142,4 @@ $293\times18\approx300\times20=6000$ kg $=6$ t, 精确算 $293\times18=5274$ kg 
 
 ### 解答 练习十六
 
-$192\times38\approx200\times40=8000$, 精确算 $192\times38=7296< 8000$, 够. $\blacksquare$
+$192\times38\approx200\times40=8000$, 精确算 $192\times38=7296<8000$, 够. $\blacksquare$

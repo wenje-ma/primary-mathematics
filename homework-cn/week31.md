@@ -50,11 +50,11 @@ $30\div5=6$, $4\times9=36$, $6\times7=42$, $18\div3=6$, $7\times9=63$, $6\times8
 
 ## 练习五
 
-(课时 练一练 第 4 题 填符号) 在 $\bigcirc$ 里填上"$\times$""$\div$"或"$> $""$< $""$=$": $6\bigcirc6=36$, $30\bigcirc6=5$, $8\div2\bigcirc8$, $5\times7\bigcirc32$, $2\times6\bigcirc12$, $8\times9\bigcirc73$, $4\times9\bigcirc34$, $9\div3\bigcirc3$.
+(课时 练一练 第 4 题 填符号) 在 $\bigcirc$ 里填上"$\times$""$\div$"或"$>$""$<$""$=$": $6\bigcirc6=36$, $30\bigcirc6=5$, $8\div2\bigcirc8$, $5\times7\bigcirc32$, $2\times6\bigcirc12$, $8\times9\bigcirc73$, $4\times9\bigcirc34$, $9\div3\bigcirc3$.
 
 ### 解答 练习五
 
-$6\times6=36$; $30\div6=5$; $8\div2=4< 8$; $5\times7=35> 32$; $2\times6=12$, 故 $=$; $8\times9=72< 73$; $4\times9=36> 34$; $9\div3=3$, 故 $=$. $\blacksquare$
+$6\times6=36$; $30\div6=5$; $8\div2=4<8$; $5\times7=35>32$; $2\times6=12$, 故 $=$; $8\times9=72<73$; $4\times9=36>34$; $9\div3=3$, 故 $=$. $\blacksquare$
 
 ## 练习六
 

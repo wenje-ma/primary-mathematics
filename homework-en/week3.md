@@ -134,7 +134,7 @@ By **Definition 1.2.3 (Decomposition and Composition)**, find the two cards summ
 
 ### Solution to Exercise 15
 
-By **Definition 1.2.2 (Comparing Size, Which Position)**: $6< 7$, $8> 6$, $7< 9$, $8< 9$. $\blacksquare$
+By **Definition 1.2.2 (Comparing Size, Which Position)**: $6<7$, $8>6$, $7<9$, $8<9$. $\blacksquare$
 
 ## Exercise 16
 

@@ -158,11 +158,11 @@ By **Definition 3.5.4 (How to Measure)**, line up one end of the three pencils, 
 
 ## Exercise 17
 
-(Lesson: Practice, Problem 3) Fill the $\bigcirc$ with "$> $", "$< $", or "$=$". $10$ meters $\bigcirc$ $10$ centimeters, $100$ centimeters $\bigcirc$ $1$ meter, $80$ centimeters $\bigcirc$ $1$ meter.
+(Lesson: Practice, Problem 3) Fill the $\bigcirc$ with "$>$", "$<$", or "$=$". $10$ meters $\bigcirc$ $10$ centimeters, $100$ centimeters $\bigcirc$ $1$ meter, $80$ centimeters $\bigcirc$ $1$ meter.
 
 ### Solution to Exercise 17
 
-By **Definition 3.5.2 (Meter)**, $1$ meter $=100$ centimeters: $10$ meters $> 10$ centimeters; $100$ centimeters $=1$ meter; $80$ centimeters $< 1$ meter. $\blacksquare$
+By **Definition 3.5.2 (Meter)**, $1$ meter $=100$ centimeters: $10$ meters $>10$ centimeters; $100$ centimeters $=1$ meter; $80$ centimeters $<1$ meter. $\blacksquare$
 
 ## Exercise 18
 

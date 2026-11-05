@@ -26,11 +26,11 @@
 
 ## Exercise 2
 
-(Lesson: Practice 2, Problem 15, Thinking Question) Given $39+8\times5< 100-\square\times7$, what can go in the $\square$?
+(Lesson: Practice 2, Problem 15, Thinking Question) Given $39+8\times5<100-\square\times7$, what can go in the $\square$?
 
 ### Solution to Exercise 2
 
-Left side $39+8\times5=39+40=79$. Need $79< 100-\square\times7$, i.e. $100-\square\times7> 79$, $\square\times7< 21$, $\square< 3$. The $\square$ can take $0,1,2$. $\blacksquare$
+Left side $39+8\times5=39+40=79$. Need $79<100-\square\times7$, i.e. $100-\square\times7>79$, $\square\times7<21$, $\square<3$. The $\square$ can take $0,1,2$. $\blacksquare$
 
 ## Exercise 3
 

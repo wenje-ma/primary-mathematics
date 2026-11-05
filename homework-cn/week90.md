@@ -54,7 +54,7 @@
 
 ### 解答 练习二
 
-跑同样距离, 时间越短越快: $8.50< 8.92< 9.23< 10.01$, 故名次为 $8.50$ 秒第一, $8.92$ 秒第二, $9.23$ 秒第三, $10.01$ 秒第四. $\blacksquare$
+跑同样距离, 时间越短越快: $8.50<8.92<9.23<10.01$, 故名次为 $8.50$ 秒第一, $8.92$ 秒第二, $9.23$ 秒第三, $10.01$ 秒第四. $\blacksquare$
 
 ## 练习三
 
@@ -78,7 +78,7 @@
 
 ### 解答 练习五
 
-由**定义 8.4.5 (小数的大小比较)**: $8.7> 7.9$; $4.300=4.3$; $2.613< 2.614$; $0.41> 0.409$; $570\,\mathrm{cm}=5.70\,\mathrm{m}$; $70\,\mathrm{g}=0.07\,\mathrm{kg}< 0.7\,\mathrm{kg}$. $\blacksquare$
+由**定义 8.4.5 (小数的大小比较)**: $8.7>7.9$; $4.300=4.3$; $2.613<2.614$; $0.41>0.409$; $570\,\mathrm{cm}=5.70\,\mathrm{m}$; $70\,\mathrm{g}=0.07\,\mathrm{kg}<0.7\,\mathrm{kg}$. $\blacksquare$
 
 ## 练习六
 
@@ -146,8 +146,8 @@
 
 ## 练习十四
 
-(课时 整理和复习 练习十四 第 7 题) 在 $\square$ 里填适当的数字: $0.\square4\,\mathrm{m}> 14\,\mathrm{cm}$; $\square\,\mathrm{g}< 0.018\,\mathrm{kg}$; $694\,\mathrm{cm}> 6.\square8\,\mathrm{m}$; $12.\square3\,\mathrm{km^2}> 1252$ 公顷.
+(课时 整理和复习 练习十四 第 7 题) 在 $\square$ 里填适当的数字: $0.\square4\,\mathrm{m}>14\,\mathrm{cm}$; $\square\,\mathrm{g}<0.018\,\mathrm{kg}$; $694\,\mathrm{cm}>6.\square8\,\mathrm{m}$; $12.\square3\,\mathrm{km^2}>1252$ 公顷.
 
 ### 解答 练习十四
 
-统一单位: $14\,\mathrm{cm}=0.14\,\mathrm{m}$, 故 $0.\square4> 0.14$, $\square$ 可填 $2\sim9$; $0.018\,\mathrm{kg}=18\,\mathrm{g}$, 故 $\square< 18$, 可填 $1\sim17$; $694\,\mathrm{cm}=6.94\,\mathrm{m}$, $6.94> 6.\square8$, $\square$ 可填 $0\sim8$; $1252$ 公顷 $=12.52\,\mathrm{km^2}$, $12.\square3> 12.52$, $\square$ 可填 $5\sim9$. $\blacksquare$
+统一单位: $14\,\mathrm{cm}=0.14\,\mathrm{m}$, 故 $0.\square4>0.14$, $\square$ 可填 $2\sim9$; $0.018\,\mathrm{kg}=18\,\mathrm{g}$, 故 $\square<18$, 可填 $1\sim17$; $694\,\mathrm{cm}=6.94\,\mathrm{m}$, $6.94>6.\square8$, $\square$ 可填 $0\sim8$; $1252$ 公顷 $=12.52\,\mathrm{km^2}$, $12.\square3>12.52$, $\square$ 可填 $5\sim9$. $\blacksquare$

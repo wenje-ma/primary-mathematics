@@ -38,7 +38,7 @@ By **Definition 7.4.1 (Mental Multiplication)**: (1) $12\times30=360$ hawthorns;
 
 ### Solution to Exercise 3
 
-$10$ m $=1000$ cm, $90\times8=720$ cm, $1000> 720$, enough. $\blacksquare$
+$10$ m $=1000$ cm, $90\times8=720$ cm, $1000>720$, enough. $\blacksquare$
 
 ## Exercise 4
 
@@ -46,7 +46,7 @@ $10$ m $=1000$ cm, $90\times8=720$ cm, $1000> 720$, enough. $\blacksquare$
 
 ### Solution to Exercise 4
 
-By **Definition 7.4.1 (Mental Multiplication)**: (1) $21\times3=63$ people; (2) $21\times4=84$ people, $84> 80$, they fit. $\blacksquare$
+By **Definition 7.4.1 (Mental Multiplication)**: (1) $21\times3=63$ people; (2) $21\times4=84$ people, $84>80$, they fit. $\blacksquare$
 
 ## Exercise 5
 
@@ -158,7 +158,7 @@ $\left(125+18\right)\times3=143\times3=429$ yuan. $\blacksquare$
 
 ### Solution to Exercise 18
 
-$5$ t $=5000$ kg, $350\times20=7000$ kg, $5000< 7000$, not enough. $\blacksquare$
+$5$ t $=5000$ kg, $350\times20=7000$ kg, $5000<7000$, not enough. $\blacksquare$
 
 ## Exercise 19
 

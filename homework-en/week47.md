@@ -42,7 +42,7 @@ $3$ unlinked rings are $4\times3=12$ cm $=120$ mm long. Each linkage overlaps th
 
 ## Exercise 2
 
-(Lesson: Knowing the Kilometer, Example) Fill in: $3$ km $=\left(\ \right)$ m; $5000$ m $=\left(\ \right)$ km.
+(Lesson: Knowing the Kilometer, Example) Fill in: $3$ km $=\left(\,\right)$ m; $5000$ m $=\left(\,\right)$ km.
 
 ### Solution to Exercise 2
 
@@ -82,7 +82,7 @@ Walking $1$ km takes about $15$ min, bicycle about $4$ min, car about $1$ min (d
 
 ## Exercise 7
 
-(Lesson: Practice 6, Problem 2) Fill in: $7$ dm $=\left(\ \right)$ cm; $6000$ m $=\left(\ \right)$ km; $300$ mm $=\left(\ \right)$ dm; $50$ dm $=\left(\ \right)$ m; $8$ km $=\left(\ \right)$ m; $3$ m $=\left(\ \right)$ mm.
+(Lesson: Practice 6, Problem 2) Fill in: $7$ dm $=\left(\,\right)$ cm; $6000$ m $=\left(\,\right)$ km; $300$ mm $=\left(\,\right)$ dm; $50$ dm $=\left(\,\right)$ m; $8$ km $=\left(\,\right)$ m; $3$ m $=\left(\,\right)$ mm.
 
 ### Solution to Exercise 7
 
@@ -114,7 +114,7 @@ One floor is about $3$ m, the building has about $4$ floors, so it is about $12$
 
 ## Exercise 11
 
-(Lesson: Practice 6, Problem 6) Compute: $20$ mm $+30$ mm $=\left(\ \right)$ cm; $1$ km $-700$ m $=\left(\ \right)$ m; $3$ m $-1$ m $=\left(\ \right)$ dm; $2$ m $+3$ cm $=\left(\ \right)$ cm.
+(Lesson: Practice 6, Problem 6) Compute: $20$ mm $+30$ mm $=\left(\,\right)$ cm; $1$ km $-700$ m $=\left(\,\right)$ m; $3$ m $-1$ m $=\left(\,\right)$ dm; $2$ m $+3$ cm $=\left(\,\right)$ cm.
 
 ### Solution to Exercise 11
 
@@ -134,7 +134,7 @@ $3$ km $=3000$ m; walking $3000$ m takes $3000\div100=30$ minutes. Leaving at $7
 
 ### Solution to Exercise 13
 
-From $8$ o'clock to $12$ o'clock is $4$ hours, traveling $80\times4=320$ km; $320> 308$, so by noon at $12$ they can arrive. $\blacksquare$
+From $8$ o'clock to $12$ o'clock is $4$ hours, traveling $80\times4=320$ km; $320>308$, so by noon at $12$ they can arrive. $\blacksquare$
 
 ## Exercise 14
 
@@ -154,11 +154,11 @@ Marathon $42$ km; Chinese textbook thickness $6$ mm; footbridge length $30$ m. $
 
 ## Exercise 16
 
-(Lesson: Practice 7, Problem 2) Fill in "$> $" "$< $" or "$=$": $90$ mm $\bigcirc$ $9$ cm; $4$ m $\bigcirc$ $30$ dm; $2$ km $\bigcirc$ $3000$ m; $400$ cm $\bigcirc$ $3$ m; $5$ cm $\bigcirc$ $5$ dm; $6$ dm $\bigcirc$ $500$ mm.
+(Lesson: Practice 7, Problem 2) Fill in "$>$" "$<$" or "$=$": $90$ mm $\bigcirc$ $9$ cm; $4$ m $\bigcirc$ $30$ dm; $2$ km $\bigcirc$ $3000$ m; $400$ cm $\bigcirc$ $3$ m; $5$ cm $\bigcirc$ $5$ dm; $6$ dm $\bigcirc$ $500$ mm.
 
 ### Solution to Exercise 16
 
-$90$ mm $=9$ cm; $4$ m $=40$ dm $> 30$ dm; $2$ km $=2000$ m $< 3000$ m; $400$ cm $=4$ m $> 3$ m; $5$ cm $< 50$ cm $=5$ dm; $6$ dm $=600$ mm $> 500$ mm. $\blacksquare$
+$90$ mm $=9$ cm; $4$ m $=40$ dm $>30$ dm; $2$ km $=2000$ m $<3000$ m; $400$ cm $=4$ m $>3$ m; $5$ cm $<50$ cm $=5$ dm; $6$ dm $=600$ mm $>500$ mm. $\blacksquare$
 
 ## Exercise 17
 

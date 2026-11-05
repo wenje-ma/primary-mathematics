@@ -14,7 +14,7 @@
 
 > **Definition 7.6.1 (平行与垂直)**
 > 
-> 在同一平面内不相交的两条直线叫平行线, 也可以说这两条直线互相平行, 记作 $a\parallel b$. 两条直线相交成直角, 就说这两条直线互相垂直, 其中一条叫另一条的垂线, 交点叫垂足, 记作 $a\perp b$.
+> 在同一平面内不相交的两条直线叫平行线, 也可以说这两条直线互相平行, 记作 $a\parallel{b}$. 两条直线相交成直角, 就说这两条直线互相垂直, 其中一条叫另一条的垂线, 交点叫垂足, 记作 $a\perp{b}$.
 
 > **Definition 7.6.2 (点到直线的距离)**
 > 
@@ -58,7 +58,7 @@ By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**, use total price $=$
 
 ### Solution to Exercise 4
 
-All Combo 1: $21\times3=63> 60$, not allowed; all Combo 2: $18\times3=54\le60$, allowed; $2$ of Combo 1 and $1$ of Combo 2: $42+18=60$, allowed; $1$ of Combo 1 and $2$ of Combo 2: $21+36=57$, allowed. There are $3$ ways in total. $\blacksquare$
+All Combo 1: $21\times3=63>60$, not allowed; all Combo 2: $18\times3=54\le60$, allowed; $2$ of Combo 1 and $1$ of Combo 2: $42+18=60$, allowed; $1$ of Combo 1 and $2$ of Combo 2: $21+36=57$, allowed. There are $3$ ways in total. $\blacksquare$
 
 ## Exercise 5
 
@@ -138,7 +138,7 @@ By **Definition 7.5.3 (Speed, Time, Distance)**, the time is $=2$ hours, and the
 
 ### Solution to Exercise 14
 
-By **Definition 7.5.3 (Speed, Time, Distance)**, Xiao Dong's speed is $=400\div5=80$ meters/minute; $80> 72$, so Xiao Dong is faster. $\blacksquare$
+By **Definition 7.5.3 (Speed, Time, Distance)**, Xiao Dong's speed is $=400\div5=80$ meters/minute; $80>72$, so Xiao Dong is faster. $\blacksquare$
 
 ## Exercise 15
 
@@ -162,7 +162,7 @@ By **Definition 7.5.3 (Speed, Time, Distance)**, she has traveled $305-20=285$ k
 
 ### Solution to Exercise 17
 
-The distance from Service Area B to City B is $=500-115-117=268$ km; $95\times3=285> 268$, so it can be reached. $\blacksquare$
+The distance from Service Area B to City B is $=500-115-117=268$ km; $95\times3=285>268$, so it can be reached. $\blacksquare$
 
 ## Exercise 18
 

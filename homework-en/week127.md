@@ -42,7 +42,7 @@ By **Definition 11.3.2 (Rule for Fraction Division)**: (1) $160\div\frac{4}{5}=1
 
 ### Solution to Exercise 4
 
-Let $a=\frac{2}{5}\div\frac{2}{3}$; by inverse multiplication $\frac{2}{3}\times a=\frac{2}{5}$; multiply both sides by $\frac{3}{2}$ to get $a=\frac{2}{5}\times\frac{3}{2}$. Thus **Definition 11.3.2 (Rule for Fraction Division)** holds for fractions too. $\blacksquare$
+Let $a=\frac{2}{5}\div\frac{2}{3}$; by inverse multiplication $\frac{2}{3}\times{a}=\frac{2}{5}$; multiply both sides by $\frac{3}{2}$ to get $a=\frac{2}{5}\times\frac{3}{2}$. Thus **Definition 11.3.2 (Rule for Fraction Division)** holds for fractions too. $\blacksquare$
 
 ## Exercise 5
 

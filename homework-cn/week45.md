@@ -26,11 +26,11 @@
 
 ## 练习二
 
-(课时 练习二 第 15 题 思考题) 已知 $39+8\times5< 100-\square\times7$, 那么 $\square$ 里可以填几?
+(课时 练习二 第 15 题 思考题) 已知 $39+8\times5<100-\square\times7$, 那么 $\square$ 里可以填几?
 
 ### 解答 练习二
 
-左边 $39+8\times5=39+40=79$. 要 $79< 100-\square\times7$, 即 $100-\square\times7> 79$, $\square\times7< 21$, $\square< 3$. $\square$ 可以填 $0,1,2$. $\blacksquare$
+左边 $39+8\times5=39+40=79$. 要 $79<100-\square\times7$, 即 $100-\square\times7>79$, $\square\times7<21$, $\square<3$. $\square$ 可以填 $0,1,2$. $\blacksquare$
 
 ## 练习三
 

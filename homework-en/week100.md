@@ -90,7 +90,7 @@ $3.3\times6.7=22.11$; $3.33\times66.7=222.111$; $3.333\times666.7=2222.1111$; $3
 
 ### Solution to Exercise 8
 
-By **Definition 9.2.6 (Estimation)**, estimating upward: $31\times2+27\times0.8=62+21.6=83.6< 89$, so the actual total is less than $89$ yuan; estimating downward: $30\times2+25\times0.8=60+20=80$, so the actual total is more than $80$ yuan. The remaining money is between $11$ and $20$ yuan, enough for the $10$-yuan eggs but not the $20$-yuan eggs. $\blacksquare$
+By **Definition 9.2.6 (Estimation)**, estimating upward: $31\times2+27\times0.8=62+21.6=83.6<89$, so the actual total is less than $89$ yuan; estimating downward: $30\times2+25\times0.8=60+20=80$, so the actual total is more than $80$ yuan. The remaining money is between $11$ and $20$ yuan, enough for the $10$-yuan eggs but not the $20$-yuan eggs. $\blacksquare$
 
 ## Exercise 9
 
@@ -106,7 +106,7 @@ By **Definition 9.2.7 (Tiered Billing)**, $6.3$ km is billed as $7$ km, and the 
 
 ### Solution to Exercise 10
 
-By **Definition 9.2.6 (Estimation)**, round each price upward: $3+6+2+4+7=22$ yuan; $22< 40$, so enough. $\blacksquare$
+By **Definition 9.2.6 (Estimation)**, round each price upward: $3+6+2+4+7=22$ yuan; $22<40$, so enough. $\blacksquare$
 
 ## Exercise 11
 
@@ -114,7 +114,7 @@ By **Definition 9.2.6 (Estimation)**, round each price upward: $3+6+2+4+7=22$ yu
 
 ### Solution to Exercise 11
 
-By **Definition 9.2.7 (分段计费)**: (1) $11< 12$, $11\times2.5=27.5$ yuan. (2) $12\times2.5+\left(17-12\right)\times3.8=30+19=49$ yuan. $\blacksquare$
+By **Definition 9.2.7 (分段计费)**: (1) $11<12$, $11\times2.5=27.5$ yuan. (2) $12\times2.5+\left(17-12\right)\times3.8=30+19=49$ yuan. $\blacksquare$
 
 ## Exercise 12
 
@@ -130,7 +130,7 @@ By **Definition 9.2.2 (小数乘小数)** and **Definition 9.2.5 (Operation Laws
 
 ### Solution to Exercise 13
 
-Room area $8.1\times5.2=42.12$ m$^2$. Each tile $0.6\times0.6=0.36$ m$^2$; $100$ tiles total $36$ m$^2< 42.12$ m$^2$, so not enough. $\blacksquare$
+Room area $8.1\times5.2=42.12$ m$^2$. Each tile $0.6\times0.6=0.36$ m$^2$; $100$ tiles total $36$ m$^2<42.12$ m$^2$, so not enough. $\blacksquare$
 
 ## Exercise 14
 
@@ -146,4 +146,4 @@ Room area $8.1\times5.2=42.12$ m$^2$. Each tile $0.6\times0.6=0.36$ m$^2$; $100$
 
 ### Solution to Exercise 15
 
-By **Definition 9.2.2 (小数乘小数)**, $1.\square2\times5.3$ has three decimal places, ruling out B ($0.996< 1\times5.3=5.3$, too small). Estimate the range: $1.02\times5.3=5.406$, $1.92\times5.3=10.176$. A $7.526$ ends in $6=2\times3$, correct; D $7.562$ ends in $2\neq2\times3=6$, wrong. Choose A or C; substituting to check: $1.42\times5.3=7.526$, choose A. $\blacksquare$
+By **Definition 9.2.2 (小数乘小数)**, $1.\square2\times5.3$ has three decimal places, ruling out B ($0.996<1\times5.3=5.3$, too small). Estimate the range: $1.02\times5.3=5.406$, $1.92\times5.3=10.176$. A $7.526$ ends in $6=2\times3$, correct; D $7.562$ ends in $2\neq2\times3=6$, wrong. Choose A or C; substituting to check: $1.42\times5.3=7.526$, choose A. $\blacksquare$

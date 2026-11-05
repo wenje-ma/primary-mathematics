@@ -54,7 +54,7 @@
 
 ### Solution to Exercise 1
 
-(1) By **Definition 8.5.7 (Interior-Angle Sum)**, the sum of the other two angles is $90^\circ$, e.g. $30^\circ$ and $60^\circ$, or $45^\circ$ and $45^\circ$. (2) By **Definition 8.5.4 (Relationship Among the Three Sides)**, $4-3< $ third side $< 4+3$, i.e. $1< $ third side $< 7$, so it can be $2,3,4,5,6\,\mathrm{cm}$. $\blacksquare$
+(1) By **Definition 8.5.7 (Interior-Angle Sum)**, the sum of the other two angles is $90^\circ$, e.g. $30^\circ$ and $60^\circ$, or $45^\circ$ and $45^\circ$. (2) By **Definition 8.5.4 (Relationship Among the Three Sides)**, $4-3<$ third side $<4+3$, i.e. $1<$ third side $<7$, so it can be $2,3,4,5,6\,\mathrm{cm}$. $\blacksquare$
 
 ## Exercise 2
 

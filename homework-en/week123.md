@@ -54,7 +54,7 @@ By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $80\times\frac{4}{5}=6
 
 ### Solution to Exercise 5
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: safe load $40\times\frac{3}{20}=6\,\text{kg}$. The bag $5\,\text{kg}< 6\,\text{kg}$, so not overweight. (2) Multiply your own weight by $\frac{3}{20}$. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: safe load $40\times\frac{3}{20}=6\,\text{kg}$. The bag $5\,\text{kg}<6\,\text{kg}$, so not overweight. (2) Multiply your own weight by $\frac{3}{20}$. $\blacksquare$
 
 ## Exercise 6
 

@@ -50,7 +50,7 @@ By **Definition 9.3.1 (除数是整数的小数除法)**: $42\div3=14$, $4.2\div
 
 ### Solution to Exercise 4
 
-By **Definition 9.3.1 (除数是整数的小数除法)**: $72\div15=4.8$; $9\div4=2.25$; $14.21\div7=2.03$; $25.5\div6=4.25$; $5.6\div7=0.8$ (integer part $5< 7$, first write a $0$). $\blacksquare$
+By **Definition 9.3.1 (除数是整数的小数除法)**: $72\div15=4.8$; $9\div4=2.25$; $14.21\div7=2.03$; $25.5\div6=4.25$; $5.6\div7=0.8$ (integer part $5<7$, first write a $0$). $\blacksquare$
 
 ## Exercise 5
 

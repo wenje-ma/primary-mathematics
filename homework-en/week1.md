@@ -10,7 +10,7 @@
 
 > **Definition 1.1.3 (等号,大于号,小于号)**
 > 
-> 表示两个数大小关系的符号: 等号 "$=$" (读作"等于"), 大于号 "$> $" (读作"大于"), 小于号 "$< $" (读作"小于"), 开口朝向较大的数.
+> 表示两个数大小关系的符号: 等号 "$=$" (读作"等于"), 大于号 "$>$" (读作"大于"), 小于号 "$<$" (读作"小于"), 开口朝向较大的数.
 
 > **Definition 1.1.4 (基数与序数)**
 > 
@@ -54,7 +54,7 @@ By **Definition 1.1.1 (Cardinal Number)**, the numbers $1,2,3,4,5$ represent $1,
 
 ### Solution to Exercise 3
 
-By **Definition 1.1.1 (Cardinal Number)**, count the number of each animal and write the corresponding numbers: $1, 4, 3, 2$. $\blacksquare$
+By **Definition 1.1.1 (Cardinal Number)**, count the number of each animal and write the corresponding numbers: $1,4,3,2$. $\blacksquare$
 
 ## Exercise 4
 
@@ -82,13 +82,13 @@ By **Definition 1.1.2 (Same Amount, More, Fewer)**, the roosters are fewer, so d
 
 ## Exercise 7
 
-(Lesson: Comparing Size, Practice, Problem 3) Fill in "$> $" "$< $" "$=$": $4> 3$; $3\;\_\_\;4$; $3\;\_\_\;2$; $2\;\_\_\;3$.
+(Lesson: Comparing Size, Practice, Problem 3) Fill in "$>$" "$<$" "$=$": $4>3$; $3\;\_\_\;4$; $3\;\_\_\;2$; $2\;\_\_\;3$.
 
 ### Solution to Exercise 7
 
 By **Definition 1.1.3 (Equals Sign, Greater-Than Sign, Less-Than Sign)**, the opening faces the larger number:
 
-$4> 3$, $3< 4$, $3> 2$, $2< 3$. $\blacksquare$
+$4>3$, $3<4$, $3>2$, $2<3$. $\blacksquare$
 
 ## Exercise 8
 
@@ -96,15 +96,15 @@ $4> 3$, $3< 4$, $3> 2$, $2< 3$. $\blacksquare$
 
 ### Solution to Exercise 8
 
-By **Definition 1.1.2 (Same Amount, More, Fewer)**, the rabbits and blocks are the same amount; the rabbits are more than the carrots (or the carrots are fewer than the rabbits). Write the comparison sentence according to the actual quantities in the picture; for example, if there are $3$ rabbits and $1$ carrot, then $3> 1$. You can also compare the numbers of bears and chairs, etc. $\blacksquare$
+By **Definition 1.1.2 (Same Amount, More, Fewer)**, the rabbits and blocks are the same amount; the rabbits are more than the carrots (or the carrots are fewer than the rabbits). Write the comparison sentence according to the actual quantities in the picture; for example, if there are $3$ rabbits and $1$ carrot, then $3>1$. You can also compare the numbers of bears and chairs, etc. $\blacksquare$
 
 ## Exercise 9
 
-(Lesson: Comparing Size, Practice, Problem 5) Fill in "$> $" "$< $" "$=$": $5> 2$; $3\;\_\_\;5$; $4\;\_\_\;3$; $5\;\_\_\;5$; $4\;\_\_\;1$.
+(Lesson: Comparing Size, Practice, Problem 5) Fill in "$>$" "$<$" "$=$": $5>2$; $3\;\_\_\;5$; $4\;\_\_\;3$; $5\;\_\_\;5$; $4\;\_\_\;1$.
 
 ### Solution to Exercise 9
 
-By **Definition 1.1.3 (Equals Sign, Greater-Than Sign, Less-Than Sign)**: $5> 2$, $3< 5$, $4> 3$, $5=5$, $4> 1$. $\blacksquare$
+By **Definition 1.1.3 (Equals Sign, Greater-Than Sign, Less-Than Sign)**: $5>2$, $3<5$, $4>3$, $5=5$, $4>1$. $\blacksquare$
 
 ## Exercise 10
 
@@ -112,7 +112,7 @@ By **Definition 1.1.3 (Equals Sign, Greater-Than Sign, Less-Than Sign)**: $5> 2$
 
 ### Solution to Exercise 10
 
-By **Definition 1.1.2 (Same Amount, More, Fewer)**, draw $4$ $\triangle$, draw more than $4$ $\circ$ (e.g. $5$), and draw fewer than $4$ $\diamond$ (e.g. $3$), corresponding to $4=4$, $4< 5$, $4> 3$. $\blacksquare$
+By **Definition 1.1.2 (Same Amount, More, Fewer)**, draw $4$ $\triangle$, draw more than $4$ $\circ$ (e.g. $5$), and draw fewer than $4$ $\diamond$ (e.g. $3$), corresponding to $4=4$, $4<5$, $4>3$. $\blacksquare$
 
 ## Exercise 11
 
@@ -120,7 +120,7 @@ By **Definition 1.1.2 (Same Amount, More, Fewer)**, draw $4$ $\triangle$, draw m
 
 ### Solution to Exercise 11
 
-$4> 2$, $4< 5$, $3> 1$. $\blacksquare$
+$4>2$, $4<5$, $3>1$. $\blacksquare$
 
 ## Exercise 12
 

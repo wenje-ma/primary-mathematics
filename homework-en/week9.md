@@ -74,11 +74,11 @@ By **Definition 1.5.3 (Using Addition to Solve Problems)**: $7+6=13$ (items); $4
 
 ## Exercise 8
 
-(Lesson: 5, 4, 3, 2 Plus Something, Practice, Problem 6) Fill "$> $" "$< $" or "$=$" in $\bigcirc$: $9+4\bigcirc13$; $7+9\bigcirc15$; $4+6\bigcirc11$; $6+7\bigcirc12$; $8+5\bigcirc14$; $9+8\bigcirc16$.
+(Lesson: 5, 4, 3, 2 Plus Something, Practice, Problem 6) Fill "$>$" "$<$" or "$=$" in $\bigcirc$: $9+4\bigcirc13$; $7+9\bigcirc15$; $4+6\bigcirc11$; $6+7\bigcirc12$; $8+5\bigcirc14$; $9+8\bigcirc16$.
 
 ### Solution to Exercise 8
 
-Calculate first, then compare: $9+4=13$, so $=$; $7+9=16> 15$; $4+6=10< 11$; $6+7=13> 12$; $8+5=13< 14$; $9+8=17> 16$. $\blacksquare$
+Calculate first, then compare: $9+4=13$, so $=$; $7+9=16>15$; $4+6=10<11$; $6+7=13>12$; $8+5=13<14$; $9+8=17>16$. $\blacksquare$
 
 ## Exercise 9
 
@@ -162,11 +162,11 @@ By **Definition 1.5.3 (Using Addition to Solve Problems)**, count the sticks use
 
 ## Exercise 19
 
-(Lesson: Solving Problems, Practice, Problem 6) Fill "$> $" "$< $" or "$=$" in $\bigcirc$: $13\bigcirc4+8$; $3+9\bigcirc14$; $7+6\bigcirc12$; $11\bigcirc5+7$; $6+5\bigcirc12$; $3+8\bigcirc11$.
+(Lesson: Solving Problems, Practice, Problem 6) Fill "$>$" "$<$" or "$=$" in $\bigcirc$: $13\bigcirc4+8$; $3+9\bigcirc14$; $7+6\bigcirc12$; $11\bigcirc5+7$; $6+5\bigcirc12$; $3+8\bigcirc11$.
 
 ### Solution to Exercise 19
 
-Calculate first, then compare: $4+8=12$, $13> 12$; $3+9=12< 14$; $7+6=13> 12$; $5+7=12$, $11< 12$; $6+5=11< 12$; $3+8=11$, so $=$. $\blacksquare$
+Calculate first, then compare: $4+8=12$, $13>12$; $3+9=12<14$; $7+6=13>12$; $5+7=12$, $11<12$; $6+5=11<12$; $3+8=11$, so $=$. $\blacksquare$
 
 ## Exercise 20
 

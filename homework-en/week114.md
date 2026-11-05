@@ -70,7 +70,7 @@ By **Definition 10.3.5 (Conversion Between Volume Units)** and area conversions:
 
 ### Solution to Exercise 6
 
-By **Definition 10.3.4 (Volume Formulas)**, $11.76\,\mathrm{dm^3}=11760\,\mathrm{cm^3}$; the box height $=11760\div\left(28\times20\right)=21\,\mathrm{cm}$. Inside, length $28> 25$, width $20> 16$, height $21> 18$; all three directions fit, so yes it holds. $\blacksquare$
+By **Definition 10.3.4 (Volume Formulas)**, $11.76\,\mathrm{dm^3}=11760\,\mathrm{cm^3}$; the box height $=11760\div\left(28\times20\right)=21\,\mathrm{cm}$. Inside, length $28>25$, width $20>16$, height $21>18$; all three directions fit, so yes it holds. $\blacksquare$
 
 ## Exercise 7
 

@@ -102,7 +102,7 @@ The second per day: $608\div8=76$ (insects), $645-76=569$ (insects). $\blacksqua
 
 ### Solution to Exercise 8
 
-(1) $4\times2\times15=120$ (apples). (2) There are $3\times36=108$ (people), $120> 108$, so it is enough. (3) For example, how much are these apples in total, $120\div4\times6=180$ yuan; answers may vary. $\blacksquare$
+(1) $4\times2\times15=120$ (apples). (2) There are $3\times36=108$ (people), $120>108$, so it is enough. (3) For example, how much are these apples in total, $120\div4\times6=180$ yuan; answers may vary. $\blacksquare$
 
 ## Exercise 9
 

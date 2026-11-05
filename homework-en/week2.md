@@ -202,11 +202,11 @@ According to the numbers of foxes and frogs in the picture, by **Definition 1.1.
 
 ## Exercise 22
 
-(Review and Organization, Practice, Problem 5) What can go in $\square$: $\square> 3$; $\square< 5$; $4> \square$; $2< \square$.
+(Review and Organization, Practice, Problem 5) What can go in $\square$: $\square>3$; $\square<5$; $4>\square$; $2<\square$.
 
 ### Solution to Exercise 22
 
-$\square> 3$, can fill $4,5$; $\square< 5$, can fill $0\sim4$; $4> \square$, can fill $0\sim3$; $2< \square$, can fill $3,4,5$. Answers are not unique. $\blacksquare$
+$\square>3$, can fill $4,5$; $\square<5$, can fill $0\sim4$; $4>\square$, can fill $0\sim3$; $2<\square$, can fill $3,4,5$. Answers are not unique. $\blacksquare$
 
 ## Exercise 23
 

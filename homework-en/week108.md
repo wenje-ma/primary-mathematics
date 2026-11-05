@@ -174,7 +174,7 @@ By **Definition 9.8.2 (可能性的大小)**, make the number of red faces excee
 
 ### Solution to Exercise 17
 
-(1) False; each toss may be heads or tails independently. (2) False; e.g. $1+1=2> 1\times1=1$. (3) False; a triangle's interior angle sum must be $180^\circ$. (4) True; for a fixed perimeter, the closer length and width are, the larger the area, and a square (length equal to width) has the largest area. $\blacksquare$
+(1) False; each toss may be heads or tails independently. (2) False; e.g. $1+1=2>1\times1=1$. (3) False; a triangle's interior angle sum must be $180^\circ$. (4) True; for a fixed perimeter, the closer length and width are, the larger the area, and a square (length equal to width) has the largest area. $\blacksquare$
 
 ## Exercise 18
 

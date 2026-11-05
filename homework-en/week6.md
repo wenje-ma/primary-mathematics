@@ -106,11 +106,11 @@ By **Definition 1.2.4 (Four Sentences from One Picture)**, e.g. "how many in the
 
 ## Exercise 7
 
-(Lesson: Review and Organization, Practice, Problem 6) Fill "$> $" "$< $" or "$=$" in $\bigcirc$: $3+6\bigcirc9$; $2+4\bigcirc7$; $7+3\bigcirc9$; $10-4\bigcirc8$; $9-3\bigcirc5$; $9+0\bigcirc9$.
+(Lesson: Review and Organization, Practice, Problem 6) Fill "$>$" "$<$" or "$=$" in $\bigcirc$: $3+6\bigcirc9$; $2+4\bigcirc7$; $7+3\bigcirc9$; $10-4\bigcirc8$; $9-3\bigcirc5$; $9+0\bigcirc9$.
 
 ### Solution to Exercise 7
 
-Calculate both sides first, then compare: $3+6=9$, so $=$; $2+4=6< 7$, so $< $; $7+3=10> 9$, so $> $; $10-4=6< 8$, so $< $; $9-3=6> 5$, so $> $; $9+0=9$, so $=$. $\blacksquare$
+Calculate both sides first, then compare: $3+6=9$, so $=$; $2+4=6<7$, so $<$; $7+3=10>9$, so $>$; $10-4=6<8$, so $<$; $9-3=6>5$, so $>$; $9+0=9$, so $=$. $\blacksquare$
 
 ## Exercise 8
 
@@ -122,11 +122,11 @@ Choose three numbers with an addition/subtraction relationship from these; e.g. 
 
 ## Exercise 9
 
-(Lesson: Review and Organization, Practice, Problem 8) What is the smallest number that can go in $\square$? $2< \square$; $5< \square$; $\square> 6$; $\square> 8$.
+(Lesson: Review and Organization, Practice, Problem 8) What is the smallest number that can go in $\square$? $2<\square$; $5<\square$; $\square>6$; $\square>8$.
 
 ### Solution to Exercise 9
 
-$2< \square$, smallest is $3$; $5< \square$, smallest is $6$; $\square> 6$, smallest is $7$; $\square> 8$, smallest is $9$. $\blacksquare$
+$2<\square$, smallest is $3$; $5<\square$, smallest is $6$; $\square>6$, smallest is $7$; $\square>8$, smallest is $9$. $\blacksquare$
 
 ## Exercise 10
 

@@ -94,7 +94,7 @@ By **Definition 4.2.3 (Dividend = Divisor x Quotient + Remainder)**, dividend $=
 
 ### Solution to Exercise 8
 
-Organize it into a map as "equal distribution — no remainder / with remainder — table division / division with remainder — solving real problems", marking remainder $< $ divisor and dividend $=$ divisor $\times$ quotient $+$ remainder. $\blacksquare$
+Organize it into a map as "equal distribution — no remainder / with remainder — table division / division with remainder — solving real problems", marking remainder $<$ divisor and dividend $=$ divisor $\times$ quotient $+$ remainder. $\blacksquare$
 
 ## Exercise 9
 

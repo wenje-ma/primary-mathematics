@@ -42,7 +42,7 @@
 
 ### 解答 练习四
 
-设 $a=\frac{2}{5}\div\frac{2}{3}$, 由乘除互逆 $\frac{2}{3}\times a=\frac{2}{5}$, 两边同乘 $\frac{3}{2}$ 得 $a=\frac{2}{5}\times\frac{3}{2}$. 故**定义 11.3.2 (分数除法法则)** 对分数同样成立. $\blacksquare$
+设 $a=\frac{2}{5}\div\frac{2}{3}$, 由乘除互逆 $\frac{2}{3}\times{a}=\frac{2}{5}$, 两边同乘 $\frac{3}{2}$ 得 $a=\frac{2}{5}\times\frac{3}{2}$. 故**定义 11.3.2 (分数除法法则)** 对分数同样成立. $\blacksquare$
 
 ## 练习五
 

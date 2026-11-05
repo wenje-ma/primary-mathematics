@@ -86,7 +86,7 @@ $72\div9=8$, $45\div9=5$, $64-8=56$, $28\div4=7$, $3\times7=21$, $30\div6=5$, $5
 
 ### 解答 练习六
 
-$54\div9=6$, $24-6=18$, $36\div4=9$, $7\times7=49$, $63\div9=7$, $8\times3=24$, $9\times8=72$. 从小到大: $54\div9< 63\div9< 36\div4< 24-6< 8\times3< 7\times7< 9\times8$. $\blacksquare$
+$54\div9=6$, $24-6=18$, $36\div4=9$, $7\times7=49$, $63\div9=7$, $8\times3=24$, $9\times8=72$. 从小到大: $54\div9<63\div9<36\div4<24-6<8\times3<7\times7<9\times8$. $\blacksquare$
 
 ## 练习七
 

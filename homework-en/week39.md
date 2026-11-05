@@ -58,11 +58,11 @@ Six thousand three is $6003$; six thousand thirty-three is $6033$; six thousand 
 
 ## Exercise 3
 
-(Lesson: Organization and Review, Practice) Fill the $\bigcirc$ with $> $ or $< $: $1020\bigcirc999$, $398\bigcirc402$, $5940\bigcirc5230$.
+(Lesson: Organization and Review, Practice) Fill the $\bigcirc$ with $>$ or $<$: $1020\bigcirc999$, $398\bigcirc402$, $5940\bigcirc5230$.
 
 ### Solution to Exercise 3
 
-By **Definition 4.4.5 (比较万以内数的大小)**, $1020> 999$ (four-digit is greater than three-digit); $398< 402$; $5940> 5230$ (thousands equal, compare hundreds, $9> 2$). $\blacksquare$
+By **Definition 4.4.5 (比较万以内数的大小)**, $1020>999$ (four-digit is greater than three-digit); $398<402$; $5940>5230$ (thousands equal, compare hundreds, $9>2$). $\blacksquare$
 
 ## Exercise 4
 
@@ -70,7 +70,7 @@ By **Definition 4.4.5 (比较万以内数的大小)**, $1020> 999$ (four-digit i
 
 ### Solution to Exercise 4
 
-By **Definition 4.4.5 (比较万以内数的大小)**, compare: both four-digit, compare from the thousands, $8> 7$, so $8530> 7421$. When making a number, put the larger digits in the higher places to make it larger. $\blacksquare$
+By **Definition 4.4.5 (比较万以内数的大小)**, compare: both four-digit, compare from the thousands, $8>7$, so $8530>7421$. When making a number, put the larger digits in the higher places to make it larger. $\blacksquare$
 
 ## Exercise 5
 
@@ -106,11 +106,11 @@ $9007=9000+7$; $1640=1000+600+40$; $6085=6000+80+5$; $2831=2000+800+30+1$. $\bla
 
 ## Exercise 9
 
-(Lesson: Organization and Review, Practice) Fill the $\square$ with a suitable digit: $52\square6< 861$; $5265> \square86$; $1000> \square99$; $362> \square79$; $710> 7\square$; $145< \square53$.
+(Lesson: Organization and Review, Practice) Fill the $\square$ with a suitable digit: $52\square6<861$; $5265>\square86$; $1000>\square99$; $362>\square79$; $710>7\square$; $145<\square53$.
 
 ### Solution to Exercise 9
 
-Compare digit by digit per **Definition 4.4.5 (比较万以内数的大小)**; for example $52\square6$ is four-digit and greater than $861$, so any digit works; for $1000> \square99$, the right side is three-digit, so $\square$ is $1\sim9$; fill suitable digits per place for the rest; the answer is not unique. $\blacksquare$
+Compare digit by digit per **Definition 4.4.5 (比较万以内数的大小)**; for example $52\square6$ is four-digit and greater than $861$, so any digit works; for $1000>\square99$, the right side is three-digit, so $\square$ is $1\sim9$; fill suitable digits per place for the rest; the answer is not unique. $\blacksquare$
 
 ## Exercise 10
 

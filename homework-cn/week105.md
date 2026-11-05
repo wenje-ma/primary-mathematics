@@ -14,7 +14,7 @@
 
 > **定义 9.5.4 (等式的性质)**
 > 
-> 如果 $a=b$, 那么 $a+c=b+c$, $a-c=b-c$, $ac=bc$, $a\div c=b\div c$ ($c\neq0$). 利用等式的性质可以求出等式中的未知数.
+> 如果 $a=b$, 那么 $a+c=b+c$, $a-c=b-c$, $ac=bc$, $a\div{c}=b\div{c}$ ($c\neq0$). 利用等式的性质可以求出等式中的未知数.
 
 > **定义 9.5.5 (用字母表示数量关系并代入求值)**
 > 
@@ -34,15 +34,15 @@
 
 ### 解答 练习二
 
-$c=an$, $a=c\div n$, $n=c\div a$. 一套桌椅 $\left(120+m\right)$ 元. $m=80$ 时 $120+80=200$ 元. $\blacksquare$
+$c=an$, $a=c\div{n}$, $n=c\div{a}$. 一套桌椅 $\left(120+m\right)$ 元. $m=80$ 时 $120+80=200$ 元. $\blacksquare$
 
 ## 练习三
 
-(课时 用字母表示数 练习十一 综合运用 第 3 题) 根据运算律填空: $a+\left(2+c\right)=\left(\_\_+\_\_\right)+\_\_$; $a\cdot b\cdot4=\_\_\cdot\left(\_\_\cdot\_\_\right)$; $3x+5x=\left(\_\_+\_\_\right)\cdot\_\_$; $4\left(x+3\right)=\_\_\cdot\_\_+\_\_\cdot\_\_$.
+(课时 用字母表示数 练习十一 综合运用 第 3 题) 根据运算律填空: $a+\left(2+c\right)=\left(\_\_+\_\_\right)+\_\_$; $a\cdot{b}\cdot4=\_\_\cdot\left(\_\_\cdot\_\_\right)$; $3x+5x=\left(\_\_+\_\_\right)\cdot\_\_$; $4\left(x+3\right)=\_\_\cdot\_\_+\_\_\cdot\_\_$.
 
 ### 解答 练习三
 
-由**定义 9.5.3 (用字母表示运算律和公式)**: $a+\left(2+c\right)=\left(a+2\right)+c$; $a\cdot b\cdot4=a\cdot\left(b\cdot4\right)$; $3x+5x=\left(3+5\right)\cdot x=8x$; $4\left(x+3\right)=4\cdot x+4\cdot3=4x+12$. $\blacksquare$
+由**定义 9.5.3 (用字母表示运算律和公式)**: $a+\left(2+c\right)=\left(a+2\right)+c$; $a\cdot{b}\cdot4=a\cdot\left(b\cdot4\right)$; $3x+5x=\left(3+5\right)\cdot{x}=8x$; $4\left(x+3\right)=4\cdot{x}+4\cdot3=4x+12$. $\blacksquare$
 
 ## 练习四
 
@@ -142,7 +142,7 @@ $x=8$ 时 $x^2=64$, $4x=32$. $x^2=4x$ 即 $x^2-4x=0$, $x\left(x-4\right)=0$, $x=
 
 ## 练习十六
 
-(课时 用字母表示数 练习十三 复习巩固 第 2 题) 如果 $a=b$, 根据等式性质填空: $a+3=b+\left(\ \ \right)$; $a-\left(\ \ \right)=b-9$; $a\times1.5=b\times\left(\ \ \right)$; $a-\left(\ \ \right)=b-c$.
+(课时 用字母表示数 练习十三 复习巩固 第 2 题) 如果 $a=b$, 根据等式性质填空: $a+3=b+\left(\,\,\right)$; $a-\left(\,\,\right)=b-9$; $a\times1.5=b\times\left(\,\,\right)$; $a-\left(\,\,\right)=b-c$.
 
 ### 解答 练习十六
 

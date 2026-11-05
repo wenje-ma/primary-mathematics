@@ -86,7 +86,7 @@ Dividing into $2$: fold along the center line to get $2$ identical rectangles; i
 
 ### Solution to Exercise 6
 
-$54\div9=6$, $24-6=18$, $36\div4=9$, $7\times7=49$, $63\div9=7$, $8\times3=24$, $9\times8=72$. Smallest to largest: $54\div9< 63\div9< 36\div4< 24-6< 8\times3< 7\times7< 9\times8$. $\blacksquare$
+$54\div9=6$, $24-6=18$, $36\div4=9$, $7\times7=49$, $63\div9=7$, $8\times3=24$, $9\times8=72$. Smallest to largest: $54\div9<63\div9<36\div4<24-6<8\times3<7\times7<9\times8$. $\blacksquare$
 
 ## Exercise 7
 

@@ -34,11 +34,11 @@
 
 > **Definition 11.5.4 (圆的周长)**
 > 
-> 围成圆的曲线的长叫圆的周长, $C=\pi d=2\pi r$.
+> 围成圆的曲线的长叫圆的周长, $C=\pi{d}=2\pi{r}$.
 
 > **Definition 11.5.5 (圆的面积)**
 > 
-> 圆所占平面的大小叫圆的面积. 把圆等分拼成近似长方形, 长为 $\pi r$, 宽为 $r$, 故 $S=\pi r^2$.
+> 圆所占平面的大小叫圆的面积. 把圆等分拼成近似长方形, 长为 $\pi{r}$, 宽为 $r$, 故 $S=\pi{r}^2$.
 
 ## Exercise 1
 
@@ -82,11 +82,11 @@ By **Definition 11.3.3 (Work Problems)**: $1\div\left(\frac{1}{6}+\frac{1}{4}\ri
 
 ## Exercise 6
 
-(Lesson: Summary and Review, Exercise 9 Extension Problem 8) Observe $\frac{3}{4}\times\frac{b}{a}$ and $\frac{3}{4}\div\frac{b}{a}$ ($a,b\neq0$). (1) If $\frac{3}{4}\times\frac{b}{a}> \frac{3}{4}\div\frac{b}{a}$, then $a\bigcirc b$; (2) if $\frac{3}{4}\times\frac{b}{a}=\frac{3}{4}\div\frac{b}{a}$, then $a\bigcirc b$; (3) if $\frac{3}{4}\times\frac{b}{a}< \frac{3}{4}\div\frac{b}{a}$, then $a\bigcirc b$. Also: if $\frac{3}{4}\times c=\frac{3}{4}\div d$, what is the relation of $c$ and $d$?
+(Lesson: Summary and Review, Exercise 9 Extension Problem 8) Observe $\frac{3}{4}\times\frac{b}{a}$ and $\frac{3}{4}\div\frac{b}{a}$ ($a,b\neq0$). (1) If $\frac{3}{4}\times\frac{b}{a}>\frac{3}{4}\div\frac{b}{a}$, then $a\bigcirc{b}$; (2) if $\frac{3}{4}\times\frac{b}{a}=\frac{3}{4}\div\frac{b}{a}$, then $a\bigcirc{b}$; (3) if $\frac{3}{4}\times\frac{b}{a}<\frac{3}{4}\div\frac{b}{a}$, then $a\bigcirc{b}$. Also: if $\frac{3}{4}\times{c}=\frac{3}{4}\div{d}$, what is the relation of $c$ and $d$?
 
 ### Solution to Exercise 6
 
-$\frac{3}{4}\div\frac{b}{a}=\frac{3}{4}\times\frac{a}{b}$. Compare $\frac{b}{a}$ with $\frac{a}{b}$: (1) $\frac{b}{a}> \frac{a}{b}$, i.e. $b^2> a^2$, $b> a$, fill $< $; (2) $\frac{b}{a}=\frac{a}{b}$, $a=b$; (3) $\frac{b}{a}< \frac{a}{b}$, $b< a$, fill $> $. If $\frac{3}{4}\times c=\frac{3}{4}\div d=\frac{3}{4}\times\frac{1}{d}$, then $c=\frac{1}{d}$, i.e. $c,d$ are reciprocals. $\blacksquare$
+$\frac{3}{4}\div\frac{b}{a}=\frac{3}{4}\times\frac{a}{b}$. Compare $\frac{b}{a}$ with $\frac{a}{b}$: (1) $\frac{b}{a}>\frac{a}{b}$, i.e. $b^2>{}a^2$, $b>{}a$, fill $<$; (2) $\frac{b}{a}=\frac{a}{b}$, $a=b$; (3) $\frac{b}{a}<\frac{a}{b}$, $b<{}a$, fill $>$. If $\frac{3}{4}\times{c}=\frac{3}{4}\div{d}=\frac{3}{4}\times\frac{1}{d}$, then $c=\frac{1}{d}$, i.e. $c,d$ are reciprocals. $\blacksquare$
 
 ## Exercise 7
 

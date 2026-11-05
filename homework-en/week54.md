@@ -94,7 +94,7 @@ By **Definition 5.8.1 (分数的初步认识)**, take the total number of parts 
 
 ### Solution to Exercise 10
 
-By **Definition 5.8.2 (分数的大小比较)**, with the same denominator the larger numerator is larger, for example $\frac{5}{9}> \frac{4}{9}$. $\blacksquare$
+By **Definition 5.8.2 (分数的大小比较)**, with the same denominator the larger numerator is larger, for example $\frac{5}{9}>\frac{4}{9}$. $\blacksquare$
 
 ## Exercise 11
 
@@ -110,7 +110,7 @@ By **Definition 5.8.1 (分数的初步认识)**, look at how many equal parts th
 
 ### Solution to Exercise 12
 
-By **Definition 5.8.2 (分数的大小比较)**, write the fractions first, then compare: for the same denominator look at the numerator, for the same numerator look at the denominator. Fill in $\left(\ \right)< \left(\ \right)$ according to the figure. $\blacksquare$
+By **Definition 5.8.2 (分数的大小比较)**, write the fractions first, then compare: for the same denominator look at the numerator, for the same numerator look at the denominator. Fill in $\left(\,\right)<\left(\,\right)$ according to the figure. $\blacksquare$
 
 ## Exercise 13
 
@@ -170,7 +170,7 @@ $1-\frac{2}{3}=\frac{1}{3}$. The four-person boats are $\frac{1}{3}$. $\blacksqu
 
 ## Exercise 20
 
-(Lesson: Practice 16, Problem 5) Fill in the numbers: (1) $\frac{\left(\ \right)}{5}+\frac{\left(\ \right)}{5}=\frac{4}{5}$; (2) $\frac{\left(\ \right)}{9}-\frac{\left(\ \right)}{9}=\frac{1}{9}$.
+(Lesson: Practice 16, Problem 5) Fill in the numbers: (1) $\frac{\left(\,\right)}{5}+\frac{\left(\,\right)}{5}=\frac{4}{5}$; (2) $\frac{\left(\,\right)}{9}-\frac{\left(\,\right)}{9}=\frac{1}{9}$.
 
 ### Solution to Exercise 20
 

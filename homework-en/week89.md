@@ -50,11 +50,11 @@ By **Definition 8.4.7 (Decimals and Unit Conversion)**: $1980\,\mathrm{kg}=1.98\
 
 ## Exercise 2
 
-(Lesson: Decimals and Unit Conversion, Practice 12, Problem 3) Fill in the $\bigcirc$ with "$> $", "$< $" or "$=$": $284\,\mathrm{g}\bigcirc0.284\,\mathrm{kg}$; $362\,\mathrm{cm}\bigcirc3.61\,\mathrm{m}$; $1480\,\mathrm{m}\bigcirc1.5\,\mathrm{km}$; $532\,\mathrm{cm}\bigcirc5.3\,\mathrm{m}$.
+(Lesson: Decimals and Unit Conversion, Practice 12, Problem 3) Fill in the $\bigcirc$ with "$>$", "$<$" or "$=$": $284\,\mathrm{g}\bigcirc0.284\,\mathrm{kg}$; $362\,\mathrm{cm}\bigcirc3.61\,\mathrm{m}$; $1480\,\mathrm{m}\bigcirc1.5\,\mathrm{km}$; $532\,\mathrm{cm}\bigcirc5.3\,\mathrm{m}$.
 
 ### Solution to Exercise 2
 
-Compare after unifying units: $284\,\mathrm{g}=0.284\,\mathrm{kg}$, so $=$; $362\,\mathrm{cm}=3.62\,\mathrm{m}> 3.61\,\mathrm{m}$; $1480\,\mathrm{m}=1.48\,\mathrm{m}< 1.5\,\mathrm{km}$; $532\,\mathrm{cm}=5.32\,\mathrm{m}> 5.3\,\mathrm{m}$. $\blacksquare$
+Compare after unifying units: $284\,\mathrm{g}=0.284\,\mathrm{kg}$, so $=$; $362\,\mathrm{cm}=3.62\,\mathrm{m}>3.61\,\mathrm{m}$; $1480\,\mathrm{m}=1.48\,\mathrm{m}<1.5\,\mathrm{km}$; $532\,\mathrm{cm}=5.32\,\mathrm{m}>5.3\,\mathrm{m}$. $\blacksquare$
 
 ## Exercise 3
 
@@ -110,7 +110,7 @@ By **Definition 8.4.9 (Rewriting Larger Numbers in Units of Ten Thousand or Hund
 
 ### Solution to Exercise 9
 
-By **Definition 8.4.8 (Approximate Values of Decimals)**: $9.956\approx10,\ 10.0,\ 9.96$; $0.905\approx1,\ 0.9,\ 0.91$; $51.463\approx51,\ 51.5,\ 51.46$; $1.995\approx2,\ 2.0,\ 2.00$. $\blacksquare$
+By **Definition 8.4.8 (Approximate Values of Decimals)**: $9.956\approx10,\,10.0,\,9.96$; $0.905\approx1,\,0.9,\,0.91$; $51.463\approx51,\,51.5,\,51.46$; $1.995\approx2,\,2.0,\,2.00$. $\blacksquare$
 
 ## Exercise 10
 
@@ -118,7 +118,7 @@ By **Definition 8.4.8 (Approximate Values of Decimals)**: $9.956\approx10,\ 10.0
 
 ### Solution to Exercise 10
 
-$5< 5.28< 6$, approximates $5$; $12< 12.71< 13$, approximates $13$; $4< 4.86< 5$, approximates $5$; $7< 7.05< 8$, approximates $7$. $\blacksquare$
+$5<5.28<6$, approximates $5$; $12<12.71<13$, approximates $13$; $4<4.86<5$, approximates $5$; $7<7.05<8$, approximates $7$. $\blacksquare$
 
 ## Exercise 11
 

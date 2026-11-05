@@ -74,7 +74,7 @@ $\div\frac{2}{3}\div\frac{3}{4}\times\frac{1}{2}=\times\frac{3}{2}\times\frac{4}
 
 ### 解答 练习八
 
-由**定义 11.3.3 (工程问题)**: 合种需 $1\div\left(\frac{1}{12}+\frac{1}{10}\right)=1\div\frac{11}{60}=\frac{60}{11}\approx5.45$ (天) $< 6$ 天, 能种完. $\blacksquare$
+由**定义 11.3.3 (工程问题)**: 合种需 $1\div\left(\frac{1}{12}+\frac{1}{10}\right)=1\div\frac{11}{60}=\frac{60}{11}\approx5.45$ (天) $<6$ 天, 能种完. $\blacksquare$
 
 ## 练习九
 

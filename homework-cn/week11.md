@@ -86,11 +86,11 @@
 
 ## 练习七
 
-(课时 练一练 第 12 题) $\square$ 里可以填几? $9+\square+6< 15$; $18-\square> 10$; $13+\square< 19$.
+(课时 练一练 第 12 题) $\square$ 里可以填几? $9+\square+6<15$; $18-\square>10$; $13+\square<19$.
 
 ### 解答 练习七
 
-$9+\square+6< 15$, 即 $15+\square< 15$, $\square$ 可填 $0$; $18-\square> 10$, $\square$ 可填 $0\sim7$; $13+\square< 19$, $\square$ 可填 $0\sim5$. $\blacksquare$
+$9+\square+6<15$, 即 $15+\square<15$, $\square$ 可填 $0$; $18-\square>10$, $\square$ 可填 $0\sim7$; $13+\square<19$, $\square$ 可填 $0\sim5$. $\blacksquare$
 
 ## 练习八
 
@@ -98,7 +98,7 @@ $9+\square+6< 15$, 即 $15+\square< 15$, $\square$ 可填 $0$; $18-\square> 10$,
 
 ### 解答 练习八
 
-同一本书总页数相同, 读得少的剩下得多. 小明读了 $8$ 页, 小华读了 $9$ 页, $8< 9$, 故小明剩下的多. $\blacksquare$
+同一本书总页数相同, 读得少的剩下得多. 小明读了 $8$ 页, 小华读了 $9$ 页, $8<9$, 故小明剩下的多. $\blacksquare$
 
 ## 练习九
 

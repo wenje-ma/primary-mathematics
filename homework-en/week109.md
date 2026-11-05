@@ -62,11 +62,11 @@ By **Definition 9.9.1 (小数乘除法的整理)**: $1.36\times0.05=0.068$; $32.
 
 ## Exercise 4
 
-(Lesson: Review and Connections, Exercise 21, Review, Problem 2) Fill in $\bigcirc$ with $> $, $< $, or $=$: (1) when $x=50$, $2x-16\bigcirc68$, $2x+16\bigcirc68$; (2) when $x=5$, $4x+3x\bigcirc35$, $4+3x\bigcirc35$.
+(Lesson: Review and Connections, Exercise 21, Review, Problem 2) Fill in $\bigcirc$ with $>$, $<$, or $=$: (1) when $x=50$, $2x-16\bigcirc68$, $2x+16\bigcirc68$; (2) when $x=5$, $4x+3x\bigcirc35$, $4+3x\bigcirc35$.
 
 ### Solution to Exercise 4
 
-(1) $x=50$: $2x-16=84> 68$; $2x+16=116> 68$. (2) $x=5$: $4x+3x=35=35$; $4+3x=19< 35$. $\blacksquare$
+(1) $x=50$: $2x-16=84>68$; $2x+16=116>68$. (2) $x=5$: $4x+3x=35=35$; $4+3x=19<35$. $\blacksquare$
 
 ## Exercise 5
 

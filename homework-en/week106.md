@@ -14,7 +14,7 @@
 
 > **Definition 9.5.4 (等式的性质)**
 > 
-> 如果 $a=b$, 那么 $a+c=b+c$, $a-c=b-c$, $ac=bc$, $a\div c=b\div c$ ($c\neq0$). 利用等式的性质可以求出等式中的未知数.
+> 如果 $a=b$, 那么 $a+c=b+c$, $a-c=b-c$, $ac=bc$, $a\div{c}=b\div{c}$ ($c\neq0$). 利用等式的性质可以求出等式中的未知数.
 
 > **Definition 9.5.5 (用字母表示数量关系并代入求值)**
 > 
@@ -98,7 +98,7 @@ By **Definition 9.6.1 (平行四边形的面积)**, $S=ah=300\times200=60000$ m$
 
 ## Exercise 7
 
-(Lesson: Area of a Parallelogram, Try It, Problem 1) Unit conversion: $7$ hectares $=\left(\ \ \right)$ m$^2$; $60000$ m$^2=\left(\ \ \right)$ hectares; $5$ km$^2=\left(\ \ \right)$ hectares; $12000000$ m$^2=\left(\ \ \right)$ hectares $=\left(\ \ \right)$ km$^2$.
+(Lesson: Area of a Parallelogram, Try It, Problem 1) Unit conversion: $7$ hectares $=\left(\,\,\right)$ m$^2$; $60000$ m$^2=\left(\,\,\right)$ hectares; $5$ km$^2=\left(\,\,\right)$ hectares; $12000000$ m$^2=\left(\,\,\right)$ hectares $=\left(\,\,\right)$ km$^2$.
 
 ### Solution to Exercise 7
 
@@ -142,7 +142,7 @@ Area $250\times84=21000$ m$^2=2.1$ hectares. Yield per hectare $14.7\div2.1=7$ t
 
 ### Solution to Exercise 12
 
-By **Definition 9.6.1 (平行四边形的面积)**, $h=S\div a=28\div7=4$ m. $\blacksquare$
+By **Definition 9.6.1 (平行四边形的面积)**, $h=S\div{a}=28\div7=4$ m. $\blacksquare$
 
 ## Exercise 13
 

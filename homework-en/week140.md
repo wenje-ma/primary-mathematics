@@ -6,11 +6,11 @@
 
 > **Definition 12.4.2 (圆柱的侧面积与表面积)**
 > 
-> 把圆柱侧面沿高展开得到一个长方形, 长方形的长等于圆柱底面的周长, 宽等于圆柱的高. 侧面积 $=$ 底面周长 $\times$ 高 $=2\pi rh$; 一个底面积 $=\pi r^{2}$; 表面积 $=$ 侧面积 $+$ 两个底面积.
+> 把圆柱侧面沿高展开得到一个长方形, 长方形的长等于圆柱底面的周长, 宽等于圆柱的高. 侧面积 $=$ 底面周长 $\times$ 高 $=2\pi{r}h$; 一个底面积 $=\pi{r}^{2}$; 表面积 $=$ 侧面积 $+$ 两个底面积.
 
 > **Definition 12.4.3 (圆柱的体积)**
 > 
-> 把圆柱底面分成若干相等扇形, 切开后拼成一个近似长方体, 长方体底面积等于圆柱底面积, 高等于圆柱的高. 圆柱体积 $=$ 底面积 $\times$ 高 $=Sh=\pi r^{2}h$.
+> 把圆柱底面分成若干相等扇形, 切开后拼成一个近似长方体, 长方体底面积等于圆柱底面积, 高等于圆柱的高. 圆柱体积 $=$ 底面积 $\times$ 高 $=Sh=\pi{r}^{2}h$.
 
 > **Definition 12.4.4 (圆锥的认识)**
 > 
@@ -18,7 +18,7 @@
 
 > **Definition 12.4.5 (圆锥的体积)**
 > 
-> 通过实验, 等底等高的圆锥形容器正好用 $3$ 次倒满圆柱形容器, 即圆锥体积是与它等底等高的圆柱体积的 $\frac{1}{3}$. 圆锥体积 $=\frac{1}{3}Sh=\frac{1}{3}\pi r^{2}h$.
+> 通过实验, 等底等高的圆锥形容器正好用 $3$ 次倒满圆柱形容器, 即圆锥体积是与它等底等高的圆柱体积的 $\frac{1}{3}$. 圆锥体积 $=\frac{1}{3}Sh=\frac{1}{3}\pi{r}^{2}h$.
 
 ## Exercise 1
 
@@ -26,7 +26,7 @@
 
 ### Solution to Exercise 1
 
-By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, lateral area $=2\pi rh$, so $h=188.4\div\left(2\times3.14\times2\right)=188.4\div12.56=15\,\mathrm{dm}$. $\blacksquare$
+By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, lateral area $=2\pi{r}h$, so $h=188.4\div\left(2\times3.14\times2\right)=188.4\div12.56=15\,\mathrm{dm}$. $\blacksquare$
 
 ## Exercise 2
 
@@ -34,7 +34,7 @@ By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, lateral 
 
 ### Solution to Exercise 2
 
-By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, if the lateral surface unrolls to a square, then base circumference $=$ height. Since base circumference $=\pi d$, the height $=\pi d$, so the ratio of diameter to height is $d:h=d:\pi d=1:\pi$. $\blacksquare$
+By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, if the lateral surface unrolls to a square, then base circumference $=$ height. Since base circumference $=\pi{d}$, the height $=\pi{d}$, so the ratio of diameter to height is $d:h=d:\pi{d}=1:\pi$. $\blacksquare$
 
 ## Exercise 3
 
@@ -50,7 +50,7 @@ By **Definition 12.4.3 (Volume of a Cylinder)**, $V=Sh=75\times90=6750\,\mathrm{
 
 ### Solution to Exercise 4
 
-By **Definition 12.4.3 (Volume of a Cylinder)**, the radius $=0.5\,\mathrm{m}$, so $V=\pi r^{2}h=3.14\times0.5^{2}\times10=7.85\,\mathrm{m}^{3}$. $\blacksquare$
+By **Definition 12.4.3 (Volume of a Cylinder)**, the radius $=0.5\,\mathrm{m}$, so $V=\pi{r}^{2}h=3.14\times0.5^{2}\times10=7.85\,\mathrm{m}^{3}$. $\blacksquare$
 
 ## Exercise 5
 
@@ -58,7 +58,7 @@ By **Definition 12.4.3 (Volume of a Cylinder)**, the radius $=0.5\,\mathrm{m}$, 
 
 ### Solution to Exercise 5
 
-By **Definition 12.4.3 (Volume of a Cylinder)**, the cup's capacity $=\pi\times\left(8\div2\right)^{2}\times10=3.14\times16\times10=502.4\,\mathrm{cm}^{3}=502.4\,\mathrm{mL}$. Two bags of milk $=240\times2=480\,\mathrm{mL}$. Since $502.4> 480$, it can hold them. $\blacksquare$
+By **Definition 12.4.3 (Volume of a Cylinder)**, the cup's capacity $=\pi\times\left(8\div2\right)^{2}\times10=3.14\times16\times10=502.4\,\mathrm{cm}^{3}=502.4\,\mathrm{mL}$. Two bags of milk $=240\times2=480\,\mathrm{mL}$. Since $502.4>480$, it can hold them. $\blacksquare$
 
 ## Exercise 6
 
@@ -66,7 +66,7 @@ By **Definition 12.4.3 (Volume of a Cylinder)**, the cup's capacity $=\pi\times\
 
 ### Solution to Exercise 6
 
-By **Definition 12.4.3 (Volume of a Cylinder)**, the thermos's capacity $=\pi\times4^{2}\times15=3.14\times16\times15=753.6\,\mathrm{cm}^{3}=753.6\,\mathrm{mL}$. Since $1\,\mathrm{L}=1000\,\mathrm{mL}$ and $753.6< 1000$, it is not enough. $\blacksquare$
+By **Definition 12.4.3 (Volume of a Cylinder)**, the thermos's capacity $=\pi\times4^{2}\times15=3.14\times16\times15=753.6\,\mathrm{cm}^{3}=753.6\,\mathrm{mL}$. Since $1\,\mathrm{L}=1000\,\mathrm{mL}$ and $753.6<1000$, it is not enough. $\blacksquare$
 
 ## Exercise 7
 
@@ -82,7 +82,7 @@ By **Definition 12.4.3 (Volume of a Cylinder)**, the bottle's capacity $=$ volum
 
 ### Solution to Exercise 8
 
-By **Definition 12.4.3 (Volume of a Cylinder)**, $V=Sh$, so $h=V\div S=80\div16=5\,\mathrm{cm}$. $\blacksquare$
+By **Definition 12.4.3 (Volume of a Cylinder)**, $V=Sh$, so $h=V\div{S}=80\div16=5\,\mathrm{cm}$. $\blacksquare$
 
 ## Exercise 9
 

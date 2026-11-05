@@ -18,7 +18,7 @@
 
 > **Definition 5.9.3 (常见的量与图形的整理)**
 > 
-> 长度单位: 毫米, 厘米, 分米, 米, 千米 (相邻进率 $10$, $10$, $10$, $1000$); 质量单位: 克, 千克, 吨 (进率都是 $1000$). 线有线段, 射线, 直线; 角有锐角, 直角, 钝角 (锐角 $< $ 直角 $< $ 钝角). 从不同方向观察物体, 看到的形常常不同.
+> 长度单位: 毫米, 厘米, 分米, 米, 千米 (相邻进率 $10$, $10$, $10$, $1000$); 质量单位: 克, 千克, 吨 (进率都是 $1000$). 线有线段, 射线, 直线; 角有锐角, 直角, 钝角 (锐角 $<$ 直角 $<$ 钝角). 从不同方向观察物体, 看到的形常常不同.
 
 > **Definition 5.9.4 (搭配问题)**
 > 
@@ -50,7 +50,7 @@ Xiaohong: $160-8=152$; Xiaoqiang jumped $180-152=28$ more than Xiaohong. $\black
 
 ### Solution to Exercise 2
 
-$\left(4+3\right)\times8=56$, and $56> 50$, so they can finish. $\blacksquare$
+$\left(4+3\right)\times8=56$, and $56>50$, so they can finish. $\blacksquare$
 
 ## Exercise 3
 
@@ -98,7 +98,7 @@ One pineapple is $6\div3=2$ kilograms, one apple $2\div3$? According to the figu
 
 ### Solution to Exercise 8
 
-There are $4$ people, so a round trip is $4\times2=8$ tickets; $245\times8=1960$ yuan $< 2000$ yuan, so it is enough. $\blacksquare$
+There are $4$ people, so a round trip is $4\times2=8$ tickets; $245\times8=1960$ yuan $<2000$ yuan, so it is enough. $\blacksquare$
 
 ## Exercise 9
 

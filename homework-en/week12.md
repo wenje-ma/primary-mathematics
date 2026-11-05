@@ -134,11 +134,11 @@ By **Definition 2.2.2 (Regrouping Subtraction)**: $12-7=5$, $16-7=9$, $14-6=8$, 
 
 ## Exercise 16
 
-(Lesson: Ten-Something Minus 8, 7, 6, Practice, Problem 2) Fill "$> $""$< $" or "$=$" in $\bigcirc$: $14-8\bigcirc12-6$, $15-8\bigcirc13-7$, $11-6\bigcirc14-7$.
+(Lesson: Ten-Something Minus 8, 7, 6, Practice, Problem 2) Fill "$>$""$<$" or "$=$" in $\bigcirc$: $14-8\bigcirc12-6$, $15-8\bigcirc13-7$, $11-6\bigcirc14-7$.
 
 ### Solution to Exercise 16
 
-Calculate both sides: $14-8=6$, $12-6=6$; $15-8=7$, $13-7=6$; $11-6=5$, $14-7=7$. Thus $14-8=12-6$, $15-8> 13-7$, $11-6< 14-7$. $\blacksquare$
+Calculate both sides: $14-8=6$, $12-6=6$; $15-8=7$, $13-7=6$; $11-6=5$, $14-7=7$. Thus $14-8=12-6$, $15-8>13-7$, $11-6<14-7$. $\blacksquare$
 
 ## Exercise 17
 

@@ -202,11 +202,11 @@ $4+1=5$, $3+1=4$, $2+1=3$, $1+1=2$; $5-4=1$, $5-3=2$, $5-2=3$, $5-1=4$. $\blacks
 
 ## 练习二十二
 
-(整理和复习 练一练 第 5 题) $\square$ 里可以填几: $\square> 3$; $\square< 5$; $4> \square$; $2< \square$.
+(整理和复习 练一练 第 5 题) $\square$ 里可以填几: $\square>3$; $\square<5$; $4>\square$; $2<\square$.
 
 ### 解答 练习二十二
 
-$\square> 3$, 可填 $4,5$; $\square< 5$, 可填 $0\sim4$; $4> \square$, 可填 $0\sim3$; $2< \square$, 可填 $3,4,5$. 答案不唯一. $\blacksquare$
+$\square>3$, 可填 $4,5$; $\square<5$, 可填 $0\sim4$; $4>\square$, 可填 $0\sim3$; $2<\square$, 可填 $3,4,5$. 答案不唯一. $\blacksquare$
 
 ## 练习二十三
 

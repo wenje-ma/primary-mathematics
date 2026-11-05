@@ -94,7 +94,7 @@ By **Definition 8.5.7 (a triangle's interior-angle sum $180^\circ$)**, $180^\cir
 
 ### Solution to Exercise 4
 
-By **Definition 8.5.4 (Relationship Among the Three Sides)**, $7-4< $ third side $< 7+4$, i.e. $3< $ third side $< 11$, so it can be $4,5,6,7,8,9,10\,\mathrm{cm}$. $\blacksquare$
+By **Definition 8.5.4 (Relationship Among the Three Sides)**, $7-4<$ third side $<7+4$, i.e. $3<$ third side $<11$, so it can be $4,5,6,7,8,9,10\,\mathrm{cm}$. $\blacksquare$
 
 ## Exercise 5
 

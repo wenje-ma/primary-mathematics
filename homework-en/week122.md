@@ -30,7 +30,7 @@
 
 ### Solution to Exercise 1
 
-By **Definition 11.1.2 (Determining Position by Direction and Distance)**: fill the table by the drawn $30^{\circ}$ angle and segment counts; sum leg distances for the total; total time $15+7+8+18=48$ min, average speed $=$ total $\div 48$ min. $\blacksquare$
+By **Definition 11.1.2 (Determining Position by Direction and Distance)**: fill the table by the drawn $30^{\circ}$ angle and segment counts; sum leg distances for the total; total time $15+7+8+18=48$ min, average speed $=$ total $\div48$ min. $\blacksquare$
 
 ## Exercise 2
 
@@ -38,7 +38,7 @@ By **Definition 11.1.2 (Determining Position by Direction and Distance)**: fill 
 
 ### Solution to Exercise 2
 
-By **Definition 11.1.2 (Determining Position by Direction and Distance)**: draw the three legs from the start; on return each leg's direction reverses (east-by-south $40^{\circ}$, due east, north-by-east $30^{\circ}$), distances still $3, 4, 3\,\text{km}$. $\blacksquare$
+By **Definition 11.1.2 (Determining Position by Direction and Distance)**: draw the three legs from the start; on return each leg's direction reverses (east-by-south $40^{\circ}$, due east, north-by-east $30^{\circ}$), distances still $3,4,3\,\text{km}$. $\blacksquare$
 
 ## Exercise 3
 

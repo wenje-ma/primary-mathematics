@@ -82,7 +82,7 @@ $208\times4=832$ (the original missed multiplying the middle tens $0$, so it sho
 
 ### Solution to Exercise 7
 
-Each vehicle actually carries $49-1=48$ students; $8$ vehicles carry $48\times8=384$ people, and $384< 417$, so it is not enough. $\blacksquare$
+Each vehicle actually carries $49-1=48$ students; $8$ vehicles carry $48\times8=384$ people, and $384<417$, so it is not enough. $\blacksquare$
 
 ## Exercise 8
 
@@ -90,7 +90,7 @@ Each vehicle actually carries $49-1=48$ students; $8$ vehicles carry $48\times8=
 
 ### Solution to Exercise 8
 
-For $5$ people: $197\times5=985$ yuan $< 1000$; $208\times5=1040$ yuan $> 1000$; $242\times5=1210$ yuan $> 1000$. She bought the $197$ yuan fare. $\blacksquare$
+For $5$ people: $197\times5=985$ yuan $<1000$; $208\times5=1040$ yuan $>1000$; $242\times5=1210$ yuan $>1000$. She bought the $197$ yuan fare. $\blacksquare$
 
 ## Exercise 9
 
@@ -130,7 +130,7 @@ One round trip is $490\times2=980$ meters, and two round trips are $980\times2=1
 
 ### Solution to Exercise 13
 
-Altogether about $60\times8=480$ kilograms; precisely: $59+63+62+60+57+58+62+58=479$ kilograms $< 500$ kilograms, so it can carry them in one trip. $\blacksquare$
+Altogether about $60\times8=480$ kilograms; precisely: $59+63+62+60+57+58+62+58=479$ kilograms $<500$ kilograms, so it can carry them in one trip. $\blacksquare$
 
 ## Exercise 14
 
@@ -138,7 +138,7 @@ Altogether about $60\times8=480$ kilograms; precisely: $59+63+62+60+57+58+62+58=
 
 ### Solution to Exercise 14
 
-Try the most expensive as first, next as second, cheapest as third: $3999+2998\times5+200\times10=3999+14990+2000=20989$, which exceeds the limit. Adjust: first prize tablet $3999$, second prize fitness card $998\times5=4990$, third prize book card $200\times10=2000$, total $3999+4990+2000=10989$, still exceeds. First prize refrigerator $1968$, second prize fitness card $4990$, third prize book card $2000$, total $8958$ yuan $< 10000$. $\blacksquare$
+Try the most expensive as first, next as second, cheapest as third: $3999+2998\times5+200\times10=3999+14990+2000=20989$, which exceeds the limit. Adjust: first prize tablet $3999$, second prize fitness card $998\times5=4990$, third prize book card $200\times10=2000$, total $3999+4990+2000=10989$, still exceeds. First prize refrigerator $1968$, second prize fitness card $4990$, third prize book card $2000$, total $8958$ yuan $<10000$. $\blacksquare$
 
 ## Exercise 15
 
@@ -162,7 +162,7 @@ $96\times4=384$; $905\times9=8145$; $680\times7=4760$; $234\times9=2106$. $\blac
 
 ### Solution to Exercise 17
 
-(1) $200\times2=400$ students. (2) $126\times6=756$ pots. (3) $65\times7=455$ meters $> 400$ meters, so he can arrive. $\blacksquare$
+(1) $200\times2=400$ students. (2) $126\times6=756$ pots. (3) $65\times7=455$ meters $>400$ meters, so he can arrive. $\blacksquare$
 
 ## Exercise 18
 
@@ -170,7 +170,7 @@ $96\times4=384$; $905\times9=8145$; $680\times7=4760$; $234\times9=2106$. $\blac
 
 ### Solution to Exercise 18
 
-$58\times4=232$ yuan? No, $58\times4=232> 200$, which is not enough. According to the figure the soccer ball is $46$ yuan: $46\times4=184$ yuan, and the change is $200-184=16$ yuan. $\blacksquare$
+$58\times4=232$ yuan? No, $58\times4=232>200$, which is not enough. According to the figure the soccer ball is $46$ yuan: $46\times4=184$ yuan, and the change is $200-184=16$ yuan. $\blacksquare$
 
 ## Exercise 19
 
@@ -178,7 +178,7 @@ $58\times4=232$ yuan? No, $58\times4=232> 200$, which is not enough. According t
 
 ### Solution to Exercise 19
 
-$7\times68$; take $68$ as $70$, $7\times70=490$. $400< 490$, not enough; $500> 490$, enough. Precisely $7\times68=476$ buttons. $\blacksquare$
+$7\times68$; take $68$ as $70$, $7\times70=490$. $400<490$, not enough; $500>490$, enough. Precisely $7\times68=476$ buttons. $\blacksquare$
 
 ## Exercise 20
 

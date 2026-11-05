@@ -2,7 +2,7 @@
 
 > **Definition 11.9.1 (鸽巢原理, 抽屉原理)**
 > 
-> 把 $m$ 个物体任意分放进 $n$ 个抽屉 ($m> n$), 那么一定有一个抽屉里至少放了 $\lceil \frac{m}{n}\rceil$ 个物体. 计算方法: $m\div n=q\cdots\cdots r$, 当 $r> 0$ 时至少 $q+1$ 个, 当 $r=0$ 时至少 $q$ 个.
+> 把 $m$ 个物体任意分放进 $n$ 个抽屉 ($m>{}n$), 那么一定有一个抽屉里至少放了 $\lceil\frac{m}{n}\rceil$ 个物体. 计算方法: $m\div{n}=q\cdots\cdots{r}$, 当 $r>0$ 时至少 $q+1$ 个, 当 $r=0$ 时至少 $q$ 个.
 
 ## Exercise 1
 
@@ -106,7 +106,7 @@ Let the length be $x$ and the width $\frac{2}{5}x$. Then $2\left(x+\frac{2}{5}x\
 
 ### Solution to Exercise 13
 
-Drive A has $8-6.4=1.6\,\text{GB}< 1.8$ left; drive B has $16\times30\%=4.8\,\text{GB}> 1.8$ left, so choose B. Copying the whole file takes $0.5\div15\%=\frac{10}{3}$ minutes, and the remaining time is $\frac{10}{3}\times\left(1-15\%\right)=\frac{17}{6}\approx2.83$ minutes. $\blacksquare$
+Drive A has $8-6.4=1.6\,\text{GB}<1.8$ left; drive B has $16\times30\%=4.8\,\text{GB}>1.8$ left, so choose B. Copying the whole file takes $0.5\div15\%=\frac{10}{3}$ minutes, and the remaining time is $\frac{10}{3}\times\left(1-15\%\right)=\frac{17}{6}\approx2.83$ minutes. $\blacksquare$
 
 ## Exercise 14
 

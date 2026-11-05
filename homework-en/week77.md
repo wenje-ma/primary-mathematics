@@ -2,7 +2,7 @@
 
 > **Definition 7.6.1 (平行与垂直)**
 > 
-> 在同一平面内不相交的两条直线叫平行线, 也可以说这两条直线互相平行, 记作 $a\parallel b$. 两条直线相交成直角, 就说这两条直线互相垂直, 其中一条叫另一条的垂线, 交点叫垂足, 记作 $a\perp b$.
+> 在同一平面内不相交的两条直线叫平行线, 也可以说这两条直线互相平行, 记作 $a\parallel{b}$. 两条直线相交成直角, 就说这两条直线互相垂直, 其中一条叫另一条的垂线, 交点叫垂足, 记作 $a\perp{b}$.
 
 > **Definition 7.6.2 (点到直线的距离)**
 > 
@@ -114,7 +114,7 @@ By **Definition 7.6.1 (Parallel and Perpendicular)**: take a few points on $a$ a
 
 ## Exercise 13
 
-(Lesson: Practice 15, Problem 12) $a\parallel b$; measure the degrees of $\angle1$ and $\angle2$. What do you find?
+(Lesson: Practice 15, Problem 12) $a\parallel{b}$; measure the degrees of $\angle1$ and $\angle2$. What do you find?
 
 ### Solution to Exercise 13
 
@@ -156,7 +156,7 @@ By **Definition 7.6.4 (Trapezoid)**: one with equal legs is an isosceles trapezo
 
 ## Exercise 18
 
-(Lesson: Trapezoid, Try It, Problem 2) $a\parallel b$; how many trapezoids are in the figure?
+(Lesson: Trapezoid, Try It, Problem 2) $a\parallel{b}$; how many trapezoids are in the figure?
 
 ### Solution to Exercise 18
 

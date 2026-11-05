@@ -14,19 +14,19 @@
 
 > **定义 8.3.4 (乘法交换律)**
 > 
-> 两个数相乘, 交换两个因数的位置, 积不变. 用字母表示: $a\times b=b\times a$.
+> 两个数相乘, 交换两个因数的位置, 积不变. 用字母表示: $a\times{b}=b\times{a}$.
 
 > **定义 8.3.5 (乘法结合律)**
 > 
-> 三个数相乘, 先乘前两个数, 或者先乘后两个数, 积不变. 用字母表示: $\left(a\times b\right)\times c=a\times\left(b\times c\right)$.
+> 三个数相乘, 先乘前两个数, 或者先乘后两个数, 积不变. 用字母表示: $\left(a\times{b}\right)\times{c}=a\times\left(b\times{c}\right)$.
 
 > **定义 8.3.6 (乘法分配律)**
 > 
-> 两个数的和与一个数相乘, 可以先把它们与这个数分别相乘, 再相加. 用字母表示: $\left(a+b\right)\times c=a\times c+b\times c$, 也可反过来 $a\times c+b\times c=\left(a+b\right)\times c$.
+> 两个数的和与一个数相乘, 可以先把它们与这个数分别相乘, 再相加. 用字母表示: $\left(a+b\right)\times{c}=a\times{c}+b\times{c}$, 也可反过来 $a\times{c}+b\times{c}=\left(a+b\right)\times{c}$.
 
 > **定义 8.3.7 (除法的运算性质)**
 > 
-> 一个数连续除以两个数, 等于除以这两个除数的积: $a\div b\div c=a\div\left(b\times c\right)$.
+> 一个数连续除以两个数, 等于除以这两个除数的积: $a\div{b}\div{c}=a\div\left(b\times{c}\right)$.
 
 > **定义 8.3.8 (简便计算)**
 > 
@@ -34,11 +34,11 @@
 
 ## 练习一
 
-(课时 乘法运算律 练习七 第 3 题) 下面哪些算式运用了乘法分配律? $117\times\left(3+7\right)=117\times3+117\times7$; $24\times\left(5+12\right)=24\times17$; $36\times\left(4\times6\right)=36\times6\times4$; $4\times a+a\times5=\left(4+5\right)\times a$.
+(课时 乘法运算律 练习七 第 3 题) 下面哪些算式运用了乘法分配律? $117\times\left(3+7\right)=117\times3+117\times7$; $24\times\left(5+12\right)=24\times17$; $36\times\left(4\times6\right)=36\times6\times4$; $4\times{a}+a\times5=\left(4+5\right)\times{a}$.
 
 ### 解答 练习一
 
-由**定义 8.3.6 (乘法分配律)**: $117\times\left(3+7\right)=117\times3+117\times7$ 用了分配律; $24\times\left(5+12\right)=24\times17$ 是直接先算括号; $36\times\left(4\times6\right)=36\times6\times4$ 用了交换律; $4\times a+a\times5=\left(4+5\right)\times a$ 逆用分配律. $\blacksquare$
+由**定义 8.3.6 (乘法分配律)**: $117\times\left(3+7\right)=117\times3+117\times7$ 用了分配律; $24\times\left(5+12\right)=24\times17$ 是直接先算括号; $36\times\left(4\times6\right)=36\times6\times4$ 用了交换律; $4\times{a}+a\times5=\left(4+5\right)\times{a}$ 逆用分配律. $\blacksquare$
 
 ## 练习二
 
@@ -134,7 +134,7 @@ $98+265+202=\left(98+202\right)+265=565$; $273-73-27=273-100=173$; $250\times13\
 
 ### 解答 练习十三
 
-$5$ 本相册可插 $32\times6\times5=32\times30=960$ (张), $960> 900$, 够用. $\blacksquare$
+$5$ 本相册可插 $32\times6\times5=32\times30=960$ (张), $960>900$, 够用. $\blacksquare$
 
 ## 练习十四
 

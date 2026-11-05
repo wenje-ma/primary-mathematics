@@ -62,11 +62,11 @@ By **Definition 1.2.7 (Continuous Addition)**, **Definition 1.2.8 (Continuous Su
 
 ## Exercise 3
 
-(Lesson: Simple Addition and Subtraction, Practice, Problem 7) Fill "$> $" "$< $" or "$=$" in $\bigcirc$: $15\bigcirc16$; $9\bigcirc11$; $20\bigcirc19$; $10+7\bigcirc14$; $19-5\bigcirc14$; $16-6\bigcirc12$.
+(Lesson: Simple Addition and Subtraction, Practice, Problem 7) Fill "$>$" "$<$" or "$=$" in $\bigcirc$: $15\bigcirc16$; $9\bigcirc11$; $20\bigcirc19$; $10+7\bigcirc14$; $19-5\bigcirc14$; $16-6\bigcirc12$.
 
 ### Solution to Exercise 3
 
-By **Definition 1.4.3 (Composition of Numbers 11–20)**: $15< 16$; $9< 11$; $20> 19$; $10+7=17> 14$; $19-5=14$, so $=$; $16-6=10< 12$. $\blacksquare$
+By **Definition 1.4.3 (Composition of Numbers 11–20)**: $15<16$; $9<11$; $20>19$; $10+7=17>14$; $19-5=14$, so $=$; $16-6=10<12$. $\blacksquare$
 
 ## Exercise 4
 
@@ -158,11 +158,11 @@ By **Definition 1.5.1 (Make-a-Ten Method)**: $9+1=10$, $9+2=11$, $9+3=12$, $9+4=
 
 ## Exercise 15
 
-(Lesson: 9 Plus Something, Practice, Problem 4) Fill "$> $" "$< $" or "$=$" in $\bigcirc$: $9+5\bigcirc15$; $9+3\bigcirc12$; $9+10\bigcirc20$; $9+8\bigcirc16$; $9+6\bigcirc16$; $9+9\bigcirc17$.
+(Lesson: 9 Plus Something, Practice, Problem 4) Fill "$>$" "$<$" or "$=$" in $\bigcirc$: $9+5\bigcirc15$; $9+3\bigcirc12$; $9+10\bigcirc20$; $9+8\bigcirc16$; $9+6\bigcirc16$; $9+9\bigcirc17$.
 
 ### Solution to Exercise 15
 
-Calculate first, then compare: $9+5=14< 15$; $9+3=12$, so $=$; $9+10=19< 20$; $9+8=17> 16$; $9+6=15< 16$; $9+9=18> 17$. $\blacksquare$
+Calculate first, then compare: $9+5=14<15$; $9+3=12$, so $=$; $9+10=19<20$; $9+8=17>16$; $9+6=15<16$; $9+9=18>17$. $\blacksquare$
 
 ## Exercise 16
 

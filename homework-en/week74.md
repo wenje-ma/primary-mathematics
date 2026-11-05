@@ -50,11 +50,11 @@ By **Definition 7.4.2 (Written Multiplication)**: $480\times50=24000$, $506\time
 
 ## Exercise 5
 
-(Lesson: Practice 9, Problem 3) Fill in $\bigcirc$ with $> $, $< $ or $=$: $120\times20\bigcirc12\times200$; $500\times10\bigcirc10\times550$; $16\times400\bigcirc210\times4$; $19\times300\bigcirc30\times180$.
+(Lesson: Practice 9, Problem 3) Fill in $\bigcirc$ with $>$, $<$ or $=$: $120\times20\bigcirc12\times200$; $500\times10\bigcirc10\times550$; $16\times400\bigcirc210\times4$; $19\times300\bigcirc30\times180$.
 
 ### Solution to Exercise 5
 
-By **Definition 7.4.3 (How the Product Changes)**: $120\times20=12\times200$; $500\times10=5000< 10\times550=5500$; $16\times400=6400> 210\times4=840$; $19\times300=5700> 30\times180=5400$. $\blacksquare$
+By **Definition 7.4.3 (How the Product Changes)**: $120\times20=12\times200$; $500\times10=5000<10\times550=5500$; $16\times400=6400>210\times4=840$; $19\times300=5700>30\times180=5400$. $\blacksquare$
 
 ## Exercise 6
 
@@ -102,7 +102,7 @@ Pattern: (some $3$s) times (some $3$s plus $4$) gives some $1$s followed by some
 
 ### Solution to Exercise 11
 
-Each bus actually carries $47$ teachers/students, $47\times19\approx50\times20=1000< 1026$, not enough. Computing exactly, $47\times19=893< 1026$, not enough. $\blacksquare$
+Each bus actually carries $47$ teachers/students, $47\times19\approx50\times20=1000<1026$, not enough. Computing exactly, $47\times19=893<1026$, not enough. $\blacksquare$
 
 ## Exercise 12
 
@@ -110,7 +110,7 @@ Each bus actually carries $47$ teachers/students, $47\times19\approx50\times20=1
 
 ### Solution to Exercise 12
 
-$105\times30=3150$ characters, $3150> 3000$, he can finish. $\blacksquare$
+$105\times30=3150$ characters, $3150>3000$, he can finish. $\blacksquare$
 
 ## Exercise 13
 
@@ -126,7 +126,7 @@ By **Definition 7.4.4 (Estimation in Multiplication)**, $19\times18\approx20\tim
 
 ### Solution to Exercise 14
 
-$293\times18\approx300\times20=6000$ kg $=6$ t; computing exactly, $293\times18=5274$ kg $< 6000$ kg, it can carry them. $\blacksquare$
+$293\times18\approx300\times20=6000$ kg $=6$ t; computing exactly, $293\times18=5274$ kg $<6000$ kg, it can carry them. $\blacksquare$
 
 ## Exercise 15
 
@@ -142,4 +142,4 @@ By **Definition 7.4.2 (Written Multiplication)**, $90\times201=18090$ minutes. $
 
 ### Solution to Exercise 16
 
-$192\times38\approx200\times40=8000$; computing exactly, $192\times38=7296< 8000$, enough. $\blacksquare$
+$192\times38\approx200\times40=8000$; computing exactly, $192\times38=7296<8000$, enough. $\blacksquare$

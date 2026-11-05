@@ -78,7 +78,7 @@ By **Definition 11.1.2 (Determining Position by Direction and Distance)**, with 
 
 ### Solution to Exercise 9
 
-By **Definition 11.1.2 (Determining Position by Direction and Distance)**: with the TV Tower as center, mark Cultural Square and Stadium by angle and $2, 5, 4, 3$ segments; for (3)(4), use the tower as observer and go the opposite direction to fix Museum and Zoo. $\blacksquare$
+By **Definition 11.1.2 (Determining Position by Direction and Distance)**: with the TV Tower as center, mark Cultural Square and Stadium by angle and $2,5,4,3$ segments; for (3)(4), use the tower as observer and go the opposite direction to fix Museum and Zoo. $\blacksquare$
 
 ## Exercise 10
 

@@ -50,11 +50,11 @@ $30\div5=6$, $4\times9=36$, $6\times7=42$, $18\div3=6$, $7\times9=63$, $6\times8
 
 ## Exercise 5
 
-(Lesson: Practice, Problem 4, Fill in the Symbol) Fill the $\bigcirc$ with "$\times$", "$\div$", or "$> $", "$< $", "$=$": $6\bigcirc6=36$, $30\bigcirc6=5$, $8\div2\bigcirc8$, $5\times7\bigcirc32$, $2\times6\bigcirc12$, $8\times9\bigcirc73$, $4\times9\bigcirc34$, $9\div3\bigcirc3$.
+(Lesson: Practice, Problem 4, Fill in the Symbol) Fill the $\bigcirc$ with "$\times$", "$\div$", or "$>$", "$<$", "$=$": $6\bigcirc6=36$, $30\bigcirc6=5$, $8\div2\bigcirc8$, $5\times7\bigcirc32$, $2\times6\bigcirc12$, $8\times9\bigcirc73$, $4\times9\bigcirc34$, $9\div3\bigcirc3$.
 
 ### Solution to Exercise 5
 
-$6\times6=36$; $30\div6=5$; $8\div2=4< 8$; $5\times7=35> 32$; $2\times6=12$, so $=$; $8\times9=72< 73$; $4\times9=36> 34$; $9\div3=3$, so $=$. $\blacksquare$
+$6\times6=36$; $30\div6=5$; $8\div2=4<8$; $5\times7=35>32$; $2\times6=12$, so $=$; $8\times9=72<73$; $4\times9=36>34$; $9\div3=3$, so $=$. $\blacksquare$
 
 ## Exercise 6
 

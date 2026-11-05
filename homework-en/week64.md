@@ -178,11 +178,11 @@ Tree height $16$ m, crayon length $1$ dm, dictionary thickness $5$ cm, school ar
 
 ## Exercise 20
 
-(Lesson: Practice 13, Problem 2) Fill in "$> $", "$< $" or "$=$": $100$ square meters$\bigcirc10$ square meters; $10$ square decimeters$\bigcirc999$ square centimeters; $400$ square centimeters$\bigcirc4$ square decimeters; $1000$ square centimeters$\bigcirc1$ square meter.
+(Lesson: Practice 13, Problem 2) Fill in "$>$", "$<$" or "$=$": $100$ square meters$\bigcirc10$ square meters; $10$ square decimeters$\bigcirc999$ square centimeters; $400$ square centimeters$\bigcirc4$ square decimeters; $1000$ square centimeters$\bigcirc1$ square meter.
 
 ### Solution to Exercise 20
 
-By **Definition 6.4.4 (面积单位间的进率)**: $100$ square meters $> 10$ square meters; $10$ square decimeters $=1000$ square centimeters $> 999$ square centimeters; $400$ square centimeters $=4$ square decimeters; $1000$ square centimeters $< 1$ square meter ($1$ square meter $=10000$ square centimeters). $\blacksquare$
+By **Definition 6.4.4 (面积单位间的进率)**: $100$ square meters $>10$ square meters; $10$ square decimeters $=1000$ square centimeters $>999$ square centimeters; $400$ square centimeters $=4$ square decimeters; $1000$ square centimeters $<1$ square meter ($1$ square meter $=10000$ square centimeters). $\blacksquare$
 
 ## Exercise 21
 

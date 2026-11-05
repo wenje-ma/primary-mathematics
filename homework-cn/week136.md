@@ -2,7 +2,7 @@
 
 > **定义 11.9.1 (鸽巢原理, 抽屉原理)**
 > 
-> 把 $m$ 个物体任意分放进 $n$ 个抽屉 ($m> n$), 那么一定有一个抽屉里至少放了 $\lceil \frac{m}{n}\rceil$ 个物体. 计算方法: $m\div n=q\cdots\cdots r$, 当 $r> 0$ 时至少 $q+1$ 个, 当 $r=0$ 时至少 $q$ 个.
+> 把 $m$ 个物体任意分放进 $n$ 个抽屉 ($m>{}n$), 那么一定有一个抽屉里至少放了 $\lceil\frac{m}{n}\rceil$ 个物体. 计算方法: $m\div{n}=q\cdots\cdots{r}$, 当 $r>0$ 时至少 $q+1$ 个, 当 $r=0$ 时至少 $q$ 个.
 
 ## 练习一
 
@@ -106,7 +106,7 @@ $\frac{5}{9}\times\left(\frac{3}{4}+\frac{1}{4}\right)=\frac{5}{9}$; $\left(3.7+
 
 ### 解答 练习十三
 
-U 盘 A 剩余 $8-6.4=1.6\,\text{GB}< 1.8$; U 盘 B 剩余 $16\times30\%=4.8\,\text{GB}> 1.8$, 选 B. 拷贝全部需 $0.5\div15\%=\frac{10}{3}$ 分, 还需 $\frac{10}{3}\times\left(1-15\%\right)=\frac{17}{6}\approx2.83$ 分. $\blacksquare$
+U 盘 A 剩余 $8-6.4=1.6\,\text{GB}<1.8$; U 盘 B 剩余 $16\times30\%=4.8\,\text{GB}>1.8$, 选 B. 拷贝全部需 $0.5\div15\%=\frac{10}{3}$ 分, 还需 $\frac{10}{3}\times\left(1-15\%\right)=\frac{17}{6}\approx2.83$ 分. $\blacksquare$
 
 ## 练习十四
 

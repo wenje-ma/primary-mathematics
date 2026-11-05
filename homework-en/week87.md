@@ -90,11 +90,11 @@ By **Definition 8.4.4 (Property of Decimals)**, append $0$ at the end: $0.2=0.20
 
 ## Exercise 7
 
-(Lesson: Comparing Decimals, Try It) Compare the two numbers in each group: $3$ yuan $\bigcirc 2.6$ yuan; $6.35\,\mathrm{m}\bigcirc 6.53\,\mathrm{m}$; $4.79\bigcirc 4.723$; $0.458\bigcirc 0.54$.
+(Lesson: Comparing Decimals, Try It) Compare the two numbers in each group: $3$ yuan $\bigcirc2.6$ yuan; $6.35\,\mathrm{m}\bigcirc6.53\,\mathrm{m}$; $4.79\bigcirc4.723$; $0.458\bigcirc0.54$.
 
 ### Solution to Exercise 7
 
-By **Definition 8.4.5 (Comparing Decimals)**: $3$ yuan $> 2.6$ yuan; $6.35\,\mathrm{m}< 6.53\,\mathrm{m}$; $4.79> 4.723$; $0.458< 0.54$. $\blacksquare$
+By **Definition 8.4.5 (Comparing Decimals)**: $3$ yuan $>2.6$ yuan; $6.35\,\mathrm{m}<6.53\,\mathrm{m}$; $4.79>4.723$; $0.458<0.54$. $\blacksquare$
 
 ## Exercise 8
 
@@ -138,11 +138,11 @@ $6$ jiao $=0.60$ yuan; $15$ yuan $5$ jiao $=15.50$ yuan; $8$ yuan $=8.00$ yuan; 
 
 ## Exercise 13
 
-(Lesson: Property and Comparison of Decimals, Practice 10, Problem 6) Fill in the $\bigcirc$ with "$> $", "$< $" or "$=$": $7.9\bigcirc8.2$; $0.51\bigcirc0.509$; $1.374\bigcirc1.3$; $5.7\bigcirc5.8$; $0.6\bigcirc0.60$; $1.23\bigcirc1.32$.
+(Lesson: Property and Comparison of Decimals, Practice 10, Problem 6) Fill in the $\bigcirc$ with "$>$", "$<$" or "$=$": $7.9\bigcirc8.2$; $0.51\bigcirc0.509$; $1.374\bigcirc1.3$; $5.7\bigcirc5.8$; $0.6\bigcirc0.60$; $1.23\bigcirc1.32$.
 
 ### Solution to Exercise 13
 
-By **Definition 8.4.5 (Comparing Decimals)** and **Definition 8.4.4 (Property of Decimals)**: $7.9< 8.2$; $0.51> 0.509$; $1.374> 1.3$; $5.7< 5.8$; $0.6=0.60$; $1.23< 1.32$. $\blacksquare$
+By **Definition 8.4.5 (Comparing Decimals)** and **Definition 8.4.4 (Property of Decimals)**: $7.9<8.2$; $0.51>0.509$; $1.374>1.3$; $5.7<5.8$; $0.6=0.60$; $1.23<1.32$. $\blacksquare$
 
 ## Exercise 14
 
@@ -158,7 +158,7 @@ By **Definition 8.4.5 (Comparing Decimals)**: for product 1, store B at $28.89$ 
 
 ### Solution to Exercise 15
 
-By **Definition 8.4.5 (Comparing Decimals)**, numbers to the right on the line are larger: $0.09< 0.12$; $0.28< 0.3$; $0.4> 0.04$. $\blacksquare$
+By **Definition 8.4.5 (Comparing Decimals)**, numbers to the right on the line are larger: $0.09<0.12$; $0.28<0.3$; $0.4>0.04$. $\blacksquare$
 
 ## Exercise 16
 
@@ -166,4 +166,4 @@ By **Definition 8.4.5 (Comparing Decimals)**, numbers to the right on the line a
 
 ### Solution to Exercise 16
 
-By **Definition 8.4.5 (Comparing Decimals)**, from heaviest to lightest: $43.9> 43.6> 38.5> 37.8$, i.e. Xiao Gang, Xiao Fang, Xiao Jun, Xiao Li. $\blacksquare$
+By **Definition 8.4.5 (Comparing Decimals)**, from heaviest to lightest: $43.9>43.6>38.5>37.8$, i.e. Xiao Gang, Xiao Fang, Xiao Jun, Xiao Li. $\blacksquare$

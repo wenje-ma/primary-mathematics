@@ -58,7 +58,7 @@
 
 > **Definition 7.9.3 (图形与统计的整理)**
 > 
-> 线: 平行与垂直; 角: 锐角 $< $ 直角 $< $ 钝角 $< $ 平角 $< $ 周角; 四边形: 平行四边形 (两组对边平行), 梯形 (一组对边平行); 数据用条形统计图表示更直观.
+> 线: 平行与垂直; 角: 锐角 $<$ 直角 $<$ 钝角 $<$ 平角 $<$ 周角; 四边形: 平行四边形 (两组对边平行), 梯形 (一组对边平行); 数据用条形统计图表示更直观.
 
 > **Definition 8.1.1 (加法的意义和各部分间的关系)**
 > 
@@ -226,4 +226,4 @@ By **Definition 8.1.2 (Meaning of Subtraction and the Relationships Among Its Pa
 
 ### Solution to Exercise 17
 
-By **Definition 8.1.1 (Addition)** and **Definition 8.1.2 (Subtraction)**, which are inverse operations: $28+19=47 \to 47-28=19,\ 47-19=28$; $203+147=350 \to 350-203=147,\ 350-147=203$; $850-239=611 \to 850-611=239,\ 611+239=850$; $67-55=12 \to 67-12=55,\ 55+12=67$. $\blacksquare$
+By **Definition 8.1.1 (Addition)** and **Definition 8.1.2 (Subtraction)**, which are inverse operations: $28+19=47\to47-28=19,\,47-19=28$; $203+147=350\to350-203=147,\,350-147=203$; $850-239=611\to850-611=239,\,611+239=850$; $67-55=12\to67-12=55,\,55+12=67$. $\blacksquare$

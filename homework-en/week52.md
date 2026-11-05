@@ -106,7 +106,7 @@ By **Definition 5.7.1 (Line Segment, Ray, Straight Line)**, Xiaoming has several
 
 ### Solution to Exercise 11
 
-You can measure each length with a ruler and then compare; you can also make one endpoint of the two segments coincide and look at the position of the other endpoint: if the other endpoints coincide they are equal, and if the other endpoint falls inside it is shorter, denoted $AB< CD$. You can also compare by stepping off with a compass. $\blacksquare$
+You can measure each length with a ruler and then compare; you can also make one endpoint of the two segments coincide and look at the position of the other endpoint: if the other endpoints coincide they are equal, and if the other endpoint falls inside it is shorter, denoted $AB<{}CD$. You can also compare by stepping off with a compass. $\blacksquare$
 
 ## Exercise 12
 
@@ -114,7 +114,7 @@ You can measure each length with a ruler and then compare; you can also make one
 
 ### Solution to Exercise 12
 
-(1) Endpoints B and D coincide, so the two segments are equally long, $AB=CD$. (2) B is to the right of D, showing that AB is longer, $AB> CD$. $\blacksquare$
+(1) Endpoints B and D coincide, so the two segments are equally long, $AB=CD$. (2) B is to the right of D, showing that AB is longer, $AB>{}CD$. $\blacksquare$
 
 ## Exercise 13
 
@@ -158,11 +158,11 @@ Measuring shows that the side lengths of the rectangle are unchanged before and 
 
 ## Exercise 18
 
-(Lesson: Practice 12, Problem 6) Two strips of wood AC and BD overlap. (1) If $AB=CD$, then AC ( ) BD. (2) If $AB> CD$, then AC ( ) BD.
+(Lesson: Practice 12, Problem 6) Two strips of wood AC and BD overlap. (1) If $AB=CD$, then AC ( ) BD. (2) If $AB>{}CD$, then AC ( ) BD.
 
 ### Solution to Exercise 18
 
-The overlapping part in the middle is BC. (1) When $AB=CD$, $AC=AB+BC=CD+BC=BD$, so $AC=BD$. (2) When $AB> CD$, $AC=AB+BC> CD+BC=BD$. $\blacksquare$
+The overlapping part in the middle is BC. (1) When $AB=CD$, $AC=AB+BC=CD+BC=BD$, so $AC=BD$. (2) When $AB>{}CD$, $AC=AB+BC>{}CD+BC=BD$. $\blacksquare$
 
 ## Exercise 19
 

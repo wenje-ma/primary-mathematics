@@ -190,4 +190,4 @@ By **Definition 7.3.5 (How to Draw an Angle)** draw the angles, and by **Definit
 
 ### Solution to Exercise 21
 
-By **Definition 7.3.2 (Classification of Angles)**: (1) Correct; a straight angle $180^{\circ}$ minus an acute angle (less than $90^{\circ}$) is greater than $90^{\circ}$ and less than $180^{\circ}$, so it is obtuse. (2) Wrong; $1$ full angle $=4$ right angles. (3) Wrong; for example $30^{\circ}+40^{\circ}=70^{\circ}< 90^{\circ}$. (4) Correct; an acute angle plus a right angle is greater than $90^{\circ}$ and less than $180^{\circ}$, so it is obtuse. $\blacksquare$
+By **Definition 7.3.2 (Classification of Angles)**: (1) Correct; a straight angle $180^{\circ}$ minus an acute angle (less than $90^{\circ}$) is greater than $90^{\circ}$ and less than $180^{\circ}$, so it is obtuse. (2) Wrong; $1$ full angle $=4$ right angles. (3) Wrong; for example $30^{\circ}+40^{\circ}=70^{\circ}<90^{\circ}$. (4) Correct; an acute angle plus a right angle is greater than $90^{\circ}$ and less than $180^{\circ}$, so it is obtuse. $\blacksquare$

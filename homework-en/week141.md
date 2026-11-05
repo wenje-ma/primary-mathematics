@@ -10,11 +10,11 @@
 
 > **Definition 12.4.2 (圆柱的侧面积与表面积)**
 > 
-> 把圆柱侧面沿高展开得到一个长方形, 长方形的长等于圆柱底面的周长, 宽等于圆柱的高. 侧面积 $=$ 底面周长 $\times$ 高 $=2\pi rh$; 一个底面积 $=\pi r^{2}$; 表面积 $=$ 侧面积 $+$ 两个底面积.
+> 把圆柱侧面沿高展开得到一个长方形, 长方形的长等于圆柱底面的周长, 宽等于圆柱的高. 侧面积 $=$ 底面周长 $\times$ 高 $=2\pi{r}h$; 一个底面积 $=\pi{r}^{2}$; 表面积 $=$ 侧面积 $+$ 两个底面积.
 
 > **Definition 12.4.3 (圆柱的体积)**
 > 
-> 把圆柱底面分成若干相等扇形, 切开后拼成一个近似长方体, 长方体底面积等于圆柱底面积, 高等于圆柱的高. 圆柱体积 $=$ 底面积 $\times$ 高 $=Sh=\pi r^{2}h$.
+> 把圆柱底面分成若干相等扇形, 切开后拼成一个近似长方体, 长方体底面积等于圆柱底面积, 高等于圆柱的高. 圆柱体积 $=$ 底面积 $\times$ 高 $=Sh=\pi{r}^{2}h$.
 
 > **Definition 12.4.4 (圆锥的认识)**
 > 
@@ -22,7 +22,7 @@
 
 > **Definition 12.4.5 (圆锥的体积)**
 > 
-> 通过实验, 等底等高的圆锥形容器正好用 $3$ 次倒满圆柱形容器, 即圆锥体积是与它等底等高的圆柱体积的 $\frac{1}{3}$. 圆锥体积 $=\frac{1}{3}Sh=\frac{1}{3}\pi r^{2}h$.
+> 通过实验, 等底等高的圆锥形容器正好用 $3$ 次倒满圆柱形容器, 即圆锥体积是与它等底等高的圆柱体积的 $\frac{1}{3}$. 圆锥体积 $=\frac{1}{3}Sh=\frac{1}{3}\pi{r}^{2}h$.
 
 > **Definition 12.5.1 (比例的意义)**
 > 
@@ -50,7 +50,7 @@
 
 ### Solution to Exercise 1
 
-By **Definition 12.4.3 (Volume of a Cylinder)**, the total rain volume $=$ base area $\times$ water depth $=200\times10^{6}\times0.05=10^{7}\,\mathrm{m}^{3}=1000$ ten-thousand $\mathrm{m}^{3}$. The rainwater $25\%=1000\times25\%=250$ ten-thousand $\mathrm{m}^{3}> 200$ ten-thousand $\mathrm{m}^{3}$, so it can meet the greening need. $\blacksquare$
+By **Definition 12.4.3 (Volume of a Cylinder)**, the total rain volume $=$ base area $\times$ water depth $=200\times10^{6}\times0.05=10^{7}\,\mathrm{m}^{3}=1000$ ten-thousand $\mathrm{m}^{3}$. The rainwater $25\%=1000\times25\%=250$ ten-thousand $\mathrm{m}^{3}>200$ ten-thousand $\mathrm{m}^{3}$, so it can meet the greening need. $\blacksquare$
 
 ## Exercise 2
 
@@ -102,7 +102,7 @@ By **Definition 12.5.2 (Basic Property of a Proportion and Solving Proportions)*
 
 ## Exercise 8
 
-(Lesson: Exercise 8, Problem 2) Which of the following groups of four numbers can form a proportion? (1) $4, 5, 12, 15$; (2) $2, 3, 4, 5$; (3) $1.6, 6.4, 2, 5$.
+(Lesson: Exercise 8, Problem 2) Which of the following groups of four numbers can form a proportion? (1) $4,5,12,15$; (2) $2,3,4,5$; (3) $1.6,6.4,2,5$.
 
 ### Solution to Exercise 8
 

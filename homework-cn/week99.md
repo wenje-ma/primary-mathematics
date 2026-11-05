@@ -94,7 +94,7 @@ $1.28\times30=38.4$ 万千米. $\blacksquare$
 
 ## 练习九
 
-(课时 小数乘法 练习二 拓展提升 第 1 题) 根据 $65\times39=2535$, 在括号里填上合适的数: $2.535=\left(\ \ \right)\times\left(\ \ \right)$; $25.35=\left(\ \ \right)\times\left(\ \ \right)$; $253.5=\left(\ \ \right)\times\left(\ \ \right)$; $0.2535=\left(\ \ \right)\times\left(\ \ \right)$.
+(课时 小数乘法 练习二 拓展提升 第 1 题) 根据 $65\times39=2535$, 在括号里填上合适的数: $2.535=\left(\,\,\right)\times\left(\,\,\right)$; $25.35=\left(\,\,\right)\times\left(\,\,\right)$; $253.5=\left(\,\,\right)\times\left(\,\,\right)$; $0.2535=\left(\,\,\right)\times\left(\,\,\right)$.
 
 ### 解答 练习九
 
@@ -126,11 +126,11 @@ $1.28\times30=38.4$ 万千米. $\blacksquare$
 
 ## 练习十三
 
-(课时 倍数是小数 做一做 第 2 题) 在 $\bigcirc$ 里填上 $> $ $< $ 或 $=$: $756\times0.9\bigcirc756$; $1\times0.94\bigcirc1$; $4.25\times1.1\bigcirc4.25$; $31.4\times1.2\bigcirc31.4$.
+(课时 倍数是小数 做一做 第 2 题) 在 $\bigcirc$ 里填上 $>$ $<$ 或 $=$: $756\times0.9\bigcirc756$; $1\times0.94\bigcirc1$; $4.25\times1.1\bigcirc4.25$; $31.4\times1.2\bigcirc31.4$.
 
 ### 解答 练习十三
 
-由**定义 9.2.4 (倍数是小数)**, 一个数乘小于 $1$ 的数积变小, 乘大于 $1$ 的数积变大: $756\times0.9< 756$; $1\times0.94< 1$; $4.25\times1.1> 4.25$; $31.4\times1.2> 31.4$. $\blacksquare$
+由**定义 9.2.4 (倍数是小数)**, 一个数乘小于 $1$ 的数积变小, 乘大于 $1$ 的数积变大: $756\times0.9<756$; $1\times0.94<1$; $4.25\times1.1>4.25$; $31.4\times1.2>31.4$. $\blacksquare$
 
 ## 练习十四
 

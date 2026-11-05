@@ -50,11 +50,11 @@
 
 ## 练习二
 
-(课时 小数与单位换算 练习十二 第 3 题) 在 $\bigcirc$ 里填"$> $""$< $"或"$=$": $284\,\mathrm{g}\bigcirc0.284\,\mathrm{kg}$; $362\,\mathrm{cm}\bigcirc3.61\,\mathrm{m}$; $1480\,\mathrm{m}\bigcirc1.5\,\mathrm{km}$; $532\,\mathrm{cm}\bigcirc5.3\,\mathrm{m}$.
+(课时 小数与单位换算 练习十二 第 3 题) 在 $\bigcirc$ 里填"$>$""$<$"或"$=$": $284\,\mathrm{g}\bigcirc0.284\,\mathrm{kg}$; $362\,\mathrm{cm}\bigcirc3.61\,\mathrm{m}$; $1480\,\mathrm{m}\bigcirc1.5\,\mathrm{km}$; $532\,\mathrm{cm}\bigcirc5.3\,\mathrm{m}$.
 
 ### 解答 练习二
 
-统一单位后比较: $284\,\mathrm{g}=0.284\,\mathrm{kg}$, 故 $=$; $362\,\mathrm{cm}=3.62\,\mathrm{m}> 3.61\,\mathrm{m}$; $1480\,\mathrm{m}=1.48\,\mathrm{m}< 1.5\,\mathrm{km}$; $532\,\mathrm{cm}=5.32\,\mathrm{m}> 5.3\,\mathrm{m}$. $\blacksquare$
+统一单位后比较: $284\,\mathrm{g}=0.284\,\mathrm{kg}$, 故 $=$; $362\,\mathrm{cm}=3.62\,\mathrm{m}>3.61\,\mathrm{m}$; $1480\,\mathrm{m}=1.48\,\mathrm{m}<1.5\,\mathrm{km}$; $532\,\mathrm{cm}=5.32\,\mathrm{m}>5.3\,\mathrm{m}$. $\blacksquare$
 
 ## 练习三
 
@@ -110,7 +110,7 @@ $1$ 分钟 $=60$ 秒, $340\times60=20400\,\mathrm{m}=20.4\,\mathrm{km}$. $\black
 
 ### 解答 练习九
 
-由**定义 8.4.8 (小数的近似数)**: $9.956\approx10,\ 10.0,\ 9.96$; $0.905\approx1,\ 0.9,\ 0.91$; $51.463\approx51,\ 51.5,\ 51.46$; $1.995\approx2,\ 2.0,\ 2.00$. $\blacksquare$
+由**定义 8.4.8 (小数的近似数)**: $9.956\approx10,\,10.0,\,9.96$; $0.905\approx1,\,0.9,\,0.91$; $51.463\approx51,\,51.5,\,51.46$; $1.995\approx2,\,2.0,\,2.00$. $\blacksquare$
 
 ## 练习十
 
@@ -118,7 +118,7 @@ $1$ 分钟 $=60$ 秒, $340\times60=20400\,\mathrm{m}=20.4\,\mathrm{km}$. $\black
 
 ### 解答 练习十
 
-$5< 5.28< 6$, 近似于 $5$; $12< 12.71< 13$, 近似于 $13$; $4< 4.86< 5$, 近似于 $5$; $7< 7.05< 8$, 近似于 $7$. $\blacksquare$
+$5<5.28<6$, 近似于 $5$; $12<12.71<13$, 近似于 $13$; $4<4.86<5$, 近似于 $5$; $7<7.05<8$, 近似于 $7$. $\blacksquare$
 
 ## 练习十一
 

@@ -14,7 +14,7 @@
 
 > **Definition 10.5.3 (分数与除法)**
 > 
-> 被除数$\div$除数$=\frac{\text{被除数}}{\text{除数}}$, 即 $a\div b=\frac{a}{b}$ ($b\ne0$). 求一个数是另一个数的几分之几, 用除法.
+> 被除数$\div$除数$=\frac{\text{被除数}}{\text{除数}}$, 即 $a\div{b}=\frac{a}{b}$ ($b\ne0$). 求一个数是另一个数的几分之几, 用除法.
 
 > **Definition 10.5.4 (真分数和假分数)**
 > 
@@ -110,7 +110,7 @@ By **Definition 10.5.5 (Basic Property of Fractions)**: $\frac{3}{5}=\frac{3\tim
 
 ## Exercise 10
 
-(Lesson: Basic Property of Fractions, Exercise 14, Problem 3) Fill in the blanks: $\frac{3}{4}=\frac{\left(\, \right)}{12}$, $\frac{4}{8}=\frac{\left(\, \right)}{2}$, $\frac{5}{9}=\frac{15}{\left(\, \right)}$, $\frac{16}{24}=\frac{\left(\, \right)}{3}$.
+(Lesson: Basic Property of Fractions, Exercise 14, Problem 3) Fill in the blanks: $\frac{3}{4}=\frac{\left(\,\right)}{12}$, $\frac{4}{8}=\frac{\left(\,\right)}{2}$, $\frac{5}{9}=\frac{15}{\left(\,\right)}$, $\frac{16}{24}=\frac{\left(\,\right)}{3}$.
 
 ### Solution to Exercise 10
 

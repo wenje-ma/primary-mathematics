@@ -138,11 +138,11 @@ By **Definition 2.3.3 (Comparing Two-Digit Numbers)**, each row from left to rig
 
 ## Exercise 14
 
-(Lesson: Number Order and Comparing Size, Compare) Fill "$> $""$< $" or "$=$" in $\bigcirc$: $41\bigcirc45$, $63\bigcirc53$, $89\bigcirc98$, $47\bigcirc32$, $63\bigcirc68$, $37\bigcirc73$, $81\bigcirc18$, $29\bigcirc30$.
+(Lesson: Number Order and Comparing Size, Compare) Fill "$>$""$<$" or "$=$" in $\bigcirc$: $41\bigcirc45$, $63\bigcirc53$, $89\bigcirc98$, $47\bigcirc32$, $63\bigcirc68$, $37\bigcirc73$, $81\bigcirc18$, $29\bigcirc30$.
 
 ### Solution to Exercise 14
 
-By **Definition 2.3.3 (Comparing Two-Digit Numbers)**: $41< 45$, $63> 53$, $89< 98$, $47> 32$, $63< 68$, $37< 73$, $81> 18$, $29< 30$. $\blacksquare$
+By **Definition 2.3.3 (Comparing Two-Digit Numbers)**: $41<45$, $63>53$, $89<98$, $47>32$, $63<68$, $37<73$, $81>18$, $29<30$. $\blacksquare$
 
 ## Exercise 15
 
@@ -150,7 +150,7 @@ By **Definition 2.3.3 (Comparing Two-Digit Numbers)**: $41< 45$, $63> 53$, $89< 
 
 ### Solution to Exercise 15
 
-By **Definition 2.3.4 (A Little More and Much More More)**, from smallest to largest $25< 31< 87< 99$; $87$ is much larger than $25$, $31$ is a little larger than $25$, and $99$ is a little larger than $87$. $\blacksquare$
+By **Definition 2.3.4 (A Little More and Much More More)**, from smallest to largest $25<31<87<99$; $87$ is much larger than $25$, $31$ is a little larger than $25$, and $99$ is a little larger than $87$. $\blacksquare$
 
 ## Exercise 16
 

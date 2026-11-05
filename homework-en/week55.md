@@ -174,7 +174,7 @@ The clock face is divided into $12$ large divisions, each $5$ minutes. $6$ of th
 
 ### Solution to Exercise 20
 
-The white cat ate $15\div3=5$ fish, and the black cat $15\div5=3$ fish. $5> 3$, so the white cat ate more. $\blacksquare$
+The white cat ate $15\div3=5$ fish, and the black cat $15\div5=3$ fish. $5>3$, so the white cat ate more. $\blacksquare$
 
 ## Exercise 21
 
@@ -186,11 +186,11 @@ Each part is $63\div7=9$ meters; the first time $9\times2=18$ meters, the second
 
 ## Exercise 22
 
-(Lesson: Practice 18, Problem 1) Fill in "$> $" or "$< $": $\frac{2}{5}\bigcirc\frac{4}{5}$; $\frac{1}{4}\bigcirc\frac{1}{6}$; $\frac{7}{7}\bigcirc\frac{5}{7}$; $\frac{3}{20}\bigcirc\frac{7}{20}$.
+(Lesson: Practice 18, Problem 1) Fill in "$>$" or "$<$": $\frac{2}{5}\bigcirc\frac{4}{5}$; $\frac{1}{4}\bigcirc\frac{1}{6}$; $\frac{7}{7}\bigcirc\frac{5}{7}$; $\frac{3}{20}\bigcirc\frac{7}{20}$.
 
 ### Solution to Exercise 22
 
-By **Definition 5.8.2 (分数的大小比较)**: $\frac{2}{5}< \frac{4}{5}$; $\frac{1}{4}> \frac{1}{6}$; $\frac{7}{7}> \frac{5}{7}$; $\frac{3}{20}< \frac{7}{20}$. The figure shows four pairs of shaded fraction diagrams (each pair has two identical shapes divided into equal parts and shaded, representing $\frac{2}{5}$ vs $\frac{4}{5}$, $\frac{1}{4}$ vs $\frac{1}{6}$, $\frac{7}{7}$ vs $\frac{5}{7}$, and $\frac{3}{20}$ vs $\frac{7}{20}$), visually illustrating the comparisons above. $\blacksquare$
+By **Definition 5.8.2 (分数的大小比较)**: $\frac{2}{5}<\frac{4}{5}$; $\frac{1}{4}>\frac{1}{6}$; $\frac{7}{7}>\frac{5}{7}$; $\frac{3}{20}<\frac{7}{20}$. The figure shows four pairs of shaded fraction diagrams (each pair has two identical shapes divided into equal parts and shaded, representing $\frac{2}{5}$ vs $\frac{4}{5}$, $\frac{1}{4}$ vs $\frac{1}{6}$, $\frac{7}{7}$ vs $\frac{5}{7}$, and $\frac{3}{20}$ vs $\frac{7}{20}$), visually illustrating the comparisons above. $\blacksquare$
 
 ## Exercise 23
 

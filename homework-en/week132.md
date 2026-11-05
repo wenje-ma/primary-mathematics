@@ -14,11 +14,11 @@
 
 > **Definition 11.5.4 (圆的周长)**
 > 
-> 围成圆的曲线的长叫圆的周长, $C=\pi d=2\pi r$.
+> 围成圆的曲线的长叫圆的周长, $C=\pi{d}=2\pi{r}$.
 
 > **Definition 11.5.5 (圆的面积)**
 > 
-> 圆所占平面的大小叫圆的面积. 把圆等分拼成近似长方形, 长为 $\pi r$, 宽为 $r$, 故 $S=\pi r^2$.
+> 圆所占平面的大小叫圆的面积. 把圆等分拼成近似长方形, 长为 $\pi{r}$, 宽为 $r$, 故 $S=\pi{r}^2$.
 
 ## Exercise 1
 
@@ -58,7 +58,7 @@ $3.14\times\left(25^2-5^2\right)=3.14\times600=1884\,\text{m}^2$. $\blacksquare$
 
 ### Solution to Exercise 5
 
-Let small radius $r$, large $2r$. Shaded $=\pi\left(2r\right)^2-\pi r^2=3\pi r^2$, i.e. $\frac{3}{4}$ of the large circle. $\blacksquare$
+Let small radius $r$, large $2r$. Shaded $=\pi\left(2r\right)^2-\pi{r}^2=3\pi{r}^2$, i.e. $\frac{3}{4}$ of the large circle. $\blacksquare$
 
 ## Exercise 6
 
@@ -114,7 +114,7 @@ Old $r=62.8\div3.14\div2=10\,\text{m}$, new $r=12\,\text{m}$. Increase $3.14\tim
 
 ### Solution to Exercise 12
 
-Semicircle perimeter $=\pi r+2r=r\left(\pi+2\right)=128.5$, $r=128.5\div5.14=25\,\text{m}$. Two semicircles make one circle: area $3.14\times25^2=1962.5\,\text{m}^2$. $\blacksquare$
+Semicircle perimeter $=\pi{r}+2r=r\left(\pi+2\right)=128.5$, $r=128.5\div5.14=25\,\text{m}$. Two semicircles make one circle: area $3.14\times25^2=1962.5\,\text{m}^2$. $\blacksquare$
 
 ## Exercise 13
 
@@ -126,11 +126,11 @@ Annular sector area $=\frac{90}{360}\times3.14\times\left(5^2-4^2\right)=\frac{1
 
 ## Exercise 14
 
-(Lesson: Area of a Circle, Exercise 12 Extension Problem 15) Two equal semicircles overlap; $\triangle ABC$ is an isosceles right triangle with $AB=BC=10\,\text{dm}$. Shaded area?
+(Lesson: Area of a Circle, Exercise 12 Extension Problem 15) Two equal semicircles overlap; $\triangle{A}BC$ is an isosceles right triangle with $AB=BC=10\,\text{dm}$. Shaded area?
 
 ### Solution to Exercise 14
 
-Two semicircles $- $ triangle $=2\times\frac{1}{2}\times3.14\times5^2-\frac{1}{2}\times10\times10=78.5-50=28.5\,\text{dm}^2$. $\blacksquare$
+Two semicircles $-$ triangle $=2\times\frac{1}{2}\times3.14\times5^2-\frac{1}{2}\times10\times10=78.5-50=28.5\,\text{dm}^2$. $\blacksquare$
 
 ## Exercise 15
 

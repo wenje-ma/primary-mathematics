@@ -30,7 +30,7 @@
 
 ### Solution to Exercise 1
 
-Estimate: $298\approx300$, $187\approx200$, $300+200=500$; actually $298< 300$, $187< 200$, so the actual sum is less than $500$, and they can sit. $\blacksquare$
+Estimate: $298\approx300$, $187\approx200$, $300+200=500$; actually $298<300$, $187<200$, so the actual sum is less than $500$, and they can sit. $\blacksquare$
 
 ## Exercise 2
 
@@ -62,7 +62,7 @@ By **Definition 4.5.3 (Addend = Sum - Other Addend)** and **Definition 4.5.4 (�
 
 ### Solution to Exercise 5
 
-The rest is $237-143=94$ pages, and $94< 100$, so "the rest is less than $100$ pages" is correct. $\blacksquare$
+The rest is $237-143=94$ pages, and $94<100$, so "the rest is less than $100$ pages" is correct. $\blacksquare$
 
 ## Exercise 6
 
@@ -86,7 +86,7 @@ $420+384=804$ picks ①morning $420$, ②afternoon $384$, question C how many in
 
 ### Solution to Exercise 8
 
-(1) $219+402=621$ popsicles, and $621> 600$, so Xiaojun is wrong. (2) For example the afternoon sold $402-219=183$ more than the morning. The answer is not unique. $\blacksquare$
+(1) $219+402=621$ popsicles, and $621>600$, so Xiaojun is wrong. (2) For example the afternoon sold $402-219=183$ more than the morning. The answer is not unique. $\blacksquare$
 
 ## Exercise 9
 
@@ -150,7 +150,7 @@ List several feasible routes, add up each segment, compare, and the smallest tot
 
 ### Solution to Exercise 16
 
-In all $279+405=684$ orders, and $684> 600$, so not enough; short by $684-600=84$ boxes. $\blacksquare$
+In all $279+405=684$ orders, and $684>600$, so not enough; short by $684-600=84$ boxes. $\blacksquare$
 
 ## Exercise 17
 

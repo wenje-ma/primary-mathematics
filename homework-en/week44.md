@@ -66,11 +66,11 @@ $25+8\times4=25+32=57$ yuan. By **Definition 5.2.2 (Multiply/Divide Before Add/S
 
 ## Exercise 7
 
-(Lesson: Practice 2, Problem 7) Fill in "$> $" "$< $" or "$=$": $15+25\div5$ $\bigcirc$ $19$; $12+54\div6$ $\bigcirc$ $21-5+7$; $9\times7-53$ $\bigcirc$ $10$; $24\div8\times3$ $\bigcirc$ $32-24\div4$.
+(Lesson: Practice 2, Problem 7) Fill in "$>$" "$<$" or "$=$": $15+25\div5$ $\bigcirc$ $19$; $12+54\div6$ $\bigcirc$ $21-5+7$; $9\times7-53$ $\bigcirc$ $10$; $24\div8\times3$ $\bigcirc$ $32-24\div4$.
 
 ### Solution to Exercise 7
 
-Compute both sides: $15+25\div5=15+5=20> 19$; $12+54\div6=12+9=21$, $21-5+7=23$, so $21< 23$; $9\times7-53=63-53=10=10$; $24\div8\times3=9$, $32-24\div4=32-6=26$, so $9< 26$. $\blacksquare$
+Compute both sides: $15+25\div5=15+5=20>19$; $12+54\div6=12+9=21$, $21-5+7=23$, so $21<23$; $9\times7-53=63-53=10=10$; $24\div8\times3=9$, $32-24\div4=32-6=26$, so $9<26$. $\blacksquare$
 
 ## Exercise 8
 

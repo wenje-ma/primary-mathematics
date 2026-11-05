@@ -130,11 +130,11 @@ Xiaoming per week: $609\div3=203$ (characters); Xiaoliang per week: $964\div4=24
 
 ## Exercise 14
 
-(Lesson: Practice 4, Problem 7) Fill in "$> $", "$< $" or "$=$": $504\div6\bigcirc504\div7$; $304\div8\bigcirc342\div9$; $708\div6\bigcirc891\div9$; $736\div8\bigcirc816\div8$; $405\div5\bigcirc315\div5$; $204\div4\bigcirc204\div3$.
+(Lesson: Practice 4, Problem 7) Fill in "$>$", "$<$" or "$=$": $504\div6\bigcirc504\div7$; $304\div8\bigcirc342\div9$; $708\div6\bigcirc891\div9$; $736\div8\bigcirc816\div8$; $405\div5\bigcirc315\div5$; $204\div4\bigcirc204\div3$.
 
 ### Solution to Exercise 14
 
-Compute first, then compare: $504\div6=84$, $504\div7=72$, hence $> $; $304\div8=38$, $342\div9=38$, hence $=$; $708\div6=118$, $891\div9=99$, hence $> $; $736\div8=92$, $816\div8=102$, hence $< $; $405\div5=81$, $315\div5=63$, hence $> $; $204\div4=51$, $204\div3=68$, hence $< $. $\blacksquare$
+Compute first, then compare: $504\div6=84$, $504\div7=72$, hence $>$; $304\div8=38$, $342\div9=38$, hence $=$; $708\div6=118$, $891\div9=99$, hence $>$; $736\div8=92$, $816\div8=102$, hence $<$; $405\div5=81$, $315\div5=63$, hence $>$; $204\div4=51$, $204\div3=68$, hence $<$. $\blacksquare$
 
 ## Exercise 15
 

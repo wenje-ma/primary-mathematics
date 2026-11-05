@@ -98,11 +98,11 @@ The ones is $7$; the tens plus ones is $12$, so the tens is $12-7=5$; the hundre
 
 ## Exercise 10
 
-(Lesson: Comparing Numbers up to Ten Thousand, Do It) Compare the numbers of saplings. (1) Cedar $843$ vs willow $1215$. (2) Poplar $2757$ vs pine $1614$. (3) Pine $1614$ vs willow $1215$. Fill the $\bigcirc$ with $> $ or $< $.
+(Lesson: Comparing Numbers up to Ten Thousand, Do It) Compare the numbers of saplings. (1) Cedar $843$ vs willow $1215$. (2) Poplar $2757$ vs pine $1614$. (3) Pine $1614$ vs willow $1215$. Fill the $\bigcirc$ with $>$ or $<$.
 
 ### Solution to Exercise 10
 
-By **Definition 4.4.5 (比较万以内数的大小)**: $843$ is three-digit and $1215$ is four-digit, $843< 1215$; $2757$ and $1614$ are both four-digit, the highest digit $2> 1$, so $2757> 1614$; $1614$ and $1215$ have the same highest digit, the hundreds $6> 2$, so $1614> 1215$. $\blacksquare$
+By **Definition 4.4.5 (比较万以内数的大小)**: $843$ is three-digit and $1215$ is four-digit, $843<1215$; $2757$ and $1614$ are both four-digit, the highest digit $2>1$, so $2757>1614$; $1614$ and $1215$ have the same highest digit, the hundreds $6>2$, so $1614>1215$. $\blacksquare$
 
 ## Exercise 11
 
@@ -110,7 +110,7 @@ By **Definition 4.4.5 (比较万以内数的大小)**: $843$ is three-digit and 
 
 ### Solution to Exercise 11
 
-By **Definition 4.4.5 (比较万以内数的大小)**, (1) $893< 914< 941< 1001$ ($1001$ is four-digit and largest). (2) $3005< 3049< 3050< 3500$. $\blacksquare$
+By **Definition 4.4.5 (比较万以内数的大小)**, (1) $893<914<941<1001$ ($1001$ is four-digit and largest). (2) $3005<3049<3050<3500$. $\blacksquare$
 
 ## Exercise 12
 
@@ -134,7 +134,7 @@ $200+400=600$; $3000+6000=9000$; $800+900=1700$; $600-400=200$; $9000-3000=6000$
 
 ### Solution to Exercise 14
 
-Right. The $3$ in the thousands place means $3000$, and the $3$ in the tens place means $30$; $3000> 30$, so the number meant by the thousands-place $3$ is larger. $\blacksquare$
+Right. The $3$ in the thousands place means $3000$, and the $3$ in the tens place means $30$; $3000>30$, so the number meant by the thousands-place $3$ is larger. $\blacksquare$
 
 ## Exercise 15
 
@@ -166,12 +166,12 @@ Four beads all as lower beads in the thousands, hundreds, tens, and ones places 
 
 ### Solution to Exercise 18
 
-(1) $895> 804> 673> 621$; month $4$ is most, month $6$ least. (2) $673\approx700$, $895\approx900$, $804\approx800$, $621\approx600$. $\blacksquare$
+(1) $895>804>673>621$; month $4$ is most, month $6$ least. (2) $673\approx700$, $895\approx900$, $804\approx800$, $621\approx600$. $\blacksquare$
 
 ## Exercise 19
 
-(Lesson: Approximate Numbers and Add/Subtract, Practice) Which digits can go in the $\square$? $2317> 2\square17$; $999< \square6000$.
+(Lesson: Approximate Numbers and Add/Subtract, Practice) Which digits can go in the $\square$? $2317>2\square17$; $999<\square6000$.
 
 ### Solution to Exercise 19
 
-For $2317> 2\square17$, the thousands, ones, and tens are the same, so the hundreds must be smaller than $3$; fill $0,1,2$. For $999< \square6000$, $999$ is three-digit and the right side is four-digit, so the thousands place cannot be $0$; any of $1\sim9$ works. $\blacksquare$
+For $2317>2\square17$, the thousands, ones, and tens are the same, so the hundreds must be smaller than $3$; fill $0,1,2$. For $999<\square6000$, $999$ is three-digit and the right side is four-digit, so the thousands place cannot be $0$; any of $1\sim9$ works. $\blacksquare$

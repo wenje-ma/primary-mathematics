@@ -110,7 +110,7 @@ By **Definition 3.2.5 (Solving Problems with Multiplication)**, $1$ set has $5$ 
 
 ### Solution to Exercise 9
 
-By **Definition 3.2.5 (Solving Problems with Multiplication)**, $5$ kittens: $6\times5=30$ (fish); $7$ kittens: $6\times7=42$ (fish), and $42> 40$, which is more than $40$. $\blacksquare$
+By **Definition 3.2.5 (Solving Problems with Multiplication)**, $5$ kittens: $6\times5=30$ (fish); $7$ kittens: $6\times7=42$ (fish), and $42>40$, which is more than $40$. $\blacksquare$
 
 ## Exercise 10
 

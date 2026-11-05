@@ -142,7 +142,7 @@ By **Definition 9.2.1 (小数乘整数)**, expand $0.72$ by $100$ to get $72$, $
 
 ### Solution to Exercise 13
 
-By **Definition 9.2.1 (小数乘整数)**, $6$ items: $8.6\times6=51.6$ yuan. $7$ items: $8.6\times7=60.2$ yuan; $60.2> 40$, so not enough. $\blacksquare$
+By **Definition 9.2.1 (小数乘整数)**, $6$ items: $8.6\times6=51.6$ yuan. $7$ items: $8.6\times7=60.2$ yuan; $60.2>40$, so not enough. $\blacksquare$
 
 ## Exercise 14
 
@@ -182,7 +182,7 @@ By **Definition 9.2.2 (小数乘小数)**: $0.56\times0.04=0.0224$ (pad $0$ on t
 
 ### Solution to Exercise 18
 
-By **Definition 9.2.3 (Approximate Value of a Product)**, $0.049\times45=2.205$; keeping one decimal, look at the hundredths digit $0< 5$, discard it, giving $2.2$ hundred million. $\blacksquare$
+By **Definition 9.2.3 (Approximate Value of a Product)**, $0.049\times45=2.205$; keeping one decimal, look at the hundredths digit $0<5$, discard it, giving $2.2$ hundred million. $\blacksquare$
 
 ## Exercise 19
 

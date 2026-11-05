@@ -74,7 +74,7 @@ By **Definition 7.1.1 (Counting Units and Digit Places)** and **Definition 7.1.5
 
 ## Exercise 6
 
-(Lesson: Practice 4, Problem 1) Fill in. (1) $631020500$ is ( ) digits, its highest place is ( ), the $3$ is in the ( ) place, and the hundred-thousands place is ( ). (2) $5$ ten-millions, $7$ hundred-thousands and $8$ thousands is ( ). (3) $38204000000$ contains ( ) hundred-millions and ( ) ten-thousands. (4) $930701000=900000000+30000000+\left(\ \ \right)+\left(\ \ \right)$.
+(Lesson: Practice 4, Problem 1) Fill in. (1) $631020500$ is ( ) digits, its highest place is ( ), the $3$ is in the ( ) place, and the hundred-thousands place is ( ). (2) $5$ ten-millions, $7$ hundred-thousands and $8$ thousands is ( ). (3) $38204000000$ contains ( ) hundred-millions and ( ) ten-thousands. (4) $930701000=900000000+30000000+\left(\,\,\right)+\left(\,\,\right)$.
 
 ### Solution to Exercise 6
 
@@ -94,7 +94,7 @@ By **Definition 7.1.4 (Writing Large Numbers)** and **Definition 7.1.7 (Rounding
 
 ### Solution to Exercise 8
 
-By **Definition 7.1.5 (Comparing the Size of Numbers)** and **Definition 7.1.6 (Rewriting Numbers)**: $27$ ten-thousands $=270000> 260800$; $500000000=5$ hundred-millions; $40$ ten-thousands $=400000< 4000000$; $297860000< 3$ hundred-millions $=300000000$. $\blacksquare$
+By **Definition 7.1.5 (Comparing the Size of Numbers)** and **Definition 7.1.6 (Rewriting Numbers)**: $27$ ten-thousands $=270000>260800$; $500000000=5$ hundred-millions; $40$ ten-thousands $=400000<4000000$; $297860000<3$ hundred-millions $=300000000$. $\blacksquare$
 
 ## Exercise 9
 
@@ -122,11 +122,11 @@ By **Definition 7.1.7 (Rounding to find approximate numbers)**: $247482\approx25
 
 ## Exercise 12
 
-(Lesson: Practice 4, Problem 7) Fill the $\square$ with suitable digits: $8\square765000\approx9$ hundred-millions; $3562100000< \square103270000$; $\square00\square00\approx69$ ten-thousands; $\square00800000> 2810800000$.
+(Lesson: Practice 4, Problem 7) Fill the $\square$ with suitable digits: $8\square765000\approx9$ hundred-millions; $3562100000<\square103270000$; $\square00\square00\approx69$ ten-thousands; $\square00800000>2810800000$.
 
 ### Solution to Exercise 12
 
-By **Definition 7.1.5 (Comparing the Size of Numbers)** and **Definition 7.1.7 (Rounding to find approximate numbers)**: $8\square765000\approx9$ hundred-millions, the ten-million digit must be $\ge5$, fill $5\sim9$; $3562100000< \square103270000$, fill $\ge4$; $\square00\square00\approx69$ ten-thousands, the ten-thousand level is $69$ and the thousands digit is $0\sim4$, fill $690000\sim694000$; $\square00800000> 2810800000$, fill $\ge3$. $\blacksquare$
+By **Definition 7.1.5 (Comparing the Size of Numbers)** and **Definition 7.1.7 (Rounding to find approximate numbers)**: $8\square765000\approx9$ hundred-millions, the ten-million digit must be $\ge5$, fill $5\sim9$; $3562100000<\square103270000$, fill $\ge4$; $\square00\square00\approx69$ ten-thousands, the ten-thousand level is $69$ and the thousands digit is $0\sim4$, fill $690000\sim694000$; $\square00800000>2810800000$, fill $\ge3$. $\blacksquare$
 
 ## Exercise 13
 

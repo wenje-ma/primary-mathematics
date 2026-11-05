@@ -30,11 +30,11 @@
 
 > **Definition 12.4.2 (圆柱的侧面积与表面积)**
 > 
-> 把圆柱侧面沿高展开得到一个长方形, 长方形的长等于圆柱底面的周长, 宽等于圆柱的高. 侧面积 $=$ 底面周长 $\times$ 高 $=2\pi rh$; 一个底面积 $=\pi r^{2}$; 表面积 $=$ 侧面积 $+$ 两个底面积.
+> 把圆柱侧面沿高展开得到一个长方形, 长方形的长等于圆柱底面的周长, 宽等于圆柱的高. 侧面积 $=$ 底面周长 $\times$ 高 $=2\pi{r}h$; 一个底面积 $=\pi{r}^{2}$; 表面积 $=$ 侧面积 $+$ 两个底面积.
 
 > **Definition 12.4.3 (圆柱的体积)**
 > 
-> 把圆柱底面分成若干相等扇形, 切开后拼成一个近似长方体, 长方体底面积等于圆柱底面积, 高等于圆柱的高. 圆柱体积 $=$ 底面积 $\times$ 高 $=Sh=\pi r^{2}h$.
+> 把圆柱底面分成若干相等扇形, 切开后拼成一个近似长方体, 长方体底面积等于圆柱底面积, 高等于圆柱的高. 圆柱体积 $=$ 底面积 $\times$ 高 $=Sh=\pi{r}^{2}h$.
 
 > **Definition 12.4.4 (圆锥的认识)**
 > 
@@ -42,7 +42,7 @@
 
 > **Definition 12.4.5 (圆锥的体积)**
 > 
-> 通过实验, 等底等高的圆锥形容器正好用 $3$ 次倒满圆柱形容器, 即圆锥体积是与它等底等高的圆柱体积的 $\frac{1}{3}$. 圆锥体积 $=\frac{1}{3}Sh=\frac{1}{3}\pi r^{2}h$.
+> 通过实验, 等底等高的圆锥形容器正好用 $3$ 次倒满圆柱形容器, 即圆锥体积是与它等底等高的圆柱体积的 $\frac{1}{3}$. 圆锥体积 $=\frac{1}{3}Sh=\frac{1}{3}\pi{r}^{2}h$.
 
 ## Exercise 1
 
@@ -106,7 +106,7 @@ Rotating about the long edge $2\,\mathrm{cm}$ as axis gives height $2\,\mathrm{c
 
 ### Solution to Exercise 8
 
-By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, the unrolled rectangle's length $=$ base circumference $=2\pi r=2\times3.14\times5=31.4\,\mathrm{cm}$; its width $=$ the cylinder's height $=20\,\mathrm{cm}$. As shown.
+By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, the unrolled rectangle's length $=$ base circumference $=2\pi{r}=2\times3.14\times5=31.4\,\mathrm{cm}$; its width $=$ the cylinder's height $=20\,\mathrm{cm}$. As shown.
 
 (Figure: a cylindrical tea canister with a label around its side, beside which the unrolled rectangle is drawn, $31.4\,\mathrm{cm}$ long and $20\,\mathrm{cm}$ wide.)
 
@@ -114,7 +114,7 @@ $\blacksquare$
 
 ## Exercise 9
 
-(Lesson: Exercise 3, Problem 3) Which of the following is the net of a cylinder? (Three combinations are given: circles paired with rectangles, with one side of the rectangle being $6.28, 3, 20\,\mathrm{cm}$, and so on.)
+(Lesson: Exercise 3, Problem 3) Which of the following is the net of a cylinder? (Three combinations are given: circles paired with rectangles, with one side of the rectangle being $6.28,3,20\,\mathrm{cm}$, and so on.)
 
 ### Solution to Exercise 9
 
@@ -126,7 +126,7 @@ By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, one side
 
 ### Solution to Exercise 10
 
-By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, the label area $=$ lateral area $=2\pi rh=2\times3.14\times5\times10=314\,\mathrm{cm}^{2}$. $\blacksquare$
+By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, the label area $=$ lateral area $=2\pi{r}h=2\times3.14\times5\times10=314\,\mathrm{cm}^{2}$. $\blacksquare$
 
 ## Exercise 11
 

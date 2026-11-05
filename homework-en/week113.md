@@ -30,7 +30,7 @@
 
 ### Solution to Exercise 1
 
-By **Definition 10.3.1 (Features of Cuboids and Cubes)** and **Definition 10.3.2 (Surface Area)**: (1) $6\times46^2=6\times2116=12696\,\mathrm{cm^2}$; (2) total edge length $=46\times12=552\,\mathrm{cm}=5.52\,\mathrm{m}$, and $5.52> 4.5$, so the tape is not enough. $\blacksquare$
+By **Definition 10.3.1 (Features of Cuboids and Cubes)** and **Definition 10.3.2 (Surface Area)**: (1) $6\times46^2=6\times2116=12696\,\mathrm{cm^2}$; (2) total edge length $=46\times12=552\,\mathrm{cm}=5.52\,\mathrm{m}$, and $5.52>4.5$, so the tape is not enough. $\blacksquare$
 
 ## Exercise 2
 

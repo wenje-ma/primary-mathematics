@@ -54,7 +54,7 @@ By **Definition 8.4.7 (Unit Conversion)**: $25.52\,\mathrm{m}=25\,\mathrm{m}\,52
 
 ### Solution to Exercise 2
 
-Running the same distance, the shorter the time the faster: $8.50< 8.92< 9.23< 10.01$, so the ranking is $8.50$s first, $8.92$s second, $9.23$s third, $10.01$s fourth. $\blacksquare$
+Running the same distance, the shorter the time the faster: $8.50<8.92<9.23<10.01$, so the ranking is $8.50$s first, $8.92$s second, $9.23$s third, $10.01$s fourth. $\blacksquare$
 
 ## Exercise 3
 
@@ -78,7 +78,7 @@ By **Definition 8.4.1 (Meaning of Decimals)**: $0.3$ is $3$ pieces of $0.1$; $0.
 
 ### Solution to Exercise 5
 
-By **Definition 8.4.5 (Comparing Decimals)**: $8.7> 7.9$; $4.300=4.3$; $2.613< 2.614$; $0.41> 0.409$; $570\,\mathrm{cm}=5.70\,\mathrm{m}$; $70\,\mathrm{g}=0.07\,\mathrm{kg}< 0.7\,\mathrm{kg}$. $\blacksquare$
+By **Definition 8.4.5 (Comparing Decimals)**: $8.7>7.9$; $4.300=4.3$; $2.613<2.614$; $0.41>0.409$; $570\,\mathrm{cm}=5.70\,\mathrm{m}$; $70\,\mathrm{g}=0.07\,\mathrm{kg}<0.7\,\mathrm{kg}$. $\blacksquare$
 
 ## Exercise 6
 
@@ -146,8 +146,8 @@ By **Definition 8.4.8 (Approximate Values)** and **Definition 8.4.9 (Rewriting)*
 
 ## Exercise 14
 
-(Lesson: Review and Consolidation, Practice 14, Problem 7) Fill in the $\square$ with suitable digits: $0.\square4\,\mathrm{m}> 14\,\mathrm{cm}$; $\square\,\mathrm{g}< 0.018\,\mathrm{kg}$; $694\,\mathrm{cm}> 6.\square8\,\mathrm{m}$; $12.\square3\,\mathrm{km^2}> 1252$ hectares.
+(Lesson: Review and Consolidation, Practice 14, Problem 7) Fill in the $\square$ with suitable digits: $0.\square4\,\mathrm{m}>14\,\mathrm{cm}$; $\square\,\mathrm{g}<0.018\,\mathrm{kg}$; $694\,\mathrm{cm}>6.\square8\,\mathrm{m}$; $12.\square3\,\mathrm{km^2}>1252$ hectares.
 
 ### Solution to Exercise 14
 
-Unify units: $14\,\mathrm{cm}=0.14\,\mathrm{m}$, so $0.\square4> 0.14$, $\square$ can be $2\sim9$; $0.018\,\mathrm{kg}=18\,\mathrm{g}$, so $\square< 18$, can be $1\sim17$; $694\,\mathrm{cm}=6.94\,\mathrm{m}$, $6.94> 6.\square8$, $\square$ can be $0\sim8$; $1252$ hectares $=12.52\,\mathrm{km^2}$, $12.\square3> 12.52$, $\square$ can be $5\sim9$. $\blacksquare$
+Unify units: $14\,\mathrm{cm}=0.14\,\mathrm{m}$, so $0.\square4>0.14$, $\square$ can be $2\sim9$; $0.018\,\mathrm{kg}=18\,\mathrm{g}$, so $\square<18$, can be $1\sim17$; $694\,\mathrm{cm}=6.94\,\mathrm{m}$, $6.94>6.\square8$, $\square$ can be $0\sim8$; $1252$ hectares $=12.52\,\mathrm{km^2}$, $12.\square3>12.52$, $\square$ can be $5\sim9$. $\blacksquare$
