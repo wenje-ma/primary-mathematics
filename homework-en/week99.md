@@ -94,7 +94,7 @@ By **Definition 9.2.3 (积的近似数)**, $3.04\times21=63.84\approx64$ m. $\bl
 
 ## Exercise 9
 
-(Lesson: Decimal Multiplication, Practice 2, Extension and Improvement, Problem 1) Based on $65\times39=2535$, fill suitable numbers in the parentheses: $2.535=\left(\,\,\right)\times\left(\,\,\right)$; $25.35=\left(\,\,\right)\times\left(\,\,\right)$; $253.5=\left(\,\,\right)\times\left(\,\,\right)$; $0.2535=\left(\,\,\right)\times\left(\,\,\right)$.
+(Lesson: Decimal Multiplication, Practice 2, Extension and Improvement, Problem 1) Based on $65\times39=2535$, fill suitable numbers in the parentheses: $2.535=\left(\,\right)\times\left(\,\right)$; $25.35=\left(\,\right)\times\left(\,\right)$; $253.5=\left(\,\right)\times\left(\,\right)$; $0.2535=\left(\,\right)\times\left(\,\right)$.
 
 ### Solution to Exercise 9
 

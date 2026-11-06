@@ -142,7 +142,7 @@ $x=8$ 时 $x^2=64$, $4x=32$. $x^2=4x$ 即 $x^2-4x=0$, $x\left(x-4\right)=0$, $x=
 
 ## 练习十六
 
-(课时 用字母表示数 练习十三 复习巩固 第 2 题) 如果 $a=b$, 根据等式性质填空: $a+3=b+\left(\,\,\right)$; $a-\left(\,\,\right)=b-9$; $a\times1.5=b\times\left(\,\,\right)$; $a-\left(\,\,\right)=b-c$.
+(课时 用字母表示数 练习十三 复习巩固 第 2 题) 如果 $a=b$, 根据等式性质填空: $a+3=b+\left(\,\right)$; $a-\left(\,\right)=b-9$; $a\times1.5=b\times\left(\,\right)$; $a-\left(\,\right)=b-c$.
 
 ### 解答 练习十六
 

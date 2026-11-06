@@ -22,19 +22,19 @@
 
 ## Exercise 1
 
-(Lesson: Circumference, Exercise 11 Integrated Problem 5) A wall clock's minute hand is $20\,\text{cm}$; after $30$ minutes, how far has the tip traveled? After $45$?
+(Lesson: Circumference, Exercise 11 Integrated Problem 5) A wall clock's minute hand is $20\;\text{cm}$; after $30$ minutes, how far has the tip traveled? After $45$?
 
 ### Solution to Exercise 1
 
-The tip's full circle is $2\times3.14\times20=125.6\,\text{cm}$. $30$ minutes walks half a circle $=62.8\,\text{cm}$; $45$ minutes walks $\frac{3}{4}$ circle $=94.2\,\text{cm}$. $\blacksquare$
+The tip's full circle is $2\times3.14\times20=125.6\;\text{cm}$. $30$ minutes walks half a circle $=62.8\;\text{cm}$; $45$ minutes walks $\frac{3}{4}$ circle $=94.2\;\text{cm}$. $\blacksquare$
 
 ## Exercise 2
 
-(Lesson: Circumference, Exercise 11 Integrated Problem 6) A circular cattle pen radius $15\,\text{m}$; at least how much wire to wrap it $3$ times? If posts are every $2\,\text{m}$, about how many?
+(Lesson: Circumference, Exercise 11 Integrated Problem 6) A circular cattle pen radius $15\;\text{m}$; at least how much wire to wrap it $3$ times? If posts are every $2\;\text{m}$, about how many?
 
 ### Solution to Exercise 2
 
-One wrap $2\times3.14\times15=94.2\,\text{m}$, $3$ wraps $282.6\,\text{m}$. Posts $94.2\div2\approx47$. $\blacksquare$
+One wrap $2\times3.14\times15=94.2\;\text{m}$, $3$ wraps $282.6\;\text{m}$. Posts $94.2\div2\approx47$. $\blacksquare$
 
 ## Exercise 3
 
@@ -42,31 +42,31 @@ One wrap $2\times3.14\times15=94.2\,\text{m}$, $3$ wraps $282.6\,\text{m}$. Post
 
 ### Solution to Exercise 3
 
-(1) Square side $=d=4$, perimeter $16\,\text{cm}$; circle perimeter $3.14\times4=12.56\,\text{cm}$. (2) Circle perimeter $2\times3.14\times1.5=9.42\,\text{cm}$; rectangle length $=4r=6$, width $=2r=3$, perimeter $\left(6+3\right)\times2=18\,\text{cm}$. $\blacksquare$
+(1) Square side $=d=4$, perimeter $16\;\text{cm}$; circle perimeter $3.14\times4=12.56\;\text{cm}$. (2) Circle perimeter $2\times3.14\times1.5=9.42\;\text{cm}$; rectangle length $=4r=6$, width $=2r=3$, perimeter $\left(6+3\right)\times2=18\;\text{cm}$. $\blacksquare$
 
 ## Exercise 4
 
-(Lesson: Circumference, Exercise 11 Integrated Problem 8) Inside a square paper of perimeter $100\,\text{cm}$, cut the largest-radius circle; what is its radius?
+(Lesson: Circumference, Exercise 11 Integrated Problem 8) Inside a square paper of perimeter $100\;\text{cm}$, cut the largest-radius circle; what is its radius?
 
 ### Solution to Exercise 4
 
-Square side $=100\div4=25\,\text{cm}$; the largest circle's diameter equals the side $25\,\text{cm}$, radius $12.5\,\text{cm}$. $\blacksquare$
+Square side $=100\div4=25\;\text{cm}$; the largest circle's diameter equals the side $25\;\text{cm}$, radius $12.5\;\text{cm}$. $\blacksquare$
 
 ## Exercise 5
 
-(Lesson: Circumference, Exercise 11 Integrated Problem 9) A window has a decorative light of the shown shape, a semicircle on a square, $d=50\,\text{cm}$. About how many meters of lights?
+(Lesson: Circumference, Exercise 11 Integrated Problem 9) A window has a decorative light of the shown shape, a semicircle on a square, $d=50\;\text{cm}$. About how many meters of lights?
 
 ### Solution to Exercise 5
 
-Light length $=$ semicircle $+$ three sides $=\frac{1}{2}\times3.14\times50+50\times3=78.5+150=228.5\,\text{cm}=2.285\,\text{m}$. $\blacksquare$
+Light length $=$ semicircle $+$ three sides $=\frac{1}{2}\times3.14\times50+50\times3=78.5+150=228.5\;\text{cm}=2.285\;\text{m}$. $\blacksquare$
 
 ## Exercise 6
 
-(Lesson: Circumference, Exercise 11 Extension Problem 10) What is this figure's perimeter? How did you compute it? (A $5\,\text{cm}$ square with four semicircles on its sides.)
+(Lesson: Circumference, Exercise 11 Extension Problem 10) What is this figure's perimeter? How did you compute it? (A $5\;\text{cm}$ square with four semicircles on its sides.)
 
 ### Solution to Exercise 6
 
-Four semicircles equal two full circles: $2\times3.14\times5=31.4\,\text{cm}$. $\blacksquare$
+Four semicircles equal two full circles: $2\times3.14\times5=31.4\;\text{cm}$. $\blacksquare$
 
 ## Exercise 7
 
@@ -74,7 +74,7 @@ Four semicircles equal two full circles: $2\times3.14\times5=31.4\,\text{cm}$. $
 
 ### Solution to Exercise 7
 
-$d=12.56\div3.14=4\,\text{cm}$, $r=2\,\text{cm}$. Radius scales by $n$, diameter scales by $n$, circumference also scales by $n$. $\blacksquare$
+$d=12.56\div3.14=4\;\text{cm}$, $r=2\;\text{cm}$. Radius scales by $n$, diameter scales by $n$, circumference also scales by $n$. $\blacksquare$
 
 ## Exercise 8
 
@@ -86,7 +86,7 @@ Rope length $=$ one full circumference $+$ some diameters. As circles increase, 
 
 ## Exercise 9
 
-(Lesson: Area of a Circle, Example 5) A circle of radius $10\,\text{cm}$. First estimate area by counting squares, then cut into equal sectors and rearrange into an approximate rectangle of length $\pi{r}$, width $r$. What is the area formula?
+(Lesson: Area of a Circle, Example 5) A circle of radius $10\;\text{cm}$. First estimate area by counting squares, then cut into equal sectors and rearrange into an approximate rectangle of length $\pi{r}$, width $r$. What is the area formula?
 
 ### Solution to Exercise 9
 
@@ -94,35 +94,35 @@ By **Definition 11.5.5 (Area of a Circle)**, rectangle area $=$ length $\times$ 
 
 ## Exercise 10
 
-(Lesson: Area of a Circle, Example 6) A wind turbine rotor radius is $123\,\text{m}$; its swept area? A standard football pitch is $105\,\text{m}$ by $68\,\text{m}$; about how many pitches? (Round.)
+(Lesson: Area of a Circle, Example 6) A wind turbine rotor radius is $123\;\text{m}$; its swept area? A standard football pitch is $105\;\text{m}$ by $68\;\text{m}$; about how many pitches? (Round.)
 
 ### Solution to Exercise 10
 
-By **Definition 11.5.5 (Area of a Circle)**: $S=3.14\times123^2=3.14\times15129\approx47505\,\text{m}^2$. Pitch $105\times68=7140\,\text{m}^2$, $47505\div7140\approx7$ pitches. $\blacksquare$
+By **Definition 11.5.5 (Area of a Circle)**: $S=3.14\times123^2=3.14\times15129\approx47505\;\text{m}^2$. Pitch $105\times68=7140\;\text{m}^2$, $47505\div7140\approx7$ pitches. $\blacksquare$
 
 ## Exercise 11
 
-(Lesson: Area of a Circle, Do It Problem 1) A round coffee table is $1\,\text{m}$ diameter; its area? A circular reservoir perimeter about $31.4\,\text{m}$; about what area?
+(Lesson: Area of a Circle, Do It Problem 1) A round coffee table is $1\;\text{m}$ diameter; its area? A circular reservoir perimeter about $31.4\;\text{m}$; about what area?
 
 ### Solution to Exercise 11
 
-Table $r=0.5\,\text{m}$, $S=3.14\times0.5^2=0.785\,\text{m}^2$. Reservoir $r=31.4\div3.14\div2=5\,\text{m}$, $S=3.14\times25=78.5\,\text{m}^2$. $\blacksquare$
+Table $r=0.5\;\text{m}$, $S=3.14\times0.5^2=0.785\;\text{m}^2$. Reservoir $r=31.4\div3.14\div2=5\;\text{m}$, $S=3.14\times25=78.5\;\text{m}^2$. $\blacksquare$
 
 ## Exercise 12
 
-(Lesson: Area of a Circle, Example 7) A jade ring \"Yu-embossed silkworm-pattern bi\" is an annulus: outer diameter $26.3\,\text{cm}$, inner $5.4\,\text{cm}$. Its area? (One decimal.)
+(Lesson: Area of a Circle, Example 7) A jade ring \"Yu-embossed silkworm-pattern bi\" is an annulus: outer diameter $26.3\;\text{cm}$, inner $5.4\;\text{cm}$. Its area? (One decimal.)
 
 ### Solution to Exercise 12
 
-Annulus area $=$ outer $-$ inner $=3.14\times\left(\frac{26.3}{2}\right)^2-3.14\times\left(\frac{5.4}{2}\right)^2=3.14\times\left(13.15^2-2.7^2\right)=3.14\times165.6325\approx520.1\,\text{cm}^2$. $\blacksquare$
+Annulus area $=$ outer $-$ inner $=3.14\times\left(\frac{26.3}{2}\right)^2-3.14\times\left(\frac{5.4}{2}\right)^2=3.14\times\left(13.15^2-2.7^2\right)=3.14\times165.6325\approx520.1\;\text{cm}^2$. $\blacksquare$
 
 ## Exercise 13
 
-(Lesson: Area of a Circle, Example 8) Find the shaded area: (1) a large semicircle minus a small plus a small (radius $5\,\text{cm}$); (2) a rectangle $r=3\,\text{cm}$, upper semicircle moved below.
+(Lesson: Area of a Circle, Example 8) Find the shaded area: (1) a large semicircle minus a small plus a small (radius $5\;\text{cm}$); (2) a rectangle $r=3\;\text{cm}$, upper semicircle moved below.
 
 ### Solution to Exercise 13
 
-(1) $3.14\times5^2\div2=39.25\,\text{cm}^2$; (2) translate the upper semicircle down; the shaded part is exactly the rectangle $6\times3=18\,\text{cm}^2$. $\blacksquare$
+(1) $3.14\times5^2\div2=39.25\;\text{cm}^2$; (2) translate the upper semicircle down; the shaded part is exactly the rectangle $6\times3=18\;\text{cm}^2$. $\blacksquare$
 
 ## Exercise 14
 
@@ -130,7 +130,7 @@ Annulus area $=$ outer $-$ inner $=3.14\times\left(\frac{26.3}{2}\right)^2-3.14\
 
 ### Solution to Exercise 14
 
-(1) Outer radius $6$, $3.14\times\left(6^2-4^2\right)=3.14\times20=62.8\,\text{cm}^2$; (2) rectangle length $5$, width $2$; shaded pieces form a rectangle $3\times2=6\,\text{cm}^2$; (3) use the annular-sector formula $\frac{n}{360}\pi\left(R^2-r^2\right)$. $\blacksquare$
+(1) Outer radius $6$, $3.14\times\left(6^2-4^2\right)=3.14\times20=62.8\;\text{cm}^2$; (2) rectangle length $5$, width $2$; shaded pieces form a rectangle $3\times2=6\;\text{cm}^2$; (3) use the annular-sector formula $\frac{n}{360}\pi\left(R^2-r^2\right)$. $\blacksquare$
 
 ## Exercise 15
 
@@ -142,16 +142,16 @@ Annulus area $=$ outer $-$ inner $=3.14\times\left(\frac{26.3}{2}\right)^2-3.14\
 
 ## Exercise 16
 
-(Lesson: Area of a Circle, Do It) Given the square's area is $20\,\text{cm}^2$, what is the circle's area? The shaded area?
+(Lesson: Area of a Circle, Do It) Given the square's area is $20\;\text{cm}^2$, what is the circle's area? The shaded area?
 
 ### Solution to Exercise 16
 
-By **Exercise 170**, the circle is $\frac{\pi}{4}$ of the square: circle $20\times\frac{\pi}{4}=5\pi\approx15.7\,\text{cm}^2$; shaded $20-15.7=4.3\,\text{cm}^2$. $\blacksquare$
+By **Exercise 170**, the circle is $\frac{\pi}{4}$ of the square: circle $20\times\frac{\pi}{4}=5\pi\approx15.7\;\text{cm}^2$; shaded $20-15.7=4.3\;\text{cm}^2$. $\blacksquare$
 
 ## Exercise 17
 
-(Lesson: Area of a Circle, Exercise 12 Review Problem 1) Complete the table: given diameters $4\,\text{cm}$, $9\,\text{cm}$, $6\,\text{cm}$, $20\,\text{cm}$, find radius and area.
+(Lesson: Area of a Circle, Exercise 12 Review Problem 1) Complete the table: given diameters $4\;\text{cm}$, $9\;\text{cm}$, $6\;\text{cm}$, $20\;\text{cm}$, find radius and area.
 
 ### Solution to Exercise 17
 
-$d=4$: $r=2$, $S=12.56\,\text{cm}^2$; $d=9$: $r=4.5$, $S=63.585\,\text{cm}^2$; $d=6$: $r=3$, $S=28.26\,\text{cm}^2$; $d=20$: $r=10$, $S=314\,\text{cm}^2$. $\blacksquare$
+$d=4$: $r=2$, $S=12.56\;\text{cm}^2$; $d=9$: $r=4.5$, $S=63.585\;\text{cm}^2$; $d=6$: $r=3$, $S=28.26\;\text{cm}^2$; $d=20$: $r=10$, $S=314\;\text{cm}^2$. $\blacksquare$

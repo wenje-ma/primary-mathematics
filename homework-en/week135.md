@@ -18,7 +18,7 @@
 
 > **Definition 11.8.1 (用水量推算)**
 > 
-> 先由小样本 (一分钟, 一个家庭) 测量用水量, 再按时间或人数比例推算到一小时, 一天, 一年, 全班或全校的总用水量. $1\,\text{L}=1000\,\text{mL}$, $1\,\text{m}^3=1000\,\text{L}$.
+> 先由小样本 (一分钟, 一个家庭) 测量用水量, 再按时间或人数比例推算到一小时, 一天, 一年, 全班或全校的总用水量. $1\;\text{L}=1000\;\text{mL}$, $1\;\text{m}^3=1000\;\text{L}$.
 
 > **Definition 11.9.1 (鸽巢原理, 抽屉原理)**
 > 
@@ -34,11 +34,11 @@ $7600\times0.9\times0.9=6156$ yuan. $\blacksquare$
 
 ## Exercise 2
 
-(Lesson: Discounts, Cheng, Tax, Interest, Example 5) Store goods at 30% off; Grandpa Wang harvested $1500\,\text{kg}$ corn last year, this year up 2 cheng; a mall's month $10$ taxable turnover is $30$ ten-thousand yuan at $3\%$ VAT; deposit $8000$ yuan at $2.10\%$ annual for two years.
+(Lesson: Discounts, Cheng, Tax, Interest, Example 5) Store goods at 30% off; Grandpa Wang harvested $1500\;\text{kg}$ corn last year, this year up 2 cheng; a mall's month $10$ taxable turnover is $30$ ten-thousand yuan at $3\%$ VAT; deposit $8000$ yuan at $2.10\%$ annual for two years.
 
 ### Solution to Exercise 2
 
-30% off $=$ list $\times70\%$; 2 cheng $=20\%$, this year $1500\times1.2=1800\,\text{kg}$; VAT $30\times3\%=0.9$ ten-thousand yuan; interest $8000\times2.10\%\times2=336$ yuan. $\blacksquare$
+30% off $=$ list $\times70\%$; 2 cheng $=20\%$, this year $1500\times1.2=1800\;\text{kg}$; VAT $30\times3\%=0.9$ ten-thousand yuan; interest $8000\times2.10\%\times2=336$ yuan. $\blacksquare$
 
 ## Exercise 3
 
@@ -82,11 +82,11 @@ Interest $=6000\times2.25\%\times2=270$ yuan; total $6000+270=6270$ yuan. $\blac
 
 ## Exercise 8
 
-(Lesson: Discounts, Cheng, Tax, Interest, Exercise 16 Problem 5) Left pan holds a $100\,\text{g}$ weight; right pan holds a $2500\,\text{mm}$ wood strip in balance. With only the $100\,\text{g}$ on the right, the balancing wood is $x\,\text{mm}$. Find $x$.
+(Lesson: Discounts, Cheng, Tax, Interest, Exercise 16 Problem 5) Left pan holds a $100\;\text{g}$ weight; right pan holds a $2500\;\text{mm}$ wood strip in balance. With only the $100\;\text{g}$ on the right, the balancing wood is $x\;\text{mm}$. Find $x$.
 
 ### Solution to Exercise 8
 
-By lever balance, weight and length are inversely proportional, $100\times2500=100\times{x}$, giving $x=2500\,\text{mm}$ (i.e. the same $100\,\text{g}$ corresponds to $2500\,\text{mm}$). $\blacksquare$
+By lever balance, weight and length are inversely proportional, $100\times2500=100\times{x}$, giving $x=2500\;\text{mm}$ (i.e. the same $100\;\text{g}$ corresponds to $2500\;\text{mm}$). $\blacksquare$
 
 ## Exercise 9
 
@@ -94,23 +94,23 @@ By lever balance, weight and length are inversely proportional, $100\times2500=1
 
 ### Solution to Exercise 9
 
-A typical household uses about $8\sim15\,\text{m}^3$ of water per month. The water bill is computed by multiplying a fixed price per ton by the amount of water used; for example, at $4$ yuan per ton, using $10\,\text{m}^3$ costs $40$ yuan. $\blacksquare$
+A typical household uses about $8\sim15\;\text{m}^3$ of water per month. The water bill is computed by multiplying a fixed price per ton by the amount of water used; for example, at $4$ yuan per ton, using $10\;\text{m}^3$ costs $40$ yuan. $\blacksquare$
 
 ## Exercise 10
 
-(Lesson: Dripping Water Experiment, Do It) Dripping-water experiment: a loosely closed faucet drips about $50\,\text{mL}$ per minute. How many milliliters drip in one hour? How many liters is that? How about in one day?
+(Lesson: Dripping Water Experiment, Do It) Dripping-water experiment: a loosely closed faucet drips about $50\;\text{mL}$ per minute. How many milliliters drip in one hour? How many liters is that? How about in one day?
 
 ### Solution to Exercise 10
 
-By **Definition 11.8.1 (Estimating Water Usage)**: in one hour, $50\times60=3000\,\text{mL}=3\,\text{L}$; in one day, $3\times24=72\,\text{L}$. $\blacksquare$
+By **Definition 11.8.1 (Estimating Water Usage)**: in one hour, $50\times60=3000\;\text{mL}=3\;\text{L}$; in one day, $3\times24=72\;\text{L}$. $\blacksquare$
 
 ## Exercise 11
 
-(Lesson: Dripping Water Experiment, Do It) At this rate, about how many liters of water does a loosely closed faucet waste in one year (counting $365$ days)? If a family of three uses $10\,\text{m}^3$ per month, how many months would this water last them?
+(Lesson: Dripping Water Experiment, Do It) At this rate, about how many liters of water does a loosely closed faucet waste in one year (counting $365$ days)? If a family of three uses $10\;\text{m}^3$ per month, how many months would this water last them?
 
 ### Solution to Exercise 11
 
-In one year, $72\times365=26280\,\text{L}=26.28\,\text{m}^3$. $26.28\div10\approx2.6$ (months). $\blacksquare$
+In one year, $72\times365=26280\;\text{L}=26.28\;\text{m}^3$. $26.28\div10\approx2.6$ (months). $\blacksquare$
 
 ## Exercise 12
 
@@ -118,7 +118,7 @@ In one year, $72\times365=26280\,\text{L}=26.28\,\text{m}^3$. $26.28\div10\appro
 
 ### Solution to Exercise 12
 
-By **Definition 11.8.1 (Estimating Water Usage)**, the school's monthly water usage $\div$ the number of school days $\div$ the number of students and teachers gives the water usage per person per day. A typical school uses about $20\sim50\,\text{L}$ per person per day. $\blacksquare$
+By **Definition 11.8.1 (Estimating Water Usage)**, the school's monthly water usage $\div$ the number of school days $\div$ the number of students and teachers gives the water usage per person per day. A typical school uses about $20\sim50\;\text{L}$ per person per day. $\blacksquare$
 
 ## Exercise 13
 
@@ -170,11 +170,11 @@ Trousers $=100\times1.5=150$ yuan; leather shoes $=150\div\frac{5}{6}=180$ (yuan
 
 ## Exercise 19
 
-(Lesson: Review and Consolidation, Shapes and Geometry, Park (1)) A circular park has radius $1\,\text{km}$, and there is a monument at its center. How long is the park's outer wall?
+(Lesson: Review and Consolidation, Shapes and Geometry, Park (1)) A circular park has radius $1\;\text{km}$, and there is a monument at its center. How long is the park's outer wall?
 
 ### Solution to Exercise 19
 
-$C=2\times3.14\times1=6.28\,\text{km}$. $\blacksquare$
+$C=2\times3.14\times1=6.28\;\text{km}$. $\blacksquare$
 
 ## Exercise 20
 
@@ -182,19 +182,19 @@ $C=2\times3.14\times1=6.28\,\text{km}$. $\blacksquare$
 
 ### Solution to Exercise 20
 
-The north gate is due north of the south gate, and the distance equals the diameter $2\,\text{km}$. $\blacksquare$
+The north gate is due north of the south gate, and the distance equals the diameter $2\;\text{km}$. $\blacksquare$
 
 ## Exercise 21
 
-(Lesson: Review and Consolidation, Shapes and Geometry, Park (3)) Inside the park there is a circular lake of radius $0.2\,\text{km}$. What is the land area of the park in square kilometers?
+(Lesson: Review and Consolidation, Shapes and Geometry, Park (3)) Inside the park there is a circular lake of radius $0.2\;\text{km}$. What is the land area of the park in square kilometers?
 
 ### Solution to Exercise 21
 
-$3.14\times\left(1^2-0.2^2\right)=3.14\times0.96=3.0144\,\text{km}^2$. $\blacksquare$
+$3.14\times\left(1^2-0.2^2\right)=3.14\times0.96=3.0144\;\text{km}^2$. $\blacksquare$
 
 ## Exercise 22
 
-(Lesson: Review and Consolidation, Shapes and Geometry, Park (4)) The concrete road between two adjacent gates of the park is about $1.41\,\text{km}$ long. What part of the circle is this road? Into how many equal parts do the four gates divide the circle?
+(Lesson: Review and Consolidation, Shapes and Geometry, Park (4)) The concrete road between two adjacent gates of the park is about $1.41\;\text{km}$ long. What part of the circle is this road? Into how many equal parts do the four gates divide the circle?
 
 ### Solution to Exercise 22
 

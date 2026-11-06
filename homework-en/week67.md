@@ -118,7 +118,7 @@ Perimeter $6\times4=24$ (meters), area $6\times6=36$ (square meters). $\blacksqu
 
 ## Exercise 11
 
-(Lesson: Practice 18, Problem 5) (1) $3$ years $=\left(\,\,\right)$ months, $24$ months $=\left(\,\,\right)$ years. (2) Month $7$ has $\left(\,\,\right)$ days, and $15$ o'clock is $\left(\,\,\right)$ p.m. (3) Xiaoliang arrives at school at $8:10$ and leaves at $12:00$, and in the afternoon arrives at $2:00$ and leaves at $17:00$; how many hours and minutes is he at school all day?
+(Lesson: Practice 18, Problem 5) (1) $3$ years $=\left(\,\right)$ months, $24$ months $=\left(\,\right)$ years. (2) Month $7$ has $\left(\,\right)$ days, and $15$ o'clock is $\left(\,\right)$ p.m. (3) Xiaoliang arrives at school at $8:10$ and leaves at $12:00$, and in the afternoon arrives at $2:00$ and leaves at $17:00$; how many hours and minutes is he at school all day?
 
 ### Solution to Exercise 11
 

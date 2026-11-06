@@ -30,11 +30,11 @@
 
 ## Exercise 1
 
-(Lesson: Solving Problems, Exercise 5 Integrated Problem 7) (1) An elephant weighs $4\,\text{t}$; a baby elephant is $\frac{1}{20}$ of that. How heavy? (2) An Asian elephant weighs $4\,\text{t}$; an African elephant is $\frac{1}{2}$ heavier. How heavy?
+(Lesson: Solving Problems, Exercise 5 Integrated Problem 7) (1) An elephant weighs $4\;\text{t}$; a baby elephant is $\frac{1}{20}$ of that. How heavy? (2) An Asian elephant weighs $4\;\text{t}$; an African elephant is $\frac{1}{2}$ heavier. How heavy?
 
 ### Solution to Exercise 1
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $4\times\frac{1}{20}=\frac{1}{5}\,\text{t}$; (2) $4\times\left(1+\frac{1}{2}\right)=6\,\text{t}$. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $4\times\frac{1}{20}=\frac{1}{5}\;\text{t}$; (2) $4\times\left(1+\frac{1}{2}\right)=6\;\text{t}$. $\blacksquare$
 
 ## Exercise 2
 
@@ -46,11 +46,11 @@ $\frac{3}{4}$ of $8$ minutes is $6$ minutes; plus $20$ seconds, total $6$ minute
 
 ## Exercise 3
 
-(Lesson: Solving Problems, Exercise 5 Extension Problem 9) A ball is dropped from $50\,\text{m}$; on hitting the ground it bounces back, each bounce $\frac{2}{5}$ lower than the previous. How high is the third bounce?
+(Lesson: Solving Problems, Exercise 5 Extension Problem 9) A ball is dropped from $50\;\text{m}$; on hitting the ground it bounces back, each bounce $\frac{2}{5}$ lower than the previous. How high is the third bounce?
 
 ### Solution to Exercise 3
 
-By **Definition 11.2.4 (Successive Fraction-of-a-Number)**, each bounce is $1-\frac{2}{5}=\frac{3}{5}$ of the prior: $50\times\frac{3}{5}\times\frac{3}{5}\times\frac{3}{5}=50\times\frac{27}{125}=10.8\,\text{m}$. $\blacksquare$
+By **Definition 11.2.4 (Successive Fraction-of-a-Number)**, each bounce is $1-\frac{2}{5}=\frac{3}{5}$ of the prior: $50\times\frac{3}{5}\times\frac{3}{5}\times\frac{3}{5}=50\times\frac{27}{125}=10.8\;\text{m}$. $\blacksquare$
 
 ## Exercise 4
 
@@ -78,19 +78,19 @@ By **Definition 11.2.2 (A Number Times a Fraction)**: $1850\times\left(1+\frac{1
 
 ## Exercise 7
 
-(Lesson: Summary and Review, Exercise 6 Integrated Problem 4) A candy factory packs a batch: $4$ boxes, $25$ bags per box, $\frac{1}{2}\,\text{kg}$ per bag. Total weight?
+(Lesson: Summary and Review, Exercise 6 Integrated Problem 4) A candy factory packs a batch: $4$ boxes, $25$ bags per box, $\frac{1}{2}\;\text{kg}$ per bag. Total weight?
 
 ### Solution to Exercise 7
 
-$4\times25\times\frac{1}{2}=50\,\text{kg}$. $\blacksquare$
+$4\times25\times\frac{1}{2}=50\;\text{kg}$. $\blacksquare$
 
 ## Exercise 8
 
-(Lesson: Summary and Review, Exercise 6 Integrated Problem 5) A landfill gets $70\,\text{t}$ of household waste daily; $\frac{1}{3}$ is recyclable. How many tons recyclable in $15$ days?
+(Lesson: Summary and Review, Exercise 6 Integrated Problem 5) A landfill gets $70\;\text{t}$ of household waste daily; $\frac{1}{3}$ is recyclable. How many tons recyclable in $15$ days?
 
 ### Solution to Exercise 8
 
-$70\times\frac{1}{3}\times15=350\,\text{t}$. $\blacksquare$
+$70\times\frac{1}{3}\times15=350\;\text{t}$. $\blacksquare$
 
 ## Exercise 9
 

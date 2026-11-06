@@ -18,11 +18,11 @@
 
 ## Exercise 1
 
-(Lesson: Mixed Fraction-Decimal Operations, Do It Problem 2) A dairy cow averages $\frac{1}{50}\,\text{t}$ of milk per day; how many tons do $42$ cows give in $100$ days?
+(Lesson: Mixed Fraction-Decimal Operations, Do It Problem 2) A dairy cow averages $\frac{1}{50}\;\text{t}$ of milk per day; how many tons do $42$ cows give in $100$ days?
 
 ### Solution to Exercise 1
 
-By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $\frac{1}{50}\times42\times100=84\,\text{t}$. $\blacksquare$
+By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $\frac{1}{50}\times42\times100=84\;\text{t}$. $\blacksquare$
 
 ## Exercise 2
 
@@ -34,11 +34,11 @@ $\frac{27}{50}\times2=\frac{27}{25}$; $\frac{11}{28}\times\frac{8}{33}=\frac{2}{
 
 ## Exercise 3
 
-(Lesson: Mixed Fraction-Decimal Operations, Exercise 4 Review Problem 2) An ostrich is $2.5\,\text{m}$ tall; an adult emperor penguin is $\frac{12}{25}$ of that. How tall is the penguin?
+(Lesson: Mixed Fraction-Decimal Operations, Exercise 4 Review Problem 2) An ostrich is $2.5\;\text{m}$ tall; an adult emperor penguin is $\frac{12}{25}$ of that. How tall is the penguin?
 
 ### Solution to Exercise 3
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: $2.5\times\frac{12}{25}=1.2\,\text{m}$. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: $2.5\times\frac{12}{25}=1.2\;\text{m}$. $\blacksquare$
 
 ## Exercise 4
 
@@ -78,7 +78,7 @@ $\frac{11}{24}\times16=\frac{22}{3}$; $\frac{1}{4}\times\frac{2}{7}=\frac{1}{14}
 
 ### Solution to Exercise 8
 
-Triangle area $=\frac{1}{2}\times\frac{3}{4}\times\frac{4}{9}=\frac{1}{6}\,\text{dm}^2$; trapezoid area $=\frac{1}{2}\times\left(\frac{11}{18}+\frac{8}{9}\right)\times\frac{2}{3}=\frac{1}{2}\times\frac{27}{18}\times\frac{2}{3}=\frac{1}{2}\,\text{dm}^2$. $\blacksquare$
+Triangle area $=\frac{1}{2}\times\frac{3}{4}\times\frac{4}{9}=\frac{1}{6}\;\text{dm}^2$; trapezoid area $=\frac{1}{2}\times\left(\frac{11}{18}+\frac{8}{9}\right)\times\frac{2}{3}=\frac{1}{2}\times\frac{27}{18}\times\frac{2}{3}=\frac{1}{2}\;\text{dm}^2$. $\blacksquare$
 
 ## Exercise 9
 
@@ -90,8 +90,8 @@ By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $\frac{1}{4}
 
 ## Exercise 10
 
-(Lesson: Mixed Fraction-Decimal Operations, Exercise 4 Integrated Problem 9) A rectangular table is $\frac{5}{4}\,\text{m}$ by $\frac{3}{5}\,\text{m}$. A square table has area $\frac{9}{10}\,\text{m}^2$. By how many square meters is the rectangle smaller?
+(Lesson: Mixed Fraction-Decimal Operations, Exercise 4 Integrated Problem 9) A rectangular table is $\frac{5}{4}\;\text{m}$ by $\frac{3}{5}\;\text{m}$. A square table has area $\frac{9}{10}\;\text{m}^2$. By how many square meters is the rectangle smaller?
 
 ### Solution to Exercise 10
 
-Rectangle area $\frac{5}{4}\times\frac{3}{5}=\frac{3}{4}\,\text{m}^2$; difference $\frac{9}{10}-\frac{3}{4}=\frac{18}{20}-\frac{15}{20}=\frac{3}{20}\,\text{m}^2$. $\blacksquare$
+Rectangle area $\frac{5}{4}\times\frac{3}{5}=\frac{3}{4}\;\text{m}^2$; difference $\frac{9}{10}-\frac{3}{4}=\frac{18}{20}-\frac{15}{20}=\frac{3}{20}\;\text{m}^2$. $\blacksquare$

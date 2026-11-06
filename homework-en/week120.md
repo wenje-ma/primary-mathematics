@@ -78,13 +78,13 @@ Draw the figure, record each vertex's ordered pair, give only the coordinates; y
 
 ## Exercise 9
 
-(Lesson: Direction and Distance, Example 2) A fishing boat is $1500\,\text{m}$ from the rescue ship. How to describe its position? The boat is on the east-by-south $25^{\circ}$ bearing (or south-by-east $65^{\circ}$). On the map $1\,\text{cm}$ represents $500\,\text{m}$, so $1500\,\text{m}$ is drawn as $3\,\text{cm}$.
+(Lesson: Direction and Distance, Example 2) A fishing boat is $1500\;\text{m}$ from the rescue ship. How to describe its position? The boat is on the east-by-south $25^{\circ}$ bearing (or south-by-east $65^{\circ}$). On the map $1\;\text{cm}$ represents $500\;\text{m}$, so $1500\;\text{m}$ is drawn as $3\;\text{cm}$.
 
-The figure: a bearing diagram with the rescue ship as observation point, showing a direction marker (north up, south down, west left, east right); from the rescue ship a segment $3\,\text{cm}$ long is drawn in the east-by-south $25^{\circ}$ direction, the endpoint is marked as the fishing boat, and the angle $25^{\circ}$ and scale are labeled.
+The figure: a bearing diagram with the rescue ship as observation point, showing a direction marker (north up, south down, west left, east right); from the rescue ship a segment $3\;\text{cm}$ long is drawn in the east-by-south $25^{\circ}$ direction, the endpoint is marked as the fishing boat, and the angle $25^{\circ}$ and scale are labeled.
 
 ### Solution to Exercise 9
 
-Distance alone doesn't fix position. By **Definition 11.1.2 (Determining Position by Direction and Distance)**: with the rescue ship as reference, the boat lies east-by-south $25^{\circ}$ at distance $1500\,\text{m}$. The two descriptions' angles sum to $90^{\circ}$; by convention use the angle no more than $45^{\circ}$, i.e. east-by-south $25^{\circ}$. $\blacksquare$
+Distance alone doesn't fix position. By **Definition 11.1.2 (Determining Position by Direction and Distance)**: with the rescue ship as reference, the boat lies east-by-south $25^{\circ}$ at distance $1500\;\text{m}$. The two descriptions' angles sum to $90^{\circ}$; by convention use the angle no more than $45^{\circ}$, i.e. east-by-south $25^{\circ}$. $\blacksquare$
 
 ## Exercise 10
 
@@ -96,11 +96,11 @@ With Beijing as observer, use a protractor: Shenyang is east-by-south of Beijing
 
 ## Exercise 11
 
-(Lesson: Direction and Distance, Do It Problem 2) With People's Square as reference (scale $100\,\text{m}$ per segment): (1) City Hall is due west, distance $\_\_\,\text{m}$; (2) the Park is north-by-west $\_\_^{\circ}$, distance $\_\_\,\text{m}$; (3) the Workers' Cultural Palace is east-by-north $\_\_^{\circ}$; (4) the Tech Building is in the $\_\_$ direction; (5) the Bank is in the $\_\_$ direction.
+(Lesson: Direction and Distance, Do It Problem 2) With People's Square as reference (scale $100\;\text{m}$ per segment): (1) City Hall is due west, distance $\_\_\;\text{m}$; (2) the Park is north-by-west $\_\_^{\circ}$, distance $\_\_\;\text{m}$; (3) the Workers' Cultural Palace is east-by-north $\_\_^{\circ}$; (4) the Tech Building is in the $\_\_$ direction; (5) the Bank is in the $\_\_$ direction.
 
 ### Solution to Exercise 11
 
-By **Definition 11.1.2 (Determining Position by Direction and Distance)**: first measure angles, then measure map segment lengths and convert at $100\,\text{m}$ each. City Hall is due west $200\,\text{m}$; fill in the Park, Cultural Palace, Tech Building, Bank by measured angles and segment counts. $\blacksquare$
+By **Definition 11.1.2 (Determining Position by Direction and Distance)**: first measure angles, then measure map segment lengths and convert at $100\;\text{m}$ each. City Hall is due west $200\;\text{m}$; fill in the Park, Cultural Palace, Tech Building, Bank by measured angles and segment counts. $\blacksquare$
 
 ## Exercise 12
 
@@ -112,8 +112,8 @@ Swap the observer point and the directions reverse. Beijing is south-by-west of 
 
 ## Exercise 13
 
-(Lesson: Direction and Distance, Example 3) A cargo ship is north-by-west $40^{\circ}$ from the rescue ship, $1000\,\text{m}$ away. Mark its position on the map (scale: $1\,\text{cm}$ = $500\,\text{m}$).
+(Lesson: Direction and Distance, Example 3) A cargo ship is north-by-west $40^{\circ}$ from the rescue ship, $1000\;\text{m}$ away. Mark its position on the map (scale: $1\;\text{cm}$ = $500\;\text{m}$).
 
 ### Solution to Exercise 13
 
-By **Definition 11.1.2 (Determining Position by Direction and Distance)**: with the rescue ship as vertex, draw a ray north-by-west $40^{\circ}$; $1000\,\text{m}$ is $2\,\text{cm}$ on the map; the endpoint is the ship. $\blacksquare$
+By **Definition 11.1.2 (Determining Position by Direction and Distance)**: with the rescue ship as vertex, draw a ray north-by-west $40^{\circ}$; $1000\;\text{m}$ is $2\;\text{cm}$ on the map; the endpoint is the ship. $\blacksquare$

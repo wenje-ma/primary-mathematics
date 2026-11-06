@@ -22,13 +22,13 @@
 
 ## Exercise 1
 
-(Lesson: Understanding Circles, Do It Problem 2) Draw a circle of radius $2\,\text{cm}$ and mark its center, radius, and diameter with $O$, $r$, $d$.
+(Lesson: Understanding Circles, Do It Problem 2) Draw a circle of radius $2\;\text{cm}$ and mark its center, radius, and diameter with $O$, $r$, $d$.
 
 The figure: a circle with center marked $O$, a segment from $O$ to a point on the circle labeled radius $r$, and a segment through $O$ with both endpoints on the circle labeled diameter $d$.
 
 ### Solution to Exercise 1
 
-By **Definition 11.5.1 (Parts of a Circle)**, set center $O$, spread $2\,\text{cm}$, draw, mark radius $r=2\,\text{cm}$ and diameter $d=4\,\text{cm}$. $\blacksquare$
+By **Definition 11.5.1 (Parts of a Circle)**, set center $O$, spread $2\;\text{cm}$, draw, mark radius $r=2\;\text{cm}$ and diameter $d=4\;\text{cm}$. $\blacksquare$
 
 ## Exercise 2
 
@@ -48,21 +48,21 @@ By **Definition 11.5.2 (Arcs, Sectors, Central Angles)**, draw sectors of differ
 
 ## Exercise 4
 
-(Lesson: Understanding Circles, Do It) Point out sectors in objects. First draw a circle of radius $2\,\text{cm}$, then a sector of central angle $100^{\circ}$ in it.
+(Lesson: Understanding Circles, Do It) Point out sectors in objects. First draw a circle of radius $2\;\text{cm}$, then a sector of central angle $100^{\circ}$ in it.
 
-The figure: a circle of radius $2\,\text{cm}$, with two radii at the center and the intercepted arc enclosing a $100^{\circ}$ central angle forming a shaded sector.
+The figure: a circle of radius $2\;\text{cm}$, with two radii at the center and the intercepted arc enclosing a $100^{\circ}$ central angle forming a shaded sector.
 
 ### Solution to Exercise 4
 
-By **Definition 11.5.2 (Arcs, Sectors, Central Angles)**, draw $r=2\,\text{cm}$, use a protractor to mark a $100^{\circ}$ angle at the center; its two sides and the arc bound the sector. $\blacksquare$
+By **Definition 11.5.2 (Arcs, Sectors, Central Angles)**, draw $r=2\;\text{cm}$, use a protractor to mark a $100^{\circ}$ angle at the center; its two sides and the arc bound the sector. $\blacksquare$
 
 ## Exercise 5
 
-(Lesson: Understanding Circles, Exercise 10 Review Problem 1) Draw circles as specified: (1) $r=3\,\text{cm}$; (2) $d=5\,\text{cm}$; (3) $r=3.5\,\text{cm}$.
+(Lesson: Understanding Circles, Exercise 10 Review Problem 1) Draw circles as specified: (1) $r=3\;\text{cm}$; (2) $d=5\;\text{cm}$; (3) $r=3.5\;\text{cm}$.
 
 ### Solution to Exercise 5
 
-By **Definition 11.5.1 (Parts of a Circle)**: (1) spread $3\,\text{cm}$; (2) $d=5\,\text{cm}$ gives $r=2.5\,\text{cm}$, spread $2.5\,\text{cm}$; (3) spread $3.5\,\text{cm}$. Draw each. $\blacksquare$
+By **Definition 11.5.1 (Parts of a Circle)**: (1) spread $3\;\text{cm}$; (2) $d=5\;\text{cm}$ gives $r=2.5\;\text{cm}$, spread $2.5\;\text{cm}$; (3) spread $3.5\;\text{cm}$. Draw each. $\blacksquare$
 
 ## Exercise 6
 
@@ -70,7 +70,7 @@ By **Definition 11.5.1 (Parts of a Circle)**: (1) spread $3\,\text{cm}$; (2) $d=
 
 ### Solution to Exercise 6
 
-By **Definition 11.5.1 (Parts of a Circle)**, $r=d\div2$: radii are $0.12$, $0.71$, $0.43$, $0.52\,\text{m}$. $\blacksquare$
+By **Definition 11.5.1 (Parts of a Circle)**, $r=d\div2$: radii are $0.12$, $0.71$, $0.43$, $0.52\;\text{m}$. $\blacksquare$
 
 ## Exercise 7
 
@@ -98,27 +98,27 @@ By **Definition 11.5.2 (Arcs, Sectors, Central Angles)**, an angle with vertex a
 
 ## Exercise 10
 
-(Lesson: Understanding Circles, Exercise 10 Integrated Problem 6) The school wants a circular flower bed of diameter $10\,\text{m}$; how can you draw it?
+(Lesson: Understanding Circles, Exercise 10 Integrated Problem 6) The school wants a circular flower bed of diameter $10\;\text{m}$; how can you draw it?
 
 ### Solution to Exercise 10
 
-$r=5\,\text{m}$. Mark a point on the ground as center, fix a $5\,\text{m}$ rope at it, pull taut, and sweep a full circle. $\blacksquare$
+$r=5\;\text{m}$. Mark a point on the ground as center, fix a $5\;\text{m}$ rope at it, pull taut, and sweep a full circle. $\blacksquare$
 
 ## Exercise 11
 
-(Lesson: Understanding Circles, Exercise 10 Integrated Problem 7) Fill from the figure: cylinder height $3.5\,\text{cm}$, base diameter $10\,\text{cm}$; find $d$.
+(Lesson: Understanding Circles, Exercise 10 Integrated Problem 7) Fill from the figure: cylinder height $3.5\;\text{cm}$, base diameter $10\;\text{cm}$; find $d$.
 
 ### Solution to Exercise 11
 
-The rectangle holds two equal circles; its length $10\,\text{cm}$ is two diameters, so $d=10\div2=5\,\text{cm}$. $\blacksquare$
+The rectangle holds two equal circles; its length $10\;\text{cm}$ is two diameters, so $d=10\div2=5\;\text{cm}$. $\blacksquare$
 
 ## Exercise 12
 
-(Lesson: Understanding Circles, Exercise 10 Integrated Problem 8) A rectangle holds three equal circles; its length is $18\,\text{cm}$. Circle diameter? Rectangle perimeter?
+(Lesson: Understanding Circles, Exercise 10 Integrated Problem 8) A rectangle holds three equal circles; its length is $18\;\text{cm}$. Circle diameter? Rectangle perimeter?
 
 ### Solution to Exercise 12
 
-$18\,\text{cm}$ is $3$ diameters, $d=18\div3=6\,\text{cm}$; rectangle width equals the diameter $6\,\text{cm}$, perimeter $=\left(18+6\right)\times2=48\,\text{cm}$. $\blacksquare$
+$18\;\text{cm}$ is $3$ diameters, $d=18\div3=6\;\text{cm}$; rectangle width equals the diameter $6\;\text{cm}$, perimeter $=\left(18+6\right)\times2=48\;\text{cm}$. $\blacksquare$
 
 ## Exercise 13
 
@@ -146,48 +146,48 @@ A circle's circumference is always a bit more than $3$ times its diameter. By **
 
 ## Exercise 16
 
-(Lesson: Circumference, Example 4) A car wheel has diameter $75\,\text{cm}$. In $1$ revolution how far does the car go? If it travels $4710\,\text{km}$, how many wheel revolutions?
+(Lesson: Circumference, Example 4) A car wheel has diameter $75\;\text{cm}$. In $1$ revolution how far does the car go? If it travels $4710\;\text{km}$, how many wheel revolutions?
 
 ### Solution to Exercise 16
 
-By **Definition 11.5.4 (Circumference)**, $C=3.14\times75=235.5\,\text{cm}=2.355\,\text{m}$. $4710\,\text{km}=4710000\,\text{m}$, $4710000\div2.355=2000000$ revolutions. $\blacksquare$
+By **Definition 11.5.4 (Circumference)**, $C=3.14\times75=235.5\;\text{cm}=2.355\;\text{m}$. $4710\;\text{km}=4710000\;\text{m}$, $4710000\div2.355=2000000$ revolutions. $\blacksquare$
 
 ## Exercise 17
 
-(Lesson: Circumference, Do It Problem 1) Find circumferences: $d=8\,\text{cm}$; $r=3\,\text{cm}$; $r=5\,\text{cm}$. A tape measure gives a round tabletop perimeter $6.28\,\text{m}$; what's the diameter?
+(Lesson: Circumference, Do It Problem 1) Find circumferences: $d=8\;\text{cm}$; $r=3\;\text{cm}$; $r=5\;\text{cm}$. A tape measure gives a round tabletop perimeter $6.28\;\text{m}$; what's the diameter?
 
 ### Solution to Exercise 17
 
-By **Definition 11.5.4 (Circumference)**: $3.14\times8=25.12\,\text{cm}$; $2\times3.14\times3=18.84\,\text{cm}$; $2\times3.14\times5=31.4\,\text{cm}$; diameter $6.28\div3.14=2\,\text{m}$. $\blacksquare$
+By **Definition 11.5.4 (Circumference)**: $3.14\times8=25.12\;\text{cm}$; $2\times3.14\times3=18.84\;\text{cm}$; $2\times3.14\times5=31.4\;\text{cm}$; diameter $6.28\div3.14=2\;\text{m}$. $\blacksquare$
 
 ## Exercise 18
 
-(Lesson: Circumference, Exercise 11 Review Problem 1) A circular fountain has radius $5\,\text{m}$; what is its circumference?
+(Lesson: Circumference, Exercise 11 Review Problem 1) A circular fountain has radius $5\;\text{m}$; what is its circumference?
 
 ### Solution to Exercise 18
 
-By **Definition 11.5.4 (Circumference)**: $2\times3.14\times5=31.4\,\text{m}$. $\blacksquare$
+By **Definition 11.5.4 (Circumference)**: $2\times3.14\times5=31.4\;\text{m}$. $\blacksquare$
 
 ## Exercise 19
 
-(Lesson: Circumference, Exercise 11 Review Problem 2) In a circular pavilion, Xiaoli walks across the diameter in $12$ steps, each about $55\,\text{cm}$. About what is the circumference?
+(Lesson: Circumference, Exercise 11 Review Problem 2) In a circular pavilion, Xiaoli walks across the diameter in $12$ steps, each about $55\;\text{cm}$. About what is the circumference?
 
 ### Solution to Exercise 19
 
-Diameter $=12\times55=660\,\text{cm}=6.6\,\text{m}$, circumference $=3.14\times6.6=20.724\,\text{m}$. $\blacksquare$
+Diameter $=12\times55=660\;\text{cm}=6.6\;\text{m}$, circumference $=3.14\times6.6=20.724\;\text{m}$. $\blacksquare$
 
 ## Exercise 20
 
-(Lesson: Circumference, Exercise 11 Review Problem 3) In an old building, a big red cylinder's cross-section perimeter is $3.14\,\text{m}$; what is its diameter?
+(Lesson: Circumference, Exercise 11 Review Problem 3) In an old building, a big red cylinder's cross-section perimeter is $3.14\;\text{m}$; what is its diameter?
 
 ### Solution to Exercise 20
 
-$3.14\div3.14=1\,\text{m}$. $\blacksquare$
+$3.14\div3.14=1\;\text{m}$. $\blacksquare$
 
 ## Exercise 21
 
-(Lesson: Circumference, Exercise 11 Review Problem 4) A unicyclist's wheel is $40\,\text{cm}$ diameter; to cross a $50.24\,\text{m}$ wire, about how many wheel revolutions?
+(Lesson: Circumference, Exercise 11 Review Problem 4) A unicyclist's wheel is $40\;\text{cm}$ diameter; to cross a $50.24\;\text{m}$ wire, about how many wheel revolutions?
 
 ### Solution to Exercise 21
 
-Wheel circumference $3.14\times40=125.6\,\text{cm}=1.256\,\text{m}$; $50.24\div1.256=40$ revolutions. $\blacksquare$
+Wheel circumference $3.14\times40=125.6\;\text{cm}=1.256\;\text{m}$; $50.24\div1.256=40$ revolutions. $\blacksquare$

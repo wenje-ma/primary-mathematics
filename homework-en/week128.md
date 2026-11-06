@@ -14,27 +14,27 @@
 
 ## Exercise 1
 
-(Lesson: Fraction Division, Exercise 7 Review Problem 7) China spans about $5200\,\text{km}$ east-west, which is $\frac{52}{55}$ of the north-south span. About how far north-south?
+(Lesson: Fraction Division, Exercise 7 Review Problem 7) China spans about $5200\;\text{km}$ east-west, which is $\frac{52}{55}$ of the north-south span. About how far north-south?
 
 ### Solution to Exercise 1
 
-By **Definition 11.3.2 (Rule for Fraction Division)**: $5200\div\frac{52}{55}=5200\times\frac{55}{52}=5500\,\text{km}$. $\blacksquare$
+By **Definition 11.3.2 (Rule for Fraction Division)**: $5200\div\frac{52}{55}=5200\times\frac{55}{52}=5500\;\text{km}$. $\blacksquare$
 
 ## Exercise 2
 
-(Lesson: Fraction Division, Exercise 7 Integrated Problem 8) A trapezoidal glass has upper base, lower base, height $\frac{3}{5}\,\text{m}$, $\frac{4}{5}\,\text{m}$, $\frac{3}{4}\,\text{m}$. Its area? If cut into a rectangle, max area?
+(Lesson: Fraction Division, Exercise 7 Integrated Problem 8) A trapezoidal glass has upper base, lower base, height $\frac{3}{5}\;\text{m}$, $\frac{4}{5}\;\text{m}$, $\frac{3}{4}\;\text{m}$. Its area? If cut into a rectangle, max area?
 
 ### Solution to Exercise 2
 
-Trapezoid area $=\frac{1}{2}\times\left(\frac{3}{5}+\frac{4}{5}\right)\times\frac{3}{4}=\frac{1}{2}\times\frac{7}{5}\times\frac{3}{4}=\frac{21}{40}\,\text{m}^2$. Taking the shorter upper base as the rectangle's length, max area $\frac{3}{5}\times\frac{3}{4}=\frac{9}{20}\,\text{m}^2$. $\blacksquare$
+Trapezoid area $=\frac{1}{2}\times\left(\frac{3}{5}+\frac{4}{5}\right)\times\frac{3}{4}=\frac{1}{2}\times\frac{7}{5}\times\frac{3}{4}=\frac{21}{40}\;\text{m}^2$. Taking the shorter upper base as the rectangle's length, max area $\frac{3}{5}\times\frac{3}{4}=\frac{9}{20}\;\text{m}^2$. $\blacksquare$
 
 ## Exercise 3
 
-(Lesson: Fraction Division, Exercise 7 Integrated Problem 9) A building has $15$ floors, height $50\,\text{m}$. Xiaoping lives on the $7$th floor; how high is her floor above ground?
+(Lesson: Fraction Division, Exercise 7 Integrated Problem 9) A building has $15$ floors, height $50\;\text{m}$. Xiaoping lives on the $7$th floor; how high is her floor above ground?
 
 ### Solution to Exercise 3
 
-Each floor is $50\div15=\frac{10}{3}\,\text{m}$. The $7$th-floor floor is $6$ floor-heights up: $\frac{10}{3}\times6=20\,\text{m}$. $\blacksquare$
+Each floor is $50\div15=\frac{10}{3}\;\text{m}$. The $7$th-floor floor is $6$ floor-heights up: $\frac{10}{3}\times6=20\;\text{m}$. $\blacksquare$
 
 ## Exercise 4
 

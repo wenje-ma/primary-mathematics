@@ -226,4 +226,4 @@ By **Definition 8.1.2 (Meaning of Subtraction and the Relationships Among Its Pa
 
 ### Solution to Exercise 17
 
-By **Definition 8.1.1 (Addition)** and **Definition 8.1.2 (Subtraction)**, which are inverse operations: $28+19=47\to47-28=19,\,47-19=28$; $203+147=350\to350-203=147,\,350-147=203$; $850-239=611\to850-611=239,\,611+239=850$; $67-55=12\to67-12=55,\,55+12=67$. $\blacksquare$
+By **Definition 8.1.1 (Addition)** and **Definition 8.1.2 (Subtraction)**, which are inverse operations: $28+19=47\to47-28=19,47-19=28$; $203+147=350\to350-203=147,350-147=203$; $850-239=611\to850-611=239,611+239=850$; $67-55=12\to67-12=55,55+12=67$. $\blacksquare$

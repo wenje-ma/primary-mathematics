@@ -110,7 +110,7 @@ By **Definition 8.4.9 (Rewriting Larger Numbers in Units of Ten Thousand or Hund
 
 ### Solution to Exercise 9
 
-By **Definition 8.4.8 (Approximate Values of Decimals)**: $9.956\approx10,\,10.0,\,9.96$; $0.905\approx1,\,0.9,\,0.91$; $51.463\approx51,\,51.5,\,51.46$; $1.995\approx2,\,2.0,\,2.00$. $\blacksquare$
+By **Definition 8.4.8 (Approximate Values of Decimals)**: $9.956\approx10,10.0,9.96$; $0.905\approx1,0.9,0.91$; $51.463\approx51,51.5,51.46$; $1.995\approx2,2.0,2.00$. $\blacksquare$
 
 ## Exercise 10
 

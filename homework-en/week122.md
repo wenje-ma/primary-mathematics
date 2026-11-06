@@ -26,7 +26,7 @@
 
 ## Exercise 1
 
-(Lesson: Direction and Distance, Exercise 2 Integrated Problem 4) Xiaoling's route: Home $\to$ Mall ($15$ min), Mall $\to$ Bookstore ($7$ min), Bookstore $\to$ Mall ($8$ min), Mall $\to$ Home ($18$ min); scale $200\,\text{m}$ per segment. (1) Complete the direction-distance table. (2) Her average speed for the whole trip?
+(Lesson: Direction and Distance, Exercise 2 Integrated Problem 4) Xiaoling's route: Home $\to$ Mall ($15$ min), Mall $\to$ Bookstore ($7$ min), Bookstore $\to$ Mall ($8$ min), Mall $\to$ Home ($18$ min); scale $200\;\text{m}$ per segment. (1) Complete the direction-distance table. (2) Her average speed for the whole trip?
 
 ### Solution to Exercise 1
 
@@ -34,11 +34,11 @@ By **Definition 11.1.2 (Determining Position by Direction and Distance)**: fill 
 
 ## Exercise 2
 
-(Lesson: Direction and Distance, Exercise 2 Extension Problem 1) Route 1 bus: from the start go west-by-north $40^{\circ}$ for $3\,\text{km}$, then due west $4\,\text{km}$, then south-by-west $30^{\circ}$ for $3\,\text{km}$ to the terminus (scale $1\,\text{km}$ per segment). (1) Complete the route map. (2) On the return, what directions and distances?
+(Lesson: Direction and Distance, Exercise 2 Extension Problem 1) Route 1 bus: from the start go west-by-north $40^{\circ}$ for $3\;\text{km}$, then due west $4\;\text{km}$, then south-by-west $30^{\circ}$ for $3\;\text{km}$ to the terminus (scale $1\;\text{km}$ per segment). (1) Complete the route map. (2) On the return, what directions and distances?
 
 ### Solution to Exercise 2
 
-By **Definition 11.1.2 (Determining Position by Direction and Distance)**: draw the three legs from the start; on return each leg's direction reverses (east-by-south $40^{\circ}$, due east, north-by-east $30^{\circ}$), distances still $3,4,3\,\text{km}$. $\blacksquare$
+By **Definition 11.1.2 (Determining Position by Direction and Distance)**: draw the three legs from the start; on return each leg's direction reverses (east-by-south $40^{\circ}$, due east, north-by-east $30^{\circ}$), distances still $3,4,3\;\text{km}$. $\blacksquare$
 
 ## Exercise 3
 
@@ -58,11 +58,11 @@ By **Definition 11.2.1 (Fraction Times an Integer)**: (1) $\frac{3}{8}\times2=\f
 
 ## Exercise 5
 
-(Lesson: Fraction Times an Integer, Do It) A bag of bread weighs $\frac{3}{10}\,\text{kg}$; how much do $3$ bags weigh?
+(Lesson: Fraction Times an Integer, Do It) A bag of bread weighs $\frac{3}{10}\;\text{kg}$; how much do $3$ bags weigh?
 
 ### Solution to Exercise 5
 
-By **Definition 11.2.1 (Fraction Times an Integer)**: $\frac{3}{10}\times3=\frac{9}{10}\,\text{kg}$. $\blacksquare$
+By **Definition 11.2.1 (Fraction Times an Integer)**: $\frac{3}{10}\times3=\frac{9}{10}\;\text{kg}$. $\blacksquare$
 
 ## Exercise 6
 
@@ -116,19 +116,19 @@ Both wrong. By **Definition 11.2.1 (Fraction Times an Integer)** and **Definitio
 
 ## Exercise 12
 
-(Lesson: A Number Times a Fraction, Exercise 3 Review Problem 4) A wall is $20\,\text{m}^2$; $\frac{1}{4}$ of it has been painted. How many square meters are painted?
+(Lesson: A Number Times a Fraction, Exercise 3 Review Problem 4) A wall is $20\;\text{m}^2$; $\frac{1}{4}$ of it has been painted. How many square meters are painted?
 
 ### Solution to Exercise 12
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: $20\times\frac{1}{4}=5\,\text{m}^2$. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: $20\times\frac{1}{4}=5\;\text{m}^2$. $\blacksquare$
 
 ## Exercise 13
 
-(Lesson: A Number Times a Fraction, Exercise 3 Review Problem 5) (1) What is $\frac{3}{5}$ of $\frac{1}{4}\,\text{t}$? (2) What is $\frac{3}{4}$ of $\frac{3}{8}\,\text{m}$?
+(Lesson: A Number Times a Fraction, Exercise 3 Review Problem 5) (1) What is $\frac{3}{5}$ of $\frac{1}{4}\;\text{t}$? (2) What is $\frac{3}{4}$ of $\frac{3}{8}\;\text{m}$?
 
 ### Solution to Exercise 13
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $\frac{1}{4}\times\frac{3}{5}=\frac{3}{20}\,\text{t}$; (2) $\frac{3}{8}\times\frac{3}{4}=\frac{9}{32}\,\text{m}$. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $\frac{1}{4}\times\frac{3}{5}=\frac{3}{20}\;\text{t}$; (2) $\frac{3}{8}\times\frac{3}{4}=\frac{9}{32}\;\text{m}$. $\blacksquare$
 
 ## Exercise 14
 

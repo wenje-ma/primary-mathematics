@@ -50,15 +50,15 @@ By **Definition 11.7.2 (Percent Rates)**, attendance rate $=$ attendees $\div$ g
 
 ## Exercise 5
 
-(Lesson: Percent-Fraction-Decimal Conversion, Exercise 14 Problem 11) Add $25\,\text{g}$ salt to $100\,\text{g}$ water; what percent of the solution is salt?
+(Lesson: Percent-Fraction-Decimal Conversion, Exercise 14 Problem 11) Add $25\;\text{g}$ salt to $100\;\text{g}$ water; what percent of the solution is salt?
 
 ### Solution to Exercise 5
 
-Solution $=100+25=125\,\text{g}$, $25\div125=20\%$. $\blacksquare$
+Solution $=100+25=125\;\text{g}$, $25\div125=20\%$. $\blacksquare$
 
 ## Exercise 6
 
-(Lesson: Percent-Fraction-Decimal Conversion, Exercise 14 Problem 12) Car A goes $50\,\text{km}$ per hour, Car B $40\,\text{km}$ per hour. By what percent is A's speed faster than B's?
+(Lesson: Percent-Fraction-Decimal Conversion, Exercise 14 Problem 12) Car A goes $50\;\text{km}$ per hour, Car B $40\;\text{km}$ per hour. By what percent is A's speed faster than B's?
 
 ### Solution to Exercise 6
 
@@ -98,7 +98,7 @@ $1400\times\left(1+12\%\right)=1400\times1.12=1568$ books. $\blacksquare$
 
 ## Exercise 11
 
-(Lesson: Percent Increase/Decrease, Do It) Aunt Zhang's son was $1.5\,\text{m}$ last year, now $1.62\,\text{m}$. Percent growth?
+(Lesson: Percent Increase/Decrease, Do It) Aunt Zhang's son was $1.5\;\text{m}$ last year, now $1.62\;\text{m}$. Percent growth?
 
 ### Solution to Exercise 11
 
@@ -138,7 +138,7 @@ Present $50-2=48$, $48\div50=96\%$. $\blacksquare$
 
 ## Exercise 16
 
-(Lesson: Percent Word Problems, Exercise 15 Problem 3) $760\,\text{kg}$ of paddy yields $550\,\text{kg}$ of milled rice. Milling rate?
+(Lesson: Percent Word Problems, Exercise 15 Problem 3) $760\;\text{kg}$ of paddy yields $550\;\text{kg}$ of milled rice. Milling rate?
 
 ### Solution to Exercise 16
 
@@ -162,7 +162,7 @@ $\left(920-800\right)\div800=15\%$. $\blacksquare$
 
 ## Exercise 19
 
-(Lesson: Percent Word Problems, Exercise 15 Problem 6) Dongdong was $1.25\,\text{m}$ last year, now $1.29\,\text{m}$. Percent growth?
+(Lesson: Percent Word Problems, Exercise 15 Problem 6) Dongdong was $1.25\;\text{m}$ last year, now $1.29\;\text{m}$. Percent growth?
 
 ### Solution to Exercise 19
 
@@ -202,7 +202,7 @@ Saving $20\%\times2000=400$ yuan. $\blacksquare$
 
 ## Exercise 24
 
-(Lesson: Percent Word Problems, Exercise 15 Problem 11) Tuanjie Road widens from $12\,\text{m}$ to $20\,\text{m}$. Percent widening?
+(Lesson: Percent Word Problems, Exercise 15 Problem 11) Tuanjie Road widens from $12\;\text{m}$ to $20\;\text{m}$. Percent widening?
 
 ### Solution to Exercise 24
 

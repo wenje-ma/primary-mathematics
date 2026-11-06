@@ -42,19 +42,19 @@ By **Definition 11.2.2 (A Number Times a Fraction)**: $365\times\frac{58}{73}=5\
 
 ## Exercise 4
 
-(Lesson: A Number Times a Fraction, Exercise 3 Integrated Problem 10) Recycled waste paper yields recycled paper equal to $\frac{4}{5}$ of its weight. (1) Aunt Li sorts $80\,\text{kg}$ of old newspaper; how much recycled paper? (2) 2022 national paper and paperboard consumption was about $12403$ ten-thousand tons, of which $\frac{2}{5}$ is recyclable; about how many ten-thousand tons?
+(Lesson: A Number Times a Fraction, Exercise 3 Integrated Problem 10) Recycled waste paper yields recycled paper equal to $\frac{4}{5}$ of its weight. (1) Aunt Li sorts $80\;\text{kg}$ of old newspaper; how much recycled paper? (2) 2022 national paper and paperboard consumption was about $12403$ ten-thousand tons, of which $\frac{2}{5}$ is recyclable; about how many ten-thousand tons?
 
 ### Solution to Exercise 4
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $80\times\frac{4}{5}=64\,\text{kg}$; (2) $12403\times\frac{2}{5}=4961.2$ ten-thousand tons. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $80\times\frac{4}{5}=64\;\text{kg}$; (2) $12403\times\frac{2}{5}=4961.2$ ten-thousand tons. $\blacksquare$
 
 ## Exercise 5
 
-(Lesson: A Number Times a Fraction, Exercise 3 Integrated Problem 11) A child's backpack should weigh no more than $\frac{3}{20}$ of body weight. Li Ming weighs $40\,\text{kg}$ and his bag is $5\,\text{kg}$. (1) Is his bag overweight? Why? (2) Weigh yourself; compute your safe load.
+(Lesson: A Number Times a Fraction, Exercise 3 Integrated Problem 11) A child's backpack should weigh no more than $\frac{3}{20}$ of body weight. Li Ming weighs $40\;\text{kg}$ and his bag is $5\;\text{kg}$. (1) Is his bag overweight? Why? (2) Weigh yourself; compute your safe load.
 
 ### Solution to Exercise 5
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: safe load $40\times\frac{3}{20}=6\,\text{kg}$. The bag $5\,\text{kg}<6\,\text{kg}$, so not overweight. (2) Multiply your own weight by $\frac{3}{20}$. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: safe load $40\times\frac{3}{20}=6\;\text{kg}$. The bag $5\;\text{kg}<6\;\text{kg}$, so not overweight. (2) Multiply your own weight by $\frac{3}{20}$. $\blacksquare$
 
 ## Exercise 6
 
@@ -66,11 +66,11 @@ Try: $1\frac{4}{5}\times\frac{3}{7}=\frac{9}{5}\times\frac{3}{7}=\frac{27}{35}$,
 
 ## Exercise 7
 
-(Lesson: Mixed Fraction-Decimal Operations and Laws, Example 3) A squirrel's tail is about $\frac{3}{4}$ of its body length. Huanhuan's body is $2.1\,\text{dm}$; Lele's is $2.4\,\text{dm}$. (1) Huanhuan's tail? (2) Lele's tail?
+(Lesson: Mixed Fraction-Decimal Operations and Laws, Example 3) A squirrel's tail is about $\frac{3}{4}$ of its body length. Huanhuan's body is $2.1\;\text{dm}$; Lele's is $2.4\;\text{dm}$. (1) Huanhuan's tail? (2) Lele's tail?
 
 ### Solution to Exercise 7
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $2.1\times\frac{3}{4}=\frac{21}{10}\times\frac{3}{4}=\frac{63}{40}=1.575\,\text{dm}$; (2) $2.4\times\frac{3}{4}=1.8\,\text{dm}$ (reduce first). $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $2.1\times\frac{3}{4}=\frac{21}{10}\times\frac{3}{4}=\frac{63}{40}=1.575\;\text{dm}$; (2) $2.4\times\frac{3}{4}=1.8\;\text{dm}$ (reduce first). $\blacksquare$
 
 ## Exercise 8
 
@@ -98,11 +98,11 @@ By **Definition 11.2.2 (A Number Times a Fraction)**: $8.1\times\frac{8}{9}=7.2$
 
 ## Exercise 11
 
-(Lesson: Mixed Fraction-Decimal Operations, Do It Problem 4) In a honey, fructose and glucose total $\frac{4}{5}$ of the honey's mass. With $2.5\,\text{kg}$ of this honey, how many kg are fructose and glucose together?
+(Lesson: Mixed Fraction-Decimal Operations, Do It Problem 4) In a honey, fructose and glucose total $\frac{4}{5}$ of the honey's mass. With $2.5\;\text{kg}$ of this honey, how many kg are fructose and glucose together?
 
 ### Solution to Exercise 11
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: $2.5\times\frac{4}{5}=2\,\text{kg}$. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: $2.5\times\frac{4}{5}=2\;\text{kg}$. $\blacksquare$
 
 ## Exercise 12
 

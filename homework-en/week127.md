@@ -22,19 +22,19 @@ By **Definition 11.3.2 (Rule for Fraction Division)**: $\frac{9}{10}\div3=\frac{
 
 ## Exercise 2
 
-(Lesson: Fraction Division, Do It Problem 2) Xiaofang cuts a $\frac{4}{5}\,\text{m}$ ribbon into $8$ equal pieces; how long is each?
+(Lesson: Fraction Division, Do It Problem 2) Xiaofang cuts a $\frac{4}{5}\;\text{m}$ ribbon into $8$ equal pieces; how long is each?
 
 ### Solution to Exercise 2
 
-By **Definition 11.3.2 (Rule for Fraction Division)**: $\frac{4}{5}\div8=\frac{4}{5}\times\frac{1}{8}=\frac{1}{10}\,\text{m}$. $\blacksquare$
+By **Definition 11.3.2 (Rule for Fraction Division)**: $\frac{4}{5}\div8=\frac{4}{5}\times\frac{1}{8}=\frac{1}{10}\;\text{m}$. $\blacksquare$
 
 ## Exercise 3
 
-(Lesson: Fraction Division, Example 3) (1) Xiaoming prepared $160\,\text{g}$ of milk, which is $\frac{4}{5}$ of the sugar; how much sugar? (2) The eggs weigh $\frac{2}{5}\,\text{kg}$, which is $\frac{2}{3}$ of the flour; how much flour?
+(Lesson: Fraction Division, Example 3) (1) Xiaoming prepared $160\;\text{g}$ of milk, which is $\frac{4}{5}$ of the sugar; how much sugar? (2) The eggs weigh $\frac{2}{5}\;\text{kg}$, which is $\frac{2}{3}$ of the flour; how much flour?
 
 ### Solution to Exercise 3
 
-By **Definition 11.3.2 (Rule for Fraction Division)**: (1) $160\div\frac{4}{5}=160\times\frac{5}{4}=200\,\text{g}$; (2) $\frac{2}{5}\div\frac{2}{3}=\frac{2}{5}\times\frac{3}{2}=\frac{3}{5}\,\text{kg}$. $\blacksquare$
+By **Definition 11.3.2 (Rule for Fraction Division)**: (1) $160\div\frac{4}{5}=160\times\frac{5}{4}=200\;\text{g}$; (2) $\frac{2}{5}\div\frac{2}{3}=\frac{2}{5}\times\frac{3}{2}=\frac{3}{5}\;\text{kg}$. $\blacksquare$
 
 ## Exercise 4
 
@@ -94,7 +94,7 @@ $2-\frac{6}{13}\times\frac{26}{9}-\frac{2}{3}=2-\frac{4}{3}-\frac{2}{3}=0$; $\fr
 
 ## Exercise 11
 
-(Lesson: Fraction Division, Exercise 7 Review Problem 4) Pour $\frac{3}{4}\,\text{L}$ of orange juice into bottles of capacity $\frac{1}{8}\,\text{L}$; how many full bottles?
+(Lesson: Fraction Division, Exercise 7 Review Problem 4) Pour $\frac{3}{4}\;\text{L}$ of orange juice into bottles of capacity $\frac{1}{8}\;\text{L}$; how many full bottles?
 
 ### Solution to Exercise 11
 

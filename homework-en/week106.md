@@ -98,7 +98,7 @@ By **Definition 9.6.1 (平行四边形的面积)**, $S=ah=300\times200=60000$ m$
 
 ## Exercise 7
 
-(Lesson: Area of a Parallelogram, Try It, Problem 1) Unit conversion: $7$ hectares $=\left(\,\,\right)$ m$^2$; $60000$ m$^2=\left(\,\,\right)$ hectares; $5$ km$^2=\left(\,\,\right)$ hectares; $12000000$ m$^2=\left(\,\,\right)$ hectares $=\left(\,\,\right)$ km$^2$.
+(Lesson: Area of a Parallelogram, Try It, Problem 1) Unit conversion: $7$ hectares $=\left(\,\right)$ m$^2$; $60000$ m$^2=\left(\,\right)$ hectares; $5$ km$^2=\left(\,\right)$ hectares; $12000000$ m$^2=\left(\,\right)$ hectares $=\left(\,\right)$ km$^2$.
 
 ### Solution to Exercise 7
 

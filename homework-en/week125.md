@@ -26,11 +26,11 @@ By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $2400\times\
 
 ## Exercise 2
 
-(Lesson: Mixed Fraction-Decimal Operations, Exercise 4 Integrated Problem 11) The Nile is $6670\,\text{km}$ long; the Yangtze is about $297\,\text{km}$ longer than $\frac{9}{10}$ of the Nile. About how long is the Yangtze?
+(Lesson: Mixed Fraction-Decimal Operations, Exercise 4 Integrated Problem 11) The Nile is $6670\;\text{km}$ long; the Yangtze is about $297\;\text{km}$ longer than $\frac{9}{10}$ of the Nile. About how long is the Yangtze?
 
 ### Solution to Exercise 2
 
-$6670\times\frac{9}{10}+297=6003+297=6300\,\text{km}$. $\blacksquare$
+$6670\times\frac{9}{10}+297=6003+297=6300\;\text{km}$. $\blacksquare$
 
 ## Exercise 3
 
@@ -50,11 +50,11 @@ Rule: two fractions with numerator $1$ and consecutive denominators have their d
 
 ## Exercise 5
 
-(Lesson: Solving Problems, Example 5) A community leisure space is $4800\,\text{m}^2$. $\frac{3}{5}$ is made into a sports-fitness area, of which equipment area is $\frac{1}{4}$. How large is the equipment area?
+(Lesson: Solving Problems, Example 5) A community leisure space is $4800\;\text{m}^2$. $\frac{3}{5}$ is made into a sports-fitness area, of which equipment area is $\frac{1}{4}$. How large is the equipment area?
 
 ### Solution to Exercise 5
 
-By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $4800\times\frac{3}{5}\times\frac{1}{4}=2880\times\frac{1}{4}=720\,\text{m}^2$. Or $4800\times\left(\frac{3}{5}\times\frac{1}{4}\right)=4800\times\frac{3}{20}=720\,\text{m}^2$. $\blacksquare$
+By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $4800\times\frac{3}{5}\times\frac{1}{4}=2880\times\frac{1}{4}=720\;\text{m}^2$. Or $4800\times\left(\frac{3}{5}\times\frac{1}{4}\right)=4800\times\frac{3}{20}=720\;\text{m}^2$. $\blacksquare$
 
 ## Exercise 6
 
@@ -74,11 +74,11 @@ By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $40\times\frac{3}{4}
 
 ## Exercise 8
 
-(Lesson: Solving Problems, Example 6) Uncle Li's restaurant used to produce about $100\,\text{kg}$ of food waste per day; after the "Clean Plate" campaign, it dropped by about $\frac{1}{4}$. About how much food waste per day now?
+(Lesson: Solving Problems, Example 6) Uncle Li's restaurant used to produce about $100\;\text{kg}$ of food waste per day; after the "Clean Plate" campaign, it dropped by about $\frac{1}{4}$. About how much food waste per day now?
 
 ### Solution to Exercise 8
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: first the reduction $100\times\frac{1}{4}=25\,\text{kg}$, then $100-25=75\,\text{kg}$; or take the remaining fraction $100\times\left(1-\frac{1}{4}\right)=100\times\frac{3}{4}=75\,\text{kg}$. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: first the reduction $100\times\frac{1}{4}=25\;\text{kg}$, then $100-25=75\;\text{kg}$; or take the remaining fraction $100\times\left(1-\frac{1}{4}\right)=100\times\frac{3}{4}=75\;\text{kg}$. $\blacksquare$
 
 ## Exercise 9
 

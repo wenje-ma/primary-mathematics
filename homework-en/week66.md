@@ -90,7 +90,7 @@ By **Definition 6.6.1 (年,月,日)** and knowledge of the twenty-four solar ter
 
 ## Exercise 9
 
-(Lesson: Understanding Decimals — Do It, Problem 1) Look at the picture and fill in the blanks: $1$ centimeter is $\left(\,\,\right)$ centimeters, $0.1$ decimeter is $\left(\,\,\right)$ decimeters, and so on; express the graduations with decimals.
+(Lesson: Understanding Decimals — Do It, Problem 1) Look at the picture and fill in the blanks: $1$ centimeter is $\left(\,\right)$ centimeters, $0.1$ decimeter is $\left(\,\right)$ decimeters, and so on; express the graduations with decimals.
 
 ### Solution to Exercise 9
 

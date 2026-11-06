@@ -102,7 +102,7 @@ Take day as unit "$1$"; whole day $=$ day $\times\left(1+\frac{5}{7}\right)=$ da
 
 ### Solution to Exercise 8
 
-E.g. Beijing $-4\,^{\circ}\text{C}\sim0\,^{\circ}\text{C}$ means from $4$ below zero to $0$ degrees; the Turpan Basin's lowest point at $-154.31\,\text{m}$ altitude means $154.31\,\text{m}$ below sea level; a bill entry $-500.00$ yuan means a $500$ yuan expense. All use positive/negative numbers for opposite quantities. $\blacksquare$
+E.g. Beijing $-4\,^{\circ}\text{C}\sim0\,^{\circ}\text{C}$ means from $4$ below zero to $0$ degrees; the Turpan Basin's lowest point at $-154.31\;\text{m}$ altitude means $154.31\;\text{m}$ below sea level; a bill entry $-500.00$ yuan means a $500$ yuan expense. All use positive/negative numbers for opposite quantities. $\blacksquare$
 
 ## Exercise 9
 
@@ -136,7 +136,7 @@ By **Definition 11.4.2 (Positive/Negative Numbers for Opposite Quantities)**, po
 
 ### Solution to Exercise 12
 
-Sit-and-reach takes palms just touching the toes as $0\,\text{cm}$; beyond the toes is positive, short of the toes is negative. After testing, record each person's score as a signed number. $\blacksquare$
+Sit-and-reach takes palms just touching the toes as $0\;\text{cm}$; beyond the toes is positive, short of the toes is negative. After testing, record each person's score as a signed number. $\blacksquare$
 
 ## Exercise 13
 

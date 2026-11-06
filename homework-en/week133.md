@@ -22,7 +22,7 @@
 
 > **Definition 11.6.1 (跑道周长差)**
 > 
-> 标准 $400\,\text{m}$ 跑道直道部分各圈相同, 周长的差别在两端半圆形弯道. 相邻跑道宽 $1.25\,\text{m}$, 外圈弯道半径大 $1.25\,\text{m}$, 相邻跑道一圈相差 $1.25\times2\pi\approx7.85\,\text{m}$.
+> 标准 $400\;\text{m}$ 跑道直道部分各圈相同, 周长的差别在两端半圆形弯道. 相邻跑道宽 $1.25\;\text{m}$, 外圈弯道半径大 $1.25\;\text{m}$, 相邻跑道一圈相差 $1.25\times2\pi\approx7.85\;\text{m}$.
 
 > **Definition 11.7.1 (百分数)**
 > 
@@ -42,39 +42,39 @@
 
 ## Exercise 1
 
-(Lesson: Summary and Review, Exercise 13 Review Problem 4) A children's round carousel is $8\,\text{m}$ diameter, with a $1\,\text{m}$ path around it and a fence on the outside. Area inside the fence?
+(Lesson: Summary and Review, Exercise 13 Review Problem 4) A children's round carousel is $8\;\text{m}$ diameter, with a $1\;\text{m}$ path around it and a fence on the outside. Area inside the fence?
 
 ### Solution to Exercise 1
 
-Outer radius $=4+1=5\,\text{m}$, $S=3.14\times5^2=78.5\,\text{m}^2$. $\blacksquare$
+Outer radius $=4+1=5\;\text{m}$, $S=3.14\times5^2=78.5\;\text{m}^2$. $\blacksquare$
 
 ## Exercise 2
 
-(Lesson: Summary and Review, Exercise 13 Integrated Problem 5) Given the square's area is $10\,\text{cm}^2$, what is the circle's area?
+(Lesson: Summary and Review, Exercise 13 Integrated Problem 5) Given the square's area is $10\;\text{cm}^2$, what is the circle's area?
 
 ### Solution to Exercise 2
 
-In square-outside circle-inside, the circle is $\frac{\pi}{4}$ of the square: $10\times\frac{\pi}{4}=2.5\pi\approx7.85\,\text{cm}^2$. $\blacksquare$
+In square-outside circle-inside, the circle is $\frac{\pi}{4}$ of the square: $10\times\frac{\pi}{4}=2.5\pi\approx7.85\;\text{cm}^2$. $\blacksquare$
 
 ## Exercise 3
 
-(Lesson: Summary and Review, Exercise 13 Integrated Problem 6) A road roller's front wheel is $1.7\,\text{m}$ diameter, turning $6$ times per minute; how far does it go in $10$ minutes?
+(Lesson: Summary and Review, Exercise 13 Integrated Problem 6) A road roller's front wheel is $1.7\;\text{m}$ diameter, turning $6$ times per minute; how far does it go in $10$ minutes?
 
 ### Solution to Exercise 3
 
-Wheel perimeter $3.14\times1.7=5.338\,\text{m}$; per minute $5.338\times6=32.028\,\text{m}$; in $10$ minutes $320.28\,\text{m}$. $\blacksquare$
+Wheel perimeter $3.14\times1.7=5.338\;\text{m}$; per minute $5.338\times6=32.028\;\text{m}$; in $10$ minutes $320.28\;\text{m}$. $\blacksquare$
 
 ## Exercise 4
 
-(Lesson: Summary and Review, Exercise 13 Integrated Problem 7) A figure has a central $1\,\text{cm}$ square with four $90^{\circ}$ sectors around it. Total perimeter and area?
+(Lesson: Summary and Review, Exercise 13 Integrated Problem 7) A figure has a central $1\;\text{cm}$ square with four $90^{\circ}$ sectors around it. Total perimeter and area?
 
 ### Solution to Exercise 4
 
-Four sectors make one circle of radius $1\,\text{cm}$. Perimeter $=2\times3.14\times1=6.28\,\text{cm}$; area $=1+3.14\times1^2=4.14\,\text{cm}^2$. $\blacksquare$
+Four sectors make one circle of radius $1\;\text{cm}$. Perimeter $=2\times3.14\times1=6.28\;\text{cm}$; area $=1+3.14\times1^2=4.14\;\text{cm}^2$. $\blacksquare$
 
 ## Exercise 5
 
-(Lesson: Summary and Review, Exercise 13 Integrated Problem 8) A 10-meter air-rifle target: the 9-ring outer circle is about $5.5\,\text{mm}$ diameter; the 10-ring is the central circle of $0.5\,\text{mm}$. The 10-ring area is what fraction of the 9-ring area?
+(Lesson: Summary and Review, Exercise 13 Integrated Problem 8) A 10-meter air-rifle target: the 9-ring outer circle is about $5.5\;\text{mm}$ diameter; the 10-ring is the central circle of $0.5\;\text{mm}$. The 10-ring area is what fraction of the 9-ring area?
 
 ### Solution to Exercise 5
 
@@ -82,11 +82,11 @@ Area ratio $=$ square of diameter ratio: $\left(\frac{0.5}{5.5}\right)^2=\frac{1
 
 ## Exercise 6
 
-(Lesson: Summary and Review, Exercise 13 Extension Problem 9) The large and small triangles are equilateral; the circle meets each large side once, with $AD=DB=BE=EC=CF=FA$. The small triangle is $60\,\text{cm}^2$; the large?
+(Lesson: Summary and Review, Exercise 13 Extension Problem 9) The large and small triangles are equilateral; the circle meets each large side once, with $AD=DB=BE=EC=CF=FA$. The small triangle is $60\;\text{cm}^2$; the large?
 
 ### Solution to Exercise 6
 
-The small triangle's vertices are the midpoints of the large sides; joining midpoints splits the large triangle into $4$ congruent small ones. Large area $=60\times4=240\,\text{cm}^2$. $\blacksquare$
+The small triangle's vertices are the midpoints of the large sides; joining midpoints splits the large triangle into $4$ congruent small ones. Large area $=60\times4=240\;\text{cm}^2$. $\blacksquare$
 
 ## Exercise 7
 
@@ -98,11 +98,11 @@ A track has two straights and two semicircular turns; the straights are equal an
 
 ## Exercise 8
 
-(Lesson: The 400 m Track, Do It Problem 1) The innermost turn radius is about $36.3\,\text{m}$, each straight about $85.96\,\text{m}$; together, about how long is the innermost lap? What is the second lane's turn radius? (Lane width $1.25\,\text{m}$.)
+(Lesson: The 400 m Track, Do It Problem 1) The innermost turn radius is about $36.3\;\text{m}$, each straight about $85.96\;\text{m}$; together, about how long is the innermost lap? What is the second lane's turn radius? (Lane width $1.25\;\text{m}$.)
 
 ### Solution to Exercise 8
 
-The turns make one circle: $2\times3.14\times36.3\approx228.1\,\text{m}$; total $85.96\times2+228.1\approx400\,\text{m}$. Second lane radius $36.3+1.25=37.55\,\text{m}$. $\blacksquare$
+The turns make one circle: $2\times3.14\times36.3\approx228.1\;\text{m}$; total $85.96\times2+228.1\approx400\;\text{m}$. Second lane radius $36.3+1.25=37.55\;\text{m}$. $\blacksquare$
 
 ## Exercise 9
 
@@ -110,15 +110,15 @@ The turns make one circle: $2\times3.14\times36.3\approx228.1\,\text{m}$; total 
 
 ### Solution to Exercise 9
 
-By **Definition 11.6.1 (Lane Circumference Difference)**, adjacent lanes differ by $1.25\times2\times3.14=7.85\,\text{m}$. The $n$-th lap length $=400+\left(n-1\right)\times7.85\,\text{m}$. $\blacksquare$
+By **Definition 11.6.1 (Lane Circumference Difference)**, adjacent lanes differ by $1.25\times2\times3.14=7.85\;\text{m}$. The $n$-th lap length $=400+\left(n-1\right)\times7.85\;\text{m}$. $\blacksquare$
 
 ## Exercise 10
 
-(Lesson: Why Starting Lines Differ, Think) In a $400\,\text{m}$ race, by how many meters should each lane's starting line be ahead of the previous? In a $200\,\text{m}$ race?
+(Lesson: Why Starting Lines Differ, Think) In a $400\;\text{m}$ race, by how many meters should each lane's starting line be ahead of the previous? In a $200\;\text{m}$ race?
 
 ### Solution to Exercise 10
 
-A $400\,\text{m}$ lap covers two semicircular turns (one full circle); by **Definition 11.6.1 (Lane Circumference Difference)** advance by $7.85\,\text{m}$; a $200\,\text{m}$ race covers one semicircular turn, so advance $7.85\div2=3.925\,\text{m}$. $\blacksquare$
+A $400\;\text{m}$ lap covers two semicircular turns (one full circle); by **Definition 11.6.1 (Lane Circumference Difference)** advance by $7.85\;\text{m}$; a $200\;\text{m}$ race covers one semicircular turn, so advance $7.85\div2=3.925\;\text{m}$. $\blacksquare$
 
 ## Exercise 11
 

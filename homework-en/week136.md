@@ -54,15 +54,15 @@ Xiaoqiang $=120\times\frac{5}{8}=75$; Xiaoliang $=75\times\frac{2}{3}=50$ (times
 
 ## Exercise 7
 
-(Lesson: Exercise 9, Review and Consolidation, Problem 7) A bullet train travels at $300\,\text{km/h}$. A car travels at $\frac{1}{3}$ of the bullet train's speed, which is also $\frac{1}{9}$ of the speed of a jet plane. What is the speed of the jet plane?
+(Lesson: Exercise 9, Review and Consolidation, Problem 7) A bullet train travels at $300\;\text{km/h}$. A car travels at $\frac{1}{3}$ of the bullet train's speed, which is also $\frac{1}{9}$ of the speed of a jet plane. What is the speed of the jet plane?
 
 ### Solution to Exercise 7
 
-Car $=300\times\frac{1}{3}=100\,\text{km/h}$; plane $=100\div\frac{1}{9}=900\,\text{km/h}$. $\blacksquare$
+Car $=300\times\frac{1}{3}=100\;\text{km/h}$; plane $=100\div\frac{1}{9}=900\;\text{km/h}$. $\blacksquare$
 
 ## Exercise 8
 
-(Lesson: Exercise 9, Review and Consolidation, Problem 8) After drying, $500\,\text{g}$ of wheat weighs $428\,\text{g}$. Compute the drying rate and the moisture content of this wheat.
+(Lesson: Exercise 9, Review and Consolidation, Problem 8) After drying, $500\;\text{g}$ of wheat weighs $428\;\text{g}$. Compute the drying rate and the moisture content of this wheat.
 
 ### Solution to Exercise 8
 
@@ -94,35 +94,35 @@ Plot the points $A$, $B$, and $C$ on grid paper and join them into the right tri
 
 ## Exercise 12
 
-(Lesson: Exercise 9, Comprehensive Application, Problem 12) A wire of length $84\,\text{cm}$ is just enough to form a rectangle, whose width is $\frac{2}{5}$ of its length. What are the length and width?
+(Lesson: Exercise 9, Comprehensive Application, Problem 12) A wire of length $84\;\text{cm}$ is just enough to form a rectangle, whose width is $\frac{2}{5}$ of its length. What are the length and width?
 
 ### Solution to Exercise 12
 
-Let the length be $x$ and the width $\frac{2}{5}x$. Then $2\left(x+\frac{2}{5}x\right)=84$, $\frac{7}{5}x=42$, $x=30\,\text{cm}$; the width $=12\,\text{cm}$. $\blacksquare$
+Let the length be $x$ and the width $\frac{2}{5}x$. Then $2\left(x+\frac{2}{5}x\right)=84$, $\frac{7}{5}x=42$, $x=30\;\text{cm}$; the width $=12\;\text{cm}$. $\blacksquare$
 
 ## Exercise 13
 
-(Lesson: Exercise 9, Comprehensive Application, Problem 13) Teacher Wang wants to save a $1.8\,\text{GB}$ file. Flash drive A: total $8\,\text{GB}$, used $6.4\,\text{GB}$; flash drive B: total $16\,\text{GB}$, $70\%$ used. Which drive is suitable? Copying to $15\%$ took half a minute; how much longer will it take?
+(Lesson: Exercise 9, Comprehensive Application, Problem 13) Teacher Wang wants to save a $1.8\;\text{GB}$ file. Flash drive A: total $8\;\text{GB}$, used $6.4\;\text{GB}$; flash drive B: total $16\;\text{GB}$, $70\%$ used. Which drive is suitable? Copying to $15\%$ took half a minute; how much longer will it take?
 
 ### Solution to Exercise 13
 
-Drive A has $8-6.4=1.6\,\text{GB}<1.8$ left; drive B has $16\times30\%=4.8\,\text{GB}>1.8$ left, so choose B. Copying the whole file takes $0.5\div15\%=\frac{10}{3}$ minutes, and the remaining time is $\frac{10}{3}\times\left(1-15\%\right)=\frac{17}{6}\approx2.83$ minutes. $\blacksquare$
+Drive A has $8-6.4=1.6\;\text{GB}<1.8$ left; drive B has $16\times30\%=4.8\;\text{GB}>1.8$ left, so choose B. Copying the whole file takes $0.5\div15\%=\frac{10}{3}$ minutes, and the remaining time is $\frac{10}{3}\times\left(1-15\%\right)=\frac{17}{6}\approx2.83$ minutes. $\blacksquare$
 
 ## Exercise 14
 
-(Lesson: Exercise 9, Comprehensive Application, Problem 14) Measure the relevant angles in the direction diagram, and describe the relative positions and distances of Little Bear, Little Elephant, Little Deer, and Little Monkey (on the map, $1$ segment represents $100\,\text{m}$).
+(Lesson: Exercise 9, Comprehensive Application, Problem 14) Measure the relevant angles in the direction diagram, and describe the relative positions and distances of Little Bear, Little Elephant, Little Deer, and Little Monkey (on the map, $1$ segment represents $100\;\text{m}$).
 
 ### Solution to Exercise 14
 
-Use a protractor to measure the bearing angles, use a ruler to measure the map distance, and multiply by $100\,\text{m}$ to get the actual distance; for example, Little Monkey is $200\,\text{m}$ from Little Bear in the direction $30^{\circ}$ east of north. $\blacksquare$
+Use a protractor to measure the bearing angles, use a ruler to measure the map distance, and multiply by $100\;\text{m}$ to get the actual distance; for example, Little Monkey is $200\;\text{m}$ from Little Bear in the direction $30^{\circ}$ east of north. $\blacksquare$
 
 ## Exercise 15
 
-(Lesson: Exercise 9, Comprehensive Application, Problem 15) Three identical square sheets of iron, each of side $1.8\,\text{m}$, are cut into: one large circle, four medium circles, and nine small circles. (1) What is the circumference of each circle? (2) Which sheet leaves the most scrap?
+(Lesson: Exercise 9, Comprehensive Application, Problem 15) Three identical square sheets of iron, each of side $1.8\;\text{m}$, are cut into: one large circle, four medium circles, and nine small circles. (1) What is the circumference of each circle? (2) Which sheet leaves the most scrap?
 
 ### Solution to Exercise 15
 
-Large circle: $d=1.8$, $C=5.652\,\text{m}$; medium circle: $d=0.9$, $C=2.826\,\text{m}$; small circle: $d=0.6$, $C=1.884\,\text{m}$. The total area cut away from the three sheets is the same (all $\pi\times0.9^2$), so the remaining scrap is the same amount. $\blacksquare$
+Large circle: $d=1.8$, $C=5.652\;\text{m}$; medium circle: $d=0.9$, $C=2.826\;\text{m}$; small circle: $d=0.6$, $C=1.884\;\text{m}$. The total area cut away from the three sheets is the same (all $\pi\times0.9^2$), so the remaining scrap is the same amount. $\blacksquare$
 
 ## Exercise 16
 

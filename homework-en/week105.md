@@ -142,7 +142,7 @@ By **Definition 9.5.1 (用字母表示数)**: (1) $\left(a+8\right)^\circ$C. (2)
 
 ## Exercise 16
 
-(Lesson: Using Letters to Stand for Numbers, Practice 13, Review and Consolidation, Problem 2) If $a=b$, fill by the equation properties: $a+3=b+\left(\,\,\right)$; $a-\left(\,\,\right)=b-9$; $a\times1.5=b\times\left(\,\,\right)$; $a-\left(\,\,\right)=b-c$.
+(Lesson: Using Letters to Stand for Numbers, Practice 13, Review and Consolidation, Problem 2) If $a=b$, fill by the equation properties: $a+3=b+\left(\,\right)$; $a-\left(\,\right)=b-9$; $a\times1.5=b\times\left(\,\right)$; $a-\left(\,\right)=b-c$.
 
 ### Solution to Exercise 16
 
