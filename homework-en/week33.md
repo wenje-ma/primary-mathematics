@@ -2,7 +2,7 @@
 
 > **Definition 4.2.1 (余数)**
 > 
-> 把一些物品平均分后还有剩余, 剩余的部分就是余数. 如 $9$ 根小棒每 $4$ 根摆一个正方形, 摆 $2$ 个还剩 $1$ 根: $9\div4=2$(个)……$1$(根), 读作"$9$ 除以 $4$ 等于 $2$ 余 $1$", 余下的 $1$ 叫余数.
+> 把一些物品平均分后还有剩余, 剩余的部分就是余数. 如 $9$ 根小棒每 $4$ 根摆一个正方形, 摆 $2$ 个还剩 $1$ 根: $9\div4=2$(个)... $1$(根), 读作"$9$ 除以 $4$ 等于 $2$ 余 $1$", 余下的 $1$ 叫余数.
 
 > **Definition 4.2.2 (余数要比除数小)**
 > 
@@ -10,7 +10,7 @@
 
 > **Definition 4.2.3 (被除数等于除数乘商加余数)**
 > 
-> 被除数 $\div$ 除数 $=$ 商……余数, 且被除数 $=$ 除数 $\times$ 商 $+$ 余数. 如 $13\div4=3\cdots\cdots1$, $13=4\times3+1$.
+> 被除数 $\div$ 除数 $=$ 商... 余数, 且被除数 $=$ 除数 $\times$ 商 $+$ 余数. 如 $13\div4=3\cdots\cdots1$, $13=4\times3+1$.
 
 > **Definition 4.2.4 (试商)**
 > 
@@ -18,23 +18,23 @@
 
 ## Exercise 1
 
-(Lesson: Relation Between Remainder and Divisor, Practice) $17$ strawberries divided equally among $3$ little hedgehogs; each gets $\_\_$ strawberries, with $\_\_$ left over, $17\div3=\_\_$(items)……$\_\_$(items).
+(Lesson: Relation Between Remainder and Divisor, Practice) $17$ strawberries divided equally among $3$ little hedgehogs; each gets $\_\_$ strawberries, with $\_\_$ left over, $17\div3=\_\_$(items)... $\_\_$(items).
 
 ### Solution to Exercise 1
 
-By **Definition 4.2.1 (The Remainder)**, $17\div3=5$(items)……$2$(items), each hedgehog gets $5$, with $2$ left over. $\blacksquare$
+By **Definition 4.2.1 (The Remainder)**, $17\div3=5$(items)... $2$(items), each hedgehog gets $5$, with $2$ left over. $\blacksquare$
 
 ## Exercise 2
 
-(Lesson: Relation Between Remainder and Divisor, Practice) Divide as required and fill in. (1) $11$ exercise books divided equally among $4$ people, $11\div\_\_=\_\_$……$\_\_$. (2) $11$ exercise books, $4$ per person, $11\div\_\_=\_\_$……$\_\_$.
+(Lesson: Relation Between Remainder and Divisor, Practice) Divide as required and fill in. (1) $11$ exercise books divided equally among $4$ people, $11\div\_\_=\_\_$... $\_\_$. (2) $11$ exercise books, $4$ per person, $11\div\_\_=\_\_$... $\_\_$.
 
 ### Solution to Exercise 2
 
-(1) $11\div4=2$(books)……$3$(books), each person gets $2$, with $3$ left. (2) $11\div4=2$(people)……$3$(books), can give to $2$ people, with $3$ books left. $\blacksquare$
+(1) $11\div4=2$(books)... $3$(books), each person gets $2$, with $3$ left. (2) $11\div4=2$(people)... $3$(books), can give to $2$ people, with $3$ books left. $\blacksquare$
 
 ## Exercise 3
 
-(Lesson: Relation Between Remainder and Divisor, Practice) In the expression on the right, $\square\div8=\triangle$……$\bigcirc$, what is the largest the remainder $\bigcirc$ can be?
+(Lesson: Relation Between Remainder and Divisor, Practice) In the expression on the right, $\square\div8=\triangle$... $\bigcirc$, what is the largest the remainder $\bigcirc$ can be?
 
 ### Solution to Exercise 3
 
@@ -46,23 +46,23 @@ The divisor is $8$. By **Definition 4.2.2 (The Remainder Must Be Smaller Than th
 
 ### Solution to Exercise 4
 
-No remainder: for example among $4$ people, $20\div4=5$(pencils), exactly used up; with remainder: for example among $3$ people, $20\div3=6$(pencils)……$2$(pencils). The drawing is not unique; it just needs to match the expression. $\blacksquare$
+No remainder: for example among $4$ people, $20\div4=5$(pencils), exactly used up; with remainder: for example among $3$ people, $20\div3=6$(pencils)... $2$(pencils). The drawing is not unique; it just needs to match the expression. $\blacksquare$
 
 ## Exercise 5
 
-(Lesson: The Long Division with Remainder, Do It) Use yogurt cups, fill in, and write the vertical form. (1) $11$ cups of yogurt, $4$ cups per bag, filled $\_\_$ bags, with $\_\_$ cups left, $11\div4=\_\_$(bags)……$\_\_$(cups). (2) $12$ cups, $4$ cups per bag, filled $\_\_$ bags, with $\_\_$ cups left, $12\div4=\_\_$(bags).
+(Lesson: The Long Division with Remainder, Do It) Use yogurt cups, fill in, and write the vertical form. (1) $11$ cups of yogurt, $4$ cups per bag, filled $\_\_$ bags, with $\_\_$ cups left, $11\div4=\_\_$(bags)... $\_\_$(cups). (2) $12$ cups, $4$ cups per bag, filled $\_\_$ bags, with $\_\_$ cups left, $12\div4=\_\_$(bags).
 
 ### Solution to Exercise 5
 
-(1) $11\div4=2$(bags)……$3$(cups), filled $2$ bags, $3$ cups left. (2) $12\div4=3$(bags), filled $3$ bags, exactly used up, $0$ cups left. In the vertical form, write the dividend, divisor, quotient, product, and remainder in their corresponding positions. $\blacksquare$
+(1) $11\div4=2$(bags)... $3$(cups), filled $2$ bags, $3$ cups left. (2) $12\div4=3$(bags), filled $3$ bags, exactly used up, $0$ cups left. In the vertical form, write the dividend, divisor, quotient, product, and remainder in their corresponding positions. $\blacksquare$
 
 ## Exercise 6
 
-(Lesson: The Long Division with Remainder, Do It) Fill in from the picture: $\_\_\div\_\_=\_\_$……$\_\_$, $\_\_\times\_\_+\_\_=\_\_$.
+(Lesson: The Long Division with Remainder, Do It) Fill in from the picture: $\_\_\div\_\_=\_\_$... $\_\_$, $\_\_\times\_\_+\_\_=\_\_$.
 
 ### Solution to Exercise 6
 
-By **Definition 4.2.3 (Relations Among the Parts of Division with Remainder)**, dividend $\div$ divisor $=$ quotient……remainder, and divisor $\times$ quotient $+$ remainder $=$ dividend. Fill in according to the number of items divided in the picture. $\blacksquare$
+By **Definition 4.2.3 (Relations Among the Parts of Division with Remainder)**, dividend $\div$ divisor $=$ quotient... remainder, and divisor $\times$ quotient $+$ remainder $=$ dividend. Fill in according to the number of items divided in the picture. $\blacksquare$
 
 ## Exercise 7
 
@@ -74,7 +74,7 @@ By **Definition 4.2.4 (Finding the Quotient by Trial)**: $9\times6=54<57$, $10\t
 
 ## Exercise 8
 
-(Lesson: Finding the Quotient by Trial, Do It) Compute in vertical form: $26\div4=\_\_$……$\_\_$; $59\div7=\_\_$……$\_\_$. (Think: how many $4$'s at most are in $26$?)
+(Lesson: Finding the Quotient by Trial, Do It) Compute in vertical form: $26\div4=\_\_$... $\_\_$; $59\div7=\_\_$... $\_\_$. (Think: how many $4$'s at most are in $26$?)
 
 ### Solution to Exercise 8
 
@@ -94,7 +94,7 @@ $35\div5=7$; $76\div9=8\cdots\cdots4$; $55\div6=9\cdots\cdots1$; $81\div8=10\cdo
 
 ### Solution to Exercise 10
 
-Find how many copies of $7$ at most are in $65$: $65\div7=9$(ropes)……$2$(meters). At most $9$ ropes, with $2$ meters left. $\blacksquare$
+Find how many copies of $7$ at most are in $65$: $65\div7=9$(ropes)... $2$(meters). At most $9$ ropes, with $2$ meters left. $\blacksquare$
 
 ## Exercise 11
 
@@ -106,7 +106,7 @@ $14$ is the total number of lollipops (dividend), $4$ is the number of boxes (di
 
 ## Exercise 12
 
-(Lesson: Finding the Quotient by Trial, Practice) Fill in: $21\div5=\_\_$……$\_\_$, $4\times5+1=\_\_$; $17\div6=\_\_$……$\_\_$, $2\times6+5=\_\_$.
+(Lesson: Finding the Quotient by Trial, Practice) Fill in: $21\div5=\_\_$... $\_\_$, $4\times5+1=\_\_$; $17\div6=\_\_$... $\_\_$, $2\times6+5=\_\_$.
 
 ### Solution to Exercise 12
 
@@ -122,11 +122,11 @@ By **Definition 4.2.4 (Finding the Quotient by Trial)**, $3\times8=24<26$, $3\ti
 
 ## Exercise 14
 
-(Lesson: Finding the Quotient by Trial, Practice) The school holds a badminton tournament. (1) There are $12$ shuttlecocks, divided equally among $5$ people; each gets $\_\_$, with $\_\_$ left over, $12\div5=\_\_$(items)……$\_\_$(items). (2) A box of mineral water, $24$ bottles, divided equally among $9$ people; how many bottles per person? How many left? $24\div9=\_\_$(bottles)……$\_\_$(bottles).
+(Lesson: Finding the Quotient by Trial, Practice) The school holds a badminton tournament. (1) There are $12$ shuttlecocks, divided equally among $5$ people; each gets $\_\_$, with $\_\_$ left over, $12\div5=\_\_$(items)... $\_\_$(items). (2) A box of mineral water, $24$ bottles, divided equally among $9$ people; how many bottles per person? How many left? $24\div9=\_\_$(bottles)... $\_\_$(bottles).
 
 ### Solution to Exercise 14
 
-(1) $12\div5=2$(items)……$2$(items), each gets $2$, with $2$ left. (2) $24\div9=2$(bottles)……$6$(bottles), each gets $2$ bottles, with $6$ left. $\blacksquare$
+(1) $12\div5=2$(items)... $2$(items), each gets $2$, with $2$ left. (2) $24\div9=2$(bottles)... $6$(bottles), each gets $2$ bottles, with $6$ left. $\blacksquare$
 
 ## Exercise 15
 
@@ -134,7 +134,7 @@ By **Definition 4.2.4 (Finding the Quotient by Trial)**, $3\times8=24<26$, $3\ti
 
 ### Solution to Exercise 15
 
-$39\div5=7$(groups)……$4$(people), making $7$ groups with $4$ left. A group needs $5$ people, so adding $5-4=1$ more makes exactly one more group. $\blacksquare$
+$39\div5=7$(groups)... $4$(people), making $7$ groups with $4$ left. A group needs $5$ people, so adding $5-4=1$ more makes exactly one more group. $\blacksquare$
 
 ## Exercise 16
 
@@ -142,7 +142,7 @@ $39\div5=7$(groups)……$4$(people), making $7$ groups with $4$ left. A group n
 
 ### Solution to Exercise 16
 
-$20\div3=6$(boxes)……$2$(rolls), filling $6$ boxes with $2$ left; $30\div9=3$(boxes)……$3$(yuan), so $30$ yuan buys $3$ boxes, with $3$ yuan left, not enough for another box. $\blacksquare$
+$20\div3=6$(boxes)... $2$(rolls), filling $6$ boxes with $2$ left; $30\div9=3$(boxes)... $3$(yuan), so $30$ yuan buys $3$ boxes, with $3$ yuan left, not enough for another box. $\blacksquare$
 
 ## Exercise 17
 
@@ -158,7 +158,7 @@ Using the repeating cycle of beads in the picture, divide $24$ by the number of 
 
 ### Solution to Exercise 18
 
-(1) $16\div5=3$(bunches)……$1$(stem), making $3$ bunches with $1$ left. (2) $16\div6=2$(bunches)……$4$(stems), so at least remove $4$ stems to make exactly $2$ whole bunches. $\blacksquare$
+(1) $16\div5=3$(bunches)... $1$(stem), making $3$ bunches with $1$ left. (2) $16\div6=2$(bunches)... $4$(stems), so at least remove $4$ stems to make exactly $2$ whole bunches. $\blacksquare$
 
 ## Exercise 19
 
@@ -166,4 +166,4 @@ Using the repeating cycle of beads in the picture, divide $24$ by the number of 
 
 ### Solution to Exercise 19
 
-(1) $45\div8=5$(plates)……$5$(yuan), so $5$ plates can be bought. (2) $17\div3=5$(times)……$2$(plates); the remaining $2$ plates still need one more frying, so at least $5+1=6$ times. $\blacksquare$
+(1) $45\div8=5$(plates)... $5$(yuan), so $5$ plates can be bought. (2) $17\div3=5$(times)... $2$(plates); the remaining $2$ plates still need one more frying, so at least $5+1=6$ times. $\blacksquare$

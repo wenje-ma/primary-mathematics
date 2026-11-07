@@ -2,7 +2,7 @@
 
 > **Definition 4.2.1 (余数)**
 > 
-> 把一些物品平均分后还有剩余, 剩余的部分就是余数. 如 $9$ 根小棒每 $4$ 根摆一个正方形, 摆 $2$ 个还剩 $1$ 根: $9\div4=2$(个)……$1$(根), 读作"$9$ 除以 $4$ 等于 $2$ 余 $1$", 余下的 $1$ 叫余数.
+> 把一些物品平均分后还有剩余, 剩余的部分就是余数. 如 $9$ 根小棒每 $4$ 根摆一个正方形, 摆 $2$ 个还剩 $1$ 根: $9\div4=2$(个)... $1$(根), 读作"$9$ 除以 $4$ 等于 $2$ 余 $1$", 余下的 $1$ 叫余数.
 
 > **Definition 4.2.2 (余数要比除数小)**
 > 
@@ -10,7 +10,7 @@
 
 > **Definition 4.2.3 (被除数等于除数乘商加余数)**
 > 
-> 被除数 $\div$ 除数 $=$ 商……余数, 且被除数 $=$ 除数 $\times$ 商 $+$ 余数. 如 $13\div4=3\cdots\cdots1$, $13=4\times3+1$.
+> 被除数 $\div$ 除数 $=$ 商... 余数, 且被除数 $=$ 除数 $\times$ 商 $+$ 余数. 如 $13\div4=3\cdots\cdots1$, $13=4\times3+1$.
 
 > **Definition 4.2.4 (试商)**
 > 
@@ -70,11 +70,11 @@ First find each one's repeating group, divide $21$ by the number of flowers in a
 
 ### Solution to Exercise 5
 
-(1) $22\div6=3$(coops)……$4$(chickens); the $4$ left need $1$ more large coop, so at least $4$. (2) $22\div4=5$(coops)……$2$(chickens), so at least $6$ small coops. (3) Try combinations: $6\times3+4\times1=22$, i.e. $3$ large coops and $1$ small coop hold them exactly (other combinations also work). $\blacksquare$
+(1) $22\div6=3$(coops)... $4$(chickens); the $4$ left need $1$ more large coop, so at least $4$. (2) $22\div4=5$(coops)... $2$(chickens), so at least $6$ small coops. (3) Try combinations: $6\times3+4\times1=22$, i.e. $3$ large coops and $1$ small coop hold them exactly (other combinations also work). $\blacksquare$
 
 ## Exercise 6
 
-(Lesson: Solving Problems, Thinking Question) Choose $4$ numbers from $2,3,5,7,8,26$ to form a division expression: $\_\_\div\_\_=\_\_$……$\_\_$.
+(Lesson: Solving Problems, Thinking Question) Choose $4$ numbers from $2,3,5,7,8,26$ to form a division expression: $\_\_\div\_\_=\_\_$... $\_\_$.
 
 ### Solution to Exercise 6
 
@@ -86,7 +86,7 @@ By **Definition 4.2.3 (Dividend = Divisor x Quotient + Remainder)**, dividend $=
 
 ### Solution to Exercise 7
 
-(1) Apples allow $23\div5=4$(platters)……$3$(apples), pears allow $15\div3=5$(platters); limited by the apples, at most $4$ set-1 platters. (2) Apples allow $23\div2=11$(platters)……$1$(apple), oranges allow $17\div2=8$(platters)……$1$(orange); limited by the oranges, at most $8$ set-2 platters. $\blacksquare$
+(1) Apples allow $23\div5=4$(platters)... $3$(apples), pears allow $15\div3=5$(platters); limited by the apples, at most $4$ set-1 platters. (2) Apples allow $23\div2=11$(platters)... $1$(apple), oranges allow $17\div2=8$(platters)... $1$(orange); limited by the oranges, at most $8$ set-2 platters. $\blacksquare$
 
 ## Exercise 8
 
@@ -110,7 +110,7 @@ By **Definition 4.2.3 (Dividend = Divisor x Quotient + Remainder)**, $74\div8=9\
 
 ### Solution to Exercise 10
 
-$15\div6=2$(pens)……$3$(yuan), so first buy $2$ pens; "buy $2$ get $1$ free", giving $1$ more pen, for a total of $3$ pens. $\blacksquare$
+$15\div6=2$(pens)... $3$(yuan), so first buy $2$ pens; "buy $2$ get $1$ free", giving $1$ more pen, for a total of $3$ pens. $\blacksquare$
 
 ## Exercise 11
 
@@ -118,7 +118,7 @@ $15\div6=2$(pens)……$3$(yuan), so first buy $2$ pens; "buy $2$ get $1$ free",
 
 ### Solution to Exercise 11
 
-(1) $50\div6=8$(cartons)……$2$(eggs), filling $8$ cartons. (2) $50\div8=6$(cartons)……$2$(eggs), filling $6$ cartons; the $2$ left need $1$ more carton, so $7$ cartons in all. $\blacksquare$
+(1) $50\div6=8$(cartons)... $2$(eggs), filling $8$ cartons. (2) $50\div8=6$(cartons)... $2$(eggs), filling $6$ cartons; the $2$ left need $1$ more carton, so $7$ cartons in all. $\blacksquare$
 
 ## Exercise 12
 
@@ -126,11 +126,11 @@ $15\div6=2$(pens)……$3$(yuan), so first buy $2$ pens; "buy $2$ get $1$ free",
 
 ### Solution to Exercise 12
 
-One group is $\star\star\square\bigcirc\bigcirc\bigcirc$, $6$ shapes; $33\div6=5$(groups)……$3$(shapes), so remainder $3$ is the $3$rd shape in a group, namely $\square$. $\blacksquare$
+One group is $\star\star\square\bigcirc\bigcirc\bigcirc$, $6$ shapes; $33\div6=5$(groups)... $3$(shapes), so remainder $3$ is the $3$rd shape in a group, namely $\square$. $\blacksquare$
 
 ## Exercise 13
 
-(Lesson: Organization and Review, Practice) Think and fill in. (1) $\star\div5=\triangle$……$\square$; $\square$ is at most $\_\_$. (2) $\star\div\square=\triangle$……$5$; $\square$ is at least $\_\_$. (3) $\star\div5=5$……$\square$; $\square$ is at most $\_\_$, and then $\star$ is $\_\_$.
+(Lesson: Organization and Review, Practice) Think and fill in. (1) $\star\div5=\triangle$... $\square$; $\square$ is at most $\_\_$. (2) $\star\div\square=\triangle$... $5$; $\square$ is at least $\_\_$. (3) $\star\div5=5$... $\square$; $\square$ is at most $\_\_$, and then $\star$ is $\_\_$.
 
 ### Solution to Exercise 13
 
@@ -150,7 +150,7 @@ Dividing among $2$ or $3$ people both leave $1$, so the number of oranges minus 
 
 ### Solution to Exercise 15
 
-(1) $30\div7=4$(weeks)……$2$(days), so $4$ weeks with $2$ extra days. (2) The $2$ extra days must be exactly Saturday and Sunday, so the $1$st of month $6$ is a Saturday and the $2$nd is a Sunday; then the remaining full four weeks each contain a Saturday and Sunday, for $5$ in all. $\blacksquare$
+(1) $30\div7=4$(weeks)... $2$(days), so $4$ weeks with $2$ extra days. (2) The $2$ extra days must be exactly Saturday and Sunday, so the $1$st of month $6$ is a Saturday and the $2$nd is a Sunday; then the remaining full four weeks each contain a Saturday and Sunday, for $5$ in all. $\blacksquare$
 
 ## Exercise 16
 

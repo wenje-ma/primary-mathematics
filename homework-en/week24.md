@@ -162,7 +162,7 @@ By **Definition 3.4.3 (Directions on a Map)**, maps are drawn with north at the 
 
 ### Solution to Exercise 16
 
-By **Definition 3.4.3 (Directions on a Map)**, first mark the positions of the gate, teaching building, library, and multi-purpose hall on the direction board (schematic) with north on top and south at the bottom, then design a route, such as "walk north from the gate, first reach the teaching building, then go east to the multi-purpose hall……". $\blacksquare$
+By **Definition 3.4.3 (Directions on a Map)**, first mark the positions of the gate, teaching building, library, and multi-purpose hall on the direction board (schematic) with north on top and south at the bottom, then design a route, such as "walk north from the gate, first reach the teaching building, then go east to the multi-purpose hall...". $\blacksquare$
 
 ## Exercise 17
 

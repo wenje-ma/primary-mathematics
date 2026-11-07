@@ -142,4 +142,4 @@ Left group: from $\triangle\times6=48$, think "six eight forty-eight", $\triangl
 
 ### Solution to Exercise 15
 
-By **Definition 3.7.6 (The Multiplication Rhyme Table)**: (1) $1+2+3+\cdots+9=45$ rhymes. (2) The white cells are the rhymes whose two factors are equal (one one is one, two two is four…… nine nine eighty-one), $9$ rhymes in all, and their products are square numbers. (3) Add the swapped counterpart, such as "two one is two", "three one is three", "three two is six"; the big nine-nine has $81$ rhymes. $\blacksquare$
+By **Definition 3.7.6 (The Multiplication Rhyme Table)**: (1) $1+2+3+\cdots+9=45$ rhymes. (2) The white cells are the rhymes whose two factors are equal (one one is one, two two is four... nine nine eighty-one), $9$ rhymes in all, and their products are square numbers. (3) Add the swapped counterpart, such as "two one is two", "three one is three", "three two is six"; the big nine-nine has $81$ rhymes. $\blacksquare$

@@ -78,7 +78,7 @@ By **Definition 3.2.5 (Solving Problems with Multiplication)**, each triangle us
 
 ### Solution to Exercise 5
 
-By **Definition 3.2.3 (Multiplication Rhymes)**, from top to bottom the table has the rhymes of $1$, the rhymes of $2$, and so on; each row has one more rhyme than the row above, which is the arrangement of the "little nine-nine" table. Complete the missing rhymes (such as "two two is four", "two three is six", …); point to any one, such as "three four is twelve", and you can say $3\times4=12$ and $4\times3=12$. $\blacksquare$
+By **Definition 3.2.3 (Multiplication Rhymes)**, from top to bottom the table has the rhymes of $1$, the rhymes of $2$, and so on; each row has one more rhyme than the row above, which is the arrangement of the "little nine-nine" table. Complete the missing rhymes (such as "two two is four", "two three is six",...); point to any one, such as "three four is twelve", and you can say $3\times4=12$ and $4\times3=12$. $\blacksquare$
 
 ## Exercise 6
 

@@ -30,7 +30,7 @@ By **Definition 3.2.3 (Multiplication Rhymes)**: $5\times4=20$, $4\times5=20$ (f
 
 ## Exercise 2
 
-(Lesson: Practice, Problem 6) In the picture below, first circle $3\times1$, then circle $3\times2$… and keep going up to $3\times5$.
+(Lesson: Practice, Problem 6) In the picture below, first circle $3\times1$, then circle $3\times2$... and keep going up to $3\times5$.
 
 ### Solution to Exercise 2
 
@@ -82,7 +82,7 @@ By **Definition 3.2.4 (Multiplication-Addition and Multiplication-Subtraction)**
 
 ### Solution to Exercise 8
 
-By **Definition 3.2.3 (Multiplication Rhymes)**, fill in the table row by row and column by column using the rhymes: $2\times2=4$, $2\times3=6$, $2\times4=8$, $2\times5=10$, $2\times6=12$; $3\times3=9$, $3\times4=12$, $3\times5=15$, $3\times6=18$; …… say the corresponding rhyme as you fill it in. $\blacksquare$
+By **Definition 3.2.3 (Multiplication Rhymes)**, fill in the table row by row and column by column using the rhymes: $2\times2=4$, $2\times3=6$, $2\times4=8$, $2\times5=10$, $2\times6=12$; $3\times3=9$, $3\times4=12$, $3\times5=15$, $3\times6=18$;... say the corresponding rhyme as you fill it in. $\blacksquare$
 
 ## Exercise 9
 

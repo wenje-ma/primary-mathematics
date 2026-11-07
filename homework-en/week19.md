@@ -138,7 +138,7 @@ By **Definition 3.2.3 (Multiplication Rhymes)**: $3\times4=12$, rhyme "three fou
 
 ### Solution to Exercise 15
 
-By **Definition 3.2.3 (Multiplication Rhymes)**, on the number line jump $2$ spaces at a time, $5$ jumps to $10$, saying "two two is four, two three is six, …"; jumping $3$ spaces at a time and $4$ spaces at a time work the same way, saying the rhymes as you jump. $\blacksquare$
+By **Definition 3.2.3 (Multiplication Rhymes)**, on the number line jump $2$ spaces at a time, $5$ jumps to $10$, saying "two two is four, two three is six,..."; jumping $3$ spaces at a time and $4$ spaces at a time work the same way, saying the rhymes as you jump. $\blacksquare$
 
 ## Exercise 16
 

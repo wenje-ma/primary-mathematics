@@ -18,7 +18,7 @@
 
 > **Definition 4.2.1 (余数)**
 > 
-> 把一些物品平均分后还有剩余, 剩余的部分就是余数. 如 $9$ 根小棒每 $4$ 根摆一个正方形, 摆 $2$ 个还剩 $1$ 根: $9\div4=2$(个)……$1$(根), 读作"$9$ 除以 $4$ 等于 $2$ 余 $1$", 余下的 $1$ 叫余数.
+> 把一些物品平均分后还有剩余, 剩余的部分就是余数. 如 $9$ 根小棒每 $4$ 根摆一个正方形, 摆 $2$ 个还剩 $1$ 根: $9\div4=2$(个)... $1$(根), 读作"$9$ 除以 $4$ 等于 $2$ 余 $1$", 余下的 $1$ 叫余数.
 
 > **Definition 4.2.2 (余数要比除数小)**
 > 
@@ -26,7 +26,7 @@
 
 > **Definition 4.2.3 (被除数等于除数乘商加余数)**
 > 
-> 被除数 $\div$ 除数 $=$ 商……余数, 且被除数 $=$ 除数 $\times$ 商 $+$ 余数. 如 $13\div4=3\cdots\cdots1$, $13=4\times3+1$.
+> 被除数 $\div$ 除数 $=$ 商... 余数, 且被除数 $=$ 除数 $\times$ 商 $+$ 余数. 如 $13\div4=3\cdots\cdots1$, $13=4\times3+1$.
 
 > **Definition 4.2.4 (试商)**
 > 
@@ -146,19 +146,19 @@ Looking back on this activity, you might write: I learned to value time, learned
 
 ## Exercise 15
 
-(Lesson: Introduction to Division with Remainder, Do It) Circle and fill in. (1) $17$ $\star$, circled $4$ by $4$, circled $\_\_$ groups, $\_\_$ left over, $17\div4=\_\_$(groups)……$\_\_$(items). (2) $19$ $\star$, circled $4$ by $4$, circled $\_\_$ groups, $\_\_$ left over.
+(Lesson: Introduction to Division with Remainder, Do It) Circle and fill in. (1) $17$ $\star$, circled $4$ by $4$, circled $\_\_$ groups, $\_\_$ left over, $17\div4=\_\_$(groups)... $\_\_$(items). (2) $19$ $\star$, circled $4$ by $4$, circled $\_\_$ groups, $\_\_$ left over.
 
 ### Solution to Exercise 15
 
-By **Definition 4.2.1 (The Remainder)**, (1) $17\div4=4$(groups)……$1$(item), circled $4$ groups, $1$ left over. (2) $19\div4=4$(groups)……$3$(items), circled $4$ groups, $3$ left over. $\blacksquare$
+By **Definition 4.2.1 (The Remainder)**, (1) $17\div4=4$(groups)... $1$(item), circled $4$ groups, $1$ left over. (2) $19\div4=4$(groups)... $3$(items), circled $4$ groups, $3$ left over. $\blacksquare$
 
 ## Exercise 16
 
-(Lesson: Relation Between Remainder and Divisor, Do It) (1) $9$ pencils, $2$ per person, can be given to $\_\_$ people, with $\_\_$ pencils left, $9\div2=\_\_$(people)……$\_\_$(pencils). (2) $9$ pencils divided equally among $4$ people; draw the result, each person gets $\_\_$ pencils, with $\_\_$ pencils left.
+(Lesson: Relation Between Remainder and Divisor, Do It) (1) $9$ pencils, $2$ per person, can be given to $\_\_$ people, with $\_\_$ pencils left, $9\div2=\_\_$(people)... $\_\_$(pencils). (2) $9$ pencils divided equally among $4$ people; draw the result, each person gets $\_\_$ pencils, with $\_\_$ pencils left.
 
 ### Solution to Exercise 16
 
-By **Definition 4.2.1 (The Remainder)**, (1) $9\div2=4$(people)……$1$(pencil), can be given to $4$ people, with $1$ pencil left. (2) $9\div4=2$(pencils)……$1$(pencil), each person gets $2$ pencils, with $1$ pencil left. $\blacksquare$
+By **Definition 4.2.1 (The Remainder)**, (1) $9\div2=4$(people)... $1$(pencil), can be given to $4$ people, with $1$ pencil left. (2) $9\div4=2$(pencils)... $1$(pencil), each person gets $2$ pencils, with $1$ pencil left. $\blacksquare$
 
 ## Exercise 17
 
@@ -178,8 +178,8 @@ The divisor is $6$. By **Definition 4.2.2 (The Remainder Must Be Smaller Than th
 
 ## Exercise 19
 
-(Lesson: Relation Between Remainder and Divisor, Practice) Bag up $21$ corn buns; choose one way of bagging, circle it, and fill in. I choose bagging method $\_\_$; with this method, these buns fill $\_\_$ bags, with $\_\_$ left over, $21\div\_\_=\_\_$(bags)……$\_\_$(items).
+(Lesson: Relation Between Remainder and Divisor, Practice) Bag up $21$ corn buns; choose one way of bagging, circle it, and fill in. I choose bagging method $\_\_$; with this method, these buns fill $\_\_$ bags, with $\_\_$ left over, $21\div\_\_=\_\_$(bags)... $\_\_$(items).
 
 ### Solution to Exercise 19
 
-Just choose any bagging method and circle it. For example $4$ per bag, $21\div4=5$(bags)……$1$(item), filling $5$ bags with $1$ left over; or $5$ per bag, $21\div5=4$(bags)……$1$(item). $\blacksquare$
+Just choose any bagging method and circle it. For example $4$ per bag, $21\div4=5$(bags)... $1$(item), filling $5$ bags with $1$ left over; or $5$ per bag, $21\div5=4$(bags)... $1$(item). $\blacksquare$

@@ -22,7 +22,7 @@
 
 > **Definition 4.6.2 (连环画中的除法情境)**
 > 
-> 把连环画故事里的数量关系用算式表示. 如买了 $11$ 个罐头, 每天吃 $5$ 个, $11\div5=2$(天)……$1$(个), 表示够吃 $2$ 天, 还剩 $1$ 个.
+> 把连环画故事里的数量关系用算式表示. 如买了 $11$ 个罐头, 每天吃 $5$ 个, $11\div5=2$(天)... $1$(个), 表示够吃 $2$ 天, 还剩 $1$ 个.
 
 ## Exercise 1
 
@@ -174,7 +174,7 @@ The tens $6$ mistaken for $8$ over-counted by $20$, and the hundreds $5$ mistake
 
 ### Solution to Exercise 19
 
-By **Definition 4.6.2 (Division Situations in the Picture-Strip)**, $11\div5=2$(days)……$1$(can), enough for $2$ days, with $1$ can left; in $2$ days they eat $5\times2=10$ cans. The strip contains division with remainder and multiplication. $\blacksquare$
+By **Definition 4.6.2 (Division Situations in the Picture-Strip)**, $11\div5=2$(days)... $1$(can), enough for $2$ days, with $1$ can left; in $2$ days they eat $5\times2=10$ cans. The strip contains division with remainder and multiplication. $\blacksquare$
 
 ## Exercise 20
 
