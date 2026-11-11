@@ -82,7 +82,7 @@
 
 ## 练习六
 
-(课时 小数点移动 练习十一 第 3 题) 填一填: $4.35\xrightarrow{\times10}\left($ $\right)\xrightarrow{\times100}\left($ $\right)$; $4.35\xrightarrow{\div10}\left($ $\right)\xrightarrow{\div100}\left($ $\right)$; $0.729\xrightarrow{\times10}\left($ $\right)$, $72.9$, $7.29$, $7290$, $0.0729$ 各是怎样变化得到的.
+(课时 小数点移动 练习十一 第 3 题) 填一填: $4.35\xrightarrow{\times10}($ $)\xrightarrow{\times100}($ $)$; $4.35\xrightarrow{\div10}($ $)\xrightarrow{\div100}($ $)$; $0.729\xrightarrow{\times10}($ $)$, $72.9$, $7.29$, $7290$, $0.0729$ 各是怎样变化得到的.
 
 ### 解答 练习六
 

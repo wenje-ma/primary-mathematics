@@ -170,7 +170,7 @@ By **Definition 10.3.2 (Surface Area)**, only the $4$ side faces: $\left(10\time
 
 ### Solution to Exercise 16
 
-By **Definition 10.3.2 (Surface Area)**, front area $=$ length$\times$height, right area $=$ width$\times$height, top area $=$ length$\times$width, surface area $=\left($front$+$right$+$top$\right)\times2$. Substitute each cuboid's data. $\blacksquare$
+By **Definition 10.3.2 (Surface Area)**, front area $=$ length$\times$height, right area $=$ width$\times$height, top area $=$ length$\times$width, surface area $=($front$+$right$+$top$)\times2$. Substitute each cuboid's data. $\blacksquare$
 
 ## Exercise 17
 

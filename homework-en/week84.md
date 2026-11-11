@@ -98,7 +98,7 @@ By **Definition 8.3.2 (Associative Law of Addition)**, original price $=2255+355
 
 ## Exercise 9
 
-(Lesson: Operation Laws of Multiplication, Try It) Fill in the blanks by the operation laws of multiplication: $12\times32=32\times$ ___; $30\times6\times7=30\times\left(6\times$ ___ $\right)$; $125\times\left(8\times4\right)=\left($ ___ $\times$ ___ $\right)\times$ ___; $108\times75=$ ___ $\times$ ___.
+(Lesson: Operation Laws of Multiplication, Try It) Fill in the blanks by the operation laws of multiplication: $12\times32=32\times$ ___; $30\times6\times7=30\times(6\times$ ___ $)$; $125\times\left(8\times4\right)=($ ___ $\times$ ___ $)\times$ ___; $108\times75=$ ___ $\times$ ___.
 
 ### Solution to Exercise 9
 
@@ -122,7 +122,7 @@ $12\times5=60$; $16\times5=80$; $35\times2=70$; $45\times2=90$; $24\times5=120$;
 
 ## Exercise 12
 
-(Lesson: Operation Laws of Multiplication, Practice 7, Problem 2) By the operation laws of multiplication, fill in the $\square$ with suitable numbers: $15\times16=16\times$ ___; $\left(60\times25\right)\times$ ___ $=60\times\left($ ___ $\times8\right)$; $25\times7\times4=$ ___ $\times$ ___ $\times7$; $125\times\left(8\times$ ___ $\right)=\left(125\times$ ___ $\right)\times14$; $3\times4\times8\times5=\left(3\times4\right)\times\left($ ___ $\times$ ___ $\right)$.
+(Lesson: Operation Laws of Multiplication, Practice 7, Problem 2) By the operation laws of multiplication, fill in the $\square$ with suitable numbers: $15\times16=16\times$ ___; $\left(60\times25\right)\times$ ___ $=60\times($ ___ $\times8)$; $25\times7\times4=$ ___ $\times$ ___ $\times7$; $125\times(8\times$ ___ $)=(125\times$ ___ $)\times14$; $3\times4\times8\times5=\left(3\times4\right)\times($ ___ $\times$ ___ $)$.
 
 ### Solution to Exercise 12
 

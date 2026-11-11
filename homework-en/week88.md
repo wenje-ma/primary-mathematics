@@ -82,7 +82,7 @@ By **Definition 8.4.6 (Moving the Decimal Point)**: eraser $2.63\to26.3,263,2630
 
 ## Exercise 6
 
-(Lesson: Moving the Decimal Point, Practice 11, Problem 3) Fill in: $4.35\xrightarrow{\times10}\left($ $\right)\xrightarrow{\times100}\left($ $\right)$; $4.35\xrightarrow{\div10}\left($ $\right)\xrightarrow{\div100}\left($ $\right)$; $0.729\xrightarrow{\times10}\left($ $\right)$, and describe how $72.9$, $7.29$, $7290$, $0.0729$ are obtained.
+(Lesson: Moving the Decimal Point, Practice 11, Problem 3) Fill in: $4.35\xrightarrow{\times10}($ $)\xrightarrow{\times100}($ $)$; $4.35\xrightarrow{\div10}($ $)\xrightarrow{\div100}($ $)$; $0.729\xrightarrow{\times10}($ $)$, and describe how $72.9$, $7.29$, $7290$, $0.0729$ are obtained.
 
 ### Solution to Exercise 6
 

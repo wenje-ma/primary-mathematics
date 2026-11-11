@@ -123,7 +123,7 @@ By **Definition 12.1.3 (Representing Positive and Negative Numbers on the Number
 ### Solution to Exercise 11
 
 By **Definition 12.1.1 (Positive and Negative Numbers)**, income is recorded as positive and expenditure as negative: parents' salary $+9500$; Spring Festival gift to the elderly $-2000$; New Year gifts to Xiaoming and his sister $-200$; utilities and other expenses $-400$; buying food $-800$; buying new clothes $-1000$. The balance is
-$$9500-2000-200-400-800-1000=5100\text{~\left(元\right)}.$$
+$$9500-2000-200-400-800-1000=5100\text{~(元)}.$$
 $\blacksquare$
 
 ## Exercise 12

@@ -86,7 +86,7 @@ By **Definition 8.3.1 (Commutative Law of Addition)**, swap the addends: $300+60
 
 ## Exercise 7
 
-(Lesson: Operation Laws of Addition, Try It) Fill in the blanks by the associative law of addition: $\left(25+68\right)+32=25+$( ___ $+$ ___ ); $130+\left(70+4\right)=\left(130+$ ___ $\right)+$ ___.
+(Lesson: Operation Laws of Addition, Try It) Fill in the blanks by the associative law of addition: $\left(25+68\right)+32=25+$( ___ $+$ ___ ); $130+\left(70+4\right)=(130+$ ___ $)+$ ___.
 
 ### Solution to Exercise 7
 
@@ -150,7 +150,7 @@ By **Definition 8.3.8 (Convenient Calculation)**, $48+55+52+45=\left(48+52\right
 
 ## Exercise 15
 
-(Lesson: Operation Property of Subtraction, Try It, Problem 1) Fill in the $\bigcirc$ and the lines with operation signs and numbers: $868-52-48=868\bigcirc\left(52+$ ___ $\right)$; $1500-28-272=$ ___ $\bigcirc\left(28\bigcirc272\right)$; $415-74-26=$ ___; $a-b-c=$ ___.
+(Lesson: Operation Property of Subtraction, Try It, Problem 1) Fill in the $\bigcirc$ and the lines with operation signs and numbers: $868-52-48=868\bigcirc(52+$ ___ $)$; $1500-28-272=$ ___ $\bigcirc\left(28\bigcirc272\right)$; $415-74-26=$ ___; $a-b-c=$ ___.
 
 ### Solution to Exercise 15
 
