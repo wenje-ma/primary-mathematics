@@ -34,7 +34,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $4\times\frac{1}{20}=\frac{1}{5}\;\text{t}$; (2) $4\times\left(1+\frac{1}{2}\right)=6\;\text{t}$. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $4\times\frac{1}{20}=\frac{1}{5}\;\text{t}$; (2) $4\times\left(1+\frac{1}{2}\right)=6\;\text{t}$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -42,7 +44,9 @@ By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $4\times\frac{1}{20}=\
 
 ### Solution to Exercise 2
 
-$\frac{3}{4}$ of $8$ minutes is $6$ minutes; plus $20$ seconds, total $6$ minutes $20$ seconds. $\blacksquare$
+$\frac{3}{4}$ of $8$ minutes is $6$ minutes; plus $20$ seconds, total $6$ minutes $20$ seconds.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -50,7 +54,9 @@ $\frac{3}{4}$ of $8$ minutes is $6$ minutes; plus $20$ seconds, total $6$ minute
 
 ### Solution to Exercise 3
 
-By **Definition 11.2.4 (Successive Fraction-of-a-Number)**, each bounce is $1-\frac{2}{5}=\frac{3}{5}$ of the prior: $50\times\frac{3}{5}\times\frac{3}{5}\times\frac{3}{5}=50\times\frac{27}{125}=10.8\;\text{m}$. $\blacksquare$
+By **Definition 11.2.4 (Successive Fraction-of-a-Number)**, each bounce is $1-\frac{2}{5}=\frac{3}{5}$ of the prior: $50\times\frac{3}{5}\times\frac{3}{5}\times\frac{3}{5}=50\times\frac{27}{125}=10.8\;\text{m}$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -58,7 +64,9 @@ By **Definition 11.2.4 (Successive Fraction-of-a-Number)**, each bounce is $1-\f
 
 ### Solution to Exercise 4
 
-By **Definition 11.2.1 (Fraction Times an Integer)** and **Definition 11.2.2 (A Number Times a Fraction)**: $\frac{8}{15}\times5=\frac{8}{3}$; $2.4\times\frac{3}{8}=0.9$; $\frac{7}{18}\times\frac{9}{14}=\frac{1}{4}$; $26\times\frac{2}{13}=4$; $\frac{6}{5}\times\frac{3}{4}=\frac{9}{10}$; $\frac{13}{23}\times\frac{46}{15}=\frac{26}{15}$. $\blacksquare$
+By **Definition 11.2.1 (Fraction Times an Integer)** and **Definition 11.2.2 (A Number Times a Fraction)**: $\frac{8}{15}\times5=\frac{8}{3}$; $2.4\times\frac{3}{8}=0.9$; $\frac{7}{18}\times\frac{9}{14}=\frac{1}{4}$; $26\times\frac{2}{13}=4$; $\frac{6}{5}\times\frac{3}{4}=\frac{9}{10}$; $\frac{13}{23}\times\frac{46}{15}=\frac{26}{15}$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -66,7 +74,9 @@ By **Definition 11.2.1 (Fraction Times an Integer)** and **Definition 11.2.2 (A 
 
 ### Solution to Exercise 5
 
-By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $\frac{1}{3}\times\frac{3}{5}\times\frac{5}{16}=\frac{1}{16}$; $\frac{1}{5}\times15+\frac{2}{3}\times15=3+10=13$; $\frac{5}{9}\times\left(\frac{4}{7}+\frac{3}{7}\right)=\frac{5}{9}$; $\frac{11}{9}\times\frac{9}{11}\times\frac{3}{20}=\frac{3}{20}$; $\frac{2}{5}+\left(\frac{1}{4}+\frac{3}{4}\right)=\frac{7}{5}$; $\frac{3}{7}\times\left(0.75+0.25\right)=\frac{3}{7}$. $\blacksquare$
+By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $\frac{1}{3}\times\frac{3}{5}\times\frac{5}{16}=\frac{1}{16}$; $\frac{1}{5}\times15+\frac{2}{3}\times15=3+10=13$; $\frac{5}{9}\times\left(\frac{4}{7}+\frac{3}{7}\right)=\frac{5}{9}$; $\frac{11}{9}\times\frac{9}{11}\times\frac{3}{20}=\frac{3}{20}$; $\frac{2}{5}+\left(\frac{1}{4}+\frac{3}{4}\right)=\frac{7}{5}$; $\frac{3}{7}\times\left(0.75+0.25\right)=\frac{3}{7}$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -74,7 +84,9 @@ By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $\frac{1}{3}
 
 ### Solution to Exercise 6
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: $1850\times\left(1+\frac{15}{37}\right)=1850\times\frac{52}{37}=2600$ hours. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: $1850\times\left(1+\frac{15}{37}\right)=1850\times\frac{52}{37}=2600$ hours.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -82,7 +94,9 @@ By **Definition 11.2.2 (A Number Times a Fraction)**: $1850\times\left(1+\frac{1
 
 ### Solution to Exercise 7
 
-$4\times25\times\frac{1}{2}=50\;\text{kg}$. $\blacksquare$
+$4\times25\times\frac{1}{2}=50\;\text{kg}$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -90,7 +104,9 @@ $4\times25\times\frac{1}{2}=50\;\text{kg}$. $\blacksquare$
 
 ### Solution to Exercise 8
 
-$70\times\frac{1}{3}\times15=350\;\text{t}$. $\blacksquare$
+$70\times\frac{1}{3}\times15=350\;\text{t}$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -98,7 +114,9 @@ $70\times\frac{1}{3}\times15=350\;\text{t}$. $\blacksquare$
 
 ### Solution to Exercise 9
 
-The table is row factor times column factor. Picking $3$ products with distinct rows and columns uses each row and column factor once; the product always equals $\left(\frac{7}{4}\times\frac{6}{5}\times\frac{5}{8}\right)\times\left(\frac{1}{2}\times\frac{2}{3}\times\frac{3}{5}\right)=\frac{21}{16}\times\frac{1}{5}=\frac{21}{80}$, independent of the choice. $\blacksquare$
+The table is row factor times column factor. Picking $3$ products with distinct rows and columns uses each row and column factor once; the product always equals $\left(\frac{7}{4}\times\frac{6}{5}\times\frac{5}{8}\right)\times\left(\frac{1}{2}\times\frac{2}{3}\times\frac{3}{5}\right)=\frac{21}{16}\times\frac{1}{5}=\frac{21}{80}$, independent of the choice.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -106,7 +124,9 @@ The table is row factor times column factor. Picking $3$ products with distinct 
 
 ### Solution to Exercise 10
 
-Each product is $1$. By **Definition 11.3.1 (Reciprocals)**: $\frac{3}{5}$ and $\frac{5}{3}$ are reciprocals, $6$ and $\frac{1}{6}$ are reciprocals, $\frac{7}{2}$ and $\frac{2}{7}$ are reciprocals. Swap numerator and denominator. $\blacksquare$
+Each product is $1$. By **Definition 11.3.1 (Reciprocals)**: $\frac{3}{5}$ and $\frac{5}{3}$ are reciprocals, $6$ and $\frac{1}{6}$ are reciprocals, $\frac{7}{2}$ and $\frac{2}{7}$ are reciprocals. Swap numerator and denominator.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -114,7 +134,9 @@ Each product is $1$. By **Definition 11.3.1 (Reciprocals)**: $\frac{3}{5}$ and $
 
 ### Solution to Exercise 11
 
-By **Definition 11.3.1 (Reciprocals)**: $1=\frac{1}{1}$, reciprocal $1$; $0$ times anything is not $1$, so $0$ has no reciprocal; $0.2=\frac{1}{5}$, reciprocal $5$. $\blacksquare$
+By **Definition 11.3.1 (Reciprocals)**: $1=\frac{1}{1}$, reciprocal $1$; $0$ times anything is not $1$, so $0$ has no reciprocal; $0.2=\frac{1}{5}$, reciprocal $5$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -122,7 +144,9 @@ By **Definition 11.3.1 (Reciprocals)**: $1=\frac{1}{1}$, reciprocal $1$; $0$ tim
 
 ### Solution to Exercise 12
 
-By **Definition 11.3.1 (Reciprocals)**: reciprocal of $\frac{4}{11}$ is $\frac{11}{4}$; of $\frac{16}{9}$ is $\frac{9}{16}$; $35=\frac{35}{1}$, reciprocal $\frac{1}{35}$; of $\frac{7}{8}$ is $\frac{8}{7}$; of $\frac{4}{15}$ is $\frac{15}{4}$. $\blacksquare$
+By **Definition 11.3.1 (Reciprocals)**: reciprocal of $\frac{4}{11}$ is $\frac{11}{4}$; of $\frac{16}{9}$ is $\frac{9}{16}$; $35=\frac{35}{1}$, reciprocal $\frac{1}{35}$; of $\frac{7}{8}$ is $\frac{8}{7}$; of $\frac{4}{15}$ is $\frac{15}{4}$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -130,4 +154,6 @@ By **Definition 11.3.1 (Reciprocals)**: reciprocal of $\frac{4}{11}$ is $\frac{1
 
 ### Solution to Exercise 13
 
-By **Definition 11.3.2 (Rule for Fraction Division)**: (1) $\frac{4}{5}\div2=\frac{4}{5}\times\frac{1}{2}=\frac{2}{5}$ hectares; (2) $\frac{4}{5}\div3=\frac{4}{5}\times\frac{1}{3}=\frac{4}{15}$ hectares. $\blacksquare$
+By **Definition 11.3.2 (Rule for Fraction Division)**: (1) $\frac{4}{5}\div2=\frac{4}{5}\times\frac{1}{2}=\frac{2}{5}$ hectares; (2) $\frac{4}{5}\div3=\frac{4}{5}\times\frac{1}{3}=\frac{4}{15}$ hectares.
+
+$\blacksquare$

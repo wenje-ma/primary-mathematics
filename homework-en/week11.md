@@ -42,7 +42,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 1.6.2 (Addition and Subtraction Within 20)**: $12+4=16$, $16-6=10$, $10+9=19$, $19+5=24$; $15-5=10$, $10+6=16$, $16-10=6$, $6+8=14$, $14-3=11$. $\blacksquare$
+By **Definition 1.6.2 (Addition and Subtraction Within 20)**: $12+4=16$, $16-6=10$, $10+9=19$, $19+5=24$; $15-5=10$, $10+6=16$, $16-10=6$, $6+8=14$, $14-3=11$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -50,7 +52,9 @@ By **Definition 1.6.2 (Addition and Subtraction Within 20)**: $12+4=16$, $16-6=1
 
 ### Solution to Exercise 2
 
-By **Definition 1.6.2 (Addition and Subtraction Within 20)**, eaten plus remaining: $9+5=14$ (fish). $\blacksquare$
+By **Definition 1.6.2 (Addition and Subtraction Within 20)**, eaten plus remaining: $9+5=14$ (fish).
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -58,7 +62,9 @@ By **Definition 1.6.2 (Addition and Subtraction Within 20)**, eaten plus remaini
 
 ### Solution to Exercise 3
 
-By **Definition 1.6.2 (Addition and Subtraction Within 20)**: $10+5=15$; $7+9=16$; $6+7=13$ (answers not unique); $15-5=10$; $16-9=7$; $15-10=5$; $16-7=9$. $\blacksquare$
+By **Definition 1.6.2 (Addition and Subtraction Within 20)**: $10+5=15$; $7+9=16$; $6+7=13$ (answers not unique); $15-5=10$; $16-9=7$; $15-10=5$; $16-7=9$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -66,7 +72,9 @@ By **Definition 1.6.2 (Addition and Subtraction Within 20)**: $10+5=15$; $7+9=16
 
 ### Solution to Exercise 4
 
-By **Definition 1.6.3 (Solid Shapes)**, connect the two piles that together form a large cube. $\blacksquare$
+By **Definition 1.6.3 (Solid Shapes)**, connect the two piles that together form a large cube.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -74,7 +82,9 @@ By **Definition 1.6.3 (Solid Shapes)**, connect the two piles that together form
 
 ### Solution to Exercise 5
 
-By **Definition 1.6.2 (Addition and Subtraction Within 20)**, choose two parts from the picture for an addition problem, or use the known total for a subtraction problem; write and solve. $\blacksquare$
+By **Definition 1.6.2 (Addition and Subtraction Within 20)**, choose two parts from the picture for an addition problem, or use the known total for a subtraction problem; write and solve.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -82,7 +92,9 @@ By **Definition 1.6.2 (Addition and Subtraction Within 20)**, choose two parts f
 
 ### Solution to Exercise 6
 
-By **Definition 1.6.2 (Addition and Subtraction Within 20)**, choose $2$ of the $3$ boxes and add their counts; answers are not unique. $\blacksquare$
+By **Definition 1.6.2 (Addition and Subtraction Within 20)**, choose $2$ of the $3$ boxes and add their counts; answers are not unique.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -90,7 +102,9 @@ By **Definition 1.6.2 (Addition and Subtraction Within 20)**, choose $2$ of the 
 
 ### Solution to Exercise 7
 
-$9+\square+6<15$, i.e. $15+\square<15$, $\square$ can be $0$; $18-\square>10$, $\square$ can be $0\sim7$; $13+\square<19$, $\square$ can be $0\sim5$. $\blacksquare$
+$9+\square+6<15$, i.e. $15+\square<15$, $\square$ can be $0$; $18-\square>10$, $\square$ can be $0\sim7$; $13+\square<19$, $\square$ can be $0\sim5$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -98,7 +112,9 @@ $9+\square+6<15$, i.e. $15+\square<15$, $\square$ can be $0$; $18-\square>10$, $
 
 ### Solution to Exercise 8
 
-The same book has the same total pages; whoever read less has more left. Xiaoming read $8$ pages and Xiaohua read $9$ pages, $8<9$, so Xiaoming has more left. $\blacksquare$
+The same book has the same total pages; whoever read less has more left. Xiaoming read $8$ pages and Xiaohua read $9$ pages, $8<9$, so Xiaoming has more left.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -106,7 +122,9 @@ The same book has the same total pages; whoever read less has more left. Xiaomin
 
 ### Solution to Exercise 9
 
-By **Definition 2.1.1 (Plane Shapes)**, sort the shapes into five categories—rectangles, squares, parallelograms, triangles, and circles—according to shape, placing the same kind together. The figure shows a mixed set of the learned plane shapes (several rectangles, squares, parallelograms, triangles, and circles); classify them by shape. $\blacksquare$
+By **Definition 2.1.1 (Plane Shapes)**, sort the shapes into five categories—rectangles, squares, parallelograms, triangles, and circles—according to shape, placing the same kind together. The figure shows a mixed set of the learned plane shapes (several rectangles, squares, parallelograms, triangles, and circles); classify them by shape.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -114,7 +132,9 @@ By **Definition 2.1.1 (Plane Shapes)**, sort the shapes into five categories—r
 
 ### Solution to Exercise 10
 
-By **Definition 2.1.1 (Plane Shapes)**, e.g. the face of a textbook is a rectangle, the face of a handkerchief is a square, the face of a red scarf is a triangle, the face of a CD is a circle, and the face of an expanding gate is a parallelogram; reasonable examples suffice. $\blacksquare$
+By **Definition 2.1.1 (Plane Shapes)**, e.g. the face of a textbook is a rectangle, the face of a handkerchief is a square, the face of a red scarf is a triangle, the face of a CD is a circle, and the face of an expanding gate is a parallelogram; reasonable examples suffice.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -122,7 +142,9 @@ By **Definition 2.1.1 (Plane Shapes)**, e.g. the face of a textbook is a rectang
 
 ### Solution to Exercise 11
 
-By **Definition 2.1.1 (Plane Shapes)**, color the rectangles, squares, parallelograms, triangles, and circles in the picture respectively. $\blacksquare$
+By **Definition 2.1.1 (Plane Shapes)**, color the rectangles, squares, parallelograms, triangles, and circles in the picture respectively.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -130,7 +152,9 @@ By **Definition 2.1.1 (Plane Shapes)**, color the rectangles, squares, parallelo
 
 ### Solution to Exercise 12
 
-Use rubber bands on the geoboard to stretch closed shapes such as rectangles, squares, and triangles; appreciate that plane shapes are "enclosed by lines." $\blacksquare$
+Use rubber bands on the geoboard to stretch closed shapes such as rectangles, squares, and triangles; appreciate that plane shapes are "enclosed by lines."
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -138,7 +162,9 @@ Use rubber bands on the geoboard to stretch closed shapes such as rectangles, sq
 
 ### Solution to Exercise 13
 
-Freely piece together and draw using the learned plane shapes; the pattern should contain rectangles, squares, triangles, circles, etc. $\blacksquare$
+Freely piece together and draw using the learned plane shapes; the pattern should contain rectangles, squares, triangles, circles, etc.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -146,7 +172,9 @@ Freely piece together and draw using the learned plane shapes; the pattern shoul
 
 ### Solution to Exercise 14
 
-By **Definition 2.1.2 (Combining and Dividing Shapes)**, $2$ identical rectangles can form a new rectangle. $\blacksquare$
+By **Definition 2.1.2 (Combining and Dividing Shapes)**, $2$ identical rectangles can form a new rectangle.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -154,7 +182,9 @@ By **Definition 2.1.2 (Combining and Dividing Shapes)**, $2$ identical rectangle
 
 ### Solution to Exercise 15
 
-By **Definition 2.1.2 (Combining and Dividing Shapes)**, $2$ identical triangles can form a parallelogram. $\blacksquare$
+By **Definition 2.1.2 (Combining and Dividing Shapes)**, $2$ identical triangles can form a parallelogram.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -162,7 +192,9 @@ By **Definition 2.1.2 (Combining and Dividing Shapes)**, $2$ identical triangles
 
 ### Solution to Exercise 16
 
-By **Definition 2.1.2 (Combining and Dividing Shapes)**, after cutting a square along the fold line, it can be divided into two identical rectangles (or two identical triangles), i.e. one plane shape can be divided into several plane shapes. $\blacksquare$
+By **Definition 2.1.2 (Combining and Dividing Shapes)**, after cutting a square along the fold line, it can be divided into two identical rectangles (or two identical triangles), i.e. one plane shape can be divided into several plane shapes.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -170,7 +202,9 @@ By **Definition 2.1.2 (Combining and Dividing Shapes)**, after cutting a square 
 
 ### Solution to Exercise 17
 
-Cut the square paper into several plane shapes, piece them into a pattern, and color it; answers are not unique. $\blacksquare$
+Cut the square paper into several plane shapes, piece them into a pattern, and color it; answers are not unique.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -178,7 +212,9 @@ Cut the square paper into several plane shapes, piece them into a pattern, and c
 
 ### Solution to Exercise 18
 
-By **Definition 2.1.3 (Tangram)** and **Definition 2.1.2 (Combining and Dividing Shapes)**, $2$ identical triangles can form a new triangle, and $2$ triangles plus $1$ square can also form a triangle; the ways are not unique. $\blacksquare$
+By **Definition 2.1.3 (Tangram)** and **Definition 2.1.2 (Combining and Dividing Shapes)**, $2$ identical triangles can form a new triangle, and $2$ triangles plus $1$ square can also form a triangle; the ways are not unique.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -186,7 +222,9 @@ By **Definition 2.1.3 (Tangram)** and **Definition 2.1.2 (Combining and Dividing
 
 ### Solution to Exercise 19
 
-By **Definition 2.1.3 (Tangram)**, choose suitable pieces from the tangram to form rectangles and squares; the ways are not unique. $\blacksquare$
+By **Definition 2.1.3 (Tangram)**, choose suitable pieces from the tangram to form rectangles and squares; the ways are not unique.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -194,7 +232,9 @@ By **Definition 2.1.3 (Tangram)**, choose suitable pieces from the tangram to fo
 
 ### Solution to Exercise 20
 
-By **Definition 2.1.1 (Plane Shapes)**, from solid shapes we found rectangles, squares, parallelograms, triangles, and circles; by **Definition 2.1.2 (Combining and Dividing Shapes)**, several plane shapes can form a new plane shape, and one plane shape can also be divided into several. $\blacksquare$
+By **Definition 2.1.1 (Plane Shapes)**, from solid shapes we found rectangles, squares, parallelograms, triangles, and circles; by **Definition 2.1.2 (Combining and Dividing Shapes)**, several plane shapes can form a new plane shape, and one plane shape can also be divided into several.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -202,7 +242,9 @@ By **Definition 2.1.1 (Plane Shapes)**, from solid shapes we found rectangles, s
 
 ### Solution to Exercise 21
 
-By **Definition 2.1.1 (Plane Shapes)**, choose the object whose face matches the left shape and circle it; e.g. a cuboid's face can draw a rectangle, and a cylinder's base can draw a circle. $\blacksquare$
+By **Definition 2.1.1 (Plane Shapes)**, choose the object whose face matches the left shape and circle it; e.g. a cuboid's face can draw a rectangle, and a cylinder's base can draw a circle.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -210,7 +252,9 @@ By **Definition 2.1.1 (Plane Shapes)**, choose the object whose face matches the
 
 ### Solution to Exercise 22
 
-Connect the points on the dot grid to draw closed shapes such as rectangles, squares, triangles, and parallelograms. $\blacksquare$
+Connect the points on the dot grid to draw closed shapes such as rectangles, squares, triangles, and parallelograms.
+
+$\blacksquare$
 
 ## Exercise 23
 
@@ -218,7 +262,9 @@ Connect the points on the dot grid to draw closed shapes such as rectangles, squ
 
 ### Solution to Exercise 23
 
-Find the arrangement pattern of the shapes, and select and circle the next shape to place. $\blacksquare$
+Find the arrangement pattern of the shapes, and select and circle the next shape to place.
+
+$\blacksquare$
 
 ## Exercise 24
 
@@ -226,7 +272,9 @@ Find the arrangement pattern of the shapes, and select and circle the next shape
 
 ### Solution to Exercise 24
 
-Following the arrangement pattern, draw in the missing pieces one by one, and count how many are missing; e.g. $2$ pieces are missing (depending on the actual gap in the picture). $\blacksquare$
+Following the arrangement pattern, draw in the missing pieces one by one, and count how many are missing; e.g. $2$ pieces are missing (depending on the actual gap in the picture).
+
+$\blacksquare$
 
 ## Exercise 25
 
@@ -234,7 +282,9 @@ Following the arrangement pattern, draw in the missing pieces one by one, and co
 
 ### Solution to Exercise 25
 
-By **Definition 2.1.2 (Combining and Dividing Shapes)**, select and circle the shapes on the right that can combine to form the left shape. $\blacksquare$
+By **Definition 2.1.2 (Combining and Dividing Shapes)**, select and circle the shapes on the right that can combine to form the left shape.
+
+$\blacksquare$
 
 ## Exercise 26
 
@@ -242,7 +292,9 @@ By **Definition 2.1.2 (Combining and Dividing Shapes)**, select and circle the s
 
 ### Solution to Exercise 26
 
-By **Definition 2.1.2 (Combining and Dividing Shapes)**, cutting along the line connecting the midpoints of the long sides, along the line connecting the midpoints of the short sides, or along the diagonal all produce two equal parts; the methods are not unique. $\blacksquare$
+By **Definition 2.1.2 (Combining and Dividing Shapes)**, cutting along the line connecting the midpoints of the long sides, along the line connecting the midpoints of the short sides, or along the diagonal all produce two equal parts; the methods are not unique.
+
+$\blacksquare$
 
 ## Exercise 27
 
@@ -250,4 +302,6 @@ By **Definition 2.1.2 (Combining and Dividing Shapes)**, cutting along the line 
 
 ### Solution to Exercise 27
 
-By **Definition 2.2.1 (Ten-Something Minus $9$)**: $17-9=8$, $16-9=7$. $\blacksquare$
+By **Definition 2.2.1 (Ten-Something Minus $9$)**: $17-9=8$, $16-9=7$.
+
+$\blacksquare$

@@ -42,7 +42,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 2.5.1 (Vertical Form)**: (1) $31+22=53$ (stamps); (2) $25+16=41$ (stamps). $\blacksquare$
+By **Definition 2.5.1 (Vertical Form)**: (1) $31+22=53$ (stamps); (2) $25+16=41$ (stamps).
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -50,7 +52,9 @@ By **Definition 2.5.1 (Vertical Form)**: (1) $31+22=53$ (stamps); (2) $25+16=41$
 
 ### Solution to Exercise 2
 
-By **Definition 2.6.1 (Solving Problems with Addition)**, both ask for the total from two parts: $5+1=6$ (boxes), $3+4=7$ (flowers). $\blacksquare$
+By **Definition 2.6.1 (Solving Problems with Addition)**, both ask for the total from two parts: $5+1=6$ (boxes), $3+4=7$ (flowers).
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -58,7 +62,9 @@ By **Definition 2.6.1 (Solving Problems with Addition)**, both ask for the total
 
 ### Solution to Exercise 3
 
-By **Definition 2.6.1 (Solving Problems with Addition)**, combine the taken-away and the remaining: $6+5=11$ (basketballs). $\blacksquare$
+By **Definition 2.6.1 (Solving Problems with Addition)**, combine the taken-away and the remaining: $6+5=11$ (basketballs).
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -66,7 +72,9 @@ By **Definition 2.6.1 (Solving Problems with Addition)**, combine the taken-away
 
 ### Solution to Exercise 4
 
-By **Definition 2.6.2 (Solving Problems with Subtraction)**, remove the equal part: $12-9=3$ (flags); Class 1 got $3$ more flags than Class 2. $\blacksquare$
+By **Definition 2.6.2 (Solving Problems with Subtraction)**, remove the equal part: $12-9=3$ (flags); Class 1 got $3$ more flags than Class 2.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -74,7 +82,9 @@ By **Definition 2.6.2 (Solving Problems with Subtraction)**, remove the equal pa
 
 ### Solution to Exercise 5
 
-By **Definition 2.6.3 (Comparing More and Less)**, to find the number that is several more than a given number, use addition: $12+3=15$ (flags). $\blacksquare$
+By **Definition 2.6.3 (Comparing More and Less)**, to find the number that is several more than a given number, use addition: $12+3=15$ (flags).
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -82,7 +92,9 @@ By **Definition 2.6.3 (Comparing More and Less)**, to find the number that is se
 
 ### Solution to Exercise 6
 
-By **Definition 2.6.3 (Comparing More and Less)**, to find the number that is several less than a given number, use subtraction: $12-4=8$ (flags). $\blacksquare$
+By **Definition 2.6.3 (Comparing More and Less)**, to find the number that is several less than a given number, use subtraction: $12-4=8$ (flags).
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -90,7 +102,9 @@ By **Definition 2.6.3 (Comparing More and Less)**, to find the number that is se
 
 ### Solution to Exercise 7
 
-By **Definition 2.6.3 (Comparing More and Less)** and **Definition 2.6.1 (Solving Problems with Addition)**, first find Xiaohong: $14-5=9$ (times), then find the total: $14+9=23$ (times). $\blacksquare$
+By **Definition 2.6.3 (Comparing More and Less)** and **Definition 2.6.1 (Solving Problems with Addition)**, first find Xiaohong: $14-5=9$ (times), then find the total: $14+9=23$ (times).
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -98,7 +112,9 @@ By **Definition 2.6.3 (Comparing More and Less)** and **Definition 2.6.1 (Solvin
 
 ### Solution to Exercise 8
 
-By **Definition 2.6.2 (Solving Problems with Subtraction)**: $32-25=7$ (shells). $\blacksquare$
+By **Definition 2.6.2 (Solving Problems with Subtraction)**: $32-25=7$ (shells).
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -106,7 +122,9 @@ By **Definition 2.6.2 (Solving Problems with Subtraction)**: $32-25=7$ (shells).
 
 ### Solution to Exercise 9
 
-By **Definition 2.6.2 (Solving Problems with Subtraction)**: $14-8=6$; Xiaolan raised $6$ more than Xiaoning, and Xiaoning raised $6$ fewer than Xiaolan. $\blacksquare$
+By **Definition 2.6.2 (Solving Problems with Subtraction)**: $14-8=6$; Xiaolan raised $6$ more than Xiaoning, and Xiaoning raised $6$ fewer than Xiaolan.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -114,7 +132,9 @@ By **Definition 2.6.2 (Solving Problems with Subtraction)**: $14-8=6$; Xiaolan r
 
 ### Solution to Exercise 10
 
-By **Definition 2.6.3 (Comparing More and Less)**: pears $45+17=62$ (boxes), oranges $45-8=37$ (boxes). $\blacksquare$
+By **Definition 2.6.3 (Comparing More and Less)**: pears $45+17=62$ (boxes), oranges $45-8=37$ (boxes).
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -122,7 +142,9 @@ By **Definition 2.6.3 (Comparing More and Less)**: pears $45+17=62$ (boxes), ora
 
 ### Solution to Exercise 11
 
-By **Definition 2.6.2 (Solving Problems with Subtraction)**: $84-40=44$ (pumpkins), $44-26=18$ (pumpkins). $\blacksquare$
+By **Definition 2.6.2 (Solving Problems with Subtraction)**: $84-40=44$ (pumpkins), $44-26=18$ (pumpkins).
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -130,7 +152,9 @@ By **Definition 2.6.2 (Solving Problems with Subtraction)**: $84-40=44$ (pumpkin
 
 ### Solution to Exercise 12
 
-By **Definition 2.6.3 (Comparing More and Less)** and **Definition 2.6.1 (Solving Problems with Addition)**: science books $28+6=34$ (books), total $28+34=62$ (books). $\blacksquare$
+By **Definition 2.6.3 (Comparing More and Less)** and **Definition 2.6.1 (Solving Problems with Addition)**: science books $28+6=34$ (books), total $28+34=62$ (books).
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -138,7 +162,9 @@ By **Definition 2.6.3 (Comparing More and Less)** and **Definition 2.6.1 (Solvin
 
 ### Solution to Exercise 13
 
-"$6$ chairs" is irrelevant to desks. (1) By **Definition 2.6.1 (Solving Problems with Addition)**: $12+9=21$ (desks). (2) By **Definition 2.6.2 (Solving Problems with Subtraction)**: $12-9=3$ (desks). $\blacksquare$
+"$6$ chairs" is irrelevant to desks. (1) By **Definition 2.6.1 (Solving Problems with Addition)**: $12+9=21$ (desks). (2) By **Definition 2.6.2 (Solving Problems with Subtraction)**: $12-9=3$ (desks).
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -146,7 +172,9 @@ By **Definition 2.6.3 (Comparing More and Less)** and **Definition 2.6.1 (Solvin
 
 ### Solution to Exercise 14
 
-By **Definition 2.6.3 (Comparing More and Less)**: $39+16=55$ (launches). $\blacksquare$
+By **Definition 2.6.3 (Comparing More and Less)**: $39+16=55$ (launches).
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -154,7 +182,9 @@ By **Definition 2.6.3 (Comparing More and Less)**: $39+16=55$ (launches). $\blac
 
 ### Solution to Exercise 15
 
-By **Definition 2.6.3 (Comparing More and Less)**: (1) $28-7=21$ (days); (2) $21+9=30$ (days). $\blacksquare$
+By **Definition 2.6.3 (Comparing More and Less)**: (1) $28-7=21$ (days); (2) $21+9=30$ (days).
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -162,7 +192,9 @@ By **Definition 2.6.3 (Comparing More and Less)**: (1) $28-7=21$ (days); (2) $21
 
 ### Solution to Exercise 16
 
-By **Definition 2.6.3 (Comparing More and Less)** and **Definition 2.6.1 (Solving Problems with Addition)**: girls $24-7=17$ (people), total $24+17=41$ (people). $\blacksquare$
+By **Definition 2.6.3 (Comparing More and Less)** and **Definition 2.6.1 (Solving Problems with Addition)**: girls $24-7=17$ (people), total $24+17=41$ (people).
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -170,7 +202,9 @@ By **Definition 2.6.3 (Comparing More and Less)** and **Definition 2.6.1 (Solvin
 
 ### Solution to Exercise 17
 
-Make up a story about who has how many more or fewer than whom, and represent the quantitative relationship by drawing or writing an expression; e.g. "Xiaohong has $10$ flowers, Xiaoming has $3$ fewer than her, Xiaoming has $7$." $\blacksquare$
+Make up a story about who has how many more or fewer than whom, and represent the quantitative relationship by drawing or writing an expression; e.g. "Xiaohong has $10$ flowers, Xiaoming has $3$ fewer than her, Xiaoming has $7$."
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -178,7 +212,9 @@ Make up a story about who has how many more or fewer than whom, and represent th
 
 ### Solution to Exercise 18
 
-By **Definition 2.7.3 (Renminbi Exchange and Change)**, any item priced no more than $20$ yuan can be bought; $20$ yuan can be exchanged for $20$ $1$-yuan notes. $\blacksquare$
+By **Definition 2.7.3 (Renminbi Exchange and Change)**, any item priced no more than $20$ yuan can be bought; $20$ yuan can be exchanged for $20$ $1$-yuan notes.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -186,7 +222,9 @@ By **Definition 2.7.3 (Renminbi Exchange and Change)**, any item priced no more 
 
 ### Solution to Exercise 19
 
-By **Definition 2.7.1 (Renminbi Units)**, recognize denominations such as $1$ yuan, $5$ yuan, $10$ yuan, $20$ yuan, $50$ yuan, $100$ yuan, as well as $1$ jiao, $5$ jiao, $1$ fen, $5$ fen, etc. $\blacksquare$
+By **Definition 2.7.1 (Renminbi Units)**, recognize denominations such as $1$ yuan, $5$ yuan, $10$ yuan, $20$ yuan, $50$ yuan, $100$ yuan, as well as $1$ jiao, $5$ jiao, $1$ fen, $5$ fen, etc.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -194,7 +232,9 @@ By **Definition 2.7.1 (Renminbi Units)**, recognize denominations such as $1$ yu
 
 ### Solution to Exercise 20
 
-By **Definition 2.7.3 (Renminbi Exchange and Change)**, $1$ $5$-yuan note and $5$ $1$-yuan notes are equal in value, both being $5$ yuan. $\blacksquare$
+By **Definition 2.7.3 (Renminbi Exchange and Change)**, $1$ $5$-yuan note and $5$ $1$-yuan notes are equal in value, both being $5$ yuan.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -202,7 +242,9 @@ By **Definition 2.7.3 (Renminbi Exchange and Change)**, $1$ $5$-yuan note and $5
 
 ### Solution to Exercise 21
 
-By **Definition 2.7.3 (Renminbi Exchange and Change)**, $1$ $10$-yuan note can be exchanged for $1$ $5$-yuan note and $5$ $1$-yuan notes; $1$ $20$-yuan note can be exchanged for $2$ $10$-yuan notes or $4$ $5$-yuan notes. $\blacksquare$
+By **Definition 2.7.3 (Renminbi Exchange and Change)**, $1$ $10$-yuan note can be exchanged for $1$ $5$-yuan note and $5$ $1$-yuan notes; $1$ $20$-yuan note can be exchanged for $2$ $10$-yuan notes or $4$ $5$-yuan notes.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -210,7 +252,9 @@ By **Definition 2.7.3 (Renminbi Exchange and Change)**, $1$ $10$-yuan note can b
 
 ### Solution to Exercise 22
 
-By **Definition 2.7.2 (Conversion of Yuan, Jiao, and Fen)**: $1$ yuan $=10$ jiao, $1$ jiao $=10$ fen. $\blacksquare$
+By **Definition 2.7.2 (Conversion of Yuan, Jiao, and Fen)**: $1$ yuan $=10$ jiao, $1$ jiao $=10$ fen.
+
+$\blacksquare$
 
 ## Exercise 23
 
@@ -218,7 +262,9 @@ By **Definition 2.7.2 (Conversion of Yuan, Jiao, and Fen)**: $1$ yuan $=10$ jiao
 
 ### Solution to Exercise 23
 
-By **Definition 2.7.1 (Renminbi Units)** and **Definition 2.7.2 (Conversion of Yuan, Jiao, and Fen)**, look at the denominations in the picture, add them up, and fill in the yuan, jiao, and fen. $\blacksquare$
+By **Definition 2.7.1 (Renminbi Units)** and **Definition 2.7.2 (Conversion of Yuan, Jiao, and Fen)**, look at the denominations in the picture, add them up, and fill in the yuan, jiao, and fen.
+
+$\blacksquare$
 
 ## Exercise 24
 
@@ -226,7 +272,9 @@ By **Definition 2.7.1 (Renminbi Units)** and **Definition 2.7.2 (Conversion of Y
 
 ### Solution to Exercise 24
 
-Both buyer and seller should prepare Renminbi, set up stalls, draw signs, and set up a change exchange; during buying and selling, fill in the purchase and sale record sheets (item, price, payment, change). $\blacksquare$
+Both buyer and seller should prepare Renminbi, set up stalls, draw signs, and set up a change exchange; during buying and selling, fill in the purchase and sale record sheets (item, price, payment, change).
+
+$\blacksquare$
 
 ## Exercise 25
 
@@ -234,4 +282,6 @@ Both buyer and seller should prepare Renminbi, set up stalls, draw signs, and se
 
 ### Solution to Exercise 25
 
-By **Definition 2.7.2 (Conversion of Yuan, Jiao, and Fen)**, $3$ $1$-yuan notes is $3$ yuan, and $2$ $1$-jiao coins is $2$ jiao; this book is $3$ yuan $2$ jiao. $\blacksquare$
+By **Definition 2.7.2 (Conversion of Yuan, Jiao, and Fen)**, $3$ $1$-yuan notes is $3$ yuan, and $2$ $1$-jiao coins is $2$ jiao; this book is $3$ yuan $2$ jiao.
+
+$\blacksquare$

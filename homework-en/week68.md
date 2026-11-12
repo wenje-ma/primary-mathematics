@@ -62,7 +62,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 6.8.2 (the overlap problem)**, (1) $9\times6\times2-3\times3=108-9=99$ (square meters). (2) The fence length is computed around the outer perimeter of the figure. $\blacksquare$
+By **Definition 6.8.2 (the overlap problem)**, (1) $9\times6\times2-3\times3=108-9=99$ (square meters). (2) The fence length is computed around the outer perimeter of the figure.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -70,7 +72,9 @@ By **Definition 6.8.2 (the overlap problem)**, (1) $9\times6\times2-3\times3=108
 
 ### Solution to Exercise 2
 
-By **Definition 6.8.2 (the overlap problem)**, $6+6-2=10$ (people). $\blacksquare$
+By **Definition 6.8.2 (the overlap problem)**, $6+6-2=10$ (people).
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -78,7 +82,9 @@ By **Definition 6.8.2 (the overlap problem)**, $6+6-2=10$ (people). $\blacksquar
 
 ### Solution to Exercise 3
 
-By **Definition 6.8.2 (重叠问题)**, $8\times3\times2-3\times3=48-9=39$ (square centimeters). $\blacksquare$
+By **Definition 6.8.2 (重叠问题)**, $8\times3\times2-3\times3=48-9=39$ (square centimeters).
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -86,7 +92,9 @@ By **Definition 6.8.2 (重叠问题)**, $8\times3\times2-3\times3=48-9=39$ (squa
 
 ### Solution to Exercise 4
 
-By **Definition 6.8.2 (重叠问题)**, the overlap is the integers greater than $60$ and less than $70$: $61,62,\ldots,69$, totaling $9$. $\blacksquare$
+By **Definition 6.8.2 (重叠问题)**, the overlap is the integers greater than $60$ and less than $70$: $61,62,\ldots,69$, totaling $9$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -94,7 +102,9 @@ By **Definition 6.8.2 (重叠问题)**, the overlap is the integers greater than
 
 ### Solution to Exercise 5
 
-By **Definition 6.8.2 (the overlap problem)**: (1) All $8$ of Xiaoli's were also written by Xiaoliang, so totaling $15$. (2) $15+10-5=20$ (idioms). $\blacksquare$
+By **Definition 6.8.2 (the overlap problem)**: (1) All $8$ of Xiaoli's were also written by Xiaoliang, so totaling $15$. (2) $15+10-5=20$ (idioms).
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -102,7 +112,9 @@ By **Definition 6.8.2 (the overlap problem)**: (1) All $8$ of Xiaoli's were also
 
 ### Solution to Exercise 6
 
-By **Definition 7.1.1 (Counting Units and Digit Places)**, the rate between adjacent counting units is ten: (1) 960000, 970000, 980000, 990000, 1000000, 1010000, 1020000, 1030000; (2) 700000, 800000, 900000, 1000000; (3) 6000000, 7000000, 8000000, 9000000, 10000000; (4) 80000000, 90000000, 100000000. $\blacksquare$
+By **Definition 7.1.1 (Counting Units and Digit Places)**, the rate between adjacent counting units is ten: (1) 960000, 970000, 980000, 990000, 1000000, 1010000, 1020000, 1030000; (2) 700000, 800000, 900000, 1000000; (3) 6000000, 7000000, 8000000, 9000000, 10000000; (4) 80000000, 90000000, 100000000.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -110,7 +122,9 @@ By **Definition 7.1.1 (Counting Units and Digit Places)**, the rate between adja
 
 ### Solution to Exercise 7
 
-By **Definition 7.1.1 (Counting Units and Digit Places)**: (1) Unit level: ones, tens, hundreds, thousands; ten-thousand level: ten-thousands, hundred-thousands, millions, ten-millions. (2) Starting from the ones place, the $5$th place is the ten-thousands place, and the $9$th place is the hundred-millions place. (3) The place to the right of the ten-thousands place is the thousands place, and to the left is the hundred-thousands place. $\blacksquare$
+By **Definition 7.1.1 (Counting Units and Digit Places)**: (1) Unit level: ones, tens, hundreds, thousands; ten-thousand level: ten-thousands, hundred-thousands, millions, ten-millions. (2) Starting from the ones place, the $5$th place is the ten-thousands place, and the $9$th place is the hundred-millions place. (3) The place to the right of the ten-thousands place is the thousands place, and to the left is the hundred-thousands place.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -118,7 +132,9 @@ By **Definition 7.1.1 (Counting Units and Digit Places)**: (1) Unit level: ones,
 
 ### Solution to Exercise 8
 
-By **Definition 7.1.3 (Reading Large Numbers)**: $34$ is read "thirty-four", $340000$ is read "three-hundred-forty thousand"; $3004$ is read "three-thousand-four", $30040000$ is read "thirty-million forty-thousand"; $340$ is read "three-hundred-forty", $3400000$ is read "three-million four-hundred-thousand"; $3040$ is read "three-thousand-forty", $30400000$ is read "thirty-million four-hundred-thousand". $\blacksquare$
+By **Definition 7.1.3 (Reading Large Numbers)**: $34$ is read "thirty-four", $340000$ is read "three-hundred-forty thousand"; $3004$ is read "three-thousand-four", $30040000$ is read "thirty-million forty-thousand"; $340$ is read "three-hundred-forty", $3400000$ is read "three-million four-hundred-thousand"; $3040$ is read "three-thousand-forty", $30400000$ is read "thirty-million four-hundred-thousand".
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -126,7 +142,9 @@ By **Definition 7.1.3 (Reading Large Numbers)**: $34$ is read "thirty-four", $34
 
 ### Solution to Exercise 9
 
-By **Definition 7.1.3 (Reading Large Numbers)**: $32680$ is read "thirty-two-thousand six-hundred-eighty"; $5205000$ is read "five-million two-hundred-five-thousand"; $1200605$ is read "one-million two-hundred-thousand-six-hundred-five"; $107070$ is read "one-hundred-thousand seven-hundred-seventy"; $470050$ is read "four-hundred-seventy-thousand fifty"; $30600900$ is read "thirty-million six-hundred-thousand nine-hundred"; $3070800$ is read "three-million seventy-thousand eight-hundred"; $100000000$ is read "one-hundred-million". $\blacksquare$
+By **Definition 7.1.3 (Reading Large Numbers)**: $32680$ is read "thirty-two-thousand six-hundred-eighty"; $5205000$ is read "five-million two-hundred-five-thousand"; $1200605$ is read "one-million two-hundred-thousand-six-hundred-five"; $107070$ is read "one-hundred-thousand seven-hundred-seventy"; $470050$ is read "four-hundred-seventy-thousand fifty"; $30600900$ is read "thirty-million six-hundred-thousand nine-hundred"; $3070800$ is read "three-million seventy-thousand eight-hundred"; $100000000$ is read "one-hundred-million".
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -134,7 +152,9 @@ By **Definition 7.1.3 (Reading Large Numbers)**: $32680$ is read "thirty-two-tho
 
 ### Solution to Exercise 10
 
-By **Definition 7.1.4 (Writing Large Numbers)**: three-million two-hundred-sixty-seven-thousand-five-hundred is written $3267500$; forty-thousand-ninety is written $40090$; ninety-million two-hundred-thousand-three-hundred is written $90200300$; one-million is written $1000000$. $\blacksquare$
+By **Definition 7.1.4 (Writing Large Numbers)**: three-million two-hundred-sixty-seven-thousand-five-hundred is written $3267500$; forty-thousand-ninety is written $40090$; ninety-million two-hundred-thousand-three-hundred is written $90200300$; one-million is written $1000000$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -142,7 +162,9 @@ By **Definition 7.1.4 (Writing Large Numbers)**: three-million two-hundred-sixty
 
 ### Solution to Exercise 11
 
-By **Definition 7.1.4 (Writing Large Numbers)**: two-hundred-ninety-nine-thousand-eight-hundred is written $299800$; twenty-eight-thousand-odd is written about $28000$. $\blacksquare$
+By **Definition 7.1.4 (Writing Large Numbers)**: two-hundred-ninety-nine-thousand-eight-hundred is written $299800$; twenty-eight-thousand-odd is written about $28000$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -150,7 +172,9 @@ By **Definition 7.1.4 (Writing Large Numbers)**: two-hundred-ninety-nine-thousan
 
 ### Solution to Exercise 12
 
-By **Definition 7.1.4 (Writing Large Numbers)**: $48320000$, $28587$, $7035000$, $142950$, $60123$, $37000040$. $\blacksquare$
+By **Definition 7.1.4 (Writing Large Numbers)**: $48320000$, $28587$, $7035000$, $142950$, $60123$, $37000040$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -158,7 +182,9 @@ By **Definition 7.1.4 (Writing Large Numbers)**: $48320000$, $28587$, $7035000$,
 
 ### Solution to Exercise 13
 
-By **Definition 7.1.1 (Counting Units and Digit Places)**: in $32086$, the $8$ is in the tens place and means $8$ tens; in $93787$, the $7$ is in the hundreds place and means $7$ hundreds; in $107398$, the $1$ is in the hundred-thousands place and means $1$ hundred-thousand; in $690250$, the $9$ is in the ten-thousands place and means $9$ ten-thousands, and the $0$ in the thousands place means there is nothing in the thousands place. $\blacksquare$
+By **Definition 7.1.1 (Counting Units and Digit Places)**: in $32086$, the $8$ is in the tens place and means $8$ tens; in $93787$, the $7$ is in the hundreds place and means $7$ hundreds; in $107398$, the $1$ is in the hundred-thousands place and means $1$ hundred-thousand; in $690250$, the $9$ is in the ten-thousands place and means $9$ ten-thousands, and the $0$ in the thousands place means there is nothing in the thousands place.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -166,7 +192,9 @@ By **Definition 7.1.1 (Counting Units and Digit Places)**: in $32086$, the $8$ i
 
 ### Solution to Exercise 14
 
-By **Definition 7.1.1 (Counting Units and Digit Places)**: $280064$ means $28$ ten-thousands and $64$ ones; $498909$ means $49$ ten-thousands and $8909$ ones; $2700006$ means $270$ ten-thousands and $6$ ones; $55523870$ means $5552$ ten-thousands and $3870$ ones. $\blacksquare$
+By **Definition 7.1.1 (Counting Units and Digit Places)**: $280064$ means $28$ ten-thousands and $64$ ones; $498909$ means $49$ ten-thousands and $8909$ ones; $2700006$ means $270$ ten-thousands and $6$ ones; $55523870$ means $5552$ ten-thousands and $3870$ ones.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -174,7 +202,9 @@ By **Definition 7.1.1 (Counting Units and Digit Places)**: $280064$ means $28$ t
 
 ### Solution to Exercise 15
 
-By **Definition 7.1.3 (Reading Large Numbers)**: $1053600$ is read "one-million fifty-thousand three-thousand-six-hundred"; $563004$ is read "five-hundred-sixty-thousand three-thousand-four"; $45000600$ is read "forty-five-million six-hundred"; $5320190$ is read "five-million three-hundred-twenty-thousand one-hundred-ninety". $\blacksquare$
+By **Definition 7.1.3 (Reading Large Numbers)**: $1053600$ is read "one-million fifty-thousand three-thousand-six-hundred"; $563004$ is read "five-hundred-sixty-thousand three-thousand-four"; $45000600$ is read "forty-five-million six-hundred"; $5320190$ is read "five-million three-hundred-twenty-thousand one-hundred-ninety".
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -182,7 +212,9 @@ By **Definition 7.1.3 (Reading Large Numbers)**: $1053600$ is read "one-million 
 
 ### Solution to Exercise 16
 
-By **Definition 7.1.4 (Writing Large Numbers)**: (1) $42000000$ times; (2) $40075700$ meters; (3) $125000$ kilograms. $\blacksquare$
+By **Definition 7.1.4 (Writing Large Numbers)**: (1) $42000000$ times; (2) $40075700$ meters; (3) $125000$ kilograms.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -190,7 +222,9 @@ By **Definition 7.1.4 (Writing Large Numbers)**: (1) $42000000$ times; (2) $4007
 
 ### Solution to Exercise 17
 
-By **Definition 7.1.4 (Writing Large Numbers)**: (1) $60090500$; (2) $4853000$; (3) $4678002$. $\blacksquare$
+By **Definition 7.1.4 (Writing Large Numbers)**: (1) $60090500$; (2) $4853000$; (3) $4678002$.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -198,4 +232,6 @@ By **Definition 7.1.4 (Writing Large Numbers)**: (1) $60090500$; (2) $4853000$; 
 
 ### Solution to Exercise 18
 
-By **Definition 7.1.3 (Reading Large Numbers)** and **Definition 7.1.4 (Writing Large Numbers)**: ninety-six-million matches $96000000$; thirteen-million nine-hundred-thousand nine-thousand matches $13909000$; eight-hundred-sixty-thousand-one-hundred matches $860100$; thirteen-million ninety-thousand-thirty-four matches $13090034$. $\blacksquare$
+By **Definition 7.1.3 (Reading Large Numbers)** and **Definition 7.1.4 (Writing Large Numbers)**: ninety-six-million matches $96000000$; thirteen-million nine-hundred-thousand nine-thousand matches $13909000$; eight-hundred-sixty-thousand-one-hundred matches $860100$; thirteen-million ninety-thousand-thirty-four matches $13090034$.
+
+$\blacksquare$

@@ -42,7 +42,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 7.3.2 (Classification of Angles)**: (1) Folding the rectangular paper corner-to-corner gives $45^{\circ}$, and folding once more gives $135^{\circ}$ ($180^{\circ}-45^{\circ}$). (2) Folding the circle once gives a straight angle $180^{\circ}$, twice gives a right angle $90^{\circ}$, three times gives $45^{\circ}$; after unfolding you get $45^{\circ},90^{\circ},135^{\circ},180^{\circ},225^{\circ},270^{\circ},315^{\circ},360^{\circ}$. $\blacksquare$
+By **Definition 7.3.2 (Classification of Angles)**: (1) Folding the rectangular paper corner-to-corner gives $45^{\circ}$, and folding once more gives $135^{\circ}$ ($180^{\circ}-45^{\circ}$). (2) Folding the circle once gives a straight angle $180^{\circ}$, twice gives a right angle $90^{\circ}$, three times gives $45^{\circ}$; after unfolding you get $45^{\circ},90^{\circ},135^{\circ},180^{\circ},225^{\circ},270^{\circ},315^{\circ},360^{\circ}$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -52,7 +54,9 @@ The figure: (1) on a straight line there is a vertex, from which a ray is drawn 
 
 ### Solution to Exercise 2
 
-By **Definition 7.3.2 (Classification of Angles)**, a straight angle $=180^{\circ}$, and vertical angles are equal: (1) $\angle1$ and $\angle2$ form a straight angle, so $\angle2=180^{\circ}-70^{\circ}=110^{\circ}$; (2) $\angle2=180^{\circ}-40^{\circ}=140^{\circ}$, $\angle3=\angle1=40^{\circ}$, $\angle4=\angle2=140^{\circ}$. $\blacksquare$
+By **Definition 7.3.2 (Classification of Angles)**, a straight angle $=180^{\circ}$, and vertical angles are equal: (1) $\angle1$ and $\angle2$ form a straight angle, so $\angle2=180^{\circ}-70^{\circ}=110^{\circ}$; (2) $\angle2=180^{\circ}-40^{\circ}=140^{\circ}$, $\angle3=\angle1=40^{\circ}$, $\angle4=\angle2=140^{\circ}$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -60,7 +64,9 @@ By **Definition 7.3.2 (Classification of Angles)**, a straight angle $=180^{\cir
 
 ### Solution to Exercise 3
 
-By **Definition 7.3.4 (How to Measure an Angle)**, measure each angle. We find that the three angles on one straight line sum to $180^{\circ}$, or that angles facing the same arc are equal. $\blacksquare$
+By **Definition 7.3.4 (How to Measure an Angle)**, measure each angle. We find that the three angles on one straight line sum to $180^{\circ}$, or that angles facing the same arc are equal.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -68,7 +74,9 @@ By **Definition 7.3.4 (How to Measure an Angle)**, measure each angle. We find t
 
 ### Solution to Exercise 4
 
-By **Definition 7.3.4 (How to Measure an Angle)**, extend the two sides of the angle to meet at the vertex and then measure with the protractor; the size of the angle does not depend on the length of the sides. $\blacksquare$
+By **Definition 7.3.4 (How to Measure an Angle)**, extend the two sides of the angle to meet at the vertex and then measure with the protractor; the size of the angle does not depend on the length of the sides.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -76,7 +84,9 @@ By **Definition 7.3.4 (How to Measure an Angle)**, extend the two sides of the a
 
 ### Solution to Exercise 5
 
-Take the piece that keeps both sides of the original angle (or two complete angles); then you can extend the two sides to restore the size of the original angle. $\blacksquare$
+Take the piece that keeps both sides of the original angle (or two complete angles); then you can extend the two sides to restore the size of the original angle.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -84,7 +94,9 @@ Take the piece that keeps both sides of the original angle (or two complete angl
 
 ### Solution to Exercise 6
 
-By **Definition 7.3.2 (Classification of Angles)**, if both $\angle1$ and $\angle2$ form a right angle (or straight angle) with the same middle angle, then $\angle1=\angle2$. Complements (or supplements) of the same angle are equal. $\blacksquare$
+By **Definition 7.3.2 (Classification of Angles)**, if both $\angle1$ and $\angle2$ form a right angle (or straight angle) with the same middle angle, then $\angle1=\angle2$. Complements (or supplements) of the same angle are equal.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -92,7 +104,9 @@ By **Definition 7.3.2 (Classification of Angles)**, if both $\angle1$ and $\angl
 
 ### Solution to Exercise 7
 
-By **Definition 7.4.1 (Mental Multiplication)**: $11\times5=55$, $14\times4=56$, $15\times6=90$, $23\times4=92$; $110\times5=550$, $140\times4=560$, $150\times6=900$, $230\times4=920$. $\blacksquare$
+By **Definition 7.4.1 (Mental Multiplication)**: $11\times5=55$, $14\times4=56$, $15\times6=90$, $23\times4=92$; $110\times5=550$, $140\times4=560$, $150\times6=900$, $230\times4=920$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -100,7 +114,9 @@ By **Definition 7.4.1 (Mental Multiplication)**: $11\times5=55$, $14\times4=56$,
 
 ### Solution to Exercise 8
 
-By **Definition 7.4.1 (Mental Multiplication)**: $5\times10=50$, $9\times10=90$, $18\times10=180$, $40\times10=400$. Multiplying a number by $10$ appends one $0$ to the end. $\blacksquare$
+By **Definition 7.4.1 (Mental Multiplication)**: $5\times10=50$, $9\times10=90$, $18\times10=180$, $40\times10=400$. Multiplying a number by $10$ appends one $0$ to the end.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -108,7 +124,9 @@ By **Definition 7.4.1 (Mental Multiplication)**: $5\times10=50$, $9\times10=90$,
 
 ### Solution to Exercise 9
 
-By **Definition 7.4.1 (Mental Multiplication)**: $31\times30=930$, $14\times20=280$, $12\times30=360$, $30\times20=600$, $120\times30=3600$, $310\times30=9300$, $140\times20=2800$, $30\times200=6000$. $\blacksquare$
+By **Definition 7.4.1 (Mental Multiplication)**: $31\times30=930$, $14\times20=280$, $12\times30=360$, $30\times20=600$, $120\times30=3600$, $310\times30=9300$, $140\times20=2800$, $30\times200=6000$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -116,7 +134,9 @@ By **Definition 7.4.1 (Mental Multiplication)**: $31\times30=930$, $14\times20=2
 
 ### Solution to Exercise 10
 
-By **Definition 7.4.1 (Mental Multiplication)**: $30\times5=150$, $15\times5=75$, $14\times6=84$, $13\times6=78$, $25\times2=50$, $17\times5=85$, $18\times4=72$, $12\times7=84$, $16\times3=48$, $220\times4=880$, $46\times2=92$, $24\times4=96$, $140\times3=420$, $170\times4=680$, $32\times3=96$, $39\times2=78$. $\blacksquare$
+By **Definition 7.4.1 (Mental Multiplication)**: $30\times5=150$, $15\times5=75$, $14\times6=84$, $13\times6=78$, $25\times2=50$, $17\times5=85$, $18\times4=72$, $12\times7=84$, $16\times3=48$, $220\times4=880$, $46\times2=92$, $24\times4=96$, $140\times3=420$, $170\times4=680$, $32\times3=96$, $39\times2=78$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -124,7 +144,9 @@ By **Definition 7.4.1 (Mental Multiplication)**: $30\times5=150$, $15\times5=75$
 
 ### Solution to Exercise 11
 
-By **Definition 7.4.1 (Mental Multiplication)**, $280\times2=560$ kg. $\blacksquare$
+By **Definition 7.4.1 (Mental Multiplication)**, $280\times2=560$ kg.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -132,7 +154,9 @@ By **Definition 7.4.1 (Mental Multiplication)**, $280\times2=560$ kg. $\blacksqu
 
 ### Solution to Exercise 12
 
-By **Definition 7.4.1 (Mental Multiplication)**: (1) $12\times30=360$ lanterns; (2) $360\times5=1800$ yuan. $\blacksquare$
+By **Definition 7.4.1 (Mental Multiplication)**: (1) $12\times30=360$ lanterns; (2) $360\times5=1800$ yuan.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -140,7 +164,9 @@ By **Definition 7.4.1 (Mental Multiplication)**: (1) $12\times30=360$ lanterns; 
 
 ### Solution to Exercise 13
 
-By **Definition 7.4.1 (Mental Multiplication)**: $44\times2=88$, $25\times3=75$, $16\times5=80$, $17\times3=51$, $13\times20=260$, $21\times10=210$, $30\times30=900$, $12\times40=480$, $41\times20=820$, $23\times30=690$, $11\times40=440$, $240\times3=720$. $\blacksquare$
+By **Definition 7.4.1 (Mental Multiplication)**: $44\times2=88$, $25\times3=75$, $16\times5=80$, $17\times3=51$, $13\times20=260$, $21\times10=210$, $30\times30=900$, $12\times40=480$, $41\times20=820$, $23\times30=690$, $11\times40=440$, $240\times3=720$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -148,7 +174,9 @@ By **Definition 7.4.1 (Mental Multiplication)**: $44\times2=88$, $25\times3=75$,
 
 ### Solution to Exercise 14
 
-By **Definition 7.4.1 (Mental Multiplication)**: (1) $1$ hour $=60$ minutes, $50\times60=3000$ g $=3$ kg; (2) $3\times24=72$ kg. $\blacksquare$
+By **Definition 7.4.1 (Mental Multiplication)**: (1) $1$ hour $=60$ minutes, $50\times60=3000$ g $=3$ kg; (2) $3\times24=72$ kg.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -156,4 +184,6 @@ By **Definition 7.4.1 (Mental Multiplication)**: (1) $1$ hour $=60$ minutes, $50
 
 ### Solution to Exercise 15
 
-By **Definition 7.4.1 (Mental Multiplication)**: $44\times20=880$, $360\div6=60$, $16\times6=96$, $25\times4=100$, $80\div4=20$, $38\times2=76$, $22\times30=660$, $50\times16=800$. $\blacksquare$
+By **Definition 7.4.1 (Mental Multiplication)**: $44\times20=880$, $360\div6=60$, $16\times6=96$, $25\times4=100$, $80\div4=20$, $38\times2=76$, $22\times30=660$, $50\times16=800$.
+
+$\blacksquare$

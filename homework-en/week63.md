@@ -38,7 +38,9 @@
 
 ### Solution to Exercise 1
 
-$36=1\times36=2\times18=3\times12=4\times9=6\times6$; the $6\times6$ square has the shortest perimeter. Finding: with the same number of small squares, the closer the arrangement is to a square (the closer the length and width), the shorter the perimeter. $\blacksquare$
+$36=1\times36=2\times18=3\times12=4\times9=6\times6$; the $6\times6$ square has the shortest perimeter. Finding: with the same number of small squares, the closer the arrangement is to a square (the closer the length and width), the shorter the perimeter.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -46,7 +48,9 @@ $36=1\times36=2\times18=3\times12=4\times9=6\times6$; the $6\times6$ square has 
 
 ### Solution to Exercise 2
 
-By **Definition 6.3.3 (周长)**, use a tape measure to go once around the head, chest and waist, and fill in each length. $\blacksquare$
+By **Definition 6.3.3 (周长)**, use a tape measure to go once around the head, chest and waist, and fill in each length.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -54,7 +58,9 @@ By **Definition 6.3.3 (周长)**, use a tape measure to go once around the head,
 
 ### Solution to Exercise 3
 
-By **Definition 6.3.3 (周长)**, add the sides: $150+20+100+80+180=530$ (meters). $\blacksquare$
+By **Definition 6.3.3 (周长)**, add the sides: $150+20+100+80+180=530$ (meters).
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -62,7 +68,9 @@ By **Definition 6.3.3 (周长)**, add the sides: $150+20+100+80+180=530$ (meters
 
 ### Solution to Exercise 4
 
-By **Definition 6.3.3 (周长)** and **Definition 6.3.4 (长方形和正方形的周长)**, after measuring the sides, use (length$+$width)$\times2$ for a rectangle, side$\times4$ for a square, and add the sides for other figures. $\blacksquare$
+By **Definition 6.3.3 (周长)** and **Definition 6.3.4 (长方形和正方形的周长)**, after measuring the sides, use (length$+$width)$\times2$ for a rectangle, side$\times4$ for a square, and add the sides for other figures.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -70,7 +78,9 @@ By **Definition 6.3.3 (周长)** and **Definition 6.3.4 (长方形和正方形�
 
 ### Solution to Exercise 5
 
-By **Definition 6.3.3 (周长)**, use the compass to lay each figure's perimeter into a segment, then compare the two segments. $\blacksquare$
+By **Definition 6.3.3 (周长)**, use the compass to lay each figure's perimeter into a segment, then compare the two segments.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -78,7 +88,9 @@ By **Definition 6.3.3 (周长)**, use the compass to lay each figure's perimeter
 
 ### Solution to Exercise 6
 
-By **Definition 6.3.4 (长方形和正方形的周长)**, $\left(28+15\right)\times2=86$ (meters). $\blacksquare$
+By **Definition 6.3.4 (长方形和正方形的周长)**, $\left(28+15\right)\times2=86$ (meters).
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -86,7 +98,9 @@ By **Definition 6.3.4 (长方形和正方形的周长)**, $\left(28+15\right)\ti
 
 ### Solution to Exercise 7
 
-By **Definition 6.3.3 (周长)**, add up each figure's side lengths to compare. Figures of different shape with the same total outer side length have the same perimeter; otherwise they differ, and the one with more (or longer) sides has the longer perimeter. $\blacksquare$
+By **Definition 6.3.3 (周长)**, add up each figure's side lengths to compare. Figures of different shape with the same total outer side length have the same perimeter; otherwise they differ, and the one with more (or longer) sides has the longer perimeter.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -94,7 +108,9 @@ By **Definition 6.3.3 (周长)**, add up each figure's side lengths to compare. 
 
 ### Solution to Exercise 8
 
-All four sides: $\left(6+3\right)\times2=18$ (meters). To minimize with one side against a wall, put the long side against the wall, needing only $6+3+3=12$ (meters). $\blacksquare$
+All four sides: $\left(6+3\right)\times2=18$ (meters). To minimize with one side against a wall, put the long side against the wall, needing only $6+3+3=12$ (meters).
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -102,7 +118,9 @@ All four sides: $\left(6+3\right)\times2=18$ (meters). To minimize with one side
 
 ### Solution to Exercise 9
 
-Exercise book perimeter $\left(21+15\right)\times2=72$ (cm); desk width $24\div2-7=5$ (dm); blackboard length $10\div2-1=4$ (m). $\blacksquare$
+Exercise book perimeter $\left(21+15\right)\times2=72$ (cm); desk width $24\div2-7=5$ (dm); blackboard length $10\div2-1=4$ (m).
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -110,7 +128,9 @@ Exercise book perimeter $\left(21+15\right)\times2=72$ (cm); desk width $24\div2
 
 ### Solution to Exercise 10
 
-By **Definition 6.3.4 (长方形和正方形的周长)**, the side length is $=320\div4=80$ (cm). $\blacksquare$
+By **Definition 6.3.4 (长方形和正方形的周长)**, the side length is $=320\div4=80$ (cm).
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -118,7 +138,9 @@ By **Definition 6.3.4 (长方形和正方形的周长)**, the side length is $=3
 
 ### Solution to Exercise 11
 
-The length is $=4\times3=12$ (cm), perimeter $\left(12+4\right)\times2=32$ (cm). $\blacksquare$
+The length is $=4\times3=12$ (cm), perimeter $\left(12+4\right)\times2=32$ (cm).
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -126,7 +148,9 @@ The length is $=4\times3=12$ (cm), perimeter $\left(12+4\right)\times2=32$ (cm).
 
 ### Solution to Exercise 12
 
-$6=1\times6=2\times3$. Arranged in $2$ rows of $3$ each (length $6$ cm width $4$ cm), the perimeter $\left(6+4\right)\times2=20$ cm is smallest. To form a square needs $3\times3=9$, adding at least $9-6=3$ more; the square has side $6$ cm and perimeter $6\times4=24$ cm. $\blacksquare$
+$6=1\times6=2\times3$. Arranged in $2$ rows of $3$ each (length $6$ cm width $4$ cm), the perimeter $\left(6+4\right)\times2=20$ cm is smallest. To form a square needs $3\times3=9$, adding at least $9-6=3$ more; the square has side $6$ cm and perimeter $6\times4=24$ cm.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -134,7 +158,9 @@ $6=1\times6=2\times3$. Arranged in $2$ rows of $3$ each (length $6$ cm width $4$
 
 ### Solution to Exercise 13
 
-$18=1\times18=2\times9=3\times6$; arranged in $3$ rows of $6$ each, closest to a square, the length is $6\times2=12$ dm, width $3\times2=6$ dm, and the border $\left(12+6\right)\times2=36$ dm is minimal. $\blacksquare$
+$18=1\times18=2\times9=3\times6$; arranged in $3$ rows of $6$ each, closest to a square, the length is $6\times2=12$ dm, width $3\times2=6$ dm, and the border $\left(12+6\right)\times2=36$ dm is minimal.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -142,7 +168,9 @@ $18=1\times18=2\times9=3\times6$; arranged in $3$ rows of $6$ each, closest to a
 
 ### Solution to Exercise 14
 
-length$+$width$=22\div2=11$ (cm), taking length$\geqslant$width: length $10$ width $1$, length $9$ width $2$, length $8$ width $3$, length $7$ width $4$, length $6$ width $5$, $5$ ways in total. $\blacksquare$
+length$+$width$=22\div2=11$ (cm), taking length$\geqslant$width: length $10$ width $1$, length $9$ width $2$, length $8$ width $3$, length $7$ width $4$, length $6$ width $5$, $5$ ways in total.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -150,7 +178,9 @@ length$+$width$=22\div2=11$ (cm), taking length$\geqslant$width: length $10$ wid
 
 ### Solution to Exercise 15
 
-Each piece is $48\div2=24$ (cm). (1) The square's side is $24\div4=6$ (cm). (2) The rectangle's length$+$width$=12$, the length is $2$ times the width, width $12\div3=4$ (cm), length $8$ cm. $\blacksquare$
+Each piece is $48\div2=24$ (cm). (1) The square's side is $24\div4=6$ (cm). (2) The rectangle's length$+$width$=12$, the length is $2$ times the width, width $12\div3=4$ (cm), length $8$ cm.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -158,7 +188,9 @@ Each piece is $48\div2=24$ (cm). (1) The square's side is $24\div4=6$ (cm). (2) 
 
 ### Solution to Exercise 16
 
-By **Definition 6.3.3 (周长)**, each part's perimeter includes one length and one width of the original rectangle as well as the shared cut line; if the cut lines are the same, the two perimeters are equal; otherwise compare the sum of each part's outer sides. $\blacksquare$
+By **Definition 6.3.3 (周长)**, each part's perimeter includes one length and one width of the original rectangle as well as the shared cut line; if the cut lines are the same, the two perimeters are equal; otherwise compare the sum of each part's outer sides.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -166,7 +198,9 @@ By **Definition 6.3.3 (周长)**, each part's perimeter includes one length and 
 
 ### Solution to Exercise 17
 
-By **Definition 6.3.3 (周长)**, add up the outer sides of the combined figure in order (the recessed sides also count) to get the total length around. $\blacksquare$
+By **Definition 6.3.3 (周长)**, add up the outer sides of the combined figure in order (the recessed sides also count) to get the total length around.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -174,7 +208,9 @@ By **Definition 6.3.3 (周长)**, add up the outer sides of the combined figure 
 
 ### Solution to Exercise 18
 
-The rectangle's length is two square side lengths; the square side is $36\div2=18$ (cm), square perimeter $18\times4=72$ (cm); the rectangle's width is $18$ cm, perimeter $\left(36+18\right)\times2=108$ (cm). $\blacksquare$
+The rectangle's length is two square side lengths; the square side is $36\div2=18$ (cm), square perimeter $18\times4=72$ (cm); the rectangle's width is $18$ cm, perimeter $\left(36+18\right)\times2=108$ (cm).
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -182,7 +218,9 @@ The rectangle's length is two square side lengths; the square side is $36\div2=1
 
 ### Solution to Exercise 19
 
-By **Definition 6.3.3 (周长)**, add up each segment of each route, compare the total lengths; the smaller sum is shorter and the larger sum longer. $\blacksquare$
+By **Definition 6.3.3 (周长)**, add up each segment of each route, compare the total lengths; the smaller sum is shorter and the larger sum longer.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -190,7 +228,9 @@ By **Definition 6.3.3 (周长)**, add up each segment of each route, compare the
 
 ### Solution to Exercise 20
 
-The square's side is $8\div4=2$ (cm). At the join, one side of the square coincides with the rectangle; the combined perimeter is $=16+8-2\times2=20$ (cm). $\blacksquare$
+The square's side is $8\div4=2$ (cm). At the join, one side of the square coincides with the rectangle; the combined perimeter is $=16+8-2\times2=20$ (cm).
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -198,7 +238,9 @@ The square's side is $8\div4=2$ (cm). At the join, one side of the square coinci
 
 ### Solution to Exercise 21
 
-The large square's side is $24\div4=6$ (dm). The rectangle's length$+$width exactly equals the large square's side of $6$ dm, so each rectangle's perimeter is $=6\times2=12$ (dm). $\blacksquare$
+The large square's side is $24\div4=6$ (dm). The rectangle's length$+$width exactly equals the large square's side of $6$ dm, so each rectangle's perimeter is $=6\times2=12$ (dm).
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -206,7 +248,9 @@ The large square's side is $24\div4=6$ (dm). The rectangle's length$+$width exac
 
 ### Solution to Exercise 22
 
-By **Definition 6.4.1 (Area)**, the size of an object's surface is its area; the pencil-box lid is smaller than the exercise-book cover, so the pencil-box lid has the smaller area. $\blacksquare$
+By **Definition 6.4.1 (Area)**, the size of an object's surface is its area; the pencil-box lid is smaller than the exercise-book cover, so the pencil-box lid has the smaller area.
+
+$\blacksquare$
 
 ## Exercise 23
 
@@ -214,7 +258,9 @@ By **Definition 6.4.1 (Area)**, the size of an object's surface is its area; the
 
 ### Solution to Exercise 23
 
-By **Definition 6.4.2 (Area Units)**, a fingernail is about $1$ square centimeter, a palm (or one face of a chalk box) about $1$ square decimeter, and a square tabletop (or a floor tile) about $1$ square meter. $\blacksquare$
+By **Definition 6.4.2 (Area Units)**, a fingernail is about $1$ square centimeter, a palm (or one face of a chalk box) about $1$ square decimeter, and a square tabletop (or a floor tile) about $1$ square meter.
+
+$\blacksquare$
 
 ## Exercise 24
 
@@ -222,4 +268,6 @@ By **Definition 6.4.2 (Area Units)**, a fingernail is about $1$ square centimete
 
 ### Solution to Exercise 24
 
-By **Definition 6.4.2 (面积单位)**, lay down $1$-square-centimeter squares and count how many fit; that number of square centimeters is the area. $\blacksquare$
+By **Definition 6.4.2 (面积单位)**, lay down $1$-square-centimeter squares and count how many fit; that number of square centimeters is the area.
+
+$\blacksquare$

@@ -26,7 +26,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 9.3.1 (Dividing a Decimal by an Integer)**, $22\div4=5.5$ yuan. The remaining $2$ yuan is converted to $20$ jiao and divided further, with the quotient's point aligned to the dividend. $\blacksquare$
+By **Definition 9.3.1 (Dividing a Decimal by an Integer)**, $22\div4=5.5$ yuan. The remaining $2$ yuan is converted to $20$ jiao and divided further, with the quotient's point aligned to the dividend.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -34,7 +36,9 @@ By **Definition 9.3.1 (Dividing a Decimal by an Integer)**, $22\div4=5.5$ yuan. 
 
 ### Solution to Exercise 2
 
-By **Definition 9.3.1 (除数是整数的小数除法)**, $22.4\div4=5.6$ yuan. The quotient's point aligns with the dividend's point. $\blacksquare$
+By **Definition 9.3.1 (除数是整数的小数除法)**, $22.4\div4=5.6$ yuan. The quotient's point aligns with the dividend's point.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -42,7 +46,9 @@ By **Definition 9.3.1 (除数是整数的小数除法)**, $22.4\div4=5.6$ yuan. 
 
 ### Solution to Exercise 3
 
-By **Definition 9.3.1 (除数是整数的小数除法)**: $42\div3=14$, $4.2\div3=1.4$; $84\div4=21$, $8.4\div4=2.1$; $154\div14=11$, $15.4\div14=1.1$. With the divisor unchanged, shrinking the dividend to one tenth shrinks the quotient to one tenth as well. $\blacksquare$
+By **Definition 9.3.1 (除数是整数的小数除法)**: $42\div3=14$, $4.2\div3=1.4$; $84\div4=21$, $8.4\div4=2.1$; $154\div14=11$, $15.4\div14=1.1$. With the divisor unchanged, shrinking the dividend to one tenth shrinks the quotient to one tenth as well.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -50,7 +56,9 @@ By **Definition 9.3.1 (除数是整数的小数除法)**: $42\div3=14$, $4.2\div
 
 ### Solution to Exercise 4
 
-By **Definition 9.3.1 (除数是整数的小数除法)**: $72\div15=4.8$; $9\div4=2.25$; $14.21\div7=2.03$; $25.5\div6=4.25$; $5.6\div7=0.8$ (integer part $5<7$, first write a $0$). $\blacksquare$
+By **Definition 9.3.1 (除数是整数的小数除法)**: $72\div15=4.8$; $9\div4=2.25$; $14.21\div7=2.03$; $25.5\div6=4.25$; $5.6\div7=0.8$ (integer part $5<7$, first write a $0$).
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -58,7 +66,9 @@ By **Definition 9.3.1 (除数是整数的小数除法)**: $72\div15=4.8$; $9\div
 
 ### Solution to Exercise 5
 
-By **Definition 9.3.1 (除数是整数的小数除法)**: $6.8\div5=1.36$; $0.54\div6=0.09$; $6.3\div14=0.45$; $3.45\div15=0.23$; $12\div16=0.75$; $1.26\div28=0.045$; $0.416\div32=0.013$. $\blacksquare$
+By **Definition 9.3.1 (除数是整数的小数除法)**: $6.8\div5=1.36$; $0.54\div6=0.09$; $6.3\div14=0.45$; $3.45\div15=0.23$; $12\div16=0.75$; $1.26\div28=0.045$; $0.416\div32=0.013$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -66,7 +76,9 @@ By **Definition 9.3.1 (除数是整数的小数除法)**: $6.8\div5=1.36$; $0.54
 
 ### Solution to Exercise 6
 
-$99.8\div4=24.95$ yuan. $\blacksquare$
+$99.8\div4=24.95$ yuan.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -74,7 +86,9 @@ $99.8\div4=24.95$ yuan. $\blacksquare$
 
 ### Solution to Exercise 7
 
-By **Definition 9.3.2 (Repeating Decimals)**, $400\div75=5.333\cdots=5.\dot{3}$ m/s, with the digit $3$ repeating in the quotient's decimal part. $\blacksquare$
+By **Definition 9.3.2 (Repeating Decimals)**, $400\div75=5.333\cdots=5.\dot{3}$ m/s, with the digit $3$ repeating in the quotient's decimal part.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -82,7 +96,9 @@ By **Definition 9.3.2 (Repeating Decimals)**, $400\div75=5.333\cdots=5.\dot{3}$ 
 
 ### Solution to Exercise 8
 
-By **Definition 9.3.2 (Repeating Decimals)**: $28\div18=1.555\cdots=1.\dot{5}$; $78.6\div11=7.14545\cdots=7.1\dot{4}\dot{5}$. Both are repeating decimals. $\blacksquare$
+By **Definition 9.3.2 (Repeating Decimals)**: $28\div18=1.555\cdots=1.\dot{5}$; $78.6\div11=7.14545\cdots=7.1\dot{4}\dot{5}$. Both are repeating decimals.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -90,7 +106,9 @@ By **Definition 9.3.2 (Repeating Decimals)**: $28\div18=1.555\cdots=1.\dot{5}$; 
 
 ### Solution to Exercise 9
 
-By **Definition 9.3.2 (Repeating Decimals)**: $1.555\cdots=1.\dot{5}$; $1.746746\cdots=1.\dot{7}4\dot{6}$; $0.105353\cdots=0.10\dot{5}\dot{3}$. $\blacksquare$
+By **Definition 9.3.2 (Repeating Decimals)**: $1.555\cdots=1.\dot{5}$; $1.746746\cdots=1.\dot{7}4\dot{6}$; $0.105353\cdots=0.10\dot{5}\dot{3}$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -98,7 +116,9 @@ By **Definition 9.3.2 (Repeating Decimals)**: $1.555\cdots=1.\dot{5}$; $1.746746
 
 ### Solution to Exercise 10
 
-$15\div7=2.142857\cdots\approx2.14$; $15.3\div72=0.2125$ (terminating); $2.29\div9=0.25444\cdots\approx0.25$. $\blacksquare$
+$15\div7=2.142857\cdots\approx2.14$; $15.3\div72=0.2125$ (terminating); $2.29\div9=0.25444\cdots\approx0.25$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -106,7 +126,9 @@ $15\div7=2.142857\cdots\approx2.14$; $15.3\div72=0.2125$ (terminating); $2.29\di
 
 ### Solution to Exercise 11
 
-By **Definition 9.3.2 (Repeating Decimals)**, all quotients are repeating decimals whose cycles consist of the same $6$ digits $1,4,2,8,5,7$, only starting one place later each time. $\blacksquare$
+By **Definition 9.3.2 (Repeating Decimals)**, all quotients are repeating decimals whose cycles consist of the same $6$ digits $1,4,2,8,5,7$, only starting one place later each time.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -114,7 +136,9 @@ By **Definition 9.3.2 (Repeating Decimals)**, all quotients are repeating decima
 
 ### Solution to Exercise 12
 
-By **Definition 9.3.1 (除数是整数的小数除法)**: $6.6\div4=1.65$; $43.5\div29=1.5$; $18.9\div27=0.7$; $1.35\div15=0.09$; $37.5\div6=6.25$; $28.6\div11=2.6$; $20.4\div24=0.85$; $3.64\div52=0.07$. $\blacksquare$
+By **Definition 9.3.1 (除数是整数的小数除法)**: $6.6\div4=1.65$; $43.5\div29=1.5$; $18.9\div27=0.7$; $1.35\div15=0.09$; $37.5\div6=6.25$; $28.6\div11=2.6$; $20.4\div24=0.85$; $3.64\div52=0.07$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -122,7 +146,9 @@ By **Definition 9.3.1 (除数是整数的小数除法)**: $6.6\div4=1.65$; $43.5
 
 ### Solution to Exercise 13
 
-By **Definition 9.3.1 (除数是整数的小数除法)**: $328\div16=20.5$, check $20.5\times16=328$; $1.08\div27=0.04$, check $0.04\times27=1.08$; $15.6\div12=1.3$, check $1.3\times12=15.6$; $0.646\div19=0.034$, check $0.034\times19=0.646$. $\blacksquare$
+By **Definition 9.3.1 (除数是整数的小数除法)**: $328\div16=20.5$, check $20.5\times16=328$; $1.08\div27=0.04$, check $0.04\times27=1.08$; $15.6\div12=1.3$, check $1.3\times12=15.6$; $0.646\div19=0.034$, check $0.034\times19=0.646$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -130,7 +156,9 @@ By **Definition 9.3.1 (除数是整数的小数除法)**: $328\div16=20.5$, chec
 
 ### Solution to Exercise 14
 
-By **Definition 9.3.3 (有限小数与无限小数)** and rounding: $1.29090\cdots\approx1.291$; $0.0183\cdots\approx0.018$; $7.275\cdots\approx7.275$ (if it is $7.\dot{2}7\dot{5}$ then $7.275$); $0.444\cdots\approx0.444$. $\blacksquare$
+By **Definition 9.3.3 (有限小数与无限小数)** and rounding: $1.29090\cdots\approx1.291$; $0.0183\cdots\approx0.018$; $7.275\cdots\approx7.275$ (if it is $7.\dot{2}7\dot{5}$ then $7.275$); $0.444\cdots\approx0.444$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -138,7 +166,9 @@ By **Definition 9.3.3 (有限小数与无限小数)** and rounding: $1.29090\cdo
 
 ### Solution to Exercise 15
 
-$40\div14=2.8571\cdots$, one decimal $2.9$, two $2.86$, three $2.857$; $26.37\div31=0.8506\cdots$, one $0.9$, two $0.85$, three $0.851$; $45.5\div38=1.1973\cdots$, one $1.2$, two $1.20$, three $1.197$. $\blacksquare$
+$40\div14=2.8571\cdots$, one decimal $2.9$, two $2.86$, three $2.857$; $26.37\div31=0.8506\cdots$, one $0.9$, two $0.85$, three $0.851$; $45.5\div38=1.1973\cdots$, one $1.2$, two $1.20$, three $1.197$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -146,7 +176,9 @@ $40\div14=2.8571\cdots$, one decimal $2.9$, two $2.86$, three $2.857$; $26.37\di
 
 ### Solution to Exercise 16
 
-$134\div9=14.888\cdots\approx14.89$ times. $\blacksquare$
+$134\div9=14.888\cdots\approx14.89$ times.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -154,7 +186,9 @@ $134\div9=14.888\cdots\approx14.89$ times. $\blacksquare$
 
 ### Solution to Exercise 17
 
-$7.74\div3=2.58$ m. $\blacksquare$
+$7.74\div3=2.58$ m.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -162,4 +196,6 @@ $7.74\div3=2.58$ m. $\blacksquare$
 
 ### Solution to Exercise 18
 
-Total money $24.2+16.4=40.6$ yuan. Juvenile Science per copy $40.6\div7=5.8$ yuan. Jump rope each $40.6\div14=2.9$ yuan. $\blacksquare$
+Total money $24.2+16.4=40.6$ yuan. Juvenile Science per copy $40.6\div7=5.8$ yuan. Jump rope each $40.6\div14=2.9$ yuan.
+
+$\blacksquare$

@@ -30,7 +30,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 3.3.2 (The Meaning of Division)**, count the total stools (for example $15$), divide equally among $3$ students: $15\div3=5$ (stools), so each moves $5$ stools. $\blacksquare$
+By **Definition 3.3.2 (The Meaning of Division)**, count the total stools (for example $15$), divide equally among $3$ students: $15\div3=5$ (stools), so each moves $5$ stools.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -38,7 +40,9 @@ By **Definition 3.3.2 (The Meaning of Division)**, count the total stools (for e
 
 ### Solution to Exercise 2
 
-By **Definition 3.3.5 (The Relation Between Multiplication and Division)**, looking at the number of groups and the count per group in the picture, for example $4$ per group and $3$ groups in total, write the multiplications $4\times3=12$, $3\times4=12$ and the divisions $12\div3=4$, $12\div4=3$. $\blacksquare$
+By **Definition 3.3.5 (The Relation Between Multiplication and Division)**, looking at the number of groups and the count per group in the picture, for example $4$ per group and $3$ groups in total, write the multiplications $4\times3=12$, $3\times4=12$ and the divisions $12\div3=4$, $12\div4=3$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -46,7 +50,9 @@ By **Definition 3.3.5 (The Relation Between Multiplication and Division)**, look
 
 ### Solution to Exercise 3
 
-By **Definition 3.3.2 (The Meaning of Division)**, choose your own number of shares and divide the $\bigcirc$ equally (for example $18$ $\bigcirc$ divided into $3$ shares), and write $18\div3=6$; with different ways of dividing, the expression differs accordingly. $\blacksquare$
+By **Definition 3.3.2 (The Meaning of Division)**, choose your own number of shares and divide the $\bigcirc$ equally (for example $18$ $\bigcirc$ divided into $3$ shares), and write $18\div3=6$; with different ways of dividing, the expression differs accordingly.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -54,7 +60,9 @@ By **Definition 3.3.2 (The Meaning of Division)**, choose your own number of sha
 
 ### Solution to Exercise 4
 
-By **Definition 3.3.2 (The Meaning of Division)**, draw $18$ $\bigcirc$, circle every $6$, making exactly $3$ shares; or draw $3$ plates with $6$ on each. $\blacksquare$
+By **Definition 3.3.2 (The Meaning of Division)**, draw $18$ $\bigcirc$, circle every $6$, making exactly $3$ shares; or draw $3$ plates with $6$ on each.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -62,7 +70,9 @@ By **Definition 3.3.2 (The Meaning of Division)**, draw $18$ $\bigcirc$, circle 
 
 ### Solution to Exercise 5
 
-By **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)**, for $12\div3$ think "three (four) twelve", the quotient is $4$, so $4$ monkeys can be served; for $12\div4$ think "(three) four twelve", the quotient is $3$. $\blacksquare$
+By **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)**, for $12\div3$ think "three (four) twelve", the quotient is $4$, so $4$ monkeys can be served; for $12\div4$ think "(three) four twelve", the quotient is $3$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -70,7 +80,9 @@ By **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)**, for $
 
 ### Solution to Exercise 6
 
-By **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)**, for $6\div3$ think "three (two) is six", the quotient is $2$, so each gets $2$. $\blacksquare$
+By **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)**, for $6\div3$ think "three (two) is six", the quotient is $2$, so each gets $2$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -78,7 +90,9 @@ By **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)**, for $
 
 ### Solution to Exercise 7
 
-By **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)**: $12\div6=2$, rhyme "(two) six twelve"; $10\div2=5$, rhyme "two (five) ten"; $8\div4=2$, rhyme "(two) four is eight". $\blacksquare$
+By **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)**: $12\div6=2$, rhyme "(two) six twelve"; $10\div2=5$, rhyme "two (five) ten"; $8\div4=2$, rhyme "(two) four is eight".
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -86,7 +100,9 @@ By **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)**: $12\d
 
 ### Solution to Exercise 8
 
-By **Definition 3.3.5 (The Relation Between Multiplication and Division)** and **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)**, $24\div4=6$, think "four (six) twenty-four", the quotient is $6$; $24\div6=4$, think "(four) six twenty-four", the quotient is $4$. $\blacksquare$
+By **Definition 3.3.5 (The Relation Between Multiplication and Division)** and **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)**, $24\div4=6$, think "four (six) twenty-four", the quotient is $6$; $24\div6=4$, think "(four) six twenty-four", the quotient is $4$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -94,7 +110,9 @@ By **Definition 3.3.5 (The Relation Between Multiplication and Division)** and *
 
 ### Solution to Exercise 9
 
-By **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)**: $16\div4=4$, rhyme "four four sixteen"; $30\div5=6$, rhyme "five six thirty"; $30\div6=5$, rhyme "six five thirty" (i.e. five six thirty). $\blacksquare$
+By **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)**: $16\div4=4$, rhyme "four four sixteen"; $30\div5=6$, rhyme "five six thirty"; $30\div6=5$, rhyme "six five thirty" (i.e. five six thirty).
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -102,7 +120,9 @@ By **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)**: $16\d
 
 ### Solution to Exercise 10
 
-By **Definition 3.3.2 (The Meaning of Division)**, the first problem is "divide $15$ yuan equally into $3$ shares": $15\div3=5$ (yuan), so each is $5$ yuan; the second is "find how many copies of $5$ yuan are in $15$ yuan": $15\div5=3$ (cups), so you can buy $3$. Both use division, but from different angles. $\blacksquare$
+By **Definition 3.3.2 (The Meaning of Division)**, the first problem is "divide $15$ yuan equally into $3$ shares": $15\div3=5$ (yuan), so each is $5$ yuan; the second is "find how many copies of $5$ yuan are in $15$ yuan": $15\div5=3$ (cups), so you can buy $3$. Both use division, but from different angles.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -110,7 +130,9 @@ By **Definition 3.3.2 (The Meaning of Division)**, the first problem is "divide 
 
 ### Solution to Exercise 11
 
-By **Definition 3.3.2 (The Meaning of Division)**, first compute the price per pair: the first is $20\div5=4$ (yuan), the second is $30\div6=5$ (yuan); since $4<5$, the pack of $5$ pairs priced at $20$ yuan is cheaper. $\blacksquare$
+By **Definition 3.3.2 (The Meaning of Division)**, first compute the price per pair: the first is $20\div5=4$ (yuan), the second is $30\div6=5$ (yuan); since $4<5$, the pack of $5$ pairs priced at $20$ yuan is cheaper.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -118,7 +140,9 @@ By **Definition 3.3.2 (The Meaning of Division)**, first compute the price per p
 
 ### Solution to Exercise 12
 
-By **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)** and **Definition 3.2.3 (Multiplication Rhymes)**: $18\div3=6$, $6\times2=12$, $10\div5=2$, $22-3=19$; $12+8=20$, $24\div4=6$, $28-9=19$, $9\div3=3$; $25\div5=5$, $18+4=22$, $30\div6=5$, $4\times6=24$. $\blacksquare$
+By **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)** and **Definition 3.2.3 (Multiplication Rhymes)**: $18\div3=6$, $6\times2=12$, $10\div5=2$, $22-3=19$; $12+8=20$, $24\div4=6$, $28-9=19$, $9\div3=3$; $25\div5=5$, $18+4=22$, $30\div6=5$, $4\times6=24$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -126,7 +150,9 @@ By **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)** and **
 
 ### Solution to Exercise 13
 
-By **Definition 3.3.5 (The Relation Between Multiplication and Division)**, $5\times6=30$ means $6$ copies of $5$ add to $30$; $30\div6=5$ means dividing $30$ equally into $6$ shares of $5$ each; $30\div5=6$ means $30$ contains $6$ copies of $5$. The three expressions use the same rhyme "five six thirty". $\blacksquare$
+By **Definition 3.3.5 (The Relation Between Multiplication and Division)**, $5\times6=30$ means $6$ copies of $5$ add to $30$; $30\div6=5$ means dividing $30$ equally into $6$ shares of $5$ each; $30\div5=6$ means $30$ contains $6$ copies of $5$. The three expressions use the same rhyme "five six thirty".
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -134,7 +160,9 @@ By **Definition 3.3.5 (The Relation Between Multiplication and Division)**, $5\t
 
 ### Solution to Exercise 14
 
-By **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)**: $4\div4=1$, $6\div1=6$; $5\div5=1$, $3\div1=3$; $6\div6=1$, $2\div1=2$. Notice: a number divided by itself gives $1$, and a number divided by $1$ is still that number. For example $7\div7=1$, $8\div1=8$. $\blacksquare$
+By **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)**: $4\div4=1$, $6\div1=6$; $5\div5=1$, $3\div1=3$; $6\div6=1$, $2\div1=2$. Notice: a number divided by itself gives $1$, and a number divided by $1$ is still that number. For example $7\div7=1$, $8\div1=8$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -142,7 +170,9 @@ By **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)**: $4\di
 
 ### Solution to Exercise 15
 
-(1) find $6$ copies of $5$ yuan: $5\times6=30$ (yuan); (2) find how many copies of $4$ yuan are in $24$ yuan: $24\div4=6$ (cups); (3) raise a problem such as "how many toothbrushes can you buy with $18$ yuan?" and solve it as $18\div6=3$ (brushes). $\blacksquare$
+(1) find $6$ copies of $5$ yuan: $5\times6=30$ (yuan); (2) find how many copies of $4$ yuan are in $24$ yuan: $24\div4=6$ (cups); (3) raise a problem such as "how many toothbrushes can you buy with $18$ yuan?" and solve it as $18\div6=3$ (brushes).
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -150,7 +180,9 @@ By **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)**: $4\di
 
 ### Solution to Exercise 16
 
-By **Definition 3.3.2 (The Meaning of Division)**, (1) find how many copies of $3$ are in $15$: $15\div3=5$ (classes); (2) divide $15$ equally into $5$ shares: $15\div5=3$ (each). $\blacksquare$
+By **Definition 3.3.2 (The Meaning of Division)**, (1) find how many copies of $3$ are in $15$: $15\div3=5$ (classes); (2) divide $15$ equally into $5$ shares: $15\div5=3$ (each).
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -158,7 +190,9 @@ By **Definition 3.3.2 (The Meaning of Division)**, (1) find how many copies of $
 
 ### Solution to Exercise 17
 
-By **Definition 3.3.2 (The Meaning of Division)**, divide $12$ yuan equally into $3$ shares: $12\div3=4$ (yuan), so each person gets $4$ yuan. $\blacksquare$
+By **Definition 3.3.2 (The Meaning of Division)**, divide $12$ yuan equally into $3$ shares: $12\div3=4$ (yuan), so each person gets $4$ yuan.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -166,4 +200,6 @@ By **Definition 3.3.2 (The Meaning of Division)**, divide $12$ yuan equally into
 
 ### Solution to Exercise 18
 
-By **Definition 3.3.5 (The Relation Between Multiplication and Division)**, draw $3$ plates with $4$ apples each: $3\times4=12$ finds the total; $4\times3=12$ swaps the factors; $12\div3=4$ finds the number per plate; $12\div4=3$ finds the number of plates. The four expressions use the same rhyme "three four is twelve". $\blacksquare$
+By **Definition 3.3.5 (The Relation Between Multiplication and Division)**, draw $3$ plates with $4$ apples each: $3\times4=12$ finds the total; $4\times3=12$ swaps the factors; $12\div3=4$ finds the number per plate; $12\div4=3$ finds the number of plates. The four expressions use the same rhyme "three four is twelve".
+
+$\blacksquare$

@@ -98,7 +98,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 7.4.2 (Written Multiplication)**: $39\times84=3276$, $207\times22=4554$, $420\times64=26880$, $43\times125=5375$, $605\times30=18150$, $15\times340=5100$. $\blacksquare$
+By **Definition 7.4.2 (Written Multiplication)**: $39\times84=3276$, $207\times22=4554$, $420\times64=26880$, $43\times125=5375$, $605\times30=18150$, $15\times340=5100$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -106,7 +108,9 @@ By **Definition 7.4.2 (Written Multiplication)**: $39\times84=3276$, $207\times2
 
 ### Solution to Exercise 2
 
-By **Definition 7.4.3 (Rules for How the Product Changes)**: (1) $43\times21=903$, $43\times700=30100$; (2) $150\times40=6000$, $75\times20=1500$; (3) $\left(★\times2\right)\times\triangle=360$, $\left(★\div9\right)\times\triangle=20$. $\blacksquare$
+By **Definition 7.4.3 (Rules for How the Product Changes)**: (1) $43\times21=903$, $43\times700=30100$; (2) $150\times40=6000$, $75\times20=1500$; (3) $\left(★\times2\right)\times\triangle=360$, $\left(★\div9\right)\times\triangle=20$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -114,7 +118,9 @@ By **Definition 7.4.3 (Rules for How the Product Changes)**: (1) $43\times21=903
 
 ### Solution to Exercise 3
 
-By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**: apple total price $=56\times75=4200$ yuan; grape quantity $=405\div38\approx10.66$ boxes (according to the actual data); oranges are calculated according to the actual data. $\blacksquare$
+By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**: apple total price $=56\times75=4200$ yuan; grape quantity $=405\div38\approx10.66$ boxes (according to the actual data); oranges are calculated according to the actual data.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -122,7 +128,9 @@ By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**: apple total price $
 
 ### Solution to Exercise 4
 
-By **Definition 7.3.2 (Classification of Angles)**, folding the rectangular paper twice gives a $90^{\circ}$ angle, folding once more bisects the right angle to give $45^{\circ}$, and $135^{\circ}=90^{\circ}+45^{\circ}$. $\blacksquare$
+By **Definition 7.3.2 (Classification of Angles)**, folding the rectangular paper twice gives a $90^{\circ}$ angle, folding once more bisects the right angle to give $45^{\circ}$, and $135^{\circ}=90^{\circ}+45^{\circ}$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -130,7 +138,9 @@ By **Definition 7.3.2 (Classification of Angles)**, folding the rectangular pape
 
 ### Solution to Exercise 5
 
-By **Definition 7.3.2 (Classification of Angles)**: $65^{\circ}$ is an acute angle, $142^{\circ}$ is an obtuse angle, $180^{\circ}$ is a straight angle, $360^{\circ}$ is a full angle. $\blacksquare$
+By **Definition 7.3.2 (Classification of Angles)**: $65^{\circ}$ is an acute angle, $142^{\circ}$ is an obtuse angle, $180^{\circ}$ is a straight angle, $360^{\circ}$ is a full angle.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -138,7 +148,9 @@ By **Definition 7.3.2 (Classification of Angles)**: $65^{\circ}$ is an acute ang
 
 ### Solution to Exercise 6
 
-By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: (1) A square and B rectangle; (2) D trapezoid; (3) A, B, C. $\blacksquare$
+By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: (1) A square and B rectangle; (2) D trapezoid; (3) A, B, C.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -146,7 +158,9 @@ By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: (1
 
 ### Solution to Exercise 7
 
-By **Definition 7.6.4 (Trapezoid)**, through one endpoint of the upper base draw a line parallel to a leg, meeting the lower base; the left part is a parallelogram and the right part is a triangle. $\blacksquare$
+By **Definition 7.6.4 (Trapezoid)**, through one endpoint of the upper base draw a line parallel to a leg, meeting the lower base; the left part is a parallelogram and the right part is a triangle.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -154,7 +168,9 @@ By **Definition 7.6.4 (Trapezoid)**, through one endpoint of the upper base draw
 
 ### Solution to Exercise 8
 
-Buy $5$ get $1$ free, i.e. paying for $5$ cases gets $6$ cases. $480\div6=80$ groups, each group costs $5\times36=180$ yuan, for a total of $80\times180=14400$ yuan. $\blacksquare$
+Buy $5$ get $1$ free, i.e. paying for $5$ cases gets $6$ cases. $480\div6=80$ groups, each group costs $5\times36=180$ yuan, for a total of $80\times180=14400$ yuan.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -162,7 +178,9 @@ Buy $5$ get $1$ free, i.e. paying for $5$ cases gets $6$ cases. $480\div6=80$ gr
 
 ### Solution to Exercise 9
 
-$2$ minutes $=120$ seconds, the train travels $83\times120=9960$ m in total, so the tunnel length $=9960-375=9585$ m. $\blacksquare$
+$2$ minutes $=120$ seconds, the train travels $83\times120=9960$ m in total, so the tunnel length $=9960-375=9585$ m.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -170,7 +188,9 @@ $2$ minutes $=120$ seconds, the train travels $83\times120=9960$ m in total, so 
 
 ### Solution to Exercise 10
 
-By **Definition 7.7.2 (Double Bar Chart)**: (2) traditional music is the largest in the first batch at $72$, and folk literature is the smallest in the third batch at $41$. $\blacksquare$
+By **Definition 7.7.2 (Double Bar Chart)**: (2) traditional music is the largest in the first batch at $72$, and folk literature is the smallest in the third batch at $41$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -178,7 +198,9 @@ By **Definition 7.7.2 (Double Bar Chart)**: (2) traditional music is the largest
 
 ### Solution to Exercise 11
 
-$29\times88=2552$ yuan, $29\times123=3567$ yuan, $29\times168=4872$ yuan. With $3600$ yuan and some change, the closest is the $123$ yuan one; actually $3567$ yuan was spent, and the change is $3600-3567=33$ yuan. $\blacksquare$
+$29\times88=2552$ yuan, $29\times123=3567$ yuan, $29\times168=4872$ yuan. With $3600$ yuan and some change, the closest is the $123$ yuan one; actually $3567$ yuan was spent, and the change is $3600-3567=33$ yuan.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -186,7 +208,9 @@ $29\times88=2552$ yuan, $29\times123=3567$ yuan, $29\times168=4872$ yuan. With $
 
 ### Solution to Exercise 12
 
-Assuming all are chickens, there should be $16$ legs; the excess is $28-16=12$ legs. Each time a chicken is replaced by a rabbit adds $2$ legs, so rabbits $=12\div2=6$, and chickens $=8-6=2$. $\blacksquare$
+Assuming all are chickens, there should be $16$ legs; the excess is $28-16=12$ legs. Each time a chicken is replaced by a rabbit adds $2$ legs, so rabbits $=12\div2=6$, and chickens $=8-6=2$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -194,7 +218,9 @@ Assuming all are chickens, there should be $16$ legs; the excess is $28-16=12$ l
 
 ### Solution to Exercise 13
 
-The ancient method: $94\div2=47$, rabbits $=47-35=12$, chickens $=35-12=23$. $\blacksquare$
+The ancient method: $94\div2=47$, rabbits $=47-35=12$, chickens $=35-12=23$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -202,7 +228,9 @@ The ancient method: $94\div2=47$, rabbits $=47-35=12$, chickens $=35-12=23$. $\b
 
 ### Solution to Exercise 14
 
-Let there be $x$ big monks and $100-x$ little monks. $3x+\left(100-x\right)\div3=100$, solving gives $x=25$, so there are $25$ big monks and $75$ little monks. $\blacksquare$
+Let there be $x$ big monks and $100-x$ little monks. $3x+\left(100-x\right)\div3=100$, solving gives $x=25$, so there are $25$ big monks and $75$ little monks.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -210,7 +238,9 @@ Let there be $x$ big monks and $100-x$ little monks. $3x+\left(100-x\right)\div3
 
 ### Solution to Exercise 15
 
-By **Definition 8.1.2 (Meaning of Subtraction and the Relationships Among Its Parts)**, subtraction is the inverse of addition; subtracting one addend from the sum gives the other addend: $3043-2468=575$, $3043-575=2468$. $\blacksquare$
+By **Definition 8.1.2 (Meaning of Subtraction and the Relationships Among Its Parts)**, subtraction is the inverse of addition; subtracting one addend from the sum gives the other addend: $3043-2468=575$, $3043-575=2468$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -218,7 +248,9 @@ By **Definition 8.1.2 (Meaning of Subtraction and the Relationships Among Its Pa
 
 ### Solution to Exercise 16
 
-(1) By **Definition 8.1.1 (Meaning of Addition and the Relationships Among Its Parts)**, combine the morning and afternoon with addition: $86+59=145$ (tickets). (2) By **Definition 8.1.2 (Meaning of Subtraction and the Relationships Among Its Parts)**, given the total and one part, find the other part with subtraction: $145-86=59$ (tickets). (3) Sold plus remaining equals purchased, use addition: $370+630=1000$ (books). (4) Total minus boys gives girls, use subtraction: $843-418=425$ (people). $\blacksquare$
+(1) By **Definition 8.1.1 (Meaning of Addition and the Relationships Among Its Parts)**, combine the morning and afternoon with addition: $86+59=145$ (tickets). (2) By **Definition 8.1.2 (Meaning of Subtraction and the Relationships Among Its Parts)**, given the total and one part, find the other part with subtraction: $145-86=59$ (tickets). (3) Sold plus remaining equals purchased, use addition: $370+630=1000$ (books). (4) Total minus boys gives girls, use subtraction: $843-418=425$ (people).
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -226,4 +258,6 @@ By **Definition 8.1.2 (Meaning of Subtraction and the Relationships Among Its Pa
 
 ### Solution to Exercise 17
 
-By **Definition 8.1.1 (Addition)** and **Definition 8.1.2 (Subtraction)**, which are inverse operations: $28+19=47\to47-28=19,47-19=28$; $203+147=350\to350-203=147,350-147=203$; $850-239=611\to850-611=239,611+239=850$; $67-55=12\to67-12=55,55+12=67$. $\blacksquare$
+By **Definition 8.1.1 (Addition)** and **Definition 8.1.2 (Subtraction)**, which are inverse operations: $28+19=47\to47-28=19,47-19=28$; $203+147=350\to350-203=147,350-147=203$; $850-239=611\to850-611=239,611+239=850$; $67-55=12\to67-12=55,55+12=67$.
+
+$\blacksquare$

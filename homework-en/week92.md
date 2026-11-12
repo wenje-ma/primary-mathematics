@@ -54,7 +54,9 @@
 
 ### Solution to Exercise 1
 
-(1) By **Definition 8.5.7 (Interior-Angle Sum)**, the sum of the other two angles is $90^\circ$, e.g. $30^\circ$ and $60^\circ$, or $45^\circ$ and $45^\circ$. (2) By **Definition 8.5.4 (Relationship Among the Three Sides)**, $4-3<$ third side $<4+3$, i.e. $1<$ third side $<7$, so it can be $2,3,4,5,6\,\mathrm{cm}$. $\blacksquare$
+(1) By **Definition 8.5.7 (Interior-Angle Sum)**, the sum of the other two angles is $90^\circ$, e.g. $30^\circ$ and $60^\circ$, or $45^\circ$ and $45^\circ$. (2) By **Definition 8.5.4 (Relationship Among the Three Sides)**, $4-3<$ third side $<4+3$, i.e. $1<$ third side $<7$, so it can be $2,3,4,5,6\,\mathrm{cm}$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -62,7 +64,9 @@
 
 ### Solution to Exercise 2
 
-Count one by one the small triangles and the triangles formed by combining them. Pattern: drawing several lines from one vertex to the opposite side, the number of triangles $=1+2+3+\cdots$. Count according to the actual figure. $\blacksquare$
+Count one by one the small triangles and the triangles formed by combining them. Pattern: drawing several lines from one vertex to the opposite side, the number of triangles $=1+2+3+\cdots$. Count according to the actual figure.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -70,7 +74,9 @@ Count one by one the small triangles and the triangles formed by combining them.
 
 ### Solution to Exercise 3
 
-By **Definition 8.6.1 (How to Add and Subtract Decimals)**, align the decimal points: $2.98+0.56=3.54$; $12.53+4.67=17.20=17.2$; $6.07+4.89=10.96$; $5.64-1.78=3.86$; $7.2-0.8=6.4$; $15.62-7.46=8.16$. $\blacksquare$
+By **Definition 8.6.1 (How to Add and Subtract Decimals)**, align the decimal points: $2.98+0.56=3.54$; $12.53+4.67=17.20=17.2$; $6.07+4.89=10.96$; $5.64-1.78=3.86$; $7.2-0.8=6.4$; $15.62-7.46=8.16$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -78,7 +84,9 @@ By **Definition 8.6.1 (How to Add and Subtract Decimals)**, align the decimal po
 
 ### Solution to Exercise 4
 
-(1) $38.8-26.7=12.1$ ($\mathrm{kg}$). (2) Each year's increase: $30.6-26.7=3.9$, $34.5-30.6=3.9$, $38.8-34.5=4.3$; the year at age $9$ saw the largest increase, gaining $4.3\,\mathrm{kg}$. $\blacksquare$
+(1) $38.8-26.7=12.1$ ($\mathrm{kg}$). (2) Each year's increase: $30.6-26.7=3.9$, $34.5-30.6=3.9$, $38.8-34.5=4.3$; the year at age $9$ saw the largest increase, gaining $4.3\,\mathrm{kg}$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -86,7 +94,9 @@ By **Definition 8.6.1 (How to Add and Subtract Decimals)**, align the decimal po
 
 ### Solution to Exercise 5
 
-By **Definition 8.6.1 (align the decimal points and pad with $0$ when digits are lacking)**: $12+0.5=12.5$; $12.56+5.8=18.36$; $113.04+7.8=120.84$; $27-0.8=26.2$; $16.4-3.2=13.2$; $0.3-0.18=0.12$. $\blacksquare$
+By **Definition 8.6.1 (align the decimal points and pad with $0$ when digits are lacking)**: $12+0.5=12.5$; $12.56+5.8=18.36$; $113.04+7.8=120.84$; $27-0.8=26.2$; $16.4-3.2=13.2$; $0.3-0.18=0.12$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -94,7 +104,9 @@ By **Definition 8.6.1 (align the decimal points and pad with $0$ when digits are
 
 ### Solution to Exercise 6
 
-$2.5+0.9=3.4$; $7.8+1.6=9.4$; $0.39+0.15=0.54$; $1.2-0.5=0.7$; $4.7-2.8=1.9$; $0.96-0.33=0.63$. $\blacksquare$
+$2.5+0.9=3.4$; $7.8+1.6=9.4$; $0.39+0.15=0.54$; $1.2-0.5=0.7$; $4.7-2.8=1.9$; $0.96-0.33=0.63$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -102,7 +114,9 @@ $2.5+0.9=3.4$; $7.8+1.6=9.4$; $0.39+0.15=0.54$; $1.2-0.5=0.7$; $4.7-2.8=1.9$; $0
 
 ### Solution to Exercise 7
 
-By **Definition 8.6.1 (Adding and Subtracting Decimals)**: $3.64+0.48=4.12$; $21.56+6.74=28.30$; $7.85+9.19=17.04$; $41.2-15.6=25.6$; $8.24-3.56=4.68$; $11.65-7.39=4.26$. $\blacksquare$
+By **Definition 8.6.1 (Adding and Subtracting Decimals)**: $3.64+0.48=4.12$; $21.56+6.74=28.30$; $7.85+9.19=17.04$; $41.2-15.6=25.6$; $8.24-3.56=4.68$; $11.65-7.39=4.26$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -110,7 +124,9 @@ By **Definition 8.6.1 (Adding and Subtracting Decimals)**: $3.64+0.48=4.12$; $21
 
 ### Solution to Exercise 8
 
-By **Definition 8.6.1 (Subtracting Decimals)**, the water's mass is the total mass of cup and water minus the empty cup's mass. Subtract using the data in the figure. $\blacksquare$
+By **Definition 8.6.1 (Subtracting Decimals)**, the water's mass is the total mass of cup and water minus the empty cup's mass. Subtract using the data in the figure.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -118,7 +134,9 @@ By **Definition 8.6.1 (Subtracting Decimals)**, the water's mass is the total ma
 
 ### Solution to Exercise 9
 
-Month $4$ subtotal $83.54+80=163.54$ yuan; month $5$ subtotal $79.26+80=159.26$ yuan; phone bill total $83.54+79.26=162.80$ yuan; the two-month grand total $163.54+159.26=322.80$ yuan. $\blacksquare$
+Month $4$ subtotal $83.54+80=163.54$ yuan; month $5$ subtotal $79.26+80=159.26$ yuan; phone bill total $83.54+79.26=162.80$ yuan; the two-month grand total $163.54+159.26=322.80$ yuan.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -126,7 +144,9 @@ Month $4$ subtotal $83.54+80=163.54$ yuan; month $5$ subtotal $79.26+80=159.26$ 
 
 ### Solution to Exercise 10
 
-By **Definition 8.6.1 (the decimal points must be aligned)**, check each vertical calculation; wherever the decimal points are not aligned or there is an error in carrying or borrowing, correct it. $\blacksquare$
+By **Definition 8.6.1 (the decimal points must be aligned)**, check each vertical calculation; wherever the decimal points are not aligned or there is an error in carrying or borrowing, correct it.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -134,7 +154,9 @@ By **Definition 8.6.1 (the decimal points must be aligned)**, check each vertica
 
 ### Solution to Exercise 11
 
-First convert to decimals, then calculate by **Definition 8.6.1 (Decimal Addition/Subtraction)**: $5.62+3.09=8.71$ yuan; $1.03+0.98=2.01\,\mathrm{t}$; $4.35+5.70=10.05\,\mathrm{m}$; $10-4.8=5.2\,\mathrm{kg}$; $4.8-3.05=1.75\,\mathrm{km}$; $6-2.86=3.14\,\mathrm{km}$. $\blacksquare$
+First convert to decimals, then calculate by **Definition 8.6.1 (Decimal Addition/Subtraction)**: $5.62+3.09=8.71$ yuan; $1.03+0.98=2.01\,\mathrm{t}$; $4.35+5.70=10.05\,\mathrm{m}$; $10-4.8=5.2\,\mathrm{kg}$; $4.8-3.05=1.75\,\mathrm{km}$; $6-2.86=3.14\,\mathrm{km}$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -142,7 +164,9 @@ First convert to decimals, then calculate by **Definition 8.6.1 (Decimal Additio
 
 ### Solution to Exercise 12
 
-Choose one soccer ball and one volleyball from the $4$ balls and add the two prices, e.g. $58+45.50=103.50$ yuan, $58+92.50=150.50$ yuan, $75.80+45.50=121.30$ yuan, $75.80+92.50=168.30$ yuan; the answer is not unique. $\blacksquare$
+Choose one soccer ball and one volleyball from the $4$ balls and add the two prices, e.g. $58+45.50=103.50$ yuan, $58+92.50=150.50$ yuan, $75.80+45.50=121.30$ yuan, $75.80+92.50=168.30$ yuan; the answer is not unique.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -150,7 +174,9 @@ Choose one soccer ball and one volleyball from the $4$ balls and add the two pri
 
 ### Solution to Exercise 13
 
-By **Definition 8.6.1 (Subtracting Decimals)**, subtract the Chinese record from the world record: high jump $2.09-1.97=0.12\,\mathrm{m}$; long jump $7.52-7.01=0.51\,\mathrm{m}$; shot put $22.63-21.76=0.87\,\mathrm{m}$; discus $76.80-71.68=5.12\,\mathrm{m}$; javelin $72.28-67.98=4.30\,\mathrm{m}$; $100\,\mathrm{m}$ $10.79-10.49=0.30$s. $\blacksquare$
+By **Definition 8.6.1 (Subtracting Decimals)**, subtract the Chinese record from the world record: high jump $2.09-1.97=0.12\,\mathrm{m}$; long jump $7.52-7.01=0.51\,\mathrm{m}$; shot put $22.63-21.76=0.87\,\mathrm{m}$; discus $76.80-71.68=5.12\,\mathrm{m}$; javelin $72.28-67.98=4.30\,\mathrm{m}$; $100\,\mathrm{m}$ $10.79-10.49=0.30$s.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -158,7 +184,9 @@ By **Definition 8.6.1 (Subtracting Decimals)**, subtract the Chinese record from
 
 ### Solution to Exercise 14
 
-(1) Add $0.2$ each time: $1.0,1.2$; (2) add $0.05$ each time: $1.31,1.36$; (3) add $0.003$ each time: $4.375,4.378$; (4) subtract $0.005$ each time: $7.877,7.872$. $\blacksquare$
+(1) Add $0.2$ each time: $1.0,1.2$; (2) add $0.05$ each time: $1.31,1.36$; (3) add $0.003$ each time: $4.375,4.378$; (4) subtract $0.005$ each time: $7.877,7.872$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -166,4 +194,6 @@ By **Definition 8.6.1 (Subtracting Decimals)**, subtract the Chinese record from
 
 ### Solution to Exercise 15
 
-By **Definition 8.6.2 (Mixed Addition and Subtraction of Decimals)**: $0.38+0.26+2.6=3.24$; $5.7-0.81-1.29=5.7-2.1=3.6$; $98.2+32.5-13.4=117.3$. $\blacksquare$
+By **Definition 8.6.2 (Mixed Addition and Subtraction of Decimals)**: $0.38+0.26+2.6=3.24$; $5.7-0.81-1.29=5.7-2.1=3.6$; $98.2+32.5-13.4=117.3$.
+
+$\blacksquare$

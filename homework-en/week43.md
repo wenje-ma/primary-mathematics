@@ -50,7 +50,9 @@
 
 ### Solution to Exercise 1
 
-Choose ①②A: butterflies $6+10=16$; choose ①③B: mantises $6\times3=18$; choose ①②C: together $6+16=22$. (2) E.g. asking all three together also needs the mantises counted in. $\blacksquare$
+Choose ①②A: butterflies $6+10=16$; choose ①③B: mantises $6\times3=18$; choose ①②C: together $6+16=22$. (2) E.g. asking all three together also needs the mantises counted in.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -58,7 +60,9 @@ Choose ①②A: butterflies $6+10=16$; choose ①③B: mantises $6\times3=18$; c
 
 ### Solution to Exercise 2
 
-(1) $10:30-10:00=30$ minutes. (2) $8:20$ start for $40$ minutes ends at $9:00$. (3) Period 3 is $10:30$—$11:10$, with a $5$-minute break, Period 4 is $11:15$—$11:55$. $\blacksquare$
+(1) $10:30-10:00=30$ minutes. (2) $8:20$ start for $40$ minutes ends at $9:00$. (3) Period 3 is $10:30$—$11:10$, with a $5$-minute break, Period 4 is $11:15$—$11:55$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -66,7 +70,9 @@ Choose ①②A: butterflies $6+10=16$; choose ①③B: mantises $6\times3=18$; c
 
 ### Solution to Exercise 3
 
-By **Definition 4.2.2 (Remainder Less Than Divisor)**, the remainder is $6$, so the divisor must be greater than $6$, i.e. the divisor can be $7,8,9,\cdots\cdots$. Divisor $7$, dividend $=7\times6+6=48$, i.e. $48\div7=6\cdots\cdots6$; divisor $8$, $54\div8=6\cdots\cdots6$; divisor $9$, $60\div9=6\cdots\cdots6$. There are infinitely many ways (any divisor greater than $6$). $\blacksquare$
+By **Definition 4.2.2 (Remainder Less Than Divisor)**, the remainder is $6$, so the divisor must be greater than $6$, i.e. the divisor can be $7,8,9,\cdots\cdots$. Divisor $7$, dividend $=7\times6+6=48$, i.e. $48\div7=6\cdots\cdots6$; divisor $8$, $54\div8=6\cdots\cdots6$; divisor $9$, $60\div9=6\cdots\cdots6$. There are infinitely many ways (any divisor greater than $6$).
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -74,7 +80,9 @@ By **Definition 4.2.2 (Remainder Less Than Divisor)**, the remainder is $6$, so 
 
 ### Solution to Exercise 4
 
-By **Definition 5.1.1 (Observing Objects from Different Directions)**, the four people stand in different directions and see different faces, so they look different. Connect each person's standing direction to the shape seen in the picture; two people looking from opposite directions see the same shape. $\blacksquare$
+By **Definition 5.1.1 (Observing Objects from Different Directions)**, the four people stand in different directions and see different faces, so they look different. Connect each person's standing direction to the shape seen in the picture; two people looking from opposite directions see the same shape.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -82,7 +90,9 @@ By **Definition 5.1.1 (Observing Objects from Different Directions)**, the four 
 
 ### Solution to Exercise 5
 
-By **Definition 5.1.1 (Observing Objects from Different Directions)**, the numbers on two opposite faces sum to $7$. Given the number on the front face, the number Xiaohong sees from the back is $7$ minus it; the number Xiaoliang sees from the top is filled by the number on the top face. The three numbers in order are: the number on the front face, $7-$ the number on the front face, and the number on the top face. $\blacksquare$
+By **Definition 5.1.1 (Observing Objects from Different Directions)**, the numbers on two opposite faces sum to $7$. Given the number on the front face, the number Xiaohong sees from the back is $7$ minus it; the number Xiaoliang sees from the top is filled by the number on the top face. The three numbers in order are: the number on the front face, $7-$ the number on the front face, and the number on the top face.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -90,7 +100,9 @@ By **Definition 5.1.1 (Observing Objects from Different Directions)**, the numbe
 
 ### Solution to Exercise 6
 
-By **Definition 5.1.2 (Inferring a Solid from a Seen Face)**, it may be a cube (since all faces of a cube are squares), or another solid with one square face; it cannot be determined from one face alone. $\blacksquare$
+By **Definition 5.1.2 (Inferring a Solid from a Seen Face)**, it may be a cube (since all faces of a cube are squares), or another solid with one square face; it cannot be determined from one face alone.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -98,7 +110,9 @@ By **Definition 5.1.2 (Inferring a Solid from a Seen Face)**, it may be a cube (
 
 ### Solution to Exercise 7
 
-By **Definition 5.1.3 (The Net of a Cuboid)**, a cuboid has $6$ faces, and when unfolded it must form one flat figure. A closed cuboid box has $12$ edges (seams); unfolding it into one connected flat figure requires cutting $5$ edges (keeping $7$ edges joined). Cutting different edges gives nets of different shapes. $\blacksquare$
+By **Definition 5.1.3 (The Net of a Cuboid)**, a cuboid has $6$ faces, and when unfolded it must form one flat figure. A closed cuboid box has $12$ edges (seams); unfolding it into one connected flat figure requires cutting $5$ edges (keeping $7$ edges joined). Cutting different edges gives nets of different shapes.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -106,7 +120,9 @@ By **Definition 5.1.3 (The Net of a Cuboid)**, a cuboid has $6$ faces, and when 
 
 ### Solution to Exercise 8
 
-By **Definition 5.1.3 (The Net of a Cuboid)**, first locate the "front" in the net; opposite the front is the "back"; after folding, check whether the marked directions match the actual viewing directions. $\blacksquare$
+By **Definition 5.1.3 (The Net of a Cuboid)**, first locate the "front" in the net; opposite the front is the "back"; after folding, check whether the marked directions match the actual viewing directions.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -114,7 +130,9 @@ By **Definition 5.1.3 (The Net of a Cuboid)**, first locate the "front" in the n
 
 ### Solution to Exercise 9
 
-By **Definition 5.1.1 (Observing Objects from Different Directions)**, catch the face features of each direction: from the front you see the front, from the top the top, from the side the side. Fill ①, ②, ③ per the viewing position each picture corresponds to. $\blacksquare$
+By **Definition 5.1.1 (Observing Objects from Different Directions)**, catch the face features of each direction: from the front you see the front, from the top the top, from the side the side. Fill ①, ②, ③ per the viewing position each picture corresponds to.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -122,7 +140,9 @@ By **Definition 5.1.1 (Observing Objects from Different Directions)**, catch the
 
 ### Solution to Exercise 10
 
-By **Definition 5.1.1 (Observing Objects from Different Directions)**, from the top the cuboid looks like a rectangle and the cylinder like a circle; from the side the cuboid looks like a rectangle and the cylinder like a rectangle. Pick the matching figures by the three people's directions, and from that state how the cuboid and cylinder are placed. $\blacksquare$
+By **Definition 5.1.1 (Observing Objects from Different Directions)**, from the top the cuboid looks like a rectangle and the cylinder like a circle; from the side the cuboid looks like a rectangle and the cylinder like a rectangle. Pick the matching figures by the three people's directions, and from that state how the cuboid and cylinder are placed.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -130,7 +150,9 @@ By **Definition 5.1.1 (Observing Objects from Different Directions)**, from the 
 
 ### Solution to Exercise 11
 
-By **Definition 5.1.3 (The Net of a Cuboid)**, just cut the other $5$ edges to get a net different from appendix page 1. Discover: the same cuboid cut along different edges gives different net shapes, but every net has $6$ faces, and each pair of opposite faces has the same shape and size and is not joined. $\blacksquare$
+By **Definition 5.1.3 (The Net of a Cuboid)**, just cut the other $5$ edges to get a net different from appendix page 1. Discover: the same cuboid cut along different edges gives different net shapes, but every net has $6$ faces, and each pair of opposite faces has the same shape and size and is not joined.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -138,7 +160,9 @@ By **Definition 5.1.3 (The Net of a Cuboid)**, just cut the other $5$ edges to g
 
 ### Solution to Exercise 12
 
-By analogy from **Definition 5.1.3 (The Net of a Cuboid)**: a figure that folds into a cube must have $6$ squares, and after folding each face appears once with no overlap. After folding, mark those that fold into a cube with "√"; those that overlap or miss a face cannot fold into one. $\blacksquare$
+By analogy from **Definition 5.1.3 (The Net of a Cuboid)**: a figure that folds into a cube must have $6$ squares, and after folding each face appears once with no overlap. After folding, mark those that fold into a cube with "√"; those that overlap or miss a face cannot fold into one.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -146,7 +170,9 @@ By analogy from **Definition 5.1.3 (The Net of a Cuboid)**: a figure that folds 
 
 ### Solution to Exercise 13
 
-By **Definition 5.1.1 (Observing Objects from Different Directions)**, compare the number, shape, and relative position (above/below, left/right) of the shapes in each combined object; the two with exactly the same composition and position are the same. $\blacksquare$
+By **Definition 5.1.1 (Observing Objects from Different Directions)**, compare the number, shape, and relative position (above/below, left/right) of the shapes in each combined object; the two with exactly the same composition and position are the same.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -154,7 +180,9 @@ By **Definition 5.1.1 (Observing Objects from Different Directions)**, compare t
 
 ### Solution to Exercise 14
 
-By **Definition 5.2.1 (Combined Expressions and Same-Level Order)**, compute left to right: $120+40-51=160-51=109$; $2\times8\div4=16\div4=4$; $56\div7\div2=8\div2=4$. $\blacksquare$
+By **Definition 5.2.1 (Combined Expressions and Same-Level Order)**, compute left to right: $120+40-51=160-51=109$; $2\times8\div4=16\div4=4$; $56\div7\div2=8\div2=4$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -162,7 +190,9 @@ By **Definition 5.2.1 (Combined Expressions and Same-Level Order)**, compute lef
 
 ### Solution to Exercise 15
 
-By **Definition 5.2.2 (Multiply/Divide Before Add/Subtract)**, first multiply/divide: $32-18\div2=32-9=23$; $81\div9+54=9+54=63$; $4\times9-5\times3=36-15=21$. $\blacksquare$
+By **Definition 5.2.2 (Multiply/Divide Before Add/Subtract)**, first multiply/divide: $32-18\div2=32-9=23$; $81\div9+54=9+54=63$; $4\times9-5\times3=36-15=21$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -170,7 +200,9 @@ By **Definition 5.2.2 (Multiply/Divide Before Add/Subtract)**, first multiply/di
 
 ### Solution to Exercise 16
 
-By **Definition 5.2.3 (Parentheses)**, first compute inside: $56\div\left(2\times4\right)=56\div8=7$; $\left(72-18\right)\div9=54\div9=6$; $\left(24-16\right)\times9=8\times9=72$; $388-\left(27-18\right)=388-9=379$. $\blacksquare$
+By **Definition 5.2.3 (Parentheses)**, first compute inside: $56\div\left(2\times4\right)=56\div8=7$; $\left(72-18\right)\div9=54\div9=6$; $\left(24-16\right)\times9=8\times9=72$; $388-\left(27-18\right)=388-9=379$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -178,4 +210,6 @@ By **Definition 5.2.3 (Parentheses)**, first compute inside: $56\div\left(2\time
 
 ### Solution to Exercise 17
 
-$4+5\times7=4+35=39$, $\left(4+5\right)\times7=9\times7=63$; $72-18\div9=72-2=70$, $\left(72-18\right)\div9=54\div9=6$; $24\div4+2=6+2=8$, $24\div\left(4+2\right)=24\div6=4$. By **Definition 5.2.3 (Parentheses)**, adding parentheses changes both the order and the result. $\blacksquare$
+$4+5\times7=4+35=39$, $\left(4+5\right)\times7=9\times7=63$; $72-18\div9=72-2=70$, $\left(72-18\right)\div9=54\div9=6$; $24\div4+2=6+2=8$, $24\div\left(4+2\right)=24\div6=4$. By **Definition 5.2.3 (Parentheses)**, adding parentheses changes both the order and the result.
+
+$\blacksquare$

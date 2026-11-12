@@ -22,7 +22,9 @@
 
 ### 解答 练习一
 
-由**定义 11.2.3 (分数混合运算与运算律)**: $\frac{1}{50}\times42\times100=84\;\text{t}$. $\blacksquare$
+由**定义 11.2.3 (分数混合运算与运算律)**: $\frac{1}{50}\times42\times100=84\;\text{t}$.
+
+$\blacksquare$
 
 ## 练习二
 
@@ -30,7 +32,9 @@
 
 ### 解答 练习二
 
-$\frac{27}{50}\times2=\frac{27}{25}$; $\frac{11}{28}\times\frac{8}{33}=\frac{2}{21}$; $\frac{20}{39}\times7.8=4$; $\frac{7}{18}\times0.36=0.14$; $\frac{9}{16}\times0.3=\frac{27}{160}$; $\frac{5}{54}\times6.75=0.625$. $\blacksquare$
+$\frac{27}{50}\times2=\frac{27}{25}$; $\frac{11}{28}\times\frac{8}{33}=\frac{2}{21}$; $\frac{20}{39}\times7.8=4$; $\frac{7}{18}\times0.36=0.14$; $\frac{9}{16}\times0.3=\frac{27}{160}$; $\frac{5}{54}\times6.75=0.625$.
+
+$\blacksquare$
 
 ## 练习三
 
@@ -38,7 +42,9 @@ $\frac{27}{50}\times2=\frac{27}{25}$; $\frac{11}{28}\times\frac{8}{33}=\frac{2}{
 
 ### 解答 练习三
 
-由**定义 11.2.2 (一个数乘分数)**: $2.5\times\frac{12}{25}=1.2\;\text{m}$. $\blacksquare$
+由**定义 11.2.2 (一个数乘分数)**: $2.5\times\frac{12}{25}=1.2\;\text{m}$.
+
+$\blacksquare$
 
 ## 练习四
 
@@ -46,7 +52,9 @@ $\frac{27}{50}\times2=\frac{27}{25}$; $\frac{11}{28}\times\frac{8}{33}=\frac{2}{
 
 ### 解答 练习四
 
-$\frac{1}{3}\times\frac{3}{5}+1=\frac{1}{5}+1=\frac{6}{5}$; $\frac{5}{7}-\frac{5}{9}\times\frac{5}{7}=\frac{5}{7}\times\left(1-\frac{5}{9}\right)=\frac{20}{63}$; $1-\frac{15}{28}\times\frac{21}{25}=1-\frac{9}{20}=\frac{11}{20}$; $\frac{1}{2}+\frac{5}{4}\times\frac{4}{5}=\frac{1}{2}+1=\frac{3}{2}$; $\frac{1}{6}\times\left(5-\frac{2}{3}\right)=\frac{1}{6}\times\frac{13}{3}=\frac{13}{18}$; $\frac{7}{8}\times7+\frac{3}{8}=\frac{49}{8}+\frac{3}{8}=\frac{13}{2}$. $\blacksquare$
+$\frac{1}{3}\times\frac{3}{5}+1=\frac{1}{5}+1=\frac{6}{5}$; $\frac{5}{7}-\frac{5}{9}\times\frac{5}{7}=\frac{5}{7}\times\left(1-\frac{5}{9}\right)=\frac{20}{63}$; $1-\frac{15}{28}\times\frac{21}{25}=1-\frac{9}{20}=\frac{11}{20}$; $\frac{1}{2}+\frac{5}{4}\times\frac{4}{5}=\frac{1}{2}+1=\frac{3}{2}$; $\frac{1}{6}\times\left(5-\frac{2}{3}\right)=\frac{1}{6}\times\frac{13}{3}=\frac{13}{18}$; $\frac{7}{8}\times7+\frac{3}{8}=\frac{49}{8}+\frac{3}{8}=\frac{13}{2}$.
+
+$\blacksquare$
 
 ## 练习五
 
@@ -54,7 +62,9 @@ $\frac{1}{3}\times\frac{3}{5}+1=\frac{1}{5}+1=\frac{6}{5}$; $\frac{5}{7}-\frac{5
 
 ### 解答 练习五
 
-都不对. 由**定义 11.2.3 (分数混合运算与运算律)**, 先乘后减: $5-3\times\frac{7}{9}=5-\frac{7}{3}=\frac{8}{3}$; 分配律漏乘: $\left(\frac{1}{6}+\frac{3}{4}\right)\times6=\frac{1}{6}\times6+\frac{3}{4}\times6=1+\frac{9}{2}=\frac{11}{2}$. $\blacksquare$
+都不对. 由**定义 11.2.3 (分数混合运算与运算律)**, 先乘后减: $5-3\times\frac{7}{9}=5-\frac{7}{3}=\frac{8}{3}$; 分配律漏乘: $\left(\frac{1}{6}+\frac{3}{4}\right)\times6=\frac{1}{6}\times6+\frac{3}{4}\times6=1+\frac{9}{2}=\frac{11}{2}$.
+
+$\blacksquare$
 
 ## 练习六
 
@@ -62,7 +72,9 @@ $\frac{1}{3}\times\frac{3}{5}+1=\frac{1}{5}+1=\frac{6}{5}$; $\frac{5}{7}-\frac{5
 
 ### 解答 练习六
 
-由**定义 11.2.3 (分数混合运算与运算律)**: $\frac{2}{9}\times\left(1-\frac{7}{16}\right)=\frac{2}{9}\times\frac{9}{16}=\frac{1}{8}$; $\frac{2}{27}\times\left(4\times\frac{3}{4}\right)=\frac{2}{27}\times3=\frac{2}{9}$; $\frac{5}{7}\times16\times\frac{42}{25}=\frac{96}{5}$; $\frac{1}{2}\times\left(\frac{1}{15}+\frac{1}{3}\right)=\frac{1}{2}\times\frac{6}{15}=\frac{1}{5}$; $\frac{4}{5}\times\frac{7}{9}\times\frac{15}{8}=\frac{7}{6}$; $\frac{5}{9}\times\left(\frac{5}{6}+\frac{1}{6}\right)=\frac{5}{9}$. $\blacksquare$
+由**定义 11.2.3 (分数混合运算与运算律)**: $\frac{2}{9}\times\left(1-\frac{7}{16}\right)=\frac{2}{9}\times\frac{9}{16}=\frac{1}{8}$; $\frac{2}{27}\times\left(4\times\frac{3}{4}\right)=\frac{2}{27}\times3=\frac{2}{9}$; $\frac{5}{7}\times16\times\frac{42}{25}=\frac{96}{5}$; $\frac{1}{2}\times\left(\frac{1}{15}+\frac{1}{3}\right)=\frac{1}{2}\times\frac{6}{15}=\frac{1}{5}$; $\frac{4}{5}\times\frac{7}{9}\times\frac{15}{8}=\frac{7}{6}$; $\frac{5}{9}\times\left(\frac{5}{6}+\frac{1}{6}\right)=\frac{5}{9}$.
+
+$\blacksquare$
 
 ## 练习七
 
@@ -70,7 +82,9 @@ $\frac{1}{3}\times\frac{3}{5}+1=\frac{1}{5}+1=\frac{6}{5}$; $\frac{5}{7}-\frac{5
 
 ### 解答 练习七
 
-$\frac{11}{24}\times16=\frac{22}{3}$; $\frac{1}{4}\times\frac{2}{7}=\frac{1}{14}$; $\left(\frac{7}{12}+\frac{17}{12}\right)\times6=2\times6=12$; $\frac{3}{5}\times\frac{55}{6}=\frac{11}{2}$; $\frac{4}{9}\times18\times5=40$; $14\times\frac{1}{14}+\frac{7}{2}\times\frac{1}{14}=1+\frac{1}{4}=\frac{5}{4}$. $\blacksquare$
+$\frac{11}{24}\times16=\frac{22}{3}$; $\frac{1}{4}\times\frac{2}{7}=\frac{1}{14}$; $\left(\frac{7}{12}+\frac{17}{12}\right)\times6=2\times6=12$; $\frac{3}{5}\times\frac{55}{6}=\frac{11}{2}$; $\frac{4}{9}\times18\times5=40$; $14\times\frac{1}{14}+\frac{7}{2}\times\frac{1}{14}=1+\frac{1}{4}=\frac{5}{4}$.
+
+$\blacksquare$
 
 ## 练习八
 
@@ -78,7 +92,9 @@ $\frac{11}{24}\times16=\frac{22}{3}$; $\frac{1}{4}\times\frac{2}{7}=\frac{1}{14}
 
 ### 解答 练习八
 
-三角形面积 $=\frac{1}{2}\times\frac{3}{4}\times\frac{4}{9}=\frac{1}{6}\;\text{dm}^2$; 梯形面积 $=\frac{1}{2}\times\left(\frac{11}{18}+\frac{8}{9}\right)\times\frac{2}{3}=\frac{1}{2}\times\frac{27}{18}\times\frac{2}{3}=\frac{1}{2}\;\text{dm}^2$. $\blacksquare$
+三角形面积 $=\frac{1}{2}\times\frac{3}{4}\times\frac{4}{9}=\frac{1}{6}\;\text{dm}^2$; 梯形面积 $=\frac{1}{2}\times\left(\frac{11}{18}+\frac{8}{9}\right)\times\frac{2}{3}=\frac{1}{2}\times\frac{27}{18}\times\frac{2}{3}=\frac{1}{2}\;\text{dm}^2$.
+
+$\blacksquare$
 
 ## 练习九
 
@@ -86,7 +102,9 @@ $\frac{11}{24}\times16=\frac{22}{3}$; $\frac{1}{4}\times\frac{2}{7}=\frac{1}{14}
 
 ### 解答 练习九
 
-由**定义 11.2.3 (分数混合运算与运算律)**: $\frac{1}{4}\times\left(9+11\right)=\frac{1}{4}\times20=5$ (张). $\blacksquare$
+由**定义 11.2.3 (分数混合运算与运算律)**: $\frac{1}{4}\times\left(9+11\right)=\frac{1}{4}\times20=5$ (张).
+
+$\blacksquare$
 
 ## 练习十
 
@@ -94,4 +112,6 @@ $\frac{11}{24}\times16=\frac{22}{3}$; $\frac{1}{4}\times\frac{2}{7}=\frac{1}{14}
 
 ### 解答 练习十
 
-长方形面积 $\frac{5}{4}\times\frac{3}{5}=\frac{3}{4}\;\text{m}^2$; 少 $\frac{9}{10}-\frac{3}{4}=\frac{18}{20}-\frac{15}{20}=\frac{3}{20}\;\text{m}^2$. $\blacksquare$
+长方形面积 $\frac{5}{4}\times\frac{3}{5}=\frac{3}{4}\;\text{m}^2$; 少 $\frac{9}{10}-\frac{3}{4}=\frac{18}{20}-\frac{15}{20}=\frac{3}{20}\;\text{m}^2$.
+
+$\blacksquare$

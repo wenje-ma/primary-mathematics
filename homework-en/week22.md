@@ -30,7 +30,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 3.3.1 (Equal Distribution)**, suppose there are $12$ bananas in total: (1) among $2$ monkeys, $6$ each; (2) among $3$ monkeys, $4$ each; (3) among $6$ monkeys, $2$ each. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, suppose there are $12$ bananas in total: (1) among $2$ monkeys, $6$ each; (2) among $3$ monkeys, $4$ each; (3) among $6$ monkeys, $2$ each.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -38,7 +40,9 @@ By **Definition 3.3.1 (Equal Distribution)**, suppose there are $12$ bananas in 
 
 ### Solution to Exercise 2
 
-By **Definition 3.3.1 (Equal Distribution)**, only the way where every child gets the same number of cucumbers ($2$) is equal distribution; draw "$\sqrt{}$" in the corresponding parentheses. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, only the way where every child gets the same number of cucumbers ($2$) is equal distribution; draw "$\sqrt{}$" in the corresponding parentheses.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -46,7 +50,9 @@ By **Definition 3.3.1 (Equal Distribution)**, only the way where every child get
 
 ### Solution to Exercise 3
 
-By **Definition 3.3.1 (Equal Distribution)**, $14$ ears at $2$ per bag: $14\div2=7$ (bags); $18$ ears at $2$ per bag: $18\div2=9$ (bags). $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, $14$ ears at $2$ per bag: $14\div2=7$ (bags); $18$ ears at $2$ per bag: $18\div2=9$ (bags).
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -54,7 +60,9 @@ By **Definition 3.3.1 (Equal Distribution)**, $14$ ears at $2$ per bag: $14\div2
 
 ### Solution to Exercise 4
 
-By **Definition 3.3.1 (Equal Distribution)**, you can distribute them $1$ by $1$; after two rounds each share has $4$; or you can directly put $4$ in each share. $4$ per share. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, you can distribute them $1$ by $1$; after two rounds each share has $4$; or you can directly put $4$ in each share. $4$ per share.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -62,7 +70,9 @@ By **Definition 3.3.1 (Equal Distribution)**, you can distribute them $1$ by $1$
 
 ### Solution to Exercise 5
 
-By **Definition 3.3.1 (Equal Distribution)**, suppose there are $15$ cubes in total: (1) at $3$ per cuboid, you can make $5$; (2) divided equally into $5$ cuboids, each uses $3$. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, suppose there are $15$ cubes in total: (1) at $3$ per cuboid, you can make $5$; (2) divided equally into $5$ cuboids, each uses $3$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -70,7 +80,9 @@ By **Definition 3.3.1 (Equal Distribution)**, suppose there are $15$ cubes in to
 
 ### Solution to Exercise 6
 
-By **Definition 3.3.1 (Equal Distribution)**, (1) $6$ peaches at $3$ per plate: $2$ plates; (2) $6$ peaches divided equally onto $2$ plates: $3$ per plate; (3) look at the number of peaches in each share in the picture to decide whether it is equal distribution, and explain the way of dividing. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, (1) $6$ peaches at $3$ per plate: $2$ plates; (2) $6$ peaches divided equally onto $2$ plates: $3$ per plate; (3) look at the number of peaches in each share in the picture to decide whether it is equal distribution, and explain the way of dividing.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -78,7 +90,9 @@ By **Definition 3.3.1 (Equal Distribution)**, (1) $6$ peaches at $3$ per plate: 
 
 ### Solution to Exercise 7
 
-By **Definition 3.3.1 (Equal Distribution)**, first count the total lanterns (for example $18$), then circle $6$ per string; you can hang $18\div6=3$ (strings). $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, first count the total lanterns (for example $18$), then circle $6$ per string; you can hang $18\div6=3$ (strings).
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -86,7 +100,9 @@ By **Definition 3.3.1 (Equal Distribution)**, first count the total lanterns (fo
 
 ### Solution to Exercise 8
 
-By **Definition 3.3.1 (Equal Distribution)**, the $18$ $\bigcirc$ can be divided equally into $2$ shares ($9$ each), $3$ shares ($6$ each), $6$ shares ($3$ each), $9$ shares ($2$ each), $18$ shares ($1$ each), and so on; the way is not unique. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, the $18$ $\bigcirc$ can be divided equally into $2$ shares ($9$ each), $3$ shares ($6$ each), $6$ shares ($3$ each), $9$ shares ($2$ each), $18$ shares ($1$ each), and so on; the way is not unique.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -94,7 +110,9 @@ By **Definition 3.3.1 (Equal Distribution)**, the $18$ $\bigcirc$ can be divided
 
 ### Solution to Exercise 9
 
-By **Definition 3.3.2 (The Meaning of Division)** and **Definition 3.3.3 (Names of the Parts of a Division Expression)**, $12-4-4-4=0$, so $3$ plates are filled, written as $12\div4=3$. $12$ is the total number of shoots (dividend), $4$ is the number on each plate (divisor), and $3$ is the number of plates (quotient). $\blacksquare$
+By **Definition 3.3.2 (The Meaning of Division)** and **Definition 3.3.3 (Names of the Parts of a Division Expression)**, $12-4-4-4=0$, so $3$ plates are filled, written as $12\div4=3$. $12$ is the total number of shoots (dividend), $4$ is the number on each plate (divisor), and $3$ is the number of plates (quotient).
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -102,7 +120,9 @@ By **Definition 3.3.2 (The Meaning of Division)** and **Definition 3.3.3 (Names 
 
 ### Solution to Exercise 10
 
-By **Definition 3.3.2 (The Meaning of Division)**, taking the total $12$ as an example: $2$ per share makes $6$ shares, $12\div2=6$; $3$ per share makes $4$ shares, $12\div3=4$; $6$ per share makes $2$ shares, $12\div6=2$. $\blacksquare$
+By **Definition 3.3.2 (The Meaning of Division)**, taking the total $12$ as an example: $2$ per share makes $6$ shares, $12\div2=6$; $3$ per share makes $4$ shares, $12\div3=4$; $6$ per share makes $2$ shares, $12\div6=2$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -110,7 +130,9 @@ By **Definition 3.3.2 (The Meaning of Division)**, taking the total $12$ as an e
 
 ### Solution to Exercise 11
 
-By **Definition 3.3.2 (The Meaning of Division)**, read in order as: $8$ divided by $4$ equals $2$; $15$ divided by $5$ equals $3$; $18$ divided by $3$ equals $6$; $36$ divided by $6$ equals $6$. $\blacksquare$
+By **Definition 3.3.2 (The Meaning of Division)**, read in order as: $8$ divided by $4$ equals $2$; $15$ divided by $5$ equals $3$; $18$ divided by $3$ equals $6$; $36$ divided by $6$ equals $6$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -118,7 +140,9 @@ By **Definition 3.3.2 (The Meaning of Division)**, read in order as: $8$ divided
 
 ### Solution to Exercise 12
 
-By **Definition 3.3.2 (The Meaning of Division)** and **Definition 3.3.3 (Names of the Parts of a Division Expression)**, $15-3-3-3-3-3=0$, so $5$ go on each plate, written as $15\div3=5$. $15$ is the dividend, $3$ is the divisor, and $5$ is the quotient. $\blacksquare$
+By **Definition 3.3.2 (The Meaning of Division)** and **Definition 3.3.3 (Names of the Parts of a Division Expression)**, $15-3-3-3-3-3=0$, so $5$ go on each plate, written as $15\div3=5$. $15$ is the dividend, $3$ is the divisor, and $5$ is the quotient.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -126,7 +150,9 @@ By **Definition 3.3.2 (The Meaning of Division)** and **Definition 3.3.3 (Names 
 
 ### Solution to Exercise 13
 
-By **Definition 3.3.2 (The Meaning of Division)**, divide the $15$ fish equally among $5$ tanks: $15\div5=3$, so each tank has $3$ fish. $\blacksquare$
+By **Definition 3.3.2 (The Meaning of Division)**, divide the $15$ fish equally among $5$ tanks: $15\div5=3$, so each tank has $3$ fish.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -134,7 +160,9 @@ By **Definition 3.3.2 (The Meaning of Division)**, divide the $15$ fish equally 
 
 ### Solution to Exercise 14
 
-By **Definition 3.3.3 (Names of the Parts of a Division Expression)**: in $12\div4=3$, $12$ is the dividend, $4$ the divisor, $3$ the quotient; in $10\div5=2$, $10$ is the dividend, $5$ the divisor, $2$ the quotient; in $15\div3=5$, $15$ is the dividend, $3$ the divisor, $5$ the quotient; in $24\div6=4$, $24$ is the dividend, $6$ the divisor, $4$ the quotient. $\blacksquare$
+By **Definition 3.3.3 (Names of the Parts of a Division Expression)**: in $12\div4=3$, $12$ is the dividend, $4$ the divisor, $3$ the quotient; in $10\div5=2$, $10$ is the dividend, $5$ the divisor, $2$ the quotient; in $15\div3=5$, $15$ is the dividend, $3$ the divisor, $5$ the quotient; in $24\div6=4$, $24$ is the dividend, $6$ the divisor, $4$ the quotient.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -142,7 +170,9 @@ By **Definition 3.3.3 (Names of the Parts of a Division Expression)**: in $12\di
 
 ### Solution to Exercise 15
 
-By **Definition 3.3.2 (The Meaning of Division)**, suppose there are $8$ apples and $4$ bears: (1) each bear gets $8\div4=2$ (apples); (2) bagged $2$ per bag: $8\div2=4$ (bags). $\blacksquare$
+By **Definition 3.3.2 (The Meaning of Division)**, suppose there are $8$ apples and $4$ bears: (1) each bear gets $8\div4=2$ (apples); (2) bagged $2$ per bag: $8\div2=4$ (bags).
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -150,7 +180,9 @@ By **Definition 3.3.2 (The Meaning of Division)**, suppose there are $8$ apples 
 
 ### Solution to Exercise 16
 
-By **Definition 3.3.2 (The Meaning of Division)**, how many copies of $4$ in $24$: $24\div4=6$, i.e. $6$ copies of $4$; $9$ contains $3$ copies of what number: $9\div3=3$, i.e. $3$ copies of $3$. $\blacksquare$
+By **Definition 3.3.2 (The Meaning of Division)**, how many copies of $4$ in $24$: $24\div4=6$, i.e. $6$ copies of $4$; $9$ contains $3$ copies of what number: $9\div3=3$, i.e. $3$ copies of $3$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -158,4 +190,6 @@ By **Definition 3.3.2 (The Meaning of Division)**, how many copies of $4$ in $24
 
 ### Solution to Exercise 17
 
-By **Definition 3.3.1 (Equal Distribution)** and **Definition 3.3.2 (The Meaning of Division)**, based on the total pens in the picture (for example $12$): (1) $3$ per box fills $4$ boxes, or $4$ per box fills $3$ boxes; (2) divided equally into $2$ boxes, $6$ per box, or into $6$ boxes, $2$ per box. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)** and **Definition 3.3.2 (The Meaning of Division)**, based on the total pens in the picture (for example $12$): (1) $3$ per box fills $4$ boxes, or $4$ per box fills $3$ boxes; (2) divided equally into $2$ boxes, $6$ per box, or into $6$ boxes, $2$ per box.
+
+$\blacksquare$

@@ -50,7 +50,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 12.2.4 (Interest Rate and Interest)**. Bond interest $=10000\times3.35\%\times3=1005$ (yuan). The wealth-management product rolls over principal plus interest each year: at the end of year 1, $10000\times1.036=10360$ yuan; at the end of year 2, $10360\times1.036=10732.96$ yuan; at the end of year 3, $10732.96\times1.036\approx11119.35$ yuan, giving earnings of about $11119.35-10000=1119.35$ yuan. The difference in earnings is $1119.35-1005=114.35$ (yuan). $\blacksquare$
+By **Definition 12.2.4 (Interest Rate and Interest)**. Bond interest $=10000\times3.35\%\times3=1005$ (yuan). The wealth-management product rolls over principal plus interest each year: at the end of year 1, $10000\times1.036=10360$ yuan; at the end of year 2, $10360\times1.036=10732.96$ yuan; at the end of year 3, $10732.96\times1.036\approx11119.35$ yuan, giving earnings of about $11119.35-10000=1119.35$ yuan. The difference in earnings is $1119.35-1005=114.35$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -58,7 +60,9 @@ By **Definition 12.2.4 (Interest Rate and Interest)**. Bond interest $=10000\tim
 
 ### Solution to Exercise 2
 
-By **Definition 12.1.1 (Positive and Negative Numbers)** and **Definition 12.2.2 (Tenths, or Cheng)**, a growth of $-9.5\%$ means 2021 was $9.5\%$ below 2020, i.e. $1-9.5\%=90.5\%$ of 2020. The 2020 output $=17424.3\div90.5\%\approx19253.4$ (ten thousand). $\blacksquare$
+By **Definition 12.1.1 (Positive and Negative Numbers)** and **Definition 12.2.2 (Tenths, or Cheng)**, a growth of $-9.5\%$ means 2021 was $9.5\%$ below 2020, i.e. $1-9.5\%=90.5\%$ of 2020. The 2020 output $=17424.3\div90.5\%\approx19253.4$ (ten thousand).
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -66,7 +70,9 @@ By **Definition 12.1.1 (Positive and Negative Numbers)** and **Definition 12.2.2
 
 ### Solution to Exercise 3
 
-Look up the latest posted rates at the bank (or on its official website) and compare them item by item with the textbook rate table: which terms rose, which fell, and which stayed unchanged. Interest rates are adjusted with the country's economic development; just record the terms and values that changed. $\blacksquare$
+Look up the latest posted rates at the bank (or on its official website) and compare them item by item with the textbook rate table: which terms rose, which fell, and which stayed unchanged. Interest rates are adjusted with the country's economic development; just record the terms and values that changed.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -74,7 +80,9 @@ Look up the latest posted rates at the bank (or on its official website) and com
 
 ### Solution to Exercise 4
 
-By **Definition 12.2.4 (Interest Rate and Interest)**, interest $=$ principal $\times$ interest rate $\times$ term. First investigate the current rates for bonds and wealth-management products, then compare different combinations: for example, roll a five-year bond into a one-year deposit after maturity, or reinvest the principal plus interest of a three-year bond for another three years. Within an acceptable risk, choose long-term high-rate products and arrange the maturity dates to maximize total interest over six years. Substitute each plan's principal, rate, and term into the interest formula to compute the total principal plus interest after six years, and take the maximum. $\blacksquare$
+By **Definition 12.2.4 (Interest Rate and Interest)**, interest $=$ principal $\times$ interest rate $\times$ term. First investigate the current rates for bonds and wealth-management products, then compare different combinations: for example, roll a five-year bond into a one-year deposit after maturity, or reinvest the principal plus interest of a three-year bond for another three years. Within an acceptable risk, choose long-term high-rate products and arrange the maturity dates to maximize total interest over six years. Substitute each plan's principal, rate, and term into the interest formula to compute the total principal plus interest after six years, and take the maximum.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -82,7 +90,9 @@ By **Definition 12.2.4 (Interest Rate and Interest)**, interest $=$ principal $\
 
 ### Solution to Exercise 5
 
-By **Definition 12.3.1 (Permille and Permyriad)**, the birth rate $10.48\perthousand$ means that on average about $10.48$ people are born per $1000$ people; the death rate $7.14\perthousand$ means that on average about $7.14$ people die per $1000$ people; the natural growth rate $3.34\perthousand$ means that on average the population increases by about $3.34$ per $1000$ people (namely birth rate minus death rate: $10.48-7.14=3.34$). $\blacksquare$
+By **Definition 12.3.1 (Permille and Permyriad)**, the birth rate $10.48\perthousand$ means that on average about $10.48$ people are born per $1000$ people; the death rate $7.14\perthousand$ means that on average about $7.14$ people die per $1000$ people; the natural growth rate $3.34\perthousand$ means that on average the population increases by about $3.34$ per $1000$ people (namely birth rate minus death rate: $10.48-7.14=3.34$).
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -90,7 +100,9 @@ By **Definition 12.3.1 (Permille and Permyriad)**, the birth rate $10.48\perthou
 
 ### Solution to Exercise 6
 
-By **Definition 12.4.1 (Understanding Cylinders)**, the upper and lower circular faces are the bases, the surrounding curved surface is the lateral surface, and the perpendicular distance between the two bases is the height. Point them out on the figure. $\blacksquare$
+By **Definition 12.4.1 (Understanding Cylinders)**, the upper and lower circular faces are the bases, the surrounding curved surface is the lateral surface, and the perpendicular distance between the two bases is the height. Point them out on the figure.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -98,7 +110,9 @@ By **Definition 12.4.1 (Understanding Cylinders)**, the upper and lower circular
 
 ### Solution to Exercise 7
 
-Rotating about the long edge $2\,\mathrm{cm}$ as axis gives height $2\,\mathrm{cm}$ and base radius $1\,\mathrm{cm}$; rotating about the short edge $1\,\mathrm{cm}$ as axis gives height $1\,\mathrm{cm}$ and base radius $2\,\mathrm{cm}$. $\blacksquare$
+Rotating about the long edge $2\,\mathrm{cm}$ as axis gives height $2\,\mathrm{cm}$ and base radius $1\,\mathrm{cm}$; rotating about the short edge $1\,\mathrm{cm}$ as axis gives height $1\,\mathrm{cm}$ and base radius $2\,\mathrm{cm}$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -118,7 +132,9 @@ $\blacksquare$
 
 ### Solution to Exercise 9
 
-By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, one side of the rectangle in a cylinder's net must equal the circumference of the base circle. If the circle's diameter is $2\,\mathrm{cm}$, its circumference $=2\pi\approx6.28\,\mathrm{cm}$, so the rectangle whose length is $6.28\,\mathrm{cm}$ is the net of the cylinder. $\blacksquare$
+By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, one side of the rectangle in a cylinder's net must equal the circumference of the base circle. If the circle's diameter is $2\,\mathrm{cm}$, its circumference $=2\pi\approx6.28\,\mathrm{cm}$, so the rectangle whose length is $6.28\,\mathrm{cm}$ is the net of the cylinder.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -126,7 +142,9 @@ By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, one side
 
 ### Solution to Exercise 10
 
-By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, the label area $=$ lateral area $=2\pi{r}h=2\times3.14\times5\times10=314\,\mathrm{cm}^{2}$. $\blacksquare$
+By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, the label area $=$ lateral area $=2\pi{r}h=2\times3.14\times5\times10=314\,\mathrm{cm}^{2}$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -134,7 +152,9 @@ By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, the labe
 
 ### Solution to Exercise 11
 
-By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**. The hat has only a lateral surface and a top (no bottom base). Lateral area $=\pi\times20\times30=1884\,\mathrm{cm}^{2}$; top area $=\pi\times\left(20\div2\right)^{2}=314\,\mathrm{cm}^{2}$; total $1884+314=2198\approx2200\,\mathrm{cm}^{2}$ (using rounding up). $\blacksquare$
+By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**. The hat has only a lateral surface and a top (no bottom base). Lateral area $=\pi\times20\times30=1884\,\mathrm{cm}^{2}$; top area $=\pi\times\left(20\div2\right)^{2}=314\,\mathrm{cm}^{2}$; total $1884+314=2198\approx2200\,\mathrm{cm}^{2}$ (using rounding up).
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -142,7 +162,9 @@ By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**. The hat 
 
 ### Solution to Exercise 12
 
-By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, lateral area $=$ base circumference $\times$ height. (1) $1.6\times0.7=1.12\,\mathrm{m}^{2}$. (2) $2\times3.14\times3.2\times5=100.48\,\mathrm{dm}^{2}$. $\blacksquare$
+By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, lateral area $=$ base circumference $\times$ height. (1) $1.6\times0.7=1.12\,\mathrm{m}^{2}$. (2) $2\times3.14\times3.2\times5=100.48\,\mathrm{dm}^{2}$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -150,7 +172,9 @@ By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, lateral 
 
 ### Solution to Exercise 13
 
-By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, the area rolled in one revolution $=$ lateral area $=$ base circumference $\times$ wheel width $=3.14\times1.2\times2=7.536\,\mathrm{m}^{2}$. $\blacksquare$
+By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, the area rolled in one revolution $=$ lateral area $=$ base circumference $\times$ wheel width $=3.14\times1.2\times2=7.536\,\mathrm{m}^{2}$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -158,4 +182,6 @@ By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, the area
 
 ### Solution to Exercise 14
 
-Along the length place $6$ cans: length $=6\times6=36\,\mathrm{cm}$; along the width place $4$ cans: width $=4\times6=24\,\mathrm{cm}$; the height equals the can height $=12\,\mathrm{cm}$. $\blacksquare$
+Along the length place $6$ cans: length $=6\times6=36\,\mathrm{cm}$; along the width place $4$ cans: width $=4\times6=24\,\mathrm{cm}$; the height equals the can height $=12\,\mathrm{cm}$.
+
+$\blacksquare$

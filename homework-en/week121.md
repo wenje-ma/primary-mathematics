@@ -14,7 +14,9 @@
 
 ### Solution to Exercise 1
 
-With Island A as vertex, use a protractor to draw rays: due west tilted north $30^{\circ}$, due west tilted south $40^{\circ}$, due east tilted south $20^{\circ}$. $\blacksquare$
+With Island A as vertex, use a protractor to draw rays: due west tilted north $30^{\circ}$, due west tilted south $40^{\circ}$, due east tilted south $20^{\circ}$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -22,7 +24,9 @@ With Island A as vertex, use a protractor to draw rays: due west tilted north $3
 
 ### Solution to Exercise 2
 
-By **Definition 11.1.2 (Determining Position by Direction and Distance)**, with the gate as reference: Teaching Building due north $3$ segments ($150\;\text{m}$); Library north-by-east $35^{\circ}$, $3$ segments; Gym west-by-north $40^{\circ}$, $4$ segments ($200\;\text{m}$). $\blacksquare$
+By **Definition 11.1.2 (Determining Position by Direction and Distance)**, with the gate as reference: Teaching Building due north $3$ segments ($150\;\text{m}$); Library north-by-east $35^{\circ}$, $3$ segments; Gym west-by-north $40^{\circ}$, $4$ segments ($200\;\text{m}$).
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -30,7 +34,9 @@ By **Definition 11.1.2 (Determining Position by Direction and Distance)**, with 
 
 ### Solution to Exercise 3
 
-Swap observer point and directions reverse. With the school as observer measure Xiao Gang's home's direction and distance; from his home the school is the opposite direction, same distance. Describe Fangfang, Honghong, Liangliang similarly. $\blacksquare$
+Swap observer point and directions reverse. With the school as observer measure Xiao Gang's home's direction and distance; from his home the school is the opposite direction, same distance. Describe Fangfang, Honghong, Liangliang similarly.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -38,7 +44,9 @@ Swap observer point and directions reverse. With the school as observer measure 
 
 ### Solution to Exercise 4
 
-Each leg uses its starting point as reference. By **Definition 11.1.2 (Determining Position by Direction and Distance)**: from school south-by-east $30^{\circ}$ $200\;\text{m}$ to Post Office; from Post Office at the drawn angle and distance to Bookstore; then from Bookstore to home. On the way back directions reverse and distances stay the same. $\blacksquare$
+Each leg uses its starting point as reference. By **Definition 11.1.2 (Determining Position by Direction and Distance)**: from school south-by-east $30^{\circ}$ $200\;\text{m}$ to Post Office; from Post Office at the drawn angle and distance to Bookstore; then from Bookstore to home. On the way back directions reverse and distances stay the same.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -46,7 +54,9 @@ Each leg uses its starting point as reference. By **Definition 11.1.2 (Determini
 
 ### Solution to Exercise 5
 
-Mark the start, draw due south $50\;\text{m}$ to the corner; then with the corner as vertex draw south-by-west $30^{\circ}$ $100\;\text{m}$ to the park, marking the angle and distance. $\blacksquare$
+Mark the start, draw due south $50\;\text{m}$ to the corner; then with the corner as vertex draw south-by-west $30^{\circ}$ $100\;\text{m}$ to the park, marking the angle and distance.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -54,7 +64,9 @@ Mark the start, draw due south $50\;\text{m}$ to the corner; then with the corne
 
 ### Solution to Exercise 6
 
-By **Definition 11.1.1 (Ordered Pairs)**, read each herb's column and row from the grid and write (column, row); mark Sanqi at column $8$, row $6$; e.g. ask "which column and row is a certain herb?" and answer. $\blacksquare$
+By **Definition 11.1.1 (Ordered Pairs)**, read each herb's column and row from the grid and write (column, row); mark Sanqi at column $8$, row $6$; e.g. ask "which column and row is a certain herb?" and answer.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -62,7 +74,9 @@ By **Definition 11.1.1 (Ordered Pairs)**, read each herb's column and row from t
 
 ### Solution to Exercise 7
 
-By **Definition 11.1.1 (Ordered Pairs)**: set the coordinate system from the Teaching Building $\left(2,5\right)$ and read (column, row) of Gym, Library, Canteen; then plot the four new spots. $\blacksquare$
+By **Definition 11.1.1 (Ordered Pairs)**: set the coordinate system from the Teaching Building $\left(2,5\right)$ and read (column, row) of Gym, Library, Canteen; then plot the four new spots.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -70,7 +84,9 @@ By **Definition 11.1.1 (Ordered Pairs)**: set the coordinate system from the Tea
 
 ### Solution to Exercise 8
 
-By **Definition 11.1.2 (Determining Position by Direction and Distance)**, with Mingming's home as observer measure angles and distances: school north-by-east $30^{\circ}$, about $400\;\text{m}$; Bookstore and Post Office per drawn angles and segments; Swimming Pool described from the Post Office. $\blacksquare$
+By **Definition 11.1.2 (Determining Position by Direction and Distance)**, with Mingming's home as observer measure angles and distances: school north-by-east $30^{\circ}$, about $400\;\text{m}$; Bookstore and Post Office per drawn angles and segments; Swimming Pool described from the Post Office.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -78,7 +94,9 @@ By **Definition 11.1.2 (Determining Position by Direction and Distance)**, with 
 
 ### Solution to Exercise 9
 
-By **Definition 11.1.2 (Determining Position by Direction and Distance)**: with the TV Tower as center, mark Cultural Square and Stadium by angle and $2,5,4,3$ segments; for (3)(4), use the tower as observer and go the opposite direction to fix Museum and Zoo. $\blacksquare$
+By **Definition 11.1.2 (Determining Position by Direction and Distance)**: with the TV Tower as center, mark Cultural Square and Stadium by angle and $2,5,4,3$ segments; for (3)(4), use the tower as observer and go the opposite direction to fix Museum and Zoo.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -86,7 +104,9 @@ By **Definition 11.1.2 (Determining Position by Direction and Distance)**: with 
 
 ### Solution to Exercise 10
 
-By **Definition 11.1.2 (Determining Position by Direction and Distance)**, with Town A as vertex draw the east-by-north $40^{\circ}$ ray, mark $3$ segments ($45\;\text{km}$); the endpoint is the well. $\blacksquare$
+By **Definition 11.1.2 (Determining Position by Direction and Distance)**, with Town A as vertex draw the east-by-north $40^{\circ}$ ray, mark $3$ segments ($45\;\text{km}$); the endpoint is the well.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -94,7 +114,9 @@ By **Definition 11.1.2 (Determining Position by Direction and Distance)**, with 
 
 ### Solution to Exercise 11
 
-Split the route into legs, each with a clear reference point, direction, and distance. On the way back directions reverse and distances stay the same. $\blacksquare$
+Split the route into legs, each with a clear reference point, direction, and distance. On the way back directions reverse and distances stay the same.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -102,7 +124,9 @@ Split the route into legs, each with a clear reference point, direction, and dis
 
 ### Solution to Exercise 12
 
-By **Definition 11.1.1 (Ordered Pairs)**: (1) read each spot's coordinates and convert to "east _ hundred meters, north _ hundred meters"; (2) Wang Ling's home $\left(3,4\right)$, Zhao Hua's $\left(8,7\right)$; (3) $\left(4,3\right)$ is the Library; $\left(6,5\right)$, $\left(3,6\right)$ match spots on the map in order; finally back to $\left(3,4\right)$ = home. $\blacksquare$
+By **Definition 11.1.1 (Ordered Pairs)**: (1) read each spot's coordinates and convert to "east _ hundred meters, north _ hundred meters"; (2) Wang Ling's home $\left(3,4\right)$, Zhao Hua's $\left(8,7\right)$; (3) $\left(4,3\right)$ is the Library; $\left(6,5\right)$, $\left(3,6\right)$ match spots on the map in order; finally back to $\left(3,4\right)$ = home.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -110,4 +134,6 @@ By **Definition 11.1.1 (Ordered Pairs)**: (1) read each spot's coordinates and c
 
 ### Solution to Exercise 13
 
-Walking one diagonal changes column and row by the same number of cells. $30\;\text{m}$ = $3$ diagonals: $\left(0,0\right)$ east-by-north $45^{\circ}$ → $\left(3,3\right)$; $\left(4,2\right)$ south-by-west $45^{\circ}$ $20\;\text{m}$ → $\left(2,0\right)$; $\left(6,7\right)$ north-by-east $45^{\circ}$ $10\;\text{m}$ → $\left(7,8\right)$; $\left(4,4\right)$ west-by-north $45^{\circ}$ $40\;\text{m}$ → $\left(0,8\right)$. $\blacksquare$
+Walking one diagonal changes column and row by the same number of cells. $30\;\text{m}$ = $3$ diagonals: $\left(0,0\right)$ east-by-north $45^{\circ}$ → $\left(3,3\right)$; $\left(4,2\right)$ south-by-west $45^{\circ}$ $20\;\text{m}$ → $\left(2,0\right)$; $\left(6,7\right)$ north-by-east $45^{\circ}$ $10\;\text{m}$ → $\left(7,8\right)$; $\left(4,4\right)$ west-by-north $45^{\circ}$ $40\;\text{m}$ → $\left(0,8\right)$.
+
+$\blacksquare$

@@ -34,7 +34,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 3.4.1 (East, South, West, North)**, when lost in the wild in the Northern Hemisphere, nature can help you tell directions: facing the North Star, the front is north; the side with dense foliage is south and the sparse side is north; the side where snow melts fast is south and the slow side is north; the side covered with moss is north and the bare side is south. Nowadays you can also use the BeiDou satellite navigation system for directions. $\blacksquare$
+By **Definition 3.4.1 (East, South, West, North)**, when lost in the wild in the Northern Hemisphere, nature can help you tell directions: facing the North Star, the front is north; the side with dense foliage is south and the sparse side is north; the side where snow melts fast is south and the slow side is north; the side covered with moss is north and the bare side is south. Nowadays you can also use the BeiDou satellite navigation system for directions.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -42,7 +44,9 @@ By **Definition 3.4.1 (East, South, West, North)**, when lost in the wild in the
 
 ### Solution to Exercise 2
 
-By **Definition 3.4.3 (Directions on a Map)**, the diagram is drawn with north on top, south at the bottom, west on the left, east on the right: the top of the diagram is marked "north"; from this, the gate is at the bottom (south), the west gate is on the left (west), the south gate is at the lower right, and the stairs are on the left and right sides. In an emergency, evacuate via the nearest stairs, west gate, or south gate as the diagram indicates. $\blacksquare$
+By **Definition 3.4.3 (Directions on a Map)**, the diagram is drawn with north on top, south at the bottom, west on the left, east on the right: the top of the diagram is marked "north"; from this, the gate is at the bottom (south), the west gate is on the left (west), the south gate is at the lower right, and the stairs are on the left and right sides. In an emergency, evacuate via the nearest stairs, west gate, or south gate as the diagram indicates.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -50,7 +54,9 @@ By **Definition 3.4.3 (Directions on a Map)**, the diagram is drawn with north o
 
 ### Solution to Exercise 3
 
-By **Definition 3.4.1 (East, South, West, North)**, through this activity you learned the four directions east, south, west, north, can use a direction board and schematic to tell directions and design routes, and can work with classmates to complete tasks in the activity. $\blacksquare$
+By **Definition 3.4.1 (East, South, West, North)**, through this activity you learned the four directions east, south, west, north, can use a direction board and schematic to tell directions and design routes, and can work with classmates to complete tasks in the activity.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -58,7 +64,9 @@ By **Definition 3.4.1 (East, South, West, North)**, through this activity you le
 
 ### Solution to Exercise 4
 
-By **Definition 3.5.1 (Centimeter)**, because everyone's hand-span is a different length, using the hand-span to measure the same desk gives different results. To make comparison and communication easy, measurement must use a unified unit of length. $\blacksquare$
+By **Definition 3.5.1 (Centimeter)**, because everyone's hand-span is a different length, using the hand-span to measure the same desk gives different results. To make comparison and communication easy, measurement must use a unified unit of length.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -66,7 +74,9 @@ By **Definition 3.5.1 (Centimeter)**, because everyone's hand-span is a differen
 
 ### Solution to Exercise 5
 
-By **Definition 3.5.1 (Centimeter)**, objects around you that are about $1$ centimeter include: the width of an index finger, the width of a certain sticky note, the length of one side of a practice square, and the diameter of a button. $\blacksquare$
+By **Definition 3.5.1 (Centimeter)**, objects around you that are about $1$ centimeter include: the width of an index finger, the width of a certain sticky note, the length of one side of a practice square, and the diameter of a button.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -74,7 +84,9 @@ By **Definition 3.5.1 (Centimeter)**, objects around you that are about $1$ cent
 
 ### Solution to Exercise 6
 
-By **Definition 3.5.4 (How to Measure)**, line up the ruler's mark $0$ with the left end of the strip; the right end points to the mark $5$, so the strip is $5$ centimeters long. $\blacksquare$
+By **Definition 3.5.4 (How to Measure)**, line up the ruler's mark $0$ with the left end of the strip; the right end points to the mark $5$, so the strip is $5$ centimeters long.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -82,7 +94,9 @@ By **Definition 3.5.4 (How to Measure)**, line up the ruler's mark $0$ with the 
 
 ### Solution to Exercise 7
 
-By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.2 (Meter)**, for example measure the classroom's length in paces and the blackboard's length in arm-spans; record how many paces or arm-spans long it is, then measure the actual length with a ruler. $\blacksquare$
+By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.2 (Meter)**, for example measure the classroom's length in paces and the blackboard's length in arm-spans; record how many paces or arm-spans long it is, then measure the actual length with a ruler.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -90,7 +104,9 @@ By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.2 (Meter)**, for examp
 
 ### Solution to Exercise 8
 
-By **Definition 3.5.4 (How to Measure)**, line up the ruler's mark $0$ with one end of the pencil, see which mark the other end points to, and read off the pencil's length in centimeters. $\blacksquare$
+By **Definition 3.5.4 (How to Measure)**, line up the ruler's mark $0$ with one end of the pencil, see which mark the other end points to, and read off the pencil's length in centimeters.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -98,7 +114,9 @@ By **Definition 3.5.4 (How to Measure)**, line up the ruler's mark $0$ with one 
 
 ### Solution to Exercise 9
 
-By **Definition 3.5.4 (How to Measure)**, when measuring the ruler must lie flat, close to the object, and the mark $0$ must line up with one end; measuring at a slant or not lining up the mark $0$ is wrong. $\blacksquare$
+By **Definition 3.5.4 (How to Measure)**, when measuring the ruler must lie flat, close to the object, and the mark $0$ must line up with one end; measuring at a slant or not lining up the mark $0$ is wrong.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -106,7 +124,9 @@ By **Definition 3.5.4 (How to Measure)**, when measuring the ruler must lie flat
 
 ### Solution to Exercise 10
 
-By **Definition 3.5.1 (Centimeter)**, first mark out $1$ centimeter on the ruler, then use your fingers to show the lengths of $5$ copies of $1$ centimeter ($5$ centimeters) and $10$ copies of $1$ centimeter ($10$ centimeters). $\blacksquare$
+By **Definition 3.5.1 (Centimeter)**, first mark out $1$ centimeter on the ruler, then use your fingers to show the lengths of $5$ copies of $1$ centimeter ($5$ centimeters) and $10$ copies of $1$ centimeter ($10$ centimeters).
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -114,7 +134,9 @@ By **Definition 3.5.1 (Centimeter)**, first mark out $1$ centimeter on the ruler
 
 ### Solution to Exercise 11
 
-By **Definition 3.5.2 (Meter)**, measure the blackboard with a meter stick; its length is about so many meters and centimeters (for example $3$ meters). $\blacksquare$
+By **Definition 3.5.2 (Meter)**, measure the blackboard with a meter stick; its length is about so many meters and centimeters (for example $3$ meters).
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -122,7 +144,9 @@ By **Definition 3.5.2 (Meter)**, measure the blackboard with a meter stick; its 
 
 ### Solution to Exercise 12
 
-By **Definition 3.5.2 (Meter)**, on the meter stick $1$ meter is exactly $100$ centimeters, so $1$ meter contains $100$ copies of $1$ centimeter, i.e. $1$ meter $=100$ centimeters. $\blacksquare$
+By **Definition 3.5.2 (Meter)**, on the meter stick $1$ meter is exactly $100$ centimeters, so $1$ meter contains $100$ copies of $1$ centimeter, i.e. $1$ meter $=100$ centimeters.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -130,7 +154,9 @@ By **Definition 3.5.2 (Meter)**, on the meter stick $1$ meter is exactly $100$ c
 
 ### Solution to Exercise 13
 
-By **Definition 3.5.2 (Meter)** and **Definition 3.5.4 (How to Measure)**, measure the object's length with a meter stick, and express the part beyond $1$ meter in centimeters, for example $1$ meter $20$ centimeters. $\blacksquare$
+By **Definition 3.5.2 (Meter)** and **Definition 3.5.4 (How to Measure)**, measure the object's length with a meter stick, and express the part beyond $1$ meter in centimeters, for example $1$ meter $20$ centimeters.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -138,7 +164,9 @@ By **Definition 3.5.2 (Meter)** and **Definition 3.5.4 (How to Measure)**, measu
 
 ### Solution to Exercise 14
 
-By **Definition 3.5.2 (Meter)**, judge from everyday experience: the classroom door is taller than $1$ meter, the desk height is shorter than $1$ meter, the blackboard is longer than $1$ meter, and the pencil case is shorter than $1$ meter. $\blacksquare$
+By **Definition 3.5.2 (Meter)**, judge from everyday experience: the classroom door is taller than $1$ meter, the desk height is shorter than $1$ meter, the blackboard is longer than $1$ meter, and the pencil case is shorter than $1$ meter.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -146,7 +174,9 @@ By **Definition 3.5.2 (Meter)**, judge from everyday experience: the classroom d
 
 ### Solution to Exercise 15
 
-By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.4 (How to Measure)**, measure using pencils or feet as units, and count how many pencils long and how many feet long it is. $\blacksquare$
+By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.4 (How to Measure)**, measure using pencils or feet as units, and count how many pencils long and how many feet long it is.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -154,7 +184,9 @@ By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.4 (How to Measure)**, 
 
 ### Solution to Exercise 16
 
-By **Definition 3.5.4 (How to Measure)**, line up one end of the three pencils, and see which one's other end sticks out the farthest; that one is the longest. $\blacksquare$
+By **Definition 3.5.4 (How to Measure)**, line up one end of the three pencils, and see which one's other end sticks out the farthest; that one is the longest.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -162,7 +194,9 @@ By **Definition 3.5.4 (How to Measure)**, line up one end of the three pencils, 
 
 ### Solution to Exercise 17
 
-By **Definition 3.5.2 (Meter)**, $1$ meter $=100$ centimeters: $10$ meters $>10$ centimeters; $100$ centimeters $=1$ meter; $80$ centimeters $<1$ meter. $\blacksquare$
+By **Definition 3.5.2 (Meter)**, $1$ meter $=100$ centimeters: $10$ meters $>10$ centimeters; $100$ centimeters $=1$ meter; $80$ centimeters $<1$ meter.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -170,7 +204,9 @@ By **Definition 3.5.2 (Meter)**, $1$ meter $=100$ centimeters: $10$ meters $>10$
 
 ### Solution to Exercise 18
 
-By **Definition 3.5.4 (How to Measure)**, measure the eraser with a ruler, line up the mark $0$ with one end, and read the other end's centimeter value. $\blacksquare$
+By **Definition 3.5.4 (How to Measure)**, measure the eraser with a ruler, line up the mark $0$ with one end, and read the other end's centimeter value.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -178,7 +214,9 @@ By **Definition 3.5.4 (How to Measure)**, measure the eraser with a ruler, line 
 
 ### Solution to Exercise 19
 
-By **Definition 3.5.2 (Meter)**, use the meter stick to mark off $1$ meter and $2$ meters on the string, gesture with your hand to feel roughly where on your body $1$ meter reaches, and note that $2$ meters is twice as long as $1$ meter. $\blacksquare$
+By **Definition 3.5.2 (Meter)**, use the meter stick to mark off $1$ meter and $2$ meters on the string, gesture with your hand to feel roughly where on your body $1$ meter reaches, and note that $2$ meters is twice as long as $1$ meter.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -186,7 +224,9 @@ By **Definition 3.5.2 (Meter)**, use the meter stick to mark off $1$ meter and $
 
 ### Solution to Exercise 20
 
-By **Definition 3.5.4 (How to Measure)**, check whether the ruler's mark $0$ lines up and whether the object lies against the ruler: draw "$\sqrt{}$" for the correct way of measuring, and not for the wrong ones. $\blacksquare$
+By **Definition 3.5.4 (How to Measure)**, check whether the ruler's mark $0$ lines up and whether the object lies against the ruler: draw "$\sqrt{}$" for the correct way of measuring, and not for the wrong ones.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -194,7 +234,9 @@ By **Definition 3.5.4 (How to Measure)**, check whether the ruler's mark $0$ lin
 
 ### Solution to Exercise 21
 
-By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.4 (How to Measure)**, first estimate each object's length by feel, then actually measure with a ruler, fill the estimate and the measurement into a table, and compare which estimate was accurate. $\blacksquare$
+By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.4 (How to Measure)**, first estimate each object's length by feel, then actually measure with a ruler, fill the estimate and the measurement into a table, and compare which estimate was accurate.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -202,7 +244,9 @@ By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.4 (How to Measure)**, 
 
 ### Solution to Exercise 22
 
-By **Definition 3.5.2 (Meter)**, $1$ meter $=100$ centimeters; cutting off $30$ centimeters: $100-30=70$ (centimeters), so $70$ centimeters are left. $\blacksquare$
+By **Definition 3.5.2 (Meter)**, $1$ meter $=100$ centimeters; cutting off $30$ centimeters: $100-30=70$ (centimeters), so $70$ centimeters are left.
+
+$\blacksquare$
 
 ## Exercise 23
 
@@ -210,4 +254,6 @@ By **Definition 3.5.2 (Meter)**, $1$ meter $=100$ centimeters; cutting off $30$ 
 
 ### Solution to Exercise 23
 
-By **Definition 3.5.3 (Line Segment)** and **Definition 3.5.4 (How to Measure)**, first mark one endpoint on the paper, line up the ruler's mark $0$ with this point, draw along the ruler to the mark $3$ and mark another endpoint, and you get a line segment $3$ centimeters long. $\blacksquare$
+By **Definition 3.5.3 (Line Segment)** and **Definition 3.5.4 (How to Measure)**, first mark one endpoint on the paper, line up the ruler's mark $0$ with this point, draw along the ruler to the mark $3$ and mark another endpoint, and you get a line segment $3$ centimeters long.
+
+$\blacksquare$

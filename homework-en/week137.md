@@ -2,7 +2,7 @@
 
 > **Definition 11.9.1 (鸽巢原理, 抽屉原理)**
 > 
-> 把 $m$ 个物体任意分放进 $n$ 个抽屉 ($m>{}n$), 那么一定有一个抽屉里至少放了 $\lceil\frac{m}{n}\rceil$ 个物体. 计算方法: $m\div{n}=q\cdots\cdots{r}$, 当 $r>0$ 时至少 $q+1$ 个, 当 $r=0$ 时至少 $q$ 个.
+> 把 $m$ 个物体任意分放进 $n$ 个抽屉 ($m>n$), 那么一定有一个抽屉里至少放了 $\lceil\frac{m}{n}\rceil$ 个物体. 计算方法: $m\div{n}=q\cdots\cdots{r}$, 当 $r>0$ 时至少 $q+1$ 个, 当 $r=0$ 时至少 $q$ 个.
 
 > **Definition 12.1.1 (Positive and Negative Numbers)**
 > 
@@ -38,7 +38,9 @@
 
 ### Solution to Exercise 1
 
-There are $12$ zodiac signs; the $13$ people are the pigeons and the $12$ signs are the holes. $13\div12=1\cdots\cdots1$; by **Definition 11.9.1 (Pigeonhole Principle, Drawer Principle)**, at least $2$ people share the same sign. $\blacksquare$
+There are $12$ zodiac signs; the $13$ people are the pigeons and the $12$ signs are the holes. $13\div12=1\cdots\cdots1$; by **Definition 11.9.1 (Pigeonhole Principle, Drawer Principle)**, at least $2$ people share the same sign.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -46,7 +48,9 @@ There are $12$ zodiac signs; the $13$ people are the pigeons and the $12$ signs 
 
 ### Solution to Exercise 2
 
-Natural numbers fall into $2$ classes by parity; the $3$ numbers are the pigeons and the $2$ classes are the holes. $3\div2=1\cdots\cdots1$, so at least $2$ numbers are both odd or both even, and their sum must be even. $\blacksquare$
+Natural numbers fall into $2$ classes by parity; the $3$ numbers are the pigeons and the $2$ classes are the holes. $3\div2=1\cdots\cdots1$, so at least $2$ numbers are both odd or both even, and their sum must be even.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -54,7 +58,9 @@ Natural numbers fall into $2$ classes by parity; the $3$ numbers are the pigeons
 
 ### Solution to Exercise 3
 
-By **Definition 12.1.1 (Positive and Negative Numbers)**, sub-zero temperatures carry a minus sign, and the more negative the number the lower the temperature. Since $-18$ is smaller than $-3$, $-18\,^{\circ}\mathrm{C}$ is the lower temperature. $\blacksquare$
+By **Definition 12.1.1 (Positive and Negative Numbers)**, sub-zero temperatures carry a minus sign, and the more negative the number the lower the temperature. Since $-18$ is smaller than $-3$, $-18\,^{\circ}\mathrm{C}$ is the lower temperature.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -62,7 +68,9 @@ By **Definition 12.1.1 (Positive and Negative Numbers)**, sub-zero temperatures 
 
 ### Solution to Exercise 4
 
-By **Definition 12.1.1 (Positive and Negative Numbers)** and **Definition 12.1.2 (Reading Positive and Negative Numbers)**: the positive numbers are $2.5$, $+41$, $+\frac{1}{5}$; the negative numbers are $-7$, $-\frac{5}{2}$, $-5.2$, $-\frac{3}{4}$; and $0$ is neither positive nor negative. $\blacksquare$
+By **Definition 12.1.1 (Positive and Negative Numbers)** and **Definition 12.1.2 (Reading Positive and Negative Numbers)**: the positive numbers are $2.5$, $+41$, $+\frac{1}{5}$; the negative numbers are $-7$, $-\frac{5}{2}$, $-5.2$, $-\frac{3}{4}$; and $0$ is neither positive nor negative.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -82,7 +90,9 @@ $\blacksquare$
 
 ### Solution to Exercise 6
 
-By **Definition 12.1.1 (Positive and Negative Numbers)**, temperatures above zero are recorded as positive and below zero as negative: daytime is recorded as $+127\,^{\circ}\mathrm{C}$ (i.e. $127\,^{\circ}\mathrm{C}$); nighttime is recorded as $-183\,^{\circ}\mathrm{C}$. $\blacksquare$
+By **Definition 12.1.1 (Positive and Negative Numbers)**, temperatures above zero are recorded as positive and below zero as negative: daytime is recorded as $+127\,^{\circ}\mathrm{C}$ (i.e. $127\,^{\circ}\mathrm{C}$); nighttime is recorded as $-183\,^{\circ}\mathrm{C}$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -90,7 +100,9 @@ By **Definition 12.1.1 (Positive and Negative Numbers)**, temperatures above zer
 
 ### Solution to Exercise 7
 
-By **Definition 12.1.1 (Positive and Negative Numbers)**, points above sea level are recorded as positive and below sea level as negative: Mount Everest's elevation is $+8848.86\,\mathrm{m}$ (i.e. $8848.86\,\mathrm{m}$); the lowest point of the Turpan Basin is $-154.31\,\mathrm{m}$. $\blacksquare$
+By **Definition 12.1.1 (Positive and Negative Numbers)**, points above sea level are recorded as positive and below sea level as negative: Mount Everest's elevation is $+8848.86\,\mathrm{m}$ (i.e. $8848.86\,\mathrm{m}$); the lowest point of the Turpan Basin is $-154.31\,\mathrm{m}$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -98,7 +110,9 @@ By **Definition 12.1.1 (Positive and Negative Numbers)**, points above sea level
 
 ### Solution to Exercise 8
 
-By **Definition 12.1.1 (Positive and Negative Numbers)**, times ahead of Beijing are recorded as positive and times behind as negative. Sydney at $15{:}00$ is $3$ hours ahead of Beijing at $12{:}00$, recorded as $+3$ hours; London at $4{:}00$ is $8$ hours behind Beijing at $12{:}00$, recorded as $-8$ hours. $\blacksquare$
+By **Definition 12.1.1 (Positive and Negative Numbers)**, times ahead of Beijing are recorded as positive and times behind as negative. Sydney at $15{:}00$ is $3$ hours ahead of Beijing at $12{:}00$, recorded as $+3$ hours; London at $4{:}00$ is $8$ hours behind Beijing at $12{:}00$, recorded as $-8$ hours.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -106,7 +120,9 @@ By **Definition 12.1.1 (Positive and Negative Numbers)**, times ahead of Beijing
 
 ### Solution to Exercise 9
 
-By **Definition 12.1.1 (Positive and Negative Numbers)**, values above the standard are recorded as positive and below as negative. (1) The flood-season level $1.5\,\mathrm{m}$ above is recorded as $+1.5\,\mathrm{m}$; the dry-season level $3\,\mathrm{m}$ below is recorded as $-3\,\mathrm{m}$. (2) $197\,\mathrm{g}$ is $3\,\mathrm{g}$ less than the standard $200\,\mathrm{g}$, so it is recorded as $-3\,\mathrm{g}$. $\blacksquare$
+By **Definition 12.1.1 (Positive and Negative Numbers)**, values above the standard are recorded as positive and below as negative. (1) The flood-season level $1.5\,\mathrm{m}$ above is recorded as $+1.5\,\mathrm{m}$; the dry-season level $3\,\mathrm{m}$ below is recorded as $-3\,\mathrm{m}$. (2) $197\,\mathrm{g}$ is $3\,\mathrm{g}$ less than the standard $200\,\mathrm{g}$, so it is recorded as $-3\,\mathrm{g}$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -114,7 +130,9 @@ By **Definition 12.1.1 (Positive and Negative Numbers)**, values above the stand
 
 ### Solution to Exercise 10
 
-By **Definition 12.1.3 (Representing Positive and Negative Numbers on the Number Line)**, numbers to the right of $0$ are positive and those to the left are negative; simply read off the value at each point's scale position (in the figure, point $A$ lies near $-8$; read off the numbers corresponding to $B,C,D,E$ in order toward the positive direction). $\blacksquare$
+By **Definition 12.1.3 (Representing Positive and Negative Numbers on the Number Line)**, numbers to the right of $0$ are positive and those to the left are negative; simply read off the value at each point's scale position (in the figure, point $A$ lies near $-8$; read off the numbers corresponding to $B,C,D,E$ in order toward the positive direction).
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -132,7 +150,9 @@ $\blacksquare$
 
 ### Solution to Exercise 12
 
-By **Definition 12.1.3 (Representing Positive and Negative Numbers on the Number Line)**, point $B$ may lie on either side of point $A$. $3$ grids to the right: $-1+3=2$; $3$ grids to the left: $-1-3=-4$. Thus point $B$ may be at $2$ or at $-4$. $\blacksquare$
+By **Definition 12.1.3 (Representing Positive and Negative Numbers on the Number Line)**, point $B$ may lie on either side of point $A$. $3$ grids to the right: $-1+3=2$; $3$ grids to the left: $-1-3=-4$. Thus point $B$ may be at $2$ or at $-4$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -140,7 +160,9 @@ By **Definition 12.1.3 (Representing Positive and Negative Numbers on the Number
 
 ### Solution to Exercise 13
 
-By **Definition 12.1.1 (Positive and Negative Numbers)**, a positive growth rate means growth and a negative one means a decrease. Month $2$ vs month $1$: $\left(130-100\right)\div100=30\%$, a $30\%$ increase. Month $4$ vs month $3$: $\left(111.15-117\right)\div117=-5\%$, i.e. a growth of $-5\%$. Month $5$ is unchanged from month $4$, so the growth rate is $0\%$. $\blacksquare$
+By **Definition 12.1.1 (Positive and Negative Numbers)**, a positive growth rate means growth and a negative one means a decrease. Month $2$ vs month $1$: $\left(130-100\right)\div100=30\%$, a $30\%$ increase. Month $4$ vs month $3$: $\left(111.15-117\right)\div117=-5\%$, i.e. a growth of $-5\%$. Month $5$ is unchanged from month $4$, so the growth rate is $0\%$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -148,4 +170,6 @@ By **Definition 12.1.1 (Positive and Negative Numbers)**, a positive growth rate
 
 ### Solution to Exercise 14
 
-By **Definition 12.2.1 (Discount)**. (1) Current price $=280\times85\%=238$ (yuan). (2) Selling at 10% off means $90\%$ of the original price; the saving is $1-90\%=10\%$ of the original price: $160\times\left(1-90\%\right)=160\times10\%=16$ (yuan). $\blacksquare$
+By **Definition 12.2.1 (Discount)**. (1) Current price $=280\times85\%=238$ (yuan). (2) Selling at 10% off means $90\%$ of the original price; the saving is $1-90\%=10\%$ of the original price: $160\times\left(1-90\%\right)=160\times10\%=16$ (yuan).
+
+$\blacksquare$

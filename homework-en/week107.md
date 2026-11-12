@@ -42,7 +42,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 9.6.4 (梯形的面积)**, $S=\left(a+b\right)h\div2=\left(36+120\right)\times135\div2=156\times135\div2=10530$ m$^2$. $\blacksquare$
+By **Definition 9.6.4 (梯形的面积)**, $S=\left(a+b\right)h\div2=\left(36+120\right)\times135\div2=156\times135\div2=10530$ m$^2$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -50,7 +52,9 @@ By **Definition 9.6.4 (梯形的面积)**, $S=\left(a+b\right)h\div2=\left(36+12
 
 ### Solution to Exercise 2
 
-By **Definition 9.6.4 (梯形的面积)**, $S=\left(2.8+1.4\right)\times1.2\div2=4.2\times1.2\div2=2.52$ m$^2$. $\blacksquare$
+By **Definition 9.6.4 (梯形的面积)**, $S=\left(2.8+1.4\right)\times1.2\div2=4.2\times1.2\div2=2.52$ m$^2$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -58,7 +62,9 @@ By **Definition 9.6.4 (梯形的面积)**, $S=\left(2.8+1.4\right)\times1.2\div2
 
 ### Solution to Exercise 3
 
-By **Definition 9.6.4 (梯形的面积)**, $S=\left(a+b\right)h\div2$, substitute each. E.g. $\left(12+15\right)\times4.8\div2=27\times4.8\div2=64.8$ cm$^2$. $\blacksquare$
+By **Definition 9.6.4 (梯形的面积)**, $S=\left(a+b\right)h\div2$, substitute each. E.g. $\left(12+15\right)\times4.8\div2=27\times4.8\div2=64.8$ cm$^2$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -66,7 +72,9 @@ By **Definition 9.6.4 (梯形的面积)**, $S=\left(a+b\right)h\div2$, substitut
 
 ### Solution to Exercise 4
 
-The fence is the upper base plus lower base plus height (one side against the wall), so upper base $+$ lower base $=46-20=26$ m. Area $=26\times20\div2=260$ m$^2$. $\blacksquare$
+The fence is the upper base plus lower base plus height (one side against the wall), so upper base $+$ lower base $=46-20=26$ m. Area $=26\times20\div2=260$ m$^2$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -74,7 +82,9 @@ The fence is the upper base plus lower base plus height (one side against the wa
 
 ### Solution to Exercise 5
 
-By **Definition 9.6.4 (梯形的面积)**, $15=\left(4.5+b\right)\times3\div2$, $4.5+b=10$, $b=5.5$ cm. $\blacksquare$
+By **Definition 9.6.4 (梯形的面积)**, $15=\left(4.5+b\right)\times3\div2$, $4.5+b=10$, $b=5.5$ cm.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -82,7 +92,9 @@ By **Definition 9.6.4 (梯形的面积)**, $15=\left(4.5+b\right)\times3\div2$, 
 
 ### Solution to Exercise 6
 
-By **Definition 9.6.4 (梯形的面积)**, the pile's cross-section is a trapezoid: the top count is the upper base, the bottom count the lower base, and the number of layers the height; the total count is just the trapezoid area formula. $\blacksquare$
+By **Definition 9.6.4 (梯形的面积)**, the pile's cross-section is a trapezoid: the top count is the upper base, the bottom count the lower base, and the number of layers the height; the total count is just the trapezoid area formula.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -90,7 +102,9 @@ By **Definition 9.6.4 (梯形的面积)**, the pile's cross-section is a trapezo
 
 ### Solution to Exercise 7
 
-By **Definition 9.6.5 (组合图形的面积)**, square area $5\times5=25$ m$^2$, triangle area $5\times2\div2=5$ m$^2$, total $25+5=30$ m$^2$. $\blacksquare$
+By **Definition 9.6.5 (组合图形的面积)**, square area $5\times5=25$ m$^2$, triangle area $5\times2\div2=5$ m$^2$, total $25+5=30$ m$^2$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -98,7 +112,9 @@ By **Definition 9.6.5 (组合图形的面积)**, square area $5\times5=25$ m$^2$
 
 ### Solution to Exercise 8
 
-By **Definition 9.6.6 (不规则图形面积的估计)**, the area is between $18$ and $36$ cm$^2$; counting partials as half: $18+18\div2=27$ cm$^2$. $\blacksquare$
+By **Definition 9.6.6 (不规则图形面积的估计)**, the area is between $18$ and $36$ cm$^2$; counting partials as half: $18+18\div2=27$ cm$^2$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -106,7 +122,9 @@ By **Definition 9.6.6 (不规则图形面积的估计)**, the area is between $1
 
 ### Solution to Exercise 9
 
-By **Definition 9.6.5 (组合图形的面积)**, rectangle $50\times33=1650$ m$^2$, triangle $35\times12\div2=210$ m$^2$, total $1860$ m$^2$. $\blacksquare$
+By **Definition 9.6.5 (组合图形的面积)**, rectangle $50\times33=1650$ m$^2$, triangle $35\times12\div2=210$ m$^2$, total $1860$ m$^2$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -114,7 +132,9 @@ By **Definition 9.6.5 (组合图形的面积)**, rectangle $50\times33=1650$ m$^
 
 ### Solution to Exercise 10
 
-Trapezoid area $\left(40+70\right)\times30\div2=1650$ m$^2$, pond $30\times15=450$ m$^2$, grass $1650-450=1200$ m$^2$. $\blacksquare$
+Trapezoid area $\left(40+70\right)\times30\div2=1650$ m$^2$, pond $30\times15=450$ m$^2$, grass $1650-450=1200$ m$^2$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -122,7 +142,9 @@ Trapezoid area $\left(40+70\right)\times30\div2=1650$ m$^2$, pond $30\times15=45
 
 ### Solution to Exercise 11
 
-Total square area $12\times12=144$ cm$^2$. By ratio: the two large triangles each take $\frac{1}{4}$, i.e. $36$ cm$^2$; the medium triangle takes $\frac{1}{8}$, i.e. $18$ cm$^2$; the two small triangles each take $\frac{1}{16}$, i.e. $9$ cm$^2$; the square takes $\frac{1}{8}$, i.e. $18$ cm$^2$; the parallelogram takes $\frac{1}{8}$, i.e. $18$ cm$^2$. $\blacksquare$
+Total square area $12\times12=144$ cm$^2$. By ratio: the two large triangles each take $\frac{1}{4}$, i.e. $36$ cm$^2$; the medium triangle takes $\frac{1}{8}$, i.e. $18$ cm$^2$; the two small triangles each take $\frac{1}{16}$, i.e. $9$ cm$^2$; the square takes $\frac{1}{8}$, i.e. $18$ cm$^2$; the parallelogram takes $\frac{1}{8}$, i.e. $18$ cm$^2$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -130,7 +152,9 @@ Total square area $12\times12=144$ cm$^2$. By ratio: the two large triangles eac
 
 ### Solution to Exercise 12
 
-By **Definition 9.6.7 (Pick's theorem)**, count interior points $a$ and boundary points $b$, substitute into $S=a+b\div2-1$, and compare with the split-method result. $\blacksquare$
+By **Definition 9.6.7 (Pick's theorem)**, count interior points $a$ and boundary points $b$, substitute into $S=a+b\div2-1$, and compare with the split-method result.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -138,7 +162,9 @@ By **Definition 9.6.7 (Pick's theorem)**, count interior points $a$ and boundary
 
 ### Solution to Exercise 13
 
-Rectangle $36\times18=648$ cm$^2$; parallelogram $1.9\times1.8=3.42$ m$^2$; triangle $3.1\times2.2\div2=3.41$ m$^2$; trapezoid by $\left(a+b\right)h\div2$. $\blacksquare$
+Rectangle $36\times18=648$ cm$^2$; parallelogram $1.9\times1.8=3.42$ m$^2$; triangle $3.1\times2.2\div2=3.41$ m$^2$; trapezoid by $\left(a+b\right)h\div2$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -146,7 +172,9 @@ Rectangle $36\times18=648$ cm$^2$; parallelogram $1.9\times1.8=3.42$ m$^2$; tria
 
 ### Solution to Exercise 14
 
-Sown area $2\times5000\times4=40000$ m$^2=4$ hectares. $\blacksquare$
+Sown area $2\times5000\times4=40000$ m$^2=4$ hectares.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -154,7 +182,9 @@ Sown area $2\times5000\times4=40000$ m$^2=4$ hectares. $\blacksquare$
 
 ### Solution to Exercise 15
 
-Rectangle $5\times4=20$ m$^2$, triangle $5\times1.2\div2=3$ m$^2$, total $23$ m$^2$, bricks $23\times185=4255$. $\blacksquare$
+Rectangle $5\times4=20$ m$^2$, triangle $5\times1.2\div2=3$ m$^2$, total $23$ m$^2$, bricks $23\times185=4255$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -162,7 +192,9 @@ Rectangle $5\times4=20$ m$^2$, triangle $5\times1.2\div2=3$ m$^2$, total $23$ m$
 
 ### Solution to Exercise 16
 
-By **Definition 9.7.1 (Tessellation)**, covering the whole plane without overlaps or gaps between figures is tessellation. In life, honeycombs, floor tiles and carpet patterns are all tessellations. $\blacksquare$
+By **Definition 9.7.1 (Tessellation)**, covering the whole plane without overlaps or gaps between figures is tessellation. In life, honeycombs, floor tiles and carpet patterns are all tessellations.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -170,7 +202,9 @@ By **Definition 9.7.1 (Tessellation)**, covering the whole plane without overlap
 
 ### Solution to Exercise 17
 
-By **Definition 9.7.2 (可以密铺的多边形)**, parallelograms, trapezoids, triangles and quadrilaterals all tessellate; circles do not. Test by actually assembling them. $\blacksquare$
+By **Definition 9.7.2 (可以密铺的多边形)**, parallelograms, trapezoids, triangles and quadrilaterals all tessellate; circles do not. Test by actually assembling them.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -178,7 +212,9 @@ By **Definition 9.7.2 (可以密铺的多边形)**, parallelograms, trapezoids, 
 
 ### Solution to Exercise 18
 
-By **Definition 9.7.2 (可以密铺的多边形)**, a quadrilateral's interior-angle sum is $360^\circ$, and around each vertex exactly four different angles fit together without overlap or gap. $\blacksquare$
+By **Definition 9.7.2 (可以密铺的多边形)**, a quadrilateral's interior-angle sum is $360^\circ$, and around each vertex exactly four different angles fit together without overlap or gap.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -186,7 +222,9 @@ By **Definition 9.7.2 (可以密铺的多边形)**, a quadrilateral's interior-a
 
 ### Solution to Exercise 19
 
-By **Definition 9.7.2 (可以密铺的多边形)**, triangles ($180^\circ\times2=360^\circ$) and quadrilaterals ($360^\circ$) tessellate; a regular pentagon's interior angle is $108^\circ$, and $360\div108$ is not an integer, so it does not tessellate; circles do not tessellate. $\blacksquare$
+By **Definition 9.7.2 (可以密铺的多边形)**, triangles ($180^\circ\times2=360^\circ$) and quadrilaterals ($360^\circ$) tessellate; a regular pentagon's interior angle is $108^\circ$, and $360\div108$ is not an integer, so it does not tessellate; circles do not tessellate.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -194,7 +232,9 @@ By **Definition 9.7.2 (可以密铺的多边形)**, triangles ($180^\circ\times2
 
 ### Solution to Exercise 20
 
-By **Definition 9.7.1 (密铺)** and knowledge of figure motion, translate and rotate the cut pieces onto the opposite sides; the new figure keeps the tessellation property and can cover the plane continuously. $\blacksquare$
+By **Definition 9.7.1 (密铺)** and knowledge of figure motion, translate and rotate the cut pieces onto the opposite sides; the new figure keeps the tessellation property and can cover the plane continuously.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -202,4 +242,6 @@ By **Definition 9.7.1 (密铺)** and knowledge of figure motion, translate and r
 
 ### Solution to Exercise 21
 
-Choose a square, cut a piece from the left, rotate it $90^\circ$ counterclockwise about point A and attach it to the top to get a new pattern, then copy it continuously by translation to tessellate. $\blacksquare$
+Choose a square, cut a piece from the left, rotate it $90^\circ$ counterclockwise about point A and attach it to the top to get a new pattern, then copy it continuously by translation to tessellate.
+
+$\blacksquare$

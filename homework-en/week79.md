@@ -74,7 +74,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 7.7.2 (Double Bar Chart)**: read the bars in the figure and add them up. Excellent girls: the number of people in the $=135\sim140$ range $+141$ jumps and above. $\blacksquare$
+By **Definition 7.7.2 (Double Bar Chart)**: read the bars in the figure and add them up. Excellent girls: the number of people in the $=135\sim140$ range $+141$ jumps and above.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -82,7 +84,9 @@ By **Definition 7.7.2 (Double Bar Chart)**: read the bars in the figure and add 
 
 ### Solution to Exercise 2
 
-By **Definition 7.7.2 (Double Bar Chart)**: (1) landlines were the most in 2016 at $20663$ ten-thousand households, and mobile phones were the most in 2019 at $160134$ ten-thousand households; (2) landlines decline year by year, while mobile phones first increase and then decrease. $\blacksquare$
+By **Definition 7.7.2 (Double Bar Chart)**: (1) landlines were the most in 2016 at $20663$ ten-thousand households, and mobile phones were the most in 2019 at $160134$ ten-thousand households; (2) landlines decline year by year, while mobile phones first increase and then decrease.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -90,7 +94,9 @@ By **Definition 7.7.2 (Double Bar Chart)**: (1) landlines were the most in 2016 
 
 ### Solution to Exercise 3
 
-By **Definition 7.7.2 (Double Bar Chart)**: (1) wind generation is the most in September at $723$ and the fewest in December at $476$; (2) wind totals $723+613+602+476=2414$, solar totals $397+360+324+202=1283$, and nuclear totals $200+190+162+158=710$ hundred million kWh; (3) wind generation declines month by month. $\blacksquare$
+By **Definition 7.7.2 (Double Bar Chart)**: (1) wind generation is the most in September at $723$ and the fewest in December at $476$; (2) wind totals $723+613+602+476=2414$, solar totals $397+360+324+202=1283$, and nuclear totals $200+190+162+158=710$ hundred million kWh; (3) wind generation declines month by month.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -98,7 +104,9 @@ By **Definition 7.7.2 (Double Bar Chart)**: (1) wind generation is the most in S
 
 ### Solution to Exercise 4
 
-By **Definition 7.8.1 (The Eight Directions)**, the southeast corner is the direction between east and south, i.e. the lower-right of the science and technology hall. $\blacksquare$
+By **Definition 7.8.1 (The Eight Directions)**, the southeast corner is the direction between east and south, i.e. the lower-right of the science and technology hall.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -106,7 +114,9 @@ By **Definition 7.8.1 (The Eight Directions)**, the southeast corner is the dire
 
 ### Solution to Exercise 5
 
-By **Definition 7.8.1 (The Eight Directions)** and **Definition 7.8.2 (Position and Direction)**, the red needle of the compass points north and the white needle points south; between east and north is northeast, between west and south is southwest, and so on. $\blacksquare$
+By **Definition 7.8.1 (The Eight Directions)** and **Definition 7.8.2 (Position and Direction)**, the red needle of the compass points north and the white needle points south; between east and north is northeast, between west and south is southwest, and so on.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -114,7 +124,9 @@ By **Definition 7.8.1 (The Eight Directions)** and **Definition 7.8.2 (Position 
 
 ### Solution to Exercise 6
 
-By **Definition 7.8.2 (Position and Direction)**, first find the reference point, then mark the treasure positions according to direction and distance. $\blacksquare$
+By **Definition 7.8.2 (Position and Direction)**, first find the reference point, then mark the treasure positions according to direction and distance.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -122,7 +134,9 @@ By **Definition 7.8.2 (Position and Direction)**, first find the reference point
 
 ### Solution to Exercise 7
 
-By **Definition 7.8.2 (Position and Direction)**, mark a "north" arrow on the map, draw each landmark, and label the treasure numbers and their positions. $\blacksquare$
+By **Definition 7.8.2 (Position and Direction)**, mark a "north" arrow on the map, draw each landmark, and label the treasure numbers and their positions.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -130,7 +144,9 @@ By **Definition 7.8.2 (Position and Direction)**, mark a "north" arrow on the ma
 
 ### Solution to Exercise 8
 
-By **Definition 7.8.2 (Position and Direction)**, the key to fast treasure hunting is clear instructions, unambiguous landmarks, and accurate direction judgment. $\blacksquare$
+By **Definition 7.8.2 (Position and Direction)**, the key to fast treasure hunting is clear instructions, unambiguous landmarks, and accurate direction judgment.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -138,7 +154,9 @@ By **Definition 7.8.2 (Position and Direction)**, the key to fast treasure hunti
 
 ### Solution to Exercise 9
 
-By **Definition 7.8.1 (The Eight Directions)**, take the standing person's front as $12$ o'clock and go clockwise $30^{\circ}$ for each hour mark; for example, the $1$ o'clock direction is $30^{\circ}$ to the front-right. $\blacksquare$
+By **Definition 7.8.1 (The Eight Directions)**, take the standing person's front as $12$ o'clock and go clockwise $30^{\circ}$ for each hour mark; for example, the $1$ o'clock direction is $30^{\circ}$ to the front-right.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -146,7 +164,9 @@ By **Definition 7.8.1 (The Eight Directions)**, take the standing person's front
 
 ### Solution to Exercise 10
 
-By **Definition 7.9.1 (Review of Numbers and Operations)**, for example write $1003840005$, read as "one billion, three million, eight hundred forty thousand, five"; the two $3$'s are in the hundred-million place and the million place respectively; rewriting in units of "ten thousand" gives $=100384.0005$ ten thousand (or approximately $10$ hundred million). $\blacksquare$
+By **Definition 7.9.1 (Review of Numbers and Operations)**, for example write $1003840005$, read as "one billion, three million, eight hundred forty thousand, five"; the two $3$'s are in the hundred-million place and the million place respectively; rewriting in units of "ten thousand" gives $=100384.0005$ ten thousand (or approximately $10$ hundred million).
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -154,7 +174,9 @@ By **Definition 7.9.1 (Review of Numbers and Operations)**, for example write $1
 
 ### Solution to Exercise 11
 
-By the alignment rules of **Definition 7.4.2 (Written Multiplication)**, the usual error is that the last digit of the product obtained by multiplying by the tens digit is not aligned with the tens place, or an error occurs in adding the two partial products. $\blacksquare$
+By the alignment rules of **Definition 7.4.2 (Written Multiplication)**, the usual error is that the last digit of the product obtained by multiplying by the tens digit is not aligned with the tens place, or an error occurs in adding the two partial products.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -162,7 +184,9 @@ By the alignment rules of **Definition 7.4.2 (Written Multiplication)**, the usu
 
 ### Solution to Exercise 12
 
-By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: a square and a rectangle have both pairs of opposite sides parallel and equal, four right angles, and a square has all four sides equal; a parallelogram has both pairs of opposite sides parallel and equal, no right angles and unequal sides; a trapezoid has only one pair of opposite sides parallel. $\blacksquare$
+By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: a square and a rectangle have both pairs of opposite sides parallel and equal, four right angles, and a square has all four sides equal; a parallelogram has both pairs of opposite sides parallel and equal, no right angles and unequal sides; a trapezoid has only one pair of opposite sides parallel.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -170,7 +194,9 @@ By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: a 
 
 ### Solution to Exercise 13
 
-By **Definition 7.8.1 (The Eight Directions)**, first walk north to the lion-tiger hill, then go northwest; judge the direction of each enclosure by north up, south down, west left, east right. $\blacksquare$
+By **Definition 7.8.1 (The Eight Directions)**, first walk north to the lion-tiger hill, then go northwest; judge the direction of each enclosure by north up, south down, west left, east right.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -178,7 +204,9 @@ By **Definition 7.8.1 (The Eight Directions)**, first walk north to the lion-tig
 
 ### Solution to Exercise 14
 
-By **Definition 7.1.3 (Reading Large Numbers)**: $30600$ reads "thirty thousand six hundred"; $7056200$ reads "seven million, fifty-six thousand, two hundred"; $13820000$ reads "thirteen million, eight hundred twenty thousand"; $504200$ reads "five hundred four thousand, two hundred"; $12000900$ reads "twelve million nine hundred"; $406098000$ reads "four hundred six million, ninety-eight thousand". $\blacksquare$
+By **Definition 7.1.3 (Reading Large Numbers)**: $30600$ reads "thirty thousand six hundred"; $7056200$ reads "seven million, fifty-six thousand, two hundred"; $13820000$ reads "thirteen million, eight hundred twenty thousand"; $504200$ reads "five hundred four thousand, two hundred"; $12000900$ reads "twelve million nine hundred"; $406098000$ reads "four hundred six million, ninety-eight thousand".
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -186,7 +214,9 @@ By **Definition 7.1.3 (Reading Large Numbers)**: $30600$ reads "thirty thousand 
 
 ### Solution to Exercise 15
 
-By **Definition 7.1.4 (Writing Large Numbers)**: (1) $17013874$, $107320594$; (2) $6629421$. $\blacksquare$
+By **Definition 7.1.4 (Writing Large Numbers)**: (1) $17013874$, $107320594$; (2) $6629421$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -194,7 +224,9 @@ By **Definition 7.1.4 (Writing Large Numbers)**: (1) $17013874$, $107320594$; (2
 
 ### Solution to Exercise 16
 
-By **Definition 7.1.6 (Rewriting Numbers)**: (1) $2718$ ten thousand vehicles, $700$ ten thousand vehicles; (2) $44$ ten thousand sets; (3) $383$ ten thousand hectares, $120$ ten thousand hectares; (4) $19$ hundred million households, $17$ hundred million households. $\blacksquare$
+By **Definition 7.1.6 (Rewriting Numbers)**: (1) $2718$ ten thousand vehicles, $700$ ten thousand vehicles; (2) $44$ ten thousand sets; (3) $383$ ten thousand hectares, $120$ ten thousand hectares; (4) $19$ hundred million households, $17$ hundred million households.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -202,7 +234,9 @@ By **Definition 7.1.6 (Rewriting Numbers)**: (1) $2718$ ten thousand vehicles, $
 
 ### Solution to Exercise 17
 
-By **Definition 7.9.1 (Review of Numbers and Operations)**: (1) a ten-digit number, the highest place is the ten-billion place, and $7$ is in the million place representing $7$ millions; (2) $40200<42000$, $70$ hundred million $>69$ hundred million, $125\times80=10000>430\times30=12900$? Actually $10000<12900$, $43\times300=12900=1250\times40=50000$? $43\times300=12900<1250\times40=50000$; (3) $50\times12=600$. $\blacksquare$
+By **Definition 7.9.1 (Review of Numbers and Operations)**: (1) a ten-digit number, the highest place is the ten-billion place, and $7$ is in the million place representing $7$ millions; (2) $40200<42000$, $70$ hundred million $>69$ hundred million, $125\times80=10000>430\times30=12900$? Actually $10000<12900$, $43\times300=12900=1250\times40=50000$? $43\times300=12900<1250\times40=50000$; (3) $50\times12=600$.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -210,4 +244,6 @@ By **Definition 7.9.1 (Review of Numbers and Operations)**: (1) a ten-digit numb
 
 ### Solution to Exercise 18
 
-By **Definition 7.4.1 (Mental Multiplication)**: $12\times60=720$, $23\times30=690$, $5\times90=450$, $96\div4=24$, $36\times5=180$, $20\times80=1600$, $11\times600=6600$, $27\times2=54$, $320\div8=40$, $50\times60=3000$, $720\div9=80$, $480+60=540$, $140\times40=5600$, $84\div4=21$, $200\times40=8000$, $560\div7=80$, $70\times130=9100$, $65-37=28$. $\blacksquare$
+By **Definition 7.4.1 (Mental Multiplication)**: $12\times60=720$, $23\times30=690$, $5\times90=450$, $96\div4=24$, $36\times5=180$, $20\times80=1600$, $11\times600=6600$, $27\times2=54$, $320\div8=40$, $50\times60=3000$, $720\div9=80$, $480+60=540$, $140\times40=5600$, $84\div4=21$, $200\times40=8000$, $560\div7=80$, $70\times130=9100$, $65-37=28$.
+
+$\blacksquare$

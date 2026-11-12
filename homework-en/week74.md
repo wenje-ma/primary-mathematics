@@ -22,7 +22,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 7.4.3 (How the Product Changes)**, the width goes from $8$ m to $24$ m, multiplied by $3$, and the length is unchanged, so the area is also multiplied by $3$: $200\times3=600$ m$^2$. $\blacksquare$
+By **Definition 7.4.3 (How the Product Changes)**, the width goes from $8$ m to $24$ m, multiplied by $3$, and the length is unchanged, so the area is also multiplied by $3$: $200\times3=600$ m$^2$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -30,7 +32,9 @@ By **Definition 7.4.3 (How the Product Changes)**, the width goes from $8$ m to 
 
 ### Solution to Exercise 2
 
-Find the pattern: (1) $9\times9=81$, $99\times99=9801$, $999\times999=998001$, $9999\times9999=99980001$, $99999\times99999=9999800001$. (2) $6\times7=42$, $66\times67=4422$, $666\times667=444222$, $6666\times6667=44442222$, $66666\times66667=4444422222$. $\blacksquare$
+Find the pattern: (1) $9\times9=81$, $99\times99=9801$, $999\times999=998001$, $9999\times9999=99980001$, $99999\times99999=9999800001$. (2) $6\times7=42$, $66\times67=4422$, $666\times667=444222$, $6666\times6667=44442222$, $66666\times66667=4444422222$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -38,7 +42,9 @@ Find the pattern: (1) $9\times9=81$, $99\times99=9801$, $999\times999=998001$, $
 
 ### Solution to Exercise 3
 
-By **Definition 7.4.1 (Mental Multiplication)**: $40\times80=3200$, $50\times90=4500$, $32\times20=640$, $190\times5=950$, $70\times140=9800$, $21\times40=840$, $300\times60=18000$, $25\times30=750$. $\blacksquare$
+By **Definition 7.4.1 (Mental Multiplication)**: $40\times80=3200$, $50\times90=4500$, $32\times20=640$, $190\times5=950$, $70\times140=9800$, $21\times40=840$, $300\times60=18000$, $25\times30=750$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -46,7 +52,9 @@ By **Definition 7.4.1 (Mental Multiplication)**: $40\times80=3200$, $50\times90=
 
 ### Solution to Exercise 4
 
-By **Definition 7.4.2 (Written Multiplication)**: $480\times50=24000$, $506\times26=13156$, $3700\times35=129500$, $58\times2500=145000$, $408\times50=20400$, $560\times26=14560$, $3070\times35=107450$, $85\times2005=170425$. $\blacksquare$
+By **Definition 7.4.2 (Written Multiplication)**: $480\times50=24000$, $506\times26=13156$, $3700\times35=129500$, $58\times2500=145000$, $408\times50=20400$, $560\times26=14560$, $3070\times35=107450$, $85\times2005=170425$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -54,7 +62,9 @@ By **Definition 7.4.2 (Written Multiplication)**: $480\times50=24000$, $506\time
 
 ### Solution to Exercise 5
 
-By **Definition 7.4.3 (How the Product Changes)**: $120\times20=12\times200$; $500\times10=5000<10\times550=5500$; $16\times400=6400>210\times4=840$; $19\times300=5700>30\times180=5400$. $\blacksquare$
+By **Definition 7.4.3 (How the Product Changes)**: $120\times20=12\times200$; $500\times10=5000<10\times550=5500$; $16\times400=6400>210\times4=840$; $19\times300=5700>30\times180=5400$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -62,7 +72,9 @@ By **Definition 7.4.3 (How the Product Changes)**: $120\times20=12\times200$; $5
 
 ### Solution to Exercise 6
 
-By **Definition 7.4.2 (Written Multiplication)**: basketballs $158\times29=4582$ yuan, footballs $120\times38=4560$ yuan. Volleyballs are filled in by multiplying their unit price by the quantity. $\blacksquare$
+By **Definition 7.4.2 (Written Multiplication)**: basketballs $158\times29=4582$ yuan, footballs $120\times38=4560$ yuan. Volleyballs are filled in by multiplying their unit price by the quantity.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -70,7 +82,9 @@ By **Definition 7.4.2 (Written Multiplication)**: basketballs $158\times29=4582$
 
 ### Solution to Exercise 7
 
-By **Definition 7.4.3 (How the Product Changes)**: (1) $79\times2=158$, $79\times20=1580$, $79\times200=15800$; (2) $240\times3=720$, $240\times30=7200$, $24\times3=72$; (3) $180\times5=900$, $180\times15=2700$, $360\times15=5400$. $\blacksquare$
+By **Definition 7.4.3 (How the Product Changes)**: (1) $79\times2=158$, $79\times20=1580$, $79\times200=15800$; (2) $240\times3=720$, $240\times30=7200$, $24\times3=72$; (3) $180\times5=900$, $180\times15=2700$, $360\times15=5400$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -78,7 +92,9 @@ By **Definition 7.4.3 (How the Product Changes)**: (1) $79\times2=158$, $79\time
 
 ### Solution to Exercise 8
 
-By **Definition 7.4.3 (How the Product Changes)**: $15\times28=420$, $15\times42=630$, $15\times56=840$, $15\times70=1050$. $\blacksquare$
+By **Definition 7.4.3 (How the Product Changes)**: $15\times28=420$, $15\times42=630$, $15\times56=840$, $15\times70=1050$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -86,7 +102,9 @@ By **Definition 7.4.3 (How the Product Changes)**: $15\times28=420$, $15\times42
 
 ### Solution to Exercise 9
 
-Pattern: when two equal numbers whose ones digit is $5$ are multiplied, the last two digits are $25$, and the front is the tens digit times (the tens digit $+1$). $15\times15=225$, $25\times25=625$, $35\times35=1225$, $45\times45=2025$, $55\times55=3025$, $65\times65=4225$, $75\times75=5625$, $85\times85=7225$. $\blacksquare$
+Pattern: when two equal numbers whose ones digit is $5$ are multiplied, the last two digits are $25$, and the front is the tens digit times (the tens digit $+1$). $15\times15=225$, $25\times25=625$, $35\times35=1225$, $45\times45=2025$, $55\times55=3025$, $65\times65=4225$, $75\times75=5625$, $85\times85=7225$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -94,7 +112,9 @@ Pattern: when two equal numbers whose ones digit is $5$ are multiplied, the last
 
 ### Solution to Exercise 10
 
-Pattern: (some $3$s) times (some $3$s plus $4$) gives some $1$s followed by some $2$s. $111111222222$ corresponds to $333333\times333334$. $\blacksquare$
+Pattern: (some $3$s) times (some $3$s plus $4$) gives some $1$s followed by some $2$s. $111111222222$ corresponds to $333333\times333334$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -102,7 +122,9 @@ Pattern: (some $3$s) times (some $3$s plus $4$) gives some $1$s followed by some
 
 ### Solution to Exercise 11
 
-Each bus actually carries $47$ teachers/students, $47\times19\approx50\times20=1000<1026$, not enough. Computing exactly, $47\times19=893<1026$, not enough. $\blacksquare$
+Each bus actually carries $47$ teachers/students, $47\times19\approx50\times20=1000<1026$, not enough. Computing exactly, $47\times19=893<1026$, not enough.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -110,7 +132,9 @@ Each bus actually carries $47$ teachers/students, $47\times19\approx50\times20=1
 
 ### Solution to Exercise 12
 
-$105\times30=3150$ characters, $3150>3000$, he can finish. $\blacksquare$
+$105\times30=3150$ characters, $3150>3000$, he can finish.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -118,7 +142,9 @@ $105\times30=3150$ characters, $3150>3000$, he can finish. $\blacksquare$
 
 ### Solution to Exercise 13
 
-By **Definition 7.4.4 (Estimation in Multiplication)**, $19\times18\approx20\times20=400$, $400\times4=1600$ people. $\blacksquare$
+By **Definition 7.4.4 (Estimation in Multiplication)**, $19\times18\approx20\times20=400$, $400\times4=1600$ people.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -126,7 +152,9 @@ By **Definition 7.4.4 (Estimation in Multiplication)**, $19\times18\approx20\tim
 
 ### Solution to Exercise 14
 
-$293\times18\approx300\times20=6000$ kg $=6$ t; computing exactly, $293\times18=5274$ kg $<6000$ kg, it can carry them. $\blacksquare$
+$293\times18\approx300\times20=6000$ kg $=6$ t; computing exactly, $293\times18=5274$ kg $<6000$ kg, it can carry them.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -134,7 +162,9 @@ $293\times18\approx300\times20=6000$ kg $=6$ t; computing exactly, $293\times18=
 
 ### Solution to Exercise 15
 
-By **Definition 7.4.2 (Written Multiplication)**, $90\times201=18090$ minutes. $\blacksquare$
+By **Definition 7.4.2 (Written Multiplication)**, $90\times201=18090$ minutes.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -142,4 +172,6 @@ By **Definition 7.4.2 (Written Multiplication)**, $90\times201=18090$ minutes. $
 
 ### Solution to Exercise 16
 
-$192\times38\approx200\times40=8000$; computing exactly, $192\times38=7296<8000$, enough. $\blacksquare$
+$192\times38\approx200\times40=8000$; computing exactly, $192\times38=7296<8000$, enough.
+
+$\blacksquare$

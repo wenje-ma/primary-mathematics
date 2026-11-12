@@ -26,7 +26,9 @@
 
 ### 解答 练习一
 
-$40\times4=160$ 千米. $\blacksquare$
+$40\times4=160$ 千米.
+
+$\blacksquare$
 
 ## 练习二
 
@@ -34,7 +36,9 @@ $40\times4=160$ 千米. $\blacksquare$
 
 ### 解答 练习二
 
-$7\times8+6=62$; $20\times3+98=158$; $2000\times4+1980=9980$; $4\times6+6=30$; $70\times9-120=510$; $\left(406-385\right)\times3=63$. $\blacksquare$
+$7\times8+6=62$; $20\times3+98=158$; $2000\times4+1980=9980$; $4\times6+6=30$; $70\times9-120=510$; $\left(406-385\right)\times3=63$.
+
+$\blacksquare$
 
 ## 练习三
 
@@ -42,7 +46,9 @@ $7\times8+6=62$; $20\times3+98=158$; $2000\times4+1980=9980$; $4\times6+6=30$; $
 
 ### 解答 练习三
 
-先想哪两个数积是 $24$: $3\times8=24$, $4\times6=24$. 所以 $30\times8=240$, $80\times3=240$, $40\times6=240$, $60\times4=240$. 共 $4$ 个. $\blacksquare$
+先想哪两个数积是 $24$: $3\times8=24$, $4\times6=24$. 所以 $30\times8=240$, $80\times3=240$, $40\times6=240$, $60\times4=240$. 共 $4$ 个.
+
+$\blacksquare$
 
 ## 练习四
 
@@ -50,7 +56,9 @@ $7\times8+6=62$; $20\times3+98=158$; $2000\times4+1980=9980$; $4\times6+6=30$; $
 
 ### 解答 练习四
 
-$20\times2=40$ 元, $20\times3=60$ 元, $20\times4=80$ 元, $20\times5=100$ 元, $20\times6=120$ 元. $\blacksquare$
+$20\times2=40$ 元, $20\times3=60$ 元, $20\times4=80$ 元, $20\times5=100$ 元, $20\times6=120$ 元.
+
+$\blacksquare$
 
 ## 练习五
 
@@ -58,7 +66,9 @@ $20\times2=40$ 元, $20\times3=60$ 元, $20\times4=80$ 元, $20\times5=100$ 元,
 
 ### 解答 练习五
 
-$21\times2+5=42+5=47$ 棵. $\blacksquare$
+$21\times2+5=42+5=47$ 棵.
+
+$\blacksquare$
 
 ## 练习六
 
@@ -66,7 +76,9 @@ $21\times2+5=42+5=47$ 棵. $\blacksquare$
 
 ### 解答 练习六
 
-$432=4\times100+3\times10+2\times1$; $1597=1\times1000+5\times100+9\times10+7\times1$. $\blacksquare$
+$432=4\times100+3\times10+2\times1$; $1597=1\times1000+5\times100+9\times10+7\times1$.
+
+$\blacksquare$
 
 ## 练习七
 
@@ -74,7 +86,9 @@ $432=4\times100+3\times10+2\times1$; $1597=1\times1000+5\times100+9\times10+7\ti
 
 ### 解答 练习七
 
-$24\times2=48$ 支. 由**定义 5.5.2 (笔算乘法)**, 竖式中 $4\times2=8$ 写个位, $20\times2=40$ 写十位. $\blacksquare$
+$24\times2=48$ 支. 由**定义 5.5.2 (笔算乘法)**, 竖式中 $4\times2=8$ 写个位, $20\times2=40$ 写十位.
+
+$\blacksquare$
 
 ## 练习八
 
@@ -82,7 +96,9 @@ $24\times2=48$ 支. 由**定义 5.5.2 (笔算乘法)**, 竖式中 $4\times2=8$ �
 
 ### 解答 练习八
 
-由**定义 5.5.2 (笔算乘法)**, $213\times2=426$. 个位 $3\times2=6$, 十位 $1\times2=2$, 百位 $2\times2=4$. $\blacksquare$
+由**定义 5.5.2 (笔算乘法)**, $213\times2=426$. 个位 $3\times2=6$, 十位 $1\times2=2$, 百位 $2\times2=4$.
+
+$\blacksquare$
 
 ## 练习九
 
@@ -90,7 +106,9 @@ $24\times2=48$ 支. 由**定义 5.5.2 (笔算乘法)**, 竖式中 $4\times2=8$ �
 
 ### 解答 练习九
 
-$34\times2=68$; $12\times4=48$; $312\times3=936$; $211\times4=844$. $\blacksquare$
+$34\times2=68$; $12\times4=48$; $312\times3=936$; $211\times4=844$.
+
+$\blacksquare$
 
 ## 练习十
 
@@ -98,7 +116,9 @@ $34\times2=68$; $12\times4=48$; $312\times3=936$; $211\times4=844$. $\blacksquar
 
 ### 解答 练习十
 
-$16\times3=48$ 本. $6\times3=18$, 写 $8$ 进 $1$; $10\times3=30$, 加进上来的 $10$ 得 $40$, 十位写 $4$. $\blacksquare$
+$16\times3=48$ 本. $6\times3=18$, 写 $8$ 进 $1$; $10\times3=30$, 加进上来的 $10$ 得 $40$, 十位写 $4$.
+
+$\blacksquare$
 
 ## 练习十一
 
@@ -106,7 +126,9 @@ $16\times3=48$ 本. $6\times3=18$, 写 $8$ 进 $1$; $10\times3=30$, 加进上来
 
 ### 解答 练习十一
 
-由**定义 5.5.2 (笔算乘法)**, $162\times4=648$. 个位 $2\times4=8$, 十位 $6\times4=24$ 写 $4$ 进 $2$, 百位 $1\times4+2=6$. $\blacksquare$
+由**定义 5.5.2 (笔算乘法)**, $162\times4=648$. 个位 $2\times4=8$, 十位 $6\times4=24$ 写 $4$ 进 $2$, 百位 $1\times4+2=6$.
+
+$\blacksquare$
 
 ## 练习十二
 
@@ -114,7 +136,9 @@ $16\times3=48$ 本. $6\times3=18$, 写 $8$ 进 $1$; $10\times3=30$, 加进上来
 
 ### 解答 练习十二
 
-$39\times2=78$; $41\times8=328$; $52\times4=208$; $27\times4=108$; $612\times7=4284$; $193\times2=386$; $318\times3=954$; $284\times2=568$. $\blacksquare$
+$39\times2=78$; $41\times8=328$; $52\times4=208$; $27\times4=108$; $612\times7=4284$; $193\times2=386$; $318\times3=954$; $284\times2=568$.
+
+$\blacksquare$
 
 ## 练习十三
 
@@ -122,7 +146,9 @@ $39\times2=78$; $41\times8=328$; $52\times4=208$; $27\times4=108$; $612\times7=4
 
 ### 解答 练习十三
 
-$24\times9=216$ 瓶. 估算: $20<24<30$, $180<24\times9<270$, 结果合理. $\blacksquare$
+$24\times9=216$ 瓶. 估算: $20<24<30$, $180<24\times9<270$, 结果合理.
+
+$\blacksquare$
 
 ## 练习十四
 
@@ -130,7 +156,9 @@ $24\times9=216$ 瓶. 估算: $20<24<30$, $180<24\times9<270$, 结果合理. $\bl
 
 ### 解答 练习十四
 
-由**定义 5.5.2 (笔算乘法)**, $326\times8=2608$. 个位 $6\times8=48$ 写 $8$ 进 $4$; 十位 $2\times8+4=20$ 写 $0$ 进 $2$; 百位 $3\times8+2=26$. $\blacksquare$
+由**定义 5.5.2 (笔算乘法)**, $326\times8=2608$. 个位 $6\times8=48$ 写 $8$ 进 $4$; 十位 $2\times8+4=20$ 写 $0$ 进 $2$; 百位 $3\times8+2=26$.
+
+$\blacksquare$
 
 ## 练习十五
 
@@ -138,7 +166,9 @@ $24\times9=216$ 瓶. 估算: $20<24<30$, $180<24\times9<270$, 结果合理. $\bl
 
 ### 解答 练习十五
 
-$48\times7=336$; $64\times8=512$; $137\times6=822$; $179\times4=716$. $\blacksquare$
+$48\times7=336$; $64\times8=512$; $137\times6=822$; $179\times4=716$.
+
+$\blacksquare$
 
 ## 练习十六
 
@@ -146,7 +176,9 @@ $48\times7=336$; $64\times8=512$; $137\times6=822$; $179\times4=716$. $\blacksqu
 
 ### 解答 练习十六
 
-$14\times2=28$; $33\times3=99$; $21\times4=84$; $43\times2=86$; $423\times2=846$; $212\times3=636$; $221\times4=884$; $132\times3=396$. $\blacksquare$
+$14\times2=28$; $33\times3=99$; $21\times4=84$; $43\times2=86$; $423\times2=846$; $212\times3=636$; $221\times4=884$; $132\times3=396$.
+
+$\blacksquare$
 
 ## 练习十七
 
@@ -154,7 +186,9 @@ $14\times2=28$; $33\times3=99$; $21\times4=84$; $43\times2=86$; $423\times2=846$
 
 ### 解答 练习十七
 
-(1) $12\times4=48$ 元. (2) $23\times3=69$ 元. (3) 答案不唯一. $\blacksquare$
+(1) $12\times4=48$ 元. (2) $23\times3=69$ 元. (3) 答案不唯一.
+
+$\blacksquare$
 
 ## 练习十八
 
@@ -162,7 +196,9 @@ $14\times2=28$; $33\times3=99$; $21\times4=84$; $43\times2=86$; $423\times2=846$
 
 ### 解答 练习十八
 
-$213\times3=639$ 千克. $\blacksquare$
+$213\times3=639$ 千克.
+
+$\blacksquare$
 
 ## 练习十九
 
@@ -170,7 +206,9 @@ $213\times3=639$ 千克. $\blacksquare$
 
 ### 解答 练习十九
 
-$18\times6=108$ 户. $\blacksquare$
+$18\times6=108$ 户.
+
+$\blacksquare$
 
 ## 练习二十
 
@@ -178,7 +216,9 @@ $18\times6=108$ 户. $\blacksquare$
 
 ### 解答 练习二十
 
-$121\times6=726$ 件. $\blacksquare$
+$121\times6=726$ 件.
+
+$\blacksquare$
 
 ## 练习二十一
 
@@ -186,7 +226,9 @@ $121\times6=726$ 件. $\blacksquare$
 
 ### 解答 练习二十一
 
-$13\times7=91$; $16\times5=80$; $6\times311=1866$; $3\times514=1542$; $823\times4=3292$. $\blacksquare$
+$13\times7=91$; $16\times5=80$; $6\times311=1866$; $3\times514=1542$; $823\times4=3292$.
+
+$\blacksquare$
 
 ## 练习二十二
 
@@ -194,4 +236,6 @@ $13\times7=91$; $16\times5=80$; $6\times311=1866$; $3\times514=1542$; $823\times
 
 ### 解答 练习二十二
 
-$36\times7=252$; $48\times6=288$; $59\times8=472$; $72\times4=288$; $27\times9=243$; $313\times5=1565$; $499\times3=1497$; $824\times5=4120$. $\blacksquare$
+$36\times7=252$; $48\times6=288$; $59\times8=472$; $72\times4=288$; $27\times9=243$; $313\times5=1565$; $499\times3=1497$; $824\times5=4120$.
+
+$\blacksquare$

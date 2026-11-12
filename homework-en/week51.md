@@ -34,7 +34,9 @@
 
 ### Solution to Exercise 1
 
-$708\times3=2124$; $607\times5=3035$; $309\times4=1236$; $502\times3=1506$; $109\times7=763$; $406\times6=2436$. $\blacksquare$
+$708\times3=2124$; $607\times5=3035$; $309\times4=1236$; $502\times3=1506$; $109\times7=763$; $406\times6=2436$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -42,7 +44,9 @@ $708\times3=2124$; $607\times5=3035$; $309\times4=1236$; $502\times3=1506$; $109
 
 ### Solution to Exercise 2
 
-$108\times3=324$ students. $\blacksquare$
+$108\times3=324$ students.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -50,7 +54,9 @@ $108\times3=324$ students. $\blacksquare$
 
 ### Solution to Exercise 3
 
-$640\times2=1280$; $450\times6=2700$; $380\times5=1900$; $460\times7=3220$. $\blacksquare$
+$640\times2=1280$; $450\times6=2700$; $380\times5=1900$; $460\times7=3220$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -58,7 +64,9 @@ $640\times2=1280$; $450\times6=2700$; $380\times5=1900$; $460\times7=3220$. $\bl
 
 ### Solution to Exercise 4
 
-$4\times7=28$, $40\times7=280$, $400\times7=2800$; $21\times3=63$, $210\times3=630$, $2100\times3=6300$; $34\times2=68$, $340\times2=680$, $3400\times2=6800$. Pattern: when one factor stays the same and the other is enlarged $10$ times, the product is also enlarged $10$ times. $\blacksquare$
+$4\times7=28$, $40\times7=280$, $400\times7=2800$; $21\times3=63$, $210\times3=630$, $2100\times3=6300$; $34\times2=68$, $340\times2=680$, $3400\times2=6800$. Pattern: when one factor stays the same and the other is enlarged $10$ times, the product is also enlarged $10$ times.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -66,7 +74,9 @@ $4\times7=28$, $40\times7=280$, $400\times7=2800$; $21\times3=63$, $210\times3=6
 
 ### Solution to Exercise 5
 
-$1500\times6=9000$ meters $=9$ kilometers. $\blacksquare$
+$1500\times6=9000$ meters $=9$ kilometers.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -74,7 +84,9 @@ $1500\times6=9000$ meters $=9$ kilometers. $\blacksquare$
 
 ### Solution to Exercise 6
 
-$208\times4=832$ (the original missed multiplying the middle tens $0$, so it should be $832$, not $8032$); $102\times3=306$ (correct); $350\times6=2100$ (the original missed appending the ending $0$). $\blacksquare$
+$208\times4=832$ (the original missed multiplying the middle tens $0$, so it should be $832$, not $8032$); $102\times3=306$ (correct); $350\times6=2100$ (the original missed appending the ending $0$).
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -82,7 +94,9 @@ $208\times4=832$ (the original missed multiplying the middle tens $0$, so it sho
 
 ### Solution to Exercise 7
 
-Each vehicle actually carries $49-1=48$ students; $8$ vehicles carry $48\times8=384$ people, and $384<417$, so it is not enough. $\blacksquare$
+Each vehicle actually carries $49-1=48$ students; $8$ vehicles carry $48\times8=384$ people, and $384<417$, so it is not enough.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -90,7 +104,9 @@ Each vehicle actually carries $49-1=48$ students; $8$ vehicles carry $48\times8=
 
 ### Solution to Exercise 8
 
-For $5$ people: $197\times5=985$ yuan $<1000$; $208\times5=1040$ yuan $>1000$; $242\times5=1210$ yuan $>1000$. She bought the $197$ yuan fare. $\blacksquare$
+For $5$ people: $197\times5=985$ yuan $<1000$; $208\times5=1040$ yuan $>1000$; $242\times5=1210$ yuan $>1000$. She bought the $197$ yuan fare.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -98,7 +114,9 @@ For $5$ people: $197\times5=985$ yuan $<1000$; $208\times5=1040$ yuan $>1000$; $
 
 ### Solution to Exercise 9
 
-$612\times3=1836$; $9\times123=1107$; $620\times6=3720$; $260\times6=1560$; $405\times5=2025$; $504\times5=2520$. $\blacksquare$
+$612\times3=1836$; $9\times123=1107$; $620\times6=3720$; $260\times6=1560$; $405\times5=2025$; $504\times5=2520$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -106,7 +124,9 @@ $612\times3=1836$; $9\times123=1107$; $620\times6=3720$; $260\times6=1560$; $405
 
 ### Solution to Exercise 10
 
-$208\times4=832$; $102\times3=306$; $350\times6=2100$. $\blacksquare$
+$208\times4=832$; $102\times3=306$; $350\times6=2100$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -114,7 +134,9 @@ $208\times4=832$; $102\times3=306$; $350\times6=2100$. $\blacksquare$
 
 ### Solution to Exercise 11
 
-Comic books: $168-40=128$; together $168+128=296$; popular-science books: $296\times2=592$. $\blacksquare$
+Comic books: $168-40=128$; together $168+128=296$; popular-science books: $296\times2=592$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -122,7 +144,9 @@ Comic books: $168-40=128$; together $168+128=296$; popular-science books: $296\t
 
 ### Solution to Exercise 12
 
-One round trip is $490\times2=980$ meters, and two round trips are $980\times2=1960$ meters. $\blacksquare$
+One round trip is $490\times2=980$ meters, and two round trips are $980\times2=1960$ meters.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -130,7 +154,9 @@ One round trip is $490\times2=980$ meters, and two round trips are $980\times2=1
 
 ### Solution to Exercise 13
 
-Altogether about $60\times8=480$ kilograms; precisely: $59+63+62+60+57+58+62+58=479$ kilograms $<500$ kilograms, so it can carry them in one trip. $\blacksquare$
+Altogether about $60\times8=480$ kilograms; precisely: $59+63+62+60+57+58+62+58=479$ kilograms $<500$ kilograms, so it can carry them in one trip.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -138,7 +164,9 @@ Altogether about $60\times8=480$ kilograms; precisely: $59+63+62+60+57+58+62+58=
 
 ### Solution to Exercise 14
 
-Try the most expensive as first, next as second, cheapest as third: $3999+2998\times5+200\times10=3999+14990+2000=20989$, which exceeds the limit. Adjust: first prize tablet $3999$, second prize fitness card $998\times5=4990$, third prize book card $200\times10=2000$, total $3999+4990+2000=10989$, still exceeds. First prize refrigerator $1968$, second prize fitness card $4990$, third prize book card $2000$, total $8958$ yuan $<10000$. $\blacksquare$
+Try the most expensive as first, next as second, cheapest as third: $3999+2998\times5+200\times10=3999+14990+2000=20989$, which exceeds the limit. Adjust: first prize tablet $3999$, second prize fitness card $998\times5=4990$, third prize book card $200\times10=2000$, total $3999+4990+2000=10989$, still exceeds. First prize refrigerator $1968$, second prize fitness card $4990$, third prize book card $2000$, total $8958$ yuan $<10000$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -146,7 +174,9 @@ Try the most expensive as first, next as second, cheapest as third: $3999+2998\t
 
 ### Solution to Exercise 15
 
-Largest product: put the larger digits in higher places; $321\times4=1284$ or $421\times3=1263$, so $321\times4=1284$ is the largest. Smallest product: $234\times1=234$ is the smallest. $\blacksquare$
+Largest product: put the larger digits in higher places; $321\times4=1284$ or $421\times3=1263$, so $321\times4=1284$ is the largest. Smallest product: $234\times1=234$ is the smallest.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -154,7 +184,9 @@ Largest product: put the larger digits in higher places; $321\times4=1284$ or $4
 
 ### Solution to Exercise 16
 
-$96\times4=384$; $905\times9=8145$; $680\times7=4760$; $234\times9=2106$. $\blacksquare$
+$96\times4=384$; $905\times9=8145$; $680\times7=4760$; $234\times9=2106$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -162,7 +194,9 @@ $96\times4=384$; $905\times9=8145$; $680\times7=4760$; $234\times9=2106$. $\blac
 
 ### Solution to Exercise 17
 
-(1) $200\times2=400$ students. (2) $126\times6=756$ pots. (3) $65\times7=455$ meters $>400$ meters, so he can arrive. $\blacksquare$
+(1) $200\times2=400$ students. (2) $126\times6=756$ pots. (3) $65\times7=455$ meters $>400$ meters, so he can arrive.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -170,7 +204,9 @@ $96\times4=384$; $905\times9=8145$; $680\times7=4760$; $234\times9=2106$. $\blac
 
 ### Solution to Exercise 18
 
-$58\times4=232$ yuan? No, $58\times4=232>200$, which is not enough. According to the figure the soccer ball is $46$ yuan: $46\times4=184$ yuan, and the change is $200-184=16$ yuan. $\blacksquare$
+$58\times4=232$ yuan? No, $58\times4=232>200$, which is not enough. According to the figure the soccer ball is $46$ yuan: $46\times4=184$ yuan, and the change is $200-184=16$ yuan.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -178,7 +214,9 @@ $58\times4=232$ yuan? No, $58\times4=232>200$, which is not enough. According to
 
 ### Solution to Exercise 19
 
-$7\times68$; take $68$ as $70$, $7\times70=490$. $400<490$, not enough; $500>490$, enough. Precisely $7\times68=476$ buttons. $\blacksquare$
+$7\times68$; take $68$ as $70$, $7\times70=490$. $400<490$, not enough; $500>490$, enough. Precisely $7\times68=476$ buttons.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -186,7 +224,9 @@ $7\times68$; take $68$ as $70$, $7\times70=490$. $400<490$, not enough; $500>490
 
 ### Solution to Exercise 20
 
-$1392\times4=5568$; $2316\times5=11580$; $1207\times8=9656$; $2900\times3=8700$. $\blacksquare$
+$1392\times4=5568$; $2316\times5=11580$; $1207\times8=9656$; $2900\times3=8700$.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -194,4 +234,6 @@ $1392\times4=5568$; $2316\times5=11580$; $1207\times8=9656$; $2900\times3=8700$.
 
 ### Solution to Exercise 21
 
-By **Definition 5.6.1 (Numeral Codes)**, for example, the telephone area code $010$ stands for Beijing; the $6$-digit postal code locates the mailing address, with the first two digits standing for the province; a book ISBN contains a group code, a publisher code, a title number and a check code. Investigate the chosen code and explain the meaning of each part. $\blacksquare$
+By **Definition 5.6.1 (Numeral Codes)**, for example, the telephone area code $010$ stands for Beijing; the $6$-digit postal code locates the mailing address, with the first two digits standing for the province; a book ISBN contains a group code, a publisher code, a title number and a check code. Investigate the chosen code and explain the meaning of each part.
+
+$\blacksquare$

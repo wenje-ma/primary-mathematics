@@ -38,7 +38,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 1.1.6 (Meaning of Addition)**: $1+1=2$; $2+1=3$; $2+3=5$. $\blacksquare$
+By **Definition 1.1.6 (Meaning of Addition)**: $1+1=2$; $2+1=3$; $2+3=5$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -46,7 +48,9 @@ By **Definition 1.1.6 (Meaning of Addition)**: $1+1=2$; $2+1=3$; $2+3=5$. $\blac
 
 ### Solution to Exercise 2
 
-By **Definition 1.1.7 (Meaning of Subtraction)**, $5-1=4$ means removing $1$ from $5$ leaves $4$; $4-2=2$ means removing $2$ from $4$ leaves $2$. $\blacksquare$
+By **Definition 1.1.7 (Meaning of Subtraction)**, $5-1=4$ means removing $1$ from $5$ leaves $4$; $4-2=2$ means removing $2$ from $4$ leaves $2$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -54,7 +58,9 @@ By **Definition 1.1.7 (Meaning of Subtraction)**, $5-1=4$ means removing $1$ fro
 
 ### Solution to Exercise 3
 
-By **Definition 1.1.7 (Meaning of Subtraction)**, $4-1=3$; $4-2=2$ (or $4-3=1$). $\blacksquare$
+By **Definition 1.1.7 (Meaning of Subtraction)**, $4-1=3$; $4-2=2$ (or $4-3=1$).
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -62,7 +68,9 @@ By **Definition 1.1.7 (Meaning of Subtraction)**, $4-1=3$; $4-2=2$ (or $4-3=1$).
 
 ### Solution to Exercise 4
 
-By **Definition 1.1.7 (Meaning of Subtraction)**: $3-1=2$; $4-1=3$; $5-2=3$. $\blacksquare$
+By **Definition 1.1.7 (Meaning of Subtraction)**: $3-1=2$; $4-1=3$; $5-2=3$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -70,7 +78,9 @@ By **Definition 1.1.7 (Meaning of Subtraction)**: $3-1=2$; $4-1=3$; $5-2=3$. $\b
 
 ### Solution to Exercise 5
 
-According to the quantities in the picture, by **Definition 1.1.6 (Meaning of Addition)** and **Definition 1.1.7 (Meaning of Subtraction)**, for example $4+1=5$; $5-1=4$. $\blacksquare$
+According to the quantities in the picture, by **Definition 1.1.6 (Meaning of Addition)** and **Definition 1.1.7 (Meaning of Subtraction)**, for example $4+1=5$; $5-1=4$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -78,7 +88,9 @@ According to the quantities in the picture, by **Definition 1.1.6 (Meaning of Ad
 
 ### Solution to Exercise 6
 
-By **Definition 1.1.6 (Meaning of Addition)** and **Definition 1.1.7 (Meaning of Subtraction)**: $1+2=3$, $2+3=5$, $2+2=4$, $1+4=5$; $3-1=2$, $5-2=3$, $4-2=2$, $5-1=4$. $\blacksquare$
+By **Definition 1.1.6 (Meaning of Addition)** and **Definition 1.1.7 (Meaning of Subtraction)**: $1+2=3$, $2+3=5$, $2+2=4$, $1+4=5$; $3-1=2$, $5-2=3$, $4-2=2$, $5-1=4$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -86,7 +98,9 @@ By **Definition 1.1.6 (Meaning of Addition)** and **Definition 1.1.7 (Meaning of
 
 ### Solution to Exercise 7
 
-According to the grouping quantities of white and gray rabbits in the picture, by **Definition 1.1.6 (Meaning of Addition)**, for example $3+2=5$; $1+3=4$. $\blacksquare$
+According to the grouping quantities of white and gray rabbits in the picture, by **Definition 1.1.6 (Meaning of Addition)**, for example $3+2=5$; $1+3=4$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -94,7 +108,9 @@ According to the grouping quantities of white and gray rabbits in the picture, b
 
 ### Solution to Exercise 8
 
-Write an addition sentence for birds flying onto branches, and a subtraction sentence for birds flying away. By **Definition 1.1.6 (Meaning of Addition)** and **Definition 1.1.7 (Meaning of Subtraction)**, fill in the symbols and numbers. $\blacksquare$
+Write an addition sentence for birds flying onto branches, and a subtraction sentence for birds flying away. By **Definition 1.1.6 (Meaning of Addition)** and **Definition 1.1.7 (Meaning of Subtraction)**, fill in the symbols and numbers.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -102,7 +118,9 @@ Write an addition sentence for birds flying onto branches, and a subtraction sen
 
 ### Solution to Exercise 9
 
-For the picture of crabs gathering, write an addition sentence $\square+\square=\square$; for the picture of picking loofahs, write a subtraction sentence $\square-\square=\square$, and explain the meaning of combining or removing. $\blacksquare$
+For the picture of crabs gathering, write an addition sentence $\square+\square=\square$; for the picture of picking loofahs, write a subtraction sentence $\square-\square=\square$, and explain the meaning of combining or removing.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -110,7 +128,9 @@ For the picture of crabs gathering, write an addition sentence $\square+\square=
 
 ### Solution to Exercise 10
 
-Make up a life situation for each; for example, "there is $1$ chick, and $2$ more come, making $3$ in total." $\blacksquare$
+Make up a life situation for each; for example, "there is $1$ chick, and $2$ more come, making $3$ in total."
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -118,7 +138,9 @@ Make up a life situation for each; for example, "there is $1$ chick, and $2$ mor
 
 ### Solution to Exercise 11
 
-$4+1=5$, $3+1=4$, $2+1=3$, $1+1=2$; $5-4=1$, $5-3=2$, $5-2=3$, $5-1=4$. $\blacksquare$
+$4+1=5$, $3+1=4$, $2+1=3$, $1+1=2$; $5-4=1$, $5-3=2$, $5-2=3$, $5-1=4$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -126,7 +148,9 @@ $4+1=5$, $3+1=4$, $2+1=3$, $1+1=2$; $5-4=1$, $5-3=2$, $5-2=3$, $5-1=4$. $\blacks
 
 ### Solution to Exercise 12
 
-In the peach-picking picture, "I picked $2$ more" and "I picked $1$ more, now we have the same amount"; write equalities so both sides balance. In the banana-eating picture, for "I ate $2$" and "I ate $1$, the rest are the same," write equalities accordingly. $\blacksquare$
+In the peach-picking picture, "I picked $2$ more" and "I picked $1$ more, now we have the same amount"; write equalities so both sides balance. In the banana-eating picture, for "I ate $2$" and "I ate $1$, the rest are the same," write equalities accordingly.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -134,7 +158,9 @@ In the peach-picking picture, "I picked $2$ more" and "I picked $1$ more, now we
 
 ### Solution to Exercise 13
 
-By **Definition 1.1.8 (Meaning and Operations of 0)**, subtracting $0$ from a number does not change it, so $5-0=5$. $\blacksquare$
+By **Definition 1.1.8 (Meaning and Operations of 0)**, subtracting $0$ from a number does not change it, so $5-0=5$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -142,7 +168,9 @@ By **Definition 1.1.8 (Meaning and Operations of 0)**, subtracting $0$ from a nu
 
 ### Solution to Exercise 14
 
-By **Definition 1.1.8 (Meaning and Operations of 0)**: $0+5=5$, $5+0=5$, $5-0=5$, $5-5=0$; $0+4=4$, $4+0=4$, $4-0=4$, $4-4=0$; $0+3=3$, $3+0=3$, $3-0=3$, $3-3=0$. $\blacksquare$
+By **Definition 1.1.8 (Meaning and Operations of 0)**: $0+5=5$, $5+0=5$, $5-0=5$, $5-5=0$; $0+4=4$, $4+0=4$, $4-0=4$, $4-4=0$; $0+3=3$, $3+0=3$, $3-0=3$, $3-3=0$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -150,7 +178,9 @@ By **Definition 1.1.8 (Meaning and Operations of 0)**: $0+5=5$, $5+0=5$, $5-0=5$
 
 ### Solution to Exercise 15
 
-In the addition table, the first addend increases from $0$ to $5$, and the second addend starts from $0$; in the subtraction table, the minuend increases from $0$ to $5$, and the subtrahend starts from $0$. $\blacksquare$
+In the addition table, the first addend increases from $0$ to $5$, and the second addend starts from $0$; in the subtraction table, the minuend increases from $0$ to $5$, and the subtrahend starts from $0$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -158,7 +188,9 @@ In the addition table, the first addend increases from $0$ to $5$, and the secon
 
 ### Solution to Exercise 16
 
-Calculate by **Definition 1.1.6 (Meaning of Addition)** and **Definition 1.1.7 (Meaning of Subtraction)**; the answer depends on the expression pointed to. $\blacksquare$
+Calculate by **Definition 1.1.6 (Meaning of Addition)** and **Definition 1.1.7 (Meaning of Subtraction)**; the answer depends on the expression pointed to.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -166,7 +198,9 @@ Calculate by **Definition 1.1.6 (Meaning of Addition)** and **Definition 1.1.7 (
 
 ### Solution to Exercise 17
 
-The last expression in each row is the sum of two identical numbers, with results $0+0=0$, $1+1=2$, $2+2=4$, $3+3=6$, $4+4=8$, $5+5=10$, i.e. the result is $2$ times that number. $\blacksquare$
+The last expression in each row is the sum of two identical numbers, with results $0+0=0$, $1+1=2$, $2+2=4$, $3+3=6$, $4+4=8$, $5+5=10$, i.e. the result is $2$ times that number.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -174,7 +208,9 @@ The last expression in each row is the sum of two identical numbers, with result
 
 ### Solution to Exercise 18
 
-In order from $0$ to $5$: $0,1,2,3,4,5$. $\blacksquare$
+In order from $0$ to $5$: $0,1,2,3,4,5$.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -182,7 +218,9 @@ In order from $0$ to $5$: $0,1,2,3,4,5$. $\blacksquare$
 
 ### Solution to Exercise 19
 
-By **Definition 1.1.6 (Meaning of Addition)**, **Definition 1.1.7 (Meaning of Subtraction)**, and **Definition 1.1.8 (Meaning and Operations of 0)**: $1-0=1$, $2+3=5$, $0+0=0$, $5-3=2$; $3-2=1$, $2-2=0$, $4-3=1$, $4-1=3$; $1+3=4$, $3+1=4$, $0+2=2$, $5-5=0$. $\blacksquare$
+By **Definition 1.1.6 (Meaning of Addition)**, **Definition 1.1.7 (Meaning of Subtraction)**, and **Definition 1.1.8 (Meaning and Operations of 0)**: $1-0=1$, $2+3=5$, $0+0=0$, $5-3=2$; $3-2=1$, $2-2=0$, $4-3=1$, $4-1=3$; $1+3=4$, $3+1=4$, $0+2=2$, $5-5=0$.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -190,7 +228,9 @@ By **Definition 1.1.6 (Meaning of Addition)**, **Definition 1.1.7 (Meaning of Su
 
 ### Solution to Exercise 20
 
-According to the numbers of blue squares and red triangles in the picture, by **Definition 1.1.2 (Same Amount, More, Fewer)**, compare and fill in the blanks, then write the comparison sentence. $\blacksquare$
+According to the numbers of blue squares and red triangles in the picture, by **Definition 1.1.2 (Same Amount, More, Fewer)**, compare and fill in the blanks, then write the comparison sentence.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -198,7 +238,9 @@ According to the numbers of blue squares and red triangles in the picture, by **
 
 ### Solution to Exercise 21
 
-According to the numbers of foxes and frogs in the picture, by **Definition 1.1.6 (Meaning of Addition)** and **Definition 1.1.7 (Meaning of Subtraction)**, write the addition (or subtraction) sentence and calculate. $\blacksquare$
+According to the numbers of foxes and frogs in the picture, by **Definition 1.1.6 (Meaning of Addition)** and **Definition 1.1.7 (Meaning of Subtraction)**, write the addition (or subtraction) sentence and calculate.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -206,7 +248,9 @@ According to the numbers of foxes and frogs in the picture, by **Definition 1.1.
 
 ### Solution to Exercise 22
 
-$\square>3$, can fill $4,5$; $\square<5$, can fill $0\sim4$; $4>\square$, can fill $0\sim3$; $2<\square$, can fill $3,4,5$. Answers are not unique. $\blacksquare$
+$\square>3$, can fill $4,5$; $\square<5$, can fill $0\sim4$; $4>\square$, can fill $0\sim3$; $2<\square$, can fill $3,4,5$. Answers are not unique.
+
+$\blacksquare$
 
 ## Exercise 23
 
@@ -214,4 +258,6 @@ $\square>3$, can fill $4,5$; $\square<5$, can fill $0\sim4$; $4>\square$, can fi
 
 ### Solution to Exercise 23
 
-By **Definition 1.2.1 (Understanding 6–9)**, you may say $6$ can represent $6$ pots of flowers, $6$ birds, etc.; $7$ represents $7$ apples, etc.; $8$ represents $8$ stars, etc.; $9$ represents $9$ butterflies, etc.; as long as the quantity matches correctly. $\blacksquare$
+By **Definition 1.2.1 (Understanding 6–9)**, you may say $6$ can represent $6$ pots of flowers, $6$ birds, etc.; $7$ represents $7$ apples, etc.; $8$ represents $8$ stars, etc.; $9$ represents $9$ butterflies, etc.; as long as the quantity matches correctly.
+
+$\blacksquare$

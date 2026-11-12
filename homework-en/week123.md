@@ -22,7 +22,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: $15\times\frac{3}{5}=9$ species. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: $15\times\frac{3}{5}=9$ species.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -30,7 +32,9 @@ By **Definition 11.2.2 (A Number Times a Fraction)**: $15\times\frac{3}{5}=9$ sp
 
 ### Solution to Exercise 2
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: $26\times\frac{7}{13}=14$ km/s. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: $26\times\frac{7}{13}=14$ km/s.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -38,7 +42,9 @@ By **Definition 11.2.2 (A Number Times a Fraction)**: $26\times\frac{7}{13}=14$ 
 
 ### Solution to Exercise 3
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: $365\times\frac{58}{73}=5\times58=290$ days. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: $365\times\frac{58}{73}=5\times58=290$ days.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -46,7 +52,9 @@ By **Definition 11.2.2 (A Number Times a Fraction)**: $365\times\frac{58}{73}=5\
 
 ### Solution to Exercise 4
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $80\times\frac{4}{5}=64\;\text{kg}$; (2) $12403\times\frac{2}{5}=4961.2$ ten-thousand tons. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $80\times\frac{4}{5}=64\;\text{kg}$; (2) $12403\times\frac{2}{5}=4961.2$ ten-thousand tons.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -54,7 +62,9 @@ By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $80\times\frac{4}{5}=6
 
 ### Solution to Exercise 5
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: safe load $40\times\frac{3}{20}=6\;\text{kg}$. The bag $5\;\text{kg}<6\;\text{kg}$, so not overweight. (2) Multiply your own weight by $\frac{3}{20}$. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: safe load $40\times\frac{3}{20}=6\;\text{kg}$. The bag $5\;\text{kg}<6\;\text{kg}$, so not overweight. (2) Multiply your own weight by $\frac{3}{20}$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -62,7 +72,9 @@ By **Definition 11.2.2 (A Number Times a Fraction)**: safe load $40\times\frac{3
 
 ### Solution to Exercise 6
 
-Try: $1\frac{4}{5}\times\frac{3}{7}=\frac{9}{5}\times\frac{3}{7}=\frac{27}{35}$, not a mixed number. Adjust: $4\frac{1}{5}\times\frac{3}{7}=\frac{21}{5}\times\frac{3}{7}=\frac{9}{5}=1\frac{4}{5}$. So $4\frac{1}{5}\times\frac{3}{7}=1\frac{4}{5}$. $\blacksquare$
+Try: $1\frac{4}{5}\times\frac{3}{7}=\frac{9}{5}\times\frac{3}{7}=\frac{27}{35}$, not a mixed number. Adjust: $4\frac{1}{5}\times\frac{3}{7}=\frac{21}{5}\times\frac{3}{7}=\frac{9}{5}=1\frac{4}{5}$. So $4\frac{1}{5}\times\frac{3}{7}=1\frac{4}{5}$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -70,7 +82,9 @@ Try: $1\frac{4}{5}\times\frac{3}{7}=\frac{9}{5}\times\frac{3}{7}=\frac{27}{35}$,
 
 ### Solution to Exercise 7
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $2.1\times\frac{3}{4}=\frac{21}{10}\times\frac{3}{4}=\frac{63}{40}=1.575\;\text{dm}$; (2) $2.4\times\frac{3}{4}=1.8\;\text{dm}$ (reduce first). $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $2.1\times\frac{3}{4}=\frac{21}{10}\times\frac{3}{4}=\frac{63}{40}=1.575\;\text{dm}$; (2) $2.4\times\frac{3}{4}=1.8\;\text{dm}$ (reduce first).
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -78,7 +92,9 @@ By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $2.1\times\frac{3}{4}=
 
 ### Solution to Exercise 8
 
-$1.2\times\frac{3}{5}=0.72$; $2.5\times\frac{3}{5}=1.5$; $1.4\times\frac{5}{6}=\frac{7}{6}\approx1.17$; $2.4\times\frac{5}{6}=2$. $\blacksquare$
+$1.2\times\frac{3}{5}=0.72$; $2.5\times\frac{3}{5}=1.5$; $1.4\times\frac{5}{6}=\frac{7}{6}\approx1.17$; $2.4\times\frac{5}{6}=2$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -86,7 +102,9 @@ $1.2\times\frac{3}{5}=0.72$; $2.5\times\frac{3}{5}=1.5$; $1.4\times\frac{5}{6}=\
 
 ### Solution to Exercise 9
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: $0.8\times\frac{3}{4}=0.6$ km; $0.8\times5=4$ km. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: $0.8\times\frac{3}{4}=0.6$ km; $0.8\times5=4$ km.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -94,7 +112,9 @@ By **Definition 11.2.2 (A Number Times a Fraction)**: $0.8\times\frac{3}{4}=0.6$
 
 ### Solution to Exercise 10
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: $8.1\times\frac{8}{9}=7.2$ ten-thousand yuan. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: $8.1\times\frac{8}{9}=7.2$ ten-thousand yuan.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -102,7 +122,9 @@ By **Definition 11.2.2 (A Number Times a Fraction)**: $8.1\times\frac{8}{9}=7.2$
 
 ### Solution to Exercise 11
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: $2.5\times\frac{4}{5}=2\;\text{kg}$. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: $2.5\times\frac{4}{5}=2\;\text{kg}$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -110,7 +132,9 @@ By **Definition 11.2.2 (A Number Times a Fraction)**: $2.5\times\frac{4}{5}=2\;\
 
 ### Solution to Exercise 12
 
-By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $\left(\frac{4}{5}+\frac{1}{2}\right)\times2=\frac{13}{10}\times2=\frac{13}{5}$; $\frac{4}{5}\times2+\frac{1}{2}\times2=\frac{8}{5}+1=\frac{13}{5}$. Equal — the distributive law. $\blacksquare$
+By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $\left(\frac{4}{5}+\frac{1}{2}\right)\times2=\frac{13}{10}\times2=\frac{13}{5}$; $\frac{4}{5}\times2+\frac{1}{2}\times2=\frac{8}{5}+1=\frac{13}{5}$. Equal — the distributive law.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -118,7 +142,9 @@ By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $\left(\frac
 
 ### Solution to Exercise 13
 
-By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $\frac{3}{5}\times\left(\frac{1}{6}\times5\right)=\frac{3}{5}\times\left(5\times\frac{1}{6}\right)=3\times\frac{1}{6}=\frac{1}{2}$ (commutative); $\left(\frac{5}{6}+\frac{1}{4}\right)\times12=\frac{5}{6}\times12+\frac{1}{4}\times12=10+3=13$ (distributive); the product reduces to $24$. $\blacksquare$
+By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $\frac{3}{5}\times\left(\frac{1}{6}\times5\right)=\frac{3}{5}\times\left(5\times\frac{1}{6}\right)=3\times\frac{1}{6}=\frac{1}{2}$ (commutative); $\left(\frac{5}{6}+\frac{1}{4}\right)\times12=\frac{5}{6}\times12+\frac{1}{4}\times12=10+3=13$ (distributive); the product reduces to $24$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -126,4 +152,6 @@ By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $\frac{3}{5}
 
 ### Solution to Exercise 14
 
-By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $\frac{2}{3}\times3\times\frac{1}{7}=\frac{2}{7}$ (commutative); $\frac{8}{9}\times27+\frac{4}{27}\times27=24+4=28$ (distributive); $87\times\frac{3}{86}=\left(86+1\right)\times\frac{3}{86}=3+\frac{3}{86}=3\frac{3}{86}$ (distributive). $\blacksquare$
+By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $\frac{2}{3}\times3\times\frac{1}{7}=\frac{2}{7}$ (commutative); $\frac{8}{9}\times27+\frac{4}{27}\times27=24+4=28$ (distributive); $87\times\frac{3}{86}=\left(86+1\right)\times\frac{3}{86}=3+\frac{3}{86}=3\frac{3}{86}$ (distributive).
+
+$\blacksquare$

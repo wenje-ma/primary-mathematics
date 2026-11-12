@@ -26,7 +26,9 @@
 
 ### Solution to Exercise 1
 
-$40\times4=160$ kilometers. $\blacksquare$
+$40\times4=160$ kilometers.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -34,7 +36,9 @@ $40\times4=160$ kilometers. $\blacksquare$
 
 ### Solution to Exercise 2
 
-$7\times8+6=62$; $20\times3+98=158$; $2000\times4+1980=9980$; $4\times6+6=30$; $70\times9-120=510$; $\left(406-385\right)\times3=63$. $\blacksquare$
+$7\times8+6=62$; $20\times3+98=158$; $2000\times4+1980=9980$; $4\times6+6=30$; $70\times9-120=510$; $\left(406-385\right)\times3=63$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -42,7 +46,9 @@ $7\times8+6=62$; $20\times3+98=158$; $2000\times4+1980=9980$; $4\times6+6=30$; $
 
 ### Solution to Exercise 3
 
-First think of which two numbers multiply to $24$: $3\times8=24$, $4\times6=24$. Therefore $30\times8=240$, $80\times3=240$, $40\times6=240$, $60\times4=240$. There are $4$ in total. $\blacksquare$
+First think of which two numbers multiply to $24$: $3\times8=24$, $4\times6=24$. Therefore $30\times8=240$, $80\times3=240$, $40\times6=240$, $60\times4=240$. There are $4$ in total.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -50,7 +56,9 @@ First think of which two numbers multiply to $24$: $3\times8=24$, $4\times6=24$.
 
 ### Solution to Exercise 4
 
-$20\times2=40$ yuan, $20\times3=60$ yuan, $20\times4=80$ yuan, $20\times5=100$ yuan, $20\times6=120$ yuan. $\blacksquare$
+$20\times2=40$ yuan, $20\times3=60$ yuan, $20\times4=80$ yuan, $20\times5=100$ yuan, $20\times6=120$ yuan.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -58,7 +66,9 @@ $20\times2=40$ yuan, $20\times3=60$ yuan, $20\times4=80$ yuan, $20\times5=100$ y
 
 ### Solution to Exercise 5
 
-$21\times2+5=42+5=47$. $\blacksquare$
+$21\times2+5=42+5=47$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -66,7 +76,9 @@ $21\times2+5=42+5=47$. $\blacksquare$
 
 ### Solution to Exercise 6
 
-$432=4\times100+3\times10+2\times1$; $1597=1\times1000+5\times100+9\times10+7\times1$. $\blacksquare$
+$432=4\times100+3\times10+2\times1$; $1597=1\times1000+5\times100+9\times10+7\times1$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -74,7 +86,9 @@ $432=4\times100+3\times10+2\times1$; $1597=1\times1000+5\times100+9\times10+7\ti
 
 ### Solution to Exercise 7
 
-$24\times2=48$ pens. By **Definition 5.5.2 (Written Multiplication)**, in the vertical form $4\times2=8$ is written in the ones place and $20\times2=40$ in the tens place. $\blacksquare$
+$24\times2=48$ pens. By **Definition 5.5.2 (Written Multiplication)**, in the vertical form $4\times2=8$ is written in the ones place and $20\times2=40$ in the tens place.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -82,7 +96,9 @@ $24\times2=48$ pens. By **Definition 5.5.2 (Written Multiplication)**, in the ve
 
 ### Solution to Exercise 8
 
-By **Definition 5.5.2 (笔算乘法)**, $213\times2=426$. Ones: $3\times2=6$; tens: $1\times2=2$; hundreds: $2\times2=4$. $\blacksquare$
+By **Definition 5.5.2 (笔算乘法)**, $213\times2=426$. Ones: $3\times2=6$; tens: $1\times2=2$; hundreds: $2\times2=4$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -90,7 +106,9 @@ By **Definition 5.5.2 (笔算乘法)**, $213\times2=426$. Ones: $3\times2=6$; te
 
 ### Solution to Exercise 9
 
-$34\times2=68$; $12\times4=48$; $312\times3=936$; $211\times4=844$. $\blacksquare$
+$34\times2=68$; $12\times4=48$; $312\times3=936$; $211\times4=844$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -98,7 +116,9 @@ $34\times2=68$; $12\times4=48$; $312\times3=936$; $211\times4=844$. $\blacksquar
 
 ### Solution to Exercise 10
 
-$16\times3=48$ volumes. $6\times3=18$, write $8$ and carry $1$; $10\times3=30$, add the carried $10$ to get $40$, write $4$ in the tens place. $\blacksquare$
+$16\times3=48$ volumes. $6\times3=18$, write $8$ and carry $1$; $10\times3=30$, add the carried $10$ to get $40$, write $4$ in the tens place.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -106,7 +126,9 @@ $16\times3=48$ volumes. $6\times3=18$, write $8$ and carry $1$; $10\times3=30$, 
 
 ### Solution to Exercise 11
 
-By **Definition 5.5.2 (Written Multiplication)**, $162\times4=648$. Ones: $2\times4=8$; tens: $6\times4=24$, write $4$ and carry $2$; hundreds: $1\times4+2=6$. $\blacksquare$
+By **Definition 5.5.2 (Written Multiplication)**, $162\times4=648$. Ones: $2\times4=8$; tens: $6\times4=24$, write $4$ and carry $2$; hundreds: $1\times4+2=6$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -114,7 +136,9 @@ By **Definition 5.5.2 (Written Multiplication)**, $162\times4=648$. Ones: $2\tim
 
 ### Solution to Exercise 12
 
-$39\times2=78$; $41\times8=328$; $52\times4=208$; $27\times4=108$; $612\times7=4284$; $193\times2=386$; $318\times3=954$; $284\times2=568$. $\blacksquare$
+$39\times2=78$; $41\times8=328$; $52\times4=208$; $27\times4=108$; $612\times7=4284$; $193\times2=386$; $318\times3=954$; $284\times2=568$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -122,7 +146,9 @@ $39\times2=78$; $41\times8=328$; $52\times4=208$; $27\times4=108$; $612\times7=4
 
 ### Solution to Exercise 13
 
-$24\times9=216$ bottles. Estimate: $20<24<30$, $180<24\times9<270$, so the result is reasonable. $\blacksquare$
+$24\times9=216$ bottles. Estimate: $20<24<30$, $180<24\times9<270$, so the result is reasonable.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -130,7 +156,9 @@ $24\times9=216$ bottles. Estimate: $20<24<30$, $180<24\times9<270$, so the resul
 
 ### Solution to Exercise 14
 
-By **Definition 5.5.2 (笔算乘法)**, $326\times8=2608$. Ones: $6\times8=48$, write $8$ and carry $4$; tens: $2\times8+4=20$, write $0$ and carry $2$; hundreds: $3\times8+2=26$. $\blacksquare$
+By **Definition 5.5.2 (笔算乘法)**, $326\times8=2608$. Ones: $6\times8=48$, write $8$ and carry $4$; tens: $2\times8+4=20$, write $0$ and carry $2$; hundreds: $3\times8+2=26$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -138,7 +166,9 @@ By **Definition 5.5.2 (笔算乘法)**, $326\times8=2608$. Ones: $6\times8=48$, 
 
 ### Solution to Exercise 15
 
-$48\times7=336$; $64\times8=512$; $137\times6=822$; $179\times4=716$. $\blacksquare$
+$48\times7=336$; $64\times8=512$; $137\times6=822$; $179\times4=716$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -146,7 +176,9 @@ $48\times7=336$; $64\times8=512$; $137\times6=822$; $179\times4=716$. $\blacksqu
 
 ### Solution to Exercise 16
 
-$14\times2=28$; $33\times3=99$; $21\times4=84$; $43\times2=86$; $423\times2=846$; $212\times3=636$; $221\times4=884$; $132\times3=396$. $\blacksquare$
+$14\times2=28$; $33\times3=99$; $21\times4=84$; $43\times2=86$; $423\times2=846$; $212\times3=636$; $221\times4=884$; $132\times3=396$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -154,7 +186,9 @@ $14\times2=28$; $33\times3=99$; $21\times4=84$; $43\times2=86$; $423\times2=846$
 
 ### Solution to Exercise 17
 
-(1) $12\times4=48$ yuan. (2) $23\times3=69$ yuan. (3) Answers may vary. $\blacksquare$
+(1) $12\times4=48$ yuan. (2) $23\times3=69$ yuan. (3) Answers may vary.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -162,7 +196,9 @@ $14\times2=28$; $33\times3=99$; $21\times4=84$; $43\times2=86$; $423\times2=846$
 
 ### Solution to Exercise 18
 
-$213\times3=639$ kilograms. $\blacksquare$
+$213\times3=639$ kilograms.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -170,7 +206,9 @@ $213\times3=639$ kilograms. $\blacksquare$
 
 ### Solution to Exercise 19
 
-$18\times6=108$ households. $\blacksquare$
+$18\times6=108$ households.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -178,7 +216,9 @@ $18\times6=108$ households. $\blacksquare$
 
 ### Solution to Exercise 20
 
-$121\times6=726$ parcels. $\blacksquare$
+$121\times6=726$ parcels.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -186,7 +226,9 @@ $121\times6=726$ parcels. $\blacksquare$
 
 ### Solution to Exercise 21
 
-$13\times7=91$; $16\times5=80$; $6\times311=1866$; $3\times514=1542$; $823\times4=3292$. $\blacksquare$
+$13\times7=91$; $16\times5=80$; $6\times311=1866$; $3\times514=1542$; $823\times4=3292$.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -194,4 +236,6 @@ $13\times7=91$; $16\times5=80$; $6\times311=1866$; $3\times514=1542$; $823\times
 
 ### Solution to Exercise 22
 
-$36\times7=252$; $48\times6=288$; $59\times8=472$; $72\times4=288$; $27\times9=243$; $313\times5=1565$; $499\times3=1497$; $824\times5=4120$. $\blacksquare$
+$36\times7=252$; $48\times6=288$; $59\times8=472$; $72\times4=288$; $27\times9=243$; $313\times5=1565$; $499\times3=1497$; $824\times5=4120$.
+
+$\blacksquare$

@@ -34,7 +34,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 9.2.5 (Operation Laws Extended)**: $4.2\times1.69=1.69\times4.2$; $2.5\times\left(0.77\times0.4\right)=\left(2.5\times0.4\right)\times0.77$; $7.2\times8.4+2.8\times8.4=8.4\times\left(7.2+2.8\right)=84$. Convenient calculation: $101\times0.45=\left(100+1\right)\times0.45=45+0.45=45.45$; $4.75\times99+4.75=4.75\times\left(99+1\right)=475$; $0.034\times0.5\times0.6=0.034\times0.3=0.0102$; $2.73\times99=2.73\times\left(100-1\right)=273-2.73=270.27$. $\blacksquare$
+By **Definition 9.2.5 (Operation Laws Extended)**: $4.2\times1.69=1.69\times4.2$; $2.5\times\left(0.77\times0.4\right)=\left(2.5\times0.4\right)\times0.77$; $7.2\times8.4+2.8\times8.4=8.4\times\left(7.2+2.8\right)=84$. Convenient calculation: $101\times0.45=\left(100+1\right)\times0.45=45+0.45=45.45$; $4.75\times99+4.75=4.75\times\left(99+1\right)=475$; $0.034\times0.5\times0.6=0.034\times0.3=0.0102$; $2.73\times99=2.73\times\left(100-1\right)=273-2.73=270.27$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -42,7 +44,9 @@ By **Definition 9.2.5 (Operation Laws Extended)**: $4.2\times1.69=1.69\times4.2$
 
 ### Solution to Exercise 2
 
-By **Definition 9.2.2 (小数乘小数)**: $0.39\times2.9=1.131$; $0.58\times0.08=0.0464$; $3.7\times200=740$; $0.18\times8.45=1.521$; $4.5\times0.002=0.009$; $0.072\times0.15=0.0108$. $\blacksquare$
+By **Definition 9.2.2 (小数乘小数)**: $0.39\times2.9=1.131$; $0.58\times0.08=0.0464$; $3.7\times200=740$; $0.18\times8.45=1.521$; $4.5\times0.002=0.009$; $0.072\times0.15=0.0108$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -50,7 +54,9 @@ By **Definition 9.2.2 (小数乘小数)**: $0.39\times2.9=1.131$; $0.58\times0.0
 
 ### Solution to Exercise 3
 
-By **Definition 9.2.5 (Operation Laws Extended)**: $0.78\times98=0.78\times\left(100-2\right)=78-1.56=76.44$; $4.8\times0.25=1.2\times4\times0.25=1.2$; $0.5\times2.33\times8=0.5\times8\times2.33=9.32$; $56\times1.25=7\times8\times1.25=70$; $1.2\times2.5+0.8\times2.5=\left(1.2+0.8\right)\times2.5=5$; $0.8\times0.25\times0.4\times12.5=\left(0.8\times12.5\right)\times\left(0.25\times0.4\right)=10\times0.1=1$. $\blacksquare$
+By **Definition 9.2.5 (Operation Laws Extended)**: $0.78\times98=0.78\times\left(100-2\right)=78-1.56=76.44$; $4.8\times0.25=1.2\times4\times0.25=1.2$; $0.5\times2.33\times8=0.5\times8\times2.33=9.32$; $56\times1.25=7\times8\times1.25=70$; $1.2\times2.5+0.8\times2.5=\left(1.2+0.8\right)\times2.5=5$; $0.8\times0.25\times0.4\times12.5=\left(0.8\times12.5\right)\times\left(0.25\times0.4\right)=10\times0.1=1$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -58,7 +64,9 @@ By **Definition 9.2.5 (Operation Laws Extended)**: $0.78\times98=0.78\times\left
 
 ### Solution to Exercise 4
 
-$17\times54.5=926.5\approx927$ trees. $\blacksquare$
+$17\times54.5=926.5\approx927$ trees.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -66,7 +74,9 @@ $17\times54.5=926.5\approx927$ trees. $\blacksquare$
 
 ### Solution to Exercise 5
 
-$32.5\times1.6+3=52+3=55$ km. $\blacksquare$
+$32.5\times1.6+3=52+3=55$ km.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -74,7 +84,9 @@ $32.5\times1.6+3=52+3=55$ km. $\blacksquare$
 
 ### Solution to Exercise 6
 
-Giraffe: $1.46\times3.5=5.11$ m. Shorter by: $5.11-1.46=3.65$ m. $\blacksquare$
+Giraffe: $1.46\times3.5=5.11$ m. Shorter by: $5.11-1.46=3.65$ m.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -82,7 +94,9 @@ Giraffe: $1.46\times3.5=5.11$ m. Shorter by: $5.11-1.46=3.65$ m. $\blacksquare$
 
 ### Solution to Exercise 7
 
-$3.3\times6.7=22.11$; $3.33\times66.7=222.111$; $3.333\times666.7=2222.1111$; $3.3333\times6666.7=22222.11111$. Pattern: the integer part gains one more $2$ and the decimal part one more $1$. $\blacksquare$
+$3.3\times6.7=22.11$; $3.33\times66.7=222.111$; $3.333\times666.7=2222.1111$; $3.3333\times6666.7=22222.11111$. Pattern: the integer part gains one more $2$ and the decimal part one more $1$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -90,7 +104,9 @@ $3.3\times6.7=22.11$; $3.33\times66.7=222.111$; $3.333\times666.7=2222.1111$; $3
 
 ### Solution to Exercise 8
 
-By **Definition 9.2.6 (Estimation)**, estimating upward: $31\times2+27\times0.8=62+21.6=83.6<89$, so the actual total is less than $89$ yuan; estimating downward: $30\times2+25\times0.8=60+20=80$, so the actual total is more than $80$ yuan. The remaining money is between $11$ and $20$ yuan, enough for the $10$-yuan eggs but not the $20$-yuan eggs. $\blacksquare$
+By **Definition 9.2.6 (Estimation)**, estimating upward: $31\times2+27\times0.8=62+21.6=83.6<89$, so the actual total is less than $89$ yuan; estimating downward: $30\times2+25\times0.8=60+20=80$, so the actual total is more than $80$ yuan. The remaining money is between $11$ and $20$ yuan, enough for the $10$-yuan eggs but not the $20$-yuan eggs.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -98,7 +114,9 @@ By **Definition 9.2.6 (Estimation)**, estimating upward: $31\times2+27\times0.8=
 
 ### Solution to Exercise 9
 
-By **Definition 9.2.7 (Tiered Billing)**, $6.3$ km is billed as $7$ km, and the excess is $7-3=4$ km. Cost $=8+1.5\times4=8+6=14$ yuan. $\blacksquare$
+By **Definition 9.2.7 (Tiered Billing)**, $6.3$ km is billed as $7$ km, and the excess is $7-3=4$ km. Cost $=8+1.5\times4=8+6=14$ yuan.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -106,7 +124,9 @@ By **Definition 9.2.7 (Tiered Billing)**, $6.3$ km is billed as $7$ km, and the 
 
 ### Solution to Exercise 10
 
-By **Definition 9.2.6 (Estimation)**, round each price upward: $3+6+2+4+7=22$ yuan; $22<40$, so enough. $\blacksquare$
+By **Definition 9.2.6 (Estimation)**, round each price upward: $3+6+2+4+7=22$ yuan; $22<40$, so enough.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -114,7 +134,9 @@ By **Definition 9.2.6 (Estimation)**, round each price upward: $3+6+2+4+7=22$ yu
 
 ### Solution to Exercise 11
 
-By **Definition 9.2.7 (分段计费)**: (1) $11<12$, $11\times2.5=27.5$ yuan. (2) $12\times2.5+\left(17-12\right)\times3.8=30+19=49$ yuan. $\blacksquare$
+By **Definition 9.2.7 (分段计费)**: (1) $11<12$, $11\times2.5=27.5$ yuan. (2) $12\times2.5+\left(17-12\right)\times3.8=30+19=49$ yuan.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -122,7 +144,9 @@ By **Definition 9.2.7 (分段计费)**: (1) $11<12$, $11\times2.5=27.5$ yuan. (2
 
 ### Solution to Exercise 12
 
-By **Definition 9.2.2 (小数乘小数)** and **Definition 9.2.5 (Operation Laws Extended)**: $54.9\times0.38=20.862$; $4.05+37.85=41.9$; $1.25\times0.7\times0.8=1.25\times0.8\times0.7=0.7$; $9.8\times25=\left(10-0.2\right)\times25=250-5=245$; $6.1\times3.6+3.6\times3.9=3.6\times\left(6.1+3.9\right)=36$; $2.96\times40=118.4$. $\blacksquare$
+By **Definition 9.2.2 (小数乘小数)** and **Definition 9.2.5 (Operation Laws Extended)**: $54.9\times0.38=20.862$; $4.05+37.85=41.9$; $1.25\times0.7\times0.8=1.25\times0.8\times0.7=0.7$; $9.8\times25=\left(10-0.2\right)\times25=250-5=245$; $6.1\times3.6+3.6\times3.9=3.6\times\left(6.1+3.9\right)=36$; $2.96\times40=118.4$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -130,7 +154,9 @@ By **Definition 9.2.2 (小数乘小数)** and **Definition 9.2.5 (Operation Laws
 
 ### Solution to Exercise 13
 
-Room area $8.1\times5.2=42.12$ m$^2$. Each tile $0.6\times0.6=0.36$ m$^2$; $100$ tiles total $36$ m$^2<42.12$ m$^2$, so not enough. $\blacksquare$
+Room area $8.1\times5.2=42.12$ m$^2$. Each tile $0.6\times0.6=0.36$ m$^2$; $100$ tiles total $36$ m$^2<42.12$ m$^2$, so not enough.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -138,7 +164,9 @@ Room area $8.1\times5.2=42.12$ m$^2$. Each tile $0.6\times0.6=0.36$ m$^2$; $100$
 
 ### Solution to Exercise 14
 
-(1) $0.69\times30\times0.5=10.35$ yuan. (2) $0.54\times30\times0.5=8.1$ yuan. $\blacksquare$
+(1) $0.69\times30\times0.5=10.35$ yuan. (2) $0.54\times30\times0.5=8.1$ yuan.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -146,4 +174,6 @@ Room area $8.1\times5.2=42.12$ m$^2$. Each tile $0.6\times0.6=0.36$ m$^2$; $100$
 
 ### Solution to Exercise 15
 
-By **Definition 9.2.2 (小数乘小数)**, $1.\square2\times5.3$ has three decimal places, ruling out B ($0.996<1\times5.3=5.3$, too small). Estimate the range: $1.02\times5.3=5.406$, $1.92\times5.3=10.176$. A $7.526$ ends in $6=2\times3$, correct; D $7.562$ ends in $2\neq2\times3=6$, wrong. Choose A or C; substituting to check: $1.42\times5.3=7.526$, choose A. $\blacksquare$
+By **Definition 9.2.2 (小数乘小数)**, $1.\square2\times5.3$ has three decimal places, ruling out B ($0.996<1\times5.3=5.3$, too small). Estimate the range: $1.02\times5.3=5.406$, $1.92\times5.3=10.176$. A $7.526$ ends in $6=2\times3$, correct; D $7.562$ ends in $2\neq2\times3=6$, wrong. Choose A or C; substituting to check: $1.42\times5.3=7.526$, choose A.
+
+$\blacksquare$

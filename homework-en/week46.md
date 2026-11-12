@@ -38,7 +38,9 @@
 
 ### Solution to Exercise 1
 
-$35-23+18=30$, $35-\left(23-18\right)=35-5=30$; $24\div8\times2=6$, $24\div\left(8\div2\right)=24\div4=6$; $73-36+24=61$, $73-\left(36-24\right)=73-12=61$; $18\div9\times3=6$, $18\div\left(9\div3\right)=18\div3=6$. Each pair has the same result. $\blacksquare$
+$35-23+18=30$, $35-\left(23-18\right)=35-5=30$; $24\div8\times2=6$, $24\div\left(8\div2\right)=24\div4=6$; $73-36+24=61$, $73-\left(36-24\right)=73-12=61$; $18\div9\times3=6$, $18\div\left(9\div3\right)=18\div3=6$. Each pair has the same result.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -46,7 +48,9 @@ $35-23+18=30$, $35-\left(23-18\right)=35-5=30$; $24\div8\times2=6$, $24\div\left
 
 ### Solution to Exercise 2
 
-$81-6\times9=81-54=27$ people. $\blacksquare$
+$81-6\times9=81-54=27$ people.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -54,7 +58,9 @@ $81-6\times9=81-54=27$ people. $\blacksquare$
 
 ### Solution to Exercise 3
 
-(1) $2\times3\times5=30$ plants. (2) E.g. how many does class 3(3) pick: $18-4-3=11$. The answer is not unique. $\blacksquare$
+(1) $2\times3\times5=30$ plants. (2) E.g. how many does class 3(3) pick: $18-4-3=11$. The answer is not unique.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -62,7 +68,9 @@ $81-6\times9=81-54=27$ people. $\blacksquare$
 
 ### Solution to Exercise 4
 
-E.g. each box has $6$ cakes; first buy $5$ boxes then $4$ more; how many in all? $\left(5+4\right)$ boxes make $9$ boxes, $6\times9=54$ cakes. The story is not unique, as long as it says add first then multiply. $\blacksquare$
+E.g. each box has $6$ cakes; first buy $5$ boxes then $4$ more; how many in all? $\left(5+4\right)$ boxes make $9$ boxes, $6\times9=54$ cakes. The story is not unique, as long as it says add first then multiply.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -70,7 +78,9 @@ E.g. each box has $6$ cakes; first buy $5$ boxes then $4$ more; how many in all?
 
 ### Solution to Exercise 5
 
-Add first then multiply: $\left(6+\square\right)\times5=40$, $6+\square=8$, $\square=2$. Correct: $6+2\times5=6+10=16$. $\blacksquare$
+Add first then multiply: $\left(6+\square\right)\times5=40$, $6+\square=8$, $\square=2$. Correct: $6+2\times5=6+10=16$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -78,7 +88,9 @@ Add first then multiply: $\left(6+\square\right)\times5=40$, $6+\square=8$, $\sq
 
 ### Solution to Exercise 6
 
-By **Definition 5.3.1 (The Relation between Millimeters and Centimeters)**, short or precise objects are measured in millimeters, e.g. the thickness of an ID card (about $1$ millimeter), the thickness of a coin, rainfall, etc. $1$ millimeter is about the thickness of an ID card. $\blacksquare$
+By **Definition 5.3.1 (The Relation between Millimeters and Centimeters)**, short or precise objects are measured in millimeters, e.g. the thickness of an ID card (about $1$ millimeter), the thickness of a coin, rainfall, etc. $1$ millimeter is about the thickness of an ID card.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -86,7 +98,9 @@ By **Definition 5.3.1 (The Relation between Millimeters and Centimeters)**, shor
 
 ### Solution to Exercise 7
 
-Measure with a ruler: length about $26$ cm ($260$ mm), width about $18$ cm ($180$ mm), thickness less than $1$ cm, about $7$ mm. Fill per the actual measurement. $\blacksquare$
+Measure with a ruler: length about $26$ cm ($260$ mm), width about $18$ cm ($180$ mm), thickness less than $1$ cm, about $7$ mm. Fill per the actual measurement.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -94,7 +108,9 @@ Measure with a ruler: length about $26$ cm ($260$ mm), width about $18$ cm ($180
 
 ### Solution to Exercise 8
 
-By **Definition 5.3.1 (毫米与厘米的关系)** and **Definition 5.3.2 (分米与厘米, 米的关系)**, $1$ cm is $10$ mm, so $3$ cm is $3$ copies of $10$ mm, and $3$ cm $=30$ mm; $10$ cm is $1$ dm, so $70$ cm has $7$ copies of $10$ cm, and $70$ cm $=7$ dm. $\blacksquare$
+By **Definition 5.3.1 (毫米与厘米的关系)** and **Definition 5.3.2 (分米与厘米, 米的关系)**, $1$ cm is $10$ mm, so $3$ cm is $3$ copies of $10$ mm, and $3$ cm $=30$ mm; $10$ cm is $1$ dm, so $70$ cm has $7$ copies of $10$ cm, and $70$ cm $=7$ dm.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -102,7 +118,9 @@ By **Definition 5.3.1 (毫米与厘米的关系)** and **Definition 5.3.2 (分�
 
 ### Solution to Exercise 9
 
-By **Definition 5.3.2 (分米与厘米, 米的关系)** and **Definition 5.3.1 (毫米与厘米的关系)**: $8$ dm $=80$ cm; $5$ m $=50$ dm; $60$ mm $=6$ cm. $\blacksquare$
+By **Definition 5.3.2 (分米与厘米, 米的关系)** and **Definition 5.3.1 (毫米与厘米的关系)**: $8$ dm $=80$ cm; $5$ m $=50$ dm; $60$ mm $=6$ cm.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -110,7 +128,9 @@ By **Definition 5.3.2 (分米与厘米, 米的关系)** and **Definition 5.3.1 (
 
 ### Solution to Exercise 10
 
-$2$ m $=20$ dm, $20\div4=5$ dm. The stool is about $5$ dm high. $\blacksquare$
+$2$ m $=20$ dm, $20\div4=5$ dm. The stool is about $5$ dm high.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -118,7 +138,9 @@ $2$ m $=20$ dm, $20\div4=5$ dm. The stool is about $5$ dm high. $\blacksquare$
 
 ### Solution to Exercise 11
 
-Measure each side with a ruler, reading to the millimeter. Fill per the actual measurement. $\blacksquare$
+Measure each side with a ruler, reading to the millimeter. Fill per the actual measurement.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -126,7 +148,9 @@ Measure each side with a ruler, reading to the millimeter. Fill per the actual m
 
 ### Solution to Exercise 12
 
-By **Definition 5.3.1 (毫米与厘米的关系)** and **Definition 5.3.2 (分米与厘米, 米的关系)**, the pencil is $16$ cm long, $7$ mm thick, and the table is $1$ m high. $\blacksquare$
+By **Definition 5.3.1 (毫米与厘米的关系)** and **Definition 5.3.2 (分米与厘米, 米的关系)**, the pencil is $16$ cm long, $7$ mm thick, and the table is $1$ m high.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -134,7 +158,9 @@ By **Definition 5.3.1 (毫米与厘米的关系)** and **Definition 5.3.2 (分�
 
 ### Solution to Exercise 13
 
-By **Definition 5.3.4 (Conversion Rates and Estimation of Length Units)**: $90$ cm $=9$ dm; $100$ mm $=1$ dm; $2$ m $=200$ cm; $6$ dm $=60$ cm. $\blacksquare$
+By **Definition 5.3.4 (Conversion Rates and Estimation of Length Units)**: $90$ cm $=9$ dm; $100$ mm $=1$ dm; $2$ m $=200$ cm; $6$ dm $=60$ cm.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -142,7 +168,9 @@ By **Definition 5.3.4 (Conversion Rates and Estimation of Length Units)**: $90$ 
 
 ### Solution to Exercise 14
 
-Unify units then compare: $5$ dm $=500$ mm $>5$ mm; $8$ mm $<20$ mm $=2$ cm; $6$ cm $=60$ mm; $1$ m $=10$ dm $>7$ dm; $9$ mm $<300$ mm $=3$ dm; $4$ m $=40$ dm $>4$ dm. $\blacksquare$
+Unify units then compare: $5$ dm $=500$ mm $>5$ mm; $8$ mm $<20$ mm $=2$ cm; $6$ cm $=60$ mm; $1$ m $=10$ dm $>7$ dm; $9$ mm $<300$ mm $=3$ dm; $4$ m $=40$ dm $>4$ dm.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -150,7 +178,9 @@ Unify units then compare: $5$ dm $=500$ mm $>5$ mm; $8$ mm $<20$ mm $=2$ cm; $6$
 
 ### Solution to Exercise 15
 
-(1) From the ruler's $0$ draw to $5$ cm $8$ mm. (2) $1$ dm $=10$ cm, $10$ cm $-3$ cm $5$ mm $=6$ cm $5$ mm; draw a segment $6$ cm $5$ mm long. $\blacksquare$
+(1) From the ruler's $0$ draw to $5$ cm $8$ mm. (2) $1$ dm $=10$ cm, $10$ cm $-3$ cm $5$ mm $=6$ cm $5$ mm; draw a segment $6$ cm $5$ mm long.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -158,7 +188,9 @@ Unify units then compare: $5$ dm $=500$ mm $>5$ mm; $8$ mm $<20$ mm $=2$ cm; $6$
 
 ### Solution to Exercise 16
 
-An ant is $6$ mm long; a step is $5$ dm long; a dictionary is about $40$ mm thick. $\blacksquare$
+An ant is $6$ mm long; a step is $5$ dm long; a dictionary is about $40$ mm thick.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -166,7 +198,9 @@ An ant is $6$ mm long; a step is $5$ dm long; a dictionary is about $40$ mm thic
 
 ### Solution to Exercise 17
 
-By **Definition 5.3.4 (Conversion Rates and Estimation of Length Units)**, first pick a body ruler (e.g. a span about $15$ cm) to estimate, then measure with a ruler. E.g. chalk about $7$ cm, pencil case about $20$ cm, desk about $60$ cm. Fill per the actual. $\blacksquare$
+By **Definition 5.3.4 (Conversion Rates and Estimation of Length Units)**, first pick a body ruler (e.g. a span about $15$ cm) to estimate, then measure with a ruler. E.g. chalk about $7$ cm, pencil case about $20$ cm, desk about $60$ cm. Fill per the actual.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -174,7 +208,9 @@ By **Definition 5.3.4 (Conversion Rates and Estimation of Length Units)**, first
 
 ### Solution to Exercise 18
 
-Folding once makes $2$ pieces, folding again makes $4$ pieces, $4$ dm $\div4=1$ dm. Each piece is $1$ dm long. $\blacksquare$
+Folding once makes $2$ pieces, folding again makes $4$ pieces, $4$ dm $\div4=1$ dm. Each piece is $1$ dm long.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -182,4 +218,6 @@ Folding once makes $2$ pieces, folding again makes $4$ pieces, $4$ dm $\div4=1$ 
 
 ### Solution to Exercise 19
 
-$8$ dm $=80$ cm, the two boards together are $80+80=160$ cm; the $15$ cm overlap is counted once, so $160-15=145$ cm $=1$ m $4$ dm $5$ cm. $\blacksquare$
+$8$ dm $=80$ cm, the two boards together are $80+80=160$ cm; the $15$ cm overlap is counted once, so $160-15=145$ cm $=1$ m $4$ dm $5$ cm.
+
+$\blacksquare$

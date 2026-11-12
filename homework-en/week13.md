@@ -38,7 +38,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 2.2.3 (Solving Word Problems)**, "$6$ yellow" is an irrelevant condition: $14-8=6$ (boats); Xiaoyue folded $6$. $\blacksquare$
+By **Definition 2.2.3 (Solving Word Problems)**, "$6$ yellow" is an irrelevant condition: $14-8=6$ (boats); Xiaoyue folded $6$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -46,7 +48,9 @@ By **Definition 2.2.3 (Solving Word Problems)**, "$6$ yellow" is an irrelevant c
 
 ### Solution to Exercise 2
 
-By **Definition 2.3.1 (Counting and Number Composition)**, adding $1$ to thirty-nine is forty; $10$ ones is $1$ ten; $10$ tens is one hundred. $\blacksquare$
+By **Definition 2.3.1 (Counting and Number Composition)**, adding $1$ to thirty-nine is forty; $10$ ones is $1$ ten; $10$ tens is one hundred.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -54,7 +58,9 @@ By **Definition 2.3.1 (Counting and Number Composition)**, adding $1$ to thirty-
 
 ### Solution to Exercise 3
 
-By **Definition 2.3.1 (Counting and Number Composition)**, count the tens and ones in the picture, combine them and write the corresponding number. $\blacksquare$
+By **Definition 2.3.1 (Counting and Number Composition)**, count the tens and ones in the picture, combine them and write the corresponding number.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -62,7 +68,9 @@ By **Definition 2.3.1 (Counting and Number Composition)**, count the tens and on
 
 ### Solution to Exercise 4
 
-By **Definition 2.3.1 (Counting and Number Composition)**, count the bubbles one by one and write the corresponding number. $\blacksquare$
+By **Definition 2.3.1 (Counting and Number Composition)**, count the bubbles one by one and write the corresponding number.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -70,7 +78,9 @@ By **Definition 2.3.1 (Counting and Number Composition)**, count the bubbles one
 
 ### Solution to Exercise 5
 
-First circle out $10$ beads as a standard, then estimate the total, finally count the actual number one by one, and compare the estimate with the actual. $\blacksquare$
+First circle out $10$ beads as a standard, then estimate the total, finally count the actual number one by one, and compare the estimate with the actual.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -78,7 +88,9 @@ First circle out $10$ beads as a standard, then estimate the total, finally coun
 
 ### Solution to Exercise 6
 
-By **Definition 2.3.2 (Place Value)**, in $33$ the $3$ in the tens place represents $3$ tens, and the $3$ in the ones place represents $3$ ones; the two "$3$"s do not mean the same thing. $\blacksquare$
+By **Definition 2.3.2 (Place Value)**, in $33$ the $3$ in the tens place represents $3$ tens, and the $3$ in the ones place represents $3$ ones; the two "$3$"s do not mean the same thing.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -86,7 +98,9 @@ By **Definition 2.3.2 (Place Value)**, in $33$ the $3$ in the tens place represe
 
 ### Solution to Exercise 7
 
-By **Definition 2.3.2 (Place Value)** and **Definition 2.3.1 (Counting and Number Composition)**: write $63$, $38$, $55$, $90$. $\blacksquare$
+By **Definition 2.3.2 (Place Value)** and **Definition 2.3.1 (Counting and Number Composition)**: write $63$, $38$, $55$, $90$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -94,7 +108,9 @@ By **Definition 2.3.2 (Place Value)** and **Definition 2.3.1 (Counting and Numbe
 
 ### Solution to Exercise 8
 
-By **Definition 2.3.1 (Counting and Number Composition)**, the number formed by $5$ tens and $8$ ones is $58$. $\blacksquare$
+By **Definition 2.3.1 (Counting and Number Composition)**, the number formed by $5$ tens and $8$ ones is $58$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -102,7 +118,9 @@ By **Definition 2.3.1 (Counting and Number Composition)**, the number formed by 
 
 ### Solution to Exercise 9
 
-By **Definition 2.3.1 (Counting and Number Composition)**, adding $1$ to $99$ gives one hundred, and $10$ tens is one hundred. $\blacksquare$
+By **Definition 2.3.1 (Counting and Number Composition)**, adding $1$ to $99$ gives one hundred, and $10$ tens is one hundred.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -110,7 +128,9 @@ By **Definition 2.3.1 (Counting and Number Composition)**, adding $1$ to $99$ gi
 
 ### Solution to Exercise 10
 
-By **Definition 2.3.2 (Place Value)**, $1$ one writes $1$ in the ones place, $1$ ten writes $1$ in the tens place, $1$ hundred writes $1$ in the hundreds place, i.e. $1$, $10$, $100$. $\blacksquare$
+By **Definition 2.3.2 (Place Value)**, $1$ one writes $1$ in the ones place, $1$ ten writes $1$ in the tens place, $1$ hundred writes $1$ in the hundreds place, i.e. $1$, $10$, $100$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -118,7 +138,9 @@ By **Definition 2.3.2 (Place Value)**, $1$ one writes $1$ in the ones place, $1$
 
 ### Solution to Exercise 11
 
-By **Definition 2.3.2 (Place Value)**: write $76$, $30$, $100$, $88$. $\blacksquare$
+By **Definition 2.3.2 (Place Value)**: write $76$, $30$, $100$, $88$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -126,7 +148,9 @@ By **Definition 2.3.2 (Place Value)**: write $76$, $30$, $100$, $88$. $\blacksqu
 
 ### Solution to Exercise 12
 
-By **Definition 2.3.2 (Place Value)**, those with ones digit $5$ are $45,65,55,75,95,85$; those with ones digit $0$ are $50,70,60,90,80,100$. $\blacksquare$
+By **Definition 2.3.2 (Place Value)**, those with ones digit $5$ are $45,65,55,75,95,85$; those with ones digit $0$ are $50,70,60,90,80,100$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -134,7 +158,9 @@ By **Definition 2.3.2 (Place Value)**, those with ones digit $5$ are $45,65,55,7
 
 ### Solution to Exercise 13
 
-By **Definition 2.3.3 (Comparing Two-Digit Numbers)**, each row from left to right increases by $1$, and each column from top to bottom increases by $10$; numbers with the same tens digit or same ones digit form a row or column. The figure is a $10\times10$ hundreds table with some cells already filled (the first row is $1,2,\ldots,10$, the second row $11,12,\ldots,20$, and so on); fill the blanks in numerical order. $\blacksquare$
+By **Definition 2.3.3 (Comparing Two-Digit Numbers)**, each row from left to right increases by $1$, and each column from top to bottom increases by $10$; numbers with the same tens digit or same ones digit form a row or column. The figure is a $10\times10$ hundreds table with some cells already filled (the first row is $1,2,\ldots,10$, the second row $11,12,\ldots,20$, and so on); fill the blanks in numerical order.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -142,7 +168,9 @@ By **Definition 2.3.3 (Comparing Two-Digit Numbers)**, each row from left to rig
 
 ### Solution to Exercise 14
 
-By **Definition 2.3.3 (Comparing Two-Digit Numbers)**: $41<45$, $63>53$, $89<98$, $47>32$, $63<68$, $37<73$, $81>18$, $29<30$. $\blacksquare$
+By **Definition 2.3.3 (Comparing Two-Digit Numbers)**: $41<45$, $63>53$, $89<98$, $47>32$, $63<68$, $37<73$, $81>18$, $29<30$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -150,7 +178,9 @@ By **Definition 2.3.3 (Comparing Two-Digit Numbers)**: $41<45$, $63>53$, $89<98$
 
 ### Solution to Exercise 15
 
-By **Definition 2.3.4 (A Little More and Much More More)**, from smallest to largest $25<31<87<99$; $87$ is much larger than $25$, $31$ is a little larger than $25$, and $99$ is a little larger than $87$. $\blacksquare$
+By **Definition 2.3.4 (A Little More and Much More More)**, from smallest to largest $25<31<87<99$; $87$ is much larger than $25$, $31$ is a little larger than $25$, and $99$ is a little larger than $87$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -158,7 +188,9 @@ By **Definition 2.3.4 (A Little More and Much More More)**, from smallest to lar
 
 ### Solution to Exercise 16
 
-By **Definition 2.3.4 (A Little More and Much More More)**, much more than $35$ choose $80$, a little fewer than $35$ choose $28$; thus Doudou ate $80$ and Tiaotiao ate $28$. $\blacksquare$
+By **Definition 2.3.4 (A Little More and Much More More)**, much more than $35$ choose $80$, a little fewer than $35$ choose $28$; thus Doudou ate $80$ and Tiaotiao ate $28$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -166,7 +198,9 @@ By **Definition 2.3.4 (A Little More and Much More More)**, much more than $35$ 
 
 ### Solution to Exercise 17
 
-By **Definition 2.3.2 (Place Value)** and **Definition 2.3.1 (Counting and Number Composition)**, write $22$, $36$, $51$, $72$, $40$, $27$, $89$, $95$, $100$, and dial them on the counter. $\blacksquare$
+By **Definition 2.3.2 (Place Value)** and **Definition 2.3.1 (Counting and Number Composition)**, write $22$, $36$, $51$, $72$, $40$, $27$, $89$, $95$, $100$, and dial them on the counter.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -174,7 +208,9 @@ By **Definition 2.3.2 (Place Value)** and **Definition 2.3.1 (Counting and Numbe
 
 ### Solution to Exercise 18
 
-Fill in order $73,74,75,77,78$. $77$ is nearer to $80$, i.e. closer to $80$; $72$ is nearer to $70$, i.e. closer to $70$. $\blacksquare$
+Fill in order $73,74,75,77,78$. $77$ is nearer to $80$, i.e. closer to $80$; $72$ is nearer to $70$, i.e. closer to $70$.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -182,7 +218,9 @@ Fill in order $73,74,75,77,78$. $77$ is nearer to $80$, i.e. closer to $80$; $72
 
 ### Solution to Exercise 19
 
-By **Definition 2.3.3 (Comparing Two-Digit Numbers)**, those greater than $60$ are $96,85,80,61,74$; those less than $60$ are $29,56,51,38,48,26$. $\blacksquare$
+By **Definition 2.3.3 (Comparing Two-Digit Numbers)**, those greater than $60$ are $96,85,80,61,74$; those less than $60$ are $29,56,51,38,48,26$.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -190,7 +228,9 @@ By **Definition 2.3.3 (Comparing Two-Digit Numbers)**, those greater than $60$ a
 
 ### Solution to Exercise 20
 
-By **Definition 2.3.5 (Round-Tens Plus a One-Digit Number and Corresponding Subtraction)** and **Definition 2.3.1 (Counting and Number Composition)**: $10+20=30$, $20+10=30$, $30-20=10$, $30-10=20$; $30+2=32$, $2+30=32$, $32-2=30$, $32-30=2$. $\blacksquare$
+By **Definition 2.3.5 (Round-Tens Plus a One-Digit Number and Corresponding Subtraction)** and **Definition 2.3.1 (Counting and Number Composition)**: $10+20=30$, $20+10=30$, $30-20=10$, $30-10=20$; $30+2=32$, $2+30=32$, $32-2=30$, $32-30=2$.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -198,7 +238,9 @@ By **Definition 2.3.5 (Round-Tens Plus a One-Digit Number and Corresponding Subt
 
 ### Solution to Exercise 21
 
-By **Definition 2.3.5 (Round-Tens Plus a One-Digit Number and Corresponding Subtraction)**: $70+2=72$, $40+4=44$, $5+60=65$; $72-2=70$, $44-4=40$, $65-5=60$; $72-70=2$, $44-40=4$, $65-60=5$. $\blacksquare$
+By **Definition 2.3.5 (Round-Tens Plus a One-Digit Number and Corresponding Subtraction)**: $70+2=72$, $40+4=44$, $5+60=65$; $72-2=70$, $44-4=40$, $65-5=60$; $72-70=2$, $44-40=4$, $65-60=5$.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -206,4 +248,6 @@ By **Definition 2.3.5 (Round-Tens Plus a One-Digit Number and Corresponding Subt
 
 ### Solution to Exercise 22
 
-By **Definition 2.3.1 (Counting and Number Composition)** and **Definition 2.3.2 (Place Value)**, $2$ discs can form $2$, $11$, $20$, totaling $3$ numbers; $3$ discs can form $3$, $12$, $21$, $30$, totaling $4$ numbers. Each additional $1$ disc gives $1$ more number. $\blacksquare$
+By **Definition 2.3.1 (Counting and Number Composition)** and **Definition 2.3.2 (Place Value)**, $2$ discs can form $2$, $11$, $20$, totaling $3$ numbers; $3$ discs can form $3$, $12$, $21$, $30$, totaling $4$ numbers. Each additional $1$ disc gives $1$ more number.
+
+$\blacksquare$

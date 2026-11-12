@@ -42,7 +42,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 12.8.2 (Laws of Operation)**. $59\times101=59\times\left(100+1\right)=5900+59=5959$. $12.7-3.6-5.4=12.7-\left(3.6+5.4\right)=12.7-9=3.7$. $12.5\times8\div12.5\times8=\left(12.5\div12.5\right)\times\left(8\times8\right)=1\times64=64$. $\blacksquare$
+By **Definition 12.8.2 (Laws of Operation)**. $59\times101=59\times\left(100+1\right)=5900+59=5959$. $12.7-3.6-5.4=12.7-\left(3.6+5.4\right)=12.7-9=3.7$. $12.5\times8\div12.5\times8=\left(12.5\div12.5\right)\times\left(8\times8\right)=1\times64=64$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -50,7 +52,9 @@ By **Definition 12.8.2 (Laws of Operation)**. $59\times101=59\times\left(100+1\r
 
 ### Solution to Exercise 2
 
-By **Definition 12.5.4 (Inverse Proportion)**, the total number of sheets $=25\times20=500$. It actually lasts $500\div20=25$ days, which is $25-20=5$ days longer than planned. $\blacksquare$
+By **Definition 12.5.4 (Inverse Proportion)**, the total number of sheets $=25\times20=500$. It actually lasts $500\div20=25$ days, which is $25-20=5$ days longer than planned.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -58,7 +62,9 @@ By **Definition 12.5.4 (Inverse Proportion)**, the total number of sheets $=25\t
 
 ### Solution to Exercise 3
 
-The money for $10\,\mathrm{L}$ was $=12\times10=120$ yuan. The new price $=12\times\left(1+25\%\right)=15$ yuan per liter. Now $120\div15=8\,\mathrm{L}$ can be bought. $\blacksquare$
+The money for $10\,\mathrm{L}$ was $=12\times10=120$ yuan. The new price $=12\times\left(1+25\%\right)=15$ yuan per liter. Now $120\div15=8\,\mathrm{L}$ can be bought.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -66,7 +72,9 @@ The money for $10\,\mathrm{L}$ was $=12\times10=120$ yuan. The new price $=12\ti
 
 ### Solution to Exercise 4
 
-By **Definition 12.8.3 (Equations)**, where letters stand for numbers. $9a$ is the total cost of buying $9$ soccer balls; $58b$ is the total cost of buying $b$ basketballs; $9a+58b$ is the total cost of the soccer balls and basketballs. Substituting $a=45,b=6$: $9\times45+58\times6=405+348=753$ yuan. $\blacksquare$
+By **Definition 12.8.3 (Equations)**, where letters stand for numbers. $9a$ is the total cost of buying $9$ soccer balls; $58b$ is the total cost of buying $b$ basketballs; $9a+58b$ is the total cost of the soccer balls and basketballs. Substituting $a=45,b=6$: $9\times45+58\times6=405+348=753$ yuan.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -74,7 +82,9 @@ By **Definition 12.8.3 (Equations)**, where letters stand for numbers. $9a$ is t
 
 ### Solution to Exercise 5
 
-By **Definition 12.8.3 (Equations)**. $x-0.25=\frac{1}{4}$, so $x=0.25+0.25=0.5$. $4+0.7x=102$, so $0.7x=98$, and $x=140$. $\blacksquare$
+By **Definition 12.8.3 (Equations)**. $x-0.25=\frac{1}{4}$, so $x=0.25+0.25=0.5$. $4+0.7x=102$, so $0.7x=98$, and $x=140$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -82,7 +92,9 @@ By **Definition 12.8.3 (Equations)**. $x-0.25=\frac{1}{4}$, so $x=0.25+0.25=0.5$
 
 ### Solution to Exercise 6
 
-Each additional hexagon adds $5$ sticks. Making $n$ hexagons needs $6+5\left(n-1\right)=5n+1$ sticks. Making $150$ needs $5\times150+1=751$ sticks. $\blacksquare$
+Each additional hexagon adds $5$ sticks. Making $n$ hexagons needs $6+5\left(n-1\right)=5n+1$ sticks. Making $150$ needs $5\times150+1=751$ sticks.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -90,7 +102,9 @@ Each additional hexagon adds $5$ sticks. Making $n$ hexagons needs $6+5\left(n-1
 
 ### Solution to Exercise 7
 
-By **Definition 12.8.3 (Equations)**, let the lilac bushes be $x$. Then $2x=240+16$, $2x=256$, and $x=128$ bushes. $\blacksquare$
+By **Definition 12.8.3 (Equations)**, let the lilac bushes be $x$. Then $2x=240+16$, $2x=256$, and $x=128$ bushes.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -98,7 +112,9 @@ By **Definition 12.8.3 (Equations)**, let the lilac bushes be $x$. Then $2x=240+
 
 ### Solution to Exercise 8
 
-By **Definition 12.8.3 (Equations)**, let the Miyun Reservoir's capacity be $x$ hundred-million cubic meters. Then $9x-0.75=393$, $9x=393.75$, and $x=43.75$ hundred-million cubic meters. $\blacksquare$
+By **Definition 12.8.3 (Equations)**, let the Miyun Reservoir's capacity be $x$ hundred-million cubic meters. Then $9x-0.75=393$, $9x=393.75$, and $x=43.75$ hundred-million cubic meters.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -106,7 +122,9 @@ By **Definition 12.8.3 (Equations)**, let the Miyun Reservoir's capacity be $x$ 
 
 ### Solution to Exercise 9
 
-By **Definition 12.8.3 (Equations)**, let the spiders be $x$ and the mantises $\left(25-x\right)$. Then $8x+6\left(25-x\right)=170$, $8x+150-6x=170$, $2x=20$, and $x=10$. There are $10$ spiders and $25-10=15$ mantises. $\blacksquare$
+By **Definition 12.8.3 (Equations)**, let the spiders be $x$ and the mantises $\left(25-x\right)$. Then $8x+6\left(25-x\right)=170$, $8x+150-6x=170$, $2x=20$, and $x=10$. There are $10$ spiders and $25-10=15$ mantises.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -114,7 +132,9 @@ By **Definition 12.8.3 (Equations)**, let the spiders be $x$ and the mantises $\
 
 ### Solution to Exercise 10
 
-(1) $80:84=20:21$. (2) By the basic property of a proportion, $3a=5b$ means $a:b=5:3$. $\blacksquare$
+(1) $80:84=20:21$. (2) By the basic property of a proportion, $3a=5b$ means $a:b=5:3$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -122,7 +142,9 @@ By **Definition 12.8.3 (Equations)**, let the spiders be $x$ and the mantises $\
 
 ### Solution to Exercise 11
 
-By **Definition 12.5.3 (Direct Proportion)** and **Definition 12.5.4 (Inverse Proportion)**. (1) Present $+$ absent $=$ class size (a constant sum), so neither. (2) $\frac{y}{x}=3$ (constant ratio), so directly proportional. (3) Base $\times$ height $=2S$ (constant product), so inversely proportional. (4) Surface area $\div$ area of one face $=6$ (constant ratio), so directly proportional. (5) $xy=1$ (constant product), so inversely proportional. (6) Peanut-oil mass $\div$ peanut mass $=$ oil extraction rate (constant), so directly proportional. $\blacksquare$
+By **Definition 12.5.3 (Direct Proportion)** and **Definition 12.5.4 (Inverse Proportion)**. (1) Present $+$ absent $=$ class size (a constant sum), so neither. (2) $\frac{y}{x}=3$ (constant ratio), so directly proportional. (3) Base $\times$ height $=2S$ (constant product), so inversely proportional. (4) Surface area $\div$ area of one face $=6$ (constant ratio), so directly proportional. (5) $xy=1$ (constant product), so inversely proportional. (6) Peanut-oil mass $\div$ peanut mass $=$ oil extraction rate (constant), so directly proportional.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -130,7 +152,9 @@ By **Definition 12.5.3 (Direct Proportion)** and **Definition 12.5.4 (Inverse Pr
 
 ### Solution to Exercise 12
 
-The total number of parts is $7+2=9$. Flour $=1.8\times\frac{7}{9}=1.4\,\mathrm{kg}$; water $=1.8\times\frac{2}{9}=0.4\,\mathrm{kg}$. $\blacksquare$
+The total number of parts is $7+2=9$. Flour $=1.8\times\frac{7}{9}=1.4\,\mathrm{kg}$; water $=1.8\times\frac{2}{9}=0.4\,\mathrm{kg}$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -138,7 +162,9 @@ The total number of parts is $7+2=9$. Flour $=1.8\times\frac{7}{9}=1.4\,\mathrm{
 
 ### Solution to Exercise 13
 
-By **Definition 12.5.5 (Scale)**, since the scale is fixed on one map, the on-paper distance is directly proportional to the actual distance. Let the actual distance A-C be $x\,\mathrm{km}$. Then $\frac{20}{1600}=\frac{12}{x}$, $20x=19200$, and $x=960\,\mathrm{km}$. $\blacksquare$
+By **Definition 12.5.5 (Scale)**, since the scale is fixed on one map, the on-paper distance is directly proportional to the actual distance. Let the actual distance A-C be $x\,\mathrm{km}$. Then $\frac{20}{1600}=\frac{12}{x}$, $20x=19200$, and $x=960\,\mathrm{km}$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -146,7 +172,9 @@ By **Definition 12.5.5 (Scale)**, since the scale is fixed on one map, the on-pa
 
 ### Solution to Exercise 14
 
-For a triangle, the sum of any two sides must exceed the third. Since $3+4>5$, the $3,4,5$ sides form a triangle. Since $3+5<8$ and $4+5<8$, the other combinations cannot. Only the $3\,\mathrm{cm},4\,\mathrm{cm},5\,\mathrm{cm}$ sticks form a triangle. $\blacksquare$
+For a triangle, the sum of any two sides must exceed the third. Since $3+4>5$, the $3,4,5$ sides form a triangle. Since $3+5<8$ and $4+5<8$, the other combinations cannot. Only the $3\,\mathrm{cm},4\,\mathrm{cm},5\,\mathrm{cm}$ sticks form a triangle.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -154,7 +182,9 @@ For a triangle, the sum of any two sides must exceed the third. Since $3+4>5$, t
 
 ### Solution to Exercise 15
 
-By **Definition 12.8.4 (Common Perimeter, Area, and Volume Formulas)**, a triangle with the same base and height has half the area of the parallelogram: $30\div2=15\,\mathrm{cm}^{2}$. $\blacksquare$
+By **Definition 12.8.4 (Common Perimeter, Area, and Volume Formulas)**, a triangle with the same base and height has half the area of the parallelogram: $30\div2=15\,\mathrm{cm}^{2}$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -162,4 +192,6 @@ By **Definition 12.8.4 (Common Perimeter, Area, and Volume Formulas)**, a triang
 
 ### Solution to Exercise 16
 
-By **Definition 12.8.4 (Common Perimeter, Area, and Volume Formulas)**. The number of small cubes is $=\left(6\div2\right)^{3}=27$. The original large cube's surface area is $=6\times6^{2}=216\,\mathrm{cm}^{2}$. The sum of the surface areas of the $27$ small cubes is $=27\times6\times2^{2}=27\times24=648\,\mathrm{cm}^{2}$. The increase is $648-216=432\,\mathrm{cm}^{2}$. $\blacksquare$
+By **Definition 12.8.4 (Common Perimeter, Area, and Volume Formulas)**. The number of small cubes is $=\left(6\div2\right)^{3}=27$. The original large cube's surface area is $=6\times6^{2}=216\,\mathrm{cm}^{2}$. The sum of the surface areas of the $27$ small cubes is $=27\times6\times2^{2}=27\times24=648\,\mathrm{cm}^{2}$. The increase is $648-216=432\,\mathrm{cm}^{2}$.
+
+$\blacksquare$

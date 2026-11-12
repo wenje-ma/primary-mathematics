@@ -30,7 +30,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 6.2.2 (Estimating Division)**: grade one $438\div6\approx73$, grade two $445\div5\approx89$, grade three $635\div7\approx91$; grade three donated the most volumes per class on average. $\blacksquare$
+By **Definition 6.2.2 (Estimating Division)**: grade one $438\div6\approx73$, grade two $445\div5\approx89$, grade three $635\div7\approx91$; grade three donated the most volumes per class on average.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -38,7 +40,9 @@ By **Definition 6.2.2 (Estimating Division)**: grade one $438\div6\approx73$, gr
 
 ### Solution to Exercise 2
 
-$96\div3=32$, $50-32=18$; $47+19=66$, $66\div33=2$; $100-40=60$, $60\div3=20$; $41-30=11$, $11\times4=44$. Fill in $18,2,20,44$ in order. $\blacksquare$
+$96\div3=32$, $50-32=18$; $47+19=66$, $66\div33=2$; $100-40=60$, $60\div3=20$; $41-30=11$, $11\times4=44$. Fill in $18,2,20,44$ in order.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -46,7 +50,9 @@ $96\div3=32$, $50-32=18$; $47+19=66$, $66\div33=2$; $100-40=60$, $60\div3=20$; $
 
 ### Solution to Exercise 3
 
-By **Definition 6.2.3 (Rules of Written Division)**: $42\div2=21$, $68\div2=34$, $78\div4=19\cdots\cdots2$, $52\div5=10\cdots\cdots2$. $\blacksquare$
+By **Definition 6.2.3 (Rules of Written Division)**: $42\div2=21$, $68\div2=34$, $78\div4=19\cdots\cdots2$, $52\div5=10\cdots\cdots2$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -54,7 +60,9 @@ By **Definition 6.2.3 (Rules of Written Division)**: $42\div2=21$, $68\div2=34$,
 
 ### Solution to Exercise 4
 
-By **Definition 6.2.3 (笔算除法法则)** and **Definition 6.2.4 (Checking Division)**: $84\div6=14$, $75\div3=25$, $95\div5=19$, $76\div4=19$; check each by quotient $\times$ divisor. $\blacksquare$
+By **Definition 6.2.3 (笔算除法法则)** and **Definition 6.2.4 (Checking Division)**: $84\div6=14$, $75\div3=25$, $95\div5=19$, $76\div4=19$; check each by quotient $\times$ divisor.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -62,7 +70,9 @@ By **Definition 6.2.3 (笔算除法法则)** and **Definition 6.2.4 (Checking Di
 
 ### Solution to Exercise 5
 
-$96\div4=24$ (trees), $24$ per row in $4$ rows; $96\div6=16$ (trees), $16$ per row in $6$ rows. $\blacksquare$
+$96\div4=24$ (trees), $24$ per row in $4$ rows; $96\div6=16$ (trees), $16$ per row in $6$ rows.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -70,7 +80,9 @@ $96\div4=24$ (trees), $24$ per row in $4$ rows; $96\div6=16$ (trees), $16$ per r
 
 ### Solution to Exercise 6
 
-By **Definition 6.2.3 (笔算除法法则)** and **Definition 6.2.4 (除法的验算)**: $432\div2=216$, $855\div5=171$, $636\div4=159$, $522\div3=174$. $\blacksquare$
+By **Definition 6.2.3 (笔算除法法则)** and **Definition 6.2.4 (除法的验算)**: $432\div2=216$, $855\div5=171$, $636\div4=159$, $522\div3=174$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -78,7 +90,9 @@ By **Definition 6.2.3 (笔算除法法则)** and **Definition 6.2.4 (除法的�
 
 ### Solution to Exercise 7
 
-By **Definition 6.2.3 (笔算除法法则)**, when the hundreds digit cannot be divided, look at the first two digits; the quotient is two-digit: $327\div4=81\cdots\cdots3$, $325\div5=65$, $349\div7=49\cdots\cdots6$, $235\div4=58\cdots\cdots3$. $\blacksquare$
+By **Definition 6.2.3 (笔算除法法则)**, when the hundreds digit cannot be divided, look at the first two digits; the quotient is two-digit: $327\div4=81\cdots\cdots3$, $325\div5=65$, $349\div7=49\cdots\cdots6$, $235\div4=58\cdots\cdots3$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -86,7 +100,9 @@ By **Definition 6.2.3 (笔算除法法则)**, when the hundreds digit cannot be 
 
 ### Solution to Exercise 8
 
-By **Definition 6.2.3 (笔算除法法则)** and **Definition 6.2.4 (除法的验算)**, check each problem: whether the remainder is smaller than the divisor and whether the quotient is placed correctly: $68\div4=17$, $99\div3=33$, $48\div4=12$; correct the wrong ones by the correct long division. $\blacksquare$
+By **Definition 6.2.3 (笔算除法法则)** and **Definition 6.2.4 (除法的验算)**, check each problem: whether the remainder is smaller than the divisor and whether the quotient is placed correctly: $68\div4=17$, $99\div3=33$, $48\div4=12$; correct the wrong ones by the correct long division.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -94,7 +110,9 @@ By **Definition 6.2.3 (笔算除法法则)** and **Definition 6.2.4 (除法的�
 
 ### Solution to Exercise 9
 
-By **Definition 6.2.3 (笔算除法法则)**, when the hundreds digit can be divided, the quotient is three-digit; otherwise look at the first two digits and the quotient is two-digit: $234\div2=117$, $456\div4=114$, $51\div3=17$, $98\div7=14$, $84\div4=21$, $93\div3=31$, $77\div7=11$, $26\div2=13$; $257\div5=51\cdots\cdots2$, $804\div6=134$, $183\div4=45\cdots\cdots3$, $317\div2=158\cdots\cdots1$. $\blacksquare$
+By **Definition 6.2.3 (笔算除法法则)**, when the hundreds digit can be divided, the quotient is three-digit; otherwise look at the first two digits and the quotient is two-digit: $234\div2=117$, $456\div4=114$, $51\div3=17$, $98\div7=14$, $84\div4=21$, $93\div3=31$, $77\div7=11$, $26\div2=13$; $257\div5=51\cdots\cdots2$, $804\div6=134$, $183\div4=45\cdots\cdots3$, $317\div2=158\cdots\cdots1$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -102,7 +120,9 @@ By **Definition 6.2.3 (笔算除法法则)**, when the hundreds digit can be div
 
 ### Solution to Exercise 10
 
-By **Definition 6.2.3 (笔算除法法则)** and **Definition 6.2.4 (除法的验算)**: $417\div3=139$, $925\div5=185$, $332\div4=83$, $264\div6=44$. $\blacksquare$
+By **Definition 6.2.3 (笔算除法法则)** and **Definition 6.2.4 (除法的验算)**: $417\div3=139$, $925\div5=185$, $332\div4=83$, $264\div6=44$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -110,7 +130,9 @@ By **Definition 6.2.3 (笔算除法法则)** and **Definition 6.2.4 (除法的�
 
 ### Solution to Exercise 11
 
-$120\div8=15$ (minutes), $15$ minutes per episode on average. $\blacksquare$
+$120\div8=15$ (minutes), $15$ minutes per episode on average.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -118,7 +140,9 @@ $120\div8=15$ (minutes), $15$ minutes per episode on average. $\blacksquare$
 
 ### Solution to Exercise 12
 
-(1) $90\div2=45$ (centimeters); (2) $45\div3=15$ (centimeters). $\blacksquare$
+(1) $90\div2=45$ (centimeters); (2) $45\div3=15$ (centimeters).
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -126,7 +150,9 @@ $120\div8=15$ (minutes), $15$ minutes per episode on average. $\blacksquare$
 
 ### Solution to Exercise 13
 
-By **Definition 6.2.3 (笔算除法法则)**, when the hundreds digit of a three-digit dividend is greater than or equal to the divisor, the quotient is three-digit; when it is smaller than the divisor, the quotient is two-digit. Accordingly, put each expression into the categories "two-digit quotient" or "three-digit quotient". $\blacksquare$
+By **Definition 6.2.3 (笔算除法法则)**, when the hundreds digit of a three-digit dividend is greater than or equal to the divisor, the quotient is three-digit; when it is smaller than the divisor, the quotient is two-digit. Accordingly, put each expression into the categories "two-digit quotient" or "three-digit quotient".
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -134,7 +160,9 @@ By **Definition 6.2.3 (笔算除法法则)**, when the hundreds digit of a three
 
 ### Solution to Exercise 14
 
-$185\div5=37$, $712\div8=89$, $894\div6=149$, $543\div3=181$, $372\div6=62$, $924\div7=132$; match by the results. $\blacksquare$
+$185\div5=37$, $712\div8=89$, $894\div6=149$, $543\div3=181$, $372\div6=62$, $924\div7=132$; match by the results.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -142,7 +170,9 @@ $185\div5=37$, $712\div8=89$, $894\div6=149$, $543\div3=181$, $372\div6=62$, $92
 
 ### Solution to Exercise 15
 
-$213\div5=42$ (boxes) $\cdots\cdots3$ (boxes), so $42$ classes can be served and $3$ boxes are left over. $\blacksquare$
+$213\div5=42$ (boxes) $\cdots\cdots3$ (boxes), so $42$ classes can be served and $3$ boxes are left over.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -150,7 +180,9 @@ $213\div5=42$ (boxes) $\cdots\cdots3$ (boxes), so $42$ classes can be served and
 
 ### Solution to Exercise 16
 
-By **Definition 6.2.6 (Solving Two-Step Problems with Multiplication and Division)**, for example "$272$ yuan bought several identical items; find how much each costs", just divide $272\div$ the number to get the unit price. $\blacksquare$
+By **Definition 6.2.6 (Solving Two-Step Problems with Multiplication and Division)**, for example "$272$ yuan bought several identical items; find how much each costs", just divide $272\div$ the number to get the unit price.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -158,7 +190,9 @@ By **Definition 6.2.6 (Solving Two-Step Problems with Multiplication and Divisio
 
 ### Solution to Exercise 17
 
-(1) $138\div6=23$ (bowls), so $23$ bowls can be bought. (2) For example, "with the money for $1$ rice cooker, how many cups can be bought", $138\div4=34\cdots\cdots2$; answers may vary. $\blacksquare$
+(1) $138\div6=23$ (bowls), so $23$ bowls can be bought. (2) For example, "with the money for $1$ rice cooker, how many cups can be bought", $138\div4=34\cdots\cdots2$; answers may vary.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -166,7 +200,9 @@ By **Definition 6.2.6 (Solving Two-Step Problems with Multiplication and Divisio
 
 ### Solution to Exercise 18
 
-One cycle is $1+2+3=6$ lights. $73\div6=12\cdots\cdots1$, remainder $1$ corresponds to red; $94\div6=15\cdots\cdots4$, remainder $4$ corresponds to blue (the $1$st red, the $2\sim3$rd yellow, the $4\sim6$th blue). $\blacksquare$
+One cycle is $1+2+3=6$ lights. $73\div6=12\cdots\cdots1$, remainder $1$ corresponds to red; $94\div6=15\cdots\cdots4$, remainder $4$ corresponds to blue (the $1$st red, the $2\sim3$rd yellow, the $4\sim6$th blue).
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -174,7 +210,9 @@ One cycle is $1+2+3=6$ lights. $73\div6=12\cdots\cdots1$, remainder $1$ correspo
 
 ### Solution to Exercise 19
 
-By **Definition 6.2.3 (笔算除法法则)**, to make the quotient three-digit, the hundreds digit of the dividend must be greater than or equal to the divisor; to make it two-digit, the hundreds digit must be smaller than the divisor. Fill in the numbers accordingly. $\blacksquare$
+By **Definition 6.2.3 (笔算除法法则)**, to make the quotient three-digit, the hundreds digit of the dividend must be greater than or equal to the divisor; to make it two-digit, the hundreds digit must be smaller than the divisor. Fill in the numbers accordingly.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -182,4 +220,6 @@ By **Definition 6.2.3 (笔算除法法则)**, to make the quotient three-digit, 
 
 ### Solution to Exercise 20
 
-By **Definition 6.2.6 (Totalization Problem)**, this segment can represent dividing $72$ equally into so many parts to find each part, or finding how many of something are in $72$; then write the expression for the problem, for example $72\div$ the number of parts. $\blacksquare$
+By **Definition 6.2.6 (Totalization Problem)**, this segment can represent dividing $72$ equally into so many parts to find each part, or finding how many of something are in $72$; then write the expression for the problem, for example $72\div$ the number of parts.
+
+$\blacksquare$

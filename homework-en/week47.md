@@ -38,7 +38,9 @@
 
 ### Solution to Exercise 1
 
-$3$ unlinked rings are $4\times3=12$ cm $=120$ mm long. Each linkage overlaps the thickness of $2$ rings (each deducts $5$ mm, so one overlap deducts $10$ mm); with $2$ overlaps, deduct $20$ mm. $120-20=100$ mm $=10$ cm. $\blacksquare$
+$3$ unlinked rings are $4\times3=12$ cm $=120$ mm long. Each linkage overlaps the thickness of $2$ rings (each deducts $5$ mm, so one overlap deducts $10$ mm); with $2$ overlaps, deduct $20$ mm. $120-20=100$ mm $=10$ cm.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -46,7 +48,9 @@ $3$ unlinked rings are $4\times3=12$ cm $=120$ mm long. Each linkage overlaps th
 
 ### Solution to Exercise 2
 
-By **Definition 5.3.3 (The Kilometer)**, $1$ km is $1000$ m, so $3$ km is $3$ copies of $1000$ m, and $3$ km $=3000$ m; $5000$ m has $5$ copies of $1000$ m, and $5000$ m $=5$ km. $\blacksquare$
+By **Definition 5.3.3 (The Kilometer)**, $1$ km is $1000$ m, so $3$ km is $3$ copies of $1000$ m, and $3$ km $=3000$ m; $5000$ m has $5$ copies of $1000$ m, and $5000$ m $=5$ km.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -54,7 +58,9 @@ By **Definition 5.3.3 (The Kilometer)**, $1$ km is $1000$ m, so $3$ km is $3$ co
 
 ### Solution to Exercise 3
 
-By **Definition 5.3.3 (The Kilometer)**, $1$ km $=1000$ m; $10$ copies of $100$ m is $1000$ m, i.e. $10$ stretches of $100$ m make $1$ km. Walking $1$ km takes about $10\sim15$ minutes. $\blacksquare$
+By **Definition 5.3.3 (The Kilometer)**, $1$ km $=1000$ m; $10$ copies of $100$ m is $1000$ m, i.e. $10$ stretches of $100$ m make $1$ km. Walking $1$ km takes about $10\sim15$ minutes.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -62,7 +68,9 @@ By **Definition 5.3.3 (The Kilometer)**, $1$ km $=1000$ m; $10$ copies of $100$ 
 
 ### Solution to Exercise 4
 
-By **Definition 5.3.4 (Conversion Rates and Estimation of Length Units)**, first pick a standard: e.g. a step about $50$ cm, two steps about $1$ m, $1000$ steps about $500$ m; or walking about $70$ m a minute, $10$ minutes about $700$ m; or $3$ bus stops, each about $500$ m, about $1500$ m in all. $\blacksquare$
+By **Definition 5.3.4 (Conversion Rates and Estimation of Length Units)**, first pick a standard: e.g. a step about $50$ cm, two steps about $1$ m, $1000$ steps about $500$ m; or walking about $70$ m a minute, $10$ minutes about $700$ m; or $3$ bus stops, each about $500$ m, about $1500$ m in all.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -70,7 +78,9 @@ By **Definition 5.3.4 (Conversion Rates and Estimation of Length Units)**, first
 
 ### Solution to Exercise 5
 
-Pick one length as a standard (e.g. an arm-span about $1$ m, or a step about $5$ dm), and multiply the number of steps or spans by the standard length to estimate the campus length and width. $\blacksquare$
+Pick one length as a standard (e.g. an arm-span about $1$ m, or a step about $5$ dm), and multiply the number of steps or spans by the standard length to estimate the campus length and width.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -78,7 +88,9 @@ Pick one length as a standard (e.g. an arm-span about $1$ m, or a step about $5$
 
 ### Solution to Exercise 6
 
-Walking $1$ km takes about $15$ min, bicycle about $4$ min, car about $1$ min (depending on speed). Circle the reasonable answer from daily experience. $\blacksquare$
+Walking $1$ km takes about $15$ min, bicycle about $4$ min, car about $1$ min (depending on speed). Circle the reasonable answer from daily experience.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -86,7 +98,9 @@ Walking $1$ km takes about $15$ min, bicycle about $4$ min, car about $1$ min (d
 
 ### Solution to Exercise 7
 
-By **Definition 5.3.4 (长度单位的进率与估测)**: $7$ dm $=70$ cm; $6000$ m $=6$ km; $300$ mm $=3$ dm; $50$ dm $=5$ m; $8$ km $=8000$ m; $3$ m $=3000$ mm. $\blacksquare$
+By **Definition 5.3.4 (长度单位的进率与估测)**: $7$ dm $=70$ cm; $6000$ m $=6$ km; $300$ mm $=3$ dm; $50$ dm $=5$ m; $8$ km $=8000$ m; $3$ m $=3000$ mm.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -94,7 +108,9 @@ By **Definition 5.3.4 (长度单位的进率与估测)**: $7$ dm $=70$ cm; $6000
 
 ### Solution to Exercise 8
 
-$400\times5=2000$ m $=2$ km. $\blacksquare$
+$400\times5=2000$ m $=2$ km.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -102,7 +118,9 @@ $400\times5=2000$ m $=2$ km. $\blacksquare$
 
 ### Solution to Exercise 9
 
-One round trip is $50\times2=100$ m; $1$ km $=1000$ m, $1000\div100=10$ round trips. $\blacksquare$
+One round trip is $50\times2=100$ m; $1$ km $=1000$ m, $1000\div100=10$ round trips.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -110,7 +128,9 @@ One round trip is $50\times2=100$ m; $1$ km $=1000$ m, $1000\div100=10$ round tr
 
 ### Solution to Exercise 10
 
-One floor is about $3$ m, the building has about $4$ floors, so it is about $12$ m high. Estimate by multiplying the number of floors by the height per floor. $\blacksquare$
+One floor is about $3$ m, the building has about $4$ floors, so it is about $12$ m high. Estimate by multiplying the number of floors by the height per floor.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -118,7 +138,9 @@ One floor is about $3$ m, the building has about $4$ floors, so it is about $12$
 
 ### Solution to Exercise 11
 
-Unify units: $20$ mm $+30$ mm $=50$ mm $=5$ cm; $1$ km $-700$ m $=1000$ m $-700$ m $=300$ m; $3$ m $-1$ m $=2$ m $=20$ dm; $2$ m $+3$ cm $=200$ cm $+3$ cm $=203$ cm. $\blacksquare$
+Unify units: $20$ mm $+30$ mm $=50$ mm $=5$ cm; $1$ km $-700$ m $=1000$ m $-700$ m $=300$ m; $3$ m $-1$ m $=2$ m $=20$ dm; $2$ m $+3$ cm $=200$ cm $+3$ cm $=203$ cm.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -126,7 +148,9 @@ Unify units: $20$ mm $+30$ mm $=50$ mm $=5$ cm; $1$ km $-700$ m $=1000$ m $-700$
 
 ### Solution to Exercise 12
 
-$3$ km $=3000$ m; walking $3000$ m takes $3000\div100=30$ minutes. Leaving at $7:00$, $30$ minutes gets him there at $7:30$, so by $7:45$ he certainly can. $\blacksquare$
+$3$ km $=3000$ m; walking $3000$ m takes $3000\div100=30$ minutes. Leaving at $7:00$, $30$ minutes gets him there at $7:30$, so by $7:45$ he certainly can.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -134,7 +158,9 @@ $3$ km $=3000$ m; walking $3000$ m takes $3000\div100=30$ minutes. Leaving at $7
 
 ### Solution to Exercise 13
 
-From $8$ o'clock to $12$ o'clock is $4$ hours, traveling $80\times4=320$ km; $320>308$, so by noon at $12$ they can arrive. $\blacksquare$
+From $8$ o'clock to $12$ o'clock is $4$ hours, traveling $80\times4=320$ km; $320>308$, so by noon at $12$ they can arrive.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -142,7 +168,9 @@ From $8$ o'clock to $12$ o'clock is $4$ hours, traveling $80\times4=320$ km; $32
 
 ### Solution to Exercise 14
 
-Choose by distance: $3$ km walk or bike, $30$ km by car, $1200$ km by train or plane. $\blacksquare$
+Choose by distance: $3$ km walk or bike, $30$ km by car, $1200$ km by train or plane.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -150,7 +178,9 @@ Choose by distance: $3$ km walk or bike, $30$ km by car, $1200$ km by train or p
 
 ### Solution to Exercise 15
 
-Marathon $42$ km; Chinese textbook thickness $6$ mm; footbridge length $30$ m. $\blacksquare$
+Marathon $42$ km; Chinese textbook thickness $6$ mm; footbridge length $30$ m.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -158,7 +188,9 @@ Marathon $42$ km; Chinese textbook thickness $6$ mm; footbridge length $30$ m. $
 
 ### Solution to Exercise 16
 
-$90$ mm $=9$ cm; $4$ m $=40$ dm $>30$ dm; $2$ km $=2000$ m $<3000$ m; $400$ cm $=4$ m $>3$ m; $5$ cm $<50$ cm $=5$ dm; $6$ dm $=600$ mm $>500$ mm. $\blacksquare$
+$90$ mm $=9$ cm; $4$ m $=40$ dm $>30$ dm; $2$ km $=2000$ m $<3000$ m; $400$ cm $=4$ m $>3$ m; $5$ cm $<50$ cm $=5$ dm; $6$ dm $=600$ mm $>500$ mm.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -166,7 +198,9 @@ $90$ mm $=9$ cm; $4$ m $=40$ dm $>30$ dm; $2$ km $=2000$ m $<3000$ m; $400$ cm $
 
 ### Solution to Exercise 17
 
-(1) √ ($40$ mm $=4$ cm is reasonable). (2) × (a towel is about $7$ dm long). (3) × ($50$ km is too far, she should ride). $\blacksquare$
+(1) √ ($40$ mm $=4$ cm is reasonable). (2) × (a towel is about $7$ dm long). (3) × ($50$ km is too far, she should ride).
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -174,7 +208,9 @@ $90$ mm $=9$ cm; $4$ m $=40$ dm $>30$ dm; $2$ km $=2000$ m $<3000$ m; $400$ cm $
 
 ### Solution to Exercise 18
 
-Route one: $600+300+500=1400$ m. Route two: $900+600+500=2000$ m. The way via the park and hotel is shortest, and takes $1400$ m. $\blacksquare$
+Route one: $600+300+500=1400$ m. Route two: $900+600+500=2000$ m. The way via the park and hotel is shortest, and takes $1400$ m.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -182,7 +218,9 @@ Route one: $600+300+500=1400$ m. Route two: $900+600+500=2000$ m. The way via th
 
 ### Solution to Exercise 19
 
-The court is about $28$ m long and $15$ m wide. Use steps (a step about $5$ dm) to count how many steps the length and width are, then multiply by $5$ dm to estimate. $\blacksquare$
+The court is about $28$ m long and $15$ m wide. Use steps (a step about $5$ dm) to count how many steps the length and width are, then multiply by $5$ dm to estimate.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -190,7 +228,9 @@ The court is about $28$ m long and $15$ m wide. Use steps (a step about $5$ dm) 
 
 ### Solution to Exercise 20
 
-By **Definition 5.3.4 (Conversion Rates and Estimation of Length Units)**, first measure a short piece of wire (e.g. $1$ m) and weigh it, then weigh the whole bundle; compute how many times the bundle's mass is the short piece's, and the bundle's length is that times $1$ m. $\blacksquare$
+By **Definition 5.3.4 (Conversion Rates and Estimation of Length Units)**, first measure a short piece of wire (e.g. $1$ m) and weigh it, then weigh the whole bundle; compute how many times the bundle's mass is the short piece's, and the bundle's length is that times $1$ m.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -198,4 +238,6 @@ By **Definition 5.3.4 (Conversion Rates and Estimation of Length Units)**, first
 
 ### Solution to Exercise 21
 
-By **Definition 5.4.1 (Equals of Equals are Equal, and the Whole Equals the Sum of Its Parts)**, the steps are: lead the elephant onto the boat and draw a line on the gunwale along the water surface; lead the elephant off and load stones until the boat sinks to the drawn line; weigh the total mass of the stones on the boat in several batches, and the sum of the masses from each weighing is the elephant's mass. $\blacksquare$
+By **Definition 5.4.1 (Equals of Equals are Equal, and the Whole Equals the Sum of Its Parts)**, the steps are: lead the elephant onto the boat and draw a line on the gunwale along the water surface; lead the elephant off and load stones until the boat sinks to the drawn line; weigh the total mass of the stones on the boat in several batches, and the sum of the masses from each weighing is the elephant's mass.
+
+$\blacksquare$

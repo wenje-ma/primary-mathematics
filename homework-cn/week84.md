@@ -38,7 +38,9 @@
 
 ### 解答 练习一
 
-由**定义 8.3.8 (简便计算)**, $225+328+175=\left(225+175\right)+328=400+328=728$ (元). $\blacksquare$
+由**定义 8.3.8 (简便计算)**, $225+328+175=\left(225+175\right)+328=400+328=728$ (元).
+
+$\blacksquare$
 
 ## 练习二
 
@@ -46,7 +48,9 @@
 
 ### 解答 练习二
 
-由**定义 8.3.3 (减法的运算性质)**, $2000-416-284=2000-\left(416+284\right)=2000-700=1300$ ($\mathrm{m}$). $\blacksquare$
+由**定义 8.3.3 (减法的运算性质)**, $2000-416-284=2000-\left(416+284\right)=2000-700=1300$ ($\mathrm{m}$).
+
+$\blacksquare$
 
 ## 练习三
 
@@ -54,7 +58,9 @@
 
 ### 解答 练习三
 
-由**定义 8.3.1 (加法交换律)** 配对, 原木总根数 $=$(上层根数 $+$ 下层根数) $\times$ 层数 $\div2$. 按图中实际层数和上下层根数计算. $\blacksquare$
+由**定义 8.3.1 (加法交换律)** 配对, 原木总根数 $=$(上层根数 $+$ 下层根数) $\times$ 层数 $\div2$. 按图中实际层数和上下层根数计算.
+
+$\blacksquare$
 
 ## 练习四
 
@@ -62,7 +68,9 @@
 
 ### 解答 练习四
 
-(1) 首尾配对: $\left(1+100\right)\times100\div2=5050$. (2) $\left(2+20\right)\times10\div2=110$. (3) $\left(5+100\right)\times20\div2=1050$. (4) 两两一组: $\left(20-19\right)+\left(18-17\right)+\cdots+\left(2-1\right)=1\times10=10$. $\blacksquare$
+(1) 首尾配对: $\left(1+100\right)\times100\div2=5050$. (2) $\left(2+20\right)\times10\div2=110$. (3) $\left(5+100\right)\times20\div2=1050$. (4) 两两一组: $\left(20-19\right)+\left(18-17\right)+\cdots+\left(2-1\right)=1\times10=10$.
+
+$\blacksquare$
 
 ## 练习五
 
@@ -70,7 +78,9 @@
 
 ### 解答 练习五
 
-三年级 $36+37+34=107$ (人); 四年级 $34+31+39=104$ (人); 五年级 $35+36+35=106$ (人); 六年级三班 $108-38-32=38$ (人). $\blacksquare$
+三年级 $36+37+34=107$ (人); 四年级 $34+31+39=104$ (人); 五年级 $35+36+35=106$ (人); 六年级三班 $108-38-32=38$ (人).
+
+$\blacksquare$
 
 ## 练习六
 
@@ -78,7 +88,9 @@
 
 ### 解答 练习六
 
-第二天批改 $22+8=30$ (篇), 已批 $22+30=52$ (篇), 还剩 $68-52=16$ (篇). $\blacksquare$
+第二天批改 $22+8=30$ (篇), 已批 $22+30=52$ (篇), 还剩 $68-52=16$ (篇).
+
+$\blacksquare$
 
 ## 练习七
 
@@ -86,7 +98,9 @@
 
 ### 解答 练习七
 
-由**定义 8.3.3 (减法的运算性质)**, $375-125-75=375-\left(125+75\right)=375-200=175$ (台). $\blacksquare$
+由**定义 8.3.3 (减法的运算性质)**, $375-125-75=375-\left(125+75\right)=375-200=175$ (台).
+
+$\blacksquare$
 
 ## 练习八
 
@@ -94,7 +108,9 @@
 
 ### 解答 练习八
 
-由**定义 8.3.2 (加法结合律)**, 原价 $=2255+355+245=2255+600=2855$ (元). $\blacksquare$
+由**定义 8.3.2 (加法结合律)**, 原价 $=2255+355+245=2255+600=2855$ (元).
+
+$\blacksquare$
 
 ## 练习九
 
@@ -102,7 +118,9 @@
 
 ### 解答 练习九
 
-由**定义 8.3.4 (乘法交换律)** 与**定义 8.3.5 (乘法结合律)**: $12\times32=32\times12$; $30\times6\times7=30\times\left(6\times7\right)$; $125\times\left(8\times4\right)=\left(125\times8\right)\times4$; $108\times75=75\times108$. $\blacksquare$
+由**定义 8.3.4 (乘法交换律)** 与**定义 8.3.5 (乘法结合律)**: $12\times32=32\times12$; $30\times6\times7=30\times\left(6\times7\right)$; $125\times\left(8\times4\right)=\left(125\times8\right)\times4$; $108\times75=75\times108$.
+
+$\blacksquare$
 
 ## 练习十
 
@@ -110,7 +128,9 @@
 
 ### 解答 练习十
 
-由**定义 8.3.6 (乘法分配律)**: $56\times\left(19+28\right)=56\times19+28$ 错误, 应是 $56\times19+56\times28$; $32\times\left(7\times3\right)=32\times7+32\times3$ 错误, 这是连乘应按结合律 $32\times7\times3$; $64\times64+36\times64=\left(64+36\right)\times64$ 正确. $\blacksquare$
+由**定义 8.3.6 (乘法分配律)**: $56\times\left(19+28\right)=56\times19+28$ 错误, 应是 $56\times19+56\times28$; $32\times\left(7\times3\right)=32\times7+32\times3$ 错误, 这是连乘应按结合律 $32\times7\times3$; $64\times64+36\times64=\left(64+36\right)\times64$ 正确.
+
+$\blacksquare$
 
 ## 练习十一
 
@@ -118,7 +138,9 @@
 
 ### 解答 练习十一
 
-$12\times5=60$; $16\times5=80$; $35\times2=70$; $45\times2=90$; $24\times5=120$; $125\times8=1000$; $25\times4=100$; $25\times8=200$. $\blacksquare$
+$12\times5=60$; $16\times5=80$; $35\times2=70$; $45\times2=90$; $24\times5=120$; $125\times8=1000$; $25\times4=100$; $25\times8=200$.
+
+$\blacksquare$
 
 ## 练习十二
 
@@ -126,4 +148,6 @@ $12\times5=60$; $16\times5=80$; $35\times2=70$; $45\times2=90$; $24\times5=120$;
 
 ### 解答 练习十二
 
-由**定义 8.3.4 (乘法交换律)** 与**定义 8.3.5 (乘法结合律)**: $15\times16=16\times15$; $\left(60\times25\right)\times8=60\times\left(25\times8\right)$; $25\times7\times4=25\times4\times7$; $125\times\left(8\times14\right)=\left(125\times8\right)\times14$; $3\times4\times8\times5=\left(3\times4\right)\times\left(8\times5\right)$. $\blacksquare$
+由**定义 8.3.4 (乘法交换律)** 与**定义 8.3.5 (乘法结合律)**: $15\times16=16\times15$; $\left(60\times25\right)\times8=60\times\left(25\times8\right)$; $25\times7\times4=25\times4\times7$; $125\times\left(8\times14\right)=\left(125\times8\right)\times14$; $3\times4\times8\times5=\left(3\times4\right)\times\left(8\times5\right)$.
+
+$\blacksquare$

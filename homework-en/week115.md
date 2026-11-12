@@ -30,7 +30,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 10.3.6 (Capacity and Capacity Units)**, $18\,\mathrm{L}=18000\,\mathrm{mL}$, and $18000\div1500=12$ bottles. $\blacksquare$
+By **Definition 10.3.6 (Capacity and Capacity Units)**, $18\,\mathrm{L}=18000\,\mathrm{mL}$, and $18000\div1500=12$ bottles.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -38,7 +40,9 @@ By **Definition 10.3.6 (Capacity and Capacity Units)**, $18\,\mathrm{L}=18000\,\
 
 ### Solution to Exercise 2
 
-By **Definition 10.3.6 (Capacity and Capacity Units)**, $400\,\mathrm{mm}=4\,\mathrm{dm}$, $225\,\mathrm{mm}=2.25\,\mathrm{dm}$, $300\,\mathrm{mm}=3\,\mathrm{dm}$; capacity $=4\times2.25\times3=27\,\mathrm{dm^3}=27\,\mathrm{L}$. $\blacksquare$
+By **Definition 10.3.6 (Capacity and Capacity Units)**, $400\,\mathrm{mm}=4\,\mathrm{dm}$, $225\,\mathrm{mm}=2.25\,\mathrm{dm}$, $300\,\mathrm{mm}=3\,\mathrm{dm}$; capacity $=4\times2.25\times3=27\,\mathrm{dm^3}=27\,\mathrm{L}$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -46,7 +50,9 @@ By **Definition 10.3.6 (Capacity and Capacity Units)**, $400\,\mathrm{mm}=4\,\ma
 
 ### Solution to Exercise 3
 
-By **Definition 10.3.4 (Volume Formulas)**, $V=22\times10\times1.8=396\,\mathrm{m^3}$. $\blacksquare$
+By **Definition 10.3.4 (Volume Formulas)**, $V=22\times10\times1.8=396\,\mathrm{m^3}$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -54,7 +60,9 @@ By **Definition 10.3.4 (Volume Formulas)**, $V=22\times10\times1.8=396\,\mathrm{
 
 ### Solution to Exercise 4
 
-By **Definition 10.3.6 (Capacity and Capacity Units)**, capacity $=3\times2.5\times2=15\,\mathrm{m^3}$. $\blacksquare$
+By **Definition 10.3.6 (Capacity and Capacity Units)**, capacity $=3\times2.5\times2=15\,\mathrm{m^3}$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -62,7 +70,9 @@ By **Definition 10.3.6 (Capacity and Capacity Units)**, capacity $=3\times2.5\ti
 
 ### Solution to Exercise 5
 
-By **Definition 10.3.4 (Volume Formulas)**, by displacement: the volume of the raised water $=8\times8\times\left(7-6\right)=64\,\mathrm{cm^3}$, which is the coral stone's volume. $\blacksquare$
+By **Definition 10.3.4 (Volume Formulas)**, by displacement: the volume of the raised water $=8\times8\times\left(7-6\right)=64\,\mathrm{cm^3}$, which is the coral stone's volume.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -70,7 +80,9 @@ By **Definition 10.3.4 (Volume Formulas)**, by displacement: the volume of the r
 
 ### Solution to Exercise 6
 
-By **Definition 10.3.4 (Volume Formulas)**, $3\,\mathrm{cm}=0.3\,\mathrm{dm}$; volume $=51\times0.3=15.3\,\mathrm{dm^3}$. $\blacksquare$
+By **Definition 10.3.4 (Volume Formulas)**, $3\,\mathrm{cm}=0.3\,\mathrm{dm}$; volume $=51\times0.3=15.3\,\mathrm{dm^3}$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -78,7 +90,9 @@ By **Definition 10.3.4 (Volume Formulas)**, $3\,\mathrm{cm}=0.3\,\mathrm{dm}$; v
 
 ### Solution to Exercise 7
 
-By **Definition 10.3.4 (Volume Formulas)**, the pool is $2\,\mathrm{m}$ high, so each pillar is submerged only $2\,\mathrm{m}$; one pillar displaces $=3\times2\times2=12\,\mathrm{m^3}$, and the two overflow $=12\times2=24\,\mathrm{m^3}$. $\blacksquare$
+By **Definition 10.3.4 (Volume Formulas)**, the pool is $2\,\mathrm{m}$ high, so each pillar is submerged only $2\,\mathrm{m}$; one pillar displaces $=3\times2\times2=12\,\mathrm{m^3}$, and the two overflow $=12\times2=24\,\mathrm{m^3}$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -86,7 +100,9 @@ By **Definition 10.3.4 (Volume Formulas)**, the pool is $2\,\mathrm{m}$ high, so
 
 ### Solution to Exercise 8
 
-By **Definition 10.3.2 (Surface Area)** and **Definition 10.3.4 (Volume Formulas)**: two cubes make a $3\times1.5\times1.5$ cuboid, volume $=2\times1.5^3=6.75\,\mathrm{dm^3}$, surface area $=\left(3\times1.5+3\times1.5+1.5\times1.5\right)\times2=22.5\,\mathrm{dm^2}$; three cubes make a $4.5\times1.5\times1.5$ cuboid, volume $=3\times1.5^3=10.125\,\mathrm{dm^3}$, surface area $=\left(4.5\times1.5+4.5\times1.5+1.5\times1.5\right)\times2=31.5\,\mathrm{dm^2}$. $\blacksquare$
+By **Definition 10.3.2 (Surface Area)** and **Definition 10.3.4 (Volume Formulas)**: two cubes make a $3\times1.5\times1.5$ cuboid, volume $=2\times1.5^3=6.75\,\mathrm{dm^3}$, surface area $=\left(3\times1.5+3\times1.5+1.5\times1.5\right)\times2=22.5\,\mathrm{dm^2}$; three cubes make a $4.5\times1.5\times1.5$ cuboid, volume $=3\times1.5^3=10.125\,\mathrm{dm^3}$, surface area $=\left(4.5\times1.5+4.5\times1.5+1.5\times1.5\right)\times2=31.5\,\mathrm{dm^2}$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -94,7 +110,9 @@ By **Definition 10.3.2 (Surface Area)** and **Definition 10.3.4 (Volume Formulas
 
 ### Solution to Exercise 9
 
-By **Definition 10.3.6 (Capacity and Capacity Units)**, capacity $=24.6\times3=73.8\,\mathrm{m^3}$. $\blacksquare$
+By **Definition 10.3.6 (Capacity and Capacity Units)**, capacity $=24.6\times3=73.8\,\mathrm{m^3}$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -102,7 +120,9 @@ By **Definition 10.3.6 (Capacity and Capacity Units)**, capacity $=24.6\times3=7
 
 ### Solution to Exercise 10
 
-By **Definition 10.3.4 (Volume Formulas)**, one pool holds $=50\times25\times1.2=1500\,\mathrm{m^3}$, and $60000\div1500=40$ pools. $\blacksquare$
+By **Definition 10.3.4 (Volume Formulas)**, one pool holds $=50\times25\times1.2=1500\,\mathrm{m^3}$, and $60000\div1500=40$ pools.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -110,7 +130,9 @@ By **Definition 10.3.4 (Volume Formulas)**, one pool holds $=50\times25\times1.2
 
 ### Solution to Exercise 11
 
-By **Definition 10.3.4 (Volume Formulas)**, large$+$small $=24\,\mathrm{mL}$, small $=12\,\mathrm{mL}$, so large $=24-12=12\,\mathrm{mL}=12\,\mathrm{cm^3}$ (substituting the actual graduations shown). $\blacksquare$
+By **Definition 10.3.4 (Volume Formulas)**, large$+$small $=24\,\mathrm{mL}$, small $=12\,\mathrm{mL}$, so large $=24-12=12\,\mathrm{mL}=12\,\mathrm{cm^3}$ (substituting the actual graduations shown).
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -118,7 +140,9 @@ By **Definition 10.3.4 (Volume Formulas)**, large$+$small $=24\,\mathrm{mL}$, sm
 
 ### Solution to Exercise 12
 
-By **Definition 10.3.1 (Features of Cuboids and Cubes)** through **Definition 10.3.6 (Capacity and Capacity Units)**: (1) a cube is a special cuboid; show this with a subset-containment diagram; (2) $3$ edges are parallel to a given edge, and $4$ edges meet it at right angles; (3) volume and capacity are computed the same way, both using $V=Sh$, but volume is measured from outside the object while capacity is measured inside the container. $\blacksquare$
+By **Definition 10.3.1 (Features of Cuboids and Cubes)** through **Definition 10.3.6 (Capacity and Capacity Units)**: (1) a cube is a special cuboid; show this with a subset-containment diagram; (2) $3$ edges are parallel to a given edge, and $4$ edges meet it at right angles; (3) volume and capacity are computed the same way, both using $V=Sh$, but volume is measured from outside the object while capacity is measured inside the container.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -126,7 +150,9 @@ By **Definition 10.3.1 (Features of Cuboids and Cubes)** through **Definition 10
 
 ### Solution to Exercise 13
 
-By **Definition 10.3.2 (Surface Area)** and **Definition 10.3.4 (Volume Formulas)**, when length, width, and height all double, the surface area becomes $2^2=4$ times and the volume becomes $2^3=8$ times. Rule: if every edge scales by $n$, the surface area scales by $n^2$ and the volume by $n^3$. $\blacksquare$
+By **Definition 10.3.2 (Surface Area)** and **Definition 10.3.4 (Volume Formulas)**, when length, width, and height all double, the surface area becomes $2^2=4$ times and the volume becomes $2^3=8$ times. Rule: if every edge scales by $n$, the surface area scales by $n^2$ and the volume by $n^3$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -134,7 +160,9 @@ By **Definition 10.3.2 (Surface Area)** and **Definition 10.3.4 (Volume Formulas
 
 ### Solution to Exercise 14
 
-By **Definition 10.3.6 (Capacity and Capacity Units)**, capacity $=8\times4.5\times2=72\,\mathrm{m^3}$. $\blacksquare$
+By **Definition 10.3.6 (Capacity and Capacity Units)**, capacity $=8\times4.5\times2=72\,\mathrm{m^3}$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -142,4 +170,6 @@ By **Definition 10.3.6 (Capacity and Capacity Units)**, capacity $=8\times4.5\ti
 
 ### Solution to Exercise 15
 
-By **Definition 10.3.2 (Surface Area)**, first compute one lantern's side-decorated area (excluding top and bottom) from the dimensions shown, multiply by $25$ for the total area, then multiply by $18$ yuan/$\mathrm{m^2}$ for the total cost. $\blacksquare$
+By **Definition 10.3.2 (Surface Area)**, first compute one lantern's side-decorated area (excluding top and bottom) from the dimensions shown, multiply by $25$ for the total area, then multiply by $18$ yuan/$\mathrm{m^2}$ for the total cost.
+
+$\blacksquare$

@@ -26,7 +26,9 @@
 
 ### Solution to Exercise 1
 
-The tip's full circle is $2\times3.14\times20=125.6\;\text{cm}$. $30$ minutes walks half a circle $=62.8\;\text{cm}$; $45$ minutes walks $\frac{3}{4}$ circle $=94.2\;\text{cm}$. $\blacksquare$
+The tip's full circle is $2\times3.14\times20=125.6\;\text{cm}$. $30$ minutes walks half a circle $=62.8\;\text{cm}$; $45$ minutes walks $\frac{3}{4}$ circle $=94.2\;\text{cm}$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -34,7 +36,9 @@ The tip's full circle is $2\times3.14\times20=125.6\;\text{cm}$. $30$ minutes wa
 
 ### Solution to Exercise 2
 
-One wrap $2\times3.14\times15=94.2\;\text{m}$, $3$ wraps $282.6\;\text{m}$. Posts $94.2\div2\approx47$. $\blacksquare$
+One wrap $2\times3.14\times15=94.2\;\text{m}$, $3$ wraps $282.6\;\text{m}$. Posts $94.2\div2\approx47$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -42,7 +46,9 @@ One wrap $2\times3.14\times15=94.2\;\text{m}$, $3$ wraps $282.6\;\text{m}$. Post
 
 ### Solution to Exercise 3
 
-(1) Square side $=d=4$, perimeter $16\;\text{cm}$; circle perimeter $3.14\times4=12.56\;\text{cm}$. (2) Circle perimeter $2\times3.14\times1.5=9.42\;\text{cm}$; rectangle length $=4r=6$, width $=2r=3$, perimeter $\left(6+3\right)\times2=18\;\text{cm}$. $\blacksquare$
+(1) Square side $=d=4$, perimeter $16\;\text{cm}$; circle perimeter $3.14\times4=12.56\;\text{cm}$. (2) Circle perimeter $2\times3.14\times1.5=9.42\;\text{cm}$; rectangle length $=4r=6$, width $=2r=3$, perimeter $\left(6+3\right)\times2=18\;\text{cm}$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -50,7 +56,9 @@ One wrap $2\times3.14\times15=94.2\;\text{m}$, $3$ wraps $282.6\;\text{m}$. Post
 
 ### Solution to Exercise 4
 
-Square side $=100\div4=25\;\text{cm}$; the largest circle's diameter equals the side $25\;\text{cm}$, radius $12.5\;\text{cm}$. $\blacksquare$
+Square side $=100\div4=25\;\text{cm}$; the largest circle's diameter equals the side $25\;\text{cm}$, radius $12.5\;\text{cm}$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -58,7 +66,9 @@ Square side $=100\div4=25\;\text{cm}$; the largest circle's diameter equals the 
 
 ### Solution to Exercise 5
 
-Light length $=$ semicircle $+$ three sides $=\frac{1}{2}\times3.14\times50+50\times3=78.5+150=228.5\;\text{cm}=2.285\;\text{m}$. $\blacksquare$
+Light length $=$ semicircle $+$ three sides $=\frac{1}{2}\times3.14\times50+50\times3=78.5+150=228.5\;\text{cm}=2.285\;\text{m}$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -66,7 +76,9 @@ Light length $=$ semicircle $+$ three sides $=\frac{1}{2}\times3.14\times50+50\t
 
 ### Solution to Exercise 6
 
-Four semicircles equal two full circles: $2\times3.14\times5=31.4\;\text{cm}$. $\blacksquare$
+Four semicircles equal two full circles: $2\times3.14\times5=31.4\;\text{cm}$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -74,7 +86,9 @@ Four semicircles equal two full circles: $2\times3.14\times5=31.4\;\text{cm}$. $
 
 ### Solution to Exercise 7
 
-$d=12.56\div3.14=4\;\text{cm}$, $r=2\;\text{cm}$. Radius scales by $n$, diameter scales by $n$, circumference also scales by $n$. $\blacksquare$
+$d=12.56\div3.14=4\;\text{cm}$, $r=2\;\text{cm}$. Radius scales by $n$, diameter scales by $n$, circumference also scales by $n$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -82,7 +96,9 @@ $d=12.56\div3.14=4\;\text{cm}$, $r=2\;\text{cm}$. Radius scales by $n$, diameter
 
 ### Solution to Exercise 8
 
-Rope length $=$ one full circumference $+$ some diameters. As circles increase, the straight parts grow, but the arc parts still sum to one full circle. $\blacksquare$
+Rope length $=$ one full circumference $+$ some diameters. As circles increase, the straight parts grow, but the arc parts still sum to one full circle.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -90,7 +106,9 @@ Rope length $=$ one full circumference $+$ some diameters. As circles increase, 
 
 ### Solution to Exercise 9
 
-By **Definition 11.5.5 (Area of a Circle)**, rectangle area $=$ length $\times$ width $=\pi{r}\times{r}=\pi{r}^2$, so $S=\pi{r}^2$. The more sectors, the closer to a rectangle. $\blacksquare$
+By **Definition 11.5.5 (Area of a Circle)**, rectangle area $=$ length $\times$ width $=\pi{r}\times{r}=\pi{r}^2$, so $S=\pi{r}^2$. The more sectors, the closer to a rectangle.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -98,7 +116,9 @@ By **Definition 11.5.5 (Area of a Circle)**, rectangle area $=$ length $\times$ 
 
 ### Solution to Exercise 10
 
-By **Definition 11.5.5 (Area of a Circle)**: $S=3.14\times123^2=3.14\times15129\approx47505\;\text{m}^2$. Pitch $105\times68=7140\;\text{m}^2$, $47505\div7140\approx7$ pitches. $\blacksquare$
+By **Definition 11.5.5 (Area of a Circle)**: $S=3.14\times123^2=3.14\times15129\approx47505\;\text{m}^2$. Pitch $105\times68=7140\;\text{m}^2$, $47505\div7140\approx7$ pitches.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -106,7 +126,9 @@ By **Definition 11.5.5 (Area of a Circle)**: $S=3.14\times123^2=3.14\times15129\
 
 ### Solution to Exercise 11
 
-Table $r=0.5\;\text{m}$, $S=3.14\times0.5^2=0.785\;\text{m}^2$. Reservoir $r=31.4\div3.14\div2=5\;\text{m}$, $S=3.14\times25=78.5\;\text{m}^2$. $\blacksquare$
+Table $r=0.5\;\text{m}$, $S=3.14\times0.5^2=0.785\;\text{m}^2$. Reservoir $r=31.4\div3.14\div2=5\;\text{m}$, $S=3.14\times25=78.5\;\text{m}^2$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -114,7 +136,9 @@ Table $r=0.5\;\text{m}$, $S=3.14\times0.5^2=0.785\;\text{m}^2$. Reservoir $r=31.
 
 ### Solution to Exercise 12
 
-Annulus area $=$ outer $-$ inner $=3.14\times\left(\frac{26.3}{2}\right)^2-3.14\times\left(\frac{5.4}{2}\right)^2=3.14\times\left(13.15^2-2.7^2\right)=3.14\times165.6325\approx520.1\;\text{cm}^2$. $\blacksquare$
+Annulus area $=$ outer $-$ inner $=3.14\times\left(\frac{26.3}{2}\right)^2-3.14\times\left(\frac{5.4}{2}\right)^2=3.14\times\left(13.15^2-2.7^2\right)=3.14\times165.6325\approx520.1\;\text{cm}^2$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -122,7 +146,9 @@ Annulus area $=$ outer $-$ inner $=3.14\times\left(\frac{26.3}{2}\right)^2-3.14\
 
 ### Solution to Exercise 13
 
-(1) $3.14\times5^2\div2=39.25\;\text{cm}^2$; (2) translate the upper semicircle down; the shaded part is exactly the rectangle $6\times3=18\;\text{cm}^2$. $\blacksquare$
+(1) $3.14\times5^2\div2=39.25\;\text{cm}^2$; (2) translate the upper semicircle down; the shaded part is exactly the rectangle $6\times3=18\;\text{cm}^2$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -130,7 +156,9 @@ Annulus area $=$ outer $-$ inner $=3.14\times\left(\frac{26.3}{2}\right)^2-3.14\
 
 ### Solution to Exercise 14
 
-(1) Outer radius $6$, $3.14\times\left(6^2-4^2\right)=3.14\times20=62.8\;\text{cm}^2$; (2) rectangle length $5$, width $2$; shaded pieces form a rectangle $3\times2=6\;\text{cm}^2$; (3) use the annular-sector formula $\frac{n}{360}\pi\left(R^2-r^2\right)$. $\blacksquare$
+(1) Outer radius $6$, $3.14\times\left(6^2-4^2\right)=3.14\times20=62.8\;\text{cm}^2$; (2) rectangle length $5$, width $2$; shaded pieces form a rectangle $3\times2=6\;\text{cm}^2$; (3) use the annular-sector formula $\frac{n}{360}\pi\left(R^2-r^2\right)$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -138,7 +166,9 @@ Annulus area $=$ outer $-$ inner $=3.14\times\left(\frac{26.3}{2}\right)^2-3.14\
 
 ### Solution to Exercise 15
 
-\"Square-outside circle-inside\": square side $=d=2a$, area $4a^2$, circle area $\pi{a}^2$, circle is $\frac{\pi}{4}$ of the square. \"Circle-outside square-inside\": view the square as two triangles, area $2a^2$, circle is $\frac{\pi}{2}$ of it. Overlaying, the large square is $2$ times the small. $\blacksquare$
+\"Square-outside circle-inside\": square side $=d=2a$, area $4a^2$, circle area $\pi{a}^2$, circle is $\frac{\pi}{4}$ of the square. \"Circle-outside square-inside\": view the square as two triangles, area $2a^2$, circle is $\frac{\pi}{2}$ of it. Overlaying, the large square is $2$ times the small.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -146,7 +176,9 @@ Annulus area $=$ outer $-$ inner $=3.14\times\left(\frac{26.3}{2}\right)^2-3.14\
 
 ### Solution to Exercise 16
 
-By **Exercise 170**, the circle is $\frac{\pi}{4}$ of the square: circle $20\times\frac{\pi}{4}=5\pi\approx15.7\;\text{cm}^2$; shaded $20-15.7=4.3\;\text{cm}^2$. $\blacksquare$
+By **Exercise 170**, the circle is $\frac{\pi}{4}$ of the square: circle $20\times\frac{\pi}{4}=5\pi\approx15.7\;\text{cm}^2$; shaded $20-15.7=4.3\;\text{cm}^2$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -154,4 +186,6 @@ By **Exercise 170**, the circle is $\frac{\pi}{4}$ of the square: circle $20\tim
 
 ### Solution to Exercise 17
 
-$d=4$: $r=2$, $S=12.56\;\text{cm}^2$; $d=9$: $r=4.5$, $S=63.585\;\text{cm}^2$; $d=6$: $r=3$, $S=28.26\;\text{cm}^2$; $d=20$: $r=10$, $S=314\;\text{cm}^2$. $\blacksquare$
+$d=4$: $r=2$, $S=12.56\;\text{cm}^2$; $d=9$: $r=4.5$, $S=63.585\;\text{cm}^2$; $d=6$: $r=3$, $S=28.26\;\text{cm}^2$; $d=20$: $r=10$, $S=314\;\text{cm}^2$.
+
+$\blacksquare$

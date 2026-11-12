@@ -22,7 +22,9 @@
 
 ### Solution to Exercise 1
 
-$0.4+8.7=9.1$; $4.5+3.6=8.1$; $0.28+0.54=0.82$; $1.4-0.9=0.5$; $7.1-3.5=3.6$; $5-2.7=2.3$. $\blacksquare$
+$0.4+8.7=9.1$; $4.5+3.6=8.1$; $0.28+0.54=0.82$; $1.4-0.9=0.5$; $7.1-3.5=3.6$; $5-2.7=2.3$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -30,7 +32,9 @@ $0.4+8.7=9.1$; $4.5+3.6=8.1$; $0.28+0.54=0.82$; $1.4-0.9=0.5$; $7.1-3.5=3.6$; $5
 
 ### Solution to Exercise 2
 
-By **Definition 8.6.1 (align the decimal points)**: $16.8+5.47=22.27$; $21.6-9.86=11.74$. $\blacksquare$
+By **Definition 8.6.1 (align the decimal points)**: $16.8+5.47=22.27$; $21.6-9.86=11.74$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -38,7 +42,9 @@ By **Definition 8.6.1 (align the decimal points)**: $16.8+5.47=22.27$; $21.6-9.8
 
 ### Solution to Exercise 3
 
-By **Definition 8.6.2 (order of mixed operations)**: $7.02+11.38+20.96=39.36$; $12.45-1.96-0.8=9.69$; $19.92+14.4-9.92=24.4$; $85.7-\left(15.3-4.8\right)=85.7-10.5=75.2$; $40-\left(2.75+0.86\right)=40-3.61=36.39$; $9.5+4.85-6.13=8.22$. $\blacksquare$
+By **Definition 8.6.2 (order of mixed operations)**: $7.02+11.38+20.96=39.36$; $12.45-1.96-0.8=9.69$; $19.92+14.4-9.92=24.4$; $85.7-\left(15.3-4.8\right)=85.7-10.5=75.2$; $40-\left(2.75+0.86\right)=40-3.61=36.39$; $9.5+4.85-6.13=8.22$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -46,7 +52,9 @@ By **Definition 8.6.2 (order of mixed operations)**: $7.02+11.38+20.96=39.36$; $
 
 ### Solution to Exercise 4
 
-The ocean area is $5.1-1.49=3.61$ (hundred million square kilometers), greater than the land by $3.61-1.49=2.12$ (hundred million square kilometers). $\blacksquare$
+The ocean area is $5.1-1.49=3.61$ (hundred million square kilometers), greater than the land by $3.61-1.49=2.12$ (hundred million square kilometers).
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -54,7 +62,9 @@ The ocean area is $5.1-1.49=3.61$ (hundred million square kilometers), greater t
 
 ### Solution to Exercise 5
 
-Together $78+13.6=91.6$ (yuan); paying $100$ yuan gives change $100-91.6=8.4$ (yuan). $\blacksquare$
+Together $78+13.6=91.6$ (yuan); paying $100$ yuan gives change $100-91.6=8.4$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -62,7 +72,9 @@ Together $78+13.6=91.6$ (yuan); paying $100$ yuan gives change $100-91.6=8.4$ (y
 
 ### Solution to Exercise 6
 
-Wang Qiang jumped $1.1+0.15=1.25\,\mathrm{m}$; Xiao Hong jumped $1.25-0.09=1.16\,\mathrm{m}$. $\blacksquare$
+Wang Qiang jumped $1.1+0.15=1.25\,\mathrm{m}$; Xiao Hong jumped $1.25-0.09=1.16\,\mathrm{m}$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -70,7 +82,9 @@ Wang Qiang jumped $1.1+0.15=1.25\,\mathrm{m}$; Xiao Hong jumped $1.25-0.09=1.16\
 
 ### Solution to Exercise 7
 
-By **Definition 8.6.1 (Adding Decimals)**, accumulate each diver's scores round by round to get the cumulative total, then compare the totals to rank them. $\blacksquare$
+By **Definition 8.6.1 (Adding Decimals)**, accumulate each diver's scores round by round to get the cumulative total, then compare the totals to rank them.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -78,7 +92,9 @@ By **Definition 8.6.1 (Adding Decimals)**, accumulate each diver's scores round 
 
 ### Solution to Exercise 8
 
-First add the two items' prices; for every full $100$ yuan, subtract $20$. For example, buying the $149.00$ yuan and $69.80$ yuan items totals $218.80$ yuan, subtracting $40$ yuan means paying $178.80$ yuan. Calculate according to the chosen items. $\blacksquare$
+First add the two items' prices; for every full $100$ yuan, subtract $20$. For example, buying the $149.00$ yuan and $69.80$ yuan items totals $218.80$ yuan, subtracting $40$ yuan means paying $178.80$ yuan. Calculate according to the chosen items.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -86,7 +102,9 @@ First add the two items' prices; for every full $100$ yuan, subtract $20$. For e
 
 ### Solution to Exercise 9
 
-Choose the cheaper one for each item: long rope A $25.50$ yuan, basketball A $69.88$ yuan, soccer B $43.68$ yuan, totaling $25.50+69.88+43.68=139.06$ (yuan). $\blacksquare$
+Choose the cheaper one for each item: long rope A $25.50$ yuan, basketball A $69.88$ yuan, soccer B $43.68$ yuan, totaling $25.50+69.88+43.68=139.06$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -94,7 +112,9 @@ Choose the cheaper one for each item: long rope A $25.50$ yuan, basketball A $69
 
 ### Solution to Exercise 10
 
-By **Definition 8.6.3 (Extending the Integer Addition Laws to Decimals)**: (1) $6.7+4.95+3.3=6.7+3.3+4.95$; (2) $\left(1.38+1.75\right)+0.25=1.38+\left(1.75+0.25\right)$. $\blacksquare$
+By **Definition 8.6.3 (Extending the Integer Addition Laws to Decimals)**: (1) $6.7+4.95+3.3=6.7+3.3+4.95$; (2) $\left(1.38+1.75\right)+0.25=1.38+\left(1.75+0.25\right)$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -102,7 +122,9 @@ By **Definition 8.6.3 (Extending the Integer Addition Laws to Decimals)**: (1) $
 
 ### Solution to Exercise 11
 
-By **Definition 8.6.3 (Extending the Laws)** and the subtraction property: $1.88+2.3+3.7=1.88+6=7.88$; $5.17-1.8-3.2=5.17-5=0.17$; $4.02-3.5+0.98=5-3.5=1.5$; $13.7+0.98+0.02+4.3=\left(13.7+4.3\right)+\left(0.98+0.02\right)=19$. $\blacksquare$
+By **Definition 8.6.3 (Extending the Laws)** and the subtraction property: $1.88+2.3+3.7=1.88+6=7.88$; $5.17-1.8-3.2=5.17-5=0.17$; $4.02-3.5+0.98=5-3.5=1.5$; $13.7+0.98+0.02+4.3=\left(13.7+4.3\right)+\left(0.98+0.02\right)=19$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -110,7 +132,9 @@ By **Definition 8.6.3 (Extending the Laws)** and the subtraction property: $1.88
 
 ### Solution to Exercise 12
 
-By **Definition 8.6.3 (Extending the Laws)**: $5.6+2.7+4.5=12.8$; $9.14-1.43-4.57=9.14-6=3.14$; $77+2.7+2.8+25=107.5$; $0.38+0.36+2.64=0.38+3=3.38$; $8.7-5.69+2.03=5.04$; $5.26+3.43+0.74=5.26+0.74+3.43=9.43$; $51.27-8.03-1.34=41.9$; $1.29+3.7+0.71+6.3=\left(1.29+0.71\right)+\left(3.7+6.3\right)=12$; $10.75+0.4-9.86=1.29$; $3.9+4.08+3.92+1.1=\left(3.9+1.1\right)+\left(4.08+3.92\right)=13$. $\blacksquare$
+By **Definition 8.6.3 (Extending the Laws)**: $5.6+2.7+4.5=12.8$; $9.14-1.43-4.57=9.14-6=3.14$; $77+2.7+2.8+25=107.5$; $0.38+0.36+2.64=0.38+3=3.38$; $8.7-5.69+2.03=5.04$; $5.26+3.43+0.74=5.26+0.74+3.43=9.43$; $51.27-8.03-1.34=41.9$; $1.29+3.7+0.71+6.3=\left(1.29+0.71\right)+\left(3.7+6.3\right)=12$; $10.75+0.4-9.86=1.29$; $3.9+4.08+3.92+1.1=\left(3.9+1.1\right)+\left(4.08+3.92\right)=13$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -118,7 +142,9 @@ By **Definition 8.6.3 (Extending the Laws)**: $5.6+2.7+4.5=12.8$; $9.14-1.43-4.5
 
 ### Solution to Exercise 13
 
-By **Definition 8.4.1 (Converting Fractions to Decimals)** and **Definition 8.6.1 (Decimal Addition and Subtraction)**: $0.7+0.5=1.2$; $0.93-0.76=0.17$; $0.61+0.7=1.31$; $0.3-0.01=0.29$. $\blacksquare$
+By **Definition 8.4.1 (Converting Fractions to Decimals)** and **Definition 8.6.1 (Decimal Addition and Subtraction)**: $0.7+0.5=1.2$; $0.93-0.76=0.17$; $0.61+0.7=1.31$; $0.3-0.01=0.29$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -126,7 +152,9 @@ By **Definition 8.4.1 (Converting Fractions to Decimals)** and **Definition 8.6.
 
 ### Solution to Exercise 14
 
-By **Definition 8.6.1 (Adding Decimals)**, add the segments of the chosen route. The direct route home $\to$ school $\to$ park is the shortest; add the corresponding two segments. $\blacksquare$
+By **Definition 8.6.1 (Adding Decimals)**, add the segments of the chosen route. The direct route home $\to$ school $\to$ park is the shortest; add the corresponding two segments.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -134,4 +162,6 @@ By **Definition 8.6.1 (Adding Decimals)**, add the segments of the chosen route.
 
 ### Solution to Exercise 15
 
-By **Definition 8.6.2 (Mixed Operations Order)** and **Definition 8.6.3 (Operation Laws Extended)**: $36.7-19.4+35.8=53.1$; $1.28+3.7+2.46=7.44$; $2-0.4-0.8=0.8$; $6.07+0.4-0.08=6.39$; $4.01-3.5+0.31=0.82$; $15.06-3.94-2.06=15.06-6=9.06$. $\blacksquare$
+By **Definition 8.6.2 (Mixed Operations Order)** and **Definition 8.6.3 (Operation Laws Extended)**: $36.7-19.4+35.8=53.1$; $1.28+3.7+2.46=7.44$; $2-0.4-0.8=0.8$; $6.07+0.4-0.08=6.39$; $4.01-3.5+0.31=0.82$; $15.06-3.94-2.06=15.06-6=9.06$.
+
+$\blacksquare$

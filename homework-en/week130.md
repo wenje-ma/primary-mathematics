@@ -28,7 +28,9 @@ The figure: a circle with center marked $O$, a segment from $O$ to a point on th
 
 ### Solution to Exercise 1
 
-By **Definition 11.5.1 (Parts of a Circle)**, set center $O$, spread $2\;\text{cm}$, draw, mark radius $r=2\;\text{cm}$ and diameter $d=4\;\text{cm}$. $\blacksquare$
+By **Definition 11.5.1 (Parts of a Circle)**, set center $O$, spread $2\;\text{cm}$, draw, mark radius $r=2\;\text{cm}$ and diameter $d=4\;\text{cm}$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -36,7 +38,9 @@ By **Definition 11.5.1 (Parts of a Circle)**, set center $O$, spread $2\;\text{c
 
 ### Solution to Exercise 2
 
-Fold the circular paper twice; the intersection of the two creases (diameters) is the center. $\blacksquare$
+Fold the circular paper twice; the intersection of the two creases (diameters) is the center.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -44,7 +48,9 @@ Fold the circular paper twice; the intersection of the two creases (diameters) i
 
 ### Solution to Exercise 3
 
-By **Definition 11.5.2 (Arcs, Sectors, Central Angles)**, draw sectors of different sizes in the same circle and see that size depends on the central angle; a semicircle arc has central angle $180^{\circ}$, a quarter-circle arc $90^{\circ}$. $\blacksquare$
+By **Definition 11.5.2 (Arcs, Sectors, Central Angles)**, draw sectors of different sizes in the same circle and see that size depends on the central angle; a semicircle arc has central angle $180^{\circ}$, a quarter-circle arc $90^{\circ}$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -54,7 +60,9 @@ The figure: a circle of radius $2\;\text{cm}$, with two radii at the center and 
 
 ### Solution to Exercise 4
 
-By **Definition 11.5.2 (Arcs, Sectors, Central Angles)**, draw $r=2\;\text{cm}$, use a protractor to mark a $100^{\circ}$ angle at the center; its two sides and the arc bound the sector. $\blacksquare$
+By **Definition 11.5.2 (Arcs, Sectors, Central Angles)**, draw $r=2\;\text{cm}$, use a protractor to mark a $100^{\circ}$ angle at the center; its two sides and the arc bound the sector.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -62,7 +70,9 @@ By **Definition 11.5.2 (Arcs, Sectors, Central Angles)**, draw $r=2\;\text{cm}$,
 
 ### Solution to Exercise 5
 
-By **Definition 11.5.1 (Parts of a Circle)**: (1) spread $3\;\text{cm}$; (2) $d=5\;\text{cm}$ gives $r=2.5\;\text{cm}$, spread $2.5\;\text{cm}$; (3) spread $3.5\;\text{cm}$. Draw each. $\blacksquare$
+By **Definition 11.5.1 (Parts of a Circle)**: (1) spread $3\;\text{cm}$; (2) $d=5\;\text{cm}$ gives $r=2.5\;\text{cm}$, spread $2.5\;\text{cm}$; (3) spread $3.5\;\text{cm}$. Draw each.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -70,7 +80,9 @@ By **Definition 11.5.1 (Parts of a Circle)**: (1) spread $3\;\text{cm}$; (2) $d=
 
 ### Solution to Exercise 6
 
-By **Definition 11.5.1 (Parts of a Circle)**, $r=d\div2$: radii are $0.12$, $0.71$, $0.43$, $0.52\;\text{m}$. $\blacksquare$
+By **Definition 11.5.1 (Parts of a Circle)**, $r=d\div2$: radii are $0.12$, $0.71$, $0.43$, $0.52\;\text{m}$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -78,7 +90,9 @@ By **Definition 11.5.1 (Parts of a Circle)**, $r=d\div2$: radii are $0.12$, $0.7
 
 ### Solution to Exercise 7
 
-Rest one leg of a set square against a ruler and use the other leg to grip the circle; slide until both sides touch the circle; the distance between the legs is the diameter (longest chord). $\blacksquare$
+Rest one leg of a set square against a ruler and use the other leg to grip the circle; slide until both sides touch the circle; the distance between the legs is the diameter (longest chord).
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -86,7 +100,9 @@ Rest one leg of a set square against a ruler and use the other leg to grip the c
 
 ### Solution to Exercise 8
 
-By axisymmetry, reflect each known vertex across the axis (same distance to the axis) and join in order to draw the other half. $\blacksquare$
+By axisymmetry, reflect each known vertex across the axis (same distance to the axis) and join in order to draw the other half.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -94,7 +110,9 @@ By axisymmetry, reflect each known vertex across the axis (same distance to the 
 
 ### Solution to Exercise 9
 
-By **Definition 11.5.2 (Arcs, Sectors, Central Angles)**, an angle with vertex at the center is central. A sector is axisymmetric with exactly $1$ axis (the line through center and arc midpoint). $\blacksquare$
+By **Definition 11.5.2 (Arcs, Sectors, Central Angles)**, an angle with vertex at the center is central. A sector is axisymmetric with exactly $1$ axis (the line through center and arc midpoint).
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -102,7 +120,9 @@ By **Definition 11.5.2 (Arcs, Sectors, Central Angles)**, an angle with vertex a
 
 ### Solution to Exercise 10
 
-$r=5\;\text{m}$. Mark a point on the ground as center, fix a $5\;\text{m}$ rope at it, pull taut, and sweep a full circle. $\blacksquare$
+$r=5\;\text{m}$. Mark a point on the ground as center, fix a $5\;\text{m}$ rope at it, pull taut, and sweep a full circle.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -110,7 +130,9 @@ $r=5\;\text{m}$. Mark a point on the ground as center, fix a $5\;\text{m}$ rope 
 
 ### Solution to Exercise 11
 
-The rectangle holds two equal circles; its length $10\;\text{cm}$ is two diameters, so $d=10\div2=5\;\text{cm}$. $\blacksquare$
+The rectangle holds two equal circles; its length $10\;\text{cm}$ is two diameters, so $d=10\div2=5\;\text{cm}$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -118,7 +140,9 @@ The rectangle holds two equal circles; its length $10\;\text{cm}$ is two diamete
 
 ### Solution to Exercise 12
 
-$18\;\text{cm}$ is $3$ diameters, $d=18\div3=6\;\text{cm}$; rectangle width equals the diameter $6\;\text{cm}$, perimeter $=\left(18+6\right)\times2=48\;\text{cm}$. $\blacksquare$
+$18\;\text{cm}$ is $3$ diameters, $d=18\div3=6\;\text{cm}$; rectangle width equals the diameter $6\;\text{cm}$, perimeter $=\left(18+6\right)\times2=48\;\text{cm}$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -126,7 +150,9 @@ $18\;\text{cm}$ is $3$ diameters, $d=18\div3=6\;\text{cm}$; rectangle width equa
 
 ### Solution to Exercise 13
 
-A circle has infinitely many axes; a square $4$, equilateral triangle $3$, rectangle $2$, isosceles triangle $1$, sector $1$. $\blacksquare$
+A circle has infinitely many axes; a square $4$, equilateral triangle $3$, rectangle $2$, isosceles triangle $1$, sector $1$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -134,7 +160,9 @@ A circle has infinitely many axes; a square $4$, equilateral triangle $3$, recta
 
 ### Solution to Exercise 14
 
-The three circles overlap pairwise into a three-petal flower (each passes through the other two centers). $\blacksquare$
+The three circles overlap pairwise into a three-petal flower (each passes through the other two centers).
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -142,7 +170,9 @@ The three circles overlap pairwise into a three-petal flower (each passes throug
 
 ### Solution to Exercise 15
 
-A circle's circumference is always a bit more than $3$ times its diameter. By **Definition 11.5.3 (Pi)**, the quotient is the fixed number $\pi$. So circumference $C=\pi{d}=2\pi{r}$. $\blacksquare$
+A circle's circumference is always a bit more than $3$ times its diameter. By **Definition 11.5.3 (Pi)**, the quotient is the fixed number $\pi$. So circumference $C=\pi{d}=2\pi{r}$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -150,7 +180,9 @@ A circle's circumference is always a bit more than $3$ times its diameter. By **
 
 ### Solution to Exercise 16
 
-By **Definition 11.5.4 (Circumference)**, $C=3.14\times75=235.5\;\text{cm}=2.355\;\text{m}$. $4710\;\text{km}=4710000\;\text{m}$, $4710000\div2.355=2000000$ revolutions. $\blacksquare$
+By **Definition 11.5.4 (Circumference)**, $C=3.14\times75=235.5\;\text{cm}=2.355\;\text{m}$. $4710\;\text{km}=4710000\;\text{m}$, $4710000\div2.355=2000000$ revolutions.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -158,7 +190,9 @@ By **Definition 11.5.4 (Circumference)**, $C=3.14\times75=235.5\;\text{cm}=2.355
 
 ### Solution to Exercise 17
 
-By **Definition 11.5.4 (Circumference)**: $3.14\times8=25.12\;\text{cm}$; $2\times3.14\times3=18.84\;\text{cm}$; $2\times3.14\times5=31.4\;\text{cm}$; diameter $6.28\div3.14=2\;\text{m}$. $\blacksquare$
+By **Definition 11.5.4 (Circumference)**: $3.14\times8=25.12\;\text{cm}$; $2\times3.14\times3=18.84\;\text{cm}$; $2\times3.14\times5=31.4\;\text{cm}$; diameter $6.28\div3.14=2\;\text{m}$.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -166,7 +200,9 @@ By **Definition 11.5.4 (Circumference)**: $3.14\times8=25.12\;\text{cm}$; $2\tim
 
 ### Solution to Exercise 18
 
-By **Definition 11.5.4 (Circumference)**: $2\times3.14\times5=31.4\;\text{m}$. $\blacksquare$
+By **Definition 11.5.4 (Circumference)**: $2\times3.14\times5=31.4\;\text{m}$.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -174,7 +210,9 @@ By **Definition 11.5.4 (Circumference)**: $2\times3.14\times5=31.4\;\text{m}$. $
 
 ### Solution to Exercise 19
 
-Diameter $=12\times55=660\;\text{cm}=6.6\;\text{m}$, circumference $=3.14\times6.6=20.724\;\text{m}$. $\blacksquare$
+Diameter $=12\times55=660\;\text{cm}=6.6\;\text{m}$, circumference $=3.14\times6.6=20.724\;\text{m}$.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -182,7 +220,9 @@ Diameter $=12\times55=660\;\text{cm}=6.6\;\text{m}$, circumference $=3.14\times6
 
 ### Solution to Exercise 20
 
-$3.14\div3.14=1\;\text{m}$. $\blacksquare$
+$3.14\div3.14=1\;\text{m}$.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -190,4 +230,6 @@ $3.14\div3.14=1\;\text{m}$. $\blacksquare$
 
 ### Solution to Exercise 21
 
-Wheel circumference $3.14\times40=125.6\;\text{cm}=1.256\;\text{m}$; $50.24\div1.256=40$ revolutions. $\blacksquare$
+Wheel circumference $3.14\times40=125.6\;\text{cm}=1.256\;\text{m}$; $50.24\div1.256=40$ revolutions.
+
+$\blacksquare$

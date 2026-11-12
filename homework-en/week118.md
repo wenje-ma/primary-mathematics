@@ -30,7 +30,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 10.7.1 (Rotation)**, a windmill pattern comes from one blade rotating about the center several times ($90^\circ$ or $120^\circ$ each); a petal pattern comes from one petal rotating about the center $n$ times. Identify the basic figure and state the center, direction, and angle. $\blacksquare$
+By **Definition 10.7.1 (Rotation)**, a windmill pattern comes from one blade rotating about the center several times ($90^\circ$ or $120^\circ$ each); a petal pattern comes from one petal rotating about the center $n$ times. Identify the basic figure and state the center, direction, and angle.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -38,7 +40,9 @@ By **Definition 10.7.1 (Rotation)**, a windmill pattern comes from one blade rot
 
 ### Solution to Exercise 2
 
-By **Definition 10.7.1 (Rotation)**, a pendulum swings left and right, at each pass rotating no more than $10^\circ$ counterclockwise (or clockwise, depending on direction) about O; a windmill rotates $90^\circ$ clockwise (or counterclockwise) about O. Fill in by the direction shown. $\blacksquare$
+By **Definition 10.7.1 (Rotation)**, a pendulum swings left and right, at each pass rotating no more than $10^\circ$ counterclockwise (or clockwise, depending on direction) about O; a windmill rotates $90^\circ$ clockwise (or counterclockwise) about O. Fill in by the direction shown.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -46,7 +50,9 @@ By **Definition 10.7.1 (Rotation)**, a pendulum swings left and right, at each p
 
 ### Solution to Exercise 3
 
-By **Definition 10.7.2 (Features of Rotation)**, observe Figure 3's position relative to the original; if it rotated $180^\circ$, answer: Figure 3 is obtained by rotating $180^\circ$ clockwise (or counterclockwise) about O. $\blacksquare$
+By **Definition 10.7.2 (Features of Rotation)**, observe Figure 3's position relative to the original; if it rotated $180^\circ$, answer: Figure 3 is obtained by rotating $180^\circ$ clockwise (or counterclockwise) about O.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -54,7 +60,9 @@ By **Definition 10.7.2 (Features of Rotation)**, observe Figure 3's position rel
 
 ### Solution to Exercise 4
 
-By **Definition 10.7.1 (Rotation)**, look at the two (or more) parts of each group; rotate one part $90^\circ$ (or $180^\circ$) about a vertex and, if needed, translate it into place so the parts assemble into a square. $\blacksquare$
+By **Definition 10.7.1 (Rotation)**, look at the two (or more) parts of each group; rotate one part $90^\circ$ (or $180^\circ$) about a vertex and, if needed, translate it into place so the parts assemble into a square.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -62,7 +70,9 @@ By **Definition 10.7.1 (Rotation)**, look at the two (or more) parts of each gro
 
 ### Solution to Exercise 5
 
-By **Definition 10.8.1 (Adding/Subtracting Fractions with Like Denominators)**: $\frac{2}{9}+\frac{5}{9}=\frac{7}{9}$; $\frac{6}{7}-\frac{2}{7}=\frac{4}{7}$; $\frac{7}{10}-\frac{1}{10}=\frac{6}{10}=\frac{3}{5}$; $\frac{5}{8}+\frac{1}{8}=\frac{6}{8}=\frac{3}{4}$. $\blacksquare$
+By **Definition 10.8.1 (Adding/Subtracting Fractions with Like Denominators)**: $\frac{2}{9}+\frac{5}{9}=\frac{7}{9}$; $\frac{6}{7}-\frac{2}{7}=\frac{4}{7}$; $\frac{7}{10}-\frac{1}{10}=\frac{6}{10}=\frac{3}{5}$; $\frac{5}{8}+\frac{1}{8}=\frac{6}{8}=\frac{3}{4}$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -70,7 +80,9 @@ By **Definition 10.8.1 (Adding/Subtracting Fractions with Like Denominators)**: 
 
 ### Solution to Exercise 6
 
-By **Definition 10.8.1 (Adding/Subtracting Fractions with Like Denominators)**: $\frac{5}{12}+\frac{1}{12}=\frac{6}{12}=\frac{1}{2}$; $\frac{7}{8}-\frac{3}{8}=\frac{4}{8}=\frac{1}{2}$; $\frac{3}{10}+\frac{9}{10}=\frac{12}{10}=\frac{6}{5}$; $\frac{11}{15}-\frac{11}{15}=0$. $\blacksquare$
+By **Definition 10.8.1 (Adding/Subtracting Fractions with Like Denominators)**: $\frac{5}{12}+\frac{1}{12}=\frac{6}{12}=\frac{1}{2}$; $\frac{7}{8}-\frac{3}{8}=\frac{4}{8}=\frac{1}{2}$; $\frac{3}{10}+\frac{9}{10}=\frac{12}{10}=\frac{6}{5}$; $\frac{11}{15}-\frac{11}{15}=0$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -78,7 +90,9 @@ By **Definition 10.8.1 (Adding/Subtracting Fractions with Like Denominators)**: 
 
 ### Solution to Exercise 7
 
-By **Definition 10.8.1 (Adding/Subtracting Fractions with Like Denominators)**: (1) Grade 6 is $\frac{3}{15}=\frac{1}{5}$; (2) Grades 1 and 2 together are $\frac{2}{15}+\frac{2}{15}=\frac{4}{15}$. $\blacksquare$
+By **Definition 10.8.1 (Adding/Subtracting Fractions with Like Denominators)**: (1) Grade 6 is $\frac{3}{15}=\frac{1}{5}$; (2) Grades 1 and 2 together are $\frac{2}{15}+\frac{2}{15}=\frac{4}{15}$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -86,7 +100,9 @@ By **Definition 10.8.1 (Adding/Subtracting Fractions with Like Denominators)**: 
 
 ### Solution to Exercise 8
 
-By **Definition 10.8.2 (Adding/Subtracting Fractions with Unlike Denominators)**: $\frac{5}{8}+\frac{1}{3}=\frac{15}{24}+\frac{8}{24}=\frac{23}{24}$; $\frac{1}{4}+\frac{3}{8}=\frac{2}{8}+\frac{3}{8}=\frac{5}{8}$; $\frac{7}{10}-\frac{1}{5}=\frac{7}{10}-\frac{2}{10}=\frac{5}{10}=\frac{1}{2}$; $\frac{2}{3}-\frac{1}{2}=\frac{4}{6}-\frac{3}{6}=\frac{1}{6}$. $\blacksquare$
+By **Definition 10.8.2 (Adding/Subtracting Fractions with Unlike Denominators)**: $\frac{5}{8}+\frac{1}{3}=\frac{15}{24}+\frac{8}{24}=\frac{23}{24}$; $\frac{1}{4}+\frac{3}{8}=\frac{2}{8}+\frac{3}{8}=\frac{5}{8}$; $\frac{7}{10}-\frac{1}{5}=\frac{7}{10}-\frac{2}{10}=\frac{5}{10}=\frac{1}{2}$; $\frac{2}{3}-\frac{1}{2}=\frac{4}{6}-\frac{3}{6}=\frac{1}{6}$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -94,7 +110,9 @@ By **Definition 10.8.2 (Adding/Subtracting Fractions with Unlike Denominators)**
 
 ### Solution to Exercise 9
 
-By **Definition 10.8.2 (Adding/Subtracting Fractions with Unlike Denominators)**, total watered is $\frac{1}{4}+\frac{3}{8}+\frac{3}{10}=\frac{10}{40}+\frac{15}{40}+\frac{12}{40}=\frac{37}{40}$; remaining is $1-\frac{37}{40}=\frac{3}{40}$. $\blacksquare$
+By **Definition 10.8.2 (Adding/Subtracting Fractions with Unlike Denominators)**, total watered is $\frac{1}{4}+\frac{3}{8}+\frac{3}{10}=\frac{10}{40}+\frac{15}{40}+\frac{12}{40}=\frac{37}{40}$; remaining is $1-\frac{37}{40}=\frac{3}{40}$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -102,7 +120,9 @@ By **Definition 10.8.2 (Adding/Subtracting Fractions with Unlike Denominators)**
 
 ### Solution to Exercise 10
 
-By **Definition 10.8.3 (Mixed Addition and Subtraction of Fractions)**: $\frac{4}{5}-\frac{3}{10}+\frac{2}{3}=\frac{24}{30}-\frac{9}{30}+\frac{20}{30}=\frac{35}{30}=\frac{7}{6}$; $\frac{1}{2}+\left(\frac{1}{6}-\frac{1}{12}\right)=\frac{6}{12}+\left(\frac{2}{12}-\frac{1}{12}\right)=\frac{6}{12}+\frac{1}{12}=\frac{7}{12}$. $\blacksquare$
+By **Definition 10.8.3 (Mixed Addition and Subtraction of Fractions)**: $\frac{4}{5}-\frac{3}{10}+\frac{2}{3}=\frac{24}{30}-\frac{9}{30}+\frac{20}{30}=\frac{35}{30}=\frac{7}{6}$; $\frac{1}{2}+\left(\frac{1}{6}-\frac{1}{12}\right)=\frac{6}{12}+\left(\frac{2}{12}-\frac{1}{12}\right)=\frac{6}{12}+\frac{1}{12}=\frac{7}{12}$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -110,7 +130,9 @@ By **Definition 10.8.3 (Mixed Addition and Subtraction of Fractions)**: $\frac{4
 
 ### Solution to Exercise 11
 
-By **Definition 10.8.3 (Mixed Addition and Subtraction of Fractions)**, use commutative and associative laws: $\frac{1}{3}+\frac{1}{5}+\frac{2}{3}=\left(\frac{1}{3}+\frac{2}{3}\right)+\frac{1}{5}=1+\frac{1}{5}=1\frac{1}{5}$; $\frac{11}{12}-\frac{1}{6}-\frac{5}{6}=\frac{11}{12}-\left(\frac{1}{6}+\frac{5}{6}\right)=\frac{11}{12}-1=-\frac{1}{12}$ (per the textbook data). $\blacksquare$
+By **Definition 10.8.3 (Mixed Addition and Subtraction of Fractions)**, use commutative and associative laws: $\frac{1}{3}+\frac{1}{5}+\frac{2}{3}=\left(\frac{1}{3}+\frac{2}{3}\right)+\frac{1}{5}=1+\frac{1}{5}=1\frac{1}{5}$; $\frac{11}{12}-\frac{1}{6}-\frac{5}{6}=\frac{11}{12}-\left(\frac{1}{6}+\frac{5}{6}\right)=\frac{11}{12}-1=-\frac{1}{12}$ (per the textbook data).
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -118,7 +140,9 @@ By **Definition 10.8.3 (Mixed Addition and Subtraction of Fractions)**, use comm
 
 ### Solution to Exercise 12
 
-By **Definition 10.9.1 (Doubling Notification)**, the total notified in the $n$-th minute is $2^n-1$: (1) $2^4-1=15$, so 4 minutes to notify 15 members; (2) $2^5-1=31$, so at most 31 in 5 minutes; (3) $2^5-1=31<50$, $2^6-1=63>50$, so at least 6 minutes. $\blacksquare$
+By **Definition 10.9.1 (Doubling Notification)**, the total notified in the $n$-th minute is $2^n-1$: (1) $2^4-1=15$, so 4 minutes to notify 15 members; (2) $2^5-1=31$, so at most 31 in 5 minutes; (3) $2^5-1=31<50$, $2^6-1=63>50$, so at least 6 minutes.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -126,4 +150,6 @@ By **Definition 10.9.1 (Doubling Notification)**, the total notified in the $n$-
 
 ### Solution to Exercise 13
 
-By **Definition 10.9.1 (Doubling Notification)**: minute 1 newly $1$, total $1$; minute 2 newly $2$, total $3$; minute 3 newly $4$, total $7$; minute 4 newly $8$, total $15$; minute 5 newly $16$, total $31$. Rule: the newly notified count doubles each minute, and the total is $2^n-1$, growing by doubling. $\blacksquare$
+By **Definition 10.9.1 (Doubling Notification)**: minute 1 newly $1$, total $1$; minute 2 newly $2$, total $3$; minute 3 newly $4$, total $7$; minute 4 newly $8$, total $15$; minute 5 newly $16$, total $31$. Rule: the newly notified count doubles each minute, and the total is $2^n-1$, growing by doubling.
+
+$\blacksquare$

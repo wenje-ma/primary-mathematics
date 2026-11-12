@@ -46,7 +46,9 @@
 
 ### Solution to Exercise 1
 
-Arrange by divisor (rhyme); the same rhyme corresponds to a group of divisions. Notice: in each row the divisor is unchanged, the dividend increases in turn, and the quotient increases in turn; in each column the dividend is unchanged, and the larger the divisor, the smaller the quotient. Across the cross, the quotients are equal (the same rhyme), and down the cross the divisor increases by $1$. $\blacksquare$
+Arrange by divisor (rhyme); the same rhyme corresponds to a group of divisions. Notice: in each row the divisor is unchanged, the dividend increases in turn, and the quotient increases in turn; in each column the dividend is unchanged, and the larger the divisor, the smaller the quotient. Across the cross, the quotients are equal (the same rhyme), and down the cross the divisor increases by $1$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -54,7 +56,9 @@ Arrange by divisor (rhyme); the same rhyme corresponds to a group of divisions. 
 
 ### Solution to Exercise 2
 
-$72\div9=8$, $45\div9=5$, $64-8=56$, $28\div4=7$, $3\times7=21$, $30\div6=5$, $5\times9=45$, $32\div8=4$, $27\div3=9$, $42\div7=6$, $56\div8=7$, $54+6=60$. $\blacksquare$
+$72\div9=8$, $45\div9=5$, $64-8=56$, $28\div4=7$, $3\times7=21$, $30\div6=5$, $5\times9=45$, $32\div8=4$, $27\div3=9$, $42\div7=6$, $56\div8=7$, $54+6=60$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -62,7 +66,9 @@ $72\div9=8$, $45\div9=5$, $64-8=56$, $28\div4=7$, $3\times7=21$, $30\div6=5$, $5
 
 ### Solution to Exercise 3
 
-For example, $3$ groups of $5$ discs each: multiplication $3\times5=15$, $5\times3=15$; division $15\div3=5$, $15\div5=3$. All four expressions use the same rhyme "three five fifteen". $\blacksquare$
+For example, $3$ groups of $5$ discs each: multiplication $3\times5=15$, $5\times3=15$; division $15\div3=5$, $15\div5=3$. All four expressions use the same rhyme "three five fifteen".
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -70,7 +76,9 @@ For example, $3$ groups of $5$ discs each: multiplication $3\times5=15$, $5\time
 
 ### Solution to Exercise 4
 
-Multiply the rows by the columns; for example $6$ rows and $8$ columns gives $6\times8=48$ (discs). Compute by the actual rows and columns in the picture. $\blacksquare$
+Multiply the rows by the columns; for example $6$ rows and $8$ columns gives $6\times8=48$ (discs). Compute by the actual rows and columns in the picture.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -78,7 +86,9 @@ Multiply the rows by the columns; for example $6$ rows and $8$ columns gives $6\
 
 ### Solution to Exercise 5
 
-Dividing into $2$: fold along the center line to get $2$ identical rectangles; into $4$: fold once each way to get $4$ small rectangles; into $8$: first make $4$ and then fold each, or divide on a $2\times4$ grid. Each share has the same size and shape. $\blacksquare$
+Dividing into $2$: fold along the center line to get $2$ identical rectangles; into $4$: fold once each way to get $4$ small rectangles; into $8$: first make $4$ and then fold each, or divide on a $2\times4$ grid. Each share has the same size and shape.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -86,7 +96,9 @@ Dividing into $2$: fold along the center line to get $2$ identical rectangles; i
 
 ### Solution to Exercise 6
 
-$54\div9=6$, $24-6=18$, $36\div4=9$, $7\times7=49$, $63\div9=7$, $8\times3=24$, $9\times8=72$. Smallest to largest: $54\div9<63\div9<36\div4<24-6<8\times3<7\times7<9\times8$. $\blacksquare$
+$54\div9=6$, $24-6=18$, $36\div4=9$, $7\times7=49$, $63\div9=7$, $8\times3=24$, $9\times8=72$. Smallest to largest: $54\div9<63\div9<36\div4<24-6<8\times3<7\times7<9\times8$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -94,7 +106,9 @@ $54\div9=6$, $24-6=18$, $36\div4=9$, $7\times7=49$, $63\div9=7$, $8\times3=24$, 
 
 ### Solution to Exercise 7
 
-By **Definition 3.7.5 (Two-Step Multiplication-Division Problems)**: each group gets $24\div3=8$ (books); each person gets $8\div4=2$ (books). $\blacksquare$
+By **Definition 3.7.5 (Two-Step Multiplication-Division Problems)**: each group gets $24\div3=8$ (books); each person gets $8\div4=2$ (books).
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -102,7 +116,9 @@ By **Definition 3.7.5 (Two-Step Multiplication-Division Problems)**: each group 
 
 ### Solution to Exercise 8
 
-Let the rubber ball be $1$ share, the soccer ball $2$ shares, the basketball $4$ shares. The money for $8$ soccer balls is $8\times2=16$ shares; rubber balls: $16\div1=16$ (balls); basketballs: $16\div4=4$ (balls). $\blacksquare$
+Let the rubber ball be $1$ share, the soccer ball $2$ shares, the basketball $4$ shares. The money for $8$ soccer balls is $8\times2=16$ shares; rubber balls: $16\div1=16$ (balls); basketballs: $16\div4=4$ (balls).
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -110,7 +126,9 @@ Let the rubber ball be $1$ share, the soccer ball $2$ shares, the basketball $4$
 
 ### Solution to Exercise 9
 
-The misread dividend: $6\times4=24$. Swapping the tens and ones digits of $24$ back gives $42$. The correct dividend is $42$, and the correct quotient: $42\div6=7$. $\blacksquare$
+The misread dividend: $6\times4=24$. Swapping the tens and ones digits of $24$ back gives $42$. The correct dividend is $42$, and the correct quotient: $42\div6=7$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -118,7 +136,9 @@ The misread dividend: $6\times4=24$. Swapping the tens and ones digits of $24$ b
 
 ### Solution to Exercise 10
 
-For example "how many small squares does one cube have in all?", $6\times9=54$ (squares). Or "how much for $5$ cubes?", $7\times5=35$ (yuan). The problem is not unique. $\blacksquare$
+For example "how many small squares does one cube have in all?", $6\times9=54$ (squares). Or "how much for $5$ cubes?", $7\times5=35$ (yuan). The problem is not unique.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -126,7 +146,9 @@ For example "how many small squares does one cube have in all?", $6\times9=54$ (
 
 ### Solution to Exercise 11
 
-Each cube framework needs $8$ connectors, $40\div8=5$ (frameworks). You can build $5$. $\blacksquare$
+Each cube framework needs $8$ connectors, $40\div8=5$ (frameworks). You can build $5$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -134,7 +156,9 @@ Each cube framework needs $8$ connectors, $40\div8=5$ (frameworks). You can buil
 
 ### Solution to Exercise 12
 
-By **Definition 3.8.1 (Reviewing Multiplication-Division Relations)**, repeated addition with the same addend such as $2+2+2=6$ can be written as the multiplication $2\times3=6$; equal distribution such as $6-2-2-2=0$ can be written as the division $6\div2=3$. The rhymes help us compute multiplication and division quickly, and the two are inverse operations. $\blacksquare$
+By **Definition 3.8.1 (Reviewing Multiplication-Division Relations)**, repeated addition with the same addend such as $2+2+2=6$ can be written as the multiplication $2\times3=6$; equal distribution such as $6-2-2-2=0$ can be written as the division $6\div2=3$. The rhymes help us compute multiplication and division quickly, and the two are inverse operations.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -142,7 +166,9 @@ By **Definition 3.8.1 (Reviewing Multiplication-Division Relations)**, repeated 
 
 ### Solution to Exercise 13
 
-By **Definition 3.8.2 (Quantity Relations)**, given the amount per share ($5$ per row) and the number of shares ($4$ rows), use multiplication to find the total: $5\times4=20$ (desks). $\blacksquare$
+By **Definition 3.8.2 (Quantity Relations)**, given the amount per share ($5$ per row) and the number of shares ($4$ rows), use multiplication to find the total: $5\times4=20$ (desks).
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -150,7 +176,9 @@ By **Definition 3.8.2 (Quantity Relations)**, given the amount per share ($5$ pe
 
 ### Solution to Exercise 14
 
-By **Definition 3.8.2 (Quantity Relations)**, given the total ($20$ desks) and the amount per share ($5$ per row), use division to find the number of shares: $20\div5=4$ (rows). $\blacksquare$
+By **Definition 3.8.2 (Quantity Relations)**, given the total ($20$ desks) and the amount per share ($5$ per row), use division to find the number of shares: $20\div5=4$ (rows).
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -158,7 +186,9 @@ By **Definition 3.8.2 (Quantity Relations)**, given the total ($20$ desks) and t
 
 ### Solution to Exercise 15
 
-By **Definition 3.8.3 (Reviewing Directions and Measurement)**, you can measure line segments in centimeters and meters, knowing $1$ meter $=100$ centimeters; you can tell directions on a picture by north-top, south-bottom, west-left, east-right; with no ruler you can estimate length with body rulers such as the hand-span, pace, and arm-span. $\blacksquare$
+By **Definition 3.8.3 (Reviewing Directions and Measurement)**, you can measure line segments in centimeters and meters, knowing $1$ meter $=100$ centimeters; you can tell directions on a picture by north-top, south-bottom, west-left, east-right; with no ruler you can estimate length with body rulers such as the hand-span, pace, and arm-span.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -166,7 +196,9 @@ By **Definition 3.8.3 (Reviewing Directions and Measurement)**, you can measure 
 
 ### Solution to Exercise 16
 
-(1) For example the product $24$ corresponds to "three eight twenty-four" and "four six twenty-four". (2) The products in each row (or column) increase by that row's (column's) factor; the products on the diagonal are square numbers $1,4,9,16,\cdots$. (3) Fill the blanks per the rhyme table; for example $24$ is at $3\times8$ and $4\times6$. (4) For example $3\times8=24$ corresponds to $24\div3=8$, $24\div8=3$. $\blacksquare$
+(1) For example the product $24$ corresponds to "three eight twenty-four" and "four six twenty-four". (2) The products in each row (or column) increase by that row's (column's) factor; the products on the diagonal are square numbers $1,4,9,16,\cdots$. (3) Fill the blanks per the rhyme table; for example $24$ is at $3\times8$ and $4\times6$. (4) For example $3\times8=24$ corresponds to $24\div3=8$, $24\div8=3$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -174,4 +206,6 @@ By **Definition 3.8.3 (Reviewing Directions and Measurement)**, you can measure 
 
 ### Solution to Exercise 17
 
-(1) $8\times8=64$, $7\times6=42$, $9\times3=27$, $4\times7=28$, finding the product by the rhyme. (2) $24\div4=6$, $18\div6=3$, $12\div3=4$, finding the quotient by the rhyme. (3) Do the multiplication first: $4\times2+17=8+17=25$; $3\times7-6=21-6=15$; $5\times9+8=45+8=53$. (4) For example "$6$ apples per bag; how many in $5$ bags?", $6\times5=30$ apples. $\blacksquare$
+(1) $8\times8=64$, $7\times6=42$, $9\times3=27$, $4\times7=28$, finding the product by the rhyme. (2) $24\div4=6$, $18\div6=3$, $12\div3=4$, finding the quotient by the rhyme. (3) Do the multiplication first: $4\times2+17=8+17=25$; $3\times7-6=21-6=15$; $5\times9+8=45+8=53$. (4) For example "$6$ apples per bag; how many in $5$ bags?", $6\times5=30$ apples.
+
+$\blacksquare$

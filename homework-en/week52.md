@@ -26,7 +26,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 5.6.1 (Numeral Codes)**, in the $18$-digit number: the first $6$ digits are the address code (province, city, county), the next $8$ digits are the birth-date code (year, month, day), the sequence code (digits $15\sim17$, with the $17$th odd for male and even for female), and the last $1$ digit is the check code. $\blacksquare$
+By **Definition 5.6.1 (Numeral Codes)**, in the $18$-digit number: the first $6$ digits are the address code (province, city, county), the next $8$ digits are the birth-date code (year, month, day), the sequence code (digits $15\sim17$, with the $17$th odd for male and even for female), and the last $1$ digit is the check code.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -34,7 +36,9 @@ By **Definition 5.6.1 (Numeral Codes)**, in the $18$-digit number: the first $6$
 
 ### Solution to Exercise 2
 
-No. Although their birth dates are the same, the sequence codes differ (people born at the same address on the same year-month-day are numbered in order, and the $17$th digit can also distinguish gender), so the twins' identity numbers are different. $\blacksquare$
+No. Although their birth dates are the same, the sequence codes differ (people born at the same address on the same year-month-day are numbered in order, and the $17$th digit can also distinguish gender), so the twins' identity numbers are different.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -42,7 +46,9 @@ No. Although their birth dates are the same, the sequence codes differ (people b
 
 ### Solution to Exercise 3
 
-By **Definition 5.6.1 (Numeral Codes)**, the features are: each part has a fixed number of digits and stands for specific information from left to right; the digits are arranged according to a uniform standard and can uniquely distinguish each object; and there is a check digit to verify whether the number is correct. $\blacksquare$
+By **Definition 5.6.1 (Numeral Codes)**, the features are: each part has a fixed number of digits and stands for specific information from left to right; the digits are arranged according to a uniform standard and can uniquely distinguish each object; and there is a check digit to verify whether the number is correct.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -50,7 +56,9 @@ By **Definition 5.6.1 (Numeral Codes)**, the features are: each part has a fixed
 
 ### Solution to Exercise 4
 
-By **Definition 5.6.2 (Designing a Coding Scheme)**, a student number may contain the enrollment year (such as $2026$), grade, class (two digits), in-class sequence number (two digits), and a gender code may be added. For example, $20260302152$: enrolled in $2026$, grade $3$, class $2$, number $15$, female. $\blacksquare$
+By **Definition 5.6.2 (Designing a Coding Scheme)**, a student number may contain the enrollment year (such as $2026$), grade, class (two digits), in-class sequence number (two digits), and a gender code may be added. For example, $20260302152$: enrolled in $2026$, grade $3$, class $2$, number $15$, female.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -58,7 +66,9 @@ By **Definition 5.6.2 (Designing a Coding Scheme)**, a student number may contai
 
 ### Solution to Exercise 5
 
-The scheme is not unique; for example: an $8$-digit student number, the first $4$ digits the enrollment year, digits $5\sim6$ the class, and digits $7\sim8$ the in-class sequence number. Explain that each part has a fixed number of digits and that the whole class has no repetition. $\blacksquare$
+The scheme is not unique; for example: an $8$-digit student number, the first $4$ digits the enrollment year, digits $5\sim6$ the class, and digits $7\sim8$ the in-class sequence number. Explain that each part has a fixed number of digits and that the whole class has no repetition.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -66,7 +76,9 @@ The scheme is not unique; for example: an $8$-digit student number, the first $4
 
 ### Solution to Exercise 6
 
-By **Definition 5.6.2 (Designing a Coding Scheme)**, the whole-class scheme is feasible; when compiling student numbers for the whole school, a school code or grade information must be added; for all students in the whole city, a district/county code must be further added and the number of digits lengthened accordingly, otherwise there will be repetition. $\blacksquare$
+By **Definition 5.6.2 (Designing a Coding Scheme)**, the whole-class scheme is feasible; when compiling student numbers for the whole school, a school code or grade information must be added; for all students in the whole city, a district/county code must be further added and the number of digits lengthened accordingly, otherwise there will be repetition.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -74,7 +86,9 @@ By **Definition 5.6.2 (Designing a Coding Scheme)**, the whole-class scheme is f
 
 ### Solution to Exercise 7
 
-In daily life there are also postal codes, license plate numbers, house numbers, student numbers, product barcodes, and so on. The first-generation ID card numbering has only $15$ digits, which, compared with the second-generation $18$ digits, is short two digits of the year code (for example, $99$ is written as $1999$) and one digit of check code. A book ISBN is also a code, containing a group code, a publisher code, a title number and a check code. $\blacksquare$
+In daily life there are also postal codes, license plate numbers, house numbers, student numbers, product barcodes, and so on. The first-generation ID card numbering has only $15$ digits, which, compared with the second-generation $18$ digits, is short two digits of the year code (for example, $99$ is written as $1999$) and one digit of check code. A book ISBN is also a code, containing a group code, a publisher code, a title number and a check code.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -82,7 +96,9 @@ In daily life there are also postal codes, license plate numbers, house numbers,
 
 ### Solution to Exercise 8
 
-By **Definition 5.7.1 (Line Segment, Ray, Straight Line)**, a line segment has two endpoints and its length can be measured; a ray has only one endpoint, a straight line has no endpoint, and both a ray and a straight line can extend infinitely. The figure shows from top to bottom: a line segment marked with two endpoints A and B; a ray with endpoint O extending infinitely to one side; and a straight line with no endpoints extending infinitely in both directions. $\blacksquare$
+By **Definition 5.7.1 (Line Segment, Ray, Straight Line)**, a line segment has two endpoints and its length can be measured; a ray has only one endpoint, a straight line has no endpoint, and both a ray and a straight line can extend infinitely. The figure shows from top to bottom: a line segment marked with two endpoints A and B; a ray with endpoint O extending infinitely to one side; and a straight line with no endpoints extending infinitely in both directions.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -90,7 +106,9 @@ By **Definition 5.7.1 (Line Segment, Ray, Straight Line)**, a line segment has t
 
 ### Solution to Exercise 9
 
-By **Definition 5.7.1 (线段, 射线, 直线)**, those with two endpoints are line segments; those with only one endpoint and the other side extending are rays; those with no endpoint and both sides extending are straight lines. Classify accordingly. $\blacksquare$
+By **Definition 5.7.1 (线段, 射线, 直线)**, those with two endpoints are line segments; those with only one endpoint and the other side extending are rays; those with no endpoint and both sides extending are straight lines. Classify accordingly.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -98,7 +116,9 @@ By **Definition 5.7.1 (线段, 射线, 直线)**, those with two endpoints are l
 
 ### Solution to Exercise 10
 
-By **Definition 5.7.1 (Line Segment, Ray, Straight Line)**, Xiaoming has several ways to school, such as via the store or via the post office; among them the road directly from home to school (equivalent to the line segment between the two points) is the shortest. $\blacksquare$
+By **Definition 5.7.1 (Line Segment, Ray, Straight Line)**, Xiaoming has several ways to school, such as via the store or via the post office; among them the road directly from home to school (equivalent to the line segment between the two points) is the shortest.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -106,7 +126,9 @@ By **Definition 5.7.1 (Line Segment, Ray, Straight Line)**, Xiaoming has several
 
 ### Solution to Exercise 11
 
-You can measure each length with a ruler and then compare; you can also make one endpoint of the two segments coincide and look at the position of the other endpoint: if the other endpoints coincide they are equal, and if the other endpoint falls inside it is shorter, denoted $AB<{}CD$. You can also compare by stepping off with a compass. $\blacksquare$
+You can measure each length with a ruler and then compare; you can also make one endpoint of the two segments coincide and look at the position of the other endpoint: if the other endpoints coincide they are equal, and if the other endpoint falls inside it is shorter, denoted $AB<{}CD$. You can also compare by stepping off with a compass.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -114,7 +136,9 @@ You can measure each length with a ruler and then compare; you can also make one
 
 ### Solution to Exercise 12
 
-(1) Endpoints B and D coincide, so the two segments are equally long, $AB=CD$. (2) B is to the right of D, showing that AB is longer, $AB>{}CD$. $\blacksquare$
+(1) Endpoints B and D coincide, so the two segments are equally long, $AB=CD$. (2) B is to the right of D, showing that AB is longer, $AB>CD$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -122,7 +146,9 @@ You can measure each length with a ruler and then compare; you can also make one
 
 ### Solution to Exercise 13
 
-Classify by **Definition 5.7.1 (线段, 射线, 直线)**: those that are straight with two endpoints are line segments; those that are straight with no endpoint are straight lines; those that are straight with only one endpoint are rays. $\blacksquare$
+Classify by **Definition 5.7.1 (线段, 射线, 直线)**: those that are straight with two endpoints are line segments; those that are straight with no endpoint are straight lines; those that are straight with only one endpoint are rays.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -130,7 +156,9 @@ Classify by **Definition 5.7.1 (线段, 射线, 直线)**: those that are straig
 
 ### Solution to Exercise 14
 
-(1) Use a ruler to draw the segment connecting the two points C and D. (2) Taking D as the endpoint, draw a ray in the direction of A. (3) Through one point B you can draw infinitely many straight lines; through the two points A and B you can draw only one straight line. $\blacksquare$
+(1) Use a ruler to draw the segment connecting the two points C and D. (2) Taking D as the endpoint, draw a ray in the direction of A. (3) Through one point B you can draw infinitely many straight lines; through the two points A and B you can draw only one straight line.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -138,7 +166,9 @@ Classify by **Definition 5.7.1 (线段, 射线, 直线)**: those that are straig
 
 ### Solution to Exercise 15
 
-There are $2$ line segments with A as one endpoint: segment AB and segment AC. $\blacksquare$
+There are $2$ line segments with A as one endpoint: segment AB and segment AC.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -146,7 +176,9 @@ There are $2$ line segments with A as one endpoint: segment AB and segment AC. $
 
 ### Solution to Exercise 16
 
-Compare by stepping off with the compass: fix one leg of the compass at one endpoint of a segment, set the other leg to the other endpoint, then compare with the other segment; the one whose endpoint extends beyond is longer. $\blacksquare$
+Compare by stepping off with the compass: fix one leg of the compass at one endpoint of a segment, set the other leg to the other endpoint, then compare with the other segment; the one whose endpoint extends beyond is longer.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -154,15 +186,19 @@ Compare by stepping off with the compass: fix one leg of the compass at one endp
 
 ### Solution to Exercise 17
 
-Measuring shows that the side lengths of the rectangle are unchanged before and after rotation; only the direction changes. The length of a line segment has nothing to do with the direction in which it is placed. $\blacksquare$
+Measuring shows that the side lengths of the rectangle are unchanged before and after rotation; only the direction changes. The length of a line segment has nothing to do with the direction in which it is placed.
+
+$\blacksquare$
 
 ## Exercise 18
 
-(Lesson: Practice 12, Problem 6) Two strips of wood AC and BD overlap. (1) If $AB=CD$, then AC ( ) BD. (2) If $AB>{}CD$, then AC ( ) BD.
+(Lesson: Practice 12, Problem 6) Two strips of wood AC and BD overlap. (1) If $AB=CD$, then AC ( ) BD. (2) If $AB>CD$, then AC ( ) BD.
 
 ### Solution to Exercise 18
 
-The overlapping part in the middle is BC. (1) When $AB=CD$, $AC=AB+BC=CD+BC=BD$, so $AC=BD$. (2) When $AB>{}CD$, $AC=AB+BC>{}CD+BC=BD$. $\blacksquare$
+The overlapping part in the middle is BC. (1) When $AB=CD$, $AC=AB+BC=CD+BC=BD$, so $AC=BD$. (2) When $AB>CD$, $AC=AB+BC>CD+BC=BD$.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -170,7 +206,9 @@ The overlapping part in the middle is BC. (1) When $AB=CD$, $AC=AB+BC=CD+BC=BD$,
 
 ### Solution to Exercise 19
 
-$2$ points give $1$ segment; $3$ points give $2+1=3$ segments; $4$ points give $3+2+1=6$ segments; $5$ points give $4+3+2+1=10$ segments; $6$ points give $5+4+3+2+1=15$ segments. Pattern: n points give at most $1+2+\cdots+\left(n-1\right)$ segments. $\blacksquare$
+$2$ points give $1$ segment; $3$ points give $2+1=3$ segments; $4$ points give $3+2+1=6$ segments; $5$ points give $4+3+2+1=10$ segments; $6$ points give $5+4+3+2+1=15$ segments. Pattern: n points give at most $1+2+\cdots+\left(n-1\right)$ segments.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -178,7 +216,9 @@ $2$ points give $1$ segment; $3$ points give $2+1=3$ segments; $4$ points give $
 
 ### Solution to Exercise 20
 
-By **Definition 5.7.2 (Angle)**, the figure formed by drawing two rays out from one point is an angle; this point is the vertex and the two rays are the sides. First draw a point, then taking this point as the vertex draw two rays in different directions. When opening a folding fan, the wider the opening, the larger the angle. $\blacksquare$
+By **Definition 5.7.2 (Angle)**, the figure formed by drawing two rays out from one point is an angle; this point is the vertex and the two rays are the sides. First draw a point, then taking this point as the vertex draw two rays in different directions. When opening a folding fan, the wider the opening, the larger the angle.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -186,7 +226,9 @@ By **Definition 5.7.2 (Angle)**, the figure formed by drawing two rays out from 
 
 ### Solution to Exercise 21
 
-By **Definition 5.7.3 (Right Angle, Acute Angle, Obtuse Angle)**, the corners of a desk and of a textbook cover are all right angles. Fold the paper in half and then in half again to fold a right angle; draw along the right-angle side of the triangular ruler. $\blacksquare$
+By **Definition 5.7.3 (Right Angle, Acute Angle, Obtuse Angle)**, the corners of a desk and of a textbook cover are all right angles. Fold the paper in half and then in half again to fold a right angle; draw along the right-angle side of the triangular ruler.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -194,7 +236,9 @@ By **Definition 5.7.3 (Right Angle, Acute Angle, Obtuse Angle)**, the corners of
 
 ### Solution to Exercise 22
 
-By **Definition 5.7.3 (Right Angle, Acute Angle, Obtuse Angle)**, the angle on a triangular ruler is a right angle; on a red scarf the angle smaller than a right angle is acute, and the one larger than a right angle is obtuse. Each triangular ruler has one right angle and two acute angles. $\blacksquare$
+By **Definition 5.7.3 (Right Angle, Acute Angle, Obtuse Angle)**, the angle on a triangular ruler is a right angle; on a red scarf the angle smaller than a right angle is acute, and the one larger than a right angle is obtuse. Each triangular ruler has one right angle and two acute angles.
+
+$\blacksquare$
 
 ## Exercise 23
 
@@ -202,7 +246,9 @@ By **Definition 5.7.3 (Right Angle, Acute Angle, Obtuse Angle)**, the angle on a
 
 ### Solution to Exercise 23
 
-By **Definition 5.7.3 (直角, 锐角, 钝角)**, a desk top is a rectangle with $4$ right angles. A square has $4$ right angles, a rectangle has $4$ right angles, and a triangular ruler has $1$ right angle. Count the number of right angles in each figure. $\blacksquare$
+By **Definition 5.7.3 (直角, 锐角, 钝角)**, a desk top is a rectangle with $4$ right angles. A square has $4$ right angles, a rectangle has $4$ right angles, and a triangular ruler has $1$ right angle. Count the number of right angles in each figure.
+
+$\blacksquare$
 
 ## Exercise 24
 
@@ -210,4 +256,6 @@ By **Definition 5.7.3 (直角, 锐角, 钝角)**, a desk top is a rectangle with
 
 ### Solution to Exercise 24
 
-By **Definition 5.7.2 (Angle)**, a figure formed by two rays drawn out from one point is an angle; if it is not two straight sides drawn out from the same vertex, it is not an angle. Judge accordingly. $\blacksquare$
+By **Definition 5.7.2 (Angle)**, a figure formed by two rays drawn out from one point is an angle; if it is not two straight sides drawn out from the same vertex, it is not an angle. Judge accordingly.
+
+$\blacksquare$

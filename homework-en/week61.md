@@ -30,7 +30,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 6.2.6 (Totalization Problem)**, first find one formation: $5\times4=20$ (people), then $3$ formations: $20\times3=60$ (people). $\blacksquare$
+By **Definition 6.2.6 (Totalization Problem)**, first find one formation: $5\times4=20$ (people), then $3$ formations: $20\times3=60$ (people).
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -38,7 +40,9 @@ By **Definition 6.2.6 (Totalization Problem)**, first find one formation: $5\tim
 
 ### Solution to Exercise 2
 
-By **Definition 6.2.6 (Totalization Problem)**, $960\div6\div8=20$ (cartons), or $960\div\left(6\times8\right)=20$ cartons. $\blacksquare$
+By **Definition 6.2.6 (Totalization Problem)**, $960\div6\div8=20$ (cartons), or $960\div\left(6\times8\right)=20$ cartons.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -46,7 +50,9 @@ By **Definition 6.2.6 (Totalization Problem)**, $960\div6\div8=20$ (cartons), or
 
 ### Solution to Exercise 3
 
-By **Definition 6.2.6 (Totalization Problem)**, $3\times25\times3=225$ (yuan). $\blacksquare$
+By **Definition 6.2.6 (Totalization Problem)**, $3\times25\times3=225$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -54,7 +60,9 @@ By **Definition 6.2.6 (Totalization Problem)**, $3\times25\times3=225$ (yuan). $
 
 ### Solution to Exercise 4
 
-By **Definition 6.2.6 (Totalization Problem)**, $4\times12\times6=288$ (kilograms). $\blacksquare$
+By **Definition 6.2.6 (Totalization Problem)**, $4\times12\times6=288$ (kilograms).
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -62,7 +70,9 @@ By **Definition 6.2.6 (Totalization Problem)**, $4\times12\times6=288$ (kilogram
 
 ### Solution to Exercise 5
 
-By **Definition 6.2.6 (Totalization Problem)**, $8\times50\times4=1600$ (kilograms). $\blacksquare$
+By **Definition 6.2.6 (Totalization Problem)**, $8\times50\times4=1600$ (kilograms).
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -70,7 +80,9 @@ By **Definition 6.2.6 (Totalization Problem)**, $8\times50\times4=1600$ (kilogra
 
 ### Solution to Exercise 6
 
-By **Definition 6.2.6 (Totalization Problem)**, per day $3\times2=6$ (tablets), $150\div6=25$ (days). $\blacksquare$
+By **Definition 6.2.6 (Totalization Problem)**, per day $3\times2=6$ (tablets), $150\div6=25$ (days).
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -78,7 +90,9 @@ By **Definition 6.2.6 (Totalization Problem)**, per day $3\times2=6$ (tablets), 
 
 ### Solution to Exercise 7
 
-By **Definition 6.2.6 (Totalization Problem)**, $756\div3\div4=63$ (books). $\blacksquare$
+By **Definition 6.2.6 (Totalization Problem)**, $756\div3\div4=63$ (books).
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -86,7 +100,9 @@ By **Definition 6.2.6 (Totalization Problem)**, $756\div3\div4=63$ (books). $\bl
 
 ### Solution to Exercise 8
 
-One round trip is $2$ one-way lengths; $4$ round trips are $4\times2=8$ one-way lengths; $25\times8=200$ (meters). $\blacksquare$
+One round trip is $2$ one-way lengths; $4$ round trips are $4\times2=8$ one-way lengths; $25\times8=200$ (meters).
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -94,7 +110,9 @@ One round trip is $2$ one-way lengths; $4$ round trips are $4\times2=8$ one-way 
 
 ### Solution to Exercise 9
 
-By **Definition 6.2.6 (Totalization Problem)**, divide the total shown in the diagram equally by the number of parts, or find how many per-part amounts are contained in the total; make up a division (or two-step multiply/divide) problem and write the expression. $\blacksquare$
+By **Definition 6.2.6 (Totalization Problem)**, divide the total shown in the diagram equally by the number of parts, or find how many per-part amounts are contained in the total; make up a division (or two-step multiply/divide) problem and write the expression.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -102,7 +120,9 @@ By **Definition 6.2.6 (Totalization Problem)**, divide the total shown in the di
 
 ### Solution to Exercise 10
 
-(1) $96\div3\div8=4$ (cartons). (2) For example, "$9$ yuan per box, how much are these dolls worth in total", $96\div3\times9=288$ yuan; answers may vary. $\blacksquare$
+(1) $96\div3\div8=4$ (cartons). (2) For example, "$9$ yuan per box, how much are these dolls worth in total", $96\div3\times9=288$ yuan; answers may vary.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -110,7 +130,9 @@ By **Definition 6.2.6 (Totalization Problem)**, divide the total shown in the di
 
 ### Solution to Exercise 11
 
-(1) $72\div2\div4=9$ (specimens). (2) In $7$ days he can collect $9\times4\times7=252$ (specimens), $252>224$, so he can finish. $\blacksquare$
+(1) $72\div2\div4=9$ (specimens). (2) In $7$ days he can collect $9\times4\times7=252$ (specimens), $252>224$, so he can finish.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -118,7 +140,9 @@ By **Definition 6.2.6 (Totalization Problem)**, divide the total shown in the di
 
 ### Solution to Exercise 12
 
-By **Definition 6.2.6 (unit rate)**, each truck carries $25\div5=5$ (tons). (1) $5\times9=45$ (tons); (2) $120\div5=24$ (trucks). $\blacksquare$
+By **Definition 6.2.6 (unit rate)**, each truck carries $25\div5=5$ (tons). (1) $5\times9=45$ (tons); (2) $120\div5=24$ (trucks).
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -126,7 +150,9 @@ By **Definition 6.2.6 (unit rate)**, each truck carries $25\div5=5$ (tons). (1) 
 
 ### Solution to Exercise 13
 
-By **Definition 6.2.6 (total amount)**, there are $3\times15=45$ (computers) in total, $45\div5=9$ (classes). $\blacksquare$
+By **Definition 6.2.6 (total amount)**, there are $3\times15=45$ (computers) in total, $45\div5=9$ (classes).
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -134,7 +160,9 @@ By **Definition 6.2.6 (total amount)**, there are $3\times15=45$ (computers) in 
 
 ### Solution to Exercise 14
 
-By **Definition 6.2.6 (unit rate)**, each box makes $48\div4=12$ (kg), $12\times9=108$ (kg). $\blacksquare$
+By **Definition 6.2.6 (unit rate)**, each box makes $48\div4=12$ (kg), $12\times9=108$ (kg).
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -142,7 +170,9 @@ By **Definition 6.2.6 (unit rate)**, each box makes $48\div4=12$ (kg), $12\times
 
 ### Solution to Exercise 15
 
-Per hour it crawls $8\div2=4$ (meters), $4\times5=20$ (meters). $\blacksquare$
+Per hour it crawls $8\div2=4$ (meters), $4\times5=20$ (meters).
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -150,7 +180,9 @@ Per hour it crawls $8\div2=4$ (meters), $4\times5=20$ (meters). $\blacksquare$
 
 ### Solution to Exercise 16
 
-By **Definition 6.2.6 (total amount)**, there are $15\times4=60$ (pages) in total. (1) $60\div6=10$ (days); (2) $60\div3=20$ (pages). $\blacksquare$
+By **Definition 6.2.6 (total amount)**, there are $15\times4=60$ (pages) in total. (1) $60\div6=10$ (days); (2) $60\div3=20$ (pages).
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -158,7 +190,9 @@ By **Definition 6.2.6 (total amount)**, there are $15\times4=60$ (pages) in tota
 
 ### Solution to Exercise 17
 
-$300\div20\times5=75$ (kilograms), or $5\div20\times300=75$ kilograms. $\blacksquare$
+$300\div20\times5=75$ (kilograms), or $5\div20\times300=75$ kilograms.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -166,7 +200,9 @@ $300\div20\times5=75$ (kilograms), or $5\div20\times300=75$ kilograms. $\blacksq
 
 ### Solution to Exercise 18
 
-First find the total number of sticks (sticks per figure $\times8$), then divide by the sticks needed for the other figure; the quotient is the number that can be made. $\blacksquare$
+First find the total number of sticks (sticks per figure $\times8$), then divide by the sticks needed for the other figure; the quotient is the number that can be made.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -174,7 +210,9 @@ First find the total number of sticks (sticks per figure $\times8$), then divide
 
 ### Solution to Exercise 19
 
-(1) Unit price $45\div5=9$ (yuan); $11$ for $99$ yuan, $12$ for $108$ yuan; total $54$ yuan corresponds to $6$, total $72$ yuan corresponds to $8$. (2) Distance $84\times4=336$ (kilometers); times $5,6,7$ correspond to speeds $336\div5\approx67$, $336\div6=56$, $336\div7=48$; time $6$ corresponds to speed $56$. $\blacksquare$
+(1) Unit price $45\div5=9$ (yuan); $11$ for $99$ yuan, $12$ for $108$ yuan; total $54$ yuan corresponds to $6$, total $72$ yuan corresponds to $8$. (2) Distance $84\times4=336$ (kilometers); times $5,6,7$ correspond to speeds $336\div5\approx67$, $336\div6=56$, $336\div7=48$; time $6$ corresponds to speed $56$.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -182,7 +220,9 @@ First find the total number of sticks (sticks per figure $\times8$), then divide
 
 ### Solution to Exercise 20
 
-(1) Each is $24\div4=6$ (yuan); $3$ cost $6\times3=18$ (yuan). (2) $24\div4\times2$ means how much $2$ shuttlecocks cost. (3) Answers may vary. $\blacksquare$
+(1) Each is $24\div4=6$ (yuan); $3$ cost $6\times3=18$ (yuan). (2) $24\div4\times2$ means how much $2$ shuttlecocks cost. (3) Answers may vary.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -190,7 +230,9 @@ First find the total number of sticks (sticks per figure $\times8$), then divide
 
 ### Solution to Exercise 21
 
-By **Definition 6.2.6 (Totalization Problem)**, find each part from a known total and number of parts (unit rate), or find the total from a per-part amount and number of parts and then re-divide it (total amount); make up a problem and write the expression. $\blacksquare$
+By **Definition 6.2.6 (Totalization Problem)**, find each part from a known total and number of parts (unit rate), or find the total from a per-part amount and number of parts and then re-divide it (total amount); make up a problem and write the expression.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -198,4 +240,6 @@ By **Definition 6.2.6 (Totalization Problem)**, find each part from a known tota
 
 ### Solution to Exercise 22
 
-By **Definition 6.2.6 (Totalization Problem)**: (1) $4\times2\times2=16$ (eggs); (2) $16\div2\div2=4$ (eggs); (3) $16\div2=8$ (eggs per box), $96\div8=12$ (boxes); (4) total $6\times40=240$ (eggs), $240\div8=30$ (boxes). $\blacksquare$
+By **Definition 6.2.6 (Totalization Problem)**: (1) $4\times2\times2=16$ (eggs); (2) $16\div2\div2=4$ (eggs); (3) $16\div2=8$ (eggs per box), $96\div8=12$ (boxes); (4) total $6\times40=240$ (eggs), $240\div8=30$ (boxes).
+
+$\blacksquare$

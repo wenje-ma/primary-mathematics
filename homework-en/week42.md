@@ -30,7 +30,9 @@
 
 ### Solution to Exercise 1
 
-From the outline, draw several frames on a few sheets, each frame with a caption; the frames must show the math information (e.g. equal sharing, multiples, time); tell it to classmates, and revise per feedback to make the story more complete and the math problem clearer. $\blacksquare$
+From the outline, draw several frames on a few sheets, each frame with a caption; the frames must show the math information (e.g. equal sharing, multiples, time); tell it to classmates, and revise per feedback to make the story more complete and the math problem clearer.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -38,7 +40,9 @@ From the outline, draw several frames on a few sheets, each frame with a caption
 
 ### Solution to Exercise 2
 
-May evaluate: can choose a suitable topic, can create in an organized way, can pair picture and text, can express the math problem correctly, can tell the story clearly and fluently, can take an active part. Some content is clearer as a picture, and explaining the multiply/divide relations in the story makes it better. $\blacksquare$
+May evaluate: can choose a suitable topic, can create in an organized way, can pair picture and text, can express the math problem correctly, can tell the story clearly and fluently, can take an active part. Some content is clearer as a picture, and explaining the multiply/divide relations in the story makes it better.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -46,7 +50,9 @@ May evaluate: can choose a suitable topic, can create in an organized way, can p
 
 ### Solution to Exercise 3
 
-(1) Largest $8630\approx9000$, smallest $3068\approx3000$. (2) Not reading zero, e.g. $3680$ (trailing $0$ is not read); reading one zero, e.g. $3068$ (the middle $0$ reads as one zero). (4) From the dialogue: $3680$ guessed too low, $8360$ too high, $6830$ a little high, so the price is $6380$ yuan. $\blacksquare$
+(1) Largest $8630\approx9000$, smallest $3068\approx3000$. (2) Not reading zero, e.g. $3680$ (trailing $0$ is not read); reading one zero, e.g. $3068$ (the middle $0$ reads as one zero). (4) From the dialogue: $3680$ guessed too low, $8360$ too high, $6830$ a little high, so the price is $6380$ yuan.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -54,7 +60,9 @@ May evaluate: can choose a suitable topic, can create in an organized way, can p
 
 ### Solution to Exercise 4
 
-(1) $998\approx1000$, $1020\approx1000$, $985\approx1000$, about $3000$ people in three days. (2) E.g. how many in all (add), and which day had how many more (subtract). (3) $7\div$ number of people $=\cdots\cdots3$, the number of people divides $7-3=4$, shared equally with no remainder, $7\div4=1\cdots\cdots3$, a family of $4$. (5) Total time $2\times3=6$ hours, so the children's park took $6-2=4$ hours. $\blacksquare$
+(1) $998\approx1000$, $1020\approx1000$, $985\approx1000$, about $3000$ people in three days. (2) E.g. how many in all (add), and which day had how many more (subtract). (3) $7\div$ number of people $=\cdots\cdots3$, the number of people divides $7-3=4$, shared equally with no remainder, $7\div4=1\cdots\cdots3$, a family of $4$. (5) Total time $2\times3=6$ hours, so the children's park took $6-2=4$ hours.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -62,7 +70,9 @@ May evaluate: can choose a suitable topic, can create in an organized way, can p
 
 ### Solution to Exercise 5
 
-$33\div8=4\cdots\cdots1$; $64\div9=7\cdots\cdots1$; $45\div7=6\cdots\cdots3$; $34\div5=6\cdots\cdots4$; $28\div3=9\cdots\cdots1$; $52\div6=8\cdots\cdots4$. $\blacksquare$
+$33\div8=4\cdots\cdots1$; $64\div9=7\cdots\cdots1$; $45\div7=6\cdots\cdots3$; $34\div5=6\cdots\cdots4$; $28\div3=9\cdots\cdots1$; $52\div6=8\cdots\cdots4$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -70,7 +80,9 @@ $33\div8=4\cdots\cdots1$; $64\div9=7\cdots\cdots1$; $45\div7=6\cdots\cdots3$; $3
 
 ### Solution to Exercise 6
 
-(1) $2506$, read two thousand five hundred six. (2) $1000+500+100+5=1605$ yuan. (3) $4320$, read four thousand three hundred twenty. $\blacksquare$
+(1) $2506$, read two thousand five hundred six. (2) $1000+500+100+5=1605$ yuan. (3) $4320$, read four thousand three hundred twenty.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -78,7 +90,9 @@ $33\div8=4\cdots\cdots1$; $64\div9=7\cdots\cdots1$; $45\div7=6\cdots\cdots3$; $3
 
 ### Solution to Exercise 7
 
-(1) $2700$, $460$, $6005$, $406$, $5000$, $9999$, $3089$, $2806$, $10000$. (2) After $5999$ come $6000,6001,6002,6003,6004$. $\blacksquare$
+(1) $2700$, $460$, $6005$, $406$, $5000$, $9999$, $3089$, $2806$, $10000$. (2) After $5999$ come $6000,6001,6002,6003,6004$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -86,7 +100,9 @@ $33\div8=4\cdots\cdots1$; $64\div9=7\cdots\cdots1$; $45\div7=6\cdots\cdots3$; $3
 
 ### Solution to Exercise 8
 
-By **Definition 4.7.3 (加,减法关系的整理)**: sum $=294+403=697$; the second addend $=780-359=421$; the third addend $=527-471=56$. minuend $-$ subtrahend $=$ difference: subtrahend $=860-369=491$; difference $=602-578=24$; minuend $=471+169=640$. $\blacksquare$
+By **Definition 4.7.3 (加,减法关系的整理)**: sum $=294+403=697$; the second addend $=780-359=421$; the third addend $=527-471=56$. minuend $-$ subtrahend $=$ difference: subtrahend $=860-369=491$; difference $=602-578=24$; minuend $=471+169=640$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -94,7 +110,9 @@ By **Definition 4.7.3 (加,减法关系的整理)**: sum $=294+403=697$; the sec
 
 ### Solution to Exercise 9
 
-$2:50-2:05=45$ minutes. It ran $45$ minutes. $\blacksquare$
+$2:50-2:05=45$ minutes. It ran $45$ minutes.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -102,7 +120,9 @@ $2:50-2:05=45$ minutes. It ran $45$ minutes. $\blacksquare$
 
 ### Solution to Exercise 10
 
-(1) $16\div4=4$, the pencil case is $4$ times the ruler. (2) $4\times9=36$ yuan. (3) $16\div2=8$ yuan. (4) The answer is not unique. $\blacksquare$
+(1) $16\div4=4$, the pencil case is $4$ times the ruler. (2) $4\times9=36$ yuan. (3) $16\div2=8$ yuan. (4) The answer is not unique.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -110,7 +130,9 @@ $2:50-2:05=45$ minutes. It ran $45$ minutes. $\blacksquare$
 
 ### Solution to Exercise 11
 
-(1) Divide the total apples by the number per box; the quotient is the number of filled boxes. (2) If some apples are left over, $1$ more box is needed, so boxes needed are the quotient $+1$. Compute per the apples and per-box count in the picture. $\blacksquare$
+(1) Divide the total apples by the number per box; the quotient is the number of filled boxes. (2) If some apples are left over, $1$ more box is needed, so boxes needed are the quotient $+1$. Compute per the apples and per-box count in the picture.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -118,7 +140,9 @@ $2:50-2:05=45$ minutes. It ran $45$ minutes. $\blacksquare$
 
 ### Solution to Exercise 12
 
-Divide the total apples by the number per box; the remainder is how many to take away, after which the apples pack exactly with no remainder. Find the remainder from the count in the picture. $\blacksquare$
+Divide the total apples by the number per box; the remainder is how many to take away, after which the apples pack exactly with no remainder. Find the remainder from the count in the picture.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -126,7 +150,9 @@ Divide the total apples by the number per box; the remainder is how many to take
 
 ### Solution to Exercise 13
 
-From the gaps between $0,1000,5000$ on the line, each big division stands for $1000$; fill each $\square$ in order. (2) $5$ jumps reach $5000$, and to reach $10000$ need $5$ more jumps. (3) $10$ jumps reach $1000$, so each jump is $100$. $\blacksquare$
+From the gaps between $0,1000,5000$ on the line, each big division stands for $1000$; fill each $\square$ in order. (2) $5$ jumps reach $5000$, and to reach $10000$ need $5$ more jumps. (3) $10$ jumps reach $1000$, so each jump is $100$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -134,7 +160,9 @@ From the gaps between $0,1000,5000$ on the line, each big division stands for $1
 
 ### Solution to Exercise 14
 
-$14$ chopsticks make $14\div2=7$ pairs, and there are $8$ bowls. Limited by the chopsticks, they can only serve $7$ guests. $\blacksquare$
+$14$ chopsticks make $14\div2=7$ pairs, and there are $8$ bowls. Limited by the chopsticks, they can only serve $7$ guests.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -142,7 +170,9 @@ $14$ chopsticks make $14\div2=7$ pairs, and there are $8$ bowls. Limited by the 
 
 ### Solution to Exercise 15
 
-(1) Try adding: $324+699=1023$ is closest to $1000$. (2) $989-324=665$, $699-78=621$ closest to $600$, so choose $699$ and $78$. $\blacksquare$
+(1) Try adding: $324+699=1023$ is closest to $1000$. (2) $989-324=665$, $699-78=621$ closest to $600$, so choose $699$ and $78$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -150,7 +180,9 @@ $14$ chopsticks make $14\div2=7$ pairs, and there are $8$ bowls. Limited by the 
 
 ### Solution to Exercise 16
 
-Record how many times the pointer lands on each of $1,10,100,1000$, then multiply each by its count and add. $\blacksquare$
+Record how many times the pointer lands on each of $1,10,100,1000$, then multiply each by its count and add.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -158,7 +190,9 @@ Record how many times the pointer lands on each of $1,10,100,1000$, then multipl
 
 ### Solution to Exercise 17
 
-(1) $600-405\approx600-400=200$ meters, about $200$ meters taller. (2) E.g. the Oriental Pearl is $468-405=63$ meters taller than the CCTV Tower. The answer is not unique. $\blacksquare$
+(1) $600-405\approx600-400=200$ meters, about $200$ meters taller. (2) E.g. the Oriental Pearl is $468-405=63$ meters taller than the CCTV Tower. The answer is not unique.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -166,4 +200,6 @@ Record how many times the pointer lands on each of $1,10,100,1000$, then multipl
 
 ### Solution to Exercise 18
 
-(1) Multiply each person's hits in $1,10,100,1000$ regions by the counts, add, and compare. (2) Xiaodong's current score plus the last throw must exceed the higher of the two; work out the minimum extra points needed. $\blacksquare$
+(1) Multiply each person's hits in $1,10,100,1000$ regions by the counts, add, and compare. (2) Xiaodong's current score plus the last throw must exceed the higher of the two; work out the minimum extra points needed.
+
+$\blacksquare$

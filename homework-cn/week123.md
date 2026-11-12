@@ -22,7 +22,9 @@
 
 ### 解答 练习一
 
-由**定义 11.2.2 (一个数乘分数)**: $15\times\frac{3}{5}=9$ (种). $\blacksquare$
+由**定义 11.2.2 (一个数乘分数)**: $15\times\frac{3}{5}=9$ (种).
+
+$\blacksquare$
 
 ## 练习二
 
@@ -30,7 +32,9 @@
 
 ### 解答 练习二
 
-由**定义 11.2.2 (一个数乘分数)**: $26\times\frac{7}{13}=14$ (千米/秒). $\blacksquare$
+由**定义 11.2.2 (一个数乘分数)**: $26\times\frac{7}{13}=14$ (千米/秒).
+
+$\blacksquare$
 
 ## 练习三
 
@@ -38,7 +42,9 @@
 
 ### 解答 练习三
 
-由**定义 11.2.2 (一个数乘分数)**: $365\times\frac{58}{73}=5\times58=290$ (天). $\blacksquare$
+由**定义 11.2.2 (一个数乘分数)**: $365\times\frac{58}{73}=5\times58=290$ (天).
+
+$\blacksquare$
 
 ## 练习四
 
@@ -46,7 +52,9 @@
 
 ### 解答 练习四
 
-由**定义 11.2.2 (一个数乘分数)**: (1) $80\times\frac{4}{5}=64\;\text{kg}$; (2) $12403\times\frac{2}{5}=4961.2$ (万吨). $\blacksquare$
+由**定义 11.2.2 (一个数乘分数)**: (1) $80\times\frac{4}{5}=64\;\text{kg}$; (2) $12403\times\frac{2}{5}=4961.2$ (万吨).
+
+$\blacksquare$
 
 ## 练习五
 
@@ -54,7 +62,9 @@
 
 ### 解答 练习五
 
-由**定义 11.2.2 (一个数乘分数)**: 负重上限 $40\times\frac{3}{20}=6\;\text{kg}$. 书包 $5\;\text{kg}<6\;\text{kg}$, 不超重. (2) 按自己体重乘 $\frac{3}{20}$ 计算. $\blacksquare$
+由**定义 11.2.2 (一个数乘分数)**: 负重上限 $40\times\frac{3}{20}=6\;\text{kg}$. 书包 $5\;\text{kg}<6\;\text{kg}$, 不超重. (2) 按自己体重乘 $\frac{3}{20}$ 计算.
+
+$\blacksquare$
 
 ## 练习六
 
@@ -62,7 +72,9 @@
 
 ### 解答 练习六
 
-试算: $1\frac{4}{5}\times\frac{3}{7}=\frac{9}{5}\times\frac{3}{7}=\frac{27}{35}$ 不是带分数. 调整为 $4\frac{1}{5}\times\frac{3}{7}=\frac{21}{5}\times\frac{3}{7}=\frac{9}{5}=1\frac{4}{5}$. 即 $4\frac{1}{5}\times\frac{3}{7}=1\frac{4}{5}$. $\blacksquare$
+试算: $1\frac{4}{5}\times\frac{3}{7}=\frac{9}{5}\times\frac{3}{7}=\frac{27}{35}$ 不是带分数. 调整为 $4\frac{1}{5}\times\frac{3}{7}=\frac{21}{5}\times\frac{3}{7}=\frac{9}{5}=1\frac{4}{5}$. 即 $4\frac{1}{5}\times\frac{3}{7}=1\frac{4}{5}$.
+
+$\blacksquare$
 
 ## 练习七
 
@@ -70,7 +82,9 @@
 
 ### 解答 练习七
 
-由**定义 11.2.2 (一个数乘分数)**: (1) $2.1\times\frac{3}{4}=\frac{21}{10}\times\frac{3}{4}=\frac{63}{40}=1.575\;\text{dm}$; (2) $2.4\times\frac{3}{4}=1.8\;\text{dm}$ (先约分再乘). $\blacksquare$
+由**定义 11.2.2 (一个数乘分数)**: (1) $2.1\times\frac{3}{4}=\frac{21}{10}\times\frac{3}{4}=\frac{63}{40}=1.575\;\text{dm}$; (2) $2.4\times\frac{3}{4}=1.8\;\text{dm}$ (先约分再乘).
+
+$\blacksquare$
 
 ## 练习八
 
@@ -78,7 +92,9 @@
 
 ### 解答 练习八
 
-$1.2\times\frac{3}{5}=0.72$; $2.5\times\frac{3}{5}=1.5$; $1.4\times\frac{5}{6}=\frac{7}{6}\approx1.17$; $2.4\times\frac{5}{6}=2$. $\blacksquare$
+$1.2\times\frac{3}{5}=0.72$; $2.5\times\frac{3}{5}=1.5$; $1.4\times\frac{5}{6}=\frac{7}{6}\approx1.17$; $2.4\times\frac{5}{6}=2$.
+
+$\blacksquare$
 
 ## 练习九
 
@@ -86,7 +102,9 @@ $1.2\times\frac{3}{5}=0.72$; $2.5\times\frac{3}{5}=1.5$; $1.4\times\frac{5}{6}=\
 
 ### 解答 练习九
 
-由**定义 11.2.2 (一个数乘分数)**: $0.8\times\frac{3}{4}=0.6$ (千米); $0.8\times5=4$ (千米). $\blacksquare$
+由**定义 11.2.2 (一个数乘分数)**: $0.8\times\frac{3}{4}=0.6$ (千米); $0.8\times5=4$ (千米).
+
+$\blacksquare$
 
 ## 练习十
 
@@ -94,7 +112,9 @@ $1.2\times\frac{3}{5}=0.72$; $2.5\times\frac{3}{5}=1.5$; $1.4\times\frac{5}{6}=\
 
 ### 解答 练习十
 
-由**定义 11.2.2 (一个数乘分数)**: $8.1\times\frac{8}{9}=7.2$ (万元). $\blacksquare$
+由**定义 11.2.2 (一个数乘分数)**: $8.1\times\frac{8}{9}=7.2$ (万元).
+
+$\blacksquare$
 
 ## 练习十一
 
@@ -102,7 +122,9 @@ $1.2\times\frac{3}{5}=0.72$; $2.5\times\frac{3}{5}=1.5$; $1.4\times\frac{5}{6}=\
 
 ### 解答 练习十一
 
-由**定义 11.2.2 (一个数乘分数)**: $2.5\times\frac{4}{5}=2\;\text{kg}$. $\blacksquare$
+由**定义 11.2.2 (一个数乘分数)**: $2.5\times\frac{4}{5}=2\;\text{kg}$.
+
+$\blacksquare$
 
 ## 练习十二
 
@@ -110,7 +132,9 @@ $1.2\times\frac{3}{5}=0.72$; $2.5\times\frac{3}{5}=1.5$; $1.4\times\frac{5}{6}=\
 
 ### 解答 练习十二
 
-由**定义 11.2.3 (分数混合运算与运算律)**: $\left(\frac{4}{5}+\frac{1}{2}\right)\times2=\frac{13}{10}\times2=\frac{13}{5}$; $\frac{4}{5}\times2+\frac{1}{2}\times2=\frac{8}{5}+1=\frac{13}{5}$. 两式相等, 正是乘法分配律. $\blacksquare$
+由**定义 11.2.3 (分数混合运算与运算律)**: $\left(\frac{4}{5}+\frac{1}{2}\right)\times2=\frac{13}{10}\times2=\frac{13}{5}$; $\frac{4}{5}\times2+\frac{1}{2}\times2=\frac{8}{5}+1=\frac{13}{5}$. 两式相等, 正是乘法分配律.
+
+$\blacksquare$
 
 ## 练习十三
 
@@ -118,7 +142,9 @@ $1.2\times\frac{3}{5}=0.72$; $2.5\times\frac{3}{5}=1.5$; $1.4\times\frac{5}{6}=\
 
 ### 解答 练习十三
 
-由**定义 11.2.3 (分数混合运算与运算律)**: $\frac{3}{5}\times\left(\frac{1}{6}\times5\right)=\frac{3}{5}\times\left(5\times\frac{1}{6}\right)=3\times\frac{1}{6}=\frac{1}{2}$ (交换律); $\left(\frac{5}{6}+\frac{1}{4}\right)\times12=\frac{5}{6}\times12+\frac{1}{4}\times12=10+3=13$ (分配律); 连乘先约分得 $24$. $\blacksquare$
+由**定义 11.2.3 (分数混合运算与运算律)**: $\frac{3}{5}\times\left(\frac{1}{6}\times5\right)=\frac{3}{5}\times\left(5\times\frac{1}{6}\right)=3\times\frac{1}{6}=\frac{1}{2}$ (交换律); $\left(\frac{5}{6}+\frac{1}{4}\right)\times12=\frac{5}{6}\times12+\frac{1}{4}\times12=10+3=13$ (分配律); 连乘先约分得 $24$.
+
+$\blacksquare$
 
 ## 练习十四
 
@@ -126,4 +152,6 @@ $1.2\times\frac{3}{5}=0.72$; $2.5\times\frac{3}{5}=1.5$; $1.4\times\frac{5}{6}=\
 
 ### 解答 练习十四
 
-由**定义 11.2.3 (分数混合运算与运算律)**: $\frac{2}{3}\times3\times\frac{1}{7}=\frac{2}{7}$ (交换律); $\frac{8}{9}\times27+\frac{4}{27}\times27=24+4=28$ (分配律); $87\times\frac{3}{86}=\left(86+1\right)\times\frac{3}{86}=3+\frac{3}{86}=3\frac{3}{86}$ (分配律). $\blacksquare$
+由**定义 11.2.3 (分数混合运算与运算律)**: $\frac{2}{3}\times3\times\frac{1}{7}=\frac{2}{7}$ (交换律); $\frac{8}{9}\times27+\frac{4}{27}\times27=24+4=28$ (分配律); $87\times\frac{3}{86}=\left(86+1\right)\times\frac{3}{86}=3+\frac{3}{86}=3\frac{3}{86}$ (分配律).
+
+$\blacksquare$

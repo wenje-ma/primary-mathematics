@@ -42,7 +42,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 3.1.1 (Classification)** and **Definition 3.1.2 (Representing Classification Results)**, classify by shape, count the number of balloons of each shape (for example $3$, $4$, $5$), and represent them by drawing or filling in a table; the kind with the largest count is the most, and the kind with the smallest count is the fewest. Classifying by color works the same way: first count the number of each color and then represent them. $\blacksquare$
+By **Definition 3.1.1 (Classification)** and **Definition 3.1.2 (Representing Classification Results)**, classify by shape, count the number of balloons of each shape (for example $3$, $4$, $5$), and represent them by drawing or filling in a table; the kind with the largest count is the most, and the kind with the smallest count is the fewest. Classifying by color works the same way: first count the number of each color and then represent them.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -50,7 +52,9 @@ By **Definition 3.1.1 (Classification)** and **Definition 3.1.2 (Representing Cl
 
 ### Solution to Exercise 2
 
-By **Definition 3.1.1 (Classification)**, in daily life sorting the schoolbag, sorting the wardrobe, arranging books in the book corner, and arranging goods on supermarket shelves all require classification and organization. After sorting, items are easier to find and it is easier to count the number of items in each category. $\blacksquare$
+By **Definition 3.1.1 (Classification)**, in daily life sorting the schoolbag, sorting the wardrobe, arranging books in the book corner, and arranging goods on supermarket shelves all require classification and organization. After sorting, items are easier to find and it is easier to count the number of items in each category.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -58,7 +62,9 @@ By **Definition 3.1.1 (Classification)**, in daily life sorting the schoolbag, s
 
 ### Solution to Exercise 3
 
-By **Definition 3.1.1 (Classification)** and **Definition 3.1.2 (Representing Classification Results)**, first group the objects by shape, then color in cells one by one in the bar chart according to the number of objects in each group, and finally fill the count of each category into the table. $\blacksquare$
+By **Definition 3.1.1 (Classification)** and **Definition 3.1.2 (Representing Classification Results)**, first group the objects by shape, then color in cells one by one in the bar chart according to the number of objects in each group, and finally fill the count of each category into the table.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -66,7 +72,9 @@ By **Definition 3.1.1 (Classification)** and **Definition 3.1.2 (Representing Cl
 
 ### Solution to Exercise 4
 
-By **Definition 3.1.1 (Classification)** and **Definition 3.1.2 (Representing Classification Results)**, by vegetable kind count and represent the number of pieces of each vegetable (for example $\left(\;\;\right)$ pieces, $\left(\;\;\right)$ pieces, $\left(\;\;\right)$ pieces, $\left(\;\;\right)$ pieces); compare the counts, the vegetable with the most pieces is the most, and the one with the fewest pieces is the fewest. $\blacksquare$
+By **Definition 3.1.1 (Classification)** and **Definition 3.1.2 (Representing Classification Results)**, by vegetable kind count and represent the number of pieces of each vegetable (for example $\left(\;\;\right)$ pieces, $\left(\;\;\right)$ pieces, $\left(\;\;\right)$ pieces, $\left(\;\;\right)$ pieces); compare the counts, the vegetable with the most pieces is the most, and the one with the fewest pieces is the fewest.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -74,7 +82,9 @@ By **Definition 3.1.1 (Classification)** and **Definition 3.1.2 (Representing Cl
 
 ### Solution to Exercise 5
 
-By **Definition 3.1.3 (Different Criteria, Different Results)**, grouping by adults and children gives two groups, and grouping by gender gives male and female groups; you can also group by whether people wear glasses, or by clothing color, and so on. By comparison: with different criteria the groups may differ, but the numbers in all groups add up to the total number of people, so the total does not change. $\blacksquare$
+By **Definition 3.1.3 (Different Criteria, Different Results)**, grouping by adults and children gives two groups, and grouping by gender gives male and female groups; you can also group by whether people wear glasses, or by clothing color, and so on. By comparison: with different criteria the groups may differ, but the numbers in all groups add up to the total number of people, so the total does not change.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -82,7 +92,9 @@ By **Definition 3.1.3 (Different Criteria, Different Results)**, grouping by adu
 
 ### Solution to Exercise 6
 
-By **Definition 3.1.1 (Classification)** and **Definition 3.1.2 (Representing Classification Results)**, choose your own criterion (for example tops and bottoms, or dark colors and light colors) to divide the clothes into two categories, count the number in each category, and fill in the "Category, Count" table. $\blacksquare$
+By **Definition 3.1.1 (Classification)** and **Definition 3.1.2 (Representing Classification Results)**, choose your own criterion (for example tops and bottoms, or dark colors and light colors) to divide the clothes into two categories, count the number in each category, and fill in the "Category, Count" table.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -90,7 +102,9 @@ By **Definition 3.1.1 (Classification)** and **Definition 3.1.2 (Representing Cl
 
 ### Solution to Exercise 7
 
-By **Definition 3.1.1 (Classification)** and **Definition 3.1.3 (Different Criteria, Different Results)**, you can divide by animals that run on land and those that swim in water, or by whether they have wings; count the number in each category and fill in the table. Then based on the results raise a mathematical question such as "Which category has more animals? How many more?" $\blacksquare$
+By **Definition 3.1.1 (Classification)** and **Definition 3.1.3 (Different Criteria, Different Results)**, you can divide by animals that run on land and those that swim in water, or by whether they have wings; count the number in each category and fill in the table. Then based on the results raise a mathematical question such as "Which category has more animals? How many more?"
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -98,7 +112,9 @@ By **Definition 3.1.1 (Classification)** and **Definition 3.1.3 (Different Crite
 
 ### Solution to Exercise 8
 
-By **Definition 3.1.1 (Classification)** and **Definition 3.1.4 (Layer-by-Layer Classification)**, first classify by shape, then further by color, and you can further classify by the number of buttonholes; regardless of the order of layer-by-layer division, they are finally divided into $8$ categories. To find $2$ identical buttons, take them from the same subcategory; however many subcategories have "the same shape and the same color", that is how many choices there are. $\blacksquare$
+By **Definition 3.1.1 (Classification)** and **Definition 3.1.4 (Layer-by-Layer Classification)**, first classify by shape, then further by color, and you can further classify by the number of buttonholes; regardless of the order of layer-by-layer division, they are finally divided into $8$ categories. To find $2$ identical buttons, take them from the same subcategory; however many subcategories have "the same shape and the same color", that is how many choices there are.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -106,7 +122,9 @@ By **Definition 3.1.1 (Classification)** and **Definition 3.1.4 (Layer-by-Layer 
 
 ### Solution to Exercise 9
 
-By **Definition 3.1.1 (Classification)** and **Definition 3.1.4 (Layer-by-Layer Classification)**, first divide the cards by shape into rectangles, triangles, circles, and so on, and fill the count of each shape into the "Shape, Number" table; then further divide within each category by color or size until they cannot be divided further. $\blacksquare$
+By **Definition 3.1.1 (Classification)** and **Definition 3.1.4 (Layer-by-Layer Classification)**, first divide the cards by shape into rectangles, triangles, circles, and so on, and fill the count of each shape into the "Shape, Number" table; then further divide within each category by color or size until they cannot be divided further.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -114,7 +132,9 @@ By **Definition 3.1.1 (Classification)** and **Definition 3.1.4 (Layer-by-Layer 
 
 ### Solution to Exercise 10
 
-By **Definition 3.1.1 (Classification)**, circle all the means of transport in the picture that belong to the category "vehicles", then count the number circled and fill it in; there are $\_\_$ vehicles in total. $\blacksquare$
+By **Definition 3.1.1 (Classification)**, circle all the means of transport in the picture that belong to the category "vehicles", then count the number circled and fill it in; there are $\_\_$ vehicles in total.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -122,7 +142,9 @@ By **Definition 3.1.1 (Classification)**, circle all the means of transport in t
 
 ### Solution to Exercise 11
 
-By **Definition 3.1.1 (Classification)** and **Definition 3.1.2 (Representing Classification Results)**, you can put books by subject, put stationery in the pencil case, and put miscellaneous items in the inner pocket; after sorting, the schoolbag is neater and easier to take things out and put away. There is more than one way; any reasonable method is fine. $\blacksquare$
+By **Definition 3.1.1 (Classification)** and **Definition 3.1.2 (Representing Classification Results)**, you can put books by subject, put stationery in the pencil case, and put miscellaneous items in the inner pocket; after sorting, the schoolbag is neater and easier to take things out and put away. There is more than one way; any reasonable method is fine.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -130,7 +152,9 @@ By **Definition 3.1.1 (Classification)** and **Definition 3.1.2 (Representing Cl
 
 ### Solution to Exercise 12
 
-By **Definition 3.1.2 (Representing Classification Results)**, count the number of corresponding $\square$ for turtle, monkey, cat, dog, and giant panda respectively, and fill in the "Favorite Animal, Number of People" table. Comparing the counts, the animal with the largest count is the most popular; then based on this raise a question such as "How many students like cats and dogs in total?" $\blacksquare$
+By **Definition 3.1.2 (Representing Classification Results)**, count the number of corresponding $\square$ for turtle, monkey, cat, dog, and giant panda respectively, and fill in the "Favorite Animal, Number of People" table. Comparing the counts, the animal with the largest count is the most popular; then based on this raise a question such as "How many students like cats and dogs in total?"
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -138,7 +162,9 @@ By **Definition 3.1.2 (Representing Classification Results)**, count the number 
 
 ### Solution to Exercise 13
 
-By **Definition 3.1.1 (Classification)** and **Definition 3.1.3 (Different Criteria, Different Results)**, divide the signs by shape into rectangles, triangles, and circles, count them and fill in the table; you can also divide by their meaning, such as prohibitory, warning, and indication signs. Then raise a mathematical question such as "Which shape of sign is the most?" $\blacksquare$
+By **Definition 3.1.1 (Classification)** and **Definition 3.1.3 (Different Criteria, Different Results)**, divide the signs by shape into rectangles, triangles, and circles, count them and fill in the table; you can also divide by their meaning, such as prohibitory, warning, and indication signs. Then raise a mathematical question such as "Which shape of sign is the most?"
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -146,7 +172,9 @@ By **Definition 3.1.1 (Classification)** and **Definition 3.1.3 (Different Crite
 
 ### Solution to Exercise 14
 
-By **Definition 3.1.1 (Classification)** and **Definition 3.1.4 (Layer-by-Layer Classification)**, you can divide by "subtraction with borrowing versus subtraction without borrowing", or by "results greater than $10$ versus results less than $10$"; record the number of expressions in each category in the table. Each resulting category can be further divided by criteria such as whether the result is odd or even. $\blacksquare$
+By **Definition 3.1.1 (Classification)** and **Definition 3.1.4 (Layer-by-Layer Classification)**, you can divide by "subtraction with borrowing versus subtraction without borrowing", or by "results greater than $10$ versus results less than $10$"; record the number of expressions in each category in the table. Each resulting category can be further divided by criteria such as whether the result is odd or even.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -154,7 +182,9 @@ By **Definition 3.1.1 (Classification)** and **Definition 3.1.4 (Layer-by-Layer 
 
 ### Solution to Exercise 15
 
-By **Definition 3.1.1 (Classification)** and **Definition 3.1.3 (Different Criteria, Different Results)**, you can divide into two groups by gender, or by height, or by whether people wear glasses, and so on; represent the number in each group by tally marks or a table, and then discuss the results of the different ways with your classmates. $\blacksquare$
+By **Definition 3.1.1 (Classification)** and **Definition 3.1.3 (Different Criteria, Different Results)**, you can divide into two groups by gender, or by height, or by whether people wear glasses, and so on; represent the number in each group by tally marks or a table, and then discuss the results of the different ways with your classmates.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -162,7 +192,9 @@ By **Definition 3.1.1 (Classification)** and **Definition 3.1.3 (Different Crite
 
 ### Solution to Exercise 16
 
-By **Definition 3.1.1 (Classification)** and **Definition 3.1.4 (Layer-by-Layer Classification)**, first divide the shapes into two categories by color or shape and fill in the table; then further divide within each category by another criterion (such as color or shape), and represent the second classification with a table; finally ask each other questions based on the results of the second classification. $\blacksquare$
+By **Definition 3.1.1 (Classification)** and **Definition 3.1.4 (Layer-by-Layer Classification)**, first divide the shapes into two categories by color or shape and fill in the table; then further divide within each category by another criterion (such as color or shape), and represent the second classification with a table; finally ask each other questions based on the results of the second classification.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -170,7 +202,9 @@ By **Definition 3.1.1 (Classification)** and **Definition 3.1.4 (Layer-by-Layer 
 
 ### Solution to Exercise 17
 
-By **Definition 3.1.1 (Classification)**, **Definition 3.1.3 (Different Criteria, Different Results)**, and **Definition 3.1.4 (Layer-by-Layer Classification)**, objects can be classified by different criteria, and the results of some classifications can be further divided; representing the results with charts is clear and intuitive. $\blacksquare$
+By **Definition 3.1.1 (Classification)**, **Definition 3.1.3 (Different Criteria, Different Results)**, and **Definition 3.1.4 (Layer-by-Layer Classification)**, objects can be classified by different criteria, and the results of some classifications can be further divided; representing the results with charts is clear and intuitive.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -178,4 +212,6 @@ By **Definition 3.1.1 (Classification)**, **Definition 3.1.3 (Different Criteria
 
 ### Solution to Exercise 18
 
-By **Definition 3.2.1 (The Meaning of Multiplication)**, all three questions ask for the sum of several identical addends: (1) $5$ copies of $3$, sum $15$; (2) $4$ copies of $6$, sum $24$; (3) $7$ copies of $2$, sum $14$. The common feature is that all the addends are identical, such as $4+4+4+4$, $5+5+5+5+5$, and so on. $\blacksquare$
+By **Definition 3.2.1 (The Meaning of Multiplication)**, all three questions ask for the sum of several identical addends: (1) $5$ copies of $3$, sum $15$; (2) $4$ copies of $6$, sum $24$; (3) $7$ copies of $2$, sum $14$. The common feature is that all the addends are identical, such as $4+4+4+4$, $5+5+5+5+5$, and so on.
+
+$\blacksquare$

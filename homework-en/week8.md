@@ -50,7 +50,9 @@
 
 ### Solution to Exercise 1
 
-Postponing Monday by $1$ day is Tuesday, by $2$ days is Wednesday, and by $3$ days is Thursday. $\blacksquare$
+Postponing Monday by $1$ day is Tuesday, by $2$ days is Wednesday, and by $3$ days is Thursday.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -58,7 +60,9 @@ Postponing Monday by $1$ day is Tuesday, by $2$ days is Wednesday, and by $3$ da
 
 ### Solution to Exercise 2
 
-By **Definition 1.2.7 (Continuous Addition)**, **Definition 1.2.8 (Continuous Subtraction)**, and **Definition 1.2.9 (Mixed Addition and Subtraction)**: $7+3+5=15$, $6+4+9=19$, $8+2+6=16$, $9+1-4=6$, $11-1+5=15$, $18-8-3=7$. $\blacksquare$
+By **Definition 1.2.7 (Continuous Addition)**, **Definition 1.2.8 (Continuous Subtraction)**, and **Definition 1.2.9 (Mixed Addition and Subtraction)**: $7+3+5=15$, $6+4+9=19$, $8+2+6=16$, $9+1-4=6$, $11-1+5=15$, $18-8-3=7$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -66,7 +70,9 @@ By **Definition 1.2.7 (Continuous Addition)**, **Definition 1.2.8 (Continuous Su
 
 ### Solution to Exercise 3
 
-By **Definition 1.4.3 (Composition of Numbers 11–20)**: $15<16$; $9<11$; $20>19$; $10+7=17>14$; $19-5=14$, so $=$; $16-6=10<12$. $\blacksquare$
+By **Definition 1.4.3 (Composition of Numbers 11–20)**: $15<16$; $9<11$; $20>19$; $10+7=17>14$; $19-5=14$, so $=$; $16-6=10<12$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -74,7 +80,9 @@ By **Definition 1.4.3 (Composition of Numbers 11–20)**: $15<16$; $9<11$; $20>1
 
 ### Solution to Exercise 4
 
-By **Definition 1.2.2 (Comparing Size, Which Position)**, counting from page $10$ to page $14$: $10,11,12,13,14$, totaling $5$ pages. $\blacksquare$
+By **Definition 1.2.2 (Comparing Size, Which Position)**, counting from page $10$ to page $14$: $10,11,12,13,14$, totaling $5$ pages.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -82,7 +90,9 @@ By **Definition 1.2.2 (Comparing Size, Which Position)**, counting from page $10
 
 ### Solution to Exercise 5
 
-By **Definition 1.4.3 (Composition of Numbers 11–20)**, first circle $10$ as an estimate, then count the exact number and write it as tens and ones. $\blacksquare$
+By **Definition 1.4.3 (Composition of Numbers 11–20)**, first circle $10$ as an estimate, then count the exact number and write it as tens and ones.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -90,7 +100,9 @@ By **Definition 1.4.3 (Composition of Numbers 11–20)**, first circle $10$ as a
 
 ### Solution to Exercise 6
 
-By **Definition 1.4.2 (Ones Place and Tens Place)**, for $17$ draw $1$ bead on the tens place and $7$ on the ones; for $15$, $1$ and $5$; for $18$, $1$ and $8$; for $20$, $2$ and $0$. $\blacksquare$
+By **Definition 1.4.2 (Ones Place and Tens Place)**, for $17$ draw $1$ bead on the tens place and $7$ on the ones; for $15$, $1$ and $5$; for $18$, $1$ and $8$; for $20$, $2$ and $0$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -98,7 +110,9 @@ By **Definition 1.4.2 (Ones Place and Tens Place)**, for $17$ draw $1$ bead on t
 
 ### Solution to Exercise 7
 
-By **Definition 1.2.2 (Comparing Size, Which Position)**, count the stops between the train station and the zoo (excluding both endpoints). $\blacksquare$
+By **Definition 1.2.2 (Comparing Size, Which Position)**, count the stops between the train station and the zoo (excluding both endpoints).
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -106,7 +120,9 @@ By **Definition 1.2.2 (Comparing Size, Which Position)**, count the stops betwee
 
 ### Solution to Exercise 8
 
-By **Definition 1.4.4 (Ten-Something Plus a Number and Corresponding Subtraction)**, calculate step by step, following the route where each result increases by $1$, and see what fruit is at the end. $\blacksquare$
+By **Definition 1.4.4 (Ten-Something Plus a Number and Corresponding Subtraction)**, calculate step by step, following the route where each result increases by $1$, and see what fruit is at the end.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -114,7 +130,9 @@ By **Definition 1.4.4 (Ten-Something Plus a Number and Corresponding Subtraction
 
 ### Solution to Exercise 9
 
-By **Definition 1.4.4 (Ten-Something Plus a Number and Corresponding Subtraction)**: $7+3=10$; $10+2=12$; $11+2=13$. $\blacksquare$
+By **Definition 1.4.4 (Ten-Something Plus a Number and Corresponding Subtraction)**: $7+3=10$; $10+2=12$; $11+2=13$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -122,7 +140,9 @@ By **Definition 1.4.4 (Ten-Something Plus a Number and Corresponding Subtraction
 
 ### Solution to Exercise 10
 
-By **Definition 1.5.1 (Make-a-Ten Method)**: $9+8=17$ (split $8$ into $1$ and $7$, $9+1=10$, $10+7=17$); $9+3=12$ (split $3$ into $1$ and $2$, $9+1=10$, $10+2=12$). $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)**: $9+8=17$ (split $8$ into $1$ and $7$, $9+1=10$, $10+7=17$); $9+3=12$ (split $3$ into $1$ and $2$, $9+1=10$, $10+2=12$).
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -130,7 +150,9 @@ By **Definition 1.5.1 (Make-a-Ten Method)**: $9+8=17$ (split $8$ into $1$ and $7
 
 ### Solution to Exercise 11
 
-By **Definition 1.5.1 (Make-a-Ten Method)**: $9+1+4=14$, $9+1+6=16$, $9+1+8=18$, $9+5=14$, $9+7=16$, $9+9=18$. $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)**: $9+1+4=14$, $9+1+6=16$, $9+1+8=18$, $9+5=14$, $9+7=16$, $9+9=18$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -138,7 +160,9 @@ By **Definition 1.5.1 (Make-a-Ten Method)**: $9+1+4=14$, $9+1+6=16$, $9+1+8=18$,
 
 ### Solution to Exercise 12
 
-By **Definition 1.5.1 (Make-a-Ten Method)**, e.g. $9+2=11$, $9+4=13$, $9+5=14$, $9+7=16$, $9+0=9$, $9+1=10$, $9+9=18$, $9+8=17$, $9+10=19$. $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)**, e.g. $9+2=11$, $9+4=13$, $9+5=14$, $9+7=16$, $9+0=9$, $9+1=10$, $9+9=18$, $9+8=17$, $9+10=19$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -146,7 +170,9 @@ By **Definition 1.5.1 (Make-a-Ten Method)**, e.g. $9+2=11$, $9+4=13$, $9+5=14$, 
 
 ### Solution to Exercise 13
 
-By **Definition 1.5.1 (Make-a-Ten Method)**, write according to the objects in the picture, e.g. $9+6=15$. $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)**, write according to the objects in the picture, e.g. $9+6=15$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -154,7 +180,9 @@ By **Definition 1.5.1 (Make-a-Ten Method)**, write according to the objects in t
 
 ### Solution to Exercise 14
 
-By **Definition 1.5.1 (Make-a-Ten Method)**: $9+1=10$, $9+2=11$, $9+3=12$, $9+4=13$, $9+5=14$, $9+6=15$, $9+7=16$, $9+8=17$, $9+9=18$. Observation: the ones digit of the result is $1$ less than the number being added. $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)**: $9+1=10$, $9+2=11$, $9+3=12$, $9+4=13$, $9+5=14$, $9+6=15$, $9+7=16$, $9+8=17$, $9+9=18$. Observation: the ones digit of the result is $1$ less than the number being added.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -162,7 +190,9 @@ By **Definition 1.5.1 (Make-a-Ten Method)**: $9+1=10$, $9+2=11$, $9+3=12$, $9+4=
 
 ### Solution to Exercise 15
 
-Calculate first, then compare: $9+5=14<15$; $9+3=12$, so $=$; $9+10=19<20$; $9+8=17>16$; $9+6=15<16$; $9+9=18>17$. $\blacksquare$
+Calculate first, then compare: $9+5=14<15$; $9+3=12$, so $=$; $9+10=19<20$; $9+8=17>16$; $9+6=15<16$; $9+9=18>17$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -170,7 +200,9 @@ Calculate first, then compare: $9+5=14<15$; $9+3=12$, so $=$; $9+10=19<20$; $9+8
 
 ### Solution to Exercise 16
 
-By **Definition 1.5.1 (Make-a-Ten Method)**: $7+4=11$ (split $4$ into $3$ and $1$, $7+3=10$, $10+1=11$); $6+5=11$ (split $5$ into $4$ and $1$, $6+4=10$, $10+1=11$). $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)**: $7+4=11$ (split $4$ into $3$ and $1$, $7+3=10$, $10+1=11$); $6+5=11$ (split $5$ into $4$ and $1$, $6+4=10$, $10+1=11$).
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -178,7 +210,9 @@ By **Definition 1.5.1 (Make-a-Ten Method)**: $7+4=11$ (split $4$ into $3$ and $1
 
 ### Solution to Exercise 17
 
-By **Definition 1.5.1 (Make-a-Ten Method)**: $7+3+3=13$, $6+4+2=12$, $8+2+2=12$, $7+6=13$, $6+6=12$, $8+4=12$. $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)**: $7+3+3=13$, $6+4+2=12$, $8+2+2=12$, $7+6=13$, $6+6=12$, $8+4=12$.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -186,7 +220,9 @@ By **Definition 1.5.1 (Make-a-Ten Method)**: $7+3+3=13$, $6+4+2=12$, $8+2+2=12$,
 
 ### Solution to Exercise 18
 
-By **Definition 1.5.1 (Make-a-Ten Method)** and **Definition 1.5.2 (Swapping Addends)**: $6+8=14$ (think $8+6=14$); $7+9=16$ (think $9+7=16$). $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)** and **Definition 1.5.2 (Swapping Addends)**: $6+8=14$ (think $8+6=14$); $7+9=16$ (think $9+7=16$).
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -194,7 +230,9 @@ By **Definition 1.5.1 (Make-a-Ten Method)** and **Definition 1.5.2 (Swapping Add
 
 ### Solution to Exercise 19
 
-By **Definition 1.5.2 (Swapping Addends)**: $7+6=13$, $9+6=15$, $8+7=15$, $6+7=13$, $6+9=15$, $7+8=15$. $\blacksquare$
+By **Definition 1.5.2 (Swapping Addends)**: $7+6=13$, $9+6=15$, $8+7=15$, $6+7=13$, $6+9=15$, $7+8=15$.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -202,7 +240,9 @@ By **Definition 1.5.2 (Swapping Addends)**: $7+6=13$, $9+6=15$, $8+7=15$, $6+7=1
 
 ### Solution to Exercise 20
 
-By **Definition 1.5.1 (Make-a-Ten Method)**: $8+2=10$, $8+5=13$, $8+8=16$; $7+4=11$, $7+7=14$, $7+9=16$; $6+5=11$, $6+8=14$, $6+9=15$. $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)**: $8+2=10$, $8+5=13$, $8+8=16$; $7+4=11$, $7+7=14$, $7+9=16$; $6+5=11$, $6+8=14$, $6+9=15$.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -210,4 +250,6 @@ By **Definition 1.5.1 (Make-a-Ten Method)**: $8+2=10$, $8+5=13$, $8+8=16$; $7+4=
 
 ### Solution to Exercise 21
 
-By **Definition 1.5.2 (Swapping Addends)**: $9+5=14$, $9+4=13$, $8+3=11$, $9+2=11$, $5+9=14$, $4+9=13$, $3+8=11$, $2+9=11$. $\blacksquare$
+By **Definition 1.5.2 (Swapping Addends)**: $9+5=14$, $9+4=13$, $8+3=11$, $9+2=11$, $5+9=14$, $4+9=13$, $3+8=11$, $2+9=11$.
+
+$\blacksquare$

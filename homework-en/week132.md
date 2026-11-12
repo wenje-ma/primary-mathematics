@@ -26,7 +26,9 @@
 
 ### Solution to Exercise 1
 
-$d=10$: $C=31.4\;\text{cm}$, $S=78.5\;\text{cm}^2$; $r=3$: $C=18.84\;\text{cm}$, $S=28.26\;\text{cm}^2$. $\blacksquare$
+$d=10$: $C=31.4\;\text{cm}$, $S=78.5\;\text{cm}^2$; $r=3$: $C=18.84\;\text{cm}$, $S=28.26\;\text{cm}^2$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -34,7 +36,9 @@ $d=10$: $C=31.4\;\text{cm}$, $S=78.5\;\text{cm}^2$; $r=3$: $C=18.84\;\text{cm}$,
 
 ### Solution to Exercise 2
 
-$S=3.14\times10^2=314\;\text{m}^2$. $\blacksquare$
+$S=3.14\times10^2=314\;\text{m}^2$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -42,7 +46,9 @@ $S=3.14\times10^2=314\;\text{m}^2$. $\blacksquare$
 
 ### Solution to Exercise 3
 
-$r=125.6\div3.14\div2=20\;\text{cm}$, $S=3.14\times20^2=1256\;\text{cm}^2$. $\blacksquare$
+$r=125.6\div3.14\div2=20\;\text{cm}$, $S=3.14\times20^2=1256\;\text{cm}^2$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -50,7 +56,9 @@ $r=125.6\div3.14\div2=20\;\text{cm}$, $S=3.14\times20^2=1256\;\text{cm}^2$. $\bl
 
 ### Solution to Exercise 4
 
-$3.14\times\left(25^2-5^2\right)=3.14\times600=1884\;\text{m}^2$. $\blacksquare$
+$3.14\times\left(25^2-5^2\right)=3.14\times600=1884\;\text{m}^2$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -58,7 +66,9 @@ $3.14\times\left(25^2-5^2\right)=3.14\times600=1884\;\text{m}^2$. $\blacksquare$
 
 ### Solution to Exercise 5
 
-Let small radius $r$, large $2r$. Shaded $=\pi\left(2r\right)^2-\pi{r}^2=3\pi{r}^2$, i.e. $\frac{3}{4}$ of the large circle. $\blacksquare$
+Let small radius $r$, large $2r$. Shaded $=\pi\left(2r\right)^2-\pi{r}^2=3\pi{r}^2$, i.e. $\frac{3}{4}$ of the large circle.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -66,7 +76,9 @@ Let small radius $r$, large $2r$. Shaded $=\pi\left(2r\right)^2-\pi{r}^2=3\pi{r}
 
 ### Solution to Exercise 6
 
-$3.14\times14^2-6^2=615.44-36=579.44\;\text{mm}^2$. $\blacksquare$
+$3.14\times14^2-6^2=615.44-36=579.44\;\text{mm}^2$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -74,7 +86,9 @@ $3.14\times14^2-6^2=615.44-36=579.44\;\text{mm}^2$. $\blacksquare$
 
 ### Solution to Exercise 7
 
-E.g. a toilet-paper tube cross-section, a metal washer. Measure outer radius $R$ and inner $r$; annulus area $=\pi\left(R^2-r^2\right)$. $\blacksquare$
+E.g. a toilet-paper tube cross-section, a metal washer. Measure outer radius $R$ and inner $r$; annulus area $=\pi\left(R^2-r^2\right)$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -82,7 +96,9 @@ E.g. a toilet-paper tube cross-section, a metal washer. Measure outer radius $R$
 
 ### Solution to Exercise 8
 
-Perimeter $=$ circle $+$ two straights $=3.14\times32+100\times2=100.48+200=300.48\;\text{m}$. Area $=3.14\times16^2+100\times32=803.84+3200=4003.84\;\text{m}^2$. $\blacksquare$
+Perimeter $=$ circle $+$ two straights $=3.14\times32+100\times2=100.48+200=300.48\;\text{m}$. Area $=3.14\times16^2+100\times32=803.84+3200=4003.84\;\text{m}^2$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -90,7 +106,9 @@ Perimeter $=$ circle $+$ two straights $=3.14\times32+100\times2=100.48+200=300.
 
 ### Solution to Exercise 9
 
-Perimeter $=4\times\frac{1}{2}\times3.14\times1=6.28\;\text{m}$. Area $=$ square $1\times1+2$ full circles $=1+3.14\times0.5^2\times2=1+1.57=2.57\;\text{m}^2$. $\blacksquare$
+Perimeter $=4\times\frac{1}{2}\times3.14\times1=6.28\;\text{m}$. Area $=$ square $1\times1+2$ full circles $=1+3.14\times0.5^2\times2=1+1.57=2.57\;\text{m}^2$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -98,7 +116,9 @@ Perimeter $=4\times\frac{1}{2}\times3.14\times1=6.28\;\text{m}$. Area $=$ square
 
 ### Solution to Exercise 10
 
-$3.14\times\left(17^2-7^2\right)-3.14\times\left(13^2-7^2\right)=3.14\times\left(289-49-169+49\right)=3.14\times120=376.8\;\text{m}^2$. $\blacksquare$
+$3.14\times\left(17^2-7^2\right)-3.14\times\left(13^2-7^2\right)=3.14\times\left(289-49-169+49\right)=3.14\times120=376.8\;\text{m}^2$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -106,7 +126,9 @@ $3.14\times\left(17^2-7^2\right)-3.14\times\left(13^2-7^2\right)=3.14\times\left
 
 ### Solution to Exercise 11
 
-Old $r=62.8\div3.14\div2=10\;\text{m}$, new $r=12\;\text{m}$. Increase $3.14\times\left(12^2-10^2\right)=3.14\times44=138.16\;\text{m}^2$. $\blacksquare$
+Old $r=62.8\div3.14\div2=10\;\text{m}$, new $r=12\;\text{m}$. Increase $3.14\times\left(12^2-10^2\right)=3.14\times44=138.16\;\text{m}^2$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -114,7 +136,9 @@ Old $r=62.8\div3.14\div2=10\;\text{m}$, new $r=12\;\text{m}$. Increase $3.14\tim
 
 ### Solution to Exercise 12
 
-Semicircle perimeter $=\pi{r}+2r=r\left(\pi+2\right)=128.5$, $r=128.5\div5.14=25\;\text{m}$. Two semicircles make one circle: area $3.14\times25^2=1962.5\;\text{m}^2$. $\blacksquare$
+Semicircle perimeter $=\pi{r}+2r=r\left(\pi+2\right)=128.5$, $r=128.5\div5.14=25\;\text{m}$. Two semicircles make one circle: area $3.14\times25^2=1962.5\;\text{m}^2$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -122,7 +146,9 @@ Semicircle perimeter $=\pi{r}+2r=r\left(\pi+2\right)=128.5$, $r=128.5\div5.14=25
 
 ### Solution to Exercise 13
 
-Annular sector area $=\frac{90}{360}\times3.14\times\left(5^2-4^2\right)=\frac{1}{4}\times3.14\times9=7.065\;\text{dm}^2$. $\blacksquare$
+Annular sector area $=\frac{90}{360}\times3.14\times\left(5^2-4^2\right)=\frac{1}{4}\times3.14\times9=7.065\;\text{dm}^2$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -130,7 +156,9 @@ Annular sector area $=\frac{90}{360}\times3.14\times\left(5^2-4^2\right)=\frac{1
 
 ### Solution to Exercise 14
 
-Two semicircles $-$ triangle $=2\times\frac{1}{2}\times3.14\times5^2-\frac{1}{2}\times10\times10=78.5-50=28.5\;\text{dm}^2$. $\blacksquare$
+Two semicircles $-$ triangle $=2\times\frac{1}{2}\times3.14\times5^2-\frac{1}{2}\times10\times10=78.5-50=28.5\;\text{dm}^2$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -138,7 +166,9 @@ Two semicircles $-$ triangle $=2\times\frac{1}{2}\times3.14\times5^2-\frac{1}{2}
 
 ### Solution to Exercise 15
 
-The dog sweeps radius $4\;\text{m}$ around the corner; roaming area is $\frac{3}{4}$ of a circle: $\frac{3}{4}\times3.14\times4^2=37.68\;\text{m}^2$. $\blacksquare$
+The dog sweeps radius $4\;\text{m}$ around the corner; roaming area is $\frac{3}{4}$ of a circle: $\frac{3}{4}\times3.14\times4^2=37.68\;\text{m}^2$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -146,7 +176,9 @@ The dog sweeps radius $4\;\text{m}$ around the corner; roaming area is $\frac{3}
 
 ### Solution to Exercise 16
 
-(1) When $31.4$ is the circle's perimeter, $r=5\;\text{m}$, area $78.5\;\text{m}^2$; for a fixed perimeter the circle maximizes area. (2) With the same material, a circular base gives the most area, hence yurts are round; round root/stem sections aid water transport and save material. $\blacksquare$
+(1) When $31.4$ is the circle's perimeter, $r=5\;\text{m}$, area $78.5\;\text{m}^2$; for a fixed perimeter the circle maximizes area. (2) With the same material, a circular base gives the most area, hence yurts are round; round root/stem sections aid water transport and save material.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -154,7 +186,9 @@ The dog sweeps radius $4\;\text{m}$ around the corner; roaming area is $\frac{3}
 
 ### Solution to Exercise 17
 
-Following the textbook: draw the big circle, then small circles in each direction whose diameter is the big radius, forming a symmetric flower. $\blacksquare$
+Following the textbook: draw the big circle, then small circles in each direction whose diameter is the big radius, forming a symmetric flower.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -162,7 +196,9 @@ Following the textbook: draw the big circle, then small circles in each directio
 
 ### Solution to Exercise 18
 
-$C=3.14\times500=1570\;\text{m}$. $\blacksquare$
+$C=3.14\times500=1570\;\text{m}$.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -170,7 +206,9 @@ $C=3.14\times500=1570\;\text{m}$. $\blacksquare$
 
 ### Solution to Exercise 19
 
-$r=10\;\text{cm}$, $S=3.14\times10^2=314\;\text{cm}^2$. $\blacksquare$
+$r=10\;\text{cm}$, $S=3.14\times10^2=314\;\text{cm}^2$.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -178,4 +216,6 @@ $r=10\;\text{cm}$, $S=3.14\times10^2=314\;\text{cm}^2$. $\blacksquare$
 
 ### Solution to Exercise 20
 
-One ring perimeter $3.14\times50=157\;\text{cm}=1.57\;\text{m}$, $10\div1.57\approx6$. $\blacksquare$
+One ring perimeter $3.14\times50=157\;\text{cm}=1.57\;\text{m}$, $10\div1.57\approx6$.
+
+$\blacksquare$

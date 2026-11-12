@@ -30,7 +30,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 2.4.3 (Solving Problems with Continuous Subtraction)**, $18-4-4-4-4=2$; at most $4$ shuttlecocks can be made. $\blacksquare$
+By **Definition 2.4.3 (Solving Problems with Continuous Subtraction)**, $18-4-4-4-4=2$; at most $4$ shuttlecocks can be made.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -38,7 +40,9 @@ By **Definition 2.4.3 (Solving Problems with Continuous Subtraction)**, $18-4-4-
 
 ### Solution to Exercise 2
 
-By **Definition 2.4.3 (Solving Problems with Continuous Subtraction)**, $24-8-8-8=0$; $3$ trips are needed. $\blacksquare$
+By **Definition 2.4.3 (Solving Problems with Continuous Subtraction)**, $24-8-8-8=0$; $3$ trips are needed.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -46,7 +50,9 @@ By **Definition 2.4.3 (Solving Problems with Continuous Subtraction)**, $24-8-8-
 
 ### Solution to Exercise 3
 
-By **Definition 2.5.1 (Vertical Form)**, align the same place values and add from the ones: $5+2=7$, $30+30=60$, $35+32=67$. $\blacksquare$
+By **Definition 2.5.1 (Vertical Form)**, align the same place values and add from the ones: $5+2=7$, $30+30=60$, $35+32=67$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -54,7 +60,9 @@ By **Definition 2.5.1 (Vertical Form)**, align the same place values and add fro
 
 ### Solution to Exercise 4
 
-By **Definition 2.5.2 (Written Addition)**, the ones $5+7=12$ reaches ten and carry $1$ to the tens: $35+37=72$. $\blacksquare$
+By **Definition 2.5.2 (Written Addition)**, the ones $5+7=12$ reaches ten and carry $1$ to the tens: $35+37=72$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -62,7 +70,9 @@ By **Definition 2.5.2 (Written Addition)**, the ones $5+7=12$ reaches ten and ca
 
 ### Solution to Exercise 5
 
-By **Definition 2.5.1 (Vertical Form)** and **Definition 2.5.2 (Written Addition)**: $56+34=90$, $46+9=55$. $\blacksquare$
+By **Definition 2.5.1 (Vertical Form)** and **Definition 2.5.2 (Written Addition)**: $56+34=90$, $46+9=55$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -70,7 +80,9 @@ By **Definition 2.5.1 (Vertical Form)** and **Definition 2.5.2 (Written Addition
 
 ### Solution to Exercise 6
 
-By **Definition 2.5.2 (Written Addition)**: $45+24=69$, $28+33=61$, $5+29=34$, $41+27=68$, $46+24=70$, $8+44=52$, $37+16=53$, $23+32=55$, $42+28=70$. $\blacksquare$
+By **Definition 2.5.2 (Written Addition)**: $45+24=69$, $28+33=61$, $5+29=34$, $41+27=68$, $46+24=70$, $8+44=52$, $37+16=53$, $23+32=55$, $42+28=70$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -78,7 +90,9 @@ By **Definition 2.5.2 (Written Addition)**: $45+24=69$, $28+33=61$, $5+29=34$, $
 
 ### Solution to Exercise 7
 
-By **Definition 2.5.2 (Written Addition)**: $48+24=72$, $7+64=71$, $36+63=99$, $29+43=72$; $55+7=62$, $46+47=93$, $74+16=90$, $54+19=73$. $\blacksquare$
+By **Definition 2.5.2 (Written Addition)**: $48+24=72$, $7+64=71$, $36+63=99$, $29+43=72$; $55+7=62$, $46+47=93$, $74+16=90$, $54+19=73$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -86,7 +100,9 @@ By **Definition 2.5.2 (Written Addition)**: $48+24=72$, $7+64=71$, $36+63=99$, $
 
 ### Solution to Exercise 8
 
-By **Definition 2.5.1 (Vertical Form)**: $18+25=43$ (birds). $\blacksquare$
+By **Definition 2.5.1 (Vertical Form)**: $18+25=43$ (birds).
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -94,7 +110,9 @@ By **Definition 2.5.1 (Vertical Form)**: $18+25=43$ (birds). $\blacksquare$
 
 ### Solution to Exercise 9
 
-By **Definition 2.5.2 (Written Addition)**, correct: $49+44=93$, $21+39=60$, $26+4=30$. $\blacksquare$
+By **Definition 2.5.2 (Written Addition)**, correct: $49+44=93$, $21+39=60$, $26+4=30$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -102,7 +120,9 @@ By **Definition 2.5.2 (Written Addition)**, correct: $49+44=93$, $21+39=60$, $26
 
 ### Solution to Exercise 10
 
-Calculate both sides first: $4+38=42$, $40+38=78$; $38+17=55$, $57-5=52$; $25+47=72$, $35+35=70$. Thus $4+38<40+38$, $38+17>57-5$, $25+47>35+35$. $\blacksquare$
+Calculate both sides first: $4+38=42$, $40+38=78$; $38+17=55$, $57-5=52$; $25+47=72$, $35+35=70$. Thus $4+38<40+38$, $38+17>57-5$, $25+47>35+35$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -110,7 +130,9 @@ Calculate both sides first: $4+38=42$, $40+38=78$; $38+17=55$, $57-5=52$; $25+47
 
 ### Solution to Exercise 11
 
-By **Definition 2.5.3 (Written Subtraction)**, the ones $2$ minus $5$ is not enough; borrow $1$ from the tens: $52-35=17$. $\blacksquare$
+By **Definition 2.5.3 (Written Subtraction)**, the ones $2$ minus $5$ is not enough; borrow $1$ from the tens: $52-35=17$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -118,7 +140,9 @@ By **Definition 2.5.3 (Written Subtraction)**, the ones $2$ minus $5$ is not eno
 
 ### Solution to Exercise 12
 
-By **Definition 2.5.3 (Written Subtraction)**, the ones $0$ minus $2$ is not enough; borrow $1$ from the tens: $60-32=28$. $\blacksquare$
+By **Definition 2.5.3 (Written Subtraction)**, the ones $0$ minus $2$ is not enough; borrow $1$ from the tens: $60-32=28$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -126,7 +150,9 @@ By **Definition 2.5.3 (Written Subtraction)**, the ones $0$ minus $2$ is not eno
 
 ### Solution to Exercise 13
 
-By **Definition 2.5.1 (Vertical Form)** and **Definition 2.5.3 (Written Subtraction)**: $53-8=45$, $47-41=6$. $\blacksquare$
+By **Definition 2.5.1 (Vertical Form)** and **Definition 2.5.3 (Written Subtraction)**: $53-8=45$, $47-41=6$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -134,7 +160,9 @@ By **Definition 2.5.1 (Vertical Form)** and **Definition 2.5.3 (Written Subtract
 
 ### Solution to Exercise 14
 
-By **Definition 2.5.3 (Written Subtraction)**: $51-36=15$, $56-34=22$, $70-18=52$, $87-49=38$, $74-9=65$. $\blacksquare$
+By **Definition 2.5.3 (Written Subtraction)**: $51-36=15$, $56-34=22$, $70-18=52$, $87-49=38$, $74-9=65$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -142,7 +170,9 @@ By **Definition 2.5.3 (Written Subtraction)**: $51-36=15$, $56-34=22$, $70-18=52
 
 ### Solution to Exercise 15
 
-By **Definition 2.5.3 (Written Subtraction)**: $39-23=16$, $99-14=85$, $74-34=40$, $57-26=31$; $43-29=14$, $72-27=45$, $61-3=58$, $54-16=38$. $\blacksquare$
+By **Definition 2.5.3 (Written Subtraction)**: $39-23=16$, $99-14=85$, $74-34=40$, $57-26=31$; $43-29=14$, $72-27=45$, $61-3=58$, $54-16=38$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -150,7 +180,9 @@ By **Definition 2.5.3 (Written Subtraction)**: $39-23=16$, $99-14=85$, $74-34=40
 
 ### Solution to Exercise 16
 
-Sum: $45+27=72$, $53+25=78$, $62+37=99$, $41+19=60$, $70+44=114$; difference: $45-27=18$, $53-25=28$, $62-37=25$, $41-19=22$, $70-44=26$. $\blacksquare$
+Sum: $45+27=72$, $53+25=78$, $62+37=99$, $41+19=60$, $70+44=114$; difference: $45-27=18$, $53-25=28$, $62-37=25$, $41-19=22$, $70-44=26$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -158,7 +190,9 @@ Sum: $45+27=72$, $53+25=78$, $62+37=99$, $41+19=60$, $70+44=114$; difference: $4
 
 ### Solution to Exercise 17
 
-By **Definition 2.5.3 (Written Subtraction)**, correct: $40-28=12$, $43-8=35$; $83-36=59$ is correct. $\blacksquare$
+By **Definition 2.5.3 (Written Subtraction)**, correct: $40-28=12$, $43-8=35$; $83-36=59$ is correct.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -166,7 +200,9 @@ By **Definition 2.5.3 (Written Subtraction)**, correct: $40-28=12$, $43-8=35$; $
 
 ### Solution to Exercise 18
 
-Calculate from left to right: $87-27-39=21$, $72-26-35=11$, $40+23-12=51$. $\blacksquare$
+Calculate from left to right: $87-27-39=21$, $72-26-35=11$, $40+23-12=51$.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -174,7 +210,9 @@ Calculate from left to right: $87-27-39=21$, $72-26-35=11$, $40+23-12=51$. $\bla
 
 ### Solution to Exercise 19
 
-$49+7=56$, $56-7=49$, $56-49=7$; $16+78=94$, $94-16=78$, $94-78=16$; $35+48=83$, $83-35=48$, $83-48=35$. Notice that addition and subtraction are inverse operations. $\blacksquare$
+$49+7=56$, $56-7=49$, $56-49=7$; $16+78=94$, $94-16=78$, $94-78=16$; $35+48=83$, $83-35=48$, $83-48=35$. Notice that addition and subtraction are inverse operations.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -182,7 +220,9 @@ $49+7=56$, $56-7=49$, $56-49=7$; $16+78=94$, $94-16=78$, $94-78=16$; $35+48=83$,
 
 ### Solution to Exercise 20
 
-By **Definition 2.5.2 (Written Addition)** and **Definition 2.5.3 (Written Subtraction)**: $72-38=34$, $63+18=81$, $35+58=93$, $56-17=39$; $69+27=96$, $88-64=24$, $43-25=18$, $36+54=90$. $\blacksquare$
+By **Definition 2.5.2 (Written Addition)** and **Definition 2.5.3 (Written Subtraction)**: $72-38=34$, $63+18=81$, $35+58=93$, $56-17=39$; $69+27=96$, $88-64=24$, $43-25=18$, $36+54=90$.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -190,7 +230,9 @@ By **Definition 2.5.2 (Written Addition)** and **Definition 2.5.3 (Written Subtr
 
 ### Solution to Exercise 21
 
-$53+13=66$, $46-7=39$, $42-18=24$, $72+9=81$. Thus $53+13=66$, $46-7<41$, $42-18<34$, $72+9>73$. $\blacksquare$
+$53+13=66$, $46-7=39$, $42-18=24$, $72+9=81$. Thus $53+13=66$, $46-7<41$, $42-18<34$, $72+9>73$.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -198,7 +240,9 @@ $53+13=66$, $46-7=39$, $42-18=24$, $72+9=81$. Thus $53+13=66$, $46-7<41$, $42-18
 
 ### Solution to Exercise 22
 
-$24-8=16$ (birds). $\blacksquare$
+$24-8=16$ (birds).
+
+$\blacksquare$
 
 ## Exercise 23
 
@@ -206,4 +250,6 @@ $24-8=16$ (birds). $\blacksquare$
 
 ### Solution to Exercise 23
 
-$43-28=15$ (boxes). $\blacksquare$
+$43-28=15$ (boxes).
+
+$\blacksquare$

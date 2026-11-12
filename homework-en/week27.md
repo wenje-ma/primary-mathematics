@@ -42,7 +42,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 3.6.1 (Body Ruler)**, working in pairs, use a tape measure to measure height, shoulder width, waist circumference, head circumference, and neck circumference, and fill the values in centimeters into the "measurement result" column of the table. $\blacksquare$
+By **Definition 3.6.1 (Body Ruler)**, working in pairs, use a tape measure to measure height, shoulder width, waist circumference, head circumference, and neck circumference, and fill the values in centimeters into the "measurement result" column of the table.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -50,7 +52,9 @@ By **Definition 3.6.1 (Body Ruler)**, working in pairs, use a tape measure to me
 
 ### Solution to Exercise 2
 
-By **Definition 3.6.1 (Body Ruler)**, common body rulers include $1$ hand-span, $1$ arm-span, $1$ pace, $1$ foot, $1$ finger, $1$ hand, and $1$ elbow; for example measure the textbook's width in hand-spans, the classroom's length in paces, and the blackboard's length in arm-spans. $\blacksquare$
+By **Definition 3.6.1 (Body Ruler)**, common body rulers include $1$ hand-span, $1$ arm-span, $1$ pace, $1$ foot, $1$ finger, $1$ hand, and $1$ elbow; for example measure the textbook's width in hand-spans, the classroom's length in paces, and the blackboard's length in arm-spans.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -58,7 +62,9 @@ By **Definition 3.6.1 (Body Ruler)**, common body rulers include $1$ hand-span, 
 
 ### Solution to Exercise 3
 
-By **Definition 3.6.1 (Body Ruler)**, use a straight ruler to measure $1$ hand-span, a tape measure to measure $1$ pace and $1$ foot, and a meter stick to measure $1$ arm-span; fill the centimeter value of each body ruler into the "body ruler, measurement result" table. $\blacksquare$
+By **Definition 3.6.1 (Body Ruler)**, use a straight ruler to measure $1$ hand-span, a tape measure to measure $1$ pace and $1$ foot, and a meter stick to measure $1$ arm-span; fill the centimeter value of each body ruler into the "body ruler, measurement result" table.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -66,7 +72,9 @@ By **Definition 3.6.1 (Body Ruler)**, use a straight ruler to measure $1$ hand-s
 
 ### Solution to Exercise 4
 
-By **Definition 3.6.1 (Body Ruler)**, measure a winding road in paces (walk it); measure an old tree trunk's thickness by wrapping an arm-span or tape measure around it; use hand-spans to judge the distance when placing the "fu" character. Choose a different body ruler for different occasions. $\blacksquare$
+By **Definition 3.6.1 (Body Ruler)**, measure a winding road in paces (walk it); measure an old tree trunk's thickness by wrapping an arm-span or tape measure around it; use hand-spans to judge the distance when placing the "fu" character. Choose a different body ruler for different occasions.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -74,7 +82,9 @@ By **Definition 3.6.1 (Body Ruler)**, measure a winding road in paces (walk it);
 
 ### Solution to Exercise 5
 
-By **Definition 3.6.2 (One Hand-span)** and **Definition 3.6.3 (One Arm-span)**, comparing you find: a person's $1$ arm-span is about their height; the upper arm is about as long as the head; for people of different ages, the relation between head length and height differs. $\blacksquare$
+By **Definition 3.6.2 (One Hand-span)** and **Definition 3.6.3 (One Arm-span)**, comparing you find: a person's $1$ arm-span is about their height; the upper arm is about as long as the head; for people of different ages, the relation between head length and height differs.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -82,7 +92,9 @@ By **Definition 3.6.2 (One Hand-span)** and **Definition 3.6.3 (One Arm-span)**,
 
 ### Solution to Exercise 6
 
-By **Definition 3.6.1 (Body Ruler)**, for example measure the TV's width in hand-spans, which is $6$ hand-spans, then measure $1$ hand-span as about $15$ centimeters with a ruler, and work out the TV width is about $90$ centimeters; you find that both you and your deskmate measured the blackboard in arm-spans, but because everyone's arm-span differs, the results differ too. $\blacksquare$
+By **Definition 3.6.1 (Body Ruler)**, for example measure the TV's width in hand-spans, which is $6$ hand-spans, then measure $1$ hand-span as about $15$ centimeters with a ruler, and work out the TV width is about $90$ centimeters; you find that both you and your deskmate measured the blackboard in arm-spans, but because everyone's arm-span differs, the results differ too.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -90,7 +102,9 @@ By **Definition 3.6.1 (Body Ruler)**, for example measure the TV's width in hand
 
 ### Solution to Exercise 7
 
-By **Definition 3.6.1 (Body Ruler)**, people of different ages are about so many heads tall: a baby about $2$ heads tall, a child about $4\sim6$ heads tall, an adult about $7\sim8$ heads tall. Adjust the figure's proportions in drawing accordingly. $\blacksquare$
+By **Definition 3.6.1 (Body Ruler)**, people of different ages are about so many heads tall: a baby about $2$ heads tall, a child about $4\sim6$ heads tall, an adult about $7\sim8$ heads tall. Adjust the figure's proportions in drawing accordingly.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -98,7 +112,9 @@ By **Definition 3.6.1 (Body Ruler)**, people of different ages are about so many
 
 ### Solution to Exercise 8
 
-By **Definition 3.6.1 (Body Ruler)**, "spread the hand to know the foot" means measuring length with the outstretched hand (hand-span); in "a stride crosses a thousand li", $1$ stride is one step, and $1$ pace $=2$ strides. Ancient people used their bodies as tools for measuring length. $\blacksquare$
+By **Definition 3.6.1 (Body Ruler)**, "spread the hand to know the foot" means measuring length with the outstretched hand (hand-span); in "a stride crosses a thousand li", $1$ stride is one step, and $1$ pace $=2$ strides. Ancient people used their bodies as tools for measuring length.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -106,7 +122,9 @@ By **Definition 3.6.1 (Body Ruler)**, "spread the hand to know the foot" means m
 
 ### Solution to Exercise 9
 
-By **Definition 3.6.1 (Body Ruler)**, through this activity you learned body rulers such as the hand-span, arm-span, and pace, can choose a suitable body ruler for different occasions, and can analyze measurement data and discover the relations between body rulers and body parts. $\blacksquare$
+By **Definition 3.6.1 (Body Ruler)**, through this activity you learned body rulers such as the hand-span, arm-span, and pace, can choose a suitable body ruler for different occasions, and can analyze measurement data and discover the relations between body rulers and body parts.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -114,7 +132,9 @@ By **Definition 3.6.1 (Body Ruler)**, through this activity you learned body rul
 
 ### Solution to Exercise 10
 
-By **Definition 3.7.1 (Multiplication Rhymes of 7)**: one seven is seven ($7\times1=7$, $1\times7=7$), two seven fourteen ($7\times2=14$, $2\times7=14$), three seven twenty-one, four seven twenty-eight, five seven thirty-five, six seven forty-two, seven seven forty-nine ($7\times7=49$). $\blacksquare$
+By **Definition 3.7.1 (Multiplication Rhymes of 7)**: one seven is seven ($7\times1=7$, $1\times7=7$), two seven fourteen ($7\times2=14$, $2\times7=14$), three seven twenty-one, four seven twenty-eight, five seven thirty-five, six seven forty-two, seven seven forty-nine ($7\times7=49$).
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -122,7 +142,9 @@ By **Definition 3.7.1 (Multiplication Rhymes of 7)**: one seven is seven ($7\tim
 
 ### Solution to Exercise 11
 
-By **Definition 3.7.1 (Multiplication Rhymes of 7)**: $7\times4=28$ (four seven twenty-eight), $5\times7=35$ (five seven thirty-five), $7\times6=42$ (six seven forty-two), $4\times7=28$, $7\times5=35$, $6\times7=42$. Swapping the factors uses the same rhyme. $\blacksquare$
+By **Definition 3.7.1 (Multiplication Rhymes of 7)**: $7\times4=28$ (four seven twenty-eight), $5\times7=35$ (five seven thirty-five), $7\times6=42$ (six seven forty-two), $4\times7=28$, $7\times5=35$, $6\times7=42$. Swapping the factors uses the same rhyme.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -130,7 +152,9 @@ By **Definition 3.7.1 (Multiplication Rhymes of 7)**: $7\times4=28$ (four seven 
 
 ### Solution to Exercise 12
 
-By **Definition 3.7.1 (Multiplication Rhymes of 7)**, $2$ weeks: $7\times2=14$ (days); $3$ weeks: $7\times3=21$ (days). $\blacksquare$
+By **Definition 3.7.1 (Multiplication Rhymes of 7)**, $2$ weeks: $7\times2=14$ (days); $3$ weeks: $7\times3=21$ (days).
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -138,7 +162,9 @@ By **Definition 3.7.1 (Multiplication Rhymes of 7)**, $2$ weeks: $7\times2=14$ (
 
 ### Solution to Exercise 13
 
-By **Definition 3.7.1 (Multiplication Rhymes of 7)**: $7\times6=42$, $7\times3=21$, $7\times4=28$, $7\times2=14$, $7\times5=35$. Connect in order. $\blacksquare$
+By **Definition 3.7.1 (Multiplication Rhymes of 7)**: $7\times6=42$, $7\times3=21$, $7\times4=28$, $7\times2=14$, $7\times5=35$. Connect in order.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -146,7 +172,9 @@ By **Definition 3.7.1 (Multiplication Rhymes of 7)**: $7\times6=42$, $7\times3=2
 
 ### Solution to Exercise 14
 
-By **Definition 3.7.2 (Multiplication Rhymes of 8)**: one eight is eight, two eight sixteen, three eight twenty-four, four eight thirty-two, five eight forty, six eight forty-eight, seven eight fifty-six, eight eight sixty-four. Neighboring products increase by $8$. $\blacksquare$
+By **Definition 3.7.2 (Multiplication Rhymes of 8)**: one eight is eight, two eight sixteen, three eight twenty-four, four eight thirty-two, five eight forty, six eight forty-eight, seven eight fifty-six, eight eight sixty-four. Neighboring products increase by $8$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -154,7 +182,9 @@ By **Definition 3.7.2 (Multiplication Rhymes of 8)**: one eight is eight, two ei
 
 ### Solution to Exercise 15
 
-By **Definition 3.7.2 (Multiplication Rhymes of 8)**: five eight forty, two eight sixteen, eight eight sixty-four; three eight twenty-four, six eight forty-eight, seven eight fifty-six. $\blacksquare$
+By **Definition 3.7.2 (Multiplication Rhymes of 8)**: five eight forty, two eight sixteen, eight eight sixty-four; three eight twenty-four, six eight forty-eight, seven eight fifty-six.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -162,7 +192,9 @@ By **Definition 3.7.2 (Multiplication Rhymes of 8)**: five eight forty, two eigh
 
 ### Solution to Exercise 16
 
-By **Definition 3.7.1 (Multiplication Rhymes of 7)** and **Definition 3.7.2 (Multiplication Rhymes of 8)**: $7\times2=14$, $5\times7=35$, $6\times7=42$, $5\times8=40$, $4\times7=28$, $7\times7=49$, $3\times8=24$, $8\times8=64$, $7\times3=21$, $7\times6=42$, $8\times5=40$, $8\times4=32$. $\blacksquare$
+By **Definition 3.7.1 (Multiplication Rhymes of 7)** and **Definition 3.7.2 (Multiplication Rhymes of 8)**: $7\times2=14$, $5\times7=35$, $6\times7=42$, $5\times8=40$, $4\times7=28$, $7\times7=49$, $3\times8=24$, $8\times8=64$, $7\times3=21$, $7\times6=42$, $8\times5=40$, $8\times4=32$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -170,7 +202,9 @@ By **Definition 3.7.1 (Multiplication Rhymes of 7)** and **Definition 3.7.2 (Mul
 
 ### Solution to Exercise 17
 
-White keys: by **Definition 3.7.1 (Multiplication Rhymes of 7)**, $7\times7=49$ (keys); black keys: by the rhyme learned before **Definition 3.7.2 (Multiplication Rhymes of 8)**, $5\times7=35$ (keys). $\blacksquare$
+White keys: by **Definition 3.7.1 (Multiplication Rhymes of 7)**, $7\times7=49$ (keys); black keys: by the rhyme learned before **Definition 3.7.2 (Multiplication Rhymes of 8)**, $5\times7=35$ (keys).
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -178,4 +212,6 @@ White keys: by **Definition 3.7.1 (Multiplication Rhymes of 7)**, $7\times7=49$ 
 
 ### Solution to Exercise 18
 
-Multiply the count per row by the number of rows; for example $4$ per row and $3$ rows gives $4\times3=12$; the exact count is the product of the rows and columns in the picture. $\blacksquare$
+Multiply the count per row by the number of rows; for example $4$ per row and $3$ rows gives $4\times3=12$; the exact count is the product of the rows and columns in the picture.
+
+$\blacksquare$

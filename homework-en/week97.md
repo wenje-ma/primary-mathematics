@@ -70,7 +70,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 8.11.1 (Operation Laws)**: $312\times4+188\times4=\left(312+188\right)\times4=2000$; $101\times87=\left(100+1\right)\times87=8787$; $135\times50\times2=135\times100=13500$; $25\times33\times4=25\times4\times33=3300$. $\blacksquare$
+By **Definition 8.11.1 (Operation Laws)**: $312\times4+188\times4=\left(312+188\right)\times4=2000$; $101\times87=\left(100+1\right)\times87=8787$; $135\times50\times2=135\times100=13500$; $25\times33\times4=25\times4\times33=3300$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -78,7 +80,9 @@ By **Definition 8.11.1 (Operation Laws)**: $312\times4+188\times4=\left(312+188\
 
 ### Solution to Exercise 2
 
-By **Definition 8.6.1 (Adding Decimals)**: Class 4(1) $8.42+8.67+8.58+8.50=34.17$ seconds; Class 4(2) $8.40+8.56+8.61+8.39=33.96$ seconds; Class 4(3) $8.32+8.68+8.70+8.36=34.06$ seconds; Class 4(4) $8.48+8.54+8.52+8.46=34.00$ seconds. Class 4(2) is fastest. $\blacksquare$
+By **Definition 8.6.1 (Adding Decimals)**: Class 4(1) $8.42+8.67+8.58+8.50=34.17$ seconds; Class 4(2) $8.40+8.56+8.61+8.39=33.96$ seconds; Class 4(3) $8.32+8.68+8.70+8.36=34.06$ seconds; Class 4(4) $8.48+8.54+8.52+8.46=34.00$ seconds. Class 4(2) is fastest.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -86,7 +90,9 @@ By **Definition 8.6.1 (Adding Decimals)**: Class 4(1) $8.42+8.67+8.58+8.50=34.17
 
 ### Solution to Exercise 3
 
-By **Definition 8.5.7 (a triangle's interior-angle sum $180^\circ$)**, $180^\circ-60^\circ-53^\circ=67^\circ$; in a right triangle $180^\circ-90^\circ-20^\circ=70^\circ$. Subtract according to the given angles in the figure. $\blacksquare$
+By **Definition 8.5.7 (a triangle's interior-angle sum $180^\circ$)**, $180^\circ-60^\circ-53^\circ=67^\circ$; in a right triangle $180^\circ-90^\circ-20^\circ=70^\circ$. Subtract according to the given angles in the figure.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -94,7 +100,9 @@ By **Definition 8.5.7 (a triangle's interior-angle sum $180^\circ$)**, $180^\cir
 
 ### Solution to Exercise 4
 
-By **Definition 8.5.4 (Relationship Among the Three Sides)**, $7-4<$ third side $<7+4$, i.e. $3<$ third side $<11$, so it can be $4,5,6,7,8,9,10\,\mathrm{cm}$. $\blacksquare$
+By **Definition 8.5.4 (Relationship Among the Three Sides)**, $7-4<$ third side $<7+4$, i.e. $3<$ third side $<11$, so it can be $4,5,6,7,8,9,10\,\mathrm{cm}$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -102,7 +110,9 @@ By **Definition 8.5.4 (Relationship Among the Three Sides)**, $7-4<$ third side 
 
 ### Solution to Exercise 5
 
-By **Definition 8.5.5 (Classification by Angles)**, identify each angle in the figure as acute, right or obtuse, then classify and count each triangle by its three angles. $\blacksquare$
+By **Definition 8.5.5 (Classification by Angles)**, identify each angle in the figure as acute, right or obtuse, then classify and count each triangle by its three angles.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -110,7 +120,9 @@ By **Definition 8.5.5 (Classification by Angles)**, identify each angle in the f
 
 ### Solution to Exercise 6
 
-By **Definition 8.2.1 (Observing Objects)**, stand in front of, above and to the left of the object in turn, and connect each seen planar figure to the corresponding direction. $\blacksquare$
+By **Definition 8.2.1 (Observing Objects)**, stand in front of, above and to the left of the object in turn, and connect each seen planar figure to the corresponding direction.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -118,7 +130,9 @@ By **Definition 8.2.1 (Observing Objects)**, stand in front of, above and to the
 
 ### Solution to Exercise 7
 
-By **Definition 8.7.1 (Axial Symmetry)**, first complete the other half; then by **Definition 8.7.2 (Translation)**, move each key point of the completed figure $4$ squares to the right and connect them. $\blacksquare$
+By **Definition 8.7.1 (Axial Symmetry)**, first complete the other half; then by **Definition 8.7.2 (Translation)**, move each key point of the completed figure $4$ squares to the right and connect them.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -126,7 +140,9 @@ By **Definition 8.7.1 (Axial Symmetry)**, first complete the other half; then by
 
 ### Solution to Exercise 8
 
-By **Definition 8.7.3 (Finding Area by Translation)**, translate the protruding parts into the recessed parts to transform the figure into a rectangle, and compute the area by length times width. $\blacksquare$
+By **Definition 8.7.3 (Finding Area by Translation)**, translate the protruding parts into the recessed parts to transform the figure into a rectangle, and compute the area by length times width.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -134,7 +150,9 @@ By **Definition 8.7.3 (Finding Area by Translation)**, translate the protruding 
 
 ### Solution to Exercise 9
 
-Draw by **Definition 8.8.2 (Double Bar Chart)**. (1) Ordinary letters were most in $1990$ at $20$, and e-mails most in $2020$ at $45$. Trend: ordinary letters decrease year by year while e-mails increase year by year. $\blacksquare$
+Draw by **Definition 8.8.2 (Double Bar Chart)**. (1) Ordinary letters were most in $1990$ at $20$, and e-mails most in $2020$ at $45$. Trend: ordinary letters decrease year by year while e-mails increase year by year.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -142,7 +160,9 @@ Draw by **Definition 8.8.2 (Double Bar Chart)**. (1) Ordinary letters were most 
 
 ### Solution to Exercise 10
 
-By **Definition 8.6.1 (Decimal Addition and Subtraction)**, balance: each entry $+$ income $-$ expense: $32+884=916$, then successively subtract $75,5.2,145.8,136.7,132.8,115.3,132$; monthly income total $884$ yuan, expense total $75+5.2+145.8+136.7+132.8+115.3+132=742.8$ (yuan). $\blacksquare$
+By **Definition 8.6.1 (Decimal Addition and Subtraction)**, balance: each entry $+$ income $-$ expense: $32+884=916$, then successively subtract $75,5.2,145.8,136.7,132.8,115.3,132$; monthly income total $884$ yuan, expense total $75+5.2+145.8+136.7+132.8+115.3+132=742.8$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -150,7 +170,9 @@ By **Definition 8.6.1 (Decimal Addition and Subtraction)**, balance: each entry 
 
 ### Solution to Exercise 11
 
-A long-jump competition takes the farthest try as the result, which should be $171\,\mathrm{cm}$. Using the $5$-try mean is inappropriate, because the competition rule takes the best try and the mean does not reflect her farthest level. $\blacksquare$
+A long-jump competition takes the farthest try as the result, which should be $171\,\mathrm{cm}$. Using the $5$-try mean is inappropriate, because the competition rule takes the best try and the mean does not reflect her farthest level.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -158,7 +180,9 @@ A long-jump competition takes the farthest try as the result, which should be $1
 
 ### Solution to Exercise 12
 
-Join the midpoints of the three sides, which divides it into $4$ identical small equilateral triangles. $\blacksquare$
+Join the midpoints of the three sides, which divides it into $4$ identical small equilateral triangles.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -166,7 +190,9 @@ Join the midpoints of the three sides, which divides it into $4$ identical small
 
 ### Solution to Exercise 13
 
-By **Definition 8.6.1 (Adding Decimals)**: (1) two books totaling no more than $15$ yuan: $7.39+6.95=14.34$ yuan, $6.95+7.88=14.83$ yuan, etc. (2) any two books totaling no more than $16$ yuan, e.g. $7.39+8.40=15.79$ yuan, $7.39+7.88=15.27$ yuan, etc. $\blacksquare$
+By **Definition 8.6.1 (Adding Decimals)**: (1) two books totaling no more than $15$ yuan: $7.39+6.95=14.34$ yuan, $6.95+7.88=14.83$ yuan, etc. (2) any two books totaling no more than $16$ yuan, e.g. $7.39+8.40=15.79$ yuan, $7.39+7.88=15.27$ yuan, etc.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -174,7 +200,9 @@ By **Definition 8.6.1 (Adding Decimals)**: (1) two books totaling no more than $
 
 ### Solution to Exercise 14
 
-By **Definition 8.10.1 (Assumption Method)**, assume all are arts groups: $9\times3=27$ students, short by $37-27=10$; each science group has $5-3=2$ more students, so science groups $10\div2=5$ groups ($25$ students) and arts groups $9-5=4$ groups ($12$ students). $\blacksquare$
+By **Definition 8.10.1 (Assumption Method)**, assume all are arts groups: $9\times3=27$ students, short by $37-27=10$; each science group has $5-3=2$ more students, so science groups $10\div2=5$ groups ($25$ students) and arts groups $9-5=4$ groups ($12$ students).
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -182,7 +210,9 @@ By **Definition 8.10.1 (Assumption Method)**, assume all are arts groups: $9\tim
 
 ### Solution to Exercise 15
 
-By **Definition 8.6.1 (vertical decimal addition and subtraction)**, work backward from the known last digit, fill each box digit by digit, and watch for carrying and borrowing. $\blacksquare$
+By **Definition 8.6.1 (vertical decimal addition and subtraction)**, work backward from the known last digit, fill each box digit by digit, and watch for carrying and borrowing.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -190,7 +220,9 @@ By **Definition 8.6.1 (vertical decimal addition and subtraction)**, work backwa
 
 ### Solution to Exercise 16
 
-First line up the $4$ small cubes in a row, then stack one on top of another or offset them front and back, giving many different arrangements, as long as adjacent cubes share at least one face. $\blacksquare$
+First line up the $4$ small cubes in a row, then stack one on top of another or offset them front and back, giving many different arrangements, as long as adjacent cubes share at least one face.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -198,7 +230,9 @@ First line up the $4$ small cubes in a row, then stack one on top of another or 
 
 ### Solution to Exercise 17
 
-By **Definition 9.1.1 (Views)**, observe the two combinations from the front, top and left, and connect each seen planar figure to the corresponding direction. $\blacksquare$
+By **Definition 9.1.1 (Views)**, observe the two combinations from the front, top and left, and connect each seen planar figure to the corresponding direction.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -206,7 +240,9 @@ By **Definition 9.1.1 (Views)**, observe the two combinations from the front, to
 
 ### Solution to Exercise 18
 
-By **Definition 9.1.2 (Observing Different Combinations from the Same Direction)**, the three combinations look the same from above and the same from the left, but not the same from the front. $\blacksquare$
+By **Definition 9.1.2 (Observing Different Combinations from the Same Direction)**, the three combinations look the same from above and the same from the left, but not the same from the front.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -214,4 +250,6 @@ By **Definition 9.1.2 (Observing Different Combinations from the Same Direction)
 
 ### Solution to Exercise 19
 
-Actually build and observe: if the projections of the three combinations coincide in a direction, the seen figure is the same there; otherwise it is different. Judge according to the given combinations. $\blacksquare$
+Actually build and observe: if the projections of the three combinations coincide in a direction, the seen figure is the same there; otherwise it is different. Judge according to the given combinations.
+
+$\blacksquare$

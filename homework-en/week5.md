@@ -38,7 +38,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 1.2.6 (Addition and Subtraction of 10)**: $6+4=10$, $10-8=2$, $7+3=10$, $10-0=10$. $\blacksquare$
+By **Definition 1.2.6 (Addition and Subtraction of 10)**: $6+4=10$, $10-8=2$, $7+3=10$, $10-0=10$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -46,7 +48,9 @@ By **Definition 1.2.6 (Addition and Subtraction of 10)**: $6+4=10$, $10-8=2$, $7
 
 ### Solution to Exercise 2
 
-By **Definition 1.2.5 (Understanding 10)**: $0,1,2,3,4,5,6,7,8,9,10$. $\blacksquare$
+By **Definition 1.2.5 (Understanding 10)**: $0,1,2,3,4,5,6,7,8,9,10$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -54,7 +58,9 @@ By **Definition 1.2.5 (Understanding 10)**: $0,1,2,3,4,5,6,7,8,9,10$. $\blacksqu
 
 ### Solution to Exercise 3
 
-By **Definition 1.2.5 (Understanding 10)**, count backward from $10$: $10,9,7,8,6,5,4,3,2,1$, i.e. fill in $10,9,7,8,4,3$ (in blank order). $\blacksquare$
+By **Definition 1.2.5 (Understanding 10)**, count backward from $10$: $10,9,7,8,6,5,4,3,2,1$, i.e. fill in $10,9,7,8,4,3$ (in blank order).
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -62,7 +68,9 @@ By **Definition 1.2.5 (Understanding 10)**, count backward from $10$: $10,9,7,8,
 
 ### Solution to Exercise 4
 
-By **Definition 1.2.6 (Addition and Subtraction of 10)**: $10-9=1$, $10-2=8$, $10-4=6$, $10-6=4$, $10-8=2$; $10-1=9$, $10-3=7$, $10-5=5$, $10-7=3$, $10-9=1$. $\blacksquare$
+By **Definition 1.2.6 (Addition and Subtraction of 10)**: $10-9=1$, $10-2=8$, $10-4=6$, $10-6=4$, $10-8=2$; $10-1=9$, $10-3=7$, $10-5=5$, $10-7=3$, $10-9=1$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -70,7 +78,9 @@ By **Definition 1.2.6 (Addition and Subtraction of 10)**: $10-9=1$, $10-2=8$, $1
 
 ### Solution to Exercise 5
 
-By **Definition 1.2.6 (Addition and Subtraction of 10)**, find the cards summing to $10$, e.g. $6$ and $4$, $4$ and $6$, $1$ and $9$, $3$ and $7$, $8$ and $2$, $5$ and $5$, $0$ and $10$. $\blacksquare$
+By **Definition 1.2.6 (Addition and Subtraction of 10)**, find the cards summing to $10$, e.g. $6$ and $4$, $4$ and $6$, $1$ and $9$, $3$ and $7$, $8$ and $2$, $5$ and $5$, $0$ and $10$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -78,7 +88,9 @@ By **Definition 1.2.6 (Addition and Subtraction of 10)**, find the cards summing
 
 ### Solution to Exercise 6
 
-By **Definition 1.2.6 (Addition and Subtraction of 10)**: $10-5=5$, $10-3=7$, $10-8=2$, $10-1=9$, $10-7=3$, $10-2=8$, $10-4=6$, $10-6=4$, $10-9=1$. $\blacksquare$
+By **Definition 1.2.6 (Addition and Subtraction of 10)**: $10-5=5$, $10-3=7$, $10-8=2$, $10-1=9$, $10-7=3$, $10-2=8$, $10-4=6$, $10-6=4$, $10-9=1$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -86,7 +98,9 @@ By **Definition 1.2.6 (Addition and Subtraction of 10)**: $10-5=5$, $10-3=7$, $1
 
 ### Solution to Exercise 7
 
-By **Definition 1.2.6 (Addition and Subtraction of 10)**: $1+9=10$; $10-1=9$; $10-9=1$; $10=5+5$ (answers not unique). $\blacksquare$
+By **Definition 1.2.6 (Addition and Subtraction of 10)**: $1+9=10$; $10-1=9$; $10-9=1$; $10=5+5$ (answers not unique).
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -94,7 +108,9 @@ By **Definition 1.2.6 (Addition and Subtraction of 10)**: $1+9=10$; $10-1=9$; $1
 
 ### Solution to Exercise 8
 
-By **Definition 1.2.4 (Four Sentences from One Picture)**, use addition for the total and subtraction for the remainder; write according to the quantities in the picture, e.g. $6+4=10$ (objects); $10-3=7$ (sticks). $\blacksquare$
+By **Definition 1.2.4 (Four Sentences from One Picture)**, use addition for the total and subtraction for the remainder; write according to the quantities in the picture, e.g. $6+4=10$ (objects); $10-3=7$ (sticks).
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -102,7 +118,9 @@ By **Definition 1.2.4 (Four Sentences from One Picture)**, use addition for the 
 
 ### Solution to Exercise 9
 
-E.g. "there are $7$ birds, and $3$ more fly in, making $10$ in total"; the story should be reasonable. $\blacksquare$
+E.g. "there are $7$ birds, and $3$ more fly in, making $10$ in total"; the story should be reasonable.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -110,7 +128,9 @@ E.g. "there are $7$ birds, and $3$ more fly in, making $10$ in total"; the story
 
 ### Solution to Exercise 10
 
-E.g. "there are $10$ apples, $4$ are eaten, and $6$ remain"; the story should be reasonable. $\blacksquare$
+E.g. "there are $10$ apples, $4$ are eaten, and $6$ remain"; the story should be reasonable.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -118,7 +138,9 @@ E.g. "there are $10$ apples, $4$ are eaten, and $6$ remain"; the story should be
 
 ### Solution to Exercise 11
 
-By **Definition 1.2.7 (Continuous Addition)** and **Definition 1.2.8 (Continuous Subtraction)**, write according to the quantities in the picture, e.g. $4+3+2=9$; $10-3-2=5$. $\blacksquare$
+By **Definition 1.2.7 (Continuous Addition)** and **Definition 1.2.8 (Continuous Subtraction)**, write according to the quantities in the picture, e.g. $4+3+2=9$; $10-3-2=5$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -126,7 +148,9 @@ By **Definition 1.2.7 (Continuous Addition)** and **Definition 1.2.8 (Continuous
 
 ### Solution to Exercise 12
 
-By **Definition 1.2.9 (Mixed Addition and Subtraction)**, write according to the scene of flying in then flying away, e.g. $6+3-2=7$. $\blacksquare$
+By **Definition 1.2.9 (Mixed Addition and Subtraction)**, write according to the scene of flying in then flying away, e.g. $6+3-2=7$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -134,7 +158,9 @@ By **Definition 1.2.9 (Mixed Addition and Subtraction)**, write according to the
 
 ### Solution to Exercise 13
 
-By **Definition 1.2.7 (Continuous Addition)**, **Definition 1.2.8 (Continuous Subtraction)**, and **Definition 1.2.9 (Mixed Addition and Subtraction)**: $2+3=5$, $8-3=5$, $4+2=6$, $5+4=9$, $5-2=3$, $6-4=2$, $2+3+4=9$, $8-3-2=3$, $4+2-4=2$. $\blacksquare$
+By **Definition 1.2.7 (Continuous Addition)**, **Definition 1.2.8 (Continuous Subtraction)**, and **Definition 1.2.9 (Mixed Addition and Subtraction)**: $2+3=5$, $8-3=5$, $4+2=6$, $5+4=9$, $5-2=3$, $6-4=2$, $2+3+4=9$, $8-3-2=3$, $4+2-4=2$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -142,7 +168,9 @@ By **Definition 1.2.7 (Continuous Addition)**, **Definition 1.2.8 (Continuous Su
 
 ### Solution to Exercise 14
 
-By **Definition 1.2.7 (Continuous Addition)** and **Definition 1.2.8 (Continuous Subtraction)**, write according to the quantities in the picture, e.g. $6+1+2=9$; $9-3-2=4$. $\blacksquare$
+By **Definition 1.2.7 (Continuous Addition)** and **Definition 1.2.8 (Continuous Subtraction)**, write according to the quantities in the picture, e.g. $6+1+2=9$; $9-3-2=4$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -150,7 +178,9 @@ By **Definition 1.2.7 (Continuous Addition)** and **Definition 1.2.8 (Continuous
 
 ### Solution to Exercise 15
 
-By **Definition 1.2.7 (Continuous Addition)** and **Definition 1.2.8 (Continuous Subtraction)**: $0+2=2$, $2+2=4$; $9-2=7$, $7-2=5$. $\blacksquare$
+By **Definition 1.2.7 (Continuous Addition)** and **Definition 1.2.8 (Continuous Subtraction)**: $0+2=2$, $2+2=4$; $9-2=7$, $7-2=5$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -158,7 +188,9 @@ By **Definition 1.2.7 (Continuous Addition)** and **Definition 1.2.8 (Continuous
 
 ### Solution to Exercise 16
 
-By **Definition 1.2.9 (Mixed Addition and Subtraction)**: $5+3=8$, $8-2=6$, $6+4=10$, $10-5=5$, $5+3=8$; $8-6=2$, $2+2=4$, $4+5=9$, $9-3=6$, $6-4=2$. $\blacksquare$
+By **Definition 1.2.9 (Mixed Addition and Subtraction)**: $5+3=8$, $8-2=6$, $6+4=10$, $10-5=5$, $5+3=8$; $8-6=2$, $2+2=4$, $4+5=9$, $9-3=6$, $6-4=2$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -166,7 +198,9 @@ By **Definition 1.2.9 (Mixed Addition and Subtraction)**: $5+3=8$, $8-2=6$, $6+4
 
 ### Solution to Exercise 17
 
-By **Definition 1.2.7 (Continuous Addition)**, **Definition 1.2.8 (Continuous Subtraction)**, and **Definition 1.2.9 (Mixed Addition and Subtraction)**: $1+4+5=10$, $2+4+4=10$, $7+2-5=4$, $10-1-4=5$, $10-4-4=2$, $7-5+2=4$. $\blacksquare$
+By **Definition 1.2.7 (Continuous Addition)**, **Definition 1.2.8 (Continuous Subtraction)**, and **Definition 1.2.9 (Mixed Addition and Subtraction)**: $1+4+5=10$, $2+4+4=10$, $7+2-5=4$, $10-1-4=5$, $10-4-4=2$, $7-5+2=4$.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -174,7 +208,9 @@ By **Definition 1.2.7 (Continuous Addition)**, **Definition 1.2.8 (Continuous Su
 
 ### Solution to Exercise 18
 
-By **Definition 1.2.8 (Continuous Subtraction)** and **Definition 1.2.4 (Four Sentences from One Picture)**, write according to the quantities in the picture, e.g. $10-3-2=5$ (sticks); $4+2=6$ (cars). $\blacksquare$
+By **Definition 1.2.8 (Continuous Subtraction)** and **Definition 1.2.4 (Four Sentences from One Picture)**, write according to the quantities in the picture, e.g. $10-3-2=5$ (sticks); $4+2=6$ (cars).
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -182,7 +218,9 @@ By **Definition 1.2.8 (Continuous Subtraction)** and **Definition 1.2.4 (Four Se
 
 ### Solution to Exercise 19
 
-By **Definition 1.2.7 (Continuous Addition)**, the sum of three numbers on each line is $10$; when two are known, the third $=10-$ the sum of the two known numbers. $\blacksquare$
+By **Definition 1.2.7 (Continuous Addition)**, the sum of three numbers on each line is $10$; when two are known, the third $=10-$ the sum of the two known numbers.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -190,7 +228,9 @@ By **Definition 1.2.7 (Continuous Addition)**, the sum of three numbers on each 
 
 ### Solution to Exercise 20
 
-In the addition table, the first addend increases from $0$, and the second addend starts from $0$; in the subtraction table, the minuend increases from $0$, and the subtrahend starts from $0$. $\blacksquare$
+In the addition table, the first addend increases from $0$, and the second addend starts from $0$; in the subtraction table, the minuend increases from $0$, and the subtrahend starts from $0$.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -198,4 +238,6 @@ In the addition table, the first addend increases from $0$, and the second adden
 
 ### Solution to Exercise 21
 
-Calculate by **Definition 1.2.4 (Four Sentences from One Picture)** and **Definition 1.2.6 (Addition and Subtraction of 10)**; the answer depends on the expression pointed to. $\blacksquare$
+Calculate by **Definition 1.2.4 (Four Sentences from One Picture)** and **Definition 1.2.6 (Addition and Subtraction of 10)**; the answer depends on the expression pointed to.
+
+$\blacksquare$

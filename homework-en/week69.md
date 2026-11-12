@@ -34,7 +34,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 7.1.3 (Reading Large Numbers)**, $380715$ is read "three-hundred-eighty-thousand seven-hundred-fifteen". Other results are read and written according to the numbers spun. $\blacksquare$
+By **Definition 7.1.3 (Reading Large Numbers)**, $380715$ is read "three-hundred-eighty-thousand seven-hundred-fifteen". Other results are read and written according to the numbers spun.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -42,7 +44,9 @@ By **Definition 7.1.3 (Reading Large Numbers)**, $380715$ is read "three-hundred
 
 ### Solution to Exercise 2
 
-By **Definition 7.1.1 (Counting Units and Digit Places)**, for example $440000=400000+40000$ means it is made of four-hundred-thousand and forty-thousand. The other numbers are split by level into the sum of the ten-thousand level and the unit level, or expressed as so many ten-thousands and so many ones. $\blacksquare$
+By **Definition 7.1.1 (Counting Units and Digit Places)**, for example $440000=400000+40000$ means it is made of four-hundred-thousand and forty-thousand. The other numbers are split by level into the sum of the ten-thousand level and the unit level, or expressed as so many ten-thousands and so many ones.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -50,7 +54,9 @@ By **Definition 7.1.1 (Counting Units and Digit Places)**, for example $440000=4
 
 ### Solution to Exercise 3
 
-By **Definition 7.1.3 (Reading Large Numbers)**: $9200000000$ is read "nine-billion two-hundred-million"; $26705000000$ is read "twenty-six-billion seven-hundred-million five-hundred-thousand"; $508040003000$ is read "five-hundred-eight-billion forty-million three-thousand"; $300700400$ is read "three-hundred-million seventy-thousand four-hundred". $\blacksquare$
+By **Definition 7.1.3 (Reading Large Numbers)**: $9200000000$ is read "nine-billion two-hundred-million"; $26705000000$ is read "twenty-six-billion seven-hundred-million five-hundred-thousand"; $508040003000$ is read "five-hundred-eight-billion forty-million three-thousand"; $300700400$ is read "three-hundred-million seventy-thousand four-hundred".
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -58,7 +64,9 @@ By **Definition 7.1.3 (Reading Large Numbers)**: $9200000000$ is read "nine-bill
 
 ### Solution to Exercise 4
 
-By **Definition 7.1.3 (Reading Large Numbers)**: $19336275$ is read "nineteen-million three-hundred-thirty-six-thousand two-hundred-seventy-five"; $456146658$ is read "four-hundred-million five-thousand-six-hundred-fourteen-thousand six-hundred-fifty-eight". $\blacksquare$
+By **Definition 7.1.3 (Reading Large Numbers)**: $19336275$ is read "nineteen-million three-hundred-thirty-six-thousand two-hundred-seventy-five"; $456146658$ is read "four-hundred-million five-thousand-six-hundred-fourteen-thousand six-hundred-fifty-eight".
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -66,7 +74,9 @@ By **Definition 7.1.3 (Reading Large Numbers)**: $19336275$ is read "nineteen-mi
 
 ### Solution to Exercise 5
 
-By **Definition 7.1.4 (Writing Large Numbers)**: (1) $30$, $300000$, $3000000000$; (2) $107$, $1070000$, $10700000000$. $\blacksquare$
+By **Definition 7.1.4 (Writing Large Numbers)**: (1) $30$, $300000$, $3000000000$; (2) $107$, $1070000$, $10700000000$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -74,7 +84,9 @@ By **Definition 7.1.4 (Writing Large Numbers)**: (1) $30$, $300000$, $3000000000
 
 ### Solution to Exercise 6
 
-By **Definition 7.1.4 (Writing Large Numbers)**: two-billion five-hundred-million is written $2500000000$; forty-nine-billion sixty-million is written $49000600000$; five-hundred-four-billion seven-million one-thousand-three-hundred-six is written $500407001306$. $\blacksquare$
+By **Definition 7.1.4 (Writing Large Numbers)**: two-billion five-hundred-million is written $2500000000$; forty-nine-billion sixty-million is written $49000600000$; five-hundred-four-billion seven-million one-thousand-three-hundred-six is written $500407001306$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -82,7 +94,9 @@ By **Definition 7.1.4 (Writing Large Numbers)**: two-billion five-hundred-millio
 
 ### Solution to Exercise 7
 
-By **Definition 7.1.1 (Counting Units and Digit Places)**: the highest place of a five-digit number is the ten-thousands place; of a nine-digit number, the hundred-millions place; of a twelve-digit number, the hundred-thousand-millions place. $\blacksquare$
+By **Definition 7.1.1 (Counting Units and Digit Places)**: the highest place of a five-digit number is the ten-thousands place; of a nine-digit number, the hundred-millions place; of a twelve-digit number, the hundred-thousand-millions place.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -90,7 +104,9 @@ By **Definition 7.1.1 (Counting Units and Digit Places)**: the highest place of 
 
 ### Solution to Exercise 8
 
-By **Definition 7.1.1 (Counting Units and Digit Places)**: $46273580$ is $4627$ ten-thousands and $3580$ ones; $3560000$ is $356$ ten-thousands; $3657800196$ is $36$ hundred-millions and $5780$ ten-thousands and $196$ ones. $\blacksquare$
+By **Definition 7.1.1 (Counting Units and Digit Places)**: $46273580$ is $4627$ ten-thousands and $3580$ ones; $3560000$ is $356$ ten-thousands; $3657800196$ is $36$ hundred-millions and $5780$ ten-thousands and $196$ ones.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -98,7 +114,9 @@ By **Definition 7.1.1 (Counting Units and Digit Places)**: $46273580$ is $4627$ 
 
 ### Solution to Exercise 9
 
-By **Definition 7.1.1 (Counting Units and Digit Places)**: $1$ thousand-million contains $10$ hundred-millions; $10$ thousand-millions is ten-thousand-millions; $1$ hundred-thousand-million is $10$ ten-thousand-millions; $10$ ten-millions is one-hundred-million. $\blacksquare$
+By **Definition 7.1.1 (Counting Units and Digit Places)**: $1$ thousand-million contains $10$ hundred-millions; $10$ thousand-millions is ten-thousand-millions; $1$ hundred-thousand-million is $10$ ten-thousand-millions; $10$ ten-millions is one-hundred-million.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -106,7 +124,9 @@ By **Definition 7.1.1 (Counting Units and Digit Places)**: $1$ thousand-million 
 
 ### Solution to Exercise 10
 
-By **Definition 7.1.3 (Reading Large Numbers)**: (1) sixty-five, six-hundred-fifty-thousand, six-billion-five-hundred-million; (2) four-thousand-seventy-five, forty-million seventy-five-thousand, four-hundred-billion seventy-five-million; (3) three-thousand-five-hundred, thirty-five-million, three-hundred-fifty-billion. $\blacksquare$
+By **Definition 7.1.3 (Reading Large Numbers)**: (1) sixty-five, six-hundred-fifty-thousand, six-billion-five-hundred-million; (2) four-thousand-seventy-five, forty-million seventy-five-thousand, four-hundred-billion seventy-five-million; (3) three-thousand-five-hundred, thirty-five-million, three-hundred-fifty-billion.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -114,7 +134,9 @@ By **Definition 7.1.3 (Reading Large Numbers)**: (1) sixty-five, six-hundred-fif
 
 ### Solution to Exercise 11
 
-By **Definition 7.1.4 (Writing Large Numbers)**: $240000000$, $84093000000$, $506200000$, $60450003200$, $3080070000$, $206000090040$. $\blacksquare$
+By **Definition 7.1.4 (Writing Large Numbers)**: $240000000$, $84093000000$, $506200000$, $60450003200$, $3080070000$, $206000090040$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -122,7 +144,9 @@ By **Definition 7.1.4 (Writing Large Numbers)**: $240000000$, $84093000000$, $50
 
 ### Solution to Exercise 12
 
-By **Definition 7.1.3 (Reading Large Numbers)**: $884260000$ is read "eight-hundred-million eight-thousand-four-hundred-twenty-six-thousand"; $902200000$ is read "nine-hundred-million two-hundred-twenty-thousand"; $914250000$ is read "nine-hundred-million one-thousand-four-hundred-twenty-five-thousand"; $920710000$ is read "nine-hundred-million two-thousand seventy-one-thousand". The urban population increases year by year. $\blacksquare$
+By **Definition 7.1.3 (Reading Large Numbers)**: $884260000$ is read "eight-hundred-million eight-thousand-four-hundred-twenty-six-thousand"; $902200000$ is read "nine-hundred-million two-hundred-twenty-thousand"; $914250000$ is read "nine-hundred-million one-thousand-four-hundred-twenty-five-thousand"; $920710000$ is read "nine-hundred-million two-thousand seventy-one-thousand". The urban population increases year by year.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -130,7 +154,9 @@ By **Definition 7.1.3 (Reading Large Numbers)**: $884260000$ is read "eight-hund
 
 ### Solution to Exercise 13
 
-By **Definition 7.1.1 (Counting Units and Digit Places)** and **Definition 7.1.4 (Writing Large Numbers)**, write the corresponding digits according to the digit places where the upper and lower beads sit, and record $0$ for empty places. $\blacksquare$
+By **Definition 7.1.1 (Counting Units and Digit Places)** and **Definition 7.1.4 (Writing Large Numbers)**, write the corresponding digits according to the digit places where the upper and lower beads sit, and record $0$ for empty places.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -138,7 +164,9 @@ By **Definition 7.1.1 (Counting Units and Digit Places)** and **Definition 7.1.4
 
 ### Solution to Exercise 14
 
-By common sense and a feel for large numbers: (1) unreasonable, a school usually has a few thousand people; (2) unreasonable, selling twenty-million popsicles in one day is unrealistic; (3) reasonable. $\blacksquare$
+By common sense and a feel for large numbers: (1) unreasonable, a school usually has a few thousand people; (2) unreasonable, selling twenty-million popsicles in one day is unrealistic; (3) reasonable.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -146,7 +174,9 @@ By common sense and a feel for large numbers: (1) unreasonable, a school usually
 
 ### Solution to Exercise 15
 
-By **Definition 7.1.5 (Comparing the Size of Numbers)**: $92504$ is five digits, $103600$ is six digits, hence $<$; $830207000$ is nine digits, $1020010000$ is ten digits, hence $<$; $28906$ and $28890$ are both five digits with the same thousands digit, and the hundreds digit $9>8$, hence $>$; $100388770000$ is twelve digits, $99385270000$ is eleven digits, hence $>$. $\blacksquare$
+By **Definition 7.1.5 (Comparing the Size of Numbers)**: $92504$ is five digits, $103600$ is six digits, hence $<$; $830207000$ is nine digits, $1020010000$ is ten digits, hence $<$; $28906$ and $28890$ are both five digits with the same thousands digit, and the hundreds digit $9>8$, hence $>$; $100388770000$ is twelve digits, $99385270000$ is eleven digits, hence $>$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -154,7 +184,9 @@ By **Definition 7.1.5 (Comparing the Size of Numbers)**: $92504$ is five digits,
 
 ### Solution to Exercise 16
 
-By **Definition 7.1.6 (Rewriting Numbers)**: $250000=25$ ten-thousands; $35800000=3580$ ten-thousands; $46000000000=460$ hundred-millions; $70500000000=705$ hundred-millions. $\blacksquare$
+By **Definition 7.1.6 (Rewriting Numbers)**: $250000=25$ ten-thousands; $35800000=3580$ ten-thousands; $46000000000=460$ hundred-millions; $70500000000=705$ hundred-millions.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -162,7 +194,9 @@ By **Definition 7.1.6 (Rewriting Numbers)**: $250000=25$ ten-thousands; $3580000
 
 ### Solution to Exercise 17
 
-By **Definition 7.1.7 (Rounding to find approximate numbers)**: $25520\approx3$ ten-thousands; $7244100\approx724$ ten-thousands; $950228500\approx10$ hundred-millions (the ten-million digit $5$ rounds up); $923456000\approx9$ hundred-millions. $\blacksquare$
+By **Definition 7.1.7 (Rounding to find approximate numbers)**: $25520\approx3$ ten-thousands; $7244100\approx724$ ten-thousands; $950228500\approx10$ hundred-millions (the ten-million digit $5$ rounds up); $923456000\approx9$ hundred-millions.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -170,7 +204,9 @@ By **Definition 7.1.7 (Rounding to find approximate numbers)**: $25520\approx3$ 
 
 ### Solution to Exercise 18
 
-By **Definition 7.1.7 (Rounding to find approximate numbers)**: in $1034500000$ the ten-million digit is $3<5$, drop it, $\approx10$ hundred-millions; in $9876540000$ the ten-million digit is $7\ge5$, carry $1$, $\approx99$ hundred-millions. $\blacksquare$
+By **Definition 7.1.7 (Rounding to find approximate numbers)**: in $1034500000$ the ten-million digit is $3<5$, drop it, $\approx10$ hundred-millions; in $9876540000$ the ten-million digit is $7\ge5$, carry $1$, $\approx99$ hundred-millions.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -178,4 +214,6 @@ By **Definition 7.1.7 (Rounding to find approximate numbers)**: in $1034500000$ 
 
 ### Solution to Exercise 19
 
-By **Definition 7.1.5 (Comparing the Size of Numbers)**: $208808$ is six digits $>$ $99999$ five digits; $26090800000$ and $26900800000$ are both eleven digits, and the hundred-million digit $0<9$, hence $<$; $30500000$ is eight digits $>$ $3050000$ seven digits; $7451030000$ is ten digits $<$ $54284000000$ eleven digits. $\blacksquare$
+By **Definition 7.1.5 (Comparing the Size of Numbers)**: $208808$ is six digits $>$ $99999$ five digits; $26090800000$ and $26900800000$ are both eleven digits, and the hundred-million digit $0<9$, hence $<$; $30500000$ is eight digits $>$ $3050000$ seven digits; $7451030000$ is ten digits $<$ $54284000000$ eleven digits.
+
+$\blacksquare$

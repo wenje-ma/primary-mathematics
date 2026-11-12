@@ -26,7 +26,9 @@
 
 ### 解答 练习一
 
-由**定义 9.5.1 (用字母表示数)**: (1) $\left(a+3\right)$ cm. (2) $0.18b$ kg. (3) $c\div80$ 元/千瓦时. (4) $\left(d-2\right)$ cm. $\blacksquare$
+由**定义 9.5.1 (用字母表示数)**: (1) $\left(a+3\right)$ cm. (2) $0.18b$ kg. (3) $c\div80$ 元/千瓦时. (4) $\left(d-2\right)$ cm.
+
+$\blacksquare$
 
 ## 练习二
 
@@ -34,7 +36,9 @@
 
 ### 解答 练习二
 
-$c=an$, $a=c\div{n}$, $n=c\div{a}$. 一套桌椅 $\left(120+m\right)$ 元. $m=80$ 时 $120+80=200$ 元. $\blacksquare$
+$c=an$, $a=c\div{n}$, $n=c\div{a}$. 一套桌椅 $\left(120+m\right)$ 元. $m=80$ 时 $120+80=200$ 元.
+
+$\blacksquare$
 
 ## 练习三
 
@@ -42,7 +46,9 @@ $c=an$, $a=c\div{n}$, $n=c\div{a}$. 一套桌椅 $\left(120+m\right)$ 元. $m=80
 
 ### 解答 练习三
 
-由**定义 9.5.3 (用字母表示运算律和公式)**: $a+\left(2+c\right)=\left(a+2\right)+c$; $a\cdot{b}\cdot4=a\cdot\left(b\cdot4\right)$; $3x+5x=\left(3+5\right)\cdot{x}=8x$; $4\left(x+3\right)=4\cdot{x}+4\cdot3=4x+12$. $\blacksquare$
+由**定义 9.5.3 (用字母表示运算律和公式)**: $a+\left(2+c\right)=\left(a+2\right)+c$; $a\cdot{b}\cdot4=a\cdot\left(b\cdot4\right)$; $3x+5x=\left(3+5\right)\cdot{x}=8x$; $4\left(x+3\right)=4\cdot{x}+4\cdot3=4x+12$.
+
+$\blacksquare$
 
 ## 练习四
 
@@ -50,7 +56,9 @@ $c=an$, $a=c\div{n}$, $n=c\div{a}$. 一套桌椅 $\left(120+m\right)$ 元. $m=80
 
 ### 解答 练习四
 
-由**定义 9.5.3 (用字母表示运算律和公式)**, 面积 $=$ 长 $\times$ 宽. 宽为 $a$ 的部分面积 $ac$, 宽为 $b$ 的部分面积 $bc$, 整个图形面积 $\left(a+b\right)c=ac+bc$. $\blacksquare$
+由**定义 9.5.3 (用字母表示运算律和公式)**, 面积 $=$ 长 $\times$ 宽. 宽为 $a$ 的部分面积 $ac$, 宽为 $b$ 的部分面积 $bc$, 整个图形面积 $\left(a+b\right)c=ac+bc$.
+
+$\blacksquare$
 
 ## 练习五
 
@@ -58,7 +66,9 @@ $c=an$, $a=c\div{n}$, $n=c\div{a}$. 一套桌椅 $\left(120+m\right)$ 元. $m=80
 
 ### 解答 练习五
 
-由**定义 9.5.1 (用字母表示数)**, 左右两端固定坐 $2$ 人, 每多 $1$ 张桌子多坐 $2$ 人, $n=2+2m$. $m=15$ 时 $n=2+30=32$ 人. $n=52$ 时 $2+2m=52$, $m=25$ 张. $\blacksquare$
+由**定义 9.5.1 (用字母表示数)**, 左右两端固定坐 $2$ 人, 每多 $1$ 张桌子多坐 $2$ 人, $n=2+2m$. $m=15$ 时 $n=2+30=32$ 人. $n=52$ 时 $2+2m=52$, $m=25$ 张.
+
+$\blacksquare$
 
 ## 练习六
 
@@ -66,7 +76,9 @@ $c=an$, $a=c\div{n}$, $n=c\div{a}$. 一套桌椅 $\left(120+m\right)$ 元. $m=80
 
 ### 解答 练习六
 
-由**定义 9.5.1 (用字母表示数)** 与**定义 9.5.3 (用字母表示运算律和公式)**, $s=320\left(a+b\right)$. $a=2,b=3$ 时 $s=320\times5=1600$ km. $s=2240,a=3$ 时 $320\left(3+b\right)=2240$, $3+b=7$, $b=4$. $\blacksquare$
+由**定义 9.5.1 (用字母表示数)** 与**定义 9.5.3 (用字母表示运算律和公式)**, $s=320\left(a+b\right)$. $a=2,b=3$ 时 $s=320\times5=1600$ km. $s=2240,a=3$ 时 $320\left(3+b\right)=2240$, $3+b=7$, $b=4$.
+
+$\blacksquare$
 
 ## 练习七
 
@@ -74,7 +86,9 @@ $c=an$, $a=c\div{n}$, $n=c\div{a}$. 一套桌椅 $\left(120+m\right)$ 元. $m=80
 
 ### 解答 练习七
 
-由**定义 9.5.1 (用字母表示数)**: (1) 第 $n$ 个数是 $n$. (2) 第 $n$ 个数是 $2n$. (3) 第 $n$ 个数是 $2n-1$. (4) 第 $n$ 个数是 $n^2$. $\blacksquare$
+由**定义 9.5.1 (用字母表示数)**: (1) 第 $n$ 个数是 $n$. (2) 第 $n$ 个数是 $2n$. (3) 第 $n$ 个数是 $2n-1$. (4) 第 $n$ 个数是 $n^2$.
+
+$\blacksquare$
 
 ## 练习八
 
@@ -82,7 +96,9 @@ $c=an$, $a=c\div{n}$, $n=c\div{a}$. 一套桌椅 $\left(120+m\right)$ 元. $m=80
 
 ### 解答 练习八
 
-(1) 共得 $75x+60x=135x$ 元; 张比王多 $\left(75-60\right)x=15x$ 元. (2) $x=3$ 时 $15\times3=45$ 元. $\blacksquare$
+(1) 共得 $75x+60x=135x$ 元; 张比王多 $\left(75-60\right)x=15x$ 元. (2) $x=3$ 时 $15\times3=45$ 元.
+
+$\blacksquare$
 
 ## 练习九
 
@@ -90,7 +106,9 @@ $c=an$, $a=c\div{n}$, $n=c\div{a}$. 一套桌椅 $\left(120+m\right)$ 元. $m=80
 
 ### 解答 练习九
 
-(1) 隧道长 $150\left(a+b\right)$ m. (2) $150\times\left(10+9\right)=150\times19=2850$ m. $\blacksquare$
+(1) 隧道长 $150\left(a+b\right)$ m. (2) $150\times\left(10+9\right)=150\times19=2850$ m.
+
+$\blacksquare$
 
 ## 练习十
 
@@ -98,7 +116,9 @@ $c=an$, $a=c\div{n}$, $n=c\div{a}$. 一套桌椅 $\left(120+m\right)$ 元. $m=80
 
 ### 解答 练习十
 
-由**定义 9.5.1 (用字母表示数)**, 第 $n$ 行摆 $2n$ 个. $2n=100$ 时 $n=50$ 行. $\blacksquare$
+由**定义 9.5.1 (用字母表示数)**, 第 $n$ 行摆 $2n$ 个. $2n=100$ 时 $n=50$ 行.
+
+$\blacksquare$
 
 ## 练习十一
 
@@ -106,7 +126,9 @@ $c=an$, $a=c\div{n}$, $n=c\div{a}$. 一套桌椅 $\left(120+m\right)$ 元. $m=80
 
 ### 解答 练习十一
 
-每千米充电费 $36\div100=0.36$ 元, 总费用 $\left(0.36a+200\right)$ 元. $\blacksquare$
+每千米充电费 $36\div100=0.36$ 元, 总费用 $\left(0.36a+200\right)$ 元.
+
+$\blacksquare$
 
 ## 练习十二
 
@@ -114,7 +136,9 @@ $c=an$, $a=c\div{n}$, $n=c\div{a}$. 一套桌椅 $\left(120+m\right)$ 元. $m=80
 
 ### 解答 练习十二
 
-共行驶 $\left(200+320\right)x=520x$ km. 多行驶 $\left(320-200\right)x=120x$ km. $\blacksquare$
+共行驶 $\left(200+320\right)x=520x$ km. 多行驶 $\left(320-200\right)x=120x$ km.
+
+$\blacksquare$
 
 ## 练习十三
 
@@ -122,7 +146,9 @@ $c=an$, $a=c\div{n}$, $n=c\div{a}$. 一套桌椅 $\left(120+m\right)$ 元. $m=80
 
 ### 解答 练习十三
 
-$x=8$ 时 $x^2=64$, $4x=32$. $x^2=4x$ 即 $x^2-4x=0$, $x\left(x-4\right)=0$, $x=0$ 或 $x=4$. $\blacksquare$
+$x=8$ 时 $x^2=64$, $4x=32$. $x^2=4x$ 即 $x^2-4x=0$, $x\left(x-4\right)=0$, $x=0$ 或 $x=4$.
+
+$\blacksquare$
 
 ## 练习十四
 
@@ -130,7 +156,9 @@ $x=8$ 时 $x^2=64$, $4x=32$. $x^2=4x$ 即 $x^2-4x=0$, $x\left(x-4\right)=0$, $x=
 
 ### 解答 练习十四
 
-由**定义 9.5.1 (用字母表示数)**, 右上角是 $a+1$, 左下角是 $a+10$, 右下角是 $a+11$. 对角和: $a+\left(a+11\right)=2a+11$, $\left(a+1\right)+\left(a+10\right)=2a+11$, 故相等. $\blacksquare$
+由**定义 9.5.1 (用字母表示数)**, 右上角是 $a+1$, 左下角是 $a+10$, 右下角是 $a+11$. 对角和: $a+\left(a+11\right)=2a+11$, $\left(a+1\right)+\left(a+10\right)=2a+11$, 故相等.
+
+$\blacksquare$
 
 ## 练习十五
 
@@ -138,7 +166,9 @@ $x=8$ 时 $x^2=64$, $4x=32$. $x^2=4x$ 即 $x^2-4x=0$, $x\left(x-4\right)=0$, $x=
 
 ### 解答 练习十五
 
-由**定义 9.5.1 (用字母表示数)**: (1) $\left(a+8\right)^\circ$C. (2) $\left(35-b\right)$ 名. (3) $3c$ 分. (4) $d\div3$ 个. $\blacksquare$
+由**定义 9.5.1 (用字母表示数)**: (1) $\left(a+8\right)^\circ$C. (2) $\left(35-b\right)$ 名. (3) $3c$ 分. (4) $d\div3$ 个.
+
+$\blacksquare$
 
 ## 练习十六
 
@@ -146,4 +176,6 @@ $x=8$ 时 $x^2=64$, $4x=32$. $x^2=4x$ 即 $x^2-4x=0$, $x\left(x-4\right)=0$, $x=
 
 ### 解答 练习十六
 
-由**定义 9.5.4 (等式的性质)**: $a+3=b+3$; $a-9=b-9$; $a\times1.5=b\times1.5$; $a-c=b-c$. $\blacksquare$
+由**定义 9.5.4 (等式的性质)**: $a+3=b+3$; $a-9=b-9$; $a\times1.5=b\times1.5$; $a-c=b-c$.
+
+$\blacksquare$

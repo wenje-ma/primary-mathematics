@@ -46,7 +46,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 8.4.7 (Unit Conversion)**: $25.52\,\mathrm{m}=25\,\mathrm{m}\,52\,\mathrm{cm}$; $596\,\mathrm{cm}=5.96\,\mathrm{m}$; $4\,\mathrm{m}\,72\,\mathrm{cm}=4.72\,\mathrm{m}$. $\blacksquare$
+By **Definition 8.4.7 (Unit Conversion)**: $25.52\,\mathrm{m}=25\,\mathrm{m}\,52\,\mathrm{cm}$; $596\,\mathrm{cm}=5.96\,\mathrm{m}$; $4\,\mathrm{m}\,72\,\mathrm{cm}=4.72\,\mathrm{m}$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -54,7 +56,9 @@ By **Definition 8.4.7 (Unit Conversion)**: $25.52\,\mathrm{m}=25\,\mathrm{m}\,52
 
 ### Solution to Exercise 2
 
-Running the same distance, the shorter the time the faster: $8.50<8.92<9.23<10.01$, so the ranking is $8.50$s first, $8.92$s second, $9.23$s third, $10.01$s fourth. $\blacksquare$
+Running the same distance, the shorter the time the faster: $8.50<8.92<9.23<10.01$, so the ranking is $8.50$s first, $8.92$s second, $9.23$s third, $10.01$s fourth.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -62,7 +66,9 @@ Running the same distance, the shorter the time the faster: $8.50<8.92<9.23<10.0
 
 ### Solution to Exercise 3
 
-(1) After "rounding down" it is $3.6$, so the original number is between $3.60$ and $3.64$, e.g. $3.61$, $3.62$, $3.63$, $3.64$. (2) After "rounding up" it is $5.0$, so the original number is between $4.95$ and $4.99$, e.g. $4.95$, $4.96$, $4.97$, $4.98$, $4.99$. $\blacksquare$
+(1) After "rounding down" it is $3.6$, so the original number is between $3.60$ and $3.64$, e.g. $3.61$, $3.62$, $3.63$, $3.64$. (2) After "rounding up" it is $5.0$, so the original number is between $4.95$ and $4.99$, e.g. $4.95$, $4.96$, $4.97$, $4.98$, $4.99$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -70,7 +76,9 @@ Running the same distance, the shorter the time the faster: $8.50<8.92<9.23<10.0
 
 ### Solution to Exercise 4
 
-By **Definition 8.4.1 (Meaning of Decimals)**: $0.3$ is $3$ pieces of $0.1$; $0.06$ is $6$ pieces of $0.01$; $0.21$ is $21$ pieces of $0.01$; $2.5$ is $2$ ones and $5$ pieces of $0.1$; $20.705$ is $20$ ones, $7$ pieces of $0.1$ and $5$ pieces of $0.001$. $\blacksquare$
+By **Definition 8.4.1 (Meaning of Decimals)**: $0.3$ is $3$ pieces of $0.1$; $0.06$ is $6$ pieces of $0.01$; $0.21$ is $21$ pieces of $0.01$; $2.5$ is $2$ ones and $5$ pieces of $0.1$; $20.705$ is $20$ ones, $7$ pieces of $0.1$ and $5$ pieces of $0.001$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -78,7 +86,9 @@ By **Definition 8.4.1 (Meaning of Decimals)**: $0.3$ is $3$ pieces of $0.1$; $0.
 
 ### Solution to Exercise 5
 
-By **Definition 8.4.5 (Comparing Decimals)**: $8.7>7.9$; $4.300=4.3$; $2.613<2.614$; $0.41>0.409$; $570\,\mathrm{cm}=5.70\,\mathrm{m}$; $70\,\mathrm{g}=0.07\,\mathrm{kg}<0.7\,\mathrm{kg}$. $\blacksquare$
+By **Definition 8.4.5 (Comparing Decimals)**: $8.7>7.9$; $4.300=4.3$; $2.613<2.614$; $0.41>0.409$; $570\,\mathrm{cm}=5.70\,\mathrm{m}$; $70\,\mathrm{g}=0.07\,\mathrm{kg}<0.7\,\mathrm{kg}$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -86,7 +96,9 @@ By **Definition 8.4.5 (Comparing Decimals)**: $8.7>7.9$; $4.300=4.3$; $2.613<2.6
 
 ### Solution to Exercise 6
 
-By **Definition 8.4.6 (Moving the Decimal Point)**: $354$ is $3.54$ expanded $100$ times; $0.354$ shrunk to $\frac{1}{10}$; $35.4$ expanded $10$ times; $0.0354$ shrunk to $\frac{1}{100}$; $3540$ expanded $1000$ times. $\blacksquare$
+By **Definition 8.4.6 (Moving the Decimal Point)**: $354$ is $3.54$ expanded $100$ times; $0.354$ shrunk to $\frac{1}{10}$; $35.4$ expanded $10$ times; $0.0354$ shrunk to $\frac{1}{100}$; $3540$ expanded $1000$ times.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -94,7 +106,9 @@ By **Definition 8.4.6 (Moving the Decimal Point)**: $354$ is $3.54$ expanded $10
 
 ### Solution to Exercise 7
 
-By **Definition 8.4.8 (Approximate Values)** and **Definition 8.4.9 (Rewriting)**: $1.96\approx2.0$; $2.104\approx2.10$; $254700=25.47$ ten thousand $\approx25.5$ ten thousand. $\blacksquare$
+By **Definition 8.4.8 (Approximate Values)** and **Definition 8.4.9 (Rewriting)**: $1.96\approx2.0$; $2.104\approx2.10$; $254700=25.47$ ten thousand $\approx25.5$ ten thousand.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -102,7 +116,9 @@ By **Definition 8.4.8 (Approximate Values)** and **Definition 8.4.9 (Rewriting)*
 
 ### Solution to Exercise 8
 
-By **Definition 8.4.1 (Meaning of Decimals)**, for $0.8$ divide a square equally into $10$ parts and shade $8$; for $0.39$ divide into $100$ parts and shade $39$; for $1.43$ fill $1$ whole and shade $43$ parts of another. $\blacksquare$
+By **Definition 8.4.1 (Meaning of Decimals)**, for $0.8$ divide a square equally into $10$ parts and shade $8$; for $0.39$ divide into $100$ parts and shade $39$; for $1.43$ fill $1$ whole and shade $43$ parts of another.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -110,7 +126,9 @@ By **Definition 8.4.1 (Meaning of Decimals)**, for $0.8$ divide a square equally
 
 ### Solution to Exercise 9
 
-Combined with everyday experience: unit price $54.5$ yuan, weight $1.68\,\mathrm{kg}$, height $2.5\,\mathrm{m}$ (any reasonable answer). $\blacksquare$
+Combined with everyday experience: unit price $54.5$ yuan, weight $1.68\,\mathrm{kg}$, height $2.5\,\mathrm{m}$ (any reasonable answer).
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -118,7 +136,9 @@ Combined with everyday experience: unit price $54.5$ yuan, weight $1.68\,\mathrm
 
 ### Solution to Exercise 10
 
-By **Definition 8.4.7 (Unit Conversion)** and **Definition 8.4.9 (Rewriting)**: $44$ hectares $=0.44\,\mathrm{km^2}$; $60.06$ hundred million passenger-trips $=6006000000$ passenger-trips; $11034\,\mathrm{m}=11.034\,\mathrm{km}$. $\blacksquare$
+By **Definition 8.4.7 (Unit Conversion)** and **Definition 8.4.9 (Rewriting)**: $44$ hectares $=0.44\,\mathrm{km^2}$; $60.06$ hundred million passenger-trips $=6006000000$ passenger-trips; $11034\,\mathrm{m}=11.034\,\mathrm{km}$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -126,7 +146,9 @@ By **Definition 8.4.7 (Unit Conversion)** and **Definition 8.4.9 (Rewriting)**: 
 
 ### Solution to Exercise 11
 
-By **Definition 8.4.6 (Moving the Decimal Point)**: $0.25$ expanded to its $100$ times is $25$; $30.5$ shrunk to its $\frac{1}{10}$ is $3.05$; $15.3$ shrunk to its $\frac{1}{100}$ is $0.153$. $\blacksquare$
+By **Definition 8.4.6 (Moving the Decimal Point)**: $0.25$ expanded to its $100$ times is $25$; $30.5$ shrunk to its $\frac{1}{10}$ is $3.05$; $15.3$ shrunk to its $\frac{1}{100}$ is $0.153$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -134,7 +156,9 @@ By **Definition 8.4.6 (Moving the Decimal Point)**: $0.25$ expanded to its $100$
 
 ### Solution to Exercise 12
 
-(1) correct; (2) correct; (3) correct; (4) correct. $\blacksquare$
+(1) correct; (2) correct; (3) correct; (4) correct.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -142,7 +166,9 @@ By **Definition 8.4.6 (Moving the Decimal Point)**: $0.25$ expanded to its $100$
 
 ### Solution to Exercise 13
 
-By **Definition 8.4.8 (Approximate Values)** and **Definition 8.4.9 (Rewriting)**: $3.054\approx3.1$; $20.0463\approx20.05$; $299792\,\mathrm{km}\approx30.0$ ten thousand kilometers. $\blacksquare$
+By **Definition 8.4.8 (Approximate Values)** and **Definition 8.4.9 (Rewriting)**: $3.054\approx3.1$; $20.0463\approx20.05$; $299792\,\mathrm{km}\approx30.0$ ten thousand kilometers.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -150,4 +176,6 @@ By **Definition 8.4.8 (Approximate Values)** and **Definition 8.4.9 (Rewriting)*
 
 ### Solution to Exercise 14
 
-Unify units: $14\,\mathrm{cm}=0.14\,\mathrm{m}$, so $0.\square4>0.14$, $\square$ can be $2\sim9$; $0.018\,\mathrm{kg}=18\,\mathrm{g}$, so $\square<18$, can be $1\sim17$; $694\,\mathrm{cm}=6.94\,\mathrm{m}$, $6.94>6.\square8$, $\square$ can be $0\sim8$; $1252$ hectares $=12.52\,\mathrm{km^2}$, $12.\square3>12.52$, $\square$ can be $5\sim9$. $\blacksquare$
+Unify units: $14\,\mathrm{cm}=0.14\,\mathrm{m}$, so $0.\square4>0.14$, $\square$ can be $2\sim9$; $0.018\,\mathrm{kg}=18\,\mathrm{g}$, so $\square<18$, can be $1\sim17$; $694\,\mathrm{cm}=6.94\,\mathrm{m}$, $6.94>6.\square8$, $\square$ can be $0\sim8$; $1252$ hectares $=12.52\,\mathrm{km^2}$, $12.\square3>12.52$, $\square$ can be $5\sim9$.
+
+$\blacksquare$

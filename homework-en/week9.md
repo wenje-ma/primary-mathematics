@@ -22,7 +22,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 1.5.2 (Swapping Addends)**: $3+8=11$, $4+8=12$, $5+7=12$, $7+6=13$. $\blacksquare$
+By **Definition 1.5.2 (Swapping Addends)**: $3+8=11$, $4+8=12$, $5+7=12$, $7+6=13$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -30,7 +32,9 @@ By **Definition 1.5.2 (Swapping Addends)**: $3+8=11$, $4+8=12$, $5+7=12$, $7+6=1
 
 ### Solution to Exercise 2
 
-By **Definition 1.5.1 (Make-a-Ten Method)**, additions with result $13$: $5+8=13$, $6+7=13$, $9+4=13$, $8+5=13$, $7+6=13$, etc.; find the corresponding cards. $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)**, additions with result $13$: $5+8=13$, $6+7=13$, $9+4=13$, $8+5=13$, $7+6=13$, etc.; find the corresponding cards.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -38,7 +42,9 @@ By **Definition 1.5.1 (Make-a-Ten Method)**, additions with result $13$: $5+8=13
 
 ### Solution to Exercise 3
 
-By **Definition 1.5.1 (Make-a-Ten Method)**, e.g. $8+4=12$, $8+0=8$, $8+2=10$, $8+7=15$, $8+5=13$, $8+8=16$, $8+3=11$, $8+10=18$; similarly for $3,4,5$. $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)**, e.g. $8+4=12$, $8+0=8$, $8+2=10$, $8+7=15$, $8+5=13$, $8+8=16$, $8+3=11$, $8+10=18$; similarly for $3,4,5$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -46,7 +52,9 @@ By **Definition 1.5.1 (Make-a-Ten Method)**, e.g. $8+4=12$, $8+0=8$, $8+2=10$, $
 
 ### Solution to Exercise 4
 
-By **Definition 1.5.1 (Make-a-Ten Method)**, result $12$: $5+7,4+8$; $13$: $7+6,6+7,9+4$; $14$: $6+8,8+6$; $15$: $7+8,6+9$. $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)**, result $12$: $5+7,4+8$; $13$: $7+6,6+7,9+4$; $14$: $6+8,8+6$; $15$: $7+8,6+9$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -54,7 +62,9 @@ By **Definition 1.5.1 (Make-a-Ten Method)**, result $12$: $5+7,4+8$; $13$: $7+6,
 
 ### Solution to Exercise 5
 
-By **Definition 1.5.1 (Make-a-Ten Method)**: $5+9=14$, $9+5=14$, $2+12=14$, $8+6=14$, $7+7=14$, $4+10=14$, $6+8=14$, $10+4=14$. $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)**: $5+9=14$, $9+5=14$, $2+12=14$, $8+6=14$, $7+7=14$, $4+10=14$, $6+8=14$, $10+4=14$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -62,7 +72,9 @@ By **Definition 1.5.1 (Make-a-Ten Method)**: $5+9=14$, $9+5=14$, $2+12=14$, $8+6
 
 ### Solution to Exercise 6
 
-By **Definition 1.5.3 (Using Addition to Solve Problems)**, according to the number that came in the picture, e.g. $7+4=11$ (monkeys). $\blacksquare$
+By **Definition 1.5.3 (Using Addition to Solve Problems)**, according to the number that came in the picture, e.g. $7+4=11$ (monkeys).
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -70,7 +82,9 @@ By **Definition 1.5.3 (Using Addition to Solve Problems)**, according to the num
 
 ### Solution to Exercise 7
 
-By **Definition 1.5.3 (Using Addition to Solve Problems)**: $7+6=13$ (items); $4+7=11$ (sticks); $5+8=13$ (items). $\blacksquare$
+By **Definition 1.5.3 (Using Addition to Solve Problems)**: $7+6=13$ (items); $4+7=11$ (sticks); $5+8=13$ (items).
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -78,7 +92,9 @@ By **Definition 1.5.3 (Using Addition to Solve Problems)**: $7+6=13$ (items); $4
 
 ### Solution to Exercise 8
 
-Calculate first, then compare: $9+4=13$, so $=$; $7+9=16>15$; $4+6=10<11$; $6+7=13>12$; $8+5=13<14$; $9+8=17>16$. $\blacksquare$
+Calculate first, then compare: $9+4=13$, so $=$; $7+9=16>15$; $4+6=10<11$; $6+7=13>12$; $8+5=13<14$; $9+8=17>16$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -86,7 +102,9 @@ Calculate first, then compare: $9+4=13$, so $=$; $7+9=16>15$; $4+6=10<11$; $6+7=
 
 ### Solution to Exercise 9
 
-By **Definition 1.5.1 (Make-a-Ten Method)**: $5+6=11$, $4+7=11$, $5+7=12$, $6+7=13$, $5+8=13$. Observation: when one addend stays the same and the other increases, the sum also increases. $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)**: $5+6=11$, $4+7=11$, $5+7=12$, $6+7=13$, $5+8=13$. Observation: when one addend stays the same and the other increases, the sum also increases.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -94,7 +112,9 @@ By **Definition 1.5.1 (Make-a-Ten Method)**: $5+6=11$, $4+7=11$, $5+7=12$, $6+7=
 
 ### Solution to Exercise 10
 
-By **Definition 1.5.1 (Make-a-Ten Method)**: $6+9=15$; $5+8=13$; $4+9=13$; $5+6=11$; $4+8=12$; $2+9=11$. $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)**: $6+9=15$; $5+8=13$; $4+9=13$; $5+6=11$; $4+8=12$; $2+9=11$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -102,7 +122,9 @@ By **Definition 1.5.1 (Make-a-Ten Method)**: $6+9=15$; $5+8=13$; $4+9=13$; $5+6=
 
 ### Solution to Exercise 11
 
-Sum the numbers on both people's balloons; swap a balloon from the larger-sum group with one from the smaller-sum group that differs by half the difference, so that the two sums become equal. $\blacksquare$
+Sum the numbers on both people's balloons; swap a balloon from the larger-sum group with one from the smaller-sum group that differs by half the difference, so that the two sums become equal.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -110,7 +132,9 @@ Sum the numbers on both people's balloons; swap a balloon from the larger-sum gr
 
 ### Solution to Exercise 12
 
-By **Definition 1.5.3 (Using Addition to Solve Problems)**, combine the numbers of swans on the water and on the water in the picture; e.g. $8+5=13$ (birds). $\blacksquare$
+By **Definition 1.5.3 (Using Addition to Solve Problems)**, combine the numbers of swans on the water and on the water in the picture; e.g. $8+5=13$ (birds).
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -118,7 +142,9 @@ By **Definition 1.5.3 (Using Addition to Solve Problems)**, combine the numbers 
 
 ### Solution to Exercise 13
 
-By **Definition 1.5.3 (Using Addition to Solve Problems)**, the borrowed plus the remaining is the original: $4+8=12$ (balls). $\blacksquare$
+By **Definition 1.5.3 (Using Addition to Solve Problems)**, the borrowed plus the remaining is the original: $4+8=12$ (balls).
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -126,7 +152,9 @@ By **Definition 1.5.3 (Using Addition to Solve Problems)**, the borrowed plus th
 
 ### Solution to Exercise 14
 
-By **Definition 1.5.3 (Using Addition to Solve Problems)**, split by boys/girls or front/back rows; e.g. $8+7=15$ (people), or $9+6=15$. $\blacksquare$
+By **Definition 1.5.3 (Using Addition to Solve Problems)**, split by boys/girls or front/back rows; e.g. $8+7=15$ (people), or $9+6=15$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -134,7 +162,9 @@ By **Definition 1.5.3 (Using Addition to Solve Problems)**, split by boys/girls 
 
 ### Solution to Exercise 15
 
-By **Definition 1.5.3 (Using Addition to Solve Problems)**, eaten plus remaining: $5+6=11$ (berries). $\blacksquare$
+By **Definition 1.5.3 (Using Addition to Solve Problems)**, eaten plus remaining: $5+6=11$ (berries).
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -142,7 +172,9 @@ By **Definition 1.5.3 (Using Addition to Solve Problems)**, eaten plus remaining
 
 ### Solution to Exercise 16
 
-By **Definition 1.5.1 (Make-a-Ten Method)** and **Definition 1.4.4 (Ten-Something Plus a Number and Corresponding Subtraction)**: $8+5=13$, $4+9=13$, $10-4=6$, $3+8=11$, $5+7=12$, $6+8=14$, $10+5=15$, $9-6=3$, $7+4=11$, $9+3=12$, $13+2=15$, $2+8=10$. $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)** and **Definition 1.4.4 (Ten-Something Plus a Number and Corresponding Subtraction)**: $8+5=13$, $4+9=13$, $10-4=6$, $3+8=11$, $5+7=12$, $6+8=14$, $10+5=15$, $9-6=3$, $7+4=11$, $9+3=12$, $13+2=15$, $2+8=10$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -150,7 +182,9 @@ By **Definition 1.5.1 (Make-a-Ten Method)** and **Definition 1.4.4 (Ten-Somethin
 
 ### Solution to Exercise 17
 
-By **Definition 1.5.3 (Using Addition to Solve Problems)**, inside plus outside: $7+5=12$ (students). $\blacksquare$
+By **Definition 1.5.3 (Using Addition to Solve Problems)**, inside plus outside: $7+5=12$ (students).
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -158,7 +192,9 @@ By **Definition 1.5.3 (Using Addition to Solve Problems)**, inside plus outside:
 
 ### Solution to Exercise 18
 
-By **Definition 1.5.3 (Using Addition to Solve Problems)**, count the sticks used for pattern ① and pattern ③ and add them, then pose and solve an additional addition problem. $\blacksquare$
+By **Definition 1.5.3 (Using Addition to Solve Problems)**, count the sticks used for pattern ① and pattern ③ and add them, then pose and solve an additional addition problem.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -166,7 +202,9 @@ By **Definition 1.5.3 (Using Addition to Solve Problems)**, count the sticks use
 
 ### Solution to Exercise 19
 
-Calculate first, then compare: $4+8=12$, $13>12$; $3+9=12<14$; $7+6=13>12$; $5+7=12$, $11<12$; $6+5=11<12$; $3+8=11$, so $=$. $\blacksquare$
+Calculate first, then compare: $4+8=12$, $13>12$; $3+9=12<14$; $7+6=13>12$; $5+7=12$, $11<12$; $6+5=11<12$; $3+8=11$, so $=$.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -174,7 +212,9 @@ Calculate first, then compare: $4+8=12$, $13>12$; $3+9=12<14$; $7+6=13>12$; $5+7
 
 ### Solution to Exercise 20
 
-Jingjing arranged the first addend starting from $9$ and the second addend from largest to smallest; fill in the rest following the pattern. $\blacksquare$
+Jingjing arranged the first addend starting from $9$ and the second addend from largest to smallest; fill in the rest following the pattern.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -182,7 +222,9 @@ Jingjing arranged the first addend starting from $9$ and the second addend from 
 
 ### Solution to Exercise 21
 
-Calculate by **Definition 1.5.1 (Make-a-Ten Method)**; the answer depends on the expression pointed to. $\blacksquare$
+Calculate by **Definition 1.5.1 (Make-a-Ten Method)**; the answer depends on the expression pointed to.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -190,4 +232,6 @@ Calculate by **Definition 1.5.1 (Make-a-Ten Method)**; the answer depends on the
 
 ### Solution to Exercise 22
 
-The first column is $9+1=10$, $9+2=11$, $9+3=12$, $\cdots$, $9+9=18$, with results increasing by $1$; the first row is $9+1=10$, $8+2=10$, $7+3=10$, $\cdots$, $1+9=10$, all results being $10$. $\blacksquare$
+The first column is $9+1=10$, $9+2=11$, $9+3=12$, $\cdots$, $9+9=18$, with results increasing by $1$; the first row is $9+1=10$, $8+2=10$, $7+3=10$, $\cdots$, $1+9=10$, all results being $10$.
+
+$\blacksquare$

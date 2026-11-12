@@ -46,7 +46,9 @@
 
 ### Solution to Exercise 1
 
-(1) You may raise "how many times are the red balloons the yellow": $42\div7=6$. (2) You may supply "how many times $\bigcirc$ is $\triangle$" or "how many more/fewer", for example $\bigcirc$ is $2$ times $\triangle$, $45\times2=90$. The supplied condition should be reasonable, and the answer is not unique. $\blacksquare$
+(1) You may raise "how many times are the red balloons the yellow": $42\div7=6$. (2) You may supply "how many times $\bigcirc$ is $\triangle$" or "how many more/fewer", for example $\bigcirc$ is $2$ times $\triangle$, $45\times2=90$. The supplied condition should be reasonable, and the answer is not unique.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -54,7 +56,9 @@
 
 ### Solution to Exercise 2
 
-Meat buns: $7\times4=28$, and in all $28+7=35$ buns. $\blacksquare$
+Meat buns: $7\times4=28$, and in all $28+7=35$ buns.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -62,7 +66,9 @@ Meat buns: $7\times4=28$, and in all $28+7=35$ buns. $\blacksquare$
 
 ### Solution to Exercise 3
 
-Rice: $5\times4=20$ bags; $20-5=15$ more bags of rice than flour. $\blacksquare$
+Rice: $5\times4=20$ bags; $20-5=15$ more bags of rice than flour.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -70,7 +76,9 @@ Rice: $5\times4=20$ bags; $20-5=15$ more bags of rice than flour. $\blacksquare$
 
 ### Solution to Exercise 4
 
-Per the tape diagram, however many times the pencils are the pens, multiply $5$ by that multiple to get the pencils. (2) For example "how many in all": add the pens and pencils. $\blacksquare$
+Per the tape diagram, however many times the pencils are the pens, multiply $5$ by that multiple to get the pencils. (2) For example "how many in all": add the pens and pencils.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -78,7 +86,9 @@ Per the tape diagram, however many times the pencils are the pens, multiply $5$ 
 
 ### Solution to Exercise 5
 
-(1) Choose ①: $26-15=11$ units; choose ②: $26+15=41$ units. (2) Choose ②: white rabbits $6+3=9$; choose ④: white rabbits $6\times3=18$. Choose ③: $6\div3=2$ rabbits (fewer white). Write the expression per the chosen condition. $\blacksquare$
+(1) Choose ①: $26-15=11$ units; choose ②: $26+15=41$ units. (2) Choose ②: white rabbits $6+3=9$; choose ④: white rabbits $6\times3=18$. Choose ③: $6\div3=2$ rabbits (fewer white). Write the expression per the chosen condition.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -86,7 +96,9 @@ Per the tape diagram, however many times the pencils are the pens, multiply $5$ 
 
 ### Solution to Exercise 6
 
-To use addition, the added condition should be "now it costs how many yuan more" or "how many more apricot than peach saplings". For example (1) now it costs $3$ yuan more, $9+3=12$ yuan; (2) the apricot saplings are $5$ more than the peach, $18+5=23$ saplings. The answer is not unique. $\blacksquare$
+To use addition, the added condition should be "now it costs how many yuan more" or "how many more apricot than peach saplings". For example (1) now it costs $3$ yuan more, $9+3=12$ yuan; (2) the apricot saplings are $5$ more than the peach, $18+5=23$ saplings. The answer is not unique.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -94,7 +106,9 @@ To use addition, the added condition should be "now it costs how many yuan more"
 
 ### Solution to Exercise 7
 
-(1) $12-4=8$ means the apple juice and orange juice total $12$ boxes, so add "orange juice and apple juice total $12$ boxes". (2) $4\times2=8$ finds the boxes of apple juice (raise "how many boxes of apple juice"), and $8+4=12$ finds the total (raise "how many boxes of the two juices in all"). $\blacksquare$
+(1) $12-4=8$ means the apple juice and orange juice total $12$ boxes, so add "orange juice and apple juice total $12$ boxes". (2) $4\times2=8$ finds the boxes of apple juice (raise "how many boxes of apple juice"), and $8+4=12$ finds the total (raise "how many boxes of the two juices in all").
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -102,7 +116,9 @@ To use addition, the added condition should be "now it costs how many yuan more"
 
 ### Solution to Exercise 8
 
-You may raise "how many times are the science books the comics": $27\div9=3$; or "how many books in all": $27+9=36$ books. The answer is not unique. $\blacksquare$
+You may raise "how many times are the science books the comics": $27\div9=3$; or "how many books in all": $27+9=36$ books. The answer is not unique.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -110,7 +126,9 @@ You may raise "how many times are the science books the comics": $27\div9=3$; or
 
 ### Solution to Exercise 9
 
-(1) Red beads stay $7$, so blue should be $7\times6=42$ beads; there are $48$, so remove $48-42=6$ beads. (2) Blue beads stay $48$, so red should be $48\div6=8$ beads; in all $48+8=56$ beads. $\blacksquare$
+(1) Red beads stay $7$, so blue should be $7\times6=42$ beads; there are $48$, so remove $48-42=6$ beads. (2) Blue beads stay $48$, so red should be $48\div6=8$ beads; in all $48+8=56$ beads.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -118,7 +136,9 @@ You may raise "how many times are the science books the comics": $27\div9=3$; or
 
 ### Solution to Exercise 10
 
-Organize as "relations between two quantities — add/subtract, difference, times — multiply/divide", marking $5\times3=15$, $15\div3=5$, $15\div5=3$. $\blacksquare$
+Organize as "relations between two quantities — add/subtract, difference, times — multiply/divide", marking $5\times3=15$, $15\div3=5$, $15\div5=3$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -126,7 +146,9 @@ Organize as "relations between two quantities — add/subtract, difference, time
 
 ### Solution to Exercise 11
 
-By **Definition 4.3.3 (求一个数的几倍是多少)**, $8\times4=32$ swans. This year $32$ came. $\blacksquare$
+By **Definition 4.3.3 (求一个数的几倍是多少)**, $8\times4=32$ swans. This year $32$ came.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -134,7 +156,9 @@ By **Definition 4.3.3 (求一个数的几倍是多少)**, $8\times4=32$ swans. T
 
 ### Solution to Exercise 12
 
-By **Definition 4.3.2 (求一个数是另一个数的几倍)**, $18\div6=3$. Saturday's writing is $3$ times Friday's. $\blacksquare$
+By **Definition 4.3.2 (求一个数是另一个数的几倍)**, $18\div6=3$. Saturday's writing is $3$ times Friday's.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -142,7 +166,9 @@ By **Definition 4.3.2 (求一个数是另一个数的几倍)**, $18\div6=3$. Sat
 
 ### Solution to Exercise 13
 
-(1) Girls $9\times3=27$, in all $27+9=36$. (2) Girls $9+18=27$, in all $27+9=36$. $\blacksquare$
+(1) Girls $9\times3=27$, in all $27+9=36$. (2) Girls $9+18=27$, in all $27+9=36$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -150,7 +176,9 @@ By **Definition 4.3.2 (求一个数是另一个数的几倍)**, $18\div6=3$. Sat
 
 ### Solution to Exercise 14
 
-(1) You may raise "how many $\bigcirc$": $8\times3=24$ flowers. (2) Supply a condition such as "$\bigcirc$ is $2$ times $\triangle$" or "$\bigcirc$ is $5$ more than $\triangle$", then multiply or add accordingly. The answer is not unique. $\blacksquare$
+(1) You may raise "how many $\bigcirc$": $8\times3=24$ flowers. (2) Supply a condition such as "$\bigcirc$ is $2$ times $\triangle$" or "$\bigcirc$ is $5$ more than $\triangle$", then multiply or add accordingly. The answer is not unique.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -158,7 +186,9 @@ By **Definition 4.3.2 (求一个数是另一个数的几倍)**, $18\div6=3$. Sat
 
 ### Solution to Exercise 15
 
-(1) $198,199,200,201,202,203$. (2) $220,230,240,250,260,270,280,290,300,310$. By **Definition 4.4.1 (计数单位的十进关系)**, when the ones place reaches ten, carry $1$ to the tens place, and when the tens place reaches ten, carry $1$ to the hundreds place. $\blacksquare$
+(1) $198,199,200,201,202,203$. (2) $220,230,240,250,260,270,280,290,300,310$. By **Definition 4.4.1 (计数单位的十进关系)**, when the ones place reaches ten, carry $1$ to the tens place, and when the tens place reaches ten, carry $1$ to the hundreds place.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -166,7 +196,9 @@ By **Definition 4.3.2 (求一个数是另一个数的几倍)**, $18\div6=3$. Sat
 
 ### Solution to Exercise 16
 
-After three hundred eight: $309,310,311,312,313$; after four hundred nineteen: $420,421,422,423,424$; after five hundred forty-six: $547,548,549,550,551$; after eight hundred ninety-seven: $898,899,900,901,902$. $\blacksquare$
+After three hundred eight: $309,310,311,312,313$; after four hundred nineteen: $420,421,422,423,424$; after five hundred forty-six: $547,548,549,550,551$; after eight hundred ninety-seven: $898,899,900,901,902$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -174,7 +206,9 @@ After three hundred eight: $309,310,311,312,313$; after four hundred nineteen: $
 
 ### Solution to Exercise 17
 
-Reading by **Definition 4.4.3 (万以内数的读法)**, mark $285$ between $280$ and $290$, mark $294$ between $290$ and $300$, and mark $308$ between $300$ and $310$, read respectively as two hundred eighty-five, two hundred ninety-four, three hundred eight. $\blacksquare$
+Reading by **Definition 4.4.3 (万以内数的读法)**, mark $285$ between $280$ and $290$, mark $294$ between $290$ and $300$, and mark $308$ between $300$ and $310$, read respectively as two hundred eighty-five, two hundred ninety-four, three hundred eight.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -182,7 +216,9 @@ Reading by **Definition 4.4.3 (万以内数的读法)**, mark $285$ between $280
 
 ### Solution to Exercise 18
 
-By **Definition 4.4.1 (计数单位的十进关系)**, $10$ hundreds make a thousand, so $10$ copies of $100$ make $1000$; $100$ tens make a thousand, so $100$ copies of $10$ make $1000$. $\blacksquare$
+By **Definition 4.4.1 (计数单位的十进关系)**, $10$ hundreds make a thousand, so $10$ copies of $100$ make $1000$; $100$ tens make a thousand, so $100$ copies of $10$ make $1000$.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -190,4 +226,6 @@ By **Definition 4.4.1 (计数单位的十进关系)**, $10$ hundreds make a thou
 
 ### Solution to Exercise 19
 
-The number of stacks of $100$ gives the hundreds, the number of piles of $10$ gives the tens, and the leftover cards give the ones; write the number from them. Fill in per the actual stacks and piles in the picture. $\blacksquare$
+The number of stacks of $100$ gives the hundreds, the number of piles of $10$ gives the tens, and the leftover cards give the ones; write the number from them. Fill in per the actual stacks and piles in the picture.
+
+$\blacksquare$

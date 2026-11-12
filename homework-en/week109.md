@@ -42,7 +42,9 @@
 
 ### Solution to Exercise 1
 
-Eggplant $25\times15=375$ m$^2$; cucumber $15\times15=225$ m$^2$; the tomato triangle is computed by substituting its base and height; add the areas for the total. $\blacksquare$
+Eggplant $25\times15=375$ m$^2$; cucumber $15\times15=225$ m$^2$; the tomato triangle is computed by substituting its base and height; add the areas for the total.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -50,7 +52,9 @@ Eggplant $25\times15=375$ m$^2$; cucumber $15\times15=225$ m$^2$; the tomato tri
 
 ### Solution to Exercise 2
 
-By **Definition 9.9.2 (Review of Shapes and Geometry)**, observe the direction and position of each figure: a change in direction is rotation, a change in position is translation, and draw dashed axes of symmetry for axial symmetry. $\blacksquare$
+By **Definition 9.9.2 (Review of Shapes and Geometry)**, observe the direction and position of each figure: a change in direction is rotation, a change in position is translation, and draw dashed axes of symmetry for axial symmetry.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -58,7 +62,9 @@ By **Definition 9.9.2 (Review of Shapes and Geometry)**, observe the direction a
 
 ### Solution to Exercise 3
 
-By **Definition 9.9.1 (小数乘除法的整理)**: $1.36\times0.05=0.068$; $32.5\div2.5=13$; $0.06\times1.7=0.102$; $65\div2.6=25$; $2.08\times75=156$; $2.3\div0.46=5$; $2.73\times1.5=4.095$; $1.83+2.7=4.53$; $5.5\times17.3+6.7\times5.5=5.5\times\left(17.3+6.7\right)=5.5\times24=132$; $28.5\div15=1.9$; $8.3-2.63=5.67$; $3.8+4.29+2.1+4.2=14.39$. $\blacksquare$
+By **Definition 9.9.1 (小数乘除法的整理)**: $1.36\times0.05=0.068$; $32.5\div2.5=13$; $0.06\times1.7=0.102$; $65\div2.6=25$; $2.08\times75=156$; $2.3\div0.46=5$; $2.73\times1.5=4.095$; $1.83+2.7=4.53$; $5.5\times17.3+6.7\times5.5=5.5\times\left(17.3+6.7\right)=5.5\times24=132$; $28.5\div15=1.9$; $8.3-2.63=5.67$; $3.8+4.29+2.1+4.2=14.39$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -66,7 +72,9 @@ By **Definition 9.9.1 (小数乘除法的整理)**: $1.36\times0.05=0.068$; $32.
 
 ### Solution to Exercise 4
 
-(1) $x=50$: $2x-16=84>68$; $2x+16=116>68$. (2) $x=5$: $4x+3x=35=35$; $4+3x=19<35$. $\blacksquare$
+(1) $x=50$: $2x-16=84>68$; $2x+16=116>68$. (2) $x=5$: $4x+3x=35=35$; $4+3x=19<35$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -74,7 +82,9 @@ By **Definition 9.9.1 (小数乘除法的整理)**: $1.36\times0.05=0.068$; $32.
 
 ### Solution to Exercise 5
 
-$1763.8\div12\approx147.0$ mm. $\blacksquare$
+$1763.8\div12\approx147.0$ mm.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -82,7 +92,9 @@ $1763.8\div12\approx147.0$ mm. $\blacksquare$
 
 ### Solution to Exercise 6
 
-By **Definition 9.6.4 (Trapezoid Area)**, $S=\left(1+1.2\right)\times0.7\div2=2.2\times0.7\div2=0.77$ m$^2$. $\blacksquare$
+By **Definition 9.6.4 (Trapezoid Area)**, $S=\left(1+1.2\right)\times0.7\div2=2.2\times0.7\div2=0.77$ m$^2$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -90,7 +102,9 @@ By **Definition 9.6.4 (Trapezoid Area)**, $S=\left(1+1.2\right)\times0.7\div2=2.
 
 ### Solution to Exercise 7
 
-$1$ hectare $=10000$ m$^2$, holding $12\times10000=120000$ people. $1$ km$^2=1000000$ m$^2$, holding $12\times1000000=12000000$ people. $\blacksquare$
+$1$ hectare $=10000$ m$^2$, holding $12\times10000=120000$ people. $1$ km$^2=1000000$ m$^2$, holding $12\times1000000=12000000$ people.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -98,7 +112,9 @@ $1$ hectare $=10000$ m$^2$, holding $12\times10000=120000$ people. $1$ km$^2=100
 
 ### Solution to Exercise 8
 
-By **Definition 9.1.3 (Reconstructing a Composite Solid from Views)**, with the left view fixed, the remaining cubes may be placed at positions that do not change the left projection; the arrangement is not unique. $\blacksquare$
+By **Definition 9.1.3 (Reconstructing a Composite Solid from Views)**, with the left view fixed, the remaining cubes may be placed at positions that do not change the left projection; the arrangement is not unique.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -106,7 +122,9 @@ By **Definition 9.1.3 (Reconstructing a Composite Solid from Views)**, with the 
 
 ### Solution to Exercise 9
 
-By **Definition 9.4.3 (Rotation)**, draw each rotated figure in turn and color it; the four directions together look like a windmill or a cross flower. $\blacksquare$
+By **Definition 9.4.3 (Rotation)**, draw each rotated figure in turn and color it; the four directions together look like a windmill or a cross flower.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -114,7 +132,9 @@ By **Definition 9.4.3 (Rotation)**, draw each rotated figure in turn and color i
 
 ### Solution to Exercise 10
 
-Two coins have $4$ possible face combinations: HH, HT, TH, TT. The same outcomes are HH and TT ($2$ ways); the different outcomes are HT and TH ($2$ ways); each has half the probability, so the game is fair. $\blacksquare$
+Two coins have $4$ possible face combinations: HH, HT, TH, TT. The same outcomes are HH and TT ($2$ ways); the different outcomes are HT and TH ($2$ ways); each has half the probability, so the game is fair.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -122,7 +142,9 @@ Two coins have $4$ possible face combinations: HH, HT, TH, TT. The same outcomes
 
 ### Solution to Exercise 11
 
-Triangle $180^\circ$, quadrilateral $360^\circ$, pentagon $540^\circ$. Rule: an $n$-gon's interior angle sum $=\left(n-2\right)\times180^\circ$. $\blacksquare$
+Triangle $180^\circ$, quadrilateral $360^\circ$, pentagon $540^\circ$. Rule: an $n$-gon's interior angle sum $=\left(n-2\right)\times180^\circ$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -130,7 +152,9 @@ Triangle $180^\circ$, quadrilateral $360^\circ$, pentagon $540^\circ$. Rule: an 
 
 ### Solution to Exercise 12
 
-Round trip is $2.56$ s, so one way is $2.56\div2=1.28$ s. Distance $30\times1.28=38.4$ ten-thousand km. $\blacksquare$
+Round trip is $2.56$ s, so one way is $2.56\div2=1.28$ s. Distance $30\times1.28=38.4$ ten-thousand km.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -138,7 +162,9 @@ Round trip is $2.56$ s, so one way is $2.56\div2=1.28$ s. Distance $30\times1.28
 
 ### Solution to Exercise 13
 
-The three squares' areas: $3^2=9$ cm$^2$, $4^2=16$ cm$^2$, $5^2=25$ cm$^2$. Relationship: $9+16=25$, i.e. the sum of the squares on the two legs equals the square on the hypotenuse. $\blacksquare$
+The three squares' areas: $3^2=9$ cm$^2$, $4^2=16$ cm$^2$, $5^2=25$ cm$^2$. Relationship: $9+16=25$, i.e. the sum of the squares on the two legs equals the square on the hypotenuse.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -146,7 +172,9 @@ The three squares' areas: $3^2=9$ cm$^2$, $4^2=16$ cm$^2$, $5^2=25$ cm$^2$. Rela
 
 ### Solution to Exercise 14
 
-By **Definition 10.1.2 (Building a Solid from Views)**, first place $3$ cubes in a horizontal row so the front view is $3$ horizontal squares; then stack the remaining $2$ cubes above any two positions in the row, as long as the top view remains $3$ horizontal squares; the stacking positions differ, so the arrangement is not unique. $\blacksquare$
+By **Definition 10.1.2 (Building a Solid from Views)**, first place $3$ cubes in a horizontal row so the front view is $3$ horizontal squares; then stack the remaining $2$ cubes above any two positions in the row, as long as the top view remains $3$ horizontal squares; the stacking positions differ, so the arrangement is not unique.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -154,7 +182,9 @@ By **Definition 10.1.2 (Building a Solid from Views)**, first place $3$ cubes in
 
 ### Solution to Exercise 15
 
-By **Definition 10.1.2 (Building a Solid from Views)**, first build the bottom layer from the front view, then continue using the left view, and finally adjust against the top view. (1) With all three views, the solid is uniquely determined; (2) With only front and left views, the arrangement is not unique and has many possibilities. $\blacksquare$
+By **Definition 10.1.2 (Building a Solid from Views)**, first build the bottom layer from the front view, then continue using the left view, and finally adjust against the top view. (1) With all three views, the solid is uniquely determined; (2) With only front and left views, the arrangement is not unique and has many possibilities.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -162,7 +192,9 @@ By **Definition 10.1.2 (Building a Solid from Views)**, first build the bottom l
 
 ### Solution to Exercise 16
 
-By **Definition 10.1.1 (Directions for Observing Objects)**, view each solid from front and left in turn and list the labels whose view matches. (2) With the front shape fixed, the $5$th cube may be placed in an empty spot in front of or behind the $3$ bottom positions, giving many arrangements. (3) Imitate (1) and (2) and ask each other questions. $\blacksquare$
+By **Definition 10.1.1 (Directions for Observing Objects)**, view each solid from front and left in turn and list the labels whose view matches. (2) With the front shape fixed, the $5$th cube may be placed in an empty spot in front of or behind the $3$ bottom positions, giving many arrangements. (3) Imitate (1) and (2) and ask each other questions.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -170,4 +202,6 @@ By **Definition 10.1.1 (Directions for Observing Objects)**, view each solid fro
 
 ### Solution to Exercise 17
 
-By **Definition 10.1.2 (Building a Solid from Views)**, only the solid satisfying both the front and top views meets the requirement; mark "$\surd$" in the parentheses below it, and not in the others. $\blacksquare$
+By **Definition 10.1.2 (Building a Solid from Views)**, only the solid satisfying both the front and top views meets the requirement; mark "$\surd$" in the parentheses below it, and not in the others.
+
+$\blacksquare$

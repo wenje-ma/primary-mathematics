@@ -30,7 +30,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: count them one by one according to the definitions. $\blacksquare$
+By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: count them one by one according to the definitions.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -38,7 +40,9 @@ By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: co
 
 ### Solution to Exercise 2
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: count them pair by pair according to the definitions. $\blacksquare$
+By **Definition 7.6.1 (Parallel and Perpendicular)**: count them pair by pair according to the definitions.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -46,7 +50,9 @@ By **Definition 7.6.1 (Parallel and Perpendicular)**: count them pair by pair ac
 
 ### Solution to Exercise 3
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: a square has four equal sides and four right angles; a parallelogram has two pairs of parallel sides; a trapezoid has only one pair of parallel sides. $\blacksquare$
+By **Definition 7.6.1 (Parallel and Perpendicular)**: a square has four equal sides and four right angles; a parallelogram has two pairs of parallel sides; a trapezoid has only one pair of parallel sides.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -54,7 +60,9 @@ By **Definition 7.6.1 (Parallel and Perpendicular)**: a square has four equal si
 
 ### Solution to Exercise 4
 
-By **Definition 7.6.3 (Parallelogram)**: the quadrilateral enclosed by the two pairs of parallel lines has two pairs of opposite sides parallel, so it is a parallelogram. $\blacksquare$
+By **Definition 7.6.3 (Parallelogram)**: the quadrilateral enclosed by the two pairs of parallel lines has two pairs of opposite sides parallel, so it is a parallelogram.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -62,7 +70,9 @@ By **Definition 7.6.3 (Parallelogram)**: the quadrilateral enclosed by the two p
 
 ### Solution to Exercise 5
 
-By **Definition 7.6.3 (Parallelogram)**: the overlapping part of the two rectangles has two pairs of opposite sides parallel, so it is a parallelogram. $\blacksquare$
+By **Definition 7.6.3 (Parallelogram)**: the overlapping part of the two rectangles has two pairs of opposite sides parallel, so it is a parallelogram.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -70,7 +80,9 @@ By **Definition 7.6.3 (Parallelogram)**: the overlapping part of the two rectang
 
 ### Solution to Exercise 6
 
-A moving point forms a line, and a translated line forms a surface; according to the path of motion, identify the lines, parallelograms, etc. that are formed. $\blacksquare$
+A moving point forms a line, and a translated line forms a surface; according to the path of motion, identify the lines, parallelograms, etc. that are formed.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -78,7 +90,9 @@ A moving point forms a line, and a translated line forms a surface; according to
 
 ### Solution to Exercise 7
 
-By **Definition 7.6.4 (Trapezoid)**: through a point on the upper base draw a line parallel to a leg meeting the lower base; the left piece is a parallelogram and the right piece is a trapezoid. $\blacksquare$
+By **Definition 7.6.4 (Trapezoid)**: through a point on the upper base draw a line parallel to a leg meeting the lower base; the left piece is a parallelogram and the right piece is a trapezoid.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -86,7 +100,9 @@ By **Definition 7.6.4 (Trapezoid)**: through a point on the upper base draw a li
 
 ### Solution to Exercise 8
 
-By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: (1) correct — a rectangle has two pairs of parallel sides and four right angles; (2) correct — two identical trapezoids are pieced together one flipped over; (3) wrong — only two identical right trapezoids can be pieced together into a rectangle. $\blacksquare$
+By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: (1) correct — a rectangle has two pairs of parallel sides and four right angles; (2) correct — two identical trapezoids are pieced together one flipped over; (3) wrong — only two identical right trapezoids can be pieced together into a rectangle.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -94,7 +110,9 @@ By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: (1
 
 ### Solution to Exercise 9
 
-By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: one can obtain triangles, parallelograms, trapezoids, rectangles, etc. $\blacksquare$
+By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: one can obtain triangles, parallelograms, trapezoids, rectangles, etc.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -102,7 +120,9 @@ By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: on
 
 ### Solution to Exercise 10
 
-The sum of the four angles of any quadrilateral is $360^{\circ}$. Draw another quadrilateral to verify that the conclusion is the same. $\blacksquare$
+The sum of the four angles of any quadrilateral is $360^{\circ}$. Draw another quadrilateral to verify that the conclusion is the same.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -110,7 +130,9 @@ The sum of the four angles of any quadrilateral is $360^{\circ}$. Draw another q
 
 ### Solution to Exercise 11
 
-By **Definition 7.7.1 (Bar Chart)**: draw bars according to the actual survey data. (1) Add up the numbers for each month; (2) see which bars have the same height; (3) the month with the tallest bar has the most people, and the shortest has the fewest. $\blacksquare$
+By **Definition 7.7.1 (Bar Chart)**: draw bars according to the actual survey data. (1) Add up the numbers for each month; (2) see which bars have the same height; (3) the month with the tallest bar has the most people, and the shortest has the fewest.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -118,7 +140,9 @@ By **Definition 7.7.1 (Bar Chart)**: draw bars according to the actual survey da
 
 ### Solution to Exercise 12
 
-By **Definition 7.7.1 (Bar Chart)**: for large data use $1$ grid to represent $2$ people (for the whole school use $1$ grid to represent $10$ people). (1) The science category is the most popular; (2) $17$ people is drawn as $8$ and a half grids; (3) in the whole-school chart, each vertical-grid unit is $10$ people. $\blacksquare$
+By **Definition 7.7.1 (Bar Chart)**: for large data use $1$ grid to represent $2$ people (for the whole school use $1$ grid to represent $10$ people). (1) The science category is the most popular; (2) $17$ people is drawn as $8$ and a half grids; (3) in the whole-school chart, each vertical-grid unit is $10$ people.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -126,7 +150,9 @@ By **Definition 7.7.1 (Bar Chart)**: for large data use $1$ grid to represent $2
 
 ### Solution to Exercise 13
 
-By **Definition 7.7.1 (Bar Chart)**: (1) the data range is $30\sim45$, so each grid represents $10$ books; (2) the data range is $20\sim50$, so each grid represents $10$ books; (3) one class averages about $160$ books, so $8$ classes donate about $1280$ books. $\blacksquare$
+By **Definition 7.7.1 (Bar Chart)**: (1) the data range is $30\sim45$, so each grid represents $10$ books; (2) the data range is $20\sim50$, so each grid represents $10$ books; (3) one class averages about $160$ books, so $8$ classes donate about $1280$ books.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -134,7 +160,9 @@ By **Definition 7.7.1 (Bar Chart)**: (1) the data range is $30\sim45$, so each g
 
 ### Solution to Exercise 14
 
-By **Definition 7.7.1 (Bar Chart)**: draw bars according to the actual survey data. Suggest purchasing more of the most popular prizes. $\blacksquare$
+By **Definition 7.7.1 (Bar Chart)**: draw bars according to the actual survey data. Suggest purchasing more of the most popular prizes.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -142,7 +170,9 @@ By **Definition 7.7.1 (Bar Chart)**: draw bars according to the actual survey da
 
 ### Solution to Exercise 15
 
-By **Definition 7.7.1 (Bar Chart)**: draw bars according to the actual data and compare their heights to answer. $\blacksquare$
+By **Definition 7.7.1 (Bar Chart)**: draw bars according to the actual data and compare their heights to answer.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -150,7 +180,9 @@ By **Definition 7.7.1 (Bar Chart)**: draw bars according to the actual data and 
 
 ### Solution to Exercise 16
 
-By **Definition 7.7.1 (Bar Chart)**: each grid represents $5$ sets. (1) Saturday is the most with $50$ sets, and Tuesday is the fewest with $10$ sets; (2) weekend sales are clearly higher than weekday sales; (3) predict that next Saturday and Sunday may have the most sales. $\blacksquare$
+By **Definition 7.7.1 (Bar Chart)**: each grid represents $5$ sets. (1) Saturday is the most with $50$ sets, and Tuesday is the fewest with $10$ sets; (2) weekend sales are clearly higher than weekday sales; (3) predict that next Saturday and Sunday may have the most sales.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -158,7 +190,9 @@ By **Definition 7.7.1 (Bar Chart)**: each grid represents $5$ sets. (1) Saturday
 
 ### Solution to Exercise 17
 
-By **Definition 7.7.1 (Bar Chart)**: (1) each grid represents $10$ years; (2) the elephant is the longest at $75$ years, and the dog is the shortest at $10$ years; (3) starting the vertical axis from $0$ makes the bar-height differences more truthful; (4) the chart with finer vertical-axis scales is more accurate. $\blacksquare$
+By **Definition 7.7.1 (Bar Chart)**: (1) each grid represents $10$ years; (2) the elephant is the longest at $75$ years, and the dog is the shortest at $10$ years; (3) starting the vertical axis from $0$ makes the bar-height differences more truthful; (4) the chart with finer vertical-axis scales is more accurate.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -166,7 +200,9 @@ By **Definition 7.7.1 (Bar Chart)**: (1) each grid represents $10$ years; (2) th
 
 ### Solution to Exercise 18
 
-By **Definition 7.7.1 (Bar Chart)**: draw two single bar charts separately and compare the bar heights — in September the number of rainy days increases as autumn begins. $\blacksquare$
+By **Definition 7.7.1 (Bar Chart)**: draw two single bar charts separately and compare the bar heights — in September the number of rainy days increases as autumn begins.
+
+$\blacksquare$
 
 (Figure: two side-by-side single bar charts, the left showing weather conditions in City A in August 2022 (bars for sunny, cloudy, rainy, etc., corresponding to number of days), the right showing September weather; the horizontal axis in both is weather category and the vertical axis is number of days.)
 
@@ -176,7 +212,9 @@ By **Definition 7.7.1 (Bar Chart)**: draw two single bar charts separately and c
 
 ### Solution to Exercise 19
 
-By **Definition 7.7.2 (Double Bar Chart)**: draw two kinds of bars by gender and add a legend. Compare the bar heights to answer. $\blacksquare$
+By **Definition 7.7.2 (Double Bar Chart)**: draw two kinds of bars by gender and add a legend. Compare the bar heights to answer.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -184,7 +222,9 @@ By **Definition 7.7.2 (Double Bar Chart)**: draw two kinds of bars by gender and
 
 ### Solution to Exercise 20
 
-By **Definition 7.7.2 (Double Bar Chart)**: (1) the boys' football team is the largest with $24$ people, and the girls' roller-skating team is the largest with $25$ people; (2) football boys minus girls is $24-26=-2$, i.e. there are $2$ more girls; roller-skating girls minus boys is $25-18=7$ more girls. $\blacksquare$
+By **Definition 7.7.2 (Double Bar Chart)**: (1) the boys' football team is the largest with $24$ people, and the girls' roller-skating team is the largest with $25$ people; (2) football boys minus girls is $24-26=-2$, i.e. there are $2$ more girls; roller-skating girls minus boys is $25-18=7$ more girls.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -192,4 +232,6 @@ By **Definition 7.7.2 (Double Bar Chart)**: (1) the boys' football team is the l
 
 ### Solution to Exercise 21
 
-By **Definition 7.7.2 (Double Bar Chart)**: (2) each grid represents $10$ t; (3) compare according to the bars; (4) $2\times30\times12=720$ kg/person/year, so $2600$ people produce about $2600\times720=1872000$ kg $=1872$ t. $\blacksquare$
+By **Definition 7.7.2 (Double Bar Chart)**: (2) each grid represents $10$ t; (3) compare according to the bars; (4) $2\times30\times12=720$ kg/person/year, so $2600$ people produce about $2600\times720=1872000$ kg $=1872$ t.
+
+$\blacksquare$

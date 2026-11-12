@@ -42,7 +42,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 8.1.2 (Subtraction is the inverse of addition)**, subtracting one addend from the sum gives the other addend, so $\bigcirc-\triangle=\square$ and $\bigcirc-\square=\triangle$ are both correct. By **Definition 8.1.4 (Division is the inverse of multiplication)**, dividing the product by one factor gives the other factor, so $\bigstar\div▲=\diamond$ and $\bigstar\div\diamond=▲$ are both correct. $\blacksquare$
+By **Definition 8.1.2 (Subtraction is the inverse of addition)**, subtracting one addend from the sum gives the other addend, so $\bigcirc-\triangle=\square$ and $\bigcirc-\square=\triangle$ are both correct. By **Definition 8.1.4 (Division is the inverse of multiplication)**, dividing the product by one factor gives the other factor, so $\bigstar\div▲=\diamond$ and $\bigstar\div\diamond=▲$ are both correct.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -50,7 +52,9 @@ By **Definition 8.1.2 (Subtraction is the inverse of addition)**, subtracting on
 
 ### Solution to Exercise 2
 
-By **Definition 8.1.7 (Order of Four-Operation Mixed Calculations)**, first inside the parentheses, then inside the square brackets: $360\div\left(70-4\times16\right)=360\div\left(70-64\right)=360\div6=60$; $168\div\left[\left(28+44\right)\div9\right]=168\div\left[72\div9\right]=168\div8=21$. $\blacksquare$
+By **Definition 8.1.7 (Order of Four-Operation Mixed Calculations)**, first inside the parentheses, then inside the square brackets: $360\div\left(70-4\times16\right)=360\div\left(70-64\right)=360\div6=60$; $168\div\left[\left(28+44\right)\div9\right]=168\div\left[72\div9\right]=168\div8=21$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -58,7 +62,9 @@ By **Definition 8.1.7 (Order of Four-Operation Mixed Calculations)**, first insi
 
 ### Solution to Exercise 3
 
-By **Definition 8.1.7 (Order of Four-Operation Mixed Calculations)**: $450+390\div130-123=450+3-123=330$; $38+56\div7\times4=38+8\times4=38+32=70$; $209+102\div\left(52-35\right)=209+102\div17=209+6=215$; $940\times\left[128-\left(154-31\right)\right]=940\times\left[128-123\right]=940\times5=4700$. $\blacksquare$
+By **Definition 8.1.7 (Order of Four-Operation Mixed Calculations)**: $450+390\div130-123=450+3-123=330$; $38+56\div7\times4=38+8\times4=38+32=70$; $209+102\div\left(52-35\right)=209+102\div17=209+6=215$; $940\times\left[128-\left(154-31\right)\right]=940\times\left[128-123\right]=940\times5=4700$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -66,7 +72,9 @@ By **Definition 8.1.7 (Order of Four-Operation Mixed Calculations)**: $450+390\d
 
 ### Solution to Exercise 4
 
-By **Definition 8.1.7 (Order of Four-Operation Mixed Calculations)**: $72-4\times6\div3=72-8=64$; $6000\div75-60-10=80-70=10$; $\left(72-4\right)\times6\div3=68\times2=136$; $6000\div\left(75-60\right)-10=6000\div15-10=390$; $\left(72-4\right)\times\left(6\div3\right)=68\times2=136$; $6000\div\left[75-\left(60-10\right)\right]=6000\div\left[75-50\right]=6000\div25=240$. $\blacksquare$
+By **Definition 8.1.7 (Order of Four-Operation Mixed Calculations)**: $72-4\times6\div3=72-8=64$; $6000\div75-60-10=80-70=10$; $\left(72-4\right)\times6\div3=68\times2=136$; $6000\div\left(75-60\right)-10=6000\div15-10=390$; $\left(72-4\right)\times\left(6\div3\right)=68\times2=136$; $6000\div\left[75-\left(60-10\right)\right]=6000\div\left[75-50\right]=6000\div25=240$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -74,7 +82,9 @@ By **Definition 8.1.7 (Order of Four-Operation Mixed Calculations)**: $72-4\time
 
 ### Solution to Exercise 5
 
-Following the order indicated by the arrows, first fill the intermediate result of each step into the box, then successively replace the numbers in the last step expression with the previous expressions, add the necessary parentheses, and write one combined expression. Just fill in the numbers in the textbook's boxes and write the expression accordingly. $\blacksquare$
+Following the order indicated by the arrows, first fill the intermediate result of each step into the box, then successively replace the numbers in the last step expression with the previous expressions, add the necessary parentheses, and write one combined expression. Just fill in the numbers in the textbook's boxes and write the expression accordingly.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -82,7 +92,9 @@ Following the order indicated by the arrows, first fill the intermediate result 
 
 ### Solution to Exercise 6
 
-Total people $18+322=340$ (people). Per seat: large car $900\div40=22.5$ (yuan), small car $500\div20=25$ (yuan), so the large car is cheaper. By **Definition 8.1.8 (Strategy for Boat/Car-Rental Problems)**, $340\div40=8$ (cars) $\cdots\cdots20$ (people), and the remaining $20$ people exactly fill $1$ small car with no empty seats: $8\times900+1\times500=7700$ (yuan). Renting $8$ large cars and $1$ small car is the cheapest. $\blacksquare$
+Total people $18+322=340$ (people). Per seat: large car $900\div40=22.5$ (yuan), small car $500\div20=25$ (yuan), so the large car is cheaper. By **Definition 8.1.8 (Strategy for Boat/Car-Rental Problems)**, $340\div40=8$ (cars) $\cdots\cdots20$ (people), and the remaining $20$ people exactly fill $1$ small car with no empty seats: $8\times900+1\times500=7700$ (yuan). Renting $8$ large cars and $1$ small car is the cheapest.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -90,7 +102,9 @@ Total people $18+322=340$ (people). Per seat: large car $900\div40=22.5$ (yuan),
 
 ### Solution to Exercise 7
 
-(1) Plan 1: $6\times150+4\times60=900+240=1140$ (yuan); Plan 2: $\left(6+4\right)\times100=1000$ (yuan), so Plan 2 is the better deal. (2) Plan 1: $4\times150+6\times60=600+360=960$ (yuan); Plan 2: $\left(4+6\right)\times100=1000$ (yuan), so Plan 1 is the better deal. $\blacksquare$
+(1) Plan 1: $6\times150+4\times60=900+240=1140$ (yuan); Plan 2: $\left(6+4\right)\times100=1000$ (yuan), so Plan 2 is the better deal. (2) Plan 1: $4\times150+6\times60=600+360=960$ (yuan); Plan 2: $\left(4+6\right)\times100=1000$ (yuan), so Plan 1 is the better deal.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -98,7 +112,9 @@ Total people $18+322=340$ (people). Per seat: large car $900\div40=22.5$ (yuan),
 
 ### Solution to Exercise 8
 
-The answer is not unique, for example: $3\div3+3-3=1$; $3\div3+3\div3=2$; $\left(3+3+3\right)\div3=3$; $3+3+3\div3=7$; $3\times3-3\div3=8$; $3\times3+3-3=9$. $\blacksquare$
+The answer is not unique, for example: $3\div3+3-3=1$; $3\div3+3\div3=2$; $\left(3+3+3\right)\div3=3$; $3+3+3\div3=7$; $3\times3-3\div3=8$; $3\times3+3-3=9$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -106,7 +122,9 @@ The answer is not unique, for example: $3\div3+3-3=1$; $3\div3+3\div3=2$; $\left
 
 ### Solution to Exercise 9
 
-Using the point values on the $4$ cards, add $+$, $-$, $\times$, $\div$ and parentheses so that the result equals $24$. For example, with cards $6,4,3,2$, $\left(6+4-2\right)\times3=24$. Just try combinations with the $4$ point values in hand. $\blacksquare$
+Using the point values on the $4$ cards, add $+$, $-$, $\times$, $\div$ and parentheses so that the result equals $24$. For example, with cards $6,4,3,2$, $\left(6+4-2\right)\times3=24$. Just try combinations with the $4$ point values in hand.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -114,7 +132,9 @@ Using the point values on the $4$ cards, add $+$, $-$, $\times$, $\div$ and pare
 
 ### Solution to Exercise 10
 
-By **Definition 8.2.1 (Observing Objects from Different Directions)**, build the object in the figure with small cubes and stand at the front, top and left positions to look: the head-on view connects to "view from the front", the top-down view connects to "view from the top", and the left-side view connects to "view from the left side". $\blacksquare$
+By **Definition 8.2.1 (Observing Objects from Different Directions)**, build the object in the figure with small cubes and stand at the front, top and left positions to look: the head-on view connects to "view from the front", the top-down view connects to "view from the top", and the left-side view connects to "view from the left side".
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -122,7 +142,9 @@ By **Definition 8.2.1 (Observing Objects from Different Directions)**, build the
 
 ### Solution to Exercise 11
 
-By **Definition 8.2.1 (Observing Objects from Different Directions)**, build the object Xiao Qiang saw, observe it from the front, top and left side, and connect each seen figure to the corresponding direction. $\blacksquare$
+By **Definition 8.2.1 (Observing Objects from Different Directions)**, build the object Xiao Qiang saw, observe it from the front, top and left side, and connect each seen figure to the corresponding direction.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -130,7 +152,9 @@ By **Definition 8.2.1 (Observing Objects from Different Directions)**, build the
 
 ### Solution to Exercise 12
 
-By **Definition 8.2.1 (Observing Objects from Different Directions)**, look at these $3$ objects from the front, top and left side, and compare the seen figures pairwise. Usually the top and left views are the same while the front view is different (compare according to the actual arrangement). $\blacksquare$
+By **Definition 8.2.1 (Observing Objects from Different Directions)**, look at these $3$ objects from the front, top and left side, and compare the seen figures pairwise. Usually the top and left views are the same while the front view is different (compare according to the actual arrangement).
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -138,7 +162,9 @@ By **Definition 8.2.1 (Observing Objects from Different Directions)**, look at t
 
 ### Solution to Exercise 13
 
-By **Definition 8.2.1 (Observing Objects from Different Directions)**, the top views are the same, the left views are also the same, and the front views are not the same. $\blacksquare$
+By **Definition 8.2.1 (Observing Objects from Different Directions)**, the top views are the same, the left views are also the same, and the front views are not the same.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -146,7 +172,9 @@ By **Definition 8.2.1 (Observing Objects from Different Directions)**, the top v
 
 ### Solution to Exercise 14
 
-By **Definition 8.2.1 (Observing Objects from Different Directions)**, connect each seen planar figure to its corresponding viewing direction (front, top, left side). $\blacksquare$
+By **Definition 8.2.1 (Observing Objects from Different Directions)**, connect each seen planar figure to its corresponding viewing direction (front, top, left side).
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -154,4 +182,6 @@ By **Definition 8.2.1 (Observing Objects from Different Directions)**, connect e
 
 ### Solution to Exercise 15
 
-By **Definition 8.2.1 (Observing Objects from Different Directions)**, according to the left-right arrangement of the cube and cuboid, judge whether each view is seen from the front, top or left side, and then draw the connections. $\blacksquare$
+By **Definition 8.2.1 (Observing Objects from Different Directions)**, according to the left-right arrangement of the cube and cuboid, judge whether each view is seen from the front, top or left side, and then draw the connections.
+
+$\blacksquare$

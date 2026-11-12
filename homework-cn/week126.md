@@ -34,7 +34,9 @@
 
 ### 解答 练习一
 
-由**定义 11.2.2 (一个数乘分数)**: (1) $4\times\frac{1}{20}=\frac{1}{5}\;\text{t}$; (2) $4\times\left(1+\frac{1}{2}\right)=6\;\text{t}$. $\blacksquare$
+由**定义 11.2.2 (一个数乘分数)**: (1) $4\times\frac{1}{20}=\frac{1}{5}\;\text{t}$; (2) $4\times\left(1+\frac{1}{2}\right)=6\;\text{t}$.
+
+$\blacksquare$
 
 ## 练习二
 
@@ -42,7 +44,9 @@
 
 ### 解答 练习二
 
-$8$ 分钟的 $\frac{3}{4}$ 是 $6$ 分钟, 再加 $20$ 秒, 共 $6$ 分 $20$ 秒. $\blacksquare$
+$8$ 分钟的 $\frac{3}{4}$ 是 $6$ 分钟, 再加 $20$ 秒, 共 $6$ 分 $20$ 秒.
+
+$\blacksquare$
 
 ## 练习三
 
@@ -50,7 +54,9 @@ $8$ 分钟的 $\frac{3}{4}$ 是 $6$ 分钟, 再加 $20$ 秒, 共 $6$ 分 $20$ �
 
 ### 解答 练习三
 
-由**定义 11.2.4 (连续求一个数的几分之几)**, 每次弹起是前次的 $1-\frac{2}{5}=\frac{3}{5}$: $50\times\frac{3}{5}\times\frac{3}{5}\times\frac{3}{5}=50\times\frac{27}{125}=10.8\;\text{m}$. $\blacksquare$
+由**定义 11.2.4 (连续求一个数的几分之几)**, 每次弹起是前次的 $1-\frac{2}{5}=\frac{3}{5}$: $50\times\frac{3}{5}\times\frac{3}{5}\times\frac{3}{5}=50\times\frac{27}{125}=10.8\;\text{m}$.
+
+$\blacksquare$
 
 ## 练习四
 
@@ -58,7 +64,9 @@ $8$ 分钟的 $\frac{3}{4}$ 是 $6$ 分钟, 再加 $20$ 秒, 共 $6$ 分 $20$ �
 
 ### 解答 练习四
 
-由**定义 11.2.1 (分数乘整数)** 与**定义 11.2.2 (一个数乘分数)**: $\frac{8}{15}\times5=\frac{8}{3}$; $2.4\times\frac{3}{8}=0.9$; $\frac{7}{18}\times\frac{9}{14}=\frac{1}{4}$; $26\times\frac{2}{13}=4$; $\frac{6}{5}\times\frac{3}{4}=\frac{9}{10}$; $\frac{13}{23}\times\frac{46}{15}=\frac{26}{15}$. $\blacksquare$
+由**定义 11.2.1 (分数乘整数)** 与**定义 11.2.2 (一个数乘分数)**: $\frac{8}{15}\times5=\frac{8}{3}$; $2.4\times\frac{3}{8}=0.9$; $\frac{7}{18}\times\frac{9}{14}=\frac{1}{4}$; $26\times\frac{2}{13}=4$; $\frac{6}{5}\times\frac{3}{4}=\frac{9}{10}$; $\frac{13}{23}\times\frac{46}{15}=\frac{26}{15}$.
+
+$\blacksquare$
 
 ## 练习五
 
@@ -66,7 +74,9 @@ $8$ 分钟的 $\frac{3}{4}$ 是 $6$ 分钟, 再加 $20$ 秒, 共 $6$ 分 $20$ �
 
 ### 解答 练习五
 
-由**定义 11.2.3 (分数混合运算与运算律)**: $\frac{1}{3}\times\frac{3}{5}\times\frac{5}{16}=\frac{1}{16}$; $\frac{1}{5}\times15+\frac{2}{3}\times15=3+10=13$; $\frac{5}{9}\times\left(\frac{4}{7}+\frac{3}{7}\right)=\frac{5}{9}$; $\frac{11}{9}\times\frac{9}{11}\times\frac{3}{20}=\frac{3}{20}$; $\frac{2}{5}+\left(\frac{1}{4}+\frac{3}{4}\right)=\frac{7}{5}$; $\frac{3}{7}\times\left(0.75+0.25\right)=\frac{3}{7}$. $\blacksquare$
+由**定义 11.2.3 (分数混合运算与运算律)**: $\frac{1}{3}\times\frac{3}{5}\times\frac{5}{16}=\frac{1}{16}$; $\frac{1}{5}\times15+\frac{2}{3}\times15=3+10=13$; $\frac{5}{9}\times\left(\frac{4}{7}+\frac{3}{7}\right)=\frac{5}{9}$; $\frac{11}{9}\times\frac{9}{11}\times\frac{3}{20}=\frac{3}{20}$; $\frac{2}{5}+\left(\frac{1}{4}+\frac{3}{4}\right)=\frac{7}{5}$; $\frac{3}{7}\times\left(0.75+0.25\right)=\frac{3}{7}$.
+
+$\blacksquare$
 
 ## 练习六
 
@@ -74,7 +84,9 @@ $8$ 分钟的 $\frac{3}{4}$ 是 $6$ 分钟, 再加 $20$ 秒, 共 $6$ 分 $20$ �
 
 ### 解答 练习六
 
-由**定义 11.2.2 (一个数乘分数)**: $1850\times\left(1+\frac{15}{37}\right)=1850\times\frac{52}{37}=2600$ (小时). $\blacksquare$
+由**定义 11.2.2 (一个数乘分数)**: $1850\times\left(1+\frac{15}{37}\right)=1850\times\frac{52}{37}=2600$ (小时).
+
+$\blacksquare$
 
 ## 练习七
 
@@ -82,7 +94,9 @@ $8$ 分钟的 $\frac{3}{4}$ 是 $6$ 分钟, 再加 $20$ 秒, 共 $6$ 分 $20$ �
 
 ### 解答 练习七
 
-$4\times25\times\frac{1}{2}=50\;\text{kg}$. $\blacksquare$
+$4\times25\times\frac{1}{2}=50\;\text{kg}$.
+
+$\blacksquare$
 
 ## 练习八
 
@@ -90,7 +104,9 @@ $4\times25\times\frac{1}{2}=50\;\text{kg}$. $\blacksquare$
 
 ### 解答 练习八
 
-$70\times\frac{1}{3}\times15=350\;\text{t}$. $\blacksquare$
+$70\times\frac{1}{3}\times15=350\;\text{t}$.
+
+$\blacksquare$
 
 ## 练习九
 
@@ -98,7 +114,9 @@ $70\times\frac{1}{3}\times15=350\;\text{t}$. $\blacksquare$
 
 ### 解答 练习九
 
-填表即行因子乘列因子. 不同行不同列取 $3$ 个数连乘, 每个行因子和列因子各用一次, 结果都等于 $\left(\frac{7}{4}\times\frac{6}{5}\times\frac{5}{8}\right)\times\left(\frac{1}{2}\times\frac{2}{3}\times\frac{3}{5}\right)=\frac{21}{16}\times\frac{1}{5}=\frac{21}{80}$, 与取法无关. $\blacksquare$
+填表即行因子乘列因子. 不同行不同列取 $3$ 个数连乘, 每个行因子和列因子各用一次, 结果都等于 $\left(\frac{7}{4}\times\frac{6}{5}\times\frac{5}{8}\right)\times\left(\frac{1}{2}\times\frac{2}{3}\times\frac{3}{5}\right)=\frac{21}{16}\times\frac{1}{5}=\frac{21}{80}$, 与取法无关.
+
+$\blacksquare$
 
 ## 练习十
 
@@ -106,7 +124,9 @@ $70\times\frac{1}{3}\times15=350\;\text{t}$. $\blacksquare$
 
 ### 解答 练习十
 
-各题乘积都是 $1$. 由**定义 11.3.1 (倒数)**: $\frac{3}{5}$ 与 $\frac{5}{3}$ 互为倒数, $6$ 与 $\frac{1}{6}$ 互为倒数, $\frac{7}{2}$ 与 $\frac{2}{7}$ 互为倒数. 交换分子, 分母即得倒数. $\blacksquare$
+各题乘积都是 $1$. 由**定义 11.3.1 (倒数)**: $\frac{3}{5}$ 与 $\frac{5}{3}$ 互为倒数, $6$ 与 $\frac{1}{6}$ 互为倒数, $\frac{7}{2}$ 与 $\frac{2}{7}$ 互为倒数. 交换分子, 分母即得倒数.
+
+$\blacksquare$
 
 ## 练习十一
 
@@ -114,7 +134,9 @@ $70\times\frac{1}{3}\times15=350\;\text{t}$. $\blacksquare$
 
 ### 解答 练习十一
 
-由**定义 11.3.1 (倒数)**: $1=\frac{1}{1}$, 倒数是 $1$; $0$ 与任何数相乘都不是 $1$, 故 $0$ 没有倒数; $0.2=\frac{1}{5}$, 倒数是 $5$. $\blacksquare$
+由**定义 11.3.1 (倒数)**: $1=\frac{1}{1}$, 倒数是 $1$; $0$ 与任何数相乘都不是 $1$, 故 $0$ 没有倒数; $0.2=\frac{1}{5}$, 倒数是 $5$.
+
+$\blacksquare$
 
 ## 练习十二
 
@@ -122,7 +144,9 @@ $70\times\frac{1}{3}\times15=350\;\text{t}$. $\blacksquare$
 
 ### 解答 练习十二
 
-由**定义 11.3.1 (倒数)**: $\frac{4}{11}$ 的倒数是 $\frac{11}{4}$; $\frac{16}{9}$ 的倒数是 $\frac{9}{16}$; $35=\frac{35}{1}$, 倒数是 $\frac{1}{35}$; $\frac{7}{8}$ 的倒数是 $\frac{8}{7}$; $\frac{4}{15}$ 的倒数是 $\frac{15}{4}$. $\blacksquare$
+由**定义 11.3.1 (倒数)**: $\frac{4}{11}$ 的倒数是 $\frac{11}{4}$; $\frac{16}{9}$ 的倒数是 $\frac{9}{16}$; $35=\frac{35}{1}$, 倒数是 $\frac{1}{35}$; $\frac{7}{8}$ 的倒数是 $\frac{8}{7}$; $\frac{4}{15}$ 的倒数是 $\frac{15}{4}$.
+
+$\blacksquare$
 
 ## 练习十三
 
@@ -130,4 +154,6 @@ $70\times\frac{1}{3}\times15=350\;\text{t}$. $\blacksquare$
 
 ### 解答 练习十三
 
-由**定义 11.3.2 (分数除法法则)**: (1) $\frac{4}{5}\div2=\frac{4}{5}\times\frac{1}{2}=\frac{2}{5}$ (公顷); (2) $\frac{4}{5}\div3=\frac{4}{5}\times\frac{1}{3}=\frac{4}{15}$ (公顷). $\blacksquare$
+由**定义 11.3.2 (分数除法法则)**: (1) $\frac{4}{5}\div2=\frac{4}{5}\times\frac{1}{2}=\frac{2}{5}$ (公顷); (2) $\frac{4}{5}\div3=\frac{4}{5}\times\frac{1}{3}=\frac{4}{15}$ (公顷).
+
+$\blacksquare$

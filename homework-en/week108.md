@@ -46,7 +46,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 9.8.1 (Certain and Uncertain Events)**: (1) All three are possible — sing, dance, or recite. (2) Dance is impossible; it may be sing or recite. (3) Only sing remains, so Xiaohong must draw sing. $\blacksquare$
+By **Definition 9.8.1 (Certain and Uncertain Events)**: (1) All three are possible — sing, dance, or recite. (2) Dance is impossible; it may be sing or recite. (3) Only sing remains, so Xiaohong must draw sing.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -54,7 +56,9 @@ By **Definition 9.8.1 (Certain and Uncertain Events)**: (1) All three are possib
 
 ### Solution to Exercise 2
 
-By **Definition 9.8.1 (确定事件与不确定事件)**, a box of all red chips definitely yields a red chip; a box containing green chips might yield a green chip; a box with no green chips cannot yield a green chip. $\blacksquare$
+By **Definition 9.8.1 (确定事件与不确定事件)**, a box of all red chips definitely yields a red chip; a box containing green chips might yield a green chip; a box with no green chips cannot yield a green chip.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -62,7 +66,9 @@ By **Definition 9.8.1 (确定事件与不确定事件)**, a box of all red chips
 
 ### Solution to Exercise 3
 
-By **Definition 9.8.2 (Magnitude of Likelihood)**, red chips were drawn far more often than blue, so we infer there are more red chips in the box, and red is more likely on the next draw. $\blacksquare$
+By **Definition 9.8.2 (Magnitude of Likelihood)**, red chips were drawn far more often than blue, so we infer there are more red chips in the box, and red is more likely on the next draw.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -70,7 +76,9 @@ By **Definition 9.8.2 (Magnitude of Likelihood)**, red chips were drawn far more
 
 ### Solution to Exercise 4
 
-By **Definition 9.8.2 (可能性的大小)**, the box may yield as many colors as it contains; the most numerous color is most likely and the least numerous is least likely. $\blacksquare$
+By **Definition 9.8.2 (可能性的大小)**, the box may yield as many colors as it contains; the most numerous color is most likely and the least numerous is least likely.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -78,7 +86,9 @@ By **Definition 9.8.2 (可能性的大小)**, the box may yield as many colors a
 
 ### Solution to Exercise 5
 
-By **Definition 9.8.3 (Inferring from Experimental Data)**, red balls were drawn far more often than yellow, so we infer there are more red balls and fewer yellow balls. $\blacksquare$
+By **Definition 9.8.3 (Inferring from Experimental Data)**, red balls were drawn far more often than yellow, so we infer there are more red balls and fewer yellow balls.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -86,7 +96,9 @@ By **Definition 9.8.3 (Inferring from Experimental Data)**, red balls were drawn
 
 ### Solution to Exercise 6
 
-By **Definition 9.8.3 (根据试验数据推测)**, the most frequent (red) suggests red balls are most numerous, and the least frequent (yellow) suggests yellow balls are fewest. Xiaoliang's direction is correct, but a single trial may contain error; after many trials the inference is more reliable. $\blacksquare$
+By **Definition 9.8.3 (根据试验数据推测)**, the most frequent (red) suggests red balls are most numerous, and the least frequent (yellow) suggests yellow balls are fewest. Xiaoliang's direction is correct, but a single trial may contain error; after many trials the inference is more reliable.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -94,7 +106,9 @@ By **Definition 9.8.3 (根据试验数据推测)**, the most frequent (red) sugg
 
 ### Solution to Exercise 7
 
-By **Definition 9.8.1 (确定事件与不确定事件)**, an all-yellow box matches "must draw yellow"; an all-blue box matches "must draw blue"; a box with both yellow and blue matches "may draw yellow" and "may draw blue"; a box with no blue matches "cannot draw blue"; a box with no red matches "cannot draw red". $\blacksquare$
+By **Definition 9.8.1 (确定事件与不确定事件)**, an all-yellow box matches "must draw yellow"; an all-blue box matches "must draw blue"; a box with both yellow and blue matches "may draw yellow" and "may draw blue"; a box with no blue matches "cannot draw blue"; a box with no red matches "cannot draw red".
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -102,7 +116,9 @@ By **Definition 9.8.1 (确定事件与不确定事件)**, an all-yellow box matc
 
 ### Solution to Exercise 8
 
-By **Definition 9.8.2 (可能性的大小)**, the larger the area of a color, the more likely the pointer stops there; the smaller the area, the less likely. $\blacksquare$
+By **Definition 9.8.2 (可能性的大小)**, the larger the area of a color, the more likely the pointer stops there; the smaller the area, the less likely.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -110,7 +126,9 @@ By **Definition 9.8.2 (可能性的大小)**, the larger the area of a color, th
 
 ### Solution to Exercise 9
 
-By **Definition 9.8.2 (可能性的大小)**, story cards are most numerous ($5$), so drawing a story is most likely. $\blacksquare$
+By **Definition 9.8.2 (可能性的大小)**, story cards are most numerous ($5$), so drawing a story is most likely.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -118,7 +136,9 @@ By **Definition 9.8.2 (可能性的大小)**, story cards are most numerous ($5$
 
 ### Solution to Exercise 10
 
-It may roll $1,2,3,4,5,6$. Odd numbers are $1,3,5$, $3$ in total; even numbers are $2,4,6$, $3$ in total; the likelihoods are equal. $\blacksquare$
+It may roll $1,2,3,4,5,6$. Odd numbers are $1,3,5$, $3$ in total; even numbers are $2,4,6$, $3$ in total; the likelihoods are equal.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -126,7 +146,9 @@ It may roll $1,2,3,4,5,6$. Odd numbers are $1,3,5$, $3$ in total; even numbers a
 
 ### Solution to Exercise 11
 
-By **Definition 9.8.3 (根据试验数据推测)**, red is most frequent ($36$ times), so red balls are most numerous; white is least frequent ($4$ times), so white balls are fewest. $\blacksquare$
+By **Definition 9.8.3 (根据试验数据推测)**, red is most frequent ($36$ times), so red balls are most numerous; white is least frequent ($4$ times), so white balls are fewest.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -134,7 +156,9 @@ By **Definition 9.8.3 (根据试验数据推测)**, red is most frequent ($36$ t
 
 ### Solution to Exercise 12
 
-By **Definition 9.8.1 (确定事件与不确定事件)**, coloring everything red means a red ball must be drawn; coloring nothing red means a red ball cannot be drawn; coloring partly red and partly other colors means a red ball may be drawn. $\blacksquare$
+By **Definition 9.8.1 (确定事件与不确定事件)**, coloring everything red means a red ball must be drawn; coloring nothing red means a red ball cannot be drawn; coloring partly red and partly other colors means a red ball may be drawn.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -142,7 +166,9 @@ By **Definition 9.8.1 (确定事件与不确定事件)**, coloring everything re
 
 ### Solution to Exercise 13
 
-By **Definition 9.8.2 (可能性的大小)**, let "1" be most numerous (e.g. $4$ cards), "5" least (e.g. $1$ card), and "3" and "7" equal (e.g. $2.5$ cards each, rounded to $2$ each, or $1.5$ cards each, rounded), distributing the rest. For example: four cards of $1$, two of $3$, two of $7$, two of $5$, totaling $10$ cards. $\blacksquare$
+By **Definition 9.8.2 (可能性的大小)**, let "1" be most numerous (e.g. $4$ cards), "5" least (e.g. $1$ card), and "3" and "7" equal (e.g. $2.5$ cards each, rounded to $2$ each, or $1.5$ cards each, rounded), distributing the rest. For example: four cards of $1$, two of $3$, two of $7$, two of $5$, totaling $10$ cards.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -150,7 +176,9 @@ By **Definition 9.8.2 (可能性的大小)**, let "1" be most numerous (e.g. $4$
 
 ### Solution to Exercise 14
 
-The sum of two dice may be $2\sim12$. A sum of $2$ has only $\left(1,1\right)$; a sum of $3$ has $\left(1,2\right)\left(2,1\right)$, two ways; a sum of $4$ has $3$ ways; $5$ has $4$ ways; $6$ has $5$ ways; $7$ has $6$ ways; $8$ has $5$ ways; $9$ has $4$ ways; $10$ has $3$ ways; $11$ has $2$ ways; $12$ has $1$ way. The teacher wins in $4+5+6+5+4=24$ ways, and the students in $1+2+3+3+2+1=12$ ways; it is not fair, and the teacher is more likely to win. $\blacksquare$
+The sum of two dice may be $2\sim12$. A sum of $2$ has only $\left(1,1\right)$; a sum of $3$ has $\left(1,2\right)\left(2,1\right)$, two ways; a sum of $4$ has $3$ ways; $5$ has $4$ ways; $6$ has $5$ ways; $7$ has $6$ ways; $8$ has $5$ ways; $9$ has $4$ ways; $10$ has $3$ ways; $11$ has $2$ ways; $12$ has $1$ way. The teacher wins in $4+5+6+5+4=24$ ways, and the students in $1+2+3+3+2+1=12$ ways; it is not fair, and the teacher is more likely to win.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -158,7 +186,9 @@ The sum of two dice may be $2\sim12$. A sum of $2$ has only $\left(1,1\right)$; 
 
 ### Solution to Exercise 15
 
-By **Definition 9.8.2 (可能性的大小)**, (1) color a part of each of the three colors. (2) Make the blue region largest, the red region smallest, and yellow in between. $\blacksquare$
+By **Definition 9.8.2 (可能性的大小)**, (1) color a part of each of the three colors. (2) Make the blue region largest, the red region smallest, and yellow in between.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -166,7 +196,9 @@ By **Definition 9.8.2 (可能性的大小)**, (1) color a part of each of the th
 
 ### Solution to Exercise 16
 
-By **Definition 9.8.2 (可能性的大小)**, make the number of red faces exceed the blue faces, e.g. red on $4$ faces and blue on $2$, or red on $5$ faces and blue on $1$. $\blacksquare$
+By **Definition 9.8.2 (可能性的大小)**, make the number of red faces exceed the blue faces, e.g. red on $4$ faces and blue on $2$, or red on $5$ faces and blue on $1$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -174,7 +206,9 @@ By **Definition 9.8.2 (可能性的大小)**, make the number of red faces excee
 
 ### Solution to Exercise 17
 
-(1) False; each toss may be heads or tails independently. (2) False; e.g. $1+1=2>1\times1=1$. (3) False; a triangle's interior angle sum must be $180^\circ$. (4) True; for a fixed perimeter, the closer length and width are, the larger the area, and a square (length equal to width) has the largest area. $\blacksquare$
+(1) False; each toss may be heads or tails independently. (2) False; e.g. $1+1=2>1\times1=1$. (3) False; a triangle's interior angle sum must be $180^\circ$. (4) True; for a fixed perimeter, the closer length and width are, the larger the area, and a square (length equal to width) has the largest area.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -182,7 +216,9 @@ By **Definition 9.8.2 (可能性的大小)**, make the number of red faces excee
 
 ### Solution to Exercise 18
 
-By **Definition 9.9.1 (Review of Decimal Multiplication and Division)**: $27\times3=81$, $2.7\times3=8.1$, $2.7\times0.3=0.81$, $2.7\times0.03=0.081$; $24\div6=4$, $2.4\div6=0.4$, $2.4\div0.6=4$, $2.4\div0.06=40$. $\blacksquare$
+By **Definition 9.9.1 (Review of Decimal Multiplication and Division)**: $27\times3=81$, $2.7\times3=8.1$, $2.7\times0.3=0.81$, $2.7\times0.03=0.081$; $24\div6=4$, $2.4\div6=0.4$, $2.4\div0.6=4$, $2.4\div0.06=40$.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -190,7 +226,9 @@ By **Definition 9.9.1 (Review of Decimal Multiplication and Division)**: $27\tim
 
 ### Solution to Exercise 19
 
-Oranges cost $10\div2.5=4$ yuan/kg. Apples cost $4\times1.6=6.4$ yuan/kg. $3$ kg of apples costs $6.4\times3=19.2$ yuan. $\blacksquare$
+Oranges cost $10\div2.5=4$ yuan/kg. Apples cost $4\times1.6=6.4$ yuan/kg. $3$ kg of apples costs $6.4\times3=19.2$ yuan.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -198,4 +236,6 @@ Oranges cost $10\div2.5=4$ yuan/kg. Apples cost $4\times1.6=6.4$ yuan/kg. $3$ kg
 
 ### Solution to Exercise 20
 
-By **Definition 9.5.1 (Expressing Numbers with Letters)**, $c=at$. (1) $30t$ parts. (2) $25t=100$, $t=4$ hours. $\blacksquare$
+By **Definition 9.5.1 (Expressing Numbers with Letters)**, $c=at$. (1) $30t$ parts. (2) $25t=100$, $t=4$ hours.
+
+$\blacksquare$

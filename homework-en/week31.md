@@ -22,7 +22,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 3.8.4 (Reviewing Classification and Organization)**, for example divide by odd and even: the odds $1,3,5,\cdots,19$ are $10$ cards, and the evens $2,4,6,\cdots,20$ are $10$ cards. (2) It can be divided further, for example among the evens by whether they are multiples of $5$, or by one-digit and two-digit. Different standards give different results, but the total is always $20$. $\blacksquare$
+By **Definition 3.8.4 (Reviewing Classification and Organization)**, for example divide by odd and even: the odds $1,3,5,\cdots,19$ are $10$ cards, and the evens $2,4,6,\cdots,20$ are $10$ cards. (2) It can be divided further, for example among the evens by whether they are multiples of $5$, or by one-digit and two-digit. Different standards give different results, but the total is always $20$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -30,7 +32,9 @@ By **Definition 3.8.4 (Reviewing Classification and Organization)**, for example
 
 ### Solution to Exercise 2
 
-By **Definition 3.8.2 (Quantity Relations)**: (1) $8\times3=24$ (bags). (2) $24\div6=4$ (bags). (3) $24\div4=6$ (strings). $\blacksquare$
+By **Definition 3.8.2 (Quantity Relations)**: (1) $8\times3=24$ (bags). (2) $24\div6=4$ (bags). (3) $24\div4=6$ (strings).
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -38,7 +42,9 @@ By **Definition 3.8.2 (Quantity Relations)**: (1) $8\times3=24$ (bags). (2) $24\
 
 ### Solution to Exercise 3
 
-Four eight thirty-two: $4\times8=32$, $32\div8=4$, $32\div4=8$; five seven thirty-five: $5\times7=35$, $35\div7=5$; six six thirty-six: $36\div6=6$; three nine twenty-seven: $27\div9=3$, $27\div3=9$; two eight sixteen: $2\times8=16$, $16\div2=8$. $\blacksquare$
+Four eight thirty-two: $4\times8=32$, $32\div8=4$, $32\div4=8$; five seven thirty-five: $5\times7=35$, $35\div7=5$; six six thirty-six: $36\div6=6$; three nine twenty-seven: $27\div9=3$, $27\div3=9$; two eight sixteen: $2\times8=16$, $16\div2=8$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -46,7 +52,9 @@ Four eight thirty-two: $4\times8=32$, $32\div8=4$, $32\div4=8$; five seven thirt
 
 ### Solution to Exercise 4
 
-$30\div5=6$, $4\times9=36$, $6\times7=42$, $18\div3=6$, $7\times9=63$, $6\times8=48$, $12\div2=6$, $5\times4=20$, $5\times9=45$, $20\div4=5$, $3\times6=18$, $15+8=23$, $10\div2=5$, $4\times6=24$, $29-6=23$. Multiply before add/subtract: $5\times7+20=35+20=55$, $7\times9-9=63-9=54$, $7\times9+17=63+17=80$, $6\times7-34=42-34=8$, $6\times8+30=48+30=78$, $9\times6-38=54-38=16$. $\blacksquare$
+$30\div5=6$, $4\times9=36$, $6\times7=42$, $18\div3=6$, $7\times9=63$, $6\times8=48$, $12\div2=6$, $5\times4=20$, $5\times9=45$, $20\div4=5$, $3\times6=18$, $15+8=23$, $10\div2=5$, $4\times6=24$, $29-6=23$. Multiply before add/subtract: $5\times7+20=35+20=55$, $7\times9-9=63-9=54$, $7\times9+17=63+17=80$, $6\times7-34=42-34=8$, $6\times8+30=48+30=78$, $9\times6-38=54-38=16$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -54,7 +62,9 @@ $30\div5=6$, $4\times9=36$, $6\times7=42$, $18\div3=6$, $7\times9=63$, $6\times8
 
 ### Solution to Exercise 5
 
-$6\times6=36$; $30\div6=5$; $8\div2=4<8$; $5\times7=35>32$; $2\times6=12$, so $=$; $8\times9=72<73$; $4\times9=36>34$; $9\div3=3$, so $=$. $\blacksquare$
+$6\times6=36$; $30\div6=5$; $8\div2=4<8$; $5\times7=35>32$; $2\times6=12$, so $=$; $8\times9=72<73$; $4\times9=36>34$; $9\div3=3$, so $=$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -62,7 +72,9 @@ $6\times6=36$; $30\div6=5$; $8\div2=4<8$; $5\times7=35>32$; $2\times6=12$, so $=
 
 ### Solution to Exercise 6
 
-By **Definition 3.8.3 (Reviewing Directions and Measurement)**: height $1$ (meter) $30$ (centimeters), palm width $7$ (centimeters), step about $35$ (centimeters), flagpole $13$ (meters) high. $\blacksquare$
+By **Definition 3.8.3 (Reviewing Directions and Measurement)**: height $1$ (meter) $30$ (centimeters), palm width $7$ (centimeters), step about $35$ (centimeters), flagpole $13$ (meters) high.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -70,7 +82,9 @@ By **Definition 3.8.3 (Reviewing Directions and Measurement)**: height $1$ (mete
 
 ### Solution to Exercise 7
 
-Line up the ruler's mark $0$ with one end of the segment, and read which mark the other end points to for the centimeters. The estimate just needs to be close to the measurement; fill in the actual segment lengths. $\blacksquare$
+Line up the ruler's mark $0$ with one end of the segment, and read which mark the other end points to for the centimeters. The estimate just needs to be close to the measurement; fill in the actual segment lengths.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -78,7 +92,9 @@ Line up the ruler's mark $0$ with one end of the segment, and read which mark th
 
 ### Solution to Exercise 8
 
-Read the knife's and pencil's lengths from the marks in the picture. (1) How much shorter the knife is: pencil length $-$ knife length. (2) How much longer the pencil is: pencil length $-$ knife length; the two answers are the same. For example if the pencil is $10$ centimeters and the knife is $6$, then $10-6=4$ centimeters. $\blacksquare$
+Read the knife's and pencil's lengths from the marks in the picture. (1) How much shorter the knife is: pencil length $-$ knife length. (2) How much longer the pencil is: pencil length $-$ knife length; the two answers are the same. For example if the pencil is $10$ centimeters and the knife is $6$, then $10-6=4$ centimeters.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -86,7 +102,9 @@ Read the knife's and pencil's lengths from the marks in the picture. (1) How muc
 
 ### Solution to Exercise 9
 
-By **Definition 3.8.4 (Reviewing Classification and Organization)**, (1) classify by type such as sedan, bus, truck, count them and fill the table. (2) You could classify by number of wheels (such as $4$ wheels and $6$ wheels), or by size, or by whether there are windows; any reasonable way works. $\blacksquare$
+By **Definition 3.8.4 (Reviewing Classification and Organization)**, (1) classify by type such as sedan, bus, truck, count them and fill the table. (2) You could classify by number of wheels (such as $4$ wheels and $6$ wheels), or by size, or by whether there are windows; any reasonable way works.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -94,7 +112,9 @@ By **Definition 3.8.4 (Reviewing Classification and Organization)**, (1) classif
 
 ### Solution to Exercise 10
 
-By **Definition 3.8.3 (Reviewing Directions and Measurement)**, arrange the rooms by north-top, south-bottom, west-left, east-right; for example the rabbit lives north of the chick's home, the lamb east, the kitten west, and the puppy south. The answer is not unique; just saying the direction correctly works. $\blacksquare$
+By **Definition 3.8.3 (Reviewing Directions and Measurement)**, arrange the rooms by north-top, south-bottom, west-left, east-right; for example the rabbit lives north of the chick's home, the lamb east, the kitten west, and the puppy south. The answer is not unique; just saying the direction correctly works.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -102,7 +122,9 @@ By **Definition 3.8.3 (Reviewing Directions and Measurement)**, arrange the room
 
 ### Solution to Exercise 11
 
-(1) The chickens are two different kinds, use addition: $3+6=9$ (chickens). (2) The ducks are $3$ kinds of $6$ each, use multiplication: $3\times6=18$ (ducks). (3) For example how many chickens and ducks altogether? $9+18=27$ (birds); how many more ducks than chickens? $18-9=9$ (birds). $\blacksquare$
+(1) The chickens are two different kinds, use addition: $3+6=9$ (chickens). (2) The ducks are $3$ kinds of $6$ each, use multiplication: $3\times6=18$ (ducks). (3) For example how many chickens and ducks altogether? $9+18=27$ (birds); how many more ducks than chickens? $18-9=9$ (birds).
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -110,7 +132,9 @@ By **Definition 3.8.3 (Reviewing Directions and Measurement)**, arrange the room
 
 ### Solution to Exercise 12
 
-(1) $24\div3=8$ finds the price of each small cake; problem: "how much is each small cake?" (2) From (1) each cake is $8$ yuan, and $8\times9=72$ finds the total price of $9$ cakes; problem: "how much for $9$ such small cakes?" $\blacksquare$
+(1) $24\div3=8$ finds the price of each small cake; problem: "how much is each small cake?" (2) From (1) each cake is $8$ yuan, and $8\times9=72$ finds the total price of $9$ cakes; problem: "how much for $9$ such small cakes?"
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -118,7 +142,9 @@ By **Definition 3.8.3 (Reviewing Directions and Measurement)**, arrange the room
 
 ### Solution to Exercise 13
 
-(1) The first kind is $8\div2=4$ yuan per pair, the second is $20\div4=5$ yuan per pair, the third is $3$ yuan per pair, so the third kind is cheapest. (2) $5\times5=25$ (yuan). (3) $9\times3=27$ (yuan), i.e. $9$ shuttlecocks are $27$ yuan, and one soccer ball is $27$ yuan. $\blacksquare$
+(1) The first kind is $8\div2=4$ yuan per pair, the second is $20\div4=5$ yuan per pair, the third is $3$ yuan per pair, so the third kind is cheapest. (2) $5\times5=25$ (yuan). (3) $9\times3=27$ (yuan), i.e. $9$ shuttlecocks are $27$ yuan, and one soccer ball is $27$ yuan.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -126,4 +152,6 @@ By **Definition 3.8.3 (Reviewing Directions and Measurement)**, arrange the room
 
 ### Solution to Exercise 14
 
-Honestly color the red flowers against each point of performance, and think about which areas you should work harder on. This is a self-reflection on the whole semester's study; there is no standard answer. $\blacksquare$
+Honestly color the red flowers against each point of performance, and think about which areas you should work harder on. This is a self-reflection on the whole semester's study; there is no standard answer.
+
+$\blacksquare$

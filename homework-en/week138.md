@@ -26,7 +26,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 12.2.1 (Discount)**, current price $=$ original price $\times$ discount: $80\times65\%=52$ (yuan); $105\times70\%=73.5$ (yuan); $35\times88\%=30.8$ (yuan). $\blacksquare$
+By **Definition 12.2.1 (Discount)**, current price $=$ original price $\times$ discount: $80\times65\%=52$ (yuan); $105\times70\%=73.5$ (yuan); $35\times88\%=30.8$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -34,7 +36,9 @@ By **Definition 12.2.1 (Discount)**, current price $=$ original price $\times$ d
 
 ### Solution to Exercise 2
 
-By **Definition 12.2.2 (Tenths, or Cheng)**, reducing consumption by 25% means using $25\%$ less, so this year's usage is $1-25\%=75\%$ of last year's: $350\times\left(1-25\%\right)=350\times75\%=262.5$ (ten-thousand kWh). $\blacksquare$
+By **Definition 12.2.2 (Tenths, or Cheng)**, reducing consumption by 25% means using $25\%$ less, so this year's usage is $1-25\%=75\%$ of last year's: $350\times\left(1-25\%\right)=350\times75\%=262.5$ (ten-thousand kWh).
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -42,7 +46,9 @@ By **Definition 12.2.2 (Tenths, or Cheng)**, reducing consumption by 25% means u
 
 ### Solution to Exercise 3
 
-By **Definition 12.2.2 (Tenths, or Cheng)**, a 20% increase means 2019 is $1+20\%=120\%$ of 2018. The 2018 number of visitors $=96\div\left(1+20\%\right)=96\div1.2=80$ (ten thousand). $\blacksquare$
+By **Definition 12.2.2 (Tenths, or Cheng)**, a 20% increase means 2019 is $1+20\%=120\%$ of 2018. The 2018 number of visitors $=96\div\left(1+20\%\right)=96\div1.2=80$ (ten thousand).
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -50,7 +56,9 @@ By **Definition 12.2.2 (Tenths, or Cheng)**, a 20% increase means 2019 is $1+20\
 
 ### Solution to Exercise 4
 
-By **Definition 12.2.3 (Tax Rate)**, the taxable amount $=30\times3\%=0.9$ (ten thousand yuan). $\blacksquare$
+By **Definition 12.2.3 (Tax Rate)**, the taxable amount $=30\times3\%=0.9$ (ten thousand yuan).
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -58,7 +66,9 @@ By **Definition 12.2.3 (Tax Rate)**, the taxable amount $=30\times3\%=0.9$ (ten 
 
 ### Solution to Exercise 5
 
-By **Definition 12.2.3 (Tax Rate)**, the taxable amount $=2500\times3\%=75$ (yuan). $\blacksquare$
+By **Definition 12.2.3 (Tax Rate)**, the taxable amount $=2500\times3\%=75$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -66,7 +76,9 @@ By **Definition 12.2.3 (Tax Rate)**, the taxable amount $=2500\times3\%=75$ (yua
 
 ### Solution to Exercise 6
 
-By **Definition 12.2.4 (Interest Rate and Interest)**, interest $=5000\times2.10\%\times2=210$ (yuan); principal plus interest $=5000+210=5210$ (yuan). $\blacksquare$
+By **Definition 12.2.4 (Interest Rate and Interest)**, interest $=5000\times2.10\%\times2=210$ (yuan); principal plus interest $=5000+210=5210$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -74,7 +86,9 @@ By **Definition 12.2.4 (Interest Rate and Interest)**, interest $=5000\times2.10
 
 ### Solution to Exercise 7
 
-By **Definition 12.2.4 (Interest Rate and Interest)**, interest $=8000\times2.75\%\times3=660$ (yuan); total withdrawal $=8000+660=8660$ (yuan). $\blacksquare$
+By **Definition 12.2.4 (Interest Rate and Interest)**, interest $=8000\times2.75\%\times3=660$ (yuan); total withdrawal $=8000+660=8660$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -82,7 +96,9 @@ By **Definition 12.2.4 (Interest Rate and Interest)**, interest $=8000\times2.75
 
 ### Solution to Exercise 8
 
-By **Definition 12.2.1 (Discount)**. (1) Mall A: $230\times55\%=126.5$ (yuan). Mall B: $230$ contains $2$ instances of $100$, so subtract $2$ savings of $50$ yuan: $230-50\times2=130$ (yuan). (2) Since $126.5<130$, Mall A saves more. $\blacksquare$
+By **Definition 12.2.1 (Discount)**. (1) Mall A: $230\times55\%=126.5$ (yuan). Mall B: $230$ contains $2$ instances of $100$, so subtract $2$ savings of $50$ yuan: $230-50\times2=130$ (yuan). (2) Since $126.5<130$, Mall A saves more.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -90,7 +106,9 @@ By **Definition 12.2.1 (Discount)**. (1) Mall A: $230\times55\%=126.5$ (yuan). M
 
 ### Solution to Exercise 9
 
-By **Definition 12.2.1 (Discount)**. Mall A: $120$ contains $1$ of $100$, so $120-40=80$ (yuan). Mall B: $120\times60\%=72$ (yuan). The difference is $80-72=8$ (yuan). $\blacksquare$
+By **Definition 12.2.1 (Discount)**. Mall A: $120$ contains $1$ of $100$, so $120-40=80$ (yuan). Mall B: $120\times60\%=72$ (yuan). The difference is $80-72=8$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -98,7 +116,9 @@ By **Definition 12.2.1 (Discount)**. Mall A: $120$ contains $1$ of $100$, so $12
 
 ### Solution to Exercise 10
 
-By **Definition 12.2.1 (Discount)**, 50% off means selling at $50\%$ of the original price. (1) After discount they are $4\times50\%=2$ yuan, $6\times50\%=3$ yuan, $5\times50\%=2.5$ yuan, and $8.8\times50\%=4.4$ yuan. (2) With $10$ yuan she can combine freely, as long as the discounted total does not exceed $10$ yuan; for example, two $2$-yuan loaves plus one $4.4$-yuan loaf come to $8.4$ yuan. $\blacksquare$
+By **Definition 12.2.1 (Discount)**, 50% off means selling at $50\%$ of the original price. (1) After discount they are $4\times50\%=2$ yuan, $6\times50\%=3$ yuan, $5\times50\%=2.5$ yuan, and $8.8\times50\%=4.4$ yuan. (2) With $10$ yuan she can combine freely, as long as the discounted total does not exceed $10$ yuan; for example, two $2$-yuan loaves plus one $4.4$-yuan loaf come to $8.4$ yuan.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -106,7 +126,9 @@ By **Definition 12.2.1 (Discount)**, 50% off means selling at $50\%$ of the orig
 
 ### Solution to Exercise 11
 
-By **Definition 12.2.1 (Discount)**, 20% off means $80\%$ of the original price. The $200$-yuan piece costs $200\times80\%=160$ yuan; the $220$-yuan piece costs $220\times80\%=176$ yuan; the $2400$-yuan piece costs $2400\times80\%=1920$ yuan; the $4$th piece is computed by multiplying its original price by $80\%$. $\blacksquare$
+By **Definition 12.2.1 (Discount)**, 20% off means $80\%$ of the original price. The $200$-yuan piece costs $200\times80\%=160$ yuan; the $220$-yuan piece costs $220\times80\%=176$ yuan; the $2400$-yuan piece costs $2400\times80\%=1920$ yuan; the $4$th piece is computed by multiplying its original price by $80\%$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -114,7 +136,9 @@ By **Definition 12.2.1 (Discount)**, 20% off means $80\%$ of the original price.
 
 ### Solution to Exercise 12
 
-By **Definition 12.2.1 (Discount)**, 20% off means paying only $80\%$ of the original price, so the saving is $1-80\%=20\%$ of the original price; this $20\%$ equals $9.6$ yuan. The original price $=9.6\div\left(1-80\%\right)=9.6\div20\%=48$ (yuan). $\blacksquare$
+By **Definition 12.2.1 (Discount)**, 20% off means paying only $80\%$ of the original price, so the saving is $1-80\%=20\%$ of the original price; this $20\%$ equals $9.6$ yuan. The original price $=9.6\div\left(1-80\%\right)=9.6\div20\%=48$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -122,7 +146,9 @@ By **Definition 12.2.1 (Discount)**, 20% off means paying only $80\%$ of the ori
 
 ### Solution to Exercise 13
 
-By **Definition 12.2.2 (Tenths, or Cheng)**, a 20% increase means last year was $1+20\%=120\%$ of the year before last: $48\times\left(1+20\%\right)=48\times1.2=57.6$ (ten-thousand tons). $\blacksquare$
+By **Definition 12.2.2 (Tenths, or Cheng)**, a 20% increase means last year was $1+20\%=120\%$ of the year before last: $48\times\left(1+20\%\right)=48\times1.2=57.6$ (ten-thousand tons).
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -130,7 +156,9 @@ By **Definition 12.2.2 (Tenths, or Cheng)**, a 20% increase means last year was 
 
 ### Solution to Exercise 14
 
-By **Definition 12.2.2 (Tenths, or Cheng)**, February's 30% growth over January means February was $1+30\%=130\%$ of January. January's exports $=1.3\div\left(1+30\%\right)=1.3\div1.3=1$ (ten thousand). $\blacksquare$
+By **Definition 12.2.2 (Tenths, or Cheng)**, February's 30% growth over January means February was $1+30\%=130\%$ of January. January's exports $=1.3\div\left(1+30\%\right)=1.3\div1.3=1$ (ten thousand).
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -138,7 +166,9 @@ By **Definition 12.2.2 (Tenths, or Cheng)**, February's 30% growth over January 
 
 ### Solution to Exercise 15
 
-By **Definition 12.2.3 (Tax Rate)**, consumption tax $=200\times15\%=30$ (yuan). $\blacksquare$
+By **Definition 12.2.3 (Tax Rate)**, consumption tax $=200\times15\%=30$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -146,7 +176,9 @@ By **Definition 12.2.3 (Tax Rate)**, consumption tax $=200\times15\%=30$ (yuan).
 
 ### Solution to Exercise 16
 
-By **Definition 12.2.3 (Tax Rate)**, the taxable portion $=3000-800=2200$ yuan; the taxable amount $=2200\times20\%=440$ (yuan). $\blacksquare$
+By **Definition 12.2.3 (Tax Rate)**, the taxable portion $=3000-800=2200$ yuan; the taxable amount $=2200\times20\%=440$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -154,7 +186,9 @@ By **Definition 12.2.3 (Tax Rate)**, the taxable portion $=3000-800=2200$ yuan; 
 
 ### Solution to Exercise 17
 
-By **Definition 12.2.1 (Discount)**. Brand A: $220$ contains $1$ of $200$, so $220-100=120$ (yuan). Brand B: $220\times60\%\times95\%=220\times0.6\times0.95=125.4$ (yuan). Since $120<125.4$, Brand A is cheaper. $\blacksquare$
+By **Definition 12.2.1 (Discount)**. Brand A: $220$ contains $1$ of $200$, so $220-100=120$ (yuan). Brand B: $220\times60\%\times95\%=220\times0.6\times0.95=125.4$ (yuan). Since $120<125.4$, Brand A is cheaper.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -162,4 +196,6 @@ By **Definition 12.2.1 (Discount)**. Brand A: $220$ contains $1$ of $200$, so $2
 
 ### Solution to Exercise 18
 
-By **Definition 12.2.1 (Discount)**. Shop A: $80\times70\%=56$ (yuan). Shop B: $80$ contains $1$ of $69$, so $80-19=61$ (yuan). The difference is $61-56=5$ (yuan). $\blacksquare$
+By **Definition 12.2.1 (Discount)**. Shop A: $80\times70\%=56$ (yuan). Shop B: $80$ contains $1$ of $69$, so $80-19=61$ (yuan). The difference is $61-56=5$ (yuan).
+
+$\blacksquare$

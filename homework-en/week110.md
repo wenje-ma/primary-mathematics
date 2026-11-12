@@ -34,7 +34,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 10.1.2 (Building a Solid from Views)**, first place $3$ cubes in a horizontal row as the bottom layer, ensuring the front view is $3$ horizontal squares. (1) The $4$th cube may sit on top of any one of the three, giving $3$ arrangements. (2) Any extra cubes may be stacked on top of an existing position, as long as the front view remains $3$ horizontal squares; the number of arrangements grows with the count. $\blacksquare$
+By **Definition 10.1.2 (Building a Solid from Views)**, first place $3$ cubes in a horizontal row as the bottom layer, ensuring the front view is $3$ horizontal squares. (1) The $4$th cube may sit on top of any one of the three, giving $3$ arrangements. (2) Any extra cubes may be stacked on top of an existing position, as long as the front view remains $3$ horizontal squares; the number of arrangements grows with the count.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -42,7 +44,9 @@ By **Definition 10.1.2 (Building a Solid from Views)**, first place $3$ cubes in
 
 ### Solution to Exercise 2
 
-By **Definition 10.1.2 (Building a Solid from Views)**, the number on each square in the top view is the number of cubes stacked at that position. From the front, each column's height is the largest number among the positions in that column; from the left, each row's height is the largest number among the positions in that row. Draw the front and left views accordingly. $\blacksquare$
+By **Definition 10.1.2 (Building a Solid from Views)**, the number on each square in the top view is the number of cubes stacked at that position. From the front, each column's height is the largest number among the positions in that column; from the left, each row's height is the largest number among the positions in that row. Draw the front and left views accordingly.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -50,7 +54,9 @@ By **Definition 10.1.2 (Building a Solid from Views)**, the number on each squar
 
 ### Solution to Exercise 3
 
-By **Definition 10.2.1 (Factors and Multiples)**: $24\div4=6$, so $4$ is a factor of $24$ and $24$ is a multiple of $4$; $26\div13=2$, $13$ is a factor of $26$ and $26$ is a multiple of $13$; $75\div25=3$, $25$ is a factor of $75$ and $75$ is a multiple of $25$; $81\div9=9$, $9$ is a factor of $81$ and $81$ is a multiple of $9$. $\blacksquare$
+By **Definition 10.2.1 (Factors and Multiples)**: $24\div4=6$, so $4$ is a factor of $24$ and $24$ is a multiple of $4$; $26\div13=2$, $13$ is a factor of $26$ and $26$ is a multiple of $13$; $75\div25=3$, $25$ is a factor of $75$ and $75$ is a multiple of $25$; $81\div9=9$, $9$ is a factor of $81$ and $81$ is a multiple of $9$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -58,7 +64,9 @@ By **Definition 10.2.1 (Factors and Multiples)**: $24\div4=6$, so $4$ is a facto
 
 ### Solution to Exercise 4
 
-By **Definition 10.2.1 (Factors and Multiples)** and **Definition 10.2.2 (Properties of Factors and Multiples)**: the factors of $30$ are $1,2,3,5,6,10,15,30$; the factors of $36$ are $1,2,3,4,6,9,12,18,36$; the multiples of $3$ are $3,6,9,12,\cdots$; the multiples of $5$ are $5,10,15,20,\cdots$. $\blacksquare$
+By **Definition 10.2.1 (Factors and Multiples)** and **Definition 10.2.2 (Properties of Factors and Multiples)**: the factors of $30$ are $1,2,3,5,6,10,15,30$; the factors of $36$ are $1,2,3,4,6,9,12,18,36$; the multiples of $3$ are $3,6,9,12,\cdots$; the multiples of $5$ are $5,10,15,20,\cdots$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -66,7 +74,9 @@ By **Definition 10.2.1 (Factors and Multiples)** and **Definition 10.2.2 (Proper
 
 ### Solution to Exercise 5
 
-By **Definition 10.2.1 (Factors and Multiples)**, the factors of $15$ are $1,3,5,15$; $15$ is a multiple of $1,3,5,15$. $\blacksquare$
+By **Definition 10.2.1 (Factors and Multiples)**, the factors of $15$ are $1,3,5,15$; $15$ is a multiple of $1,3,5,15$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -74,7 +84,9 @@ By **Definition 10.2.1 (Factors and Multiples)**, the factors of $15$ are $1,3,5
 
 ### Solution to Exercise 6
 
-By **Definition 10.2.1 (Factors and Multiples)**: the factors of $60$ are $1,2,3,4,5,6,10,12,15,20,30,60$; the factors of $36$ are $1,2,3,4,6,9,12,18,36$; the overlap holds $1,2,3,4,6,12$. $\blacksquare$
+By **Definition 10.2.1 (Factors and Multiples)**: the factors of $60$ are $1,2,3,4,5,6,10,12,15,20,30,60$; the factors of $36$ are $1,2,3,4,6,9,12,18,36$; the overlap holds $1,2,3,4,6,12$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -82,7 +94,9 @@ By **Definition 10.2.1 (Factors and Multiples)**: the factors of $60$ are $1,2,3
 
 ### Solution to Exercise 7
 
-By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**, numbers ending in $0$ or $5$ are multiples of $5$, so color $35,5,60,100,10,55$ yellow and leave the rest. $\blacksquare$
+By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**, numbers ending in $0$ or $5$ are multiples of $5$, so color $35,5,60,100,10,55$ yellow and leave the rest.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -90,7 +104,9 @@ By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**, numbers ending in
 
 ### Solution to Exercise 8
 
-By **Definition 10.2.1 (Factors and Multiples)** and **Definition 10.2.2 (Properties of Factors and Multiples)**: (1) factors of $10$: $1,2,5,10$; of $17$: $1,17$; of $28$: $1,2,4,7,14,28$; of $32$: $1,2,4,8,16,32$; of $48$: $1,2,3,4,6,8,12,16,24,48$. (2) multiples of $4$: $4,8,12,16,20$; of $7$: $7,14,21,28,35$; of $10$: $10,20,30,40,50$. $\blacksquare$
+By **Definition 10.2.1 (Factors and Multiples)** and **Definition 10.2.2 (Properties of Factors and Multiples)**: (1) factors of $10$: $1,2,5,10$; of $17$: $1,17$; of $28$: $1,2,4,7,14,28$; of $32$: $1,2,4,8,16,32$; of $48$: $1,2,3,4,6,8,12,16,24,48$. (2) multiples of $4$: $4,8,12,16,20$; of $7$: $7,14,21,28,35$; of $10$: $10,20,30,40,50$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -98,7 +114,9 @@ By **Definition 10.2.1 (Factors and Multiples)** and **Definition 10.2.2 (Proper
 
 ### Solution to Exercise 9
 
-By **Definition 10.2.1 (Factors and Multiples)** and **Definition 10.2.2 (Properties of Factors and Multiples)**: (1) Correct; every natural number has factor $1$. (2) Wrong; a number has infinitely many multiples. (3) Correct; $36\div9=4$ gives an integer quotient with no remainder. (4) Wrong; the numbers used are natural numbers, and $5.7$ is not one. $\blacksquare$
+By **Definition 10.2.1 (Factors and Multiples)** and **Definition 10.2.2 (Properties of Factors and Multiples)**: (1) Correct; every natural number has factor $1$. (2) Wrong; a number has infinitely many multiples. (3) Correct; $36\div9=4$ gives an integer quotient with no remainder. (4) Wrong; the numbers used are natural numbers, and $5.7$ is not one.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -106,7 +124,9 @@ By **Definition 10.2.1 (Factors and Multiples)** and **Definition 10.2.2 (Proper
 
 ### Solution to Exercise 10
 
-By **Definition 10.2.2 (Properties of Factors and Multiples)**: (1) $1$ has only $1$ factor, $7$ has $2$, $10$ has $4$; (2) the greatest factor and least multiple are both the number itself, so the number is $18$; (3) the least multiple is the number itself, so the number is $1$. $\blacksquare$
+By **Definition 10.2.2 (Properties of Factors and Multiples)**: (1) $1$ has only $1$ factor, $7$ has $2$, $10$ has $4$; (2) the greatest factor and least multiple are both the number itself, so the number is $18$; (3) the least multiple is the number itself, so the number is $1$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -114,7 +134,9 @@ By **Definition 10.2.2 (Properties of Factors and Multiples)**: (1) $1$ has only
 
 ### Solution to Exercise 11
 
-By **Definition 10.2.1 (Factors and Multiples)** and **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**, among $7,14,21,42$, only $42$ is a multiple of both $2$ and $3$ (i.e. of $6$), so it is $42$. $\blacksquare$
+By **Definition 10.2.1 (Factors and Multiples)** and **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**, among $7,14,21,42$, only $42$ is a multiple of both $2$ and $3$ (i.e. of $6$), so it is $42$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -122,7 +144,9 @@ By **Definition 10.2.1 (Factors and Multiples)** and **Definition 10.2.4 (Proper
 
 ### Solution to Exercise 12
 
-By **Definition 10.2.1 (Factors and Multiples)**: (1) $14+21=35$, $35\div7=5$, so yes, a multiple of $7$; (2) $27-18=9$, $9\div9=1$, so yes, a multiple of $9$. Finding: if two numbers are both multiples of the same number, their sum (or difference) is also a multiple of it. $\blacksquare$
+By **Definition 10.2.1 (Factors and Multiples)**: (1) $14+21=35$, $35\div7=5$, so yes, a multiple of $7$; (2) $27-18=9$, $9\div9=1$, so yes, a multiple of $9$. Finding: if two numbers are both multiples of the same number, their sum (or difference) is also a multiple of it.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -130,7 +154,9 @@ By **Definition 10.2.1 (Factors and Multiples)**: (1) $14+21=35$, $35\div7=5$, s
 
 ### Solution to Exercise 13
 
-By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**: multiples of $2$ are $106,60,130,280,6018$; multiples of $5$ are $35,60,130,75,280$; multiples of both $2$ and $5$ (ending in $0$) are $60,130,280$. Finding: a number ending in $0$ is a multiple of both $2$ and $5$. $\blacksquare$
+By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**: multiples of $2$ are $106,60,130,280,6018$; multiples of $5$ are $35,60,130,75,280$; multiples of both $2$ and $5$ (ending in $0$) are $60,130,280$. Finding: a number ending in $0$ is a multiple of both $2$ and $5$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -138,7 +164,9 @@ By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**: multiples of $2$ 
 
 ### Solution to Exercise 14
 
-By **Definition 10.2.3 (Even and Odd Numbers)**, multiples of $2$ are even and the rest odd: even are $98,988,1000,3678$; odd are $33,355,123,881,565,8089,677$. $\blacksquare$
+By **Definition 10.2.3 (Even and Odd Numbers)**, multiples of $2$ are even and the rest odd: even are $98,988,1000,3678$; odd are $33,355,123,881,565,8089,677$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -146,4 +174,6 @@ By **Definition 10.2.3 (Even and Odd Numbers)**, multiples of $2$ are even and t
 
 ### Solution to Exercise 15
 
-By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**: (1) ending in $0$ or $5$ with equal digits: $55$; (2) a multiple of both $2$ and $5$ ends in $0$, e.g. $10,20$, etc.; (3) the smallest three-digit number ending in $0$ with the smallest hundreds digit is $100$. $\blacksquare$
+By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**: (1) ending in $0$ or $5$ with equal digits: $55$; (2) a multiple of both $2$ and $5$ ends in $0$, e.g. $10,20$, etc.; (3) the smallest three-digit number ending in $0$ with the smallest hundreds digit is $100$.
+
+$\blacksquare$

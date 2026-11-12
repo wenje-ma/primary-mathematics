@@ -50,7 +50,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 12.6.1 (Mathematics in a Bicycle)**, the rear sprocket (rear wheel) makes $=\frac{48}{16}=3$ revolutions. The wheel circumference $=\pi{d}=3.14\times60=188.4\,\mathrm{cm}$. One pedal revolution travels $3\times188.4=565.2\,\mathrm{cm}\approx5.65\,\mathrm{m}$. $\blacksquare$
+By **Definition 12.6.1 (Mathematics in a Bicycle)**, the rear sprocket (rear wheel) makes $=\frac{48}{16}=3$ revolutions. The wheel circumference $=\pi{d}=3.14\times60=188.4\,\mathrm{cm}$. One pedal revolution travels $3\times188.4=565.2\,\mathrm{cm}\approx5.65\,\mathrm{m}$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -58,7 +60,9 @@ By **Definition 12.6.1 (Mathematics in a Bicycle)**, the rear sprocket (rear whe
 
 ### Solution to Exercise 2
 
-By **Definition 12.6.1 (Mathematics in a Bicycle)**. (1) There are $2$ front chainrings and $6$ rear sprockets, giving $2\times6=12$ combinations. (2) With the same number of pedal revolutions, the larger the front-to-rear tooth ratio, the farther it travels; the largest ratio is front $48$ paired with rear $14$, i.e. $48:14$, and this combination travels farthest. $\blacksquare$
+By **Definition 12.6.1 (Mathematics in a Bicycle)**. (1) There are $2$ front chainrings and $6$ rear sprockets, giving $2\times6=12$ combinations. (2) With the same number of pedal revolutions, the larger the front-to-rear tooth ratio, the farther it travels; the largest ratio is front $48$ paired with rear $14$, i.e. $48:14$, and this combination travels farthest.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -66,7 +70,9 @@ By **Definition 12.6.1 (Mathematics in a Bicycle)**. (1) There are $2$ front cha
 
 ### Solution to Exercise 3
 
-By **Definition 12.7.1 (Pigeonhole Principle)**, $4\div3=1\cdots\cdots1$, quotient $1$ remainder $1$. If each cup holds at most $1$ pencil, the $3$ cups hold at most $3$ pencils, and the remaining $1$ pencil must go into one of the cups; hence there is always $1$ cup with at least $1+1=2$ pencils. $\blacksquare$
+By **Definition 12.7.1 (Pigeonhole Principle)**, $4\div3=1\cdots\cdots1$, quotient $1$ remainder $1$. If each cup holds at most $1$ pencil, the $3$ cups hold at most $3$ pencils, and the remaining $1$ pencil must go into one of the cups; hence there is always $1$ cup with at least $1+1=2$ pencils.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -74,7 +80,9 @@ By **Definition 12.7.1 (Pigeonhole Principle)**, $4\div3=1\cdots\cdots1$, quotie
 
 ### Solution to Exercise 4
 
-By **Definition 12.7.1 (Pigeonhole Principle)**, there are $12$ zodiac signs, treated as $12$ drawers, and the $13$ teachers are $13$ objects. Since $13\div12=1\cdots\cdots1$, at least $1+1=2$ people share a sign. $\blacksquare$
+By **Definition 12.7.1 (Pigeonhole Principle)**, there are $12$ zodiac signs, treated as $12$ drawers, and the $13$ teachers are $13$ objects. Since $13\div12=1\cdots\cdots1$, at least $1+1=2$ people share a sign.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -82,7 +90,9 @@ By **Definition 12.7.1 (Pigeonhole Principle)**, there are $12$ zodiac signs, tr
 
 ### Solution to Exercise 5
 
-By **Definition 12.7.1 (Pigeonhole Principle)**. $7\div3=2\cdots\cdots1$, so at least $2+1=3$ books. $8\div3=2\cdots\cdots2$, so at least $2+1=3$ books. $10\div3=3\cdots\cdots1$, so at least $3+1=4$ books. $\blacksquare$
+By **Definition 12.7.1 (Pigeonhole Principle)**. $7\div3=2\cdots\cdots1$, so at least $2+1=3$ books. $8\div3=2\cdots\cdots2$, so at least $2+1=3$ books. $10\div3=3\cdots\cdots1$, so at least $3+1=4$ books.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -90,7 +100,9 @@ By **Definition 12.7.1 (Pigeonhole Principle)**. $7\div3=2\cdots\cdots1$, so at 
 
 ### Solution to Exercise 6
 
-By **Definition 12.7.1 (Pigeonhole Principle)**, $11\div4=2\cdots\cdots3$, quotient $2$ remainder $3$, so there is always $1$ hole receiving at least $2+1=3$ pigeons. $\blacksquare$
+By **Definition 12.7.1 (Pigeonhole Principle)**, $11\div4=2\cdots\cdots3$, quotient $2$ remainder $3$, so there is always $1$ hole receiving at least $2+1=3$ pigeons.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -98,7 +110,9 @@ By **Definition 12.7.1 (Pigeonhole Principle)**, $11\div4=2\cdots\cdots3$, quoti
 
 ### Solution to Exercise 7
 
-By **Definition 12.7.1 (Pigeonhole Principle)**, the $52$ cards fall into $4$ suits, treated as $4$ drawers. The $9$ people draw $9$ cards, and $9\div4=2\cdots\cdots1$, so at least $2+1=3$ cards are of the same suit. $\blacksquare$
+By **Definition 12.7.1 (Pigeonhole Principle)**, the $52$ cards fall into $4$ suits, treated as $4$ drawers. The $9$ people draw $9$ cards, and $9\div4=2\cdots\cdots1$, so at least $2+1=3$ cards are of the same suit.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -106,7 +120,9 @@ By **Definition 12.7.1 (Pigeonhole Principle)**, the $52$ cards fall into $4$ su
 
 ### Solution to Exercise 8
 
-By **Definition 12.7.1 (Pigeonhole Principle)**, there are $2$ colors, treated as $2$ drawers. In the worst case, first draw $2$ balls of different colors; the next $1$ draw must match one of them, so at least $2+1=3$ balls are needed. $\blacksquare$
+By **Definition 12.7.1 (Pigeonhole Principle)**, there are $2$ colors, treated as $2$ drawers. In the worst case, first draw $2$ balls of different colors; the next $1$ draw must match one of them, so at least $2+1=3$ balls are needed.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -114,7 +130,9 @@ By **Definition 12.7.1 (Pigeonhole Principle)**, there are $2$ colors, treated a
 
 ### Solution to Exercise 9
 
-By **Definition 12.7.1 (Pigeonhole Principle)**. A year has at most $366$ days, and $367\div366=1\cdots\cdots1$, so at least $1+1=2$ people share a birthday — correct. A year has $12$ months, and $37\div12=3\cdots\cdots1$, so at least $3+1=4$ people share a birth month — correct. $\blacksquare$
+By **Definition 12.7.1 (Pigeonhole Principle)**. A year has at most $366$ days, and $367\div366=1\cdots\cdots1$, so at least $1+1=2$ people share a birthday — correct. A year has $12$ months, and $37\div12=3\cdots\cdots1$, so at least $3+1=4$ people share a birth month — correct.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -122,7 +140,9 @@ By **Definition 12.7.1 (Pigeonhole Principle)**. A year has at most $366$ days, 
 
 ### Solution to Exercise 10
 
-By **Definition 12.7.1 (Pigeonhole Principle)**, there are $4$ colors, treated as $4$ drawers. In the worst case, first draw $4$ balls of different colors; the next $1$ draw must match one of them, so at least $4+1=5$ balls are needed. $\blacksquare$
+By **Definition 12.7.1 (Pigeonhole Principle)**, there are $4$ colors, treated as $4$ drawers. In the worst case, first draw $4$ balls of different colors; the next $1$ draw must match one of them, so at least $4+1=5$ balls are needed.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -130,7 +150,9 @@ By **Definition 12.7.1 (Pigeonhole Principle)**, there are $4$ colors, treated a
 
 ### Solution to Exercise 11
 
-By **Definition 12.7.1 (Pigeonhole Principle)**, treat the $5$ darts as $5$ drawers. Since $41\div5=8\cdots\cdots1$, each dart averages $8$ points with $1$ point left over, so at least one dart scores no less than $8+1=9$ points. $\blacksquare$
+By **Definition 12.7.1 (Pigeonhole Principle)**, treat the $5$ darts as $5$ drawers. Since $41\div5=8\cdots\cdots1$, each dart averages $8$ points with $1$ point left over, so at least one dart scores no less than $8+1=9$ points.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -138,7 +160,9 @@ By **Definition 12.7.1 (Pigeonhole Principle)**, treat the $5$ darts as $5$ draw
 
 ### Solution to Exercise 12
 
-By **Definition 12.7.1 (Pigeonhole Principle)**, treat the $2$ colors as $2$ drawers. Since $6\div2=3$, at least $3$ faces are painted the same color. $\blacksquare$
+By **Definition 12.7.1 (Pigeonhole Principle)**, treat the $2$ colors as $2$ drawers. Since $6\div2=3$, at least $3$ faces are painted the same color.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -146,7 +170,9 @@ By **Definition 12.7.1 (Pigeonhole Principle)**, treat the $2$ colors as $2$ dra
 
 ### Solution to Exercise 13
 
-By **Definition 12.7.1 (Pigeonhole Principle)**, there are $3$ colors, treated as $3$ drawers. In the worst case, first take $3$ chopsticks of different colors; the next $1$ chopstick must match one of them to form a pair, so at least $3+1=4$ chopsticks are needed. $\blacksquare$
+By **Definition 12.7.1 (Pigeonhole Principle)**, there are $3$ colors, treated as $3$ drawers. In the worst case, first take $3$ chopsticks of different colors; the next $1$ chopstick must match one of them to form a pair, so at least $3+1=4$ chopsticks are needed.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -154,7 +180,9 @@ By **Definition 12.7.1 (Pigeonhole Principle)**, there are $3$ colors, treated a
 
 ### Solution to Exercise 14
 
-Natural numbers fall into two classes by parity: odd and even, treated as $2$ drawers. Putting $3$ natural numbers into $2$ drawers, by **Definition 12.7.1 (Pigeonhole Principle)**, at least $2$ numbers are both odd or both even. Odd $+$ odd $=$ even, and even $+$ even $=$ even, so the sum of these two numbers must be even. $\blacksquare$
+Natural numbers fall into two classes by parity: odd and even, treated as $2$ drawers. Putting $3$ natural numbers into $2$ drawers, by **Definition 12.7.1 (Pigeonhole Principle)**, at least $2$ numbers are both odd or both even. Odd $+$ odd $=$ even, and even $+$ even $=$ even, so the sum of these two numbers must be even.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -162,7 +190,9 @@ Natural numbers fall into two classes by parity: odd and even, treated as $2$ dr
 
 ### Solution to Exercise 15
 
-By **Definition 12.1.1 (Positive and Negative Numbers)**, **Definition 12.8.1 (Classification and Meaning of Numbers)**, and **Definition 12.2.1 (Discount)**. (1) Above zero is recorded as positive: $+49.7\,^{\circ}\mathrm{C}$; below zero as negative: $-52.3\,^{\circ}\mathrm{C}$. (2) Since $a$ is a multiple of $b$, the greatest common factor is $b$ and the least common multiple is $a$. (3) 30% off means $70\%$; you pay $100\times\left(1-70\%\right)=30$ yuan less. $\blacksquare$
+By **Definition 12.1.1 (Positive and Negative Numbers)**, **Definition 12.8.1 (Classification and Meaning of Numbers)**, and **Definition 12.2.1 (Discount)**. (1) Above zero is recorded as positive: $+49.7\,^{\circ}\mathrm{C}$; below zero as negative: $-52.3\,^{\circ}\mathrm{C}$. (2) Since $a$ is a multiple of $b$, the greatest common factor is $b$ and the least common multiple is $a$. (3) 30% off means $70\%$; you pay $100\times\left(1-70\%\right)=30$ yuan less.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -170,7 +200,9 @@ By **Definition 12.1.1 (Positive and Negative Numbers)**, **Definition 12.8.1 (C
 
 ### Solution to Exercise 16
 
-The tens digit has $4$ choices and the units digit has $3$ left, giving $4\times3=12$ two-digit numbers. The odd ones end in $3$ or $5$: $23,43,53,25,35,45$; the even ones end in $2$ or $4$: $32,42,52,24,34,54$. The multiples of $2$ are the even ones above; the multiples of $3$, whose digit sum is a multiple of $3$, are $24,42,45,54$; the multiples of $5$, ending in $0$ or $5$, are $25,35,45$. $\blacksquare$
+The tens digit has $4$ choices and the units digit has $3$ left, giving $4\times3=12$ two-digit numbers. The odd ones end in $3$ or $5$: $23,43,53,25,35,45$; the even ones end in $2$ or $4$: $32,42,52,24,34,54$. The multiples of $2$ are the even ones above; the multiples of $3$, whose digit sum is a multiple of $3$, are $24,42,45,54$; the multiples of $5$, ending in $0$ or $5$, are $25,35,45$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -178,4 +210,6 @@ The tens digit has $4$ choices and the units digit has $3$ left, giving $4\times
 
 ### Solution to Exercise 17
 
-$27+68=95$; $910-540=370$; $18\times40=720$; $910\div70=13$; $78-0.8=77.2$; $6.3\div0.1=63$; $36\times25\%=9$; $3.48+6.52=10$; $1.02-0.43=0.59$; $0.25\times0.8=0.2$. $\blacksquare$
+$27+68=95$; $910-540=370$; $18\times40=720$; $910\div70=13$; $78-0.8=77.2$; $6.3\div0.1=63$; $36\times25\%=9$; $3.48+6.52=10$; $1.02-0.43=0.59$; $0.25\times0.8=0.2$.
+
+$\blacksquare$

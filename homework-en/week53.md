@@ -34,7 +34,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 5.7.2 (Angle)**, find the places in each figure where two sides are drawn out from one point, and mark the vertex and sides. $\blacksquare$
+By **Definition 5.7.2 (Angle)**, find the places in each figure where two sides are drawn out from one point, and mark the vertex and sides.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -42,7 +44,9 @@ By **Definition 5.7.2 (Angle)**, find the places in each figure where two sides 
 
 ### Solution to Exercise 2
 
-By **Definition 5.7.3 (Right Angle, Acute Angle, Obtuse Angle)**, match those smaller than a right angle to acute angle, those equal to the triangular ruler's right angle to right angle, and those larger than a right angle to obtuse angle. $\blacksquare$
+By **Definition 5.7.3 (Right Angle, Acute Angle, Obtuse Angle)**, match those smaller than a right angle to acute angle, those equal to the triangular ruler's right angle to right angle, and those larger than a right angle to obtuse angle.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -50,7 +54,9 @@ By **Definition 5.7.3 (Right Angle, Acute Angle, Obtuse Angle)**, match those sm
 
 ### Solution to Exercise 3
 
-By **Definition 5.7.3 (直角, 锐角, 钝角)**, draw an acute angle with the narrowest opening, a right angle whose opening is exactly the triangular ruler's right angle, and an obtuse angle with a wider opening. $\blacksquare$
+By **Definition 5.7.3 (直角, 锐角, 钝角)**, draw an acute angle with the narrowest opening, a right angle whose opening is exactly the triangular ruler's right angle, and an obtuse angle with a wider opening.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -58,7 +64,9 @@ By **Definition 5.7.3 (直角, 锐角, 钝角)**, draw an acute angle with the n
 
 ### Solution to Exercise 4
 
-A right triangle has $1$ right angle and $2$ acute angles; an obtuse triangle has $1$ obtuse angle and $2$ acute angles; an acute triangle has three acute angles. Finding: a triangle has at most one right angle or one obtuse angle. $\blacksquare$
+A right triangle has $1$ right angle and $2$ acute angles; an obtuse triangle has $1$ obtuse angle and $2$ acute angles; an acute triangle has three acute angles. Finding: a triangle has at most one right angle or one obtuse angle.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -66,7 +74,9 @@ A right triangle has $1$ right angle and $2$ acute angles; an obtuse triangle ha
 
 ### Solution to Exercise 5
 
-By **Definition 5.7.2 (Angle)**, count vertex by vertex: a triangle has $3$ angles, a rectangle has $4$ angles, and composite figures are counted vertex by vertex. $\blacksquare$
+By **Definition 5.7.2 (Angle)**, count vertex by vertex: a triangle has $3$ angles, a rectangle has $4$ angles, and composite figures are counted vertex by vertex.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -74,7 +84,9 @@ By **Definition 5.7.2 (Angle)**, count vertex by vertex: a triangle has $3$ angl
 
 ### Solution to Exercise 6
 
-Different cuts give different results: cutting along the diagonal leaves $3$ corners; cutting from one vertex to the opposite side leaves $4$ corners; cutting across two adjacent sides leaves $5$ corners. There are $3$ ways in total. $\blacksquare$
+Different cuts give different results: cutting along the diagonal leaves $3$ corners; cutting from one vertex to the opposite side leaves $4$ corners; cutting across two adjacent sides leaves $5$ corners. There are $3$ ways in total.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -82,7 +94,9 @@ Different cuts give different results: cutting along the diagonal leaves $3$ cor
 
 ### Solution to Exercise 7
 
-With the triangular rulers you can directly draw $30^{\circ}$, $45^{\circ}$, $60^{\circ}$, $90^{\circ}$; by putting two angles together you can also draw $75^{\circ}$, $105^{\circ}$, $120^{\circ}$, $135^{\circ}$, $150^{\circ}$, and so on. $\blacksquare$
+With the triangular rulers you can directly draw $30^{\circ}$, $45^{\circ}$, $60^{\circ}$, $90^{\circ}$; by putting two angles together you can also draw $75^{\circ}$, $105^{\circ}$, $120^{\circ}$, $135^{\circ}$, $150^{\circ}$, and so on.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -90,7 +104,9 @@ With the triangular rulers you can directly draw $30^{\circ}$, $45^{\circ}$, $60
 
 ### Solution to Exercise 8
 
-(1) The tangram has triangles, a square and a parallelogram. (2) The triangular pieces have a right angle and two acute angles. (3) Two acute angles put together can make a right angle or an obtuse angle. $\blacksquare$
+(1) The tangram has triangles, a square and a parallelogram. (2) The triangular pieces have a right angle and two acute angles. (3) Two acute angles put together can make a right angle or an obtuse angle.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -98,7 +114,9 @@ With the triangular rulers you can directly draw $30^{\circ}$, $45^{\circ}$, $60
 
 ### Solution to Exercise 9
 
-By **Definition 5.7.1 (线段, 射线, 直线)**, each point forms a ray in each of the left and right directions, so $3$ points give $6$ rays; the line segments are AB, AC, BC, $3$ in total. $\blacksquare$
+By **Definition 5.7.1 (线段, 射线, 直线)**, each point forms a ray in each of the left and right directions, so $3$ points give $6$ rays; the line segments are AB, AC, BC, $3$ in total.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -106,7 +124,9 @@ By **Definition 5.7.1 (线段, 射线, 直线)**, each point forms a ray in each
 
 ### Solution to Exercise 10
 
-By **Definition 5.7.1 (线段, 射线, 直线)** and **Definition 5.7.2 (角)**, count one by one: a triangle has $3$ segments and $3$ angles; a quadrilateral has $4$ segments and $4$ angles; other composite figures are filled in according to the number of sides and vertices. $\blacksquare$
+By **Definition 5.7.1 (线段, 射线, 直线)** and **Definition 5.7.2 (角)**, count one by one: a triangle has $3$ segments and $3$ angles; a quadrilateral has $4$ segments and $4$ angles; other composite figures are filled in according to the number of sides and vertices.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -114,7 +134,9 @@ By **Definition 5.7.1 (线段, 射线, 直线)** and **Definition 5.7.2 (角)**,
 
 ### Solution to Exercise 11
 
-(1) They intersect at point O. (2) Two intersecting straight lines form $4$ angles. $\blacksquare$
+(1) They intersect at point O. (2) Two intersecting straight lines form $4$ angles.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -122,7 +144,9 @@ By **Definition 5.7.1 (线段, 射线, 直线)** and **Definition 5.7.2 (角)**,
 
 ### Solution to Exercise 12
 
-Each face is a square (rectangle) with $4$ right angles; a cube has $6$ faces, giving $4\times6=24$ right angles in total. Each face of a cuboid is also a rectangle, likewise $24$ right angles. Finding: both a cuboid and a cube have $24$ right angles. $\blacksquare$
+Each face is a square (rectangle) with $4$ right angles; a cube has $6$ faces, giving $4\times6=24$ right angles in total. Each face of a cuboid is also a rectangle, likewise $24$ right angles. Finding: both a cuboid and a cube have $24$ right angles.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -130,7 +154,9 @@ Each face is a square (rectangle) with $4$ right angles; a cube has $6$ faces, g
 
 ### Solution to Exercise 13
 
-By **Definition 5.8.1 (An Initial Look at Fractions)**, each part is one half of the mooncake, written $\frac{1}{2}$. Half a mooncake is also $\frac{1}{2}$ of a mooncake. $\blacksquare$
+By **Definition 5.8.1 (An Initial Look at Fractions)**, each part is one half of the mooncake, written $\frac{1}{2}$. Half a mooncake is also $\frac{1}{2}$ of a mooncake.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -138,7 +164,9 @@ By **Definition 5.8.1 (An Initial Look at Fractions)**, each part is one half of
 
 ### Solution to Exercise 14
 
-By **Definition 5.8.1 (分数的初步认识)**, as long as the figure is folded into $2$ equal parts and $1$ part is colored, the colored part is $\frac{1}{2}$ of the figure. It does not matter that the shapes differ; the key is equal division. $\blacksquare$
+By **Definition 5.8.1 (分数的初步认识)**, as long as the figure is folded into $2$ equal parts and $1$ part is colored, the colored part is $\frac{1}{2}$ of the figure. It does not matter that the shapes differ; the key is equal division.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -146,7 +174,9 @@ By **Definition 5.8.1 (分数的初步认识)**, as long as the figure is folded
 
 ### Solution to Exercise 15
 
-By **Definition 5.8.1 (分数的初步认识)**, each part is $\frac{1}{4}$ of the mooncake, i.e. $\frac{1}{4}$ of a mooncake. $\blacksquare$
+By **Definition 5.8.1 (分数的初步认识)**, each part is $\frac{1}{4}$ of the mooncake, i.e. $\frac{1}{4}$ of a mooncake.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -154,7 +184,9 @@ By **Definition 5.8.1 (分数的初步认识)**, each part is $\frac{1}{4}$ of t
 
 ### Solution to Exercise 16
 
-By **Definition 5.8.1 (分数的初步认识)**, the horizontal bar in the middle of $\frac{1}{2}$ is the fraction bar, $2$ is the denominator, $1$ is the numerator, and it is read as "one half". $\blacksquare$
+By **Definition 5.8.1 (分数的初步认识)**, the horizontal bar in the middle of $\frac{1}{2}$ is the fraction bar, $2$ is the denominator, $1$ is the numerator, and it is read as "one half".
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -162,7 +194,9 @@ By **Definition 5.8.1 (分数的初步认识)**, the horizontal bar in the middl
 
 ### Solution to Exercise 17
 
-By **Definition 5.8.1 (分数的初步认识)**, divide a figure into $3$ equal parts and color $1$ part to show $\frac{1}{3}$; divide into $5$ equal parts and color $1$ part to show $\frac{1}{5}$. $\blacksquare$
+By **Definition 5.8.1 (分数的初步认识)**, divide a figure into $3$ equal parts and color $1$ part to show $\frac{1}{3}$; divide into $5$ equal parts and color $1$ part to show $\frac{1}{5}$.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -170,7 +204,9 @@ By **Definition 5.8.1 (分数的初步认识)**, divide a figure into $3$ equal 
 
 ### Solution to Exercise 18
 
-By **Definition 5.8.1 (分数的初步认识)**, take the total number of equal parts as the denominator and the number of colored parts as the numerator; for example, divided into $3$ equal parts with $1$ colored gives $\frac{1}{3}$. Fill in according to each figure. $\blacksquare$
+By **Definition 5.8.1 (分数的初步认识)**, take the total number of equal parts as the denominator and the number of colored parts as the numerator; for example, divided into $3$ equal parts with $1$ colored gives $\frac{1}{3}$. Fill in according to each figure.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -178,7 +214,9 @@ By **Definition 5.8.1 (分数的初步认识)**, take the total number of equal 
 
 ### Solution to Exercise 19
 
-Take a cup of juice as $1$; having drunk $\frac{1}{2}$, what remains is $1-\frac{1}{2}=\frac{1}{2}$ cup. $\blacksquare$
+Take a cup of juice as $1$; having drunk $\frac{1}{2}$, what remains is $1-\frac{1}{2}=\frac{1}{2}$ cup.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -186,7 +224,9 @@ Take a cup of juice as $1$; having drunk $\frac{1}{2}$, what remains is $1-\frac
 
 ### Solution to Exercise 20
 
-By **Definition 5.8.1 (分数的初步认识)**, just put together $3$ more equal parts with the drawn part to form an evenly divided figure. The shape is not unique. $\blacksquare$
+By **Definition 5.8.1 (分数的初步认识)**, just put together $3$ more equal parts with the drawn part to form an evenly divided figure. The shape is not unique.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -194,7 +234,9 @@ By **Definition 5.8.1 (分数的初步认识)**, just put together $3$ more equa
 
 ### Solution to Exercise 21
 
-Each part is $1$ centimeter, which is $\frac{1}{10}$ of $1$ decimeter, i.e. $\frac{1}{10}$ decimeter. $\blacksquare$
+Each part is $1$ centimeter, which is $\frac{1}{10}$ of $1$ decimeter, i.e. $\frac{1}{10}$ decimeter.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -202,7 +244,9 @@ Each part is $1$ centimeter, which is $\frac{1}{10}$ of $1$ decimeter, i.e. $\fr
 
 ### Solution to Exercise 22
 
-$1$ of the $\frac{1}{5}$ cups is $\frac{1}{5}$ cup; $2$ of the $\frac{1}{5}$ cups is $\frac{2}{5}$ cups; $3$ of the $\frac{1}{5}$ cups is $\frac{3}{5}$ cups; $4$ of the $\frac{1}{5}$ cups is $\frac{4}{5}$ cups. $\blacksquare$
+$1$ of the $\frac{1}{5}$ cups is $\frac{1}{5}$ cup; $2$ of the $\frac{1}{5}$ cups is $\frac{2}{5}$ cups; $3$ of the $\frac{1}{5}$ cups is $\frac{3}{5}$ cups; $4$ of the $\frac{1}{5}$ cups is $\frac{4}{5}$ cups.
+
+$\blacksquare$
 
 ## Exercise 23
 
@@ -210,7 +254,9 @@ $1$ of the $\frac{1}{5}$ cups is $\frac{1}{5}$ cup; $2$ of the $\frac{1}{5}$ cup
 
 ### Solution to Exercise 23
 
-By **Definition 5.8.3 (Adding and Subtracting Fractions with the Same Denominator)**: (1) $\frac{1}{8}+\frac{2}{8}=\frac{3}{8}$; (2) $\frac{2}{8}-\frac{1}{8}=\frac{1}{8}$. $\blacksquare$
+By **Definition 5.8.3 (Adding and Subtracting Fractions with the Same Denominator)**: (1) $\frac{1}{8}+\frac{2}{8}=\frac{3}{8}$; (2) $\frac{2}{8}-\frac{1}{8}=\frac{1}{8}$.
+
+$\blacksquare$
 
 ## Exercise 24
 
@@ -218,4 +264,6 @@ By **Definition 5.8.3 (Adding and Subtracting Fractions with the Same Denominato
 
 ### Solution to Exercise 24
 
-By **Definition 5.8.3 (同分母分数的加减法)**: $\frac{2}{7}+\frac{2}{7}=\frac{4}{7}$; $\frac{1}{2}+\frac{1}{2}=1$; $\frac{5}{6}-\frac{1}{6}=\frac{4}{6}$; $\frac{8}{9}-\frac{7}{9}=\frac{1}{9}$; $\frac{4}{5}-\frac{2}{5}=\frac{2}{5}$; $\frac{1}{5}+\frac{3}{5}=\frac{4}{5}$. $\blacksquare$
+By **Definition 5.8.3 (同分母分数的加减法)**: $\frac{2}{7}+\frac{2}{7}=\frac{4}{7}$; $\frac{1}{2}+\frac{1}{2}=1$; $\frac{5}{6}-\frac{1}{6}=\frac{4}{6}$; $\frac{8}{9}-\frac{7}{9}=\frac{1}{9}$; $\frac{4}{5}-\frac{2}{5}=\frac{2}{5}$; $\frac{1}{5}+\frac{3}{5}=\frac{4}{5}$.
+
+$\blacksquare$

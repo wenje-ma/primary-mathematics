@@ -42,7 +42,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 3.3.1 (Equal Distribution)**, **Definition 3.3.2 (The Meaning of Division)**, and **Definition 3.3.5 (The Relation Between Multiplication and Division)**, equal distribution can be expressed by division; multiplication and division are related and can be computed with the same multiplication rhyme, for example "three four is twelve" corresponds to $3\times4=12$, $4\times3=12$, $12\div3=4$, $12\div4=3$. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, **Definition 3.3.2 (The Meaning of Division)**, and **Definition 3.3.5 (The Relation Between Multiplication and Division)**, equal distribution can be expressed by division; multiplication and division are related and can be computed with the same multiplication rhyme, for example "three four is twelve" corresponds to $3\times4=12$, $4\times3=12$, $12\div3=4$, $12\div4=3$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -50,7 +52,9 @@ By **Definition 3.3.1 (Equal Distribution)**, **Definition 3.3.2 (The Meaning of
 
 ### Solution to Exercise 2
 
-By **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)** and **Definition 3.2.3 (Multiplication Rhymes)**: $6\times2=12$, $18\div6=3$, $30\div6=5$, $4\times5=20$; $12\div3=4$, $17-9=8$, $3\div3=1$, $24\div4=6$; $36\div6=6$, $16\div4=4$, $25+5=30$, $20\div5=4$. $\blacksquare$
+By **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)** and **Definition 3.2.3 (Multiplication Rhymes)**: $6\times2=12$, $18\div6=3$, $30\div6=5$, $4\times5=20$; $12\div3=4$, $17-9=8$, $3\div3=1$, $24\div4=6$; $36\div6=6$, $16\div4=4$, $25+5=30$, $20\div5=4$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -58,7 +62,9 @@ By **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)** and **
 
 ### Solution to Exercise 3
 
-By **Definition 3.3.2 (The Meaning of Division)**, based on the total number of items and the number of equal shares in each picture, connect each picture to its division expression: total $8$ with $4$ per share connects to $8\div4$; total $8$ with $2$ per share connects to $8\div2$; total $6$ with $2$ per share connects to $6\div2$; total $6$ with $3$ per share connects to $6\div3$. $\blacksquare$
+By **Definition 3.3.2 (The Meaning of Division)**, based on the total number of items and the number of equal shares in each picture, connect each picture to its division expression: total $8$ with $4$ per share connects to $8\div4$; total $8$ with $2$ per share connects to $8\div2$; total $6$ with $2$ per share connects to $6\div2$; total $6$ with $3$ per share connects to $6\div3$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -66,7 +72,9 @@ By **Definition 3.3.2 (The Meaning of Division)**, based on the total number of 
 
 ### Solution to Exercise 4
 
-By **Definition 3.3.2 (The Meaning of Division)** and **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)**: (1) $12\div2=6$ (shares); (2) $30\div5=6$; (3) $25\div5=5$. $\blacksquare$
+By **Definition 3.3.2 (The Meaning of Division)** and **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)**: (1) $12\div2=6$ (shares); (2) $30\div5=6$; (3) $25\div5=5$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -74,7 +82,9 @@ By **Definition 3.3.2 (The Meaning of Division)** and **Definition 3.3.4 (Findin
 
 ### Solution to Exercise 5
 
-$12\div4=3$, $18\div6=3$, $16\div4=4$; $15\div3=5$, $20\div5=4$, $3\times3=9$. $\blacksquare$
+$12\div4=3$, $18\div6=3$, $16\div4=4$; $15\div3=5$, $20\div5=4$, $3\times3=9$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -82,7 +92,9 @@ $12\div4=3$, $18\div6=3$, $16\div4=4$; $15\div3=5$, $20\div5=4$, $3\times3=9$. $
 
 ### Solution to Exercise 6
 
-By **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)** and **Definition 3.2.3 (Multiplication Rhymes)**: $2\times5=10$; $4\times5=20$; $6\times6=36$; $16\div4=4$; $18\div3=6$; $12\div4=3$. $\blacksquare$
+By **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)** and **Definition 3.2.3 (Multiplication Rhymes)**: $2\times5=10$; $4\times5=20$; $6\times6=36$; $16\div4=4$; $18\div3=6$; $12\div4=3$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -90,7 +102,9 @@ By **Definition 3.3.4 (Finding the Quotient with Multiplication Rhymes)** and **
 
 ### Solution to Exercise 7
 
-By **Definition 3.3.2 (The Meaning of Division)**, find how many copies of $5$ are in $30$: $30\div5=6$ (cages). $\blacksquare$
+By **Definition 3.3.2 (The Meaning of Division)**, find how many copies of $5$ are in $30$: $30\div5=6$ (cages).
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -98,7 +112,9 @@ By **Definition 3.3.2 (The Meaning of Division)**, find how many copies of $5$ a
 
 ### Solution to Exercise 8
 
-(1) find $4$ copies of $5$ stems: $5\times4=20$ (stems); (2) divide $10$ stems equally among $2$ vases: $10\div2=5$ (stems); (3) remove $6$ stems from $10$: $10-6=4$ (stems). $\blacksquare$
+(1) find $4$ copies of $5$ stems: $5\times4=20$ (stems); (2) divide $10$ stems equally among $2$ vases: $10\div2=5$ (stems); (3) remove $6$ stems from $10$: $10-6=4$ (stems).
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -106,7 +122,9 @@ By **Definition 3.3.2 (The Meaning of Division)**, find how many copies of $5$ a
 
 ### Solution to Exercise 9
 
-By **Definition 3.3.2 (The Meaning of Division)** and the meaning of subtraction: $6\div3=2$ (bones) corresponds to "how many bones does each puppy eat on average?" ($6$ bones shared among $3$ puppies); $15-6=9$ (bones) corresponds to "how many bones are left?"; $15\div3=5$ (bones) corresponds to "how many bones does each puppy get on average?" ($15$ bones shared among $3$ puppies). $\blacksquare$
+By **Definition 3.3.2 (The Meaning of Division)** and the meaning of subtraction: $6\div3=2$ (bones) corresponds to "how many bones does each puppy eat on average?" ($6$ bones shared among $3$ puppies); $15-6=9$ (bones) corresponds to "how many bones are left?"; $15\div3=5$ (bones) corresponds to "how many bones does each puppy get on average?" ($15$ bones shared among $3$ puppies).
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -114,7 +132,9 @@ By **Definition 3.3.2 (The Meaning of Division)** and the meaning of subtraction
 
 ### Solution to Exercise 10
 
-By **Definition 3.3.5 (The Relation Between Multiplication and Division)**, for example choose "three four is twelve": $3\times4=12$, $4\times3=12$, $12\div3=4$, $12\div4=3$. Make up a story such as "there are $3$ plates of apples, $4$ on each, $12$ in total; shared equally among $4$ children, each gets $3$." $\blacksquare$
+By **Definition 3.3.5 (The Relation Between Multiplication and Division)**, for example choose "three four is twelve": $3\times4=12$, $4\times3=12$, $12\div3=4$, $12\div4=3$. Make up a story such as "there are $3$ plates of apples, $4$ on each, $12$ in total; shared equally among $4$ children, each gets $3$."
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -122,7 +142,9 @@ By **Definition 3.3.5 (The Relation Between Multiplication and Division)**, for 
 
 ### Solution to Exercise 11
 
-By **Definition 3.4.1 (East, South, West, North)** and **Definition 3.4.3 (Directions on a Map)**, "left" and "right" are relative to the observer; different people standing in different places have different left and right, while "east, south, west, north" are fixed. With the map's north-top, south-bottom, west-left, east-right convention, the teaching building lies to the north of the playground, rather than speaking vaguely of left or right. $\blacksquare$
+By **Definition 3.4.1 (East, South, West, North)** and **Definition 3.4.3 (Directions on a Map)**, "left" and "right" are relative to the observer; different people standing in different places have different left and right, while "east, south, west, north" are fixed. With the map's north-top, south-bottom, west-left, east-right convention, the teaching building lies to the north of the playground, rather than speaking vaguely of left or right.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -130,7 +152,9 @@ By **Definition 3.4.1 (East, South, West, North)** and **Definition 3.4.3 (Direc
 
 ### Solution to Exercise 12
 
-By **Definition 3.4.1 (East, South, West, North)**, when you get up in the morning facing the sun, the front is east, the back is west, the left is north, and the right is south; you can also use a compass; in science class you also learn that the sun rises in the east and sets in the west every day. $\blacksquare$
+By **Definition 3.4.1 (East, South, West, North)**, when you get up in the morning facing the sun, the front is east, the back is west, the left is north, and the right is south; you can also use a compass; in science class you also learn that the sun rises in the east and sets in the west every day.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -138,7 +162,9 @@ By **Definition 3.4.1 (East, South, West, North)**, when you get up in the morni
 
 ### Solution to Exercise 13
 
-By **Definition 3.4.1 (East, South, West, North)** and **Definition 3.4.2 (The Relative Relations of Directions)**, facing north, the back is south, the left is west, the right is east; east is opposite to west, south is opposite to north. Question 3 is filled in according to the actual campus buildings, such as a cafeteria to the east and a teaching building to the north. $\blacksquare$
+By **Definition 3.4.1 (East, South, West, North)** and **Definition 3.4.2 (The Relative Relations of Directions)**, facing north, the back is south, the left is west, the right is east; east is opposite to west, south is opposite to north. Question 3 is filled in according to the actual campus buildings, such as a cafeteria to the east and a teaching building to the north.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -146,7 +172,9 @@ By **Definition 3.4.1 (East, South, West, North)** and **Definition 3.4.2 (The R
 
 ### Solution to Exercise 14
 
-By **Definition 3.4.2 (The Relative Relations of Directions)** and **Definition 3.4.3 (Directions on a Map)**, mark the four directions on the square paper following "north top, south bottom, west left, east right" to make the direction board. Comparing different boards you find: east is opposite to west, south is opposite to north; the order of the four directions follows the clockwise direction and is fixed. $\blacksquare$
+By **Definition 3.4.2 (The Relative Relations of Directions)** and **Definition 3.4.3 (Directions on a Map)**, mark the four directions on the square paper following "north top, south bottom, west left, east right" to make the direction board. Comparing different boards you find: east is opposite to west, south is opposite to north; the order of the four directions follows the clockwise direction and is fixed.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -154,7 +182,9 @@ By **Definition 3.4.2 (The Relative Relations of Directions)** and **Definition 
 
 ### Solution to Exercise 15
 
-By **Definition 3.4.3 (Directions on a Map)**, maps are drawn with north at the top, south at the bottom, west on the left, and east on the right; a compass shows directions the same way. $\blacksquare$
+By **Definition 3.4.3 (Directions on a Map)**, maps are drawn with north at the top, south at the bottom, west on the left, and east on the right; a compass shows directions the same way.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -162,7 +192,9 @@ By **Definition 3.4.3 (Directions on a Map)**, maps are drawn with north at the 
 
 ### Solution to Exercise 16
 
-By **Definition 3.4.3 (Directions on a Map)**, first mark the positions of the gate, teaching building, library, and multi-purpose hall on the direction board (schematic) with north on top and south at the bottom, then design a route, such as "walk north from the gate, first reach the teaching building, then go east to the multi-purpose hall...". $\blacksquare$
+By **Definition 3.4.3 (Directions on a Map)**, first mark the positions of the gate, teaching building, library, and multi-purpose hall on the direction board (schematic) with north on top and south at the bottom, then design a route, such as "walk north from the gate, first reach the teaching building, then go east to the multi-purpose hall...".
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -170,4 +202,6 @@ By **Definition 3.4.3 (Directions on a Map)**, first mark the positions of the g
 
 ### Solution to Exercise 17
 
-By **Definition 3.4.1 (East, South, West, North)** and **Definition 3.4.3 (Directions on a Map)**, to be a good tour guide, you first need to know in which of the four directions each school building lies, then design a walking route and introduce the tour along that route. $\blacksquare$
+By **Definition 3.4.1 (East, South, West, North)** and **Definition 3.4.3 (Directions on a Map)**, to be a good tour guide, you first need to know in which of the four directions each school building lies, then design a walking route and introduce the tour along that route.
+
+$\blacksquare$

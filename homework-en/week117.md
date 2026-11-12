@@ -54,7 +54,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**: LCM of 6 and 8 is $24$; of 8 and 10 is $40$; of 6 and 15 is $30$. $\blacksquare$
+By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**: LCM of 6 and 8 is $24$; of 8 and 10 is $40$; of 6 and 15 is $30$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -62,7 +64,9 @@ By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**: LCM of
 
 ### Solution to Exercise 2
 
-By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**, the days until the next time is the LCM of 4 and 6, which is $12$; $1+12=13$, i.e. May 13. $\blacksquare$
+By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**, the days until the next time is the LCM of 4 and 6, which is $12$; $1+12=13$, i.e. May 13.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -70,7 +74,9 @@ By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**, the da
 
 ### Solution to Exercise 3
 
-By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**, the time to the second joint departure is the LCM of 6 and 8, which is $24$ minutes. $\blacksquare$
+By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**, the time to the second joint departure is the LCM of 6 and 8, which is $24$ minutes.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -78,7 +84,9 @@ By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**, the ti
 
 ### Solution to Exercise 4
 
-By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**: same denominators, compare numerators, $\frac{3}{5}<\frac{4}{5}$; same numerators, compare denominators, $\frac{5}{6}>\frac{5}{8}$; common denominator $\frac{3}{4}=\frac{9}{12}$, $\frac{5}{6}=\frac{10}{12}$, so $\frac{3}{4}<\frac{5}{6}$. $\blacksquare$
+By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**: same denominators, compare numerators, $\frac{3}{5}<\frac{4}{5}$; same numerators, compare denominators, $\frac{5}{6}>\frac{5}{8}$; common denominator $\frac{3}{4}=\frac{9}{12}$, $\frac{5}{6}=\frac{10}{12}$, so $\frac{3}{4}<\frac{5}{6}$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -86,7 +94,9 @@ By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**: same d
 
 ### Solution to Exercise 5
 
-By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**: $\frac{3}{8}<\frac{5}{8}$; $\frac{7}{9}>\frac{5}{9}$; $\frac{2}{5}>\frac{2}{7}$; common denominator $\frac{11}{12}=\frac{44}{48}$, $\frac{13}{16}=\frac{39}{48}$, so $\frac{11}{12}>\frac{13}{16}$. $\blacksquare$
+By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**: $\frac{3}{8}<\frac{5}{8}$; $\frac{7}{9}>\frac{5}{9}$; $\frac{2}{5}>\frac{2}{7}$; common denominator $\frac{11}{12}=\frac{44}{48}$, $\frac{13}{16}=\frac{39}{48}$, so $\frac{11}{12}>\frac{13}{16}$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -94,7 +104,9 @@ By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**: $\frac
 
 ### Solution to Exercise 6
 
-By **Definition 10.5.8 (Converting Fractions and Decimals)**: $0.7=\frac{7}{10}$, $0.25=\frac{25}{100}=\frac{1}{4}$, $0.123=\frac{123}{1000}$; $\frac{3}{4}=0.75$, $\frac{9}{40}=0.225$, $\frac{2}{9}\approx0.22$, $\frac{5}{14}\approx0.36$. $\blacksquare$
+By **Definition 10.5.8 (Converting Fractions and Decimals)**: $0.7=\frac{7}{10}$, $0.25=\frac{25}{100}=\frac{1}{4}$, $0.123=\frac{123}{1000}$; $\frac{3}{4}=0.75$, $\frac{9}{40}=0.225$, $\frac{2}{9}\approx0.22$, $\frac{5}{14}\approx0.36$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -102,7 +114,9 @@ By **Definition 10.5.8 (Converting Fractions and Decimals)**: $0.7=\frac{7}{10}$
 
 ### Solution to Exercise 7
 
-By **Definition 10.5.8 (Converting Fractions and Decimals)**, $\frac{5}{6}\approx0.83$, and $0.9>0.83$, so Aunt Li types faster. $\blacksquare$
+By **Definition 10.5.8 (Converting Fractions and Decimals)**, $\frac{5}{6}\approx0.83$, and $0.9>0.83$, so Aunt Li types faster.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -110,7 +124,9 @@ By **Definition 10.5.8 (Converting Fractions and Decimals)**, $\frac{5}{6}\appro
 
 ### Solution to Exercise 8
 
-By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**, the side is a multiple of both 8 and 10; the least is $\left[8,10\right]=40$, so the side is at least $40\,\mathrm{cm}$. $\blacksquare$
+By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**, the side is a multiple of both 8 and 10; the least is $\left[8,10\right]=40$, so the side is at least $40\,\mathrm{cm}$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -118,7 +134,9 @@ By **Definition 10.5.7 (Least Common Multiple and Common Denominators)**, the si
 
 ### Solution to Exercise 9
 
-By **Definition 10.6.1 (Line Graphs)**: (1) the mileage rises year by year, with the line slanting upward to the right; (2) comparing adjacent years' vertical gaps, the largest increase occurs around 2020–2021 or 2016 (take the adjacent pair with the largest difference in the figure); (3) high-speed rail construction is fast, and despite a large later base the mileage keeps growing. $\blacksquare$
+By **Definition 10.6.1 (Line Graphs)**: (1) the mileage rises year by year, with the line slanting upward to the right; (2) comparing adjacent years' vertical gaps, the largest increase occurs around 2020–2021 or 2016 (take the adjacent pair with the largest difference in the figure); (3) high-speed rail construction is fast, and despite a large later base the mileage keeps growing.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -126,7 +144,9 @@ By **Definition 10.6.1 (Line Graphs)**: (1) the mileage rises year by year, with
 
 ### Solution to Exercise 10
 
-By **Definition 10.6.1 (Line Graphs)**: (1) the most is 2021 (264 teams); taking year-to-year differences, the largest increase is in 2014 (137$\to$168, up 31) or 2020 (203$\to$247, up 44), whichever adjacent difference is largest; (2) the number of teams generally rises, showing growing participation. $\blacksquare$
+By **Definition 10.6.1 (Line Graphs)**: (1) the most is 2021 (264 teams); taking year-to-year differences, the largest increase is in 2014 (137$\to$168, up 31) or 2020 (203$\to$247, up 44), whichever adjacent difference is largest; (2) the number of teams generally rises, showing growing participation.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -134,7 +154,9 @@ By **Definition 10.6.1 (Line Graphs)**: (1) the most is 2021 (264 teams); taking
 
 ### Solution to Exercise 11
 
-By **Definition 10.6.2 (Double Line Graphs)**: births generally decline (sharply late on), while deaths rise slowly; the two lines gradually approach each other, showing that natural population growth is shrinking. A double line graph makes it easy to compare two data sets' trends in one coordinate system. $\blacksquare$
+By **Definition 10.6.2 (Double Line Graphs)**: births generally decline (sharply late on), while deaths rise slowly; the two lines gradually approach each other, showing that natural population growth is shrinking. A double line graph makes it easy to compare two data sets' trends in one coordinate system.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -142,7 +164,9 @@ By **Definition 10.6.2 (Double Line Graphs)**: births generally decline (sharply
 
 ### Solution to Exercise 12
 
-By **Definition 10.6.1 (Line Graphs)**, the temperature first drops from $39.2^\circ\mathrm{C}$ to $38^\circ\mathrm{C}$, rises slightly to $38.5^\circ\mathrm{C}$, then drops to $37.5^\circ\mathrm{C}$; overall it trends downward, showing the patient is recovering. $\blacksquare$
+By **Definition 10.6.1 (Line Graphs)**, the temperature first drops from $39.2^\circ\mathrm{C}$ to $38^\circ\mathrm{C}$, rises slightly to $38.5^\circ\mathrm{C}$, then drops to $37.5^\circ\mathrm{C}$; overall it trends downward, showing the patient is recovering.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -150,7 +174,9 @@ By **Definition 10.6.1 (Line Graphs)**, the temperature first drops from $39.2^\
 
 ### Solution to Exercise 13
 
-By **Definition 10.6.1 (Line Graphs)**: (1) class sizes only compare amounts, so use a bar chart; (2) monthly average temperature requires seeing the trend over the year, so use a line graph. $\blacksquare$
+By **Definition 10.6.1 (Line Graphs)**: (1) class sizes only compare amounts, so use a bar chart; (2) monthly average temperature requires seeing the trend over the year, so use a line graph.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -158,7 +184,9 @@ By **Definition 10.6.1 (Line Graphs)**: (1) class sizes only compare amounts, so
 
 ### Solution to Exercise 14
 
-By **Definition 10.7.1 (Rotation)**, the clock face is $360^\circ$, split by 12 major marks, so each mark is $30^\circ$. From "12" to "1": $30^\circ$; from "1" to "3", 2 marks, $60^\circ$; from "3" to "6", 3 marks, $90^\circ$; from "6" to "12", 6 marks, $180^\circ$. $\blacksquare$
+By **Definition 10.7.1 (Rotation)**, the clock face is $360^\circ$, split by 12 major marks, so each mark is $30^\circ$. From "12" to "1": $30^\circ$; from "1" to "3", 2 marks, $60^\circ$; from "3" to "6", 3 marks, $90^\circ$; from "6" to "12", 6 marks, $180^\circ$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -166,7 +194,9 @@ By **Definition 10.7.1 (Rotation)**, the clock face is $360^\circ$, split by 12 
 
 ### Solution to Exercise 15
 
-By **Definition 10.7.1 (Rotation)**, when a car passes on the right, the arm rotates $90^\circ$ counterclockwise about point $O_2$ (symmetric with the left). $\blacksquare$
+By **Definition 10.7.1 (Rotation)**, when a car passes on the right, the arm rotates $90^\circ$ counterclockwise about point $O_2$ (symmetric with the left).
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -174,4 +204,6 @@ By **Definition 10.7.1 (Rotation)**, when a car passes on the right, the arm rot
 
 ### Solution to Exercise 16
 
-By **Definition 10.7.2 (Features of Rotation)**, the center O is fixed; first draw $A'$ with $OA'\perp{O}A$ and $OA'=OA$; then draw $B'$ with $OB'\perp{O}B$ and $OB'=OB$; finally join $O,A',B'$ in order to get the rotated triangle. $\blacksquare$
+By **Definition 10.7.2 (Features of Rotation)**, the center O is fixed; first draw $A'$ with $OA'\perp{O}A$ and $OA'=OA$; then draw $B'$ with $OB'\perp{O}B$ and $OB'=OB$; finally join $O,A',B'$ in order to get the rotated triangle.
+
+$\blacksquare$

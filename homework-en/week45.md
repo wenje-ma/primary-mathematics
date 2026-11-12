@@ -22,7 +22,9 @@
 
 ### Solution to Exercise 1
 
-(1) $\left(54+9\right)\div7=63\div7=9$. (2) $48\div\left(14-6\right)=48\div8=6$. $\blacksquare$
+(1) $\left(54+9\right)\div7=63\div7=9$. (2) $48\div\left(14-6\right)=48\div8=6$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -30,7 +32,9 @@
 
 ### Solution to Exercise 2
 
-Left side $39+8\times5=39+40=79$. Need $79<100-\square\times7$, i.e. $100-\square\times7>79$, $\square\times7<21$, $\square<3$. The $\square$ can take $0,1,2$. $\blacksquare$
+Left side $39+8\times5=39+40=79$. Need $79<100-\square\times7$, i.e. $100-\square\times7>79$, $\square\times7<21$, $\square<3$. The $\square$ can take $0,1,2$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -38,7 +42,9 @@ Left side $39+8\times5=39+40=79$. Need $79<100-\square\times7$, i.e. $100-\squar
 
 ### Solution to Exercise 3
 
-By **Definition 5.2.4 (Solving Multi-Step Real Problems)**: $96-14-15=82-15=67$; or $96-\left(14+15\right)=96-29=67$. $67$ are left. $\blacksquare$
+By **Definition 5.2.4 (Solving Multi-Step Real Problems)**: $96-14-15=82-15=67$; or $96-\left(14+15\right)=96-29=67$. $67$ are left.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -46,7 +52,9 @@ By **Definition 5.2.4 (Solving Multi-Step Real Problems)**: $96-14-15=82-15=67$;
 
 ### Solution to Exercise 4
 
-By **Definition 5.2.4 (Solving Multi-Step Real Problems)**: Xiaohong $8-3=5$, Xiaojun $5\times2=10$. Combined: $\left(8-3\right)\times2=5\times2=10$ flowers. $\blacksquare$
+By **Definition 5.2.4 (Solving Multi-Step Real Problems)**: Xiaohong $8-3=5$, Xiaojun $5\times2=10$. Combined: $\left(8-3\right)\times2=5\times2=10$ flowers.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -54,7 +62,9 @@ By **Definition 5.2.4 (Solving Multi-Step Real Problems)**: Xiaohong $8-3=5$, Xi
 
 ### Solution to Exercise 5
 
-Method one: $72\div8-56\div8=9-7=2$. Method two: $\left(72-56\right)\div8=16\div8=2$. $2$ more bracelets. $\blacksquare$
+Method one: $72\div8-56\div8=9-7=2$. Method two: $\left(72-56\right)\div8=16\div8=2$. $2$ more bracelets.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -62,7 +72,9 @@ Method one: $72\div8-56\div8=9-7=2$. Method two: $\left(72-56\right)\div8=16\div
 
 ### Solution to Exercise 6
 
-$80-25-38=55-38=17$, or $80-\left(25+38\right)=80-63=17$. $17$ are left. $\blacksquare$
+$80-25-38=55-38=17$, or $80-\left(25+38\right)=80-63=17$. $17$ are left.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -70,7 +82,9 @@ $80-25-38=55-38=17$, or $80-\left(25+38\right)=80-63=17$. $17$ are left. $\black
 
 ### Solution to Exercise 7
 
-The red team's second half equals the blue team's second half. The blue team's total score is known from the picture (e.g. the blue and red second halves are equal). The red team's second half is $42-$ the red team's first half. By the problem: the red team's second half $=$ the blue team's second half. If the blue team's total is $42$ then the second half is $42-24=18$, and the red team's first half is $=42-18=24$? Computing from the red team's total in the picture: the red team's second half is $18$, the first half is $42-18=24$. $\blacksquare$
+The red team's second half equals the blue team's second half. The blue team's total score is known from the picture (e.g. the blue and red second halves are equal). The red team's second half is $42-$ the red team's first half. By the problem: the red team's second half $=$ the blue team's second half. If the blue team's total is $42$ then the second half is $42-24=18$, and the red team's first half is $=42-18=24$? Computing from the red team's total in the picture: the red team's second half is $18$, the first half is $42-18=24$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -78,7 +92,9 @@ The red team's second half equals the blue team's second half. The blue team's t
 
 ### Solution to Exercise 8
 
-$\left(13+11\right)\div8=24\div8=3$. $3$ rabbits in each hutch. $\blacksquare$
+$\left(13+11\right)\div8=24\div8=3$. $3$ rabbits in each hutch.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -86,7 +102,9 @@ $\left(13+11\right)\div8=24\div8=3$. $3$ rabbits in each hutch. $\blacksquare$
 
 ### Solution to Exercise 9
 
-$\left(19-3\right)\div4=16\div4=4$ yuan. Each notebook is $4$ yuan. $\blacksquare$
+$\left(19-3\right)\div4=16\div4=4$ yuan. Each notebook is $4$ yuan.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -94,7 +112,9 @@ $\left(19-3\right)\div4=16\div4=4$ yuan. Each notebook is $4$ yuan. $\blacksquar
 
 ### Solution to Exercise 10
 
-$\left(12-3\right)\times3=9\times3=27$ yuan. Pay $27$ yuan. $\blacksquare$
+$\left(12-3\right)\times3=9\times3=27$ yuan. Pay $27$ yuan.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -102,7 +122,9 @@ $\left(12-3\right)\times3=9\times3=27$ yuan. Pay $27$ yuan. $\blacksquare$
 
 ### Solution to Exercise 11
 
-(1) How much in all for $2$ bunches of radishes and $2$ bunches of greens. (2) E.g. $3$ bunches of tomatoes: $5\times3=15$ yuan. The answer is not unique. $\blacksquare$
+(1) How much in all for $2$ bunches of radishes and $2$ bunches of greens. (2) E.g. $3$ bunches of tomatoes: $5\times3=15$ yuan. The answer is not unique.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -110,7 +132,9 @@ $\left(12-3\right)\times3=9\times3=27$ yuan. Pay $27$ yuan. $\blacksquare$
 
 ### Solution to Exercise 12
 
-$105-40-27=65-27=38$, or $105-\left(40+27\right)=105-67=38$. $38$ are left. $\blacksquare$
+$105-40-27=65-27=38$, or $105-\left(40+27\right)=105-67=38$. $38$ are left.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -118,7 +142,9 @@ $105-40-27=65-27=38$, or $105-\left(40+27\right)=105-67=38$. $38$ are left. $\bl
 
 ### Solution to Exercise 13
 
-$\left(16+20\right)\div4=36\div4=9$. $9$ groups in all. $\blacksquare$
+$\left(16+20\right)\div4=36\div4=9$. $9$ groups in all.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -126,7 +152,9 @@ $\left(16+20\right)\div4=36\div4=9$. $9$ groups in all. $\blacksquare$
 
 ### Solution to Exercise 14
 
-(1) The can is $5\times3=15$ yuan, in all $15+5=20$ yuan. (2) $50-18=32$ yuan; crackers are $4$ yuan/bag, $32\div4=8$ bags. (3) The answer is not unique. $\blacksquare$
+(1) The can is $5\times3=15$ yuan, in all $15+5=20$ yuan. (2) $50-18=32$ yuan; crackers are $4$ yuan/bag, $32\div4=8$ bags. (3) The answer is not unique.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -134,7 +162,9 @@ $\left(16+20\right)\div4=36\div4=9$. $9$ groups in all. $\blacksquare$
 
 ### Solution to Exercise 15
 
-Last year $8\times5=40$ households, this year $40+20=60$. Combined: $8\times5+20=60$ households. $\blacksquare$
+Last year $8\times5=40$ households, this year $40+20=60$. Combined: $8\times5+20=60$ households.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -142,7 +172,9 @@ Last year $8\times5=40$ households, this year $40+20=60$. Combined: $8\times5+20
 
 ### Solution to Exercise 16
 
-E.g. choose ①③⑤: blue ribbons $18\div3=6$, red is $18\div6=3$ times blue. Choose ②④⑥: blue ribbons $9\div3=3$, yellow is $9\div3=3$ times blue. The answer is not unique. $\blacksquare$
+E.g. choose ①③⑤: blue ribbons $18\div3=6$, red is $18\div6=3$ times blue. Choose ②④⑥: blue ribbons $9\div3=3$, yellow is $9\div3=3$ times blue. The answer is not unique.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -150,7 +182,9 @@ E.g. choose ①③⑤: blue ribbons $18\div3=6$, red is $18\div6=3$ times blue. 
 
 ### Solution to Exercise 17
 
-Killer whale $2\times4=8$ meters, blue whale $8\times3+7=24+7=31$ meters. $\blacksquare$
+Killer whale $2\times4=8$ meters, blue whale $8\times3+7=24+7=31$ meters.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -158,7 +192,9 @@ Killer whale $2\times4=8$ meters, blue whale $8\times3+7=24+7=31$ meters. $\blac
 
 ### Solution to Exercise 18
 
-$\left(5-3\right)\times3=2\times3=6$ yuan, or $5\times3-3\times3=15-9=6$ yuan. $\blacksquare$
+$\left(5-3\right)\times3=2\times3=6$ yuan, or $5\times3-3\times3=15-9=6$ yuan.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -166,7 +202,9 @@ $\left(5-3\right)\times3=2\times3=6$ yuan, or $5\times3-3\times3=15-9=6$ yuan. $
 
 ### Solution to Exercise 19
 
-The halfway point is $300+150=450$ meters, the whole way is $450\times2=900$ meters. $\blacksquare$
+The halfway point is $300+150=450$ meters, the whole way is $450\times2=900$ meters.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -174,7 +212,9 @@ The halfway point is $300+150=450$ meters, the whole way is $450\times2=900$ met
 
 ### Solution to Exercise 20
 
-Afternoon $28-8=20$, all day $28+20=48$, $48\div6=8$ boxes. $\blacksquare$
+Afternoon $28-8=20$, all day $28+20=48$, $48\div6=8$ boxes.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -182,7 +222,9 @@ Afternoon $28-8=20$, all day $28+20=48$, $48\div6=8$ boxes. $\blacksquare$
 
 ### Solution to Exercise 21
 
-Plan one: buy separately $4\times10+5\times5=40+25=65$ yuan. Plan two: all group $9\times8=72$ yuan. Plan three: $4$ parents and $2$ children buy group $6\times8=48$ yuan, the remaining $3$ children buy child tickets $3\times5=15$ yuan, in all $63$ yuan. Plan three is cheapest: $63$ yuan. $\blacksquare$
+Plan one: buy separately $4\times10+5\times5=40+25=65$ yuan. Plan two: all group $9\times8=72$ yuan. Plan three: $4$ parents and $2$ children buy group $6\times8=48$ yuan, the remaining $3$ children buy child tickets $3\times5=15$ yuan, in all $63$ yuan. Plan three is cheapest: $63$ yuan.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -190,4 +232,6 @@ Plan one: buy separately $4\times10+5\times5=40+25=65$ yuan. Plan two: all group
 
 ### Solution to Exercise 22
 
-minuend $=$ subtrahend $+$ difference, so minuend $+$ subtrahend $+$ difference $=2\times$ minuend $=54$, minuend $=27$. subtrahend $+$ difference $=27$, and the subtrahend is $2$ times the difference, so difference $=27\div3=9$, subtrahend $=18$. Expression: $27-18=9$. $\blacksquare$
+minuend $=$ subtrahend $+$ difference, so minuend $+$ subtrahend $+$ difference $=2\times$ minuend $=54$, minuend $=27$. subtrahend $+$ difference $=27$, and the subtrahend is $2$ times the difference, so difference $=27\div3=9$, subtrahend $=18$. Expression: $27-18=9$.
+
+$\blacksquare$

@@ -30,7 +30,9 @@
 
 ### Solution to Exercise 1
 
-First divide the gap between two marked numbers by the number of divisions to get what each small division stands for in hundreds, then fill the $\square$ in order; locate and mark $3700,6500,9900$ on the line per the size of each division. $\blacksquare$
+First divide the gap between two marked numbers by the number of divisions to get what each small division stands for in hundreds, then fill the $\square$ in order; locate and mark $3700,6500,9900$ on the line per the size of each division.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -38,7 +40,9 @@ First divide the gap between two marked numbers by the number of divisions to ge
 
 ### Solution to Exercise 2
 
-$1975$ is read one thousand nine hundred seventy-five; $2992$ is read two thousand nine hundred ninety-two; $4969$ is read four thousand nine hundred sixty-nine; $954$ is read nine hundred fifty-four. $\blacksquare$
+$1975$ is read one thousand nine hundred seventy-five; $2992$ is read two thousand nine hundred ninety-two; $4969$ is read four thousand nine hundred sixty-nine; $954$ is read nine hundred fifty-four.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -46,7 +50,9 @@ $1975$ is read one thousand nine hundred seventy-five; $2992$ is read two thousa
 
 ### Solution to Exercise 3
 
-$2$ thousands and $5$ hundreds are $2500$; $7$ thousands, $6$ hundreds, and $3$ ones are $7603$; $4$ thousands and $4$ tens are $4040$; $5$ thousands and $9$ ones are $5009$. $\blacksquare$
+$2$ thousands and $5$ hundreds are $2500$; $7$ thousands, $6$ hundreds, and $3$ ones are $7603$; $4$ thousands and $4$ tens are $4040$; $5$ thousands and $9$ ones are $5009$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -54,7 +60,9 @@ $2$ thousands and $5$ hundreds are $2500$; $7$ thousands, $6$ hundreds, and $3$ 
 
 ### Solution to Exercise 4
 
-$4835$ has $5$ ones, $3$ tens, $8$ hundreds, and $4$ thousands. In $3607$: $7$ ones, $0$ tens, $6$ hundreds, and $3$ thousands. $\blacksquare$
+$4835$ has $5$ ones, $3$ tens, $8$ hundreds, and $4$ thousands. In $3607$: $7$ ones, $0$ tens, $6$ hundreds, and $3$ thousands.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -62,7 +70,9 @@ $4835$ has $5$ ones, $3$ tens, $8$ hundreds, and $4$ thousands. In $3607$: $7$ o
 
 ### Solution to Exercise 5
 
-Two thousand one hundred fifty-three is written $2153$; six thousand five hundred five is written $6505$; eight thousand eight is written $8008$. Draw dots in the thousands, hundreds, tens, and ones cells. $\blacksquare$
+Two thousand one hundred fifty-three is written $2153$; six thousand five hundred five is written $6505$; eight thousand eight is written $8008$. Draw dots in the thousands, hundreds, tens, and ones cells.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -70,7 +80,9 @@ Two thousand one hundred fifty-three is written $2153$; six thousand five hundre
 
 ### Solution to Exercise 6
 
-$2536=2000+500+30+6$; $7020=7000+20$. $\blacksquare$
+$2536=2000+500+30+6$; $7020=7000+20$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -78,7 +90,9 @@ $2536=2000+500+30+6$; $7020=7000+20$. $\blacksquare$
 
 ### Solution to Exercise 7
 
-(1) Write the numbers and say the composition per each abacus place; adding one lower bead to the ones place means adding $1$, and when the ones reaches ten carry $1$ to the tens. (2) Deskmates move, read, and write for each other. $\blacksquare$
+(1) Write the numbers and say the composition per each abacus place; adding one lower bead to the ones place means adding $1$, and when the ones reaches ten carry $1$ to the tens. (2) Deskmates move, read, and write for each other.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -86,7 +100,9 @@ $2536=2000+500+30+6$; $7020=7000+20$. $\blacksquare$
 
 ### Solution to Exercise 8
 
-(1) Add $10$ each time: $2980,2990,3000,3010,3020,3030$. (2) Add $100$ each time: $9500,9600,9700,9800,9900,10000$. $\blacksquare$
+(1) Add $10$ each time: $2980,2990,3000,3010,3020,3030$. (2) Add $100$ each time: $9500,9600,9700,9800,9900,10000$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -94,7 +110,9 @@ $2536=2000+500+30+6$; $7020=7000+20$. $\blacksquare$
 
 ### Solution to Exercise 9
 
-The ones is $7$; the tens plus ones is $12$, so the tens is $12-7=5$; the hundreds is $12-5=7$; the thousands is $12-7=5$. The number is $5757$. $\blacksquare$
+The ones is $7$; the tens plus ones is $12$, so the tens is $12-7=5$; the hundreds is $12-5=7$; the thousands is $12-7=5$. The number is $5757$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -102,7 +120,9 @@ The ones is $7$; the tens plus ones is $12$, so the tens is $12-7=5$; the hundre
 
 ### Solution to Exercise 10
 
-By **Definition 4.4.5 (比较万以内数的大小)**: $843$ is three-digit and $1215$ is four-digit, $843<1215$; $2757$ and $1614$ are both four-digit, the highest digit $2>1$, so $2757>1614$; $1614$ and $1215$ have the same highest digit, the hundreds $6>2$, so $1614>1215$. $\blacksquare$
+By **Definition 4.4.5 (比较万以内数的大小)**: $843$ is three-digit and $1215$ is four-digit, $843<1215$; $2757$ and $1614$ are both four-digit, the highest digit $2>1$, so $2757>1614$; $1614$ and $1215$ have the same highest digit, the hundreds $6>2$, so $1614>1215$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -110,7 +130,9 @@ By **Definition 4.4.5 (比较万以内数的大小)**: $843$ is three-digit and 
 
 ### Solution to Exercise 11
 
-By **Definition 4.4.5 (比较万以内数的大小)**, (1) $893<914<941<1001$ ($1001$ is four-digit and largest). (2) $3005<3049<3050<3500$. $\blacksquare$
+By **Definition 4.4.5 (比较万以内数的大小)**, (1) $893<914<941<1001$ ($1001$ is four-digit and largest). (2) $3005<3049<3050<3500$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -118,7 +140,9 @@ By **Definition 4.4.5 (比较万以内数的大小)**, (1) $893<914<941<1001$ ($
 
 ### Solution to Exercise 12
 
-By **Definition 4.4.6 (approximate numbers)**, $6830\approx7000$, $5021\approx5000$, $3900\approx4000$, $8104\approx8000$, $4005\approx4000$, $2897\approx3000$, $7053\approx7000$, $9008\approx9000$. $\blacksquare$
+By **Definition 4.4.6 (approximate numbers)**, $6830\approx7000$, $5021\approx5000$, $3900\approx4000$, $8104\approx8000$, $4005\approx4000$, $2897\approx3000$, $7053\approx7000$, $9008\approx9000$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -126,7 +150,9 @@ By **Definition 4.4.6 (approximate numbers)**, $6830\approx7000$, $5021\approx50
 
 ### Solution to Exercise 13
 
-$200+400=600$; $3000+6000=9000$; $800+900=1700$; $600-400=200$; $9000-3000=6000$; $1700-900=800$. Raise a problem like "how many meters do the two vehicles travel per minute in all" and solve by addition (or subtraction). $\blacksquare$
+$200+400=600$; $3000+6000=9000$; $800+900=1700$; $600-400=200$; $9000-3000=6000$; $1700-900=800$. Raise a problem like "how many meters do the two vehicles travel per minute in all" and solve by addition (or subtraction).
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -134,7 +160,9 @@ $200+400=600$; $3000+6000=9000$; $800+900=1700$; $600-400=200$; $9000-3000=6000$
 
 ### Solution to Exercise 14
 
-Right. The $3$ in the thousands place means $3000$, and the $3$ in the tens place means $30$; $3000>30$, so the number meant by the thousands-place $3$ is larger. $\blacksquare$
+Right. The $3$ in the thousands place means $3000$, and the $3$ in the tens place means $30$; $3000>30$, so the number meant by the thousands-place $3$ is larger.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -142,7 +170,9 @@ Right. The $3$ in the thousands place means $3000$, and the $3$ in the tens plac
 
 ### Solution to Exercise 15
 
-By **Definition 4.4.6 (Approximate Number)**, $1390$ is close to $1400$; $2489$ is close to $2500$. Circle $1400$ and $2500$. $\blacksquare$
+By **Definition 4.4.6 (Approximate Number)**, $1390$ is close to $1400$; $2489$ is close to $2500$. Circle $1400$ and $2500$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -150,7 +180,9 @@ By **Definition 4.4.6 (Approximate Number)**, $1390$ is close to $1400$; $2489$ 
 
 ### Solution to Exercise 16
 
-For example "how many can be housed in all": $2000+900+600=3500$ people; or "how many more the guest villa houses than the holiday inn": $900-600=300$ people. The answer is not unique. $\blacksquare$
+For example "how many can be housed in all": $2000+900+600=3500$ people; or "how many more the guest villa houses than the holiday inn": $900-600=300$ people. The answer is not unique.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -158,7 +190,9 @@ For example "how many can be housed in all": $2000+900+600=3500$ people; or "how
 
 ### Solution to Exercise 17
 
-Four beads all as lower beads in the thousands, hundreds, tens, and ones places give $1111$; you may also concentrate beads in one place, e.g. an upper bead means $5$, giving different four-digit numbers such as $5110,5101,5011,2200$. The answer is not unique. $\blacksquare$
+Four beads all as lower beads in the thousands, hundreds, tens, and ones places give $1111$; you may also concentrate beads in one place, e.g. an upper bead means $5$, giving different four-digit numbers such as $5110,5101,5011,2200$. The answer is not unique.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -166,7 +200,9 @@ Four beads all as lower beads in the thousands, hundreds, tens, and ones places 
 
 ### Solution to Exercise 18
 
-(1) $895>804>673>621$; month $4$ is most, month $6$ least. (2) $673\approx700$, $895\approx900$, $804\approx800$, $621\approx600$. $\blacksquare$
+(1) $895>804>673>621$; month $4$ is most, month $6$ least. (2) $673\approx700$, $895\approx900$, $804\approx800$, $621\approx600$.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -174,4 +210,6 @@ Four beads all as lower beads in the thousands, hundreds, tens, and ones places 
 
 ### Solution to Exercise 19
 
-For $2317>2\square17$, the thousands, ones, and tens are the same, so the hundreds must be smaller than $3$; fill $0,1,2$. For $999<\square6000$, $999$ is three-digit and the right side is four-digit, so the thousands place cannot be $0$; any of $1\sim9$ works. $\blacksquare$
+For $2317>2\square17$, the thousands, ones, and tens are the same, so the hundreds must be smaller than $3$; fill $0,1,2$. For $999<\square6000$, $999$ is three-digit and the right side is four-digit, so the thousands place cannot be $0$; any of $1\sim9$ works.
+
+$\blacksquare$

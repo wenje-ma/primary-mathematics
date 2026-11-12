@@ -2,7 +2,7 @@
 
 > **定义 11.9.1 (鸽巢原理, 抽屉原理)**
 > 
-> 把 $m$ 个物体任意分放进 $n$ 个抽屉 ($m>{}n$), 那么一定有一个抽屉里至少放了 $\lceil\frac{m}{n}\rceil$ 个物体. 计算方法: $m\div{n}=q\cdots\cdots{r}$, 当 $r>0$ 时至少 $q+1$ 个, 当 $r=0$ 时至少 $q$ 个.
+> 把 $m$ 个物体任意分放进 $n$ 个抽屉 ($m>n$), 那么一定有一个抽屉里至少放了 $\lceil\frac{m}{n}\rceil$ 个物体. 计算方法: $m\div{n}=q\cdots\cdots{r}$, 当 $r>0$ 时至少 $q+1$ 个, 当 $r=0$ 时至少 $q$ 个.
 
 ## 练习一
 
@@ -10,7 +10,9 @@
 
 ### 解答 练习一
 
-先找到字母 $B$ 所在行, 再找到数字 $5$ 所在列, 行列交叉的格子就是 B5. $\blacksquare$
+先找到字母 $B$ 所在行, 再找到数字 $5$ 所在列, 行列交叉的格子就是 B5.
+
+$\blacksquare$
 
 ## 练习二
 
@@ -18,7 +20,9 @@
 
 ### 解答 练习二
 
-按棋盘列字母行数字, 依次读出每手白子的数对位置, 如 (H,8), (I,9) 等. $\blacksquare$
+按棋盘列字母行数字, 依次读出每手白子的数对位置, 如 (H,8), (I,9) 等.
+
+$\blacksquare$
 
 ## 练习三
 
@@ -26,7 +30,9 @@
 
 ### 解答 练习三
 
-$15\times\frac{4}{5}=12$; $15\div\frac{3}{4}=20$; $\frac{25}{40}\times\frac{24}{12}=\frac{5}{4}=1.25$; $\frac{16}{15}\times\frac{25}{24}=\frac{10}{9}$. $\blacksquare$
+$15\times\frac{4}{5}=12$; $15\div\frac{3}{4}=20$; $\frac{25}{40}\times\frac{24}{12}=\frac{5}{4}=1.25$; $\frac{16}{15}\times\frac{25}{24}=\frac{10}{9}$.
+
+$\blacksquare$
 
 ## 练习四
 
@@ -34,7 +40,9 @@ $15\times\frac{4}{5}=12$; $15\div\frac{3}{4}=20$; $\frac{25}{40}\times\frac{24}{
 
 ### 解答 练习四
 
-$36000\div\frac{71}{100}\approx50704$ (万平方千米). $\blacksquare$
+$36000\div\frac{71}{100}\approx50704$ (万平方千米).
+
+$\blacksquare$
 
 ## 练习五
 
@@ -42,7 +50,9 @@ $36000\div\frac{71}{100}\approx50704$ (万平方千米). $\blacksquare$
 
 ### 解答 练习五
 
-$\frac{5}{9}\times\left(\frac{3}{4}+\frac{1}{4}\right)=\frac{5}{9}$; $\left(3.7+1.3\right)\times\frac{6}{13}=5\times\frac{6}{13}=\frac{30}{13}$; $0.5\times\frac{21}{25}=\frac{21}{50}$. $\blacksquare$
+$\frac{5}{9}\times\left(\frac{3}{4}+\frac{1}{4}\right)=\frac{5}{9}$; $\left(3.7+1.3\right)\times\frac{6}{13}=5\times\frac{6}{13}=\frac{30}{13}$; $0.5\times\frac{21}{25}=\frac{21}{50}$.
+
+$\blacksquare$
 
 ## 练习六
 
@@ -50,7 +60,9 @@ $\frac{5}{9}\times\left(\frac{3}{4}+\frac{1}{4}\right)=\frac{5}{9}$; $\left(3.7+
 
 ### 解答 练习六
 
-小强 $=120\times\frac{5}{8}=75$; 小亮 $=75\times\frac{2}{3}=50$ (个). $\blacksquare$
+小强 $=120\times\frac{5}{8}=75$; 小亮 $=75\times\frac{2}{3}=50$ (个).
+
+$\blacksquare$
 
 ## 练习七
 
@@ -58,7 +70,9 @@ $\frac{5}{9}\times\left(\frac{3}{4}+\frac{1}{4}\right)=\frac{5}{9}$; $\left(3.7+
 
 ### 解答 练习七
 
-轿车 $=300\times\frac{1}{3}=100\;\text{km/h}$; 飞机 $=100\div\frac{1}{9}=900\;\text{km/h}$. $\blacksquare$
+轿车 $=300\times\frac{1}{3}=100\;\text{km/h}$; 飞机 $=100\div\frac{1}{9}=900\;\text{km/h}$.
+
+$\blacksquare$
 
 ## 练习八
 
@@ -66,7 +80,9 @@ $\frac{5}{9}\times\left(\frac{3}{4}+\frac{1}{4}\right)=\frac{5}{9}$; $\left(3.7+
 
 ### 解答 练习八
 
-烘干率 $=428\div500\times100\%=85.6\%$; 含水率 $=\left(500-428\right)\div500\times100\%=14.4\%$. $\blacksquare$
+烘干率 $=428\div500\times100\%=85.6\%$; 含水率 $=\left(500-428\right)\div500\times100\%=14.4\%$.
+
+$\blacksquare$
 
 ## 练习九
 
@@ -74,7 +90,9 @@ $\frac{5}{9}\times\left(\frac{3}{4}+\frac{1}{4}\right)=\frac{5}{9}$; $\left(3.7+
 
 ### 解答 练习九
 
-(1) $2\div12\approx16.7\%$; (2) $24\times75\%=18$ (小时). $\blacksquare$
+(1) $2\div12\approx16.7\%$; (2) $24\times75\%=18$ (小时).
+
+$\blacksquare$
 
 ## 练习十
 
@@ -82,7 +100,9 @@ $\frac{5}{9}\times\left(\frac{3}{4}+\frac{1}{4}\right)=\frac{5}{9}$; $\left(3.7+
 
 ### 解答 练习十
 
-设每个正方形边长为 $1$, 涂色部分为一个三角形面积 $\frac{1}{2}$, 长方形面积 $2$, 占 $\frac{0.5}{2}=25\%$. $\blacksquare$
+设每个正方形边长为 $1$, 涂色部分为一个三角形面积 $\frac{1}{2}$, 长方形面积 $2$, 占 $\frac{0.5}{2}=25\%$.
+
+$\blacksquare$
 
 ## 练习十一
 
@@ -90,7 +110,9 @@ $\frac{5}{9}\times\left(\frac{3}{4}+\frac{1}{4}\right)=\frac{5}{9}$; $\left(3.7+
 
 ### 解答 练习十一
 
-在方格纸上标出 $A$, $B$, $C$ 三点连成直角三角形. 因为 $AB$ 可作斜边, 另一个 $C$ 的位置是 $\left(2,5\right)$. $\blacksquare$
+在方格纸上标出 $A$, $B$, $C$ 三点连成直角三角形. 因为 $AB$ 可作斜边, 另一个 $C$ 的位置是 $\left(2,5\right)$.
+
+$\blacksquare$
 
 ## 练习十二
 
@@ -98,7 +120,9 @@ $\frac{5}{9}\times\left(\frac{3}{4}+\frac{1}{4}\right)=\frac{5}{9}$; $\left(3.7+
 
 ### 解答 练习十二
 
-设长 $x$, 宽 $\frac{2}{5}x$, $2\left(x+\frac{2}{5}x\right)=84$, $\frac{7}{5}x=42$, $x=30\;\text{cm}$; 宽 $=12\;\text{cm}$. $\blacksquare$
+设长 $x$, 宽 $\frac{2}{5}x$, $2\left(x+\frac{2}{5}x\right)=84$, $\frac{7}{5}x=42$, $x=30\;\text{cm}$; 宽 $=12\;\text{cm}$.
+
+$\blacksquare$
 
 ## 练习十三
 
@@ -106,7 +130,9 @@ $\frac{5}{9}\times\left(\frac{3}{4}+\frac{1}{4}\right)=\frac{5}{9}$; $\left(3.7+
 
 ### 解答 练习十三
 
-U 盘 A 剩余 $8-6.4=1.6\;\text{GB}<1.8$; U 盘 B 剩余 $16\times30\%=4.8\;\text{GB}>1.8$, 选 B. 拷贝全部需 $0.5\div15\%=\frac{10}{3}$ 分, 还需 $\frac{10}{3}\times\left(1-15\%\right)=\frac{17}{6}\approx2.83$ 分. $\blacksquare$
+U 盘 A 剩余 $8-6.4=1.6\;\text{GB}<1.8$; U 盘 B 剩余 $16\times30\%=4.8\;\text{GB}>1.8$, 选 B. 拷贝全部需 $0.5\div15\%=\frac{10}{3}$ 分, 还需 $\frac{10}{3}\times\left(1-15\%\right)=\frac{17}{6}\approx2.83$ 分.
+
+$\blacksquare$
 
 ## 练习十四
 
@@ -114,7 +140,9 @@ U 盘 A 剩余 $8-6.4=1.6\;\text{GB}<1.8$; U 盘 B 剩余 $16\times30\%=4.8\;\te
 
 ### 解答 练习十四
 
-用量角器量出方位角, 用直尺量图上距离再乘以 $100\;\text{m}$ 得实际距离, 如小猴在小熊东偏北 $30^{\circ}$ 方向 $200\;\text{m}$. $\blacksquare$
+用量角器量出方位角, 用直尺量图上距离再乘以 $100\;\text{m}$ 得实际距离, 如小猴在小熊东偏北 $30^{\circ}$ 方向 $200\;\text{m}$.
+
+$\blacksquare$
 
 ## 练习十五
 
@@ -122,7 +150,9 @@ U 盘 A 剩余 $8-6.4=1.6\;\text{GB}<1.8$; U 盘 B 剩余 $16\times30\%=4.8\;\te
 
 ### 解答 练习十五
 
-大圆 $d=1.8$, $C=5.652\;\text{m}$; 中圆 $d=0.9$, $C=2.826\;\text{m}$; 小圆 $d=0.6$, $C=1.884\;\text{m}$. 三张铁皮剪掉的总面积相等 (都是 $\pi\times0.9^2$), 故剩下废料一样多. $\blacksquare$
+大圆 $d=1.8$, $C=5.652\;\text{m}$; 中圆 $d=0.9$, $C=2.826\;\text{m}$; 小圆 $d=0.6$, $C=1.884\;\text{m}$. 三张铁皮剪掉的总面积相等 (都是 $\pi\times0.9^2$), 故剩下废料一样多.
+
+$\blacksquare$
 
 ## 练习十六
 
@@ -130,7 +160,9 @@ U 盘 A 剩余 $8-6.4=1.6\;\text{GB}<1.8$; U 盘 B 剩余 $16\times30\%=4.8\;\te
 
 ### 解答 练习十六
 
-三种可能: 以 $AB$, $AC$, $BC$ 为对角线. $D=\left(10,5\right)$ 或 $\left(16,11\right)$ 或 $\left(2,5\right)$. 共 $3$ 个平行四边形. $\blacksquare$
+三种可能: 以 $AB$, $AC$, $BC$ 为对角线. $D=\left(10,5\right)$ 或 $\left(16,11\right)$ 或 $\left(2,5\right)$. 共 $3$ 个平行四边形.
+
+$\blacksquare$
 
 ## 练习十七
 
@@ -138,7 +170,9 @@ U 盘 A 剩余 $8-6.4=1.6\;\text{GB}<1.8$; U 盘 B 剩余 $16\times30\%=4.8\;\te
 
 ### 解答 练习十七
 
-逐年用无害化处理量除以清运量, 如 2014 年 $16394\div17860\approx91.8\%$. 处理厂数量从 2013 年 $765$ 座逐年上升到 2021 年约 $1400$ 座, 说明国家对生活垃圾无害化处理重视程度不断提高. $\blacksquare$
+逐年用无害化处理量除以清运量, 如 2014 年 $16394\div17860\approx91.8\%$. 处理厂数量从 2013 年 $765$ 座逐年上升到 2021 年约 $1400$ 座, 说明国家对生活垃圾无害化处理重视程度不断提高.
+
+$\blacksquare$
 
 ## 练习十八
 
@@ -146,4 +180,6 @@ U 盘 A 剩余 $8-6.4=1.6\;\text{GB}<1.8$; U 盘 B 剩余 $16\times30\%=4.8\;\te
 
 ### 解答 练习十八
 
-由**定义 11.9.1 (鸽巢原理, 抽屉原理)**, $7\div3=2\cdots\cdots1$, 平均每个鸽笼飞 $2$ 只还剩 $1$ 只, 这只无论飞进哪个笼, 该笼就至少 $3$ 只. $\blacksquare$
+由**定义 11.9.1 (鸽巢原理, 抽屉原理)**, $7\div3=2\cdots\cdots1$, 平均每个鸽笼飞 $2$ 只还剩 $1$ 只, 这只无论飞进哪个笼, 该笼就至少 $3$ 只.
+
+$\blacksquare$

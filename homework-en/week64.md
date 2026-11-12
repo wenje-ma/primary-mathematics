@@ -30,7 +30,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 6.4.2 (面积单位)**, actually have students stand on a $1$-m-square floor and count how many fit, to appreciate the size of $1$ square meter. $\blacksquare$
+By **Definition 6.4.2 (面积单位)**, actually have students stand on a $1$-m-square floor and count how many fit, to appreciate the size of $1$ square meter.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -38,7 +40,9 @@ By **Definition 6.4.2 (面积单位)**, actually have students stand on a $1$-m-
 
 ### Solution to Exercise 2
 
-By **Definition 6.4.1 (面积)** and **Definition 6.3.3 (Perimeter)**, tracing the outline gives the perimeter, while shading the whole face gives the area; note the difference between the two. $\blacksquare$
+By **Definition 6.4.1 (面积)** and **Definition 6.3.3 (Perimeter)**, tracing the outline gives the perimeter, while shading the whole face gives the area; note the difference between the two.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -46,7 +50,9 @@ By **Definition 6.4.1 (面积)** and **Definition 6.3.3 (Perimeter)**, tracing t
 
 ### Solution to Exercise 3
 
-By **Definition 6.4.1 (面积)**, count the small cells each figure occupies; the one with the most cells has the largest area, and the one with the fewest has the smallest. $\blacksquare$
+By **Definition 6.4.1 (面积)**, count the small cells each figure occupies; the one with the most cells has the largest area, and the one with the fewest has the smallest.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -54,7 +60,9 @@ By **Definition 6.4.1 (面积)**, count the small cells each figure occupies; th
 
 ### Solution to Exercise 4
 
-By **Definition 6.4.2 (面积单位)**, use square centimeters for the ID card, square decimeters for the desk top, and square meters for the classroom and playground. $\blacksquare$
+By **Definition 6.4.2 (面积单位)**, use square centimeters for the ID card, square decimeters for the desk top, and square meters for the classroom and playground.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -62,7 +70,9 @@ By **Definition 6.4.2 (面积单位)**, use square centimeters for the ID card, 
 
 ### Solution to Exercise 5
 
-Blackboard length $4$ meters, stamp area $4$ square centimeters, height $128$ cm, handkerchief area $4$ square decimeters, waist $6$ dm, blackboard area $4$ square meters. $\blacksquare$
+Blackboard length $4$ meters, stamp area $4$ square centimeters, height $128$ cm, handkerchief area $4$ square decimeters, waist $6$ dm, blackboard area $4$ square meters.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -70,7 +80,9 @@ Blackboard length $4$ meters, stamp area $4$ square centimeters, height $128$ cm
 
 ### Solution to Exercise 6
 
-By **Definition 6.4.1 (面积)**, however they are arranged, they are made of $4$ squares of $1$ square centimeter, so the area is always $4$ square centimeters; the perimeter differs with the arrangement, computed by adding up each figure's outer sides. $\blacksquare$
+By **Definition 6.4.1 (面积)**, however they are arranged, they are made of $4$ squares of $1$ square centimeter, so the area is always $4$ square centimeters; the perimeter differs with the arrangement, computed by adding up each figure's outer sides.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -78,7 +90,9 @@ By **Definition 6.4.1 (面积)**, however they are arranged, they are made of $4
 
 ### Solution to Exercise 7
 
-By **Definition 6.4.3 (长方形和正方形的面积)**, (1) $10\times7=70$ (square centimeters). (2) The largest square's side equals the width, $7$ cm, area $7\times7=49$ (square centimeters). $\blacksquare$
+By **Definition 6.4.3 (长方形和正方形的面积)**, (1) $10\times7=70$ (square centimeters). (2) The largest square's side equals the width, $7$ cm, area $7\times7=49$ (square centimeters).
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -86,7 +100,9 @@ By **Definition 6.4.3 (长方形和正方形的面积)**, (1) $10\times7=70$ (sq
 
 ### Solution to Exercise 8
 
-The book cover is $3\times2=6$ (square decimeters); see about how many covers fit on the desk top and multiply by $6$; estimate the classroom floor by length times width; the answer follows your actual estimate. $\blacksquare$
+The book cover is $3\times2=6$ (square decimeters); see about how many covers fit on the desk top and multiply by $6$; estimate the classroom floor by length times width; the answer follows your actual estimate.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -94,7 +110,9 @@ The book cover is $3\times2=6$ (square decimeters); see about how many covers fi
 
 ### Solution to Exercise 9
 
-By **Definition 6.4.4 (Rates Between Area Units)**: $6$ square decimeters $=600$ square centimeters, $5$ square meters $=500$ square decimeters, $300$ square centimeters $=3$ square decimeters. $\blacksquare$
+By **Definition 6.4.4 (Rates Between Area Units)**: $6$ square decimeters $=600$ square centimeters, $5$ square meters $=500$ square decimeters, $300$ square centimeters $=3$ square decimeters.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -102,7 +120,9 @@ By **Definition 6.4.4 (Rates Between Area Units)**: $6$ square decimeters $=600$
 
 ### Solution to Exercise 10
 
-By **Definition 6.4.3 (长方形和正方形的面积)** and **Definition 6.4.4 (面积单位间的进率)**, area $8\times8=64$ (square decimeters), $64$ square decimeters $=6400$ square centimeters. $\blacksquare$
+By **Definition 6.4.3 (长方形和正方形的面积)** and **Definition 6.4.4 (面积单位间的进率)**, area $8\times8=64$ (square decimeters), $64$ square decimeters $=6400$ square centimeters.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -110,7 +130,9 @@ By **Definition 6.4.3 (长方形和正方形的面积)** and **Definition 6.4.4 
 
 ### Solution to Exercise 11
 
-By **Definition 6.3.4 (Perimeter of Rectangles)** and **Definition 6.4.3 (长方形和正方形的面积)**, for a rectangle the perimeter is $=$(length$+$width)$\times2$ and the area is $=$ length$\times$width; for a square the perimeter is $=$ side$\times4$ and the area is $=$ side$\times$side; compute each. $\blacksquare$
+By **Definition 6.3.4 (Perimeter of Rectangles)** and **Definition 6.4.3 (长方形和正方形的面积)**, for a rectangle the perimeter is $=$(length$+$width)$\times2$ and the area is $=$ length$\times$width; for a square the perimeter is $=$ side$\times4$ and the area is $=$ side$\times$side; compute each.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -118,7 +140,9 @@ By **Definition 6.3.4 (Perimeter of Rectangles)** and **Definition 6.4.3 (长方
 
 ### Solution to Exercise 12
 
-By **Definition 6.4.4 (面积单位间的进率)**: $3$ square decimeters $=300$ square centimeters, $2$ square meters $=200$ square decimeters, $500$ square centimeters $=5$ square decimeters; $100$ dm $=10$ m. $\blacksquare$
+By **Definition 6.4.4 (面积单位间的进率)**: $3$ square decimeters $=300$ square centimeters, $2$ square meters $=200$ square decimeters, $500$ square centimeters $=5$ square decimeters; $100$ dm $=10$ m.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -126,7 +150,9 @@ By **Definition 6.4.4 (面积单位间的进率)**: $3$ square decimeters $=300$
 
 ### Solution to Exercise 13
 
-Wall area $6\times3=18$ (square meters), minus the blackboard's $3$ square meters, leaves $18-3=15$ (square meters) to paint. $\blacksquare$
+Wall area $6\times3=18$ (square meters), minus the blackboard's $3$ square meters, leaves $18-3=15$ (square meters) to paint.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -134,7 +160,9 @@ Wall area $6\times3=18$ (square meters), minus the blackboard's $3$ square meter
 
 ### Solution to Exercise 14
 
-Side $36\div4=9$ (m), area $9\times9=81$ (square meters). $\blacksquare$
+Side $36\div4=9$ (m), area $9\times9=81$ (square meters).
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -142,7 +170,9 @@ Side $36\div4=9$ (m), area $9\times9=81$ (square meters). $\blacksquare$
 
 ### Solution to Exercise 15
 
-By **Definition 6.4.3 (长方形和正方形的面积)**, first estimate by eye, then measure the length and width (or side), use length$\times$width (side$\times$side) to compute the actual area, and fill in the table. $\blacksquare$
+By **Definition 6.4.3 (长方形和正方形的面积)**, first estimate by eye, then measure the length and width (or side), use length$\times$width (side$\times$side) to compute the actual area, and fill in the table.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -150,7 +180,9 @@ By **Definition 6.4.3 (长方形和正方形的面积)**, first estimate by eye,
 
 ### Solution to Exercise 16
 
-(1) Area $5\times2=10$ (square meters). (2) The fence length is the perimeter $\left(5+2\right)\times2=14$ (meters). $\blacksquare$
+(1) Area $5\times2=10$ (square meters). (2) The fence length is the perimeter $\left(5+2\right)\times2=14$ (meters).
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -158,7 +190,9 @@ By **Definition 6.4.3 (长方形和正方形的面积)**, first estimate by eye,
 
 ### Solution to Exercise 17
 
-Original area $5\times5=25$ (square centimeters), cut out $3\times2=6$ (square centimeters); for all three ways the remaining area is $25-6=19$ (square centimeters). The perimeter differs by the way: cutting from an edge keeps it unchanged or adds two sides, and cutting from a corner keeps it unchanged; add up the outer sides in each case. $\blacksquare$
+Original area $5\times5=25$ (square centimeters), cut out $3\times2=6$ (square centimeters); for all three ways the remaining area is $25-6=19$ (square centimeters). The perimeter differs by the way: cutting from an edge keeps it unchanged or adds two sides, and cutting from a corner keeps it unchanged; add up the outer sides in each case.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -166,7 +200,9 @@ Original area $5\times5=25$ (square centimeters), cut out $3\times2=6$ (square c
 
 ### Solution to Exercise 18
 
-By **Definition 6.4.3 (长方形和正方形的面积)**, the large rectangle is $10\times8=80$ (square meters), minus the gap $5\times4=20$ (square meters), giving a lawn of $80-20=60$ (square meters); alternatively split the lawn into two rectangles, compute each and add. $\blacksquare$
+By **Definition 6.4.3 (长方形和正方形的面积)**, the large rectangle is $10\times8=80$ (square meters), minus the gap $5\times4=20$ (square meters), giving a lawn of $80-20=60$ (square meters); alternatively split the lawn into two rectangles, compute each and add.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -174,7 +210,9 @@ By **Definition 6.4.3 (长方形和正方形的面积)**, the large rectangle is
 
 ### Solution to Exercise 19
 
-Tree height $16$ m, crayon length $1$ dm, dictionary thickness $5$ cm, school area $9000$ square meters. $\blacksquare$
+Tree height $16$ m, crayon length $1$ dm, dictionary thickness $5$ cm, school area $9000$ square meters.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -182,7 +220,9 @@ Tree height $16$ m, crayon length $1$ dm, dictionary thickness $5$ cm, school ar
 
 ### Solution to Exercise 20
 
-By **Definition 6.4.4 (面积单位间的进率)**: $100$ square meters $>10$ square meters; $10$ square decimeters $=1000$ square centimeters $>999$ square centimeters; $400$ square centimeters $=4$ square decimeters; $1000$ square centimeters $<1$ square meter ($1$ square meter $=10000$ square centimeters). $\blacksquare$
+By **Definition 6.4.4 (面积单位间的进率)**: $100$ square meters $>10$ square meters; $10$ square decimeters $=1000$ square centimeters $>999$ square centimeters; $400$ square centimeters $=4$ square decimeters; $1000$ square centimeters $<1$ square meter ($1$ square meter $=10000$ square centimeters).
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -190,7 +230,9 @@ By **Definition 6.4.4 (面积单位间的进率)**: $100$ square meters $>10$ sq
 
 ### Solution to Exercise 21
 
-Room area $6\times4=24$ (square meters), $24\div3=8$ (minutes). $\blacksquare$
+Room area $6\times4=24$ (square meters), $24\div3=8$ (minutes).
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -198,4 +240,6 @@ Room area $6\times4=24$ (square meters), $24\div3=8$ (minutes). $\blacksquare$
 
 ### Solution to Exercise 22
 
-Lot area $15\times6=90$ (square meters) $=9000$ square decimeters; each tile is $3\times3=9$ (square decimeters); $9000\div9=1000$ (tiles). $\blacksquare$
+Lot area $15\times6=90$ (square meters) $=9000$ square decimeters; each tile is $3\times3=9$ (square decimeters); $9000\div9=1000$ (tiles).
+
+$\blacksquare$

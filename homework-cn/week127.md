@@ -18,7 +18,9 @@
 
 ### 解答 练习一
 
-由**定义 11.3.2 (分数除法法则)**: $\frac{9}{10}\div3=\frac{9}{10}\times\frac{1}{3}=\frac{3}{10}$; $\frac{3}{8}\div2=\frac{3}{8}\times\frac{1}{2}=\frac{3}{16}$. $\blacksquare$
+由**定义 11.3.2 (分数除法法则)**: $\frac{9}{10}\div3=\frac{9}{10}\times\frac{1}{3}=\frac{3}{10}$; $\frac{3}{8}\div2=\frac{3}{8}\times\frac{1}{2}=\frac{3}{16}$.
+
+$\blacksquare$
 
 ## 练习二
 
@@ -26,7 +28,9 @@
 
 ### 解答 练习二
 
-由**定义 11.3.2 (分数除法法则)**: $\frac{4}{5}\div8=\frac{4}{5}\times\frac{1}{8}=\frac{1}{10}\;\text{m}$. $\blacksquare$
+由**定义 11.3.2 (分数除法法则)**: $\frac{4}{5}\div8=\frac{4}{5}\times\frac{1}{8}=\frac{1}{10}\;\text{m}$.
+
+$\blacksquare$
 
 ## 练习三
 
@@ -34,7 +38,9 @@
 
 ### 解答 练习三
 
-由**定义 11.3.2 (分数除法法则)**: (1) $160\div\frac{4}{5}=160\times\frac{5}{4}=200\;\text{g}$; (2) $\frac{2}{5}\div\frac{2}{3}=\frac{2}{5}\times\frac{3}{2}=\frac{3}{5}\;\text{kg}$. $\blacksquare$
+由**定义 11.3.2 (分数除法法则)**: (1) $160\div\frac{4}{5}=160\times\frac{5}{4}=200\;\text{g}$; (2) $\frac{2}{5}\div\frac{2}{3}=\frac{2}{5}\times\frac{3}{2}=\frac{3}{5}\;\text{kg}$.
+
+$\blacksquare$
 
 ## 练习四
 
@@ -42,7 +48,9 @@
 
 ### 解答 练习四
 
-设 $a=\frac{2}{5}\div\frac{2}{3}$, 由乘除互逆 $\frac{2}{3}\times{a}=\frac{2}{5}$, 两边同乘 $\frac{3}{2}$ 得 $a=\frac{2}{5}\times\frac{3}{2}$. 故**定义 11.3.2 (分数除法法则)** 对分数同样成立. $\blacksquare$
+设 $a=\frac{2}{5}\div\frac{2}{3}$, 由乘除互逆 $\frac{2}{3}\times{a}=\frac{2}{5}$, 两边同乘 $\frac{3}{2}$ 得 $a=\frac{2}{5}\times\frac{3}{2}$. 故**定义 11.3.2 (分数除法法则)** 对分数同样成立.
+
+$\blacksquare$
 
 ## 练习五
 
@@ -50,7 +58,9 @@
 
 ### 解答 练习五
 
-由**定义 11.3.2 (分数除法法则)**: $24\div\frac{8}{9}=24\times\frac{9}{8}=27$; $\frac{7}{16}\div\frac{4}{5}=\frac{7}{16}\times\frac{5}{4}=\frac{35}{64}$. $\blacksquare$
+由**定义 11.3.2 (分数除法法则)**: $24\div\frac{8}{9}=24\times\frac{9}{8}=27$; $\frac{7}{16}\div\frac{4}{5}=\frac{7}{16}\times\frac{5}{4}=\frac{35}{64}$.
+
+$\blacksquare$
 
 ## 练习六
 
@@ -58,7 +68,9 @@
 
 ### 解答 练习六
 
-由**定义 11.3.2 (分数除法法则)**: $\frac{8}{9}\div4=\frac{2}{9}$; $\frac{6}{13}\div4=\frac{3}{26}$; $15\div\frac{10}{13}=15\times\frac{13}{10}=\frac{39}{2}$; $\frac{3}{10}\div\frac{14}{45}=\frac{3}{10}\times\frac{45}{14}=\frac{27}{28}$. $\blacksquare$
+由**定义 11.3.2 (分数除法法则)**: $\frac{8}{9}\div4=\frac{2}{9}$; $\frac{6}{13}\div4=\frac{3}{26}$; $15\div\frac{10}{13}=15\times\frac{13}{10}=\frac{39}{2}$; $\frac{3}{10}\div\frac{14}{45}=\frac{3}{10}\times\frac{45}{14}=\frac{27}{28}$.
+
+$\blacksquare$
 
 ## 练习七
 
@@ -66,7 +78,9 @@
 
 ### 解答 练习七
 
-除数小于 $1$, 商大于被除数; 除数大于 $1$, 商小于被除数. 商大于被除数: $9\div\frac{3}{4}$, $\frac{1}{2}\div\frac{2}{3}$, $\frac{14}{9}\div\frac{7}{30}$, $\frac{4}{5}\div\frac{4}{5}$; 商小于被除数: $\frac{6}{7}\div3$, $\frac{15}{8}\div2$, $6\div\frac{5}{4}$, $\frac{5}{7}\div\frac{5}{2}$. $\blacksquare$
+除数小于 $1$, 商大于被除数; 除数大于 $1$, 商小于被除数. 商大于被除数: $9\div\frac{3}{4}$, $\frac{1}{2}\div\frac{2}{3}$, $\frac{14}{9}\div\frac{7}{30}$, $\frac{4}{5}\div\frac{4}{5}$; 商小于被除数: $\frac{6}{7}\div3$, $\frac{15}{8}\div2$, $6\div\frac{5}{4}$, $\frac{5}{7}\div\frac{5}{2}$.
+
+$\blacksquare$
 
 ## 练习八
 
@@ -74,7 +88,9 @@
 
 ### 解答 练习八
 
-由乘除互逆: $\frac{15}{4}\div5=\frac{3}{4}$, $\frac{15}{4}\div\frac{3}{4}=5$; $\frac{6}{35}\div\frac{2}{5}=\frac{3}{7}$, $\frac{6}{35}\div\frac{3}{7}=\frac{2}{5}$. $\blacksquare$
+由乘除互逆: $\frac{15}{4}\div5=\frac{3}{4}$, $\frac{15}{4}\div\frac{3}{4}=5$; $\frac{6}{35}\div\frac{2}{5}=\frac{3}{7}$, $\frac{6}{35}\div\frac{3}{7}=\frac{2}{5}$.
+
+$\blacksquare$
 
 ## 练习九
 
@@ -82,7 +98,9 @@
 
 ### 解答 练习九
 
-由**定义 11.3.2 (分数除法法则)**: $\frac{1}{4}\div\frac{3}{5}=\frac{5}{12}$; $3\div\frac{1}{3}=9$; $5\div\frac{5}{6}=6$; $\frac{5}{14}\div\frac{10}{21}=\frac{3}{4}$; $\frac{2}{3}\div\frac{14}{27}=\frac{9}{7}$; $\frac{2}{7}\div\frac{16}{35}=\frac{5}{8}$; $\frac{8}{27}\div\frac{2}{9}=\frac{4}{3}$; $\frac{4}{15}\div\frac{28}{45}=\frac{3}{7}$. $\blacksquare$
+由**定义 11.3.2 (分数除法法则)**: $\frac{1}{4}\div\frac{3}{5}=\frac{5}{12}$; $3\div\frac{1}{3}=9$; $5\div\frac{5}{6}=6$; $\frac{5}{14}\div\frac{10}{21}=\frac{3}{4}$; $\frac{2}{3}\div\frac{14}{27}=\frac{9}{7}$; $\frac{2}{7}\div\frac{16}{35}=\frac{5}{8}$; $\frac{8}{27}\div\frac{2}{9}=\frac{4}{3}$; $\frac{4}{15}\div\frac{28}{45}=\frac{3}{7}$.
+
+$\blacksquare$
 
 ## 练习十
 
@@ -90,7 +108,9 @@
 
 ### 解答 练习十
 
-$2-\frac{6}{13}\times\frac{26}{9}-\frac{2}{3}=2-\frac{4}{3}-\frac{2}{3}=0$; $\frac{8}{9}\times\frac{7}{4}\times3=\frac{14}{3}$; $\frac{5}{14}\times\frac{21}{4}\times\frac{16}{25}=\frac{6}{5}$. $\blacksquare$
+$2-\frac{6}{13}\times\frac{26}{9}-\frac{2}{3}=2-\frac{4}{3}-\frac{2}{3}=0$; $\frac{8}{9}\times\frac{7}{4}\times3=\frac{14}{3}$; $\frac{5}{14}\times\frac{21}{4}\times\frac{16}{25}=\frac{6}{5}$.
+
+$\blacksquare$
 
 ## 练习十一
 
@@ -98,7 +118,9 @@ $2-\frac{6}{13}\times\frac{26}{9}-\frac{2}{3}=2-\frac{4}{3}-\frac{2}{3}=0$; $\fr
 
 ### 解答 练习十一
 
-由**定义 11.3.2 (分数除法法则)**: $\frac{3}{4}\div\frac{1}{8}=\frac{3}{4}\times8=6$ (瓶). $\blacksquare$
+由**定义 11.3.2 (分数除法法则)**: $\frac{3}{4}\div\frac{1}{8}=\frac{3}{4}\times8=6$ (瓶).
+
+$\blacksquare$
 
 ## 练习十二
 
@@ -106,7 +128,9 @@ $2-\frac{6}{13}\times\frac{26}{9}-\frac{2}{3}=2-\frac{4}{3}-\frac{2}{3}=0$; $\fr
 
 ### 解答 练习十二
 
-由**定义 11.3.2 (分数除法法则)**: 半秒 $\frac{1}{2}\div\frac{1}{24}=12$ (张); $1$ 分钟 $60\div\frac{1}{24}=1440$ (张). $\blacksquare$
+由**定义 11.3.2 (分数除法法则)**: 半秒 $\frac{1}{2}\div\frac{1}{24}=12$ (张); $1$ 分钟 $60\div\frac{1}{24}=1440$ (张).
+
+$\blacksquare$
 
 ## 练习十三
 
@@ -114,4 +138,6 @@ $2-\frac{6}{13}\times\frac{26}{9}-\frac{2}{3}=2-\frac{4}{3}-\frac{2}{3}=0$; $\fr
 
 ### 解答 练习十三
 
-由**定义 11.3.2 (分数除法法则)**: $15\div\frac{5}{61}=15\times\frac{61}{5}=183$ (天). $\blacksquare$
+由**定义 11.3.2 (分数除法法则)**: $15\div\frac{5}{61}=15\times\frac{61}{5}=183$ (天).
+
+$\blacksquare$

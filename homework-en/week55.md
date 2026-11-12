@@ -22,7 +22,9 @@
 
 ### Solution to Exercise 1
 
-$1-\frac{1}{10}-\frac{3}{10}=\frac{6}{10}$. The green beans are $\frac{6}{10}$. $\blacksquare$
+$1-\frac{1}{10}-\frac{3}{10}=\frac{6}{10}$. The green beans are $\frac{6}{10}$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -30,7 +32,9 @@ $1-\frac{1}{10}-\frac{3}{10}=\frac{6}{10}$. The green beans are $\frac{6}{10}$. 
 
 ### Solution to Exercise 2
 
-For example, what fraction is laid altogether: $\frac{1}{5}+\frac{2}{5}=\frac{3}{5}$; what fraction remains: $1-\frac{3}{5}=\frac{2}{5}$. $\blacksquare$
+For example, what fraction is laid altogether: $\frac{1}{5}+\frac{2}{5}=\frac{3}{5}$; what fraction remains: $1-\frac{3}{5}=\frac{2}{5}$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -38,7 +42,9 @@ For example, what fraction is laid altogether: $\frac{1}{5}+\frac{2}{5}=\frac{3}
 
 ### Solution to Exercise 3
 
-Count the integer ways to add or subtract the numerators: when the sum (difference) of the numerators is fixed, the number of ways to choose the two numerators is the number of ways to fill it in. $\blacksquare$
+Count the integer ways to add or subtract the numerators: when the sum (difference) of the numerators is fixed, the number of ways to choose the two numerators is the number of ways to fill it in.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -46,7 +52,9 @@ Count the integer ways to add or subtract the numerators: when the sum (differen
 
 ### Solution to Exercise 4
 
-After $1$ fold it is divided into $2$ parts, each $\frac{1}{2}$; after $2$ folds, $4$ parts, each $\frac{1}{4}$; after $3$ folds, $8$ parts, each $\frac{1}{8}$; after $4$ folds, $16$ parts, each $\frac{1}{16}$. Pattern: each fold doubles the number of parts and halves the size of each part. $\blacksquare$
+After $1$ fold it is divided into $2$ parts, each $\frac{1}{2}$; after $2$ folds, $4$ parts, each $\frac{1}{4}$; after $3$ folds, $8$ parts, each $\frac{1}{8}$; after $4$ folds, $16$ parts, each $\frac{1}{16}$. Pattern: each fold doubles the number of parts and halves the size of each part.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -54,7 +62,9 @@ After $1$ fold it is divided into $2$ parts, each $\frac{1}{2}$; after $2$ folds
 
 ### Solution to Exercise 5
 
-By **Definition 5.8.4 (Finding a Fraction of a Number)**, each part is $\frac{1}{2}$ box; of the $24$ bottles divided into $3$ equal parts, $1$ part is $\frac{1}{3}$ and has $24\div3=8$ bottles; $2$ parts is $\frac{2}{3}$ and has $16$ bottles. $\blacksquare$
+By **Definition 5.8.4 (Finding a Fraction of a Number)**, each part is $\frac{1}{2}$ box; of the $24$ bottles divided into $3$ equal parts, $1$ part is $\frac{1}{3}$ and has $24\div3=8$ bottles; $2$ parts is $\frac{2}{3}$ and has $16$ bottles.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -62,7 +72,9 @@ By **Definition 5.8.4 (Finding a Fraction of a Number)**, each part is $\frac{1}
 
 ### Solution to Exercise 6
 
-$1$ part is $\frac{1}{6}$, $24\div6=4$ bottles; $2$ parts is $\frac{2}{6}$, $8$ bottles; $3$ parts is $\frac{3}{6}$, $12$ bottles. $\blacksquare$
+$1$ part is $\frac{1}{6}$, $24\div6=4$ bottles; $2$ parts is $\frac{2}{6}$, $8$ bottles; $3$ parts is $\frac{3}{6}$, $12$ bottles.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -70,7 +82,9 @@ $1$ part is $\frac{1}{6}$, $24\div6=4$ bottles; $2$ parts is $\frac{2}{6}$, $8$ 
 
 ### Solution to Exercise 7
 
-By **Definition 5.8.1 (分数的初步认识)**, count the total number of parts and the colored parts, and take the colored parts as the numerator. Fill in according to the figure. $\blacksquare$
+By **Definition 5.8.1 (分数的初步认识)**, count the total number of parts and the colored parts, and take the colored parts as the numerator. Fill in according to the figure.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -78,7 +92,9 @@ By **Definition 5.8.1 (分数的初步认识)**, count the total number of parts
 
 ### Solution to Exercise 8
 
-Divide evenly according to the actual number in the box; for example, $12$ erasers can be divided into $2,3,4,6,12$ parts, and $10$ notebooks into $2,5,10$ parts, each part corresponding to the appropriate fraction. $\blacksquare$
+Divide evenly according to the actual number in the box; for example, $12$ erasers can be divided into $2,3,4,6,12$ parts, and $10$ notebooks into $2,5,10$ parts, each part corresponding to the appropriate fraction.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -86,7 +102,9 @@ Divide evenly according to the actual number in the box; for example, $12$ erase
 
 ### Solution to Exercise 9
 
-By **Definition 5.8.4 (求一个数的几分之几)**, $9\div3=3$ circles, so $3$ are red and $3\times2=6$ are blue. $\blacksquare$
+By **Definition 5.8.4 (求一个数的几分之几)**, $9\div3=3$ circles, so $3$ are red and $3\times2=6$ are blue.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -94,7 +112,9 @@ By **Definition 5.8.4 (求一个数的几分之几)**, $9\div3=3$ circles, so $3
 
 ### Solution to Exercise 10
 
-$10\div5=2$ sticks (each part), $2\times2=4$ sticks. $4$ sticks are taken out. $\blacksquare$
+$10\div5=2$ sticks (each part), $2\times2=4$ sticks. $4$ sticks are taken out.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -102,7 +122,9 @@ $10\div5=2$ sticks (each part), $2\times2=4$ sticks. $4$ sticks are taken out. $
 
 ### Solution to Exercise 11
 
-By **Definition 5.8.4 (Finding a Fraction of a Number)**, the girls number $12\div3=4$ and the boys number $4\times2=8$. Check: $4+8=12$. $\blacksquare$
+By **Definition 5.8.4 (Finding a Fraction of a Number)**, the girls number $12\div3=4$ and the boys number $4\times2=8$. Check: $4+8=12$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -110,7 +132,9 @@ By **Definition 5.8.4 (Finding a Fraction of a Number)**, the girls number $12\d
 
 ### Solution to Exercise 12
 
-$45\div9=5$ books (each part), $5\times4=20$ books. There are $20$ storybooks. $\blacksquare$
+$45\div9=5$ books (each part), $5\times4=20$ books. There are $20$ storybooks.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -118,7 +142,9 @@ $45\div9=5$ books (each part), $5\times4=20$ books. There are $20$ storybooks. $
 
 ### Solution to Exercise 13
 
-$8\div4=2$ circles. $1$ part is $\frac{1}{4}$ with $2$ circles; $2$ parts is $\frac{2}{4}$ with $4$ circles. $\blacksquare$
+$8\div4=2$ circles. $1$ part is $\frac{1}{4}$ with $2$ circles; $2$ parts is $\frac{2}{4}$ with $4$ circles.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -126,7 +152,9 @@ $8\div4=2$ circles. $1$ part is $\frac{1}{4}$ with $2$ circles; $2$ parts is $\f
 
 ### Solution to Exercise 14
 
-By **Definition 5.8.1 (分数的初步认识)**, divide each figure into $5$ equal parts and color $2$ of them. Note that the total number differs between figures, so each part has a different count, but it is always $\frac{2}{5}$. $\blacksquare$
+By **Definition 5.8.1 (分数的初步认识)**, divide each figure into $5$ equal parts and color $2$ of them. Note that the total number differs between figures, so each part has a different count, but it is always $\frac{2}{5}$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -134,7 +162,9 @@ By **Definition 5.8.1 (分数的初步认识)**, divide each figure into $5$ equ
 
 ### Solution to Exercise 15
 
-By **Definition 5.8.4 (求一个数的几分之几)**, the count is total $\div4\times3$. Calculate according to the total numbers of pineapples and strawberries in the figure. $\blacksquare$
+By **Definition 5.8.4 (求一个数的几分之几)**, the count is total $\div4\times3$. Calculate according to the total numbers of pineapples and strawberries in the figure.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -142,7 +172,9 @@ By **Definition 5.8.4 (求一个数的几分之几)**, the count is total $\div4
 
 ### Solution to Exercise 16
 
-$20\div4=5$ rabbits. There are $5$ black rabbits. $\blacksquare$
+$20\div4=5$ rabbits. There are $5$ black rabbits.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -150,7 +182,9 @@ $20\div4=5$ rabbits. There are $5$ black rabbits. $\blacksquare$
 
 ### Solution to Exercise 17
 
-Each part is $25\div5=5$ kilograms; $5\times2=10$ kilograms are eaten, leaving $25-10=15$ kilograms. $\blacksquare$
+Each part is $25\div5=5$ kilograms; $5\times2=10$ kilograms are eaten, leaving $25-10=15$ kilograms.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -158,7 +192,9 @@ Each part is $25\div5=5$ kilograms; $5\times2=10$ kilograms are eaten, leaving $
 
 ### Solution to Exercise 18
 
-By **Definition 5.8.1 (分数的初步认识)**, divide each figure into $5$ equal parts and color $3$. $\blacksquare$
+By **Definition 5.8.1 (分数的初步认识)**, divide each figure into $5$ equal parts and color $3$.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -166,7 +202,9 @@ By **Definition 5.8.1 (分数的初步认识)**, divide each figure into $5$ equ
 
 ### Solution to Exercise 19
 
-The clock face is divided into $12$ large divisions, each $5$ minutes. $6$ of the $\frac{1}{12}$ hours is $\frac{6}{12}$ hour $=30$ minutes; $11$ of the $\frac{1}{12}$ hours is $\frac{11}{12}$ hour $=55$ minutes. $\blacksquare$
+The clock face is divided into $12$ large divisions, each $5$ minutes. $6$ of the $\frac{1}{12}$ hours is $\frac{6}{12}$ hour $=30$ minutes; $11$ of the $\frac{1}{12}$ hours is $\frac{11}{12}$ hour $=55$ minutes.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -174,7 +212,9 @@ The clock face is divided into $12$ large divisions, each $5$ minutes. $6$ of th
 
 ### Solution to Exercise 20
 
-The white cat ate $15\div3=5$ fish, and the black cat $15\div5=3$ fish. $5>3$, so the white cat ate more. $\blacksquare$
+The white cat ate $15\div3=5$ fish, and the black cat $15\div5=3$ fish. $5>3$, so the white cat ate more.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -182,7 +222,9 @@ The white cat ate $15\div3=5$ fish, and the black cat $15\div5=3$ fish. $5>3$, s
 
 ### Solution to Exercise 21
 
-Each part is $63\div7=9$ meters; the first time $9\times2=18$ meters, the second time $9\times3=27$ meters, for a total of $18+27=45$ meters. $\blacksquare$
+Each part is $63\div7=9$ meters; the first time $9\times2=18$ meters, the second time $9\times3=27$ meters, for a total of $18+27=45$ meters.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -190,7 +232,9 @@ Each part is $63\div7=9$ meters; the first time $9\times2=18$ meters, the second
 
 ### Solution to Exercise 22
 
-By **Definition 5.8.2 (分数的大小比较)**: $\frac{2}{5}<\frac{4}{5}$; $\frac{1}{4}>\frac{1}{6}$; $\frac{7}{7}>\frac{5}{7}$; $\frac{3}{20}<\frac{7}{20}$. The figure shows four pairs of shaded fraction diagrams (each pair has two identical shapes divided into equal parts and shaded, representing $\frac{2}{5}$ vs $\frac{4}{5}$, $\frac{1}{4}$ vs $\frac{1}{6}$, $\frac{7}{7}$ vs $\frac{5}{7}$, and $\frac{3}{20}$ vs $\frac{7}{20}$), visually illustrating the comparisons above. $\blacksquare$
+By **Definition 5.8.2 (分数的大小比较)**: $\frac{2}{5}<\frac{4}{5}$; $\frac{1}{4}>\frac{1}{6}$; $\frac{7}{7}>\frac{5}{7}$; $\frac{3}{20}<\frac{7}{20}$. The figure shows four pairs of shaded fraction diagrams (each pair has two identical shapes divided into equal parts and shaded, representing $\frac{2}{5}$ vs $\frac{4}{5}$, $\frac{1}{4}$ vs $\frac{1}{6}$, $\frac{7}{7}$ vs $\frac{5}{7}$, and $\frac{3}{20}$ vs $\frac{7}{20}$), visually illustrating the comparisons above.
+
+$\blacksquare$
 
 ## Exercise 23
 
@@ -198,4 +242,6 @@ By **Definition 5.8.2 (分数的大小比较)**: $\frac{2}{5}<\frac{4}{5}$; $\fr
 
 ### Solution to Exercise 23
 
-By **Definition 5.8.4 (求一个数的几分之几)**, the total is divided into several equal parts; the fraction is the number of colored parts, and the count $=$ total $\div$ denominator $\times$ numerator. Fill in according to the figure. $\blacksquare$
+By **Definition 5.8.4 (求一个数的几分之几)**, the total is divided into several equal parts; the fraction is the number of colored parts, and the count $=$ total $\div$ denominator $\times$ numerator. Fill in according to the figure.
+
+$\blacksquare$

@@ -38,7 +38,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 9.3.1 (除数是整数的小数除法)** and **Definition 9.3.4 (一个数除以小数)**: $40.32\div24=1.68$; $111\div0.3=370$; $2.07\div0.023=90$; $1.23\div0.03=41$; $0.75\times18-0.15=13.5-0.15=13.35$; $21.36\div0.8-12.9=26.7-12.9=13.8$; $7.28+3.2\div2.5=7.28+1.28=8.56$. $\blacksquare$
+By **Definition 9.3.1 (除数是整数的小数除法)** and **Definition 9.3.4 (一个数除以小数)**: $40.32\div24=1.68$; $111\div0.3=370$; $2.07\div0.023=90$; $1.23\div0.03=41$; $0.75\times18-0.15=13.5-0.15=13.35$; $21.36\div0.8-12.9=26.7-12.9=13.8$; $7.28+3.2\div2.5=7.28+1.28=8.56$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -46,7 +48,9 @@ By **Definition 9.3.1 (除数是整数的小数除法)** and **Definition 9.3.4 
 
 ### Solution to Exercise 2
 
-(1) $48\div2.3\approx20.9$; $1.55\div3.8\approx0.4$; $7.09\div0.52\approx13.6$. (2) $3.81\div7\approx0.54$; $246.4\div13\approx18.95$; $5.63\div6.1\approx0.92$. $\blacksquare$
+(1) $48\div2.3\approx20.9$; $1.55\div3.8\approx0.4$; $7.09\div0.52\approx13.6$. (2) $3.81\div7\approx0.54$; $246.4\div13\approx18.95$; $5.63\div6.1\approx0.92$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -54,7 +58,9 @@ By **Definition 9.3.1 (除数是整数的小数除法)** and **Definition 9.3.4 
 
 ### Solution to Exercise 3
 
-By **Definition 9.3.5 (商的近似数)**, using the "round down" method, $100\div18.5=5.405\cdots$, so $5$ can be bought. $\blacksquare$
+By **Definition 9.3.5 (商的近似数)**, using the "round down" method, $100\div18.5=5.405\cdots$, so $5$ can be bought.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -62,7 +68,9 @@ By **Definition 9.3.5 (商的近似数)**, using the "round down" method, $100\d
 
 ### Solution to Exercise 4
 
-Bus speed $288\div3=96$ km/h; truck speed $288\div3.6=80$ km/h. Faster by $96-80=16$ km/h. $\blacksquare$
+Bus speed $288\div3=96$ km/h; truck speed $288\div3.6=80$ km/h. Faster by $96-80=16$ km/h.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -70,7 +78,9 @@ Bus speed $288\div3=96$ km/h; truck speed $288\div3.6=80$ km/h. Faster by $96-80
 
 ### Solution to Exercise 5
 
-$50000$ m$^2$ is $5$ times $10000$ m$^2$, absorbing $2.8\times5=14$ t per week. The $8$th month has $31$ days $=4$ weeks and $3$ extra days, absorbing $14\div7=2$ t per day, so $31$ days absorb $2\times31=62$ t. $\blacksquare$
+$50000$ m$^2$ is $5$ times $10000$ m$^2$, absorbing $2.8\times5=14$ t per week. The $8$th month has $31$ days $=4$ weeks and $3$ extra days, absorbing $14\div7=2$ t per day, so $31$ days absorb $2\times31=62$ t.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -78,7 +88,9 @@ $50000$ m$^2$ is $5$ times $10000$ m$^2$, absorbing $2.8\times5=14$ t per week. 
 
 ### Solution to Exercise 6
 
-Moving the quotient's point one place right gives $24.6$, so the correct quotient is $2.46$. Divisor $=3.69\div2.46=1.5$. $\blacksquare$
+Moving the quotient's point one place right gives $24.6$, so the correct quotient is $2.46$. Divisor $=3.69\div2.46=1.5$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -86,7 +98,9 @@ Moving the quotient's point one place right gives $24.6$, so the correct quotien
 
 ### Solution to Exercise 7
 
-By **Definition 9.4.1 (Axially Symmetric Figures)**, corresponding points on the figure are equidistant from the axis, and the segment joining them is perpendicular to the axis. $\blacksquare$
+By **Definition 9.4.1 (Axially Symmetric Figures)**, corresponding points on the figure are equidistant from the axis, and the segment joining them is perpendicular to the axis.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -94,7 +108,9 @@ By **Definition 9.4.1 (Axially Symmetric Figures)**, corresponding points on the
 
 ### Solution to Exercise 8
 
-By **Definition 9.4.1 (轴对称图形)**, first find several key points of the figure, measure each point's distance to the axis, draw the corresponding point the same distance on the other side, then connect them in the original order. $\blacksquare$
+By **Definition 9.4.1 (轴对称图形)**, first find several key points of the figure, measure each point's distance to the axis, draw the corresponding point the same distance on the other side, then connect them in the original order.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -102,7 +118,9 @@ By **Definition 9.4.1 (轴对称图形)**, first find several key points of the 
 
 ### Solution to Exercise 9
 
-By **Definition 9.4.1 (轴对称图形)**, count the squares from each corresponding point to the axis, draw the matching point the same distance on the other side, then connect them to complete the figure. $\blacksquare$
+By **Definition 9.4.1 (轴对称图形)**, count the squares from each corresponding point to the axis, draw the matching point the same distance on the other side, then connect them to complete the figure.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -110,7 +128,9 @@ By **Definition 9.4.1 (轴对称图形)**, count the squares from each correspon
 
 ### Solution to Exercise 10
 
-By **Definition 9.4.2 (Translation)**, after translation the shape, size and direction are unchanged, and corresponding points move equal distances. To draw it: pick a key point, count $8$ squares to the right to find its image, then draw the whole figure by reference to the original. $\blacksquare$
+By **Definition 9.4.2 (Translation)**, after translation the shape, size and direction are unchanged, and corresponding points move equal distances. To draw it: pick a key point, count $8$ squares to the right to find its image, then draw the whole figure by reference to the original.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -118,7 +138,9 @@ By **Definition 9.4.2 (Translation)**, after translation the shape, size and dir
 
 ### Solution to Exercise 11
 
-By **Definition 9.4.2 (平移)**, count the squares between each animal and its food, determine the direction and distance, and describe the translation path. $\blacksquare$
+By **Definition 9.4.2 (平移)**, count the squares between each animal and its food, determine the direction and distance, and describe the translation path.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -126,7 +148,9 @@ By **Definition 9.4.2 (平移)**, count the squares between each animal and its 
 
 ### Solution to Exercise 12
 
-By **Definition 9.4.2 (平移)**, pick key points, translate them by the counted squares, find their images, then connect them. $\blacksquare$
+By **Definition 9.4.2 (平移)**, pick key points, translate them by the counted squares, find their images, then connect them.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -134,7 +158,9 @@ By **Definition 9.4.2 (平移)**, pick key points, translate them by the counted
 
 ### Solution to Exercise 13
 
-By **Definition 9.4.2 (平移)**, translation does not change area; the transformed rectangle has area $6\times4=24$ cm$^2$, so the original figure's area is $24$ cm$^2$. $\blacksquare$
+By **Definition 9.4.2 (平移)**, translation does not change area; the transformed rectangle has area $6\times4=24$ cm$^2$, so the original figure's area is $24$ cm$^2$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -142,7 +168,9 @@ By **Definition 9.4.2 (平移)**, translation does not change area; the transfor
 
 ### Solution to Exercise 14
 
-By **Definition 9.4.2 (平移)**, translate the irregular parts into a regular figure (a rectangle or triangle), then compute its area. $\blacksquare$
+By **Definition 9.4.2 (平移)**, translate the irregular parts into a regular figure (a rectangle or triangle), then compute its area.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -150,7 +178,9 @@ By **Definition 9.4.2 (平移)**, translate the irregular parts into a regular f
 
 ### Solution to Exercise 15
 
-By **Definition 9.4.1 (轴对称图形)**, the line along which the figure folds onto itself is the axis; draw it as a dashed line. $\blacksquare$
+By **Definition 9.4.1 (轴对称图形)**, the line along which the figure folds onto itself is the axis; draw it as a dashed line.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -158,7 +188,9 @@ By **Definition 9.4.1 (轴对称图形)**, the line along which the figure folds
 
 ### Solution to Exercise 16
 
-By **Definition 9.4.1 (轴对称图形)**, find key points, draw matching points equidistant on the other side of the axis, then connect them. $\blacksquare$
+By **Definition 9.4.1 (轴对称图形)**, find key points, draw matching points equidistant on the other side of the axis, then connect them.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -166,7 +198,9 @@ By **Definition 9.4.1 (轴对称图形)**, find key points, draw matching points
 
 ### Solution to Exercise 17
 
-By **Definition 9.4.2 (平移)**, pick key points and translate them by the specified direction and number of squares, find their images, then connect them. $\blacksquare$
+By **Definition 9.4.2 (平移)**, pick key points and translate them by the specified direction and number of squares, find their images, then connect them.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -174,7 +208,9 @@ By **Definition 9.4.2 (平移)**, pick key points and translate them by the spec
 
 ### Solution to Exercise 18
 
-By **Definition 9.4.1 (axial symmetry)**, the unfolded figure is symmetric to the folded cut-out about the fold line; connect accordingly. $\blacksquare$
+By **Definition 9.4.1 (axial symmetry)**, the unfolded figure is symmetric to the folded cut-out about the fold line; connect accordingly.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -182,7 +218,9 @@ By **Definition 9.4.1 (axial symmetry)**, the unfolded figure is symmetric to th
 
 ### Solution to Exercise 19
 
-By **Definition 9.4.2 (translation)**, move the shaded parts together, then count what fraction of the total squares they cover. $\blacksquare$
+By **Definition 9.4.2 (translation)**, move the shaded parts together, then count what fraction of the total squares they cover.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -190,7 +228,9 @@ By **Definition 9.4.2 (translation)**, move the shaded parts together, then coun
 
 ### Solution to Exercise 20
 
-By **Definition 9.4.3 (Rotation)**, the hand rotates about point O clockwise. The clock face has $12$ large marks totaling $360^\circ$, each mark $30^\circ$; moving from "12" to "1" rotates by $30^\circ$. $\blacksquare$
+By **Definition 9.4.3 (Rotation)**, the hand rotates about point O clockwise. The clock face has $12$ large marks totaling $360^\circ$, each mark $30^\circ$; moving from "12" to "1" rotates by $30^\circ$.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -198,7 +238,9 @@ By **Definition 9.4.3 (Rotation)**, the hand rotates about point O clockwise. Th
 
 ### Solution to Exercise 21
 
-By **Definition 9.4.3 (旋转)**, point O stays fixed during rotation, each leg of the ruler rotates $90^\circ$ clockwise about O, and the lengths are unchanged. $\blacksquare$
+By **Definition 9.4.3 (旋转)**, point O stays fixed during rotation, each leg of the ruler rotates $90^\circ$ clockwise about O, and the lengths are unchanged.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -206,7 +248,9 @@ By **Definition 9.4.3 (旋转)**, point O stays fixed during rotation, each leg 
 
 ### Solution to Exercise 22
 
-By **Definition 9.4.3 (旋转)**, when right-side vehicles pass, the arm rotates $90^\circ$ counterclockwise about point $O_2$. $\blacksquare$
+By **Definition 9.4.3 (旋转)**, when right-side vehicles pass, the arm rotates $90^\circ$ counterclockwise about point $O_2$.
+
+$\blacksquare$
 
 ## Exercise 23
 
@@ -214,7 +258,9 @@ By **Definition 9.4.3 (旋转)**, when right-side vehicles pass, the arm rotates
 
 ### Solution to Exercise 23
 
-By **Definition 9.4.3 (旋转)**, first rotate segment OB $90^\circ$ clockwise about O to draw OB', then rotate segment OA $90^\circ$ clockwise about O to draw OA', and connect A' and B'. $\blacksquare$
+By **Definition 9.4.3 (旋转)**, first rotate segment OB $90^\circ$ clockwise about O to draw OB', then rotate segment OA $90^\circ$ clockwise about O to draw OA', and connect A' and B'.
+
+$\blacksquare$
 
 ## Exercise 24
 
@@ -222,4 +268,6 @@ By **Definition 9.4.3 (旋转)**, first rotate segment OB $90^\circ$ clockwise a
 
 ### Solution to Exercise 24
 
-By **Definition 9.4.3 (旋转)**, same method as before, but with the rotation changed to $90^\circ$ counterclockwise. $\blacksquare$
+By **Definition 9.4.3 (旋转)**, same method as before, but with the rotation changed to $90^\circ$ counterclockwise.
+
+$\blacksquare$

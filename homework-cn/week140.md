@@ -26,7 +26,9 @@
 
 ### 解答 练习一
 
-由**定义 12.4.2 (圆柱的侧面积与表面积)**, 侧面积 $=2\pi{r}h$, 故 $h=188.4\div\left(2\times3.14\times2\right)=188.4\div12.56=15\,\mathrm{dm}$. $\blacksquare$
+由**定义 12.4.2 (圆柱的侧面积与表面积)**, 侧面积 $=2\pi{r}h$, 故 $h=188.4\div\left(2\times3.14\times2\right)=188.4\div12.56=15\,\mathrm{dm}$.
+
+$\blacksquare$
 
 ## 练习二
 
@@ -34,7 +36,9 @@
 
 ### 解答 练习二
 
-由**定义 12.4.2 (圆柱的侧面积与表面积)**, 侧面展开是正方形, 则底面周长 $=$ 高. 底面周长 $=\pi{d}$, 故高 $=\pi{d}$, 直径与高的比 $d:h=d:\pi{d}=1:\pi$. $\blacksquare$
+由**定义 12.4.2 (圆柱的侧面积与表面积)**, 侧面展开是正方形, 则底面周长 $=$ 高. 底面周长 $=\pi{d}$, 故高 $=\pi{d}$, 直径与高的比 $d:h=d:\pi{d}=1:\pi$.
+
+$\blacksquare$
 
 ## 练习三
 
@@ -42,7 +46,9 @@
 
 ### 解答 练习三
 
-由**定义 12.4.3 (圆柱的体积)**, $V=Sh=75\times90=6750\,\mathrm{cm}^{3}$. $\blacksquare$
+由**定义 12.4.3 (圆柱的体积)**, $V=Sh=75\times90=6750\,\mathrm{cm}^{3}$.
+
+$\blacksquare$
 
 ## 练习四
 
@@ -50,7 +56,9 @@
 
 ### 解答 练习四
 
-由**定义 12.4.3 (圆柱的体积)**, 半径 $=0.5\,\mathrm{m}$, $V=\pi{r}^{2}h=3.14\times0.5^{2}\times10=7.85\,\mathrm{m}^{3}$. $\blacksquare$
+由**定义 12.4.3 (圆柱的体积)**, 半径 $=0.5\,\mathrm{m}$, $V=\pi{r}^{2}h=3.14\times0.5^{2}\times10=7.85\,\mathrm{m}^{3}$.
+
+$\blacksquare$
 
 ## 练习五
 
@@ -58,7 +66,9 @@
 
 ### 解答 练习五
 
-由**定义 12.4.3 (圆柱的体积)**, 杯子容积 $=\pi\times\left(8\div2\right)^{2}\times10=3.14\times16\times10=502.4\,\mathrm{cm}^{3}=502.4\,\mathrm{mL}$. 两袋牛奶 $=240\times2=480\,\mathrm{mL}$. $502.4>480$, 能装下. $\blacksquare$
+由**定义 12.4.3 (圆柱的体积)**, 杯子容积 $=\pi\times\left(8\div2\right)^{2}\times10=3.14\times16\times10=502.4\,\mathrm{cm}^{3}=502.4\,\mathrm{mL}$. 两袋牛奶 $=240\times2=480\,\mathrm{mL}$. $502.4>480$, 能装下.
+
+$\blacksquare$
 
 ## 练习六
 
@@ -66,7 +76,9 @@
 
 ### 解答 练习六
 
-由**定义 12.4.3 (圆柱的体积)**, 壶的容积 $=\pi\times4^{2}\times15=3.14\times16\times15=753.6\,\mathrm{cm}^{3}=753.6\,\mathrm{mL}$. $1\,\mathrm{L}=1000\,\mathrm{mL}$, $753.6<1000$, 不够喝. $\blacksquare$
+由**定义 12.4.3 (圆柱的体积)**, 壶的容积 $=\pi\times4^{2}\times15=3.14\times16\times15=753.6\,\mathrm{cm}^{3}=753.6\,\mathrm{mL}$. $1\,\mathrm{L}=1000\,\mathrm{mL}$, $753.6<1000$, 不够喝.
+
+$\blacksquare$
 
 ## 练习七
 
@@ -74,7 +86,9 @@
 
 ### 解答 练习七
 
-由**定义 12.4.3 (圆柱的体积)**, 瓶子容积 $=$ 水的体积 $+$ 无水部分体积 $=\pi\times4^{2}\times\left(7+18\right)=3.14\times16\times25=1256\,\mathrm{cm}^{3}=1256\,\mathrm{mL}$. $\blacksquare$
+由**定义 12.4.3 (圆柱的体积)**, 瓶子容积 $=$ 水的体积 $+$ 无水部分体积 $=\pi\times4^{2}\times\left(7+18\right)=3.14\times16\times25=1256\,\mathrm{cm}^{3}=1256\,\mathrm{mL}$.
+
+$\blacksquare$
 
 ## 练习八
 
@@ -82,7 +96,9 @@
 
 ### 解答 练习八
 
-由**定义 12.4.3 (圆柱的体积)**, $V=Sh$, 故 $h=V\div{S}=80\div16=5\,\mathrm{cm}$. $\blacksquare$
+由**定义 12.4.3 (圆柱的体积)**, $V=Sh$, 故 $h=V\div{S}=80\div16=5\,\mathrm{cm}$.
+
+$\blacksquare$
 
 ## 练习九
 
@@ -90,7 +106,9 @@
 
 ### 解答 练习九
 
-由**定义 12.4.3 (圆柱的体积)**, 容积 $=\pi\times1^{2}\times2=6.28\,\mathrm{m}^{3}$; 装玉米 $6.28\times750=4710\,\mathrm{kg}=4.71$ 吨. $\blacksquare$
+由**定义 12.4.3 (圆柱的体积)**, 容积 $=\pi\times1^{2}\times2=6.28\,\mathrm{m}^{3}$; 装玉米 $6.28\times750=4710\,\mathrm{kg}=4.71$ 吨.
+
+$\blacksquare$
 
 ## 练习十
 
@@ -98,7 +116,9 @@
 
 ### 解答 练习十
 
-由**定义 12.4.3 (圆柱的体积)**, 铁块体积等于下降的那部分水的体积: $V=\pi\times\left(10\div2\right)^{2}\times2=3.14\times25\times2=157\,\mathrm{cm}^{3}$. $\blacksquare$
+由**定义 12.4.3 (圆柱的体积)**, 铁块体积等于下降的那部分水的体积: $V=\pi\times\left(10\div2\right)^{2}\times2=3.14\times25\times2=157\,\mathrm{cm}^{3}$.
+
+$\blacksquare$
 
 ## 练习十一
 
@@ -106,7 +126,9 @@
 
 ### 解答 练习十一
 
-由**定义 12.4.4 (圆锥的认识)**, 圆锥底部的圆是底面, 周围的曲面是侧面, 从顶点到底面圆心的垂直距离是高. 分别在图上指出即可. $\blacksquare$
+由**定义 12.4.4 (圆锥的认识)**, 圆锥底部的圆是底面, 周围的曲面是侧面, 从顶点到底面圆心的垂直距离是高. 分别在图上指出即可.
+
+$\blacksquare$
 
 ## 练习十二
 
@@ -114,7 +136,9 @@
 
 ### 解答 练习十二
 
-由**定义 12.4.5 (圆锥的体积)**, 底面积 $=\pi\times2^{2}=12.56\,\mathrm{m}^{2}$; 体积 $=\frac{1}{3}\times12.56\times1.5=6.28\,\mathrm{m}^{3}$; 重 $=6.28\times1.5=9.42\,\mathrm{t}$. $\blacksquare$
+由**定义 12.4.5 (圆锥的体积)**, 底面积 $=\pi\times2^{2}=12.56\,\mathrm{m}^{2}$; 体积 $=\frac{1}{3}\times12.56\times1.5=6.28\,\mathrm{m}^{3}$; 重 $=6.28\times1.5=9.42\,\mathrm{t}$.
+
+$\blacksquare$
 
 ## 练习十三
 
@@ -122,7 +146,9 @@
 
 ### 解答 练习十三
 
-由**定义 12.4.5 (圆锥的体积)**, $V=\frac{1}{3}Sh=\frac{1}{3}\times19\times12=76\,\mathrm{cm}^{3}$. $\blacksquare$
+由**定义 12.4.5 (圆锥的体积)**, $V=\frac{1}{3}Sh=\frac{1}{3}\times19\times12=76\,\mathrm{cm}^{3}$.
+
+$\blacksquare$
 
 ## 练习十四
 
@@ -130,7 +156,9 @@
 
 ### 解答 练习十四
 
-由**定义 12.4.5 (圆锥的体积)**, 体积 $=\frac{1}{3}\times\pi\times2^{2}\times6=\frac{1}{3}\times3.14\times4\times6=25.12\,\mathrm{cm}^{3}$; 重 $=25.12\times7.9\approx198\,\mathrm{g}$. $\blacksquare$
+由**定义 12.4.5 (圆锥的体积)**, 体积 $=\frac{1}{3}\times\pi\times2^{2}\times6=\frac{1}{3}\times3.14\times4\times6=25.12\,\mathrm{cm}^{3}$; 重 $=25.12\times7.9\approx198\,\mathrm{g}$.
+
+$\blacksquare$
 
 ## 练习十五
 
@@ -138,7 +166,9 @@
 
 ### 解答 练习十五
 
-由**定义 12.4.5 (圆锥的体积)**, 等底等高时圆锥体积是圆柱的 $\frac{1}{3}$. (1) 圆锥 $=75.36\div3=25.12\,\mathrm{m}^{3}$. (2) 圆柱 $=141.3\times3=423.9\,\mathrm{m}^{3}$. $\blacksquare$
+由**定义 12.4.5 (圆锥的体积)**, 等底等高时圆锥体积是圆柱的 $\frac{1}{3}$. (1) 圆锥 $=75.36\div3=25.12\,\mathrm{m}^{3}$. (2) 圆柱 $=141.3\times3=423.9\,\mathrm{m}^{3}$.
+
+$\blacksquare$
 
 ## 练习十六
 
@@ -146,7 +176,9 @@
 
 ### 解答 练习十六
 
-由**定义 12.4.5 (圆锥的体积)**, 半径 $r=31.4\div\left(2\times3.14\right)=5\,\mathrm{cm}$; 体积 $=\frac{1}{3}\times\pi\times5^{2}\times9=\frac{1}{3}\times3.14\times25\times9=235.5\,\mathrm{cm}^{3}$. $\blacksquare$
+由**定义 12.4.5 (圆锥的体积)**, 半径 $r=31.4\div\left(2\times3.14\right)=5\,\mathrm{cm}$; 体积 $=\frac{1}{3}\times\pi\times5^{2}\times9=\frac{1}{3}\times3.14\times25\times9=235.5\,\mathrm{cm}^{3}$.
+
+$\blacksquare$
 
 ## 练习十七
 
@@ -154,4 +186,6 @@
 
 ### 解答 练习十七
 
-由**定义 12.4.3 (圆柱的体积)** 与**定义 12.4.5 (圆锥的体积)**, 底面积相等时, 圆锥高是圆柱高的 $3$ 倍才能使体积相等: 圆锥高 $=4\times3=12\,\mathrm{dm}$. $\blacksquare$
+由**定义 12.4.3 (圆柱的体积)** 与**定义 12.4.5 (圆锥的体积)**, 底面积相等时, 圆锥高是圆柱高的 $3$ 倍才能使体积相等: 圆锥高 $=4\times3=12\,\mathrm{dm}$.
+
+$\blacksquare$

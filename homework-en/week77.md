@@ -22,7 +22,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: first draw a right angle, mark off $4$ cm and $3$ cm on the two legs, and then draw perpendiculars that meet at a point. A square has four equal sides and four right angles. $\blacksquare$
+By **Definition 7.6.1 (Parallel and Perpendicular)**: first draw a right angle, mark off $4$ cm and $3$ cm on the two legs, and then draw perpendiculars that meet at a point. A square has four equal sides and four right angles.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -30,7 +32,9 @@ By **Definition 7.6.1 (Parallel and Perpendicular)**: first draw a right angle, 
 
 ### Solution to Exercise 2
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: check with a set square and a ruler — those that do not intersect when extended are parallel, and those that intersect at a right angle are perpendicular. $\blacksquare$
+By **Definition 7.6.1 (Parallel and Perpendicular)**: check with a set square and a ruler — those that do not intersect when extended are parallel, and those that intersect at a right angle are perpendicular.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -38,7 +42,9 @@ By **Definition 7.6.1 (Parallel and Perpendicular)**: check with a set square an
 
 ### Solution to Exercise 3
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: folding twice in the same direction gives three parallel creases; folding once each in two perpendicular directions gives two perpendicular creases. $\blacksquare$
+By **Definition 7.6.1 (Parallel and Perpendicular)**: folding twice in the same direction gives three parallel creases; folding once each in two perpendicular directions gives two perpendicular creases.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -46,7 +52,9 @@ By **Definition 7.6.1 (Parallel and Perpendicular)**: folding twice in the same 
 
 ### Solution to Exercise 4
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: (1) two lines parallel to the same line are parallel to each other; (2) two lines perpendicular to the same line are parallel to each other. $\blacksquare$
+By **Definition 7.6.1 (Parallel and Perpendicular)**: (1) two lines parallel to the same line are parallel to each other; (2) two lines perpendicular to the same line are parallel to each other.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -54,7 +62,9 @@ By **Definition 7.6.1 (Parallel and Perpendicular)**: (1) two lines parallel to 
 
 ### Solution to Exercise 5
 
-By **Definition 7.6.1 (Parallel and Perpendicular)** and the straight angle $180^{\circ}$, the adjacent angle is $=180^{\circ}-90^{\circ}=90^{\circ}$, so all four angles are right angles. $\blacksquare$
+By **Definition 7.6.1 (Parallel and Perpendicular)** and the straight angle $180^{\circ}$, the adjacent angle is $=180^{\circ}-90^{\circ}=90^{\circ}$, so all four angles are right angles.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -62,7 +72,9 @@ By **Definition 7.6.1 (Parallel and Perpendicular)** and the straight angle $180
 
 ### Solution to Exercise 6
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: use a set square to draw the perpendicular to $BC$ through point $A$; the foot of the perpendicular lies on $BC$ or on its extension. $\blacksquare$
+By **Definition 7.6.1 (Parallel and Perpendicular)**: use a set square to draw the perpendicular to $BC$ through point $A$; the foot of the perpendicular lies on $BC$ or on its extension.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -70,7 +82,9 @@ By **Definition 7.6.1 (Parallel and Perpendicular)**: use a set square to draw t
 
 ### Solution to Exercise 7
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: segments that never intersect when extended are parallel, so color them the same. $\blacksquare$
+By **Definition 7.6.1 (Parallel and Perpendicular)**: segments that never intersect when extended are parallel, so color them the same.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -78,7 +92,9 @@ By **Definition 7.6.1 (Parallel and Perpendicular)**: segments that never inters
 
 ### Solution to Exercise 8
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: through the endpoints draw perpendiculars and mark off the corresponding lengths, then connect them. $\blacksquare$
+By **Definition 7.6.1 (Parallel and Perpendicular)**: through the endpoints draw perpendiculars and mark off the corresponding lengths, then connect them.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -86,7 +102,9 @@ By **Definition 7.6.1 (Parallel and Perpendicular)**: through the endpoints draw
 
 ### Solution to Exercise 9
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: adjacent edges on every face of a cuboid or cube are perpendicular to each other. $\blacksquare$
+By **Definition 7.6.1 (Parallel and Perpendicular)**: adjacent edges on every face of a cuboid or cube are perpendicular to each other.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -94,7 +112,9 @@ By **Definition 7.6.1 (Parallel and Perpendicular)**: adjacent edges on every fa
 
 ### Solution to Exercise 10
 
-By **Definition 7.6.2 (Distance from a Point to a Line)**: draw a perpendicular segment from the heel of the footprint to the take-off line; measuring the length of this perpendicular segment gives the result. $\blacksquare$
+By **Definition 7.6.2 (Distance from a Point to a Line)**: draw a perpendicular segment from the heel of the footprint to the take-off line; measuring the length of this perpendicular segment gives the result.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -102,7 +122,9 @@ By **Definition 7.6.2 (Distance from a Point to a Line)**: draw a perpendicular 
 
 ### Solution to Exercise 11
 
-By **Definition 7.6.2 (Distance from a Point to a Line)**: draw a perpendicular segment from Xingfu Town to the highway; building the road along this perpendicular is the shortest. $\blacksquare$
+By **Definition 7.6.2 (Distance from a Point to a Line)**: draw a perpendicular segment from Xingfu Town to the highway; building the road along this perpendicular is the shortest.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -110,7 +132,9 @@ By **Definition 7.6.2 (Distance from a Point to a Line)**: draw a perpendicular 
 
 ### Solution to Exercise 12
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: take a few points on $a$ and draw perpendicular segments to $b$; if their lengths are all equal, the lines are parallel. $\blacksquare$
+By **Definition 7.6.1 (Parallel and Perpendicular)**: take a few points on $a$ and draw perpendicular segments to $b$; if their lengths are all equal, the lines are parallel.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -118,7 +142,9 @@ By **Definition 7.6.1 (Parallel and Perpendicular)**: take a few points on $a$ a
 
 ### Solution to Exercise 13
 
-When a line cuts two parallel lines, corresponding angles are equal, i.e. $\angle1=\angle2$. $\blacksquare$
+When a line cuts two parallel lines, corresponding angles are equal, i.e. $\angle1=\angle2$.
+
+$\blacksquare$
 
 (Figure: two horizontal parallel lines $a$ and $b$, cut by a slanting transversal intersecting $a$ at one point and $b$ at another; the corresponding angles to the right of the transversal and below each parallel line are labeled $\angle1$ and $\angle2$.)
 
@@ -128,7 +154,9 @@ When a line cuts two parallel lines, corresponding angles are equal, i.e. $\angl
 
 ### Solution to Exercise 14
 
-By **Definition 7.6.3 (Parallelogram)**: draw quadrilaterals with two pairs of opposite sides parallel. $\blacksquare$
+By **Definition 7.6.3 (Parallelogram)**: draw quadrilaterals with two pairs of opposite sides parallel.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -136,7 +164,9 @@ By **Definition 7.6.3 (Parallelogram)**: draw quadrilaterals with two pairs of o
 
 ### Solution to Exercise 15
 
-By **Definition 7.6.3 (Parallelogram)**: piece two identical triangles together hypotenuse to hypotenuse to obtain a parallelogram. $\blacksquare$
+By **Definition 7.6.3 (Parallelogram)**: piece two identical triangles together hypotenuse to hypotenuse to obtain a parallelogram.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -144,7 +174,9 @@ By **Definition 7.6.3 (Parallelogram)**: piece two identical triangles together 
 
 ### Solution to Exercise 16
 
-By **Definition 7.6.3 (Parallelogram)**: opposite angles are equal and adjacent angles sum to $180^{\circ}$ — the opposite angle is also $135^{\circ}$, and the other two angles are $=180^{\circ}-135^{\circ}=45^{\circ}$; opposite sides are equal. $\blacksquare$
+By **Definition 7.6.3 (Parallelogram)**: opposite angles are equal and adjacent angles sum to $180^{\circ}$ — the opposite angle is also $135^{\circ}$, and the other two angles are $=180^{\circ}-135^{\circ}=45^{\circ}$; opposite sides are equal.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -152,7 +184,9 @@ By **Definition 7.6.3 (Parallelogram)**: opposite angles are equal and adjacent 
 
 ### Solution to Exercise 17
 
-By **Definition 7.6.4 (Trapezoid)**: one with equal legs is an isosceles trapezoid, and one with a right angle is a right trapezoid. $\blacksquare$
+By **Definition 7.6.4 (Trapezoid)**: one with equal legs is an isosceles trapezoid, and one with a right angle is a right trapezoid.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -160,7 +194,9 @@ By **Definition 7.6.4 (Trapezoid)**: one with equal legs is an isosceles trapezo
 
 ### Solution to Exercise 18
 
-By **Definition 7.6.4 (Trapezoid)**: a quadrilateral with only one pair of parallel sides is a trapezoid; count the trapezoids according to the combinations of segments in the figure. $\blacksquare$
+By **Definition 7.6.4 (Trapezoid)**: a quadrilateral with only one pair of parallel sides is a trapezoid; count the trapezoids according to the combinations of segments in the figure.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -168,7 +204,9 @@ By **Definition 7.6.4 (Trapezoid)**: a quadrilateral with only one pair of paral
 
 ### Solution to Exercise 19
 
-By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: draw a segment not parallel to the sides to divide it into two trapezoids; adjust its position as required to obtain a right trapezoid or an isosceles trapezoid. $\blacksquare$
+By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: draw a segment not parallel to the sides to divide it into two trapezoids; adjust its position as required to obtain a right trapezoid or an isosceles trapezoid.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -176,7 +214,9 @@ By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: dr
 
 ### Solution to Exercise 20
 
-By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: a parallelogram has two pairs of opposite sides parallel, while a trapezoid has only one pair. $\blacksquare$
+By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: a parallelogram has two pairs of opposite sides parallel, while a trapezoid has only one pair.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -184,7 +224,9 @@ By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: a 
 
 ### Solution to Exercise 21
 
-By **Definition 7.6.3 (Parallelogram)**: the quadrilateral enclosed by two intersecting sets of parallel lines has two pairs of opposite sides parallel, so it is a parallelogram. $\blacksquare$
+By **Definition 7.6.3 (Parallelogram)**: the quadrilateral enclosed by two intersecting sets of parallel lines has two pairs of opposite sides parallel, so it is a parallelogram.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -192,7 +234,9 @@ By **Definition 7.6.3 (Parallelogram)**: the quadrilateral enclosed by two inter
 
 ### Solution to Exercise 22
 
-By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: making a cut not parallel to a side gives two trapezoids; cutting from a point on the upper base along a segment parallel to a leg may leave the other piece as a triangle or a trapezoid. $\blacksquare$
+By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: making a cut not parallel to a side gives two trapezoids; cutting from a point on the upper base along a segment parallel to a leg may leave the other piece as a triangle or a trapezoid.
+
+$\blacksquare$
 
 ## Exercise 23
 
@@ -200,7 +244,9 @@ By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: ma
 
 ### Solution to Exercise 23
 
-By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: it might be a parallelogram, a trapezoid, or an irregular quadrilateral, depending on whether the exposed sides are parallel. $\blacksquare$
+By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: it might be a parallelogram, a trapezoid, or an irregular quadrilateral, depending on whether the exposed sides are parallel.
+
+$\blacksquare$
 
 ## Exercise 24
 
@@ -208,7 +254,9 @@ By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: it
 
 ### Solution to Exercise 24
 
-By **Definition 7.6.3 (Parallelogram)**: opposite sides are equal, so $AB+BC=42\div2=21$ m, and $BC=21-13=8$ m. $\blacksquare$
+By **Definition 7.6.3 (Parallelogram)**: opposite sides are equal, so $AB+BC=42\div2=21$ m, and $BC=21-13=8$ m.
+
+$\blacksquare$
 
 ## Exercise 25
 
@@ -216,7 +264,9 @@ By **Definition 7.6.3 (Parallelogram)**: opposite sides are equal, so $AB+BC=42\
 
 ### Solution to Exercise 25
 
-By **Definition 7.6.4 (Trapezoid)**: cutting a rectangular paper diagonally gives a right trapezoid; folding it in half and then cutting gives an isosceles trapezoid. $\blacksquare$
+By **Definition 7.6.4 (Trapezoid)**: cutting a rectangular paper diagonally gives a right trapezoid; folding it in half and then cutting gives an isosceles trapezoid.
+
+$\blacksquare$
 
 ## Exercise 26
 
@@ -224,7 +274,9 @@ By **Definition 7.6.4 (Trapezoid)**: cutting a rectangular paper diagonally give
 
 ### Solution to Exercise 26
 
-By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: four equal sticks can form a parallelogram (a rhombus); two long and two short sticks can form a rectangle or a parallelogram; other combinations can form a trapezoid or an irregular quadrilateral. $\blacksquare$
+By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: four equal sticks can form a parallelogram (a rhombus); two long and two short sticks can form a rectangle or a parallelogram; other combinations can form a trapezoid or an irregular quadrilateral.
+
+$\blacksquare$
 
 ## Exercise 27
 
@@ -232,7 +284,9 @@ By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: fo
 
 ### Solution to Exercise 27
 
-By **Definition 7.6.3 (Parallelogram)**: adjust the non-parallel sides so that the two pairs of opposite sides are parallel. $\blacksquare$
+By **Definition 7.6.3 (Parallelogram)**: adjust the non-parallel sides so that the two pairs of opposite sides are parallel.
+
+$\blacksquare$
 
 ## Exercise 28
 
@@ -240,7 +294,9 @@ By **Definition 7.6.3 (Parallelogram)**: adjust the non-parallel sides so that t
 
 ### Solution to Exercise 28
 
-By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: identify the parallelograms and trapezoids in the figure according to which sides are parallel. $\blacksquare$
+By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: identify the parallelograms and trapezoids in the figure according to which sides are parallel.
+
+$\blacksquare$
 
 ## Exercise 29
 
@@ -248,4 +304,6 @@ By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: id
 
 ### Solution to Exercise 29
 
-By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: try arranging the pieces according to their side lengths and angles. $\blacksquare$
+By **Definition 7.6.3 (Parallelogram)** and **Definition 7.6.4 (Trapezoid)**: try arranging the pieces according to their side lengths and angles.
+
+$\blacksquare$

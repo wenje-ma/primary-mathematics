@@ -38,7 +38,9 @@
 
 ### Solution to Exercise 1
 
-Following "as shown", circle the objects in each group whose quantity matches the number on the left, i.e. circle out $5$ cucumbers, $3$ eggplants, $2$ tomatoes, and $4$ green peppers respectively. $\blacksquare$
+Following "as shown", circle the objects in each group whose quantity matches the number on the left, i.e. circle out $5$ cucumbers, $3$ eggplants, $2$ tomatoes, and $4$ green peppers respectively.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -46,7 +48,9 @@ Following "as shown", circle the objects in each group whose quantity matches th
 
 ### Solution to Exercise 2
 
-By **Definition 1.1.1 (Cardinal Number)**, the numbers $1,2,3,4,5$ represent $1,2,3,4,5$ objects respectively. Thus $1$ connects to $1$ book, $2$ to $2$ shuttlecocks, $3$ to $3$ badminton shuttlecocks, $4$ to $4$ boxes of crayons, and $5$ to $5$ crayons. $\blacksquare$
+By **Definition 1.1.1 (Cardinal Number)**, the numbers $1,2,3,4,5$ represent $1,2,3,4,5$ objects respectively. Thus $1$ connects to $1$ book, $2$ to $2$ shuttlecocks, $3$ to $3$ badminton shuttlecocks, $4$ to $4$ boxes of crayons, and $5$ to $5$ crayons.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -54,7 +58,9 @@ By **Definition 1.1.1 (Cardinal Number)**, the numbers $1,2,3,4,5$ represent $1,
 
 ### Solution to Exercise 3
 
-By **Definition 1.1.1 (Cardinal Number)**, count the number of each animal and write the corresponding numbers: $1,4,3,2$. $\blacksquare$
+By **Definition 1.1.1 (Cardinal Number)**, count the number of each animal and write the corresponding numbers: $1,4,3,2$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -62,7 +68,9 @@ By **Definition 1.1.1 (Cardinal Number)**, count the number of each animal and w
 
 ### Solution to Exercise 4
 
-You may use sticks, draw flowers or circles, hold up number cards, or any other method to represent each number; the method is not unique, as long as the quantity matches correctly. $\blacksquare$
+You may use sticks, draw flowers or circles, hold up number cards, or any other method to represent each number; the method is not unique, as long as the quantity matches correctly.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -70,7 +78,9 @@ You may use sticks, draw flowers or circles, hold up number cards, or any other 
 
 ### Solution to Exercise 5
 
-By **Definition 1.1.1 (Cardinal Number)**, there are $4$ squirrels, each eating $1$, so $4$ pinecones are needed. Choose the pile with exactly $4$ pinecones and draw a "√". $\blacksquare$
+By **Definition 1.1.1 (Cardinal Number)**, there are $4$ squirrels, each eating $1$, so $4$ pinecones are needed. Choose the pile with exactly $4$ pinecones and draw a "√".
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -78,7 +88,9 @@ By **Definition 1.1.1 (Cardinal Number)**, there are $4$ squirrels, each eating 
 
 ### Solution to Exercise 6
 
-By **Definition 1.1.2 (Same Amount, More, Fewer)**, the roosters are fewer, so draw a "√" behind the roosters. $\blacksquare$
+By **Definition 1.1.2 (Same Amount, More, Fewer)**, the roosters are fewer, so draw a "√" behind the roosters.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -88,7 +100,9 @@ By **Definition 1.1.2 (Same Amount, More, Fewer)**, the roosters are fewer, so d
 
 By **Definition 1.1.3 (Equals Sign, Greater-Than Sign, Less-Than Sign)**, the opening faces the larger number:
 
-$4>3$, $3<4$, $3>2$, $2<3$. $\blacksquare$
+$4>3$, $3<4$, $3>2$, $2<3$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -96,7 +110,9 @@ $4>3$, $3<4$, $3>2$, $2<3$. $\blacksquare$
 
 ### Solution to Exercise 8
 
-By **Definition 1.1.2 (Same Amount, More, Fewer)**, the rabbits and blocks are the same amount; the rabbits are more than the carrots (or the carrots are fewer than the rabbits). Write the comparison sentence according to the actual quantities in the picture; for example, if there are $3$ rabbits and $1$ carrot, then $3>1$. You can also compare the numbers of bears and chairs, etc. $\blacksquare$
+By **Definition 1.1.2 (Same Amount, More, Fewer)**, the rabbits and blocks are the same amount; the rabbits are more than the carrots (or the carrots are fewer than the rabbits). Write the comparison sentence according to the actual quantities in the picture; for example, if there are $3$ rabbits and $1$ carrot, then $3>1$. You can also compare the numbers of bears and chairs, etc.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -104,7 +120,9 @@ By **Definition 1.1.2 (Same Amount, More, Fewer)**, the rabbits and blocks are t
 
 ### Solution to Exercise 9
 
-By **Definition 1.1.3 (Equals Sign, Greater-Than Sign, Less-Than Sign)**: $5>2$, $3<5$, $4>3$, $5=5$, $4>1$. $\blacksquare$
+By **Definition 1.1.3 (Equals Sign, Greater-Than Sign, Less-Than Sign)**: $5>2$, $3<5$, $4>3$, $5=5$, $4>1$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -112,7 +130,9 @@ By **Definition 1.1.3 (Equals Sign, Greater-Than Sign, Less-Than Sign)**: $5>2$,
 
 ### Solution to Exercise 10
 
-By **Definition 1.1.2 (Same Amount, More, Fewer)**, draw $4$ $\triangle$, draw more than $4$ $\circ$ (e.g. $5$), and draw fewer than $4$ $\diamond$ (e.g. $3$), corresponding to $4=4$, $4<5$, $4>3$. $\blacksquare$
+By **Definition 1.1.2 (Same Amount, More, Fewer)**, draw $4$ $\triangle$, draw more than $4$ $\circ$ (e.g. $5$), and draw fewer than $4$ $\diamond$ (e.g. $3$), corresponding to $4=4$, $4<5$, $4>3$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -120,7 +140,9 @@ By **Definition 1.1.2 (Same Amount, More, Fewer)**, draw $4$ $\triangle$, draw m
 
 ### Solution to Exercise 11
 
-$4>2$, $4<5$, $3>1$. $\blacksquare$
+$4>2$, $4<5$, $3>1$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -128,7 +150,9 @@ $4>2$, $4<5$, $3>1$. $\blacksquare$
 
 ### Solution to Exercise 12
 
-It is not fair because the two sides have different numbers of people. By **Definition 1.1.2 (Same Amount, More, Fewer)**, make the two sides have the same number of people; for example, increase the left side to $5$ people, or reduce the right side to $3$ people, or adjust both sides so the numbers are equal. $\blacksquare$
+It is not fair because the two sides have different numbers of people. By **Definition 1.1.2 (Same Amount, More, Fewer)**, make the two sides have the same number of people; for example, increase the left side to $5$ people, or reduce the right side to $3$ people, or adjust both sides so the numbers are equal.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -136,7 +160,9 @@ It is not fair because the two sides have different numbers of people. By **Defi
 
 ### Solution to Exercise 13
 
-Not necessarily. By **Definition 1.1.2 (Same Amount, More, Fewer)**, its peaches are "the ones in the basket plus the $3$ displayed"; it is truly more than the other only when the number of peaches in the basket is greater than $0$. If the basket is empty, they are the same amount. $\blacksquare$
+Not necessarily. By **Definition 1.1.2 (Same Amount, More, Fewer)**, its peaches are "the ones in the basket plus the $3$ displayed"; it is truly more than the other only when the number of peaches in the basket is greater than $0$. If the basket is empty, they are the same amount.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -144,7 +170,9 @@ Not necessarily. By **Definition 1.1.2 (Same Amount, More, Fewer)**, its peaches
 
 ### Solution to Exercise 14
 
-(1) By **Definition 1.1.4 (Cardinal Number and Ordinal Number)**, counting from left to right, circle the first $4$ birds and color the $4$th from the left. (2) There were originally $5$ birds; $1$ flies away, so $4$ remain. $\blacksquare$
+(1) By **Definition 1.1.4 (Cardinal Number and Ordinal Number)**, counting from left to right, circle the first $4$ birds and color the $4$th from the left. (2) There were originally $5$ birds; $1$ flies away, so $4$ remain.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -152,7 +180,9 @@ Not necessarily. By **Definition 1.1.2 (Same Amount, More, Fewer)**, its peaches
 
 ### Solution to Exercise 15
 
-The family in the picture has $4$ people in total; counting from the left, Mom is at position $2$. By **Definition 1.1.4 (Cardinal Number and Ordinal Number)**, one box tells "how many people in total" (cardinal) and the other tells "which position" (ordinal); they do not mean the same thing. $\blacksquare$
+The family in the picture has $4$ people in total; counting from the left, Mom is at position $2$. By **Definition 1.1.4 (Cardinal Number and Ordinal Number)**, one box tells "how many people in total" (cardinal) and the other tells "which position" (ordinal); they do not mean the same thing.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -160,7 +190,9 @@ The family in the picture has $4$ people in total; counting from the left, Mom i
 
 ### Solution to Exercise 16
 
-By **Definition 1.1.5 (Decomposition and Composition of Numbers)**, $4=1+3$, $4=2+2$, $4=3+1$. $\blacksquare$
+By **Definition 1.1.5 (Decomposition and Composition of Numbers)**, $4=1+3$, $4=2+2$, $4=3+1$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -168,7 +200,9 @@ By **Definition 1.1.5 (Decomposition and Composition of Numbers)**, $4=1+3$, $4=
 
 ### Solution to Exercise 17
 
-By **Definition 1.1.5 (Decomposition and Composition of Numbers)**, $3-1=2$, so the other hand has $2$. $\blacksquare$
+By **Definition 1.1.5 (Decomposition and Composition of Numbers)**, $3-1=2$, so the other hand has $2$.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -176,7 +210,9 @@ By **Definition 1.1.5 (Decomposition and Composition of Numbers)**, $3-1=2$, so 
 
 ### Solution to Exercise 18
 
-By **Definition 1.1.5 (Decomposition and Composition of Numbers)**: $3+2=5$; $1+1=2$; $2+1=3$; $1+3=4$; $1$ and $4$, $2$ and $3$, $3$ and $2$, $4$ and $1$ make $5$. $\blacksquare$
+By **Definition 1.1.5 (Decomposition and Composition of Numbers)**: $3+2=5$; $1+1=2$; $2+1=3$; $1+3=4$; $1$ and $4$, $2$ and $3$, $3$ and $2$, $4$ and $1$ make $5$.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -184,7 +220,9 @@ By **Definition 1.1.5 (Decomposition and Composition of Numbers)**: $3+2=5$; $1+
 
 ### Solution to Exercise 19
 
-No. By **Definition 1.1.5 (Decomposition and Composition of Numbers)**, $5$ is odd and cannot be split into two equal numbers; a total that can be split evenly must be even. $\blacksquare$
+No. By **Definition 1.1.5 (Decomposition and Composition of Numbers)**, $5$ is odd and cannot be split into two equal numbers; a total that can be split evenly must be even.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -192,7 +230,9 @@ No. By **Definition 1.1.5 (Decomposition and Composition of Numbers)**, $5$ is o
 
 ### Solution to Exercise 20
 
-By **Definition 1.1.4 (Cardinal Number and Ordinal Number)**, counting from left to right, the covered ones are the $3$rd and $4$th, and $2$ are covered. $\blacksquare$
+By **Definition 1.1.4 (Cardinal Number and Ordinal Number)**, counting from left to right, the covered ones are the $3$rd and $4$th, and $2$ are covered.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -200,7 +240,9 @@ By **Definition 1.1.4 (Cardinal Number and Ordinal Number)**, counting from left
 
 ### Solution to Exercise 21
 
-By **Definition 1.1.5 (Decomposition and Composition of Numbers)**: $5=2+3$, $4=2+2$, $5=1+4$, $4=1+3$, $5=3+2$, $5=4+1$. $\blacksquare$
+By **Definition 1.1.5 (Decomposition and Composition of Numbers)**: $5=2+3$, $4=2+2$, $5=1+4$, $4=1+3$, $5=3+2$, $5=4+1$.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -208,7 +250,9 @@ By **Definition 1.1.5 (Decomposition and Composition of Numbers)**: $5=2+3$, $4=
 
 ### Solution to Exercise 22
 
-By **Definition 1.1.1 (Cardinal Number)**, count the number of each animal; by **Definition 1.1.2 (Same Amount, More, Fewer)**, compare and fill in $\square\bigcirc\square$; choose any two categories in the picture and compare their quantities. $\blacksquare$
+By **Definition 1.1.1 (Cardinal Number)**, count the number of each animal; by **Definition 1.1.2 (Same Amount, More, Fewer)**, compare and fill in $\square\bigcirc\square$; choose any two categories in the picture and compare their quantities.
+
+$\blacksquare$
 
 ## Exercise 23
 
@@ -216,7 +260,9 @@ By **Definition 1.1.1 (Cardinal Number)**, count the number of each animal; by *
 
 ### Solution to Exercise 23
 
-By **Definition 1.1.6 (Meaning of Addition)**, $2+2=4$ means combining $2$ and $2$ gives $4$; $4+1=5$ means combining $4$ and $1$ gives $5$. $\blacksquare$
+By **Definition 1.1.6 (Meaning of Addition)**, $2+2=4$ means combining $2$ and $2$ gives $4$; $4+1=5$ means combining $4$ and $1$ gives $5$.
+
+$\blacksquare$
 
 ## Exercise 24
 
@@ -224,4 +270,6 @@ By **Definition 1.1.6 (Meaning of Addition)**, $2+2=4$ means combining $2$ and $
 
 ### Solution to Exercise 24
 
-By **Definition 1.1.6 (Meaning of Addition)**, $1+3=4$; $3+1=4$. $\blacksquare$
+By **Definition 1.1.6 (Meaning of Addition)**, $1+3=4$; $3+1=4$.
+
+$\blacksquare$

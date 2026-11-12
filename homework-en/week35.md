@@ -22,7 +22,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 4.3.2 (Finding How Many Times One Number Is Another)**, $9\div3=3$, so the long rope is $3$ times the short one. $\blacksquare$
+By **Definition 4.3.2 (Finding How Many Times One Number Is Another)**, $9\div3=3$, so the long rope is $3$ times the short one.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -30,7 +32,9 @@ By **Definition 4.3.2 (Finding How Many Times One Number Is Another)**, $9\div3=
 
 ### Solution to Exercise 2
 
-There are $2$ $\bigcirc$, and $4$ times that is $4$ copies of $2$, $2\times4=8$; draw $8$ $\triangle$ in the second row. $\blacksquare$
+There are $2$ $\bigcirc$, and $4$ times that is $4$ copies of $2$, $2\times4=8$; draw $8$ $\triangle$ in the second row.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -38,7 +42,9 @@ There are $2$ $\bigcirc$, and $4$ times that is $4$ copies of $2$, $2\times4=8$;
 
 ### Solution to Exercise 3
 
-By **Definition 4.3.2 (求一个数是另一个数的几倍)**, check whether the number of watermelons contains exactly $2$ copies of the number of pineapples. Count both fruits, divide the watermelon count by the pineapple count; she is right only if the quotient is $2$, otherwise she is wrong. $\blacksquare$
+By **Definition 4.3.2 (求一个数是另一个数的几倍)**, check whether the number of watermelons contains exactly $2$ copies of the number of pineapples. Count both fruits, divide the watermelon count by the pineapple count; she is right only if the quotient is $2$, otherwise she is wrong.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -46,7 +52,9 @@ By **Definition 4.3.2 (求一个数是另一个数的几倍)**, check whether th
 
 ### Solution to Exercise 4
 
-By **Definition 4.3.2 (Finding How Many Times One Number Is Another)**, divide the peach count by the banana count and the apple count by the pear count; the quotient is the number of times. Compute from the picture and fill in. $\blacksquare$
+By **Definition 4.3.2 (Finding How Many Times One Number Is Another)**, divide the peach count by the banana count and the apple count by the pear count; the quotient is the number of times. Compute from the picture and fill in.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -54,7 +62,9 @@ By **Definition 4.3.2 (Finding How Many Times One Number Is Another)**, divide t
 
 ### Solution to Exercise 5
 
-By **Definition 4.3.2 (求一个数是另一个数的几倍)**, divide the count of $\triangle$ by the count of $\bigcirc$ for the multiple; after taking one away the $\triangle$ decrease by $1$, and divide again by the count of $\bigcirc$ for the new multiple. Compute from the picture. $\blacksquare$
+By **Definition 4.3.2 (求一个数是另一个数的几倍)**, divide the count of $\triangle$ by the count of $\bigcirc$ for the multiple; after taking one away the $\triangle$ decrease by $1$, and divide again by the count of $\bigcirc$ for the new multiple. Compute from the picture.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -62,7 +72,9 @@ By **Definition 4.3.2 (求一个数是另一个数的几倍)**, divide the count
 
 ### Solution to Exercise 6
 
-(1) Divide the count of $\star$ in the first row by the count of $\triangle$. (2) For example, however many of each color there are, raise a problem like "how many times is one color the other?" and solve it with division. $\blacksquare$
+(1) Divide the count of $\star$ in the first row by the count of $\triangle$. (2) For example, however many of each color there are, raise a problem like "how many times is one color the other?" and solve it with division.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -70,7 +82,9 @@ By **Definition 4.3.2 (求一个数是另一个数的几倍)**, divide the count
 
 ### Solution to Exercise 7
 
-(1) By **Definition 4.3.2 (求一个数是另一个数的几倍)**, $36\div9=4$, so the mother's age is $4$ times Xiaoyu's. (2) For example how many times the grandmother is Xiaoyu: $63\div9=7$; how much older the mother is than Xiaoyu: $36-9=27$ years. $\blacksquare$
+(1) By **Definition 4.3.2 (求一个数是另一个数的几倍)**, $36\div9=4$, so the mother's age is $4$ times Xiaoyu's. (2) For example how many times the grandmother is Xiaoyu: $63\div9=7$; how much older the mother is than Xiaoyu: $36-9=27$ years.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -78,7 +92,9 @@ By **Definition 4.3.2 (求一个数是另一个数的几倍)**, divide the count
 
 ### Solution to Exercise 8
 
-By **Definition 4.3.2 (求一个数是另一个数的几倍)**, $18\div9=2$, so the sister wrote $2$ times as many as the brother. The sister wrote $18-9=9$ more characters than the brother. $\blacksquare$
+By **Definition 4.3.2 (求一个数是另一个数的几倍)**, $18\div9=2$, so the sister wrote $2$ times as many as the brother. The sister wrote $18-9=9$ more characters than the brother.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -86,7 +102,9 @@ By **Definition 4.3.2 (求一个数是另一个数的几倍)**, $18\div9=2$, so 
 
 ### Solution to Exercise 9
 
-(1) For example "how many times is the $18$-yuan one the $6$-yuan one": $18\div6=3$. (2) For example "how much more expensive": $18-6=12$ yuan. The answer is not unique. $\blacksquare$
+(1) For example "how many times is the $18$-yuan one the $6$-yuan one": $18\div6=3$. (2) For example "how much more expensive": $18-6=12$ yuan. The answer is not unique.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -94,7 +112,9 @@ By **Definition 4.3.2 (求一个数是另一个数的几倍)**, $18\div9=2$, so 
 
 ### Solution to Exercise 10
 
-By **Definition 4.3.3 (Finding a Multiple of a Number)**, $3$ times $9$ is $3$ copies of $9$, $9\times3=27$ yuan. A set of Chinese chess is $27$ yuan. $\blacksquare$
+By **Definition 4.3.3 (Finding a Multiple of a Number)**, $3$ times $9$ is $3$ copies of $9$, $9\times3=27$ yuan. A set of Chinese chess is $27$ yuan.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -102,7 +122,9 @@ By **Definition 4.3.3 (Finding a Multiple of a Number)**, $3$ times $9$ is $3$ c
 
 ### Solution to Exercise 11
 
-By **Definition 4.3.4 (Given the Multiple, Finding What $1$ Share Is)**, take the whale's body length as $1$ share; the ship has $3$ such shares, $24$ meters in all, so $24\div3=8$ meters. The whale is $8$ meters long. $\blacksquare$
+By **Definition 4.3.4 (Given the Multiple, Finding What $1$ Share Is)**, take the whale's body length as $1$ share; the ship has $3$ such shares, $24$ meters in all, so $24\div3=8$ meters. The whale is $8$ meters long.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -110,7 +132,9 @@ By **Definition 4.3.4 (Given the Multiple, Finding What $1$ Share Is)**, take th
 
 ### Solution to Exercise 12
 
-By **Definition 4.3.3 (Finding a Multiple of a Number)**, $4$ times $2$ hours is $2\times4=8$ hours. $\blacksquare$
+By **Definition 4.3.3 (Finding a Multiple of a Number)**, $4$ times $2$ hours is $2\times4=8$ hours.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -118,7 +142,9 @@ By **Definition 4.3.3 (Finding a Multiple of a Number)**, $4$ times $2$ hours is
 
 ### Solution to Exercise 13
 
-By **Definition 4.3.3 (求一个数的几倍是多少)**, $\bigcirc$ is $4$ times $8$, $8\times4=32$ items. There are $32$ $\bigcirc$. $\blacksquare$
+By **Definition 4.3.3 (求一个数的几倍是多少)**, $\bigcirc$ is $4$ times $8$, $8\times4=32$ items. There are $32$ $\bigcirc$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -126,7 +152,9 @@ By **Definition 4.3.3 (求一个数的几倍是多少)**, $\bigcirc$ is $4$ time
 
 ### Solution to Exercise 14
 
-(1) By **Definition 4.3.2 (求一个数是另一个数的几倍)**, $18\div6=3$, so the deer are $3$ times the monkeys. (2) For example how many times the rabbits are the monkeys: $24\div6=4$. The answer is not unique. $\blacksquare$
+(1) By **Definition 4.3.2 (求一个数是另一个数的几倍)**, $18\div6=3$, so the deer are $3$ times the monkeys. (2) For example how many times the rabbits are the monkeys: $24\div6=4$. The answer is not unique.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -134,7 +162,9 @@ By **Definition 4.3.3 (求一个数的几倍是多少)**, $\bigcirc$ is $4$ time
 
 ### Solution to Exercise 15
 
-(1) By **Definition 4.3.4 (已知几倍求 $1$ 份是多少)**, the middle shelf's $36$ books are $4$ times the bottom shelf, so the bottom shelf is $36\div4=9$ books. (2) By **Definition 4.3.3 (求一个数的几倍是多少)**, the top shelf is $3$ times the bottom shelf's $9$ books, $9\times3=27$ books. $\blacksquare$
+(1) By **Definition 4.3.4 (已知几倍求 $1$ 份是多少)**, the middle shelf's $36$ books are $4$ times the bottom shelf, so the bottom shelf is $36\div4=9$ books. (2) By **Definition 4.3.3 (求一个数的几倍是多少)**, the top shelf is $3$ times the bottom shelf's $9$ books, $9\times3=27$ books.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -142,7 +172,9 @@ By **Definition 4.3.3 (求一个数的几倍是多少)**, $\bigcirc$ is $4$ time
 
 ### Solution to Exercise 16
 
-By the tape diagram: (1) first find the segment that is the multiple, then add it to the $7$ items, such as $7\times$ multiple $+7$. (2) Read the multiple relation between the two segments; use multiplication or division for the meters, and write the expression per the multiple marked in the picture. $\blacksquare$
+By the tape diagram: (1) first find the segment that is the multiple, then add it to the $7$ items, such as $7\times$ multiple $+7$. (2) Read the multiple relation between the two segments; use multiplication or division for the meters, and write the expression per the multiple marked in the picture.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -150,7 +182,9 @@ By the tape diagram: (1) first find the segment that is the multiple, then add i
 
 ### Solution to Exercise 17
 
-(1) By **Definition 4.3.3 (求一个数的几倍是多少)**, the father is $6\times6=36$ years old. (2) Last year the father was $35$ and Xiaoli was $5$, $35\div5=7$, so last year the father's age was $7$ times Xiaoli's. $\blacksquare$
+(1) By **Definition 4.3.3 (求一个数的几倍是多少)**, the father is $6\times6=36$ years old. (2) Last year the father was $35$ and Xiaoli was $5$, $35\div5=7$, so last year the father's age was $7$ times Xiaoli's.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -158,7 +192,9 @@ By the tape diagram: (1) first find the segment that is the multiple, then add i
 
 ### Solution to Exercise 18
 
-After the $1$st hour there are $2$, after the $2$nd hour $4$, after the $3$rd hour $8$, $8\div1=8$. It is $8$ times the original. $\blacksquare$
+After the $1$st hour there are $2$, after the $2$nd hour $4$, after the $3$rd hour $8$, $8\div1=8$. It is $8$ times the original.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -166,7 +202,9 @@ After the $1$st hour there are $2$, after the $2$nd hour $4$, after the $3$rd ho
 
 ### Solution to Exercise 19
 
-After the gift the baby has $5+3=8$ cobs, and then the mother is $2$ times that, $8\times2=16$ cobs. These $16$ cobs are after giving away $3$, so the mother originally had $16+3=19$ cobs. $\blacksquare$
+After the gift the baby has $5+3=8$ cobs, and then the mother is $2$ times that, $8\times2=16$ cobs. These $16$ cobs are after giving away $3$, so the mother originally had $16+3=19$ cobs.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -174,4 +212,6 @@ After the gift the baby has $5+3=8$ cobs, and then the mother is $2$ times that,
 
 ### Solution to Exercise 20
 
-Goldfish lanterns: $7\times4=28$; $28-7=21$ more than rabbit lanterns. $\blacksquare$
+Goldfish lanterns: $7\times4=28$; $28-7=21$ more than rabbit lanterns.
+
+$\blacksquare$

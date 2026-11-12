@@ -22,7 +22,9 @@
 
 ### 解答 练习一
 
-由**定义 11.2.3 (分数混合运算与运算律)**: $2400\times\left(\frac{1}{3}+\frac{3}{8}+\frac{1}{6}\right)=2400\times\frac{5}{8}=1500$ (万千瓦时). $\blacksquare$
+由**定义 11.2.3 (分数混合运算与运算律)**: $2400\times\left(\frac{1}{3}+\frac{3}{8}+\frac{1}{6}\right)=2400\times\frac{5}{8}=1500$ (万千瓦时).
+
+$\blacksquare$
 
 ## 练习二
 
@@ -30,7 +32,9 @@
 
 ### 解答 练习二
 
-$6670\times\frac{9}{10}+297=6003+297=6300\;\text{km}$. $\blacksquare$
+$6670\times\frac{9}{10}+297=6003+297=6300\;\text{km}$.
+
+$\blacksquare$
 
 ## 练习三
 
@@ -38,7 +42,9 @@ $6670\times\frac{9}{10}+297=6003+297=6300\;\text{km}$. $\blacksquare$
 
 ### 解答 练习三
 
-规律: 两分数分子相同且等于两分母之和时, 和等于积. 第一组两分母 $2$ 与 $\square$, 分子 $5$, 即 $\frac{5}{3}+\frac{5}{2}=\frac{5}{3}\times\frac{5}{2}$. 第二组 $6=\frac{6}{1}$, 另一分母为 $5$: $6+\frac{6}{5}=6\times\frac{6}{5}$. $\blacksquare$
+规律: 两分数分子相同且等于两分母之和时, 和等于积. 第一组两分母 $2$ 与 $\square$, 分子 $5$, 即 $\frac{5}{3}+\frac{5}{2}=\frac{5}{3}\times\frac{5}{2}$. 第二组 $6=\frac{6}{1}$, 另一分母为 $5$: $6+\frac{6}{5}=6\times\frac{6}{5}$.
+
+$\blacksquare$
 
 ## 练习四
 
@@ -46,7 +52,9 @@ $6670\times\frac{9}{10}+297=6003+297=6300\;\text{km}$. $\blacksquare$
 
 ### 解答 练习四
 
-规律: 分子为 $1$, 分母是相邻自然数的两个分数, 它们的差等于它们的积, 即 $\frac{1}{n}-\frac{1}{n+1}=\frac{1}{n\left(n+1\right)}=\frac{1}{n}\times\frac{1}{n+1}$. 如 $\frac{1}{5}-\frac{1}{6}=\frac{1}{30}=\frac{1}{5}\times\frac{1}{6}$. $\blacksquare$
+规律: 分子为 $1$, 分母是相邻自然数的两个分数, 它们的差等于它们的积, 即 $\frac{1}{n}-\frac{1}{n+1}=\frac{1}{n\left(n+1\right)}=\frac{1}{n}\times\frac{1}{n+1}$. 如 $\frac{1}{5}-\frac{1}{6}=\frac{1}{30}=\frac{1}{5}\times\frac{1}{6}$.
+
+$\blacksquare$
 
 ## 练习五
 
@@ -54,7 +62,9 @@ $6670\times\frac{9}{10}+297=6003+297=6300\;\text{km}$. $\blacksquare$
 
 ### 解答 练习五
 
-由**定义 11.2.4 (连续求一个数的几分之几)**: $4800\times\frac{3}{5}\times\frac{1}{4}=2880\times\frac{1}{4}=720\;\text{m}^2$. 或 $4800\times\left(\frac{3}{5}\times\frac{1}{4}\right)=4800\times\frac{3}{20}=720\;\text{m}^2$. $\blacksquare$
+由**定义 11.2.4 (连续求一个数的几分之几)**: $4800\times\frac{3}{5}\times\frac{1}{4}=2880\times\frac{1}{4}=720\;\text{m}^2$. 或 $4800\times\left(\frac{3}{5}\times\frac{1}{4}\right)=4800\times\frac{3}{20}=720\;\text{m}^2$.
+
+$\blacksquare$
 
 ## 练习六
 
@@ -62,7 +72,9 @@ $6670\times\frac{9}{10}+297=6003+297=6300\;\text{km}$. $\blacksquare$
 
 ### 解答 练习六
 
-由**定义 11.2.4 (连续求一个数的几分之几)**: $36\times\frac{1}{3}\times\frac{3}{4}=12\times\frac{3}{4}=9$ (名). $\blacksquare$
+由**定义 11.2.4 (连续求一个数的几分之几)**: $36\times\frac{1}{3}\times\frac{3}{4}=12\times\frac{3}{4}=9$ (名).
+
+$\blacksquare$
 
 ## 练习七
 
@@ -70,7 +82,9 @@ $6670\times\frac{9}{10}+297=6003+297=6300\;\text{km}$. $\blacksquare$
 
 ### 解答 练习七
 
-由**定义 11.2.4 (连续求一个数的几分之几)**: $40\times\frac{3}{4}\times\frac{2}{3}=30\times\frac{2}{3}=20$ (年). $\blacksquare$
+由**定义 11.2.4 (连续求一个数的几分之几)**: $40\times\frac{3}{4}\times\frac{2}{3}=30\times\frac{2}{3}=20$ (年).
+
+$\blacksquare$
 
 ## 练习八
 
@@ -78,7 +92,9 @@ $6670\times\frac{9}{10}+297=6003+297=6300\;\text{km}$. $\blacksquare$
 
 ### 解答 练习八
 
-由**定义 11.2.2 (一个数乘分数)**: 先求减少量 $100\times\frac{1}{4}=25\;\text{kg}$, 再 $100-25=75\;\text{kg}$; 或先求现在是原来的几分之几 $100\times\left(1-\frac{1}{4}\right)=100\times\frac{3}{4}=75\;\text{kg}$. $\blacksquare$
+由**定义 11.2.2 (一个数乘分数)**: 先求减少量 $100\times\frac{1}{4}=25\;\text{kg}$, 再 $100-25=75\;\text{kg}$; 或先求现在是原来的几分之几 $100\times\left(1-\frac{1}{4}\right)=100\times\frac{3}{4}=75\;\text{kg}$.
+
+$\blacksquare$
 
 ## 练习九
 
@@ -86,7 +102,9 @@ $6670\times\frac{9}{10}+297=6003+297=6300\;\text{km}$. $\blacksquare$
 
 ### 解答 练习九
 
-由**定义 11.2.2 (一个数乘分数)**: $75\times\left(1+\frac{4}{5}\right)=75\times\frac{9}{5}=135$ (次). $\blacksquare$
+由**定义 11.2.2 (一个数乘分数)**: $75\times\left(1+\frac{4}{5}\right)=75\times\frac{9}{5}=135$ (次).
+
+$\blacksquare$
 
 ## 练习十
 
@@ -94,7 +112,9 @@ $6670\times\frac{9}{10}+297=6003+297=6300\;\text{km}$. $\blacksquare$
 
 ### 解答 练习十
 
-(1) $120\times\frac{5}{6}=100$ (棵), 即柳树和桃树共 $100$ 棵; 再按图中柳树与桃的份数求出桃树. (2) $160\times\frac{3}{4}\times\frac{4}{5}=96$ (个). $\blacksquare$
+(1) $120\times\frac{5}{6}=100$ (棵), 即柳树和桃树共 $100$ 棵; 再按图中柳树与桃的份数求出桃树. (2) $160\times\frac{3}{4}\times\frac{4}{5}=96$ (个).
+
+$\blacksquare$
 
 ## 练习十一
 
@@ -102,7 +122,9 @@ $6670\times\frac{9}{10}+297=6003+297=6300\;\text{km}$. $\blacksquare$
 
 ### 解答 练习十一
 
-由**定义 11.2.4 (连续求一个数的几分之几)**: $20\times\frac{2}{5}\times\frac{1}{160}=8\times\frac{1}{160}=\frac{1}{20}$ (厘米/秒). $\blacksquare$
+由**定义 11.2.4 (连续求一个数的几分之几)**: $20\times\frac{2}{5}\times\frac{1}{160}=8\times\frac{1}{160}=\frac{1}{20}$ (厘米/秒).
+
+$\blacksquare$
 
 ## 练习十二
 
@@ -110,7 +132,9 @@ $6670\times\frac{9}{10}+297=6003+297=6300\;\text{km}$. $\blacksquare$
 
 ### 解答 练习十二
 
-由**定义 11.2.4 (连续求一个数的几分之几)**: $32\times\frac{5}{8}\times\frac{3}{4}=20\times\frac{3}{4}=15$ (天). $\blacksquare$
+由**定义 11.2.4 (连续求一个数的几分之几)**: $32\times\frac{5}{8}\times\frac{3}{4}=20\times\frac{3}{4}=15$ (天).
+
+$\blacksquare$
 
 ## 练习十三
 
@@ -118,7 +142,9 @@ $6670\times\frac{9}{10}+297=6003+297=6300\;\text{km}$. $\blacksquare$
 
 ### 解答 练习十三
 
-(1) $60\times\left(1+\frac{1}{3}\right)=80$ (朵); (2) $180\times\left(1-\frac{1}{6}\right)=150$ (人). $\blacksquare$
+(1) $60\times\left(1+\frac{1}{3}\right)=80$ (朵); (2) $180\times\left(1-\frac{1}{6}\right)=150$ (人).
+
+$\blacksquare$
 
 ## 练习十四
 
@@ -126,7 +152,9 @@ $6670\times\frac{9}{10}+297=6003+297=6300\;\text{km}$. $\blacksquare$
 
 ### 解答 练习十四
 
-由**定义 11.2.2 (一个数乘分数)**: $80\times\left(1+\frac{5}{8}\right)=80\times\frac{13}{8}=130$ (千米/时). $\blacksquare$
+由**定义 11.2.2 (一个数乘分数)**: $80\times\left(1+\frac{5}{8}\right)=80\times\frac{13}{8}=130$ (千米/时).
+
+$\blacksquare$
 
 ## 练习十五
 
@@ -134,4 +162,6 @@ $6670\times\frac{9}{10}+297=6003+297=6300\;\text{km}$. $\blacksquare$
 
 ### 解答 练习十五
 
-由**定义 11.2.2 (一个数乘分数)**: $5\times\left(1-\frac{4}{5}\right)=5\times\frac{1}{5}=1$ (小时). $\blacksquare$
+由**定义 11.2.2 (一个数乘分数)**: $5\times\left(1-\frac{4}{5}\right)=5\times\frac{1}{5}=1$ (小时).
+
+$\blacksquare$

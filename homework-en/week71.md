@@ -30,7 +30,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 7.2.1 (Estimation by Sampling)**, weigh $100$ grains of rice and multiply by $1000000$ to get that $1$ hundred-million grains weigh about $2$ t; $1$ hundred-million seconds is about $3$ years and more, so writing $1$ hundred-million characters nonstop takes $3$ years and more. $\blacksquare$
+By **Definition 7.2.1 (Estimation by Sampling)**, weigh $100$ grains of rice and multiply by $1000000$ to get that $1$ hundred-million grains weigh about $2$ t; $1$ hundred-million seconds is about $3$ years and more, so writing $1$ hundred-million characters nonstop takes $3$ years and more.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -38,7 +40,9 @@ By **Definition 7.2.1 (Estimation by Sampling)**, weigh $100$ grains of rice and
 
 ### Solution to Exercise 2
 
-By **Definition 7.2.1 (Estimation by Sampling)**: weigh $100$ grains of rice, about $2$ g, so $1$ hundred-million grains weigh $2\times1000000=2000000$ g $=2$ t; $1$ hundred-million seconds $\approx100000000\div3600\approx27778$ hours $\approx1157$ days $\approx3.2$ years. $1$ hundred-million is a very large number. $\blacksquare$
+By **Definition 7.2.1 (Estimation by Sampling)**: weigh $100$ grains of rice, about $2$ g, so $1$ hundred-million grains weigh $2\times1000000=2000000$ g $=2$ t; $1$ hundred-million seconds $\approx100000000\div3600\approx27778$ hours $\approx1157$ days $\approx3.2$ years. $1$ hundred-million is a very large number.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -46,7 +50,9 @@ By **Definition 7.2.1 (Estimation by Sampling)**: weigh $100$ grains of rice, ab
 
 ### Solution to Exercise 3
 
-By **Definition 7.2.1 (Estimation by Sampling)**, $1$ dm $=0.1$ m; split evenly into $1$ hundred-million parts, each part is $0.1\div100000000=10^{-9}$ m $=1$ nanometer, and a nanometer is a very small unit of length. $\blacksquare$
+By **Definition 7.2.1 (Estimation by Sampling)**, $1$ dm $=0.1$ m; split evenly into $1$ hundred-million parts, each part is $0.1\div100000000=10^{-9}$ m $=1$ nanometer, and a nanometer is a very small unit of length.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -54,7 +60,9 @@ By **Definition 7.2.1 (Estimation by Sampling)**, $1$ dm $=0.1$ m; split evenly 
 
 ### Solution to Exercise 4
 
-By **Definition 7.3.2 (Classification of Angles)**, less than $90^{\circ}$ is an acute angle, equal to $90^{\circ}$ is a right angle, greater than $90^{\circ}$ and less than $180^{\circ}$ is an obtuse angle, equal to $180^{\circ}$ is a straight angle, and equal to $360^{\circ}$ is a full angle. $\blacksquare$
+By **Definition 7.3.2 (Classification of Angles)**, less than $90^{\circ}$ is an acute angle, equal to $90^{\circ}$ is a right angle, greater than $90^{\circ}$ and less than $180^{\circ}$ is an obtuse angle, equal to $180^{\circ}$ is a straight angle, and equal to $360^{\circ}$ is a full angle.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -62,7 +70,9 @@ By **Definition 7.3.2 (Classification of Angles)**, less than $90^{\circ}$ is an
 
 ### Solution to Exercise 5
 
-By **Definition 7.3.4 (How to Measure an Angle)**, one side of the angle matches the $0^{\circ}$ graduation line, and the graduation opposite the other side is the degree of the angle; just read it from the actual graduation in the picture. $\blacksquare$
+By **Definition 7.3.4 (How to Measure an Angle)**, one side of the angle matches the $0^{\circ}$ graduation line, and the graduation opposite the other side is the degree of the angle; just read it from the actual graduation in the picture.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -70,7 +80,9 @@ By **Definition 7.3.4 (How to Measure an Angle)**, one side of the angle matches
 
 ### Solution to Exercise 6
 
-By **Definition 7.3.4 (How to Measure an Angle)**, measure the two angles and compare. We find that the size of an angle does not depend on the length of its sides but only on how wide the two sides open. $\blacksquare$
+By **Definition 7.3.4 (How to Measure an Angle)**, measure the two angles and compare. We find that the size of an angle does not depend on the length of its sides but only on how wide the two sides open.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -78,7 +90,9 @@ By **Definition 7.3.4 (How to Measure an Angle)**, measure the two angles and co
 
 ### Solution to Exercise 7
 
-By **Definition 7.3.4 (How to Measure an Angle)**, measure each angle's degree following the measuring steps. $\blacksquare$
+By **Definition 7.3.4 (How to Measure an Angle)**, measure each angle's degree following the measuring steps.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -86,7 +100,9 @@ By **Definition 7.3.4 (How to Measure an Angle)**, measure each angle's degree f
 
 ### Solution to Exercise 8
 
-By **Definition 7.3.5 (How to Draw an Angle)**, first draw a ray, align the protractor center with the endpoint and the $0^{\circ}$ line with the ray, mark a point at the $75^{\circ}$ and $105^{\circ}$ graduations, then draw the ray. $\blacksquare$
+By **Definition 7.3.5 (How to Draw an Angle)**, first draw a ray, align the protractor center with the endpoint and the $0^{\circ}$ line with the ray, mark a point at the $75^{\circ}$ and $105^{\circ}$ graduations, then draw the ray.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -94,7 +110,9 @@ By **Definition 7.3.5 (How to Draw an Angle)**, first draw a ray, align the prot
 
 ### Solution to Exercise 9
 
-By **Definition 7.3.5 (How to Draw an Angle)**, draw each angle. Among them, $20^{\circ}$, $30^{\circ}$, $85^{\circ}$ are acute, and $120^{\circ}$, $135^{\circ}$ are obtuse. $\blacksquare$
+By **Definition 7.3.5 (How to Draw an Angle)**, draw each angle. Among them, $20^{\circ}$, $30^{\circ}$, $85^{\circ}$ are acute, and $120^{\circ}$, $135^{\circ}$ are obtuse.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -102,7 +120,9 @@ By **Definition 7.3.5 (How to Draw an Angle)**, draw each angle. Among them, $20
 
 ### Solution to Exercise 10
 
-By **Definition 7.3.4 (How to Measure an Angle)**, read each angle's degree from the protractor. $\blacksquare$
+By **Definition 7.3.4 (How to Measure an Angle)**, read each angle's degree from the protractor.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -110,7 +130,9 @@ By **Definition 7.3.4 (How to Measure an Angle)**, read each angle's degree from
 
 ### Solution to Exercise 11
 
-By **Definition 7.3.5 (How to Draw an Angle)**, one angle opens to the upper right and one to the upper left, and the angle between the sides and $OA$ is $50^{\circ}$ in both. $\blacksquare$
+By **Definition 7.3.5 (How to Draw an Angle)**, one angle opens to the upper right and one to the upper left, and the angle between the sides and $OA$ is $50^{\circ}$ in both.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -118,7 +140,9 @@ By **Definition 7.3.5 (How to Draw an Angle)**, one angle opens to the upper rig
 
 ### Solution to Exercise 12
 
-By **Definition 7.3.2 (Classification of Angles)**, judge by degree: less than $90^{\circ}$ acute, equal to $90^{\circ}$ right, $90^{\circ}\sim180^{\circ}$ obtuse, $180^{\circ}$ straight, $360^{\circ}$ full. $\blacksquare$
+By **Definition 7.3.2 (Classification of Angles)**, judge by degree: less than $90^{\circ}$ acute, equal to $90^{\circ}$ right, $90^{\circ}\sim180^{\circ}$ obtuse, $180^{\circ}$ straight, $360^{\circ}$ full.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -126,7 +150,9 @@ By **Definition 7.3.2 (Classification of Angles)**, judge by degree: less than $
 
 ### Solution to Exercise 13
 
-By **Definition 7.3.4 (How to Measure an Angle)**, measure each angle. A pair of set squares has angles $30^{\circ},60^{\circ},90^{\circ}$ and $45^{\circ},45^{\circ},90^{\circ}$, and can form $15^{\circ},75^{\circ},105^{\circ},120^{\circ},135^{\circ},150^{\circ},180^{\circ}$ and so on. $\blacksquare$
+By **Definition 7.3.4 (How to Measure an Angle)**, measure each angle. A pair of set squares has angles $30^{\circ},60^{\circ},90^{\circ}$ and $45^{\circ},45^{\circ},90^{\circ}$, and can form $15^{\circ},75^{\circ},105^{\circ},120^{\circ},135^{\circ},150^{\circ},180^{\circ}$ and so on.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -134,7 +160,9 @@ By **Definition 7.3.4 (How to Measure an Angle)**, measure each angle. A pair of
 
 ### Solution to Exercise 14
 
-By **Definition 7.3.4 (How to Measure an Angle)**, measure $\angle1,\angle2,\angle3,\angle4$. We find that vertical angles are equal, and two adjacent angles sum to $180^{\circ}$. $\blacksquare$
+By **Definition 7.3.4 (How to Measure an Angle)**, measure $\angle1,\angle2,\angle3,\angle4$. We find that vertical angles are equal, and two adjacent angles sum to $180^{\circ}$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -142,7 +170,9 @@ By **Definition 7.3.4 (How to Measure an Angle)**, measure $\angle1,\angle2,\ang
 
 ### Solution to Exercise 15
 
-By **Definition 7.3.3 (The Unit for Measuring Angles)**: (1) The line segment contains $1$ unit of $1$ cm; (2) the rectangle's area contains several units of $1$ cm$^2$; (3) the angle contains several units of $1^{\circ}$. Measuring means counting how many corresponding measuring units the measured figure contains. $\blacksquare$
+By **Definition 7.3.3 (The Unit for Measuring Angles)**: (1) The line segment contains $1$ unit of $1$ cm; (2) the rectangle's area contains several units of $1$ cm$^2$; (3) the angle contains several units of $1^{\circ}$. Measuring means counting how many corresponding measuring units the measured figure contains.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -150,7 +180,9 @@ By **Definition 7.3.3 (The Unit for Measuring Angles)**: (1) The line segment co
 
 ### Solution to Exercise 16
 
-By **Definition 7.3.4 (How to Measure an Angle)**, extend the two sides of the angle with a ruler and then measure with the protractor; the size of the angle does not depend on the length of the sides. $\blacksquare$
+By **Definition 7.3.4 (How to Measure an Angle)**, extend the two sides of the angle with a ruler and then measure with the protractor; the size of the angle does not depend on the length of the sides.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -158,7 +190,9 @@ By **Definition 7.3.4 (How to Measure an Angle)**, extend the two sides of the a
 
 ### Solution to Exercise 17
 
-$2$ rays form $1$ angle; $3$ rays form $3$ angles ($3\times2\div2=3$); $4$ rays form $6$ angles ($4\times3\div2=6$). $n$ rays form $n\left(n-1\right)\div2$ angles. $\blacksquare$
+$2$ rays form $1$ angle; $3$ rays form $3$ angles ($3\times2\div2=3$); $4$ rays form $6$ angles ($4\times3\div2=6$). $n$ rays form $n\left(n-1\right)\div2$ angles.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -166,7 +200,9 @@ $2$ rays form $1$ angle; $3$ rays form $3$ angles ($3\times2\div2=3$); $4$ rays 
 
 ### Solution to Exercise 18
 
-Combine commands by direction and distance: go straight $3$ grids to table ①, turn left $180^{\circ}$, go straight $3$ grids back to the pickup counter; use loop commands to simplify the repeated path. $\blacksquare$
+Combine commands by direction and distance: go straight $3$ grids to table ①, turn left $180^{\circ}$, go straight $3$ grids back to the pickup counter; use loop commands to simplify the repeated path.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -174,7 +210,9 @@ Combine commands by direction and distance: go straight $3$ grids to table ①, 
 
 ### Solution to Exercise 19
 
-By **Definition 7.3.4 (How to Measure an Angle)**, measure each angle's degree one by one. $\blacksquare$
+By **Definition 7.3.4 (How to Measure an Angle)**, measure each angle's degree one by one.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -182,7 +220,9 @@ By **Definition 7.3.4 (How to Measure an Angle)**, measure each angle's degree o
 
 ### Solution to Exercise 20
 
-By **Definition 7.3.5 (How to Draw an Angle)** draw the angles, and by **Definition 7.3.2 (Classification of Angles)** judge: $70^{\circ}$ acute, $60^{\circ}$ acute, $115^{\circ}$ obtuse, $150^{\circ}$ obtuse, $45^{\circ}$ acute, $180^{\circ}$ straight. $\blacksquare$
+By **Definition 7.3.5 (How to Draw an Angle)** draw the angles, and by **Definition 7.3.2 (Classification of Angles)** judge: $70^{\circ}$ acute, $60^{\circ}$ acute, $115^{\circ}$ obtuse, $150^{\circ}$ obtuse, $45^{\circ}$ acute, $180^{\circ}$ straight.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -190,4 +230,6 @@ By **Definition 7.3.5 (How to Draw an Angle)** draw the angles, and by **Definit
 
 ### Solution to Exercise 21
 
-By **Definition 7.3.2 (Classification of Angles)**: (1) Correct; a straight angle $180^{\circ}$ minus an acute angle (less than $90^{\circ}$) is greater than $90^{\circ}$ and less than $180^{\circ}$, so it is obtuse. (2) Wrong; $1$ full angle $=4$ right angles. (3) Wrong; for example $30^{\circ}+40^{\circ}=70^{\circ}<90^{\circ}$. (4) Correct; an acute angle plus a right angle is greater than $90^{\circ}$ and less than $180^{\circ}$, so it is obtuse. $\blacksquare$
+By **Definition 7.3.2 (Classification of Angles)**: (1) Correct; a straight angle $180^{\circ}$ minus an acute angle (less than $90^{\circ}$) is greater than $90^{\circ}$ and less than $180^{\circ}$, so it is obtuse. (2) Wrong; $1$ full angle $=4$ right angles. (3) Wrong; for example $30^{\circ}+40^{\circ}=70^{\circ}<90^{\circ}$. (4) Correct; an acute angle plus a right angle is greater than $90^{\circ}$ and less than $180^{\circ}$, so it is obtuse.
+
+$\blacksquare$

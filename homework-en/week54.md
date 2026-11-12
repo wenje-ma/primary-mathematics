@@ -22,7 +22,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 5.8.3 (同分母分数的加减法)**, take $1$ as $\frac{4}{4}$; $\frac{4}{4}-\frac{3}{4}=\frac{1}{4}$. What remains is $\frac{1}{4}$. $\blacksquare$
+By **Definition 5.8.3 (同分母分数的加减法)**, take $1$ as $\frac{4}{4}$; $\frac{4}{4}-\frac{3}{4}=\frac{1}{4}$. What remains is $\frac{1}{4}$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -30,7 +32,9 @@ By **Definition 5.8.3 (同分母分数的加减法)**, take $1$ as $\frac{4}{4}$
 
 ### Solution to Exercise 2
 
-By **Definition 5.8.3 (同分母分数的加减法)**, add or subtract the colored parts in the figure, keeping the denominator unchanged and adding or subtracting the numerators. Fill in according to the figure. $\blacksquare$
+By **Definition 5.8.3 (同分母分数的加减法)**, add or subtract the colored parts in the figure, keeping the denominator unchanged and adding or subtracting the numerators. Fill in according to the figure.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -38,7 +42,9 @@ By **Definition 5.8.3 (同分母分数的加减法)**, add or subtract the color
 
 ### Solution to Exercise 3
 
-(1) Each person drank $\frac{1}{5}$ of the bottle. (2) The children drank $\frac{3}{5}$ of the bottle, the elderly drank $\frac{2}{5}$, which is $\frac{3}{5}-\frac{2}{5}=\frac{1}{5}$ of a bottle more. $\blacksquare$
+(1) Each person drank $\frac{1}{5}$ of the bottle. (2) The children drank $\frac{3}{5}$ of the bottle, the elderly drank $\frac{2}{5}$, which is $\frac{3}{5}-\frac{2}{5}=\frac{1}{5}$ of a bottle more.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -46,7 +52,9 @@ By **Definition 5.8.3 (同分母分数的加减法)**, add or subtract the color
 
 ### Solution to Exercise 4
 
-$1-\frac{7}{10}=\frac{3}{10}$; $\frac{7}{10}-\frac{3}{10}=\frac{4}{10}$. The bracelet used $\frac{3}{10}$, which is $\frac{4}{10}$ less than the Chinese knot. $\blacksquare$
+$1-\frac{7}{10}=\frac{3}{10}$; $\frac{7}{10}-\frac{3}{10}=\frac{4}{10}$. The bracelet used $\frac{3}{10}$, which is $\frac{4}{10}$ less than the Chinese knot.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -54,7 +62,9 @@ $1-\frac{7}{10}=\frac{3}{10}$; $\frac{7}{10}-\frac{3}{10}=\frac{4}{10}$. The bra
 
 ### Solution to Exercise 5
 
-By **Definition 5.8.2 (Comparing the Sizes of Fractions)**, with the same denominator the fraction with the larger numerator is larger. Write the fractions first, then compare. $\blacksquare$
+By **Definition 5.8.2 (Comparing the Sizes of Fractions)**, with the same denominator the fraction with the larger numerator is larger. Write the fractions first, then compare.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -62,7 +72,9 @@ By **Definition 5.8.2 (Comparing the Sizes of Fractions)**, with the same denomi
 
 ### Solution to Exercise 6
 
-By **Definition 5.8.1 (分数的初步认识)**, only an evenly divided colored part can be represented by a fraction. Draw × for those that are not evenly divided. $\blacksquare$
+By **Definition 5.8.1 (分数的初步认识)**, only an evenly divided colored part can be represented by a fraction. Draw × for those that are not evenly divided.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -70,7 +82,9 @@ By **Definition 5.8.1 (分数的初步认识)**, only an evenly divided colored 
 
 ### Solution to Exercise 7
 
-By **Definition 5.8.1 (分数的初步认识)**, add the other half, equal in size to the existing part, so that the whole sheet is divided into $2$ equal parts. $\blacksquare$
+By **Definition 5.8.1 (分数的初步认识)**, add the other half, equal in size to the existing part, so that the whole sheet is divided into $2$ equal parts.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -78,7 +92,9 @@ By **Definition 5.8.1 (分数的初步认识)**, add the other half, equal in si
 
 ### Solution to Exercise 8
 
-By **Definition 5.8.1 (分数的初步认识)**, divide into $5$ equal parts and color $2$ to show $\frac{2}{5}$; divide into $9$ equal parts and color $4$ to show $\frac{4}{9}$. $\blacksquare$
+By **Definition 5.8.1 (分数的初步认识)**, divide into $5$ equal parts and color $2$ to show $\frac{2}{5}$; divide into $9$ equal parts and color $4$ to show $\frac{4}{9}$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -86,7 +102,9 @@ By **Definition 5.8.1 (分数的初步认识)**, divide into $5$ equal parts and
 
 ### Solution to Exercise 9
 
-By **Definition 5.8.1 (分数的初步认识)**, take the total number of parts as the denominator, the colored parts as the numerator, and the uncolored parts also as a numerator. Fill in according to the figure. $\blacksquare$
+By **Definition 5.8.1 (分数的初步认识)**, take the total number of parts as the denominator, the colored parts as the numerator, and the uncolored parts also as a numerator. Fill in according to the figure.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -94,7 +112,9 @@ By **Definition 5.8.1 (分数的初步认识)**, take the total number of parts 
 
 ### Solution to Exercise 10
 
-By **Definition 5.8.2 (分数的大小比较)**, with the same denominator the larger numerator is larger, for example $\frac{5}{9}>\frac{4}{9}$. $\blacksquare$
+By **Definition 5.8.2 (分数的大小比较)**, with the same denominator the larger numerator is larger, for example $\frac{5}{9}>\frac{4}{9}$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -102,7 +122,9 @@ By **Definition 5.8.2 (分数的大小比较)**, with the same denominator the l
 
 ### Solution to Exercise 11
 
-By **Definition 5.8.1 (分数的初步认识)**, look at how many equal parts the board is divided into; for example, divided into $2$ equal parts gives $\frac{1}{2}$ each, and into $4$ gives $\frac{1}{4}$ each. Estimate according to the figure. $\blacksquare$
+By **Definition 5.8.1 (分数的初步认识)**, look at how many equal parts the board is divided into; for example, divided into $2$ equal parts gives $\frac{1}{2}$ each, and into $4$ gives $\frac{1}{4}$ each. Estimate according to the figure.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -110,7 +132,9 @@ By **Definition 5.8.1 (分数的初步认识)**, look at how many equal parts th
 
 ### Solution to Exercise 12
 
-By **Definition 5.8.2 (分数的大小比较)**, write the fractions first, then compare: for the same denominator look at the numerator, for the same numerator look at the denominator. Fill in $\left(\,\right)<\left(\,\right)$ according to the figure. $\blacksquare$
+By **Definition 5.8.2 (分数的大小比较)**, write the fractions first, then compare: for the same denominator look at the numerator, for the same numerator look at the denominator. Fill in $\left(\,\right)<\left(\,\right)$ according to the figure.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -118,7 +142,9 @@ By **Definition 5.8.2 (分数的大小比较)**, write the fractions first, then
 
 ### Solution to Exercise 13
 
-Suppose it is divided into $10$ equal pieces: Xiaoming $\frac{2}{10}$, Mom $\frac{3}{10}$, Dad $\frac{4}{10}$, and the $1$ remaining piece is $\frac{1}{10}$. Fill in according to the actual total number of pieces in the figure. $\blacksquare$
+Suppose it is divided into $10$ equal pieces: Xiaoming $\frac{2}{10}$, Mom $\frac{3}{10}$, Dad $\frac{4}{10}$, and the $1$ remaining piece is $\frac{1}{10}$. Fill in according to the actual total number of pieces in the figure.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -126,7 +152,9 @@ Suppose it is divided into $10$ equal pieces: Xiaoming $\frac{2}{10}$, Mom $\fra
 
 ### Solution to Exercise 14
 
-Just make up a story about fractions; for example, a pie is divided evenly and two brothers each eat some fraction of it. $\blacksquare$
+Just make up a story about fractions; for example, a pie is divided evenly and two brothers each eat some fraction of it.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -134,7 +162,9 @@ Just make up a story about fractions; for example, a pie is divided evenly and t
 
 ### Solution to Exercise 15
 
-Re-divide the figure into equal parts and count how many parts the colored portion occupies. Fill in according to the figure. $\blacksquare$
+Re-divide the figure into equal parts and count how many parts the colored portion occupies. Fill in according to the figure.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -142,7 +172,9 @@ Re-divide the figure into equal parts and count how many parts the colored porti
 
 ### Solution to Exercise 16
 
-By **Definition 5.8.3 (同分母分数的加减法)**, to add or subtract fractions with the same denominator, keep the denominator unchanged and add or subtract the numerators. Fill in according to the figure. $\blacksquare$
+By **Definition 5.8.3 (同分母分数的加减法)**, to add or subtract fractions with the same denominator, keep the denominator unchanged and add or subtract the numerators. Fill in according to the figure.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -150,7 +182,9 @@ By **Definition 5.8.3 (同分母分数的加减法)**, to add or subtract fracti
 
 ### Solution to Exercise 17
 
-By **Definition 5.8.3 (同分母分数的加减法)**: $\frac{7}{9}+\frac{2}{9}=1$; $\frac{6}{6}-\frac{1}{6}=\frac{5}{6}$; $\frac{9}{9}-\frac{4}{9}=\frac{5}{9}$; $\frac{4}{6}-\frac{3}{6}=\frac{1}{6}$; $\frac{1}{7}+\frac{4}{7}=\frac{5}{7}$; $\frac{8}{8}-\frac{4}{8}=\frac{4}{8}$; $\frac{2}{3}+\frac{1}{3}=1$; $\frac{7}{10}+\frac{3}{10}=1$; $\frac{8}{5}+\frac{2}{5}=2$; $\frac{4}{9}-\frac{1}{9}=\frac{3}{9}$. $\blacksquare$
+By **Definition 5.8.3 (同分母分数的加减法)**: $\frac{7}{9}+\frac{2}{9}=1$; $\frac{6}{6}-\frac{1}{6}=\frac{5}{6}$; $\frac{9}{9}-\frac{4}{9}=\frac{5}{9}$; $\frac{4}{6}-\frac{3}{6}=\frac{1}{6}$; $\frac{1}{7}+\frac{4}{7}=\frac{5}{7}$; $\frac{8}{8}-\frac{4}{8}=\frac{4}{8}$; $\frac{2}{3}+\frac{1}{3}=1$; $\frac{7}{10}+\frac{3}{10}=1$; $\frac{8}{5}+\frac{2}{5}=2$; $\frac{4}{9}-\frac{1}{9}=\frac{3}{9}$.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -158,7 +192,9 @@ By **Definition 5.8.3 (同分母分数的加减法)**: $\frac{7}{9}+\frac{2}{9}=
 
 ### Solution to Exercise 18
 
-Altogether $\frac{1}{8}+\frac{3}{8}=\frac{4}{8}$; the lesser amount is $\frac{3}{8}-\frac{1}{8}=\frac{2}{8}$. $\blacksquare$
+Altogether $\frac{1}{8}+\frac{3}{8}=\frac{4}{8}$; the lesser amount is $\frac{3}{8}-\frac{1}{8}=\frac{2}{8}$.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -166,7 +202,9 @@ Altogether $\frac{1}{8}+\frac{3}{8}=\frac{4}{8}$; the lesser amount is $\frac{3}
 
 ### Solution to Exercise 19
 
-$1-\frac{2}{3}=\frac{1}{3}$. The four-person boats are $\frac{1}{3}$. $\blacksquare$
+$1-\frac{2}{3}=\frac{1}{3}$. The four-person boats are $\frac{1}{3}$.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -174,4 +212,6 @@ $1-\frac{2}{3}=\frac{1}{3}$. The four-person boats are $\frac{1}{3}$. $\blacksqu
 
 ### Solution to Exercise 20
 
-(1) The sum of the two numerators is $4$: $\frac{1}{5}+\frac{3}{5}=\frac{4}{5}$ (or $\frac{2}{5}+\frac{2}{5}$). (2) The difference of the two numerators is $1$: $\frac{5}{9}-\frac{4}{9}=\frac{1}{9}$, and so on. Answers may vary. $\blacksquare$
+(1) The sum of the two numerators is $4$: $\frac{1}{5}+\frac{3}{5}=\frac{4}{5}$ (or $\frac{2}{5}+\frac{2}{5}$). (2) The difference of the two numerators is $1$: $\frac{5}{9}-\frac{4}{9}=\frac{1}{9}$, and so on. Answers may vary.
+
+$\blacksquare$

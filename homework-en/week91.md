@@ -78,7 +78,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 8.3.8 (Convenient Calculation)**: $176+55+24+45=\left(176+24\right)+\left(55+45\right)=300$; $28\times25\times4=28\times100=2800$; $35\times19=35\times20-35=665$; $200-127-73=200-200=0$; $18\times15+12\times15=\left(18+12\right)\times15=450$; $457+99=457+100-1=556$. $\blacksquare$
+By **Definition 8.3.8 (Convenient Calculation)**: $176+55+24+45=\left(176+24\right)+\left(55+45\right)=300$; $28\times25\times4=28\times100=2800$; $35\times19=35\times20-35=665$; $200-127-73=200-200=0$; $18\times15+12\times15=\left(18+12\right)\times15=450$; $457+99=457+100-1=556$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -86,7 +88,9 @@ By **Definition 8.3.8 (Convenient Calculation)**: $176+55+24+45=\left(176+24\rig
 
 ### Solution to Exercise 2
 
-$1\,\mathrm{t}=1000\,\mathrm{kg}$ is $10$ times $100\,\mathrm{kg}$, yielding $13\times10=130\,\mathrm{kg}=0.13\,\mathrm{t}$ of oil. $\blacksquare$
+$1\,\mathrm{t}=1000\,\mathrm{kg}$ is $10$ times $100\,\mathrm{kg}$, yielding $13\times10=130\,\mathrm{kg}=0.13\,\mathrm{t}$ of oil.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -94,7 +98,9 @@ $1\,\mathrm{t}=1000\,\mathrm{kg}$ is $10$ times $100\,\mathrm{kg}$, yielding $13
 
 ### Solution to Exercise 3
 
-By **Definition 8.5.1 (A Triangle and Its Parts)**, a triangle has $3$ sides, $3$ angles and $3$ vertices. Drawing a perpendicular segment from each vertex to the opposite side gives a height, so one triangle can have $3$ heights. $\blacksquare$
+By **Definition 8.5.1 (A Triangle and Its Parts)**, a triangle has $3$ sides, $3$ angles and $3$ vertices. Drawing a perpendicular segment from each vertex to the opposite side gives a height, so one triangle can have $3$ heights.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -102,7 +108,9 @@ By **Definition 8.5.1 (A Triangle and Its Parts)**, a triangle has $3$ sides, $3
 
 ### Solution to Exercise 4
 
-By **Definition 8.5.2 (Stability of a Triangle)**, e.g. bicycle frames, triangular roof supports, triangular braces on utility poles, and the triangular structure of basketball stands. $\blacksquare$
+By **Definition 8.5.2 (Stability of a Triangle)**, e.g. bicycle frames, triangular roof supports, triangular braces on utility poles, and the triangular structure of basketball stands.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -110,7 +118,9 @@ By **Definition 8.5.2 (Stability of a Triangle)**, e.g. bicycle frames, triangul
 
 ### Solution to Exercise 5
 
-By **Definition 8.5.1 (Height and Base of a Triangle)**, align one right-angle side of the set square with the base, let the other right-angle side pass through the opposite vertex, and draw the perpendicular segment from the vertex to the base; that is the height. $\blacksquare$
+By **Definition 8.5.1 (Height and Base of a Triangle)**, align one right-angle side of the set square with the base, let the other right-angle side pass through the opposite vertex, and draw the perpendicular segment from the vertex to the base; that is the height.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -118,7 +128,9 @@ By **Definition 8.5.1 (Height and Base of a Triangle)**, align one right-angle s
 
 ### Solution to Exercise 6
 
-By **Definition 8.5.2 (Stability of a Triangle)**, the fence shaped into triangles is more sturdy, because a triangle is stable and does not deform when pulled. $\blacksquare$
+By **Definition 8.5.2 (Stability of a Triangle)**, the fence shaped into triangles is more sturdy, because a triangle is stable and does not deform when pulled.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -126,7 +138,9 @@ By **Definition 8.5.2 (Stability of a Triangle)**, the fence shaped into triangl
 
 ### Solution to Exercise 7
 
-By **Definition 8.5.5 (Classification by Angles)** and **Definition 8.5.6 (Isosceles Triangles)**, enclose figures matching the angle features of each kind; to be both acute and isosceles, two sides are equal and all three angles are acute. $\blacksquare$
+By **Definition 8.5.5 (Classification by Angles)** and **Definition 8.5.6 (Isosceles Triangles)**, enclose figures matching the angle features of each kind; to be both acute and isosceles, two sides are equal and all three angles are acute.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -134,7 +148,9 @@ By **Definition 8.5.5 (Classification by Angles)** and **Definition 8.5.6 (Isosc
 
 ### Solution to Exercise 8
 
-By **Definition 8.5.5 (Classification by Angles)** and **Definition 8.5.6 (Isosceles and Equilateral Triangles)**, connect each triangle to the corresponding category according to its angle and side features. $\blacksquare$
+By **Definition 8.5.5 (Classification by Angles)** and **Definition 8.5.6 (Isosceles and Equilateral Triangles)**, connect each triangle to the corresponding category according to its angle and side features.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -142,7 +158,9 @@ By **Definition 8.5.5 (Classification by Angles)** and **Definition 8.5.6 (Isosc
 
 ### Solution to Exercise 9
 
-By **Definition 8.5.4 (Relationship Among the Three Sides of a Triangle)**, it works when the sum of the two shorter sides is greater than the third side: (1) $6+7>8$, yes; (2) $3+3=6$, no; (3) $3+3>3$, yes; (4) $2+2<6$, no; (5) $3+3>5$, yes. $\blacksquare$
+By **Definition 8.5.4 (Relationship Among the Three Sides of a Triangle)**, it works when the sum of the two shorter sides is greater than the third side: (1) $6+7>8$, yes; (2) $3+3=6$, no; (3) $3+3>3$, yes; (4) $2+2<6$, no; (5) $3+3>5$, yes.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -150,7 +168,9 @@ By **Definition 8.5.4 (Relationship Among the Three Sides of a Triangle)**, it w
 
 ### Solution to Exercise 10
 
-By **Definition 8.5.3 (Distance Between Two Points)**, the segment between two points is the shortest, so the road directly connecting the post office and the school is the shortest. $\blacksquare$
+By **Definition 8.5.3 (Distance Between Two Points)**, the segment between two points is the shortest, so the road directly connecting the post office and the school is the shortest.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -158,7 +178,9 @@ By **Definition 8.5.3 (Distance Between Two Points)**, the segment between two p
 
 ### Solution to Exercise 11
 
-By **Definition 8.5.4 (Relationship Among the Three Sides of a Triangle)**, take any three sticks and check whether the sum of the two shorter sides is greater than the third; those satisfying it can form a triangle. Count the different combinations. $\blacksquare$
+By **Definition 8.5.4 (Relationship Among the Three Sides of a Triangle)**, take any three sticks and check whether the sum of the two shorter sides is greater than the third; those satisfying it can form a triangle. Count the different combinations.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -166,7 +188,9 @@ By **Definition 8.5.4 (Relationship Among the Three Sides of a Triangle)**, take
 
 ### Solution to Exercise 12
 
-By **Definition 8.5.5 (Classification by Angles)**, having no obtuse angle, it might be an acute triangle or a right triangle. $\blacksquare$
+By **Definition 8.5.5 (Classification by Angles)**, having no obtuse angle, it might be an acute triangle or a right triangle.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -174,7 +198,9 @@ By **Definition 8.5.5 (Classification by Angles)**, having no obtuse angle, it m
 
 ### Solution to Exercise 13
 
-Fold the rectangular paper in half, cut once along one side of the fold, and unfolding gives an isosceles triangle; cutting along the rectangle's diagonal gives an isosceles right triangle. $\blacksquare$
+Fold the rectangular paper in half, cut once along one side of the fold, and unfolding gives an isosceles triangle; cutting along the rectangle's diagonal gives an isosceles right triangle.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -182,7 +208,9 @@ Fold the rectangular paper in half, cut once along one side of the fold, and unf
 
 ### Solution to Exercise 14
 
-By **Definition 8.5.7 (Interior-Angle Sum of a Triangle)**: (1) $\angle2=180^\circ-140^\circ-25^\circ=15^\circ$. (2) The interior-angle sum of each small triangle is still $180^\circ$. $\blacksquare$
+By **Definition 8.5.7 (Interior-Angle Sum of a Triangle)**: (1) $\angle2=180^\circ-140^\circ-25^\circ=15^\circ$. (2) The interior-angle sum of each small triangle is still $180^\circ$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -190,7 +218,9 @@ By **Definition 8.5.7 (Interior-Angle Sum of a Triangle)**: (1) $\angle2=180^\ci
 
 ### Solution to Exercise 15
 
-Using the method of **Definition 8.5.8 (Interior-Angle Sum of a Quadrilateral)**, split the polygon from one vertex into several triangles; the interior-angle sum $=180^\circ\times$ the number of triangles. $\blacksquare$
+Using the method of **Definition 8.5.8 (Interior-Angle Sum of a Quadrilateral)**, split the polygon from one vertex into several triangles; the interior-angle sum $=180^\circ\times$ the number of triangles.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -198,7 +228,9 @@ Using the method of **Definition 8.5.8 (Interior-Angle Sum of a Quadrilateral)**
 
 ### Solution to Exercise 16
 
-By **Definition 8.5.7 (Interior-Angle Sum of a Triangle $180^\circ$)**: (1) $180^\circ-65^\circ-37^\circ=78^\circ$; (2) $90^\circ-30^\circ=60^\circ$; (3) $180^\circ-25^\circ-20^\circ=135^\circ$. $\blacksquare$
+By **Definition 8.5.7 (Interior-Angle Sum of a Triangle $180^\circ$)**: (1) $180^\circ-65^\circ-37^\circ=78^\circ$; (2) $90^\circ-30^\circ=60^\circ$; (3) $180^\circ-25^\circ-20^\circ=135^\circ$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -206,7 +238,9 @@ By **Definition 8.5.7 (Interior-Angle Sum of a Triangle $180^\circ$)**: (1) $180
 
 ### Solution to Exercise 17
 
-By **Definition 8.5.7 (Interior-Angle Sum)** and **Definition 8.5.6 (Isosceles Triangle)**: (1) each angle of an equilateral triangle is $60^\circ$; (2) base angle $=\left(180^\circ-96^\circ\right)\div2=42^\circ$, the three angles are $96^\circ,42^\circ,42^\circ$; (3) the other acute angle $=90^\circ-40^\circ=50^\circ$, the three angles are $90^\circ,40^\circ,50^\circ$. $\blacksquare$
+By **Definition 8.5.7 (Interior-Angle Sum)** and **Definition 8.5.6 (Isosceles Triangle)**: (1) each angle of an equilateral triangle is $60^\circ$; (2) base angle $=\left(180^\circ-96^\circ\right)\div2=42^\circ$, the three angles are $96^\circ,42^\circ,42^\circ$; (3) the other acute angle $=90^\circ-40^\circ=50^\circ$, the three angles are $90^\circ,40^\circ,50^\circ$.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -214,7 +248,9 @@ By **Definition 8.5.7 (Interior-Angle Sum)** and **Definition 8.5.6 (Isosceles T
 
 ### Solution to Exercise 18
 
-By **Definition 8.5.7 (Interior-Angle Sum)** and **Definition 8.5.6 (the two base angles of an isosceles triangle are equal)**, the vertex angle $=180^\circ-70^\circ\times2=40^\circ$. $\blacksquare$
+By **Definition 8.5.7 (Interior-Angle Sum)** and **Definition 8.5.6 (the two base angles of an isosceles triangle are equal)**, the vertex angle $=180^\circ-70^\circ\times2=40^\circ$.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -222,7 +258,9 @@ By **Definition 8.5.7 (Interior-Angle Sum)** and **Definition 8.5.6 (the two bas
 
 ### Solution to Exercise 19
 
-A quadrilateral splits into $2$ triangles, interior-angle sum $180^\circ\times2=360^\circ$; a pentagon splits into $3$ triangles, interior-angle sum $180^\circ\times3=540^\circ$. The discovery: an $n$-gon's interior-angle sum $=180^\circ\times\left(n-2\right)$. $\blacksquare$
+A quadrilateral splits into $2$ triangles, interior-angle sum $180^\circ\times2=360^\circ$; a pentagon splits into $3$ triangles, interior-angle sum $180^\circ\times3=540^\circ$. The discovery: an $n$-gon's interior-angle sum $=180^\circ\times\left(n-2\right)$.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -230,4 +268,6 @@ A quadrilateral splits into $2$ triangles, interior-angle sum $180^\circ\times2=
 
 ### Solution to Exercise 20
 
-By **Definition 8.5.5 (Classification by Angles)** and **Definition 8.5.6 (Base Angles of Isosceles Triangle)**: one right angle and two equal sides $\to$ isosceles right triangle; only two acute angles and no right angle $\to$ obtuse triangle; three equal angles $\to$ equilateral triangle; no right angle and no obtuse angle $\to$ acute triangle. $\blacksquare$
+By **Definition 8.5.5 (Classification by Angles)** and **Definition 8.5.6 (Base Angles of Isosceles Triangle)**: one right angle and two equal sides $\to$ isosceles right triangle; only two acute angles and no right angle $\to$ obtuse triangle; three equal angles $\to$ equilateral triangle; no right angle and no obtuse angle $\to$ acute triangle.
+
+$\blacksquare$

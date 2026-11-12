@@ -16,7 +16,9 @@ The figure: a grid with the horizontal axis (column) numbered $1$ to $10$ left t
 
 ### Solution to Exercise 1
 
-By **Definition 11.1.1 (Ordered Pairs)**, read each point's column and row: $A\left(5,9\right)$, $B\left(1,5\right)$, $C\left(5,1\right)$, $D\left(9,5\right)$. $\blacksquare$
+By **Definition 11.1.1 (Ordered Pairs)**, read each point's column and row: $A\left(5,9\right)$, $B\left(1,5\right)$, $C\left(5,1\right)$, $D\left(9,5\right)$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -24,7 +26,9 @@ By **Definition 11.1.1 (Ordered Pairs)**, read each point's column and row: $A\l
 
 ### Solution to Exercise 2
 
-On grid paper plot $A\left(5,9\right)$, $B\left(1,6\right)$, $C\left(2,1\right)$, $D\left(8,1\right)$, $E\left(9,6\right)$ in order, join and close back to $A$; you get a pentagon shaped like a small house roof. $\blacksquare$
+On grid paper plot $A\left(5,9\right)$, $B\left(1,6\right)$, $C\left(2,1\right)$, $D\left(8,1\right)$, $E\left(9,6\right)$ in order, join and close back to $A$; you get a pentagon shaped like a small house roof.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -32,7 +36,9 @@ On grid paper plot $A\left(5,9\right)$, $B\left(1,6\right)$, $C\left(2,1\right)$
 
 ### Solution to Exercise 3
 
-E.g. cinema "row, seat", bookshelf "shelf level, book number", chess piece positions on a board, latitude/longitude on Earth — all use two numbers to fix a position. $\blacksquare$
+E.g. cinema "row, seat", bookshelf "shelf level, book number", chess piece positions on a board, latitude/longitude on Earth — all use two numbers to fix a position.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -40,7 +46,9 @@ E.g. cinema "row, seat", bookshelf "shelf level, book number", chess piece posit
 
 ### Solution to Exercise 4
 
-By **Definition 11.1.1 (Ordered Pairs)**: Xiao Gang $\left(10,8\right)$; row ahead same seat = $\left(10,7\right)$; same row seat $1$ = $\left(1,8\right)$. Color the corresponding cells. $\blacksquare$
+By **Definition 11.1.1 (Ordered Pairs)**: Xiao Gang $\left(10,8\right)$; row ahead same seat = $\left(10,7\right)$; same row seat $1$ = $\left(1,8\right)$. Color the corresponding cells.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -50,7 +58,9 @@ The figure: a grid with intersections numbered by column (horizontal) and row (v
 
 ### Solution to Exercise 5
 
-By **Definition 11.1.1 (Ordered Pairs)**, color each point by column-then-row; together they form a vertically symmetric pattern. $\blacksquare$
+By **Definition 11.1.1 (Ordered Pairs)**, color each point by column-then-row; together they form a vertically symmetric pattern.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -58,7 +68,9 @@ By **Definition 11.1.1 (Ordered Pairs)**, color each point by column-then-row; t
 
 ### Solution to Exercise 6
 
-By **Definition 11.1.1 (Ordered Pairs)**: shift right $5$ units, add $5$ to each first number and keep the second; shift up $5$ units, add $5$ to each second number and keep the first. Plot and join the new points. $\blacksquare$
+By **Definition 11.1.1 (Ordered Pairs)**: shift right $5$ units, add $5$ to each first number and keep the second; shift up $5$ units, add $5$ to each second number and keep the first. Plot and join the new points.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -66,7 +78,9 @@ By **Definition 11.1.1 (Ordered Pairs)**: shift right $5$ units, add $5$ to each
 
 ### Solution to Exercise 7
 
-The robot can only move horizontally or vertically. By **Definition 11.1.1 (Ordered Pairs)**, moving along a row changes the first number; moving along a column changes the second. (1) You may also go horizontal first then vertical, e.g. $\left(3,0\right)\to\left(8,0\right)\to\left(8,8\right)$, as long as the route avoids other chutes; (2) similarly go in horizontal/vertical segments to the Zhejiang point; (3) assign different robots different times or lanes so no two share a point at any moment. $\blacksquare$
+The robot can only move horizontally or vertically. By **Definition 11.1.1 (Ordered Pairs)**, moving along a row changes the first number; moving along a column changes the second. (1) You may also go horizontal first then vertical, e.g. $\left(3,0\right)\to\left(8,0\right)\to\left(8,8\right)$, as long as the route avoids other chutes; (2) similarly go in horizontal/vertical segments to the Zhejiang point; (3) assign different robots different times or lanes so no two share a point at any moment.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -74,7 +88,9 @@ The robot can only move horizontally or vertically. By **Definition 11.1.1 (Orde
 
 ### Solution to Exercise 8
 
-Draw the figure, record each vertex's ordered pair, give only the coordinates; your deskmate plots and joins them by **Definition 11.1.1 (Ordered Pairs)**, and the result should match the original. $\blacksquare$
+Draw the figure, record each vertex's ordered pair, give only the coordinates; your deskmate plots and joins them by **Definition 11.1.1 (Ordered Pairs)**, and the result should match the original.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -84,7 +100,9 @@ The figure: a bearing diagram with the rescue ship as observation point, showing
 
 ### Solution to Exercise 9
 
-Distance alone doesn't fix position. By **Definition 11.1.2 (Determining Position by Direction and Distance)**: with the rescue ship as reference, the boat lies east-by-south $25^{\circ}$ at distance $1500\;\text{m}$. The two descriptions' angles sum to $90^{\circ}$; by convention use the angle no more than $45^{\circ}$, i.e. east-by-south $25^{\circ}$. $\blacksquare$
+Distance alone doesn't fix position. By **Definition 11.1.2 (Determining Position by Direction and Distance)**: with the rescue ship as reference, the boat lies east-by-south $25^{\circ}$ at distance $1500\;\text{m}$. The two descriptions' angles sum to $90^{\circ}$; by convention use the angle no more than $45^{\circ}$, i.e. east-by-south $25^{\circ}$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -92,7 +110,9 @@ Distance alone doesn't fix position. By **Definition 11.1.2 (Determining Positio
 
 ### Solution to Exercise 10
 
-With Beijing as observer, use a protractor: Shenyang is east-by-south of Beijing, Shanghai south-by-east, Xi'an west-by-south, Urumqi west-by-north (angles per actual measurement). $\blacksquare$
+With Beijing as observer, use a protractor: Shenyang is east-by-south of Beijing, Shanghai south-by-east, Xi'an west-by-south, Urumqi west-by-north (angles per actual measurement).
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -100,7 +120,9 @@ With Beijing as observer, use a protractor: Shenyang is east-by-south of Beijing
 
 ### Solution to Exercise 11
 
-By **Definition 11.1.2 (Determining Position by Direction and Distance)**: first measure angles, then measure map segment lengths and convert at $100\;\text{m}$ each. City Hall is due west $200\;\text{m}$; fill in the Park, Cultural Palace, Tech Building, Bank by measured angles and segment counts. $\blacksquare$
+By **Definition 11.1.2 (Determining Position by Direction and Distance)**: first measure angles, then measure map segment lengths and convert at $100\;\text{m}$ each. City Hall is due west $200\;\text{m}$; fill in the Park, Cultural Palace, Tech Building, Bank by measured angles and segment counts.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -108,7 +130,9 @@ By **Definition 11.1.2 (Determining Position by Direction and Distance)**: first
 
 ### Solution to Exercise 12
 
-Swap the observer point and the directions reverse. Beijing is south-by-west of Harbin; Harbin is north-by-east of Beijing (angles per measurement). $\blacksquare$
+Swap the observer point and the directions reverse. Beijing is south-by-west of Harbin; Harbin is north-by-east of Beijing (angles per measurement).
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -116,4 +140,6 @@ Swap the observer point and the directions reverse. Beijing is south-by-west of 
 
 ### Solution to Exercise 13
 
-By **Definition 11.1.2 (Determining Position by Direction and Distance)**: with the rescue ship as vertex, draw a ray north-by-west $40^{\circ}$; $1000\;\text{m}$ is $2\;\text{cm}$ on the map; the endpoint is the ship. $\blacksquare$
+By **Definition 11.1.2 (Determining Position by Direction and Distance)**: with the rescue ship as vertex, draw a ray north-by-west $40^{\circ}$; $1000\;\text{m}$ is $2\;\text{cm}$ on the map; the endpoint is the ship.
+
+$\blacksquare$

@@ -66,7 +66,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 10.10.1 (Optimal Strategy for Finding the Defective)**, put 1 bottle on each side: if balanced, the remaining bottle is the defective; if not, the lighter side is. So at least $1$ weighing. $\blacksquare$
+By **Definition 10.10.1 (Optimal Strategy for Finding the Defective)**, put 1 bottle on each side: if balanced, the remaining bottle is the defective; if not, the lighter side is. So at least $1$ weighing.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -74,7 +76,9 @@ By **Definition 10.10.1 (Optimal Strategy for Finding the Defective)**, put 1 bo
 
 ### Solution to Exercise 2
 
-By **Definition 10.10.1 (Optimal Strategy for Finding the Defective)** and **Definition 10.10.2 (Number of Weighings Rule)**, 8 is in the $4\sim9$ range, so at least $2$ weighings. Split 8 into $\left(3,3,2\right)$: put 3 on each side; if balanced, the defective is among the remaining 2 and needs 1 more weighing; if not, the heavier side's 3 need 1 more. Total 2. $\blacksquare$
+By **Definition 10.10.1 (Optimal Strategy for Finding the Defective)** and **Definition 10.10.2 (Number of Weighings Rule)**, 8 is in the $4\sim9$ range, so at least $2$ weighings. Split 8 into $\left(3,3,2\right)$: put 3 on each side; if balanced, the defective is among the remaining 2 and needs 1 more weighing; if not, the heavier side's 3 need 1 more. Total 2.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -82,7 +86,9 @@ By **Definition 10.10.1 (Optimal Strategy for Finding the Defective)** and **Def
 
 ### Solution to Exercise 3
 
-By **Definition 10.10.1 (Optimal Strategy for Finding the Defective)**, split 9 evenly into $\left(3,3,3\right)$: put 3 on each side to find the group of 3 containing the defective; then weigh 2 of those 3 a second time — if balanced the remaining is defective, if not the heavier is. Total $2$ weighings. $\blacksquare$
+By **Definition 10.10.1 (Optimal Strategy for Finding the Defective)**, split 9 evenly into $\left(3,3,3\right)$: put 3 on each side to find the group of 3 containing the defective; then weigh 2 of those 3 a second time — if balanced the remaining is defective, if not the heavier is. Total $2$ weighings.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -90,7 +96,9 @@ By **Definition 10.10.1 (Optimal Strategy for Finding the Defective)**, split 9 
 
 ### Solution to Exercise 4
 
-By **Definition 10.10.2 (Number of Weighings Rule)**, 5 is in the $4\sim9$ range, so at least $2$ weighings. Split 5 into $\left(2,2,1\right)$: put 2 on each side; if balanced, the remaining 1 is defective; if not, weigh the lighter side's 2 once more. $\blacksquare$
+By **Definition 10.10.2 (Number of Weighings Rule)**, 5 is in the $4\sim9$ range, so at least $2$ weighings. Split 5 into $\left(2,2,1\right)$: put 2 on each side; if balanced, the remaining 1 is defective; if not, weigh the lighter side's 2 once more.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -98,7 +106,9 @@ By **Definition 10.10.2 (Number of Weighings Rule)**, 5 is in the $4\sim9$ range
 
 ### Solution to Exercise 5
 
-By **Definition 10.10.2 (Number of Weighings Rule)**, 28 is in the $28\sim81$ range, so at least $4$ weighings. Each time split the bottles as evenly as possible into 3 groups, and one weighing narrows the range to $\frac{1}{3}$: $28\to10\to4\to2\to1$, totaling $4$ weighings. $\blacksquare$
+By **Definition 10.10.2 (Number of Weighings Rule)**, 28 is in the $28\sim81$ range, so at least $4$ weighings. Each time split the bottles as evenly as possible into 3 groups, and one weighing narrows the range to $\frac{1}{3}$: $28\to10\to4\to2\to1$, totaling $4$ weighings.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -106,7 +116,9 @@ By **Definition 10.10.2 (Number of Weighings Rule)**, 28 is in the $28\sim81$ ra
 
 ### Solution to Exercise 6
 
-By **Definition 10.10.2 (Number of Weighings Rule)**, 15 is in the $10\sim27$ range, so at least $3$ weighings. $15\to5\to2\to1$, splitting into thirds each time, totaling $3$ weighings. $\blacksquare$
+By **Definition 10.10.2 (Number of Weighings Rule)**, 15 is in the $10\sim27$ range, so at least $3$ weighings. $15\to5\to2\to1$, splitting into thirds each time, totaling $3$ weighings.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -114,7 +126,9 @@ By **Definition 10.10.2 (Number of Weighings Rule)**, 15 is in the $10\sim27$ ra
 
 ### Solution to Exercise 7
 
-By **Definition 10.10.1 (Optimal Strategy for Finding the Defective)**, put 1 bag on each side: if balanced, both are $500\,g$ and the remaining bag is the target; weigh that remaining bag against one of them a second time to learn whether it is heavier or lighter than $500\,g$. If the first weighing is unbalanced, weigh one side's bag against the third to decide. So $2$ weighings suffice. $\blacksquare$
+By **Definition 10.10.1 (Optimal Strategy for Finding the Defective)**, put 1 bag on each side: if balanced, both are $500\,g$ and the remaining bag is the target; weigh that remaining bag against one of them a second time to learn whether it is heavier or lighter than $500\,g$. If the first weighing is unbalanced, weigh one side's bag against the third to decide. So $2$ weighings suffice.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -122,7 +136,9 @@ By **Definition 10.10.1 (Optimal Strategy for Finding the Defective)**, put 1 ba
 
 ### Solution to Exercise 8
 
-By **Definition 10.2.4 (Features of Multiples of 2, 5, 3)** and **Definition 10.5.2 (Fraction Unit)**: the one whose digit sum is a multiple of 3 is $219$ ($2+1+9=12$); $\frac{3}{8}$ contains $3$ copies of $\frac{1}{8}$; $11\div6=\frac{11}{6}=1\frac{5}{6}$. $\blacksquare$
+By **Definition 10.2.4 (Features of Multiples of 2, 5, 3)** and **Definition 10.5.2 (Fraction Unit)**: the one whose digit sum is a multiple of 3 is $219$ ($2+1+9=12$); $\frac{3}{8}$ contains $3$ copies of $\frac{1}{8}$; $11\div6=\frac{11}{6}=1\frac{5}{6}$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -130,7 +146,9 @@ By **Definition 10.2.4 (Features of Multiples of 2, 5, 3)** and **Definition 10.
 
 ### Solution to Exercise 9
 
-By **Definition 10.8.1 (Adding/Subtracting Fractions with Like Denominators)** and **Definition 10.8.2 (Adding/Subtracting Fractions with Unlike Denominators)**: $\frac{5}{6}+\frac{1}{6}=1$; $\frac{11}{12}-\frac{5}{12}=\frac{6}{12}=\frac{1}{2}$; $\frac{1}{4}+\frac{3}{8}=\frac{2}{8}+\frac{3}{8}=\frac{5}{8}$; $\frac{7}{9}-\frac{2}{3}=\frac{7}{9}-\frac{6}{9}=\frac{1}{9}$. $\blacksquare$
+By **Definition 10.8.1 (Adding/Subtracting Fractions with Like Denominators)** and **Definition 10.8.2 (Adding/Subtracting Fractions with Unlike Denominators)**: $\frac{5}{6}+\frac{1}{6}=1$; $\frac{11}{12}-\frac{5}{12}=\frac{6}{12}=\frac{1}{2}$; $\frac{1}{4}+\frac{3}{8}=\frac{2}{8}+\frac{3}{8}=\frac{5}{8}$; $\frac{7}{9}-\frac{2}{3}=\frac{7}{9}-\frac{6}{9}=\frac{1}{9}$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -138,7 +156,9 @@ By **Definition 10.8.1 (Adding/Subtracting Fractions with Like Denominators)** a
 
 ### Solution to Exercise 10
 
-By **Definition 10.3.2 (Surface Area)** and **Definition 10.3.4 (Volume Formula)**: surface area $S=\left(8\times5+8\times4+5\times4\right)\times2=\left(40+32+20\right)\times2=184\,\mathrm{cm^2}$; volume $V=8\times5\times4=160\,\mathrm{cm^3}$. $\blacksquare$
+By **Definition 10.3.2 (Surface Area)** and **Definition 10.3.4 (Volume Formula)**: surface area $S=\left(8\times5+8\times4+5\times4\right)\times2=\left(40+32+20\right)\times2=184\,\mathrm{cm^2}$; volume $V=8\times5\times4=160\,\mathrm{cm^3}$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -146,7 +166,9 @@ By **Definition 10.3.2 (Surface Area)** and **Definition 10.3.4 (Volume Formula)
 
 ### Solution to Exercise 11
 
-By **Definition 10.3.2 (Surface Area)** and **Definition 10.3.4 (Volume Formula)**: surface area $S=6\times6^2=216\,\mathrm{dm^2}$; volume $V=6^3=216\,\mathrm{dm^3}$. $\blacksquare$
+By **Definition 10.3.2 (Surface Area)** and **Definition 10.3.4 (Volume Formula)**: surface area $S=6\times6^2=216\,\mathrm{dm^2}$; volume $V=6^3=216\,\mathrm{dm^3}$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -154,7 +176,9 @@ By **Definition 10.3.2 (Surface Area)** and **Definition 10.3.4 (Volume Formula)
 
 ### Solution to Exercise 12
 
-By **Definition 10.3.3 (Volume and Volume Units)** and **Definition 10.4.1 (Painted Cubes)**: (1) count the small cubes in each solid to get its volume in cubic centimeters; (2) complete it to the smallest large cube, whose edge is the integer matching the largest current row; the required total is the cube of that edge, minus the current count. $\blacksquare$
+By **Definition 10.3.3 (Volume and Volume Units)** and **Definition 10.4.1 (Painted Cubes)**: (1) count the small cubes in each solid to get its volume in cubic centimeters; (2) complete it to the smallest large cube, whose edge is the integer matching the largest current row; the required total is the cube of that edge, minus the current count.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -162,7 +186,9 @@ By **Definition 10.3.3 (Volume and Volume Units)** and **Definition 10.4.1 (Pain
 
 ### Solution to Exercise 13
 
-By **Definition 10.5.1 (Meaning of Fractions)** and **Definition 10.8.1 (Adding/Subtracting Fractions with Like Denominators)**, first count how many equal parts the whole pattern is divided into, then how many parts green and red occupy, write them as fractions, and subtract to find how much red exceeds green. $\blacksquare$
+By **Definition 10.5.1 (Meaning of Fractions)** and **Definition 10.8.1 (Adding/Subtracting Fractions with Like Denominators)**, first count how many equal parts the whole pattern is divided into, then how many parts green and red occupy, write them as fractions, and subtract to find how much red exceeds green.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -170,7 +196,9 @@ By **Definition 10.5.1 (Meaning of Fractions)** and **Definition 10.8.1 (Adding/
 
 ### Solution to Exercise 14
 
-By **Definition 10.6.1 (Line Graphs)**, a line graph suits showing how data changes over time; express delivery volume rises rapidly each year, showing the fast growth of China's express industry. $\blacksquare$
+By **Definition 10.6.1 (Line Graphs)**, a line graph suits showing how data changes over time; express delivery volume rises rapidly each year, showing the fast growth of China's express industry.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -178,7 +206,9 @@ By **Definition 10.6.1 (Line Graphs)**, a line graph suits showing how data chan
 
 ### Solution to Exercise 15
 
-By **Definition 10.10.2 (Number of Weighings Rule)**, 10 is in the $10\sim27$ range, so at least $3$ weighings. $10\to4\to2\to1$, splitting into thirds each time. $\blacksquare$
+By **Definition 10.10.2 (Number of Weighings Rule)**, 10 is in the $10\sim27$ range, so at least $3$ weighings. $10\to4\to2\to1$, splitting into thirds each time.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -186,7 +216,9 @@ By **Definition 10.10.2 (Number of Weighings Rule)**, 10 is in the $10\sim27$ ra
 
 ### Solution to Exercise 16
 
-By **Definition 11.1.1 (Ordered Pairs)**, first number = column, second = row: Wang Yan is column $3$ row $4$, i.e. $\left(3,4\right)$; Zhao Xue is column $4$ row $3$, i.e. $\left(4,3\right)$. The two numbers are swapped. $\left(6,3\right)$ means column $6$, row $3$. $\blacksquare$
+By **Definition 11.1.1 (Ordered Pairs)**, first number = column, second = row: Wang Yan is column $3$ row $4$, i.e. $\left(3,4\right)$; Zhao Xue is column $4$ row $3$, i.e. $\left(4,3\right)$. The two numbers are swapped. $\left(6,3\right)$ means column $6$, row $3$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -194,4 +226,6 @@ By **Definition 11.1.1 (Ordered Pairs)**, first number = column, second = row: W
 
 ### Solution to Exercise 17
 
-By **Definition 11.1.1 (Ordered Pairs)**: Zhang Liang $\left(2,3\right)$, Sun Fang $\left(2,2\right)$, Li Xiaodong $\left(2,1\right)$, Wang Yan $\left(3,4\right)$, Zhao Xue $\left(4,3\right)$. $\left(2,a\right)$ means classmates in column $2$ (Zhang Liang, Sun Fang, Li Xiaodong); $\left(b,3\right)$ means classmates in row $3$ (Zhou Ming, Zhang Liang, Zhao Xue). $\blacksquare$
+By **Definition 11.1.1 (Ordered Pairs)**: Zhang Liang $\left(2,3\right)$, Sun Fang $\left(2,2\right)$, Li Xiaodong $\left(2,1\right)$, Wang Yan $\left(3,4\right)$, Zhao Xue $\left(4,3\right)$. $\left(2,a\right)$ means classmates in column $2$ (Zhang Liang, Sun Fang, Li Xiaodong); $\left(b,3\right)$ means classmates in row $3$ (Zhou Ming, Zhang Liang, Zhao Xue).
+
+$\blacksquare$

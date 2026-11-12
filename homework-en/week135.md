@@ -22,7 +22,7 @@
 
 > **Definition 11.9.1 (鸽巢原理, 抽屉原理)**
 > 
-> 把 $m$ 个物体任意分放进 $n$ 个抽屉 ($m>{}n$), 那么一定有一个抽屉里至少放了 $\lceil\frac{m}{n}\rceil$ 个物体. 计算方法: $m\div{n}=q\cdots\cdots{r}$, 当 $r>0$ 时至少 $q+1$ 个, 当 $r=0$ 时至少 $q$ 个.
+> 把 $m$ 个物体任意分放进 $n$ 个抽屉 ($m>n$), 那么一定有一个抽屉里至少放了 $\lceil\frac{m}{n}\rceil$ 个物体. 计算方法: $m\div{n}=q\cdots\cdots{r}$, 当 $r>0$ 时至少 $q+1$ 个, 当 $r=0$ 时至少 $q$ 个.
 
 ## Exercise 1
 
@@ -30,7 +30,9 @@
 
 ### Solution to Exercise 1
 
-$7600\times0.9\times0.9=6156$ yuan. $\blacksquare$
+$7600\times0.9\times0.9=6156$ yuan.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -38,7 +40,9 @@ $7600\times0.9\times0.9=6156$ yuan. $\blacksquare$
 
 ### Solution to Exercise 2
 
-30% off $=$ list $\times70\%$; 2 cheng $=20\%$, this year $1500\times1.2=1800\;\text{kg}$; VAT $30\times3\%=0.9$ ten-thousand yuan; interest $8000\times2.10\%\times2=336$ yuan. $\blacksquare$
+30% off $=$ list $\times70\%$; 2 cheng $=20\%$, this year $1500\times1.2=1800\;\text{kg}$; VAT $30\times3\%=0.9$ ten-thousand yuan; interest $8000\times2.10\%\times2=336$ yuan.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -46,7 +50,9 @@ $7600\times0.9\times0.9=6156$ yuan. $\blacksquare$
 
 ### Solution to Exercise 3
 
-After discount $120\times85\%=102$ yuan; VAT $6800\times3\%=204$ yuan. $\blacksquare$
+After discount $120\times85\%=102$ yuan; VAT $6800\times3\%=204$ yuan.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -54,7 +60,9 @@ After discount $120\times85\%=102$ yuan; VAT $6800\times3\%=204$ yuan. $\blacksq
 
 ### Solution to Exercise 4
 
-$80\times65\%=52$ yuan; $120\times70\%=84$ yuan; $60\times88\%=52.8$ yuan. $\blacksquare$
+$80\times65\%=52$ yuan; $120\times70\%=84$ yuan; $60\times88\%=52.8$ yuan.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -62,7 +70,9 @@ $80\times65\%=52$ yuan; $120\times70\%=84$ yuan; $60\times88\%=52.8$ yuan. $\bla
 
 ### Solution to Exercise 5
 
-$240\times\left(1+15\%\right)=276$ ten-thousand tons. $\blacksquare$
+$240\times\left(1+15\%\right)=276$ ten-thousand tons.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -70,7 +80,9 @@ $240\times\left(1+15\%\right)=276$ ten-thousand tons. $\blacksquare$
 
 ### Solution to Exercise 6
 
-By **Definition 11.7.4 (Tax Rate and Interest Rate)**: $3000\times3\%=90$ ten-thousand yuan. $\blacksquare$
+By **Definition 11.7.4 (Tax Rate and Interest Rate)**: $3000\times3\%=90$ ten-thousand yuan.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -78,7 +90,9 @@ By **Definition 11.7.4 (Tax Rate and Interest Rate)**: $3000\times3\%=90$ ten-th
 
 ### Solution to Exercise 7
 
-Interest $=6000\times2.25\%\times2=270$ yuan; total $6000+270=6270$ yuan. $\blacksquare$
+Interest $=6000\times2.25\%\times2=270$ yuan; total $6000+270=6270$ yuan.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -86,7 +100,9 @@ Interest $=6000\times2.25\%\times2=270$ yuan; total $6000+270=6270$ yuan. $\blac
 
 ### Solution to Exercise 8
 
-By lever balance, weight and length are inversely proportional, $100\times2500=100\times{x}$, giving $x=2500\;\text{mm}$ (i.e. the same $100\;\text{g}$ corresponds to $2500\;\text{mm}$). $\blacksquare$
+By lever balance, weight and length are inversely proportional, $100\times2500=100\times{x}$, giving $x=2500\;\text{mm}$ (i.e. the same $100\;\text{g}$ corresponds to $2500\;\text{mm}$).
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -94,7 +110,9 @@ By lever balance, weight and length are inversely proportional, $100\times2500=1
 
 ### Solution to Exercise 9
 
-A typical household uses about $8\sim15\;\text{m}^3$ of water per month. The water bill is computed by multiplying a fixed price per ton by the amount of water used; for example, at $4$ yuan per ton, using $10\;\text{m}^3$ costs $40$ yuan. $\blacksquare$
+A typical household uses about $8\sim15\;\text{m}^3$ of water per month. The water bill is computed by multiplying a fixed price per ton by the amount of water used; for example, at $4$ yuan per ton, using $10\;\text{m}^3$ costs $40$ yuan.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -102,7 +120,9 @@ A typical household uses about $8\sim15\;\text{m}^3$ of water per month. The wat
 
 ### Solution to Exercise 10
 
-By **Definition 11.8.1 (Estimating Water Usage)**: in one hour, $50\times60=3000\;\text{mL}=3\;\text{L}$; in one day, $3\times24=72\;\text{L}$. $\blacksquare$
+By **Definition 11.8.1 (Estimating Water Usage)**: in one hour, $50\times60=3000\;\text{mL}=3\;\text{L}$; in one day, $3\times24=72\;\text{L}$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -110,7 +130,9 @@ By **Definition 11.8.1 (Estimating Water Usage)**: in one hour, $50\times60=3000
 
 ### Solution to Exercise 11
 
-In one year, $72\times365=26280\;\text{L}=26.28\;\text{m}^3$. $26.28\div10\approx2.6$ (months). $\blacksquare$
+In one year, $72\times365=26280\;\text{L}=26.28\;\text{m}^3$. $26.28\div10\approx2.6$ (months).
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -118,7 +140,9 @@ In one year, $72\times365=26280\;\text{L}=26.28\;\text{m}^3$. $26.28\div10\appro
 
 ### Solution to Exercise 12
 
-By **Definition 11.8.1 (Estimating Water Usage)**, the school's monthly water usage $\div$ the number of school days $\div$ the number of students and teachers gives the water usage per person per day. A typical school uses about $20\sim50\;\text{L}$ per person per day. $\blacksquare$
+By **Definition 11.8.1 (Estimating Water Usage)**, the school's monthly water usage $\div$ the number of school days $\div$ the number of students and teachers gives the water usage per person per day. A typical school uses about $20\sim50\;\text{L}$ per person per day.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -126,7 +150,9 @@ By **Definition 11.8.1 (Estimating Water Usage)**, the school's monthly water us
 
 ### Solution to Exercise 13
 
-Turn off faucets tightly; use dishwater to water plants or flush the toilet; take shorter showers; repair leaking pipes; use the final rinse water from the washing machine to mop the floor. $\blacksquare$
+Turn off faucets tightly; use dishwater to water plants or flush the toilet; take shorter showers; repair leaking pipes; use the final rinse water from the washing machine to mop the floor.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -134,7 +160,9 @@ Turn off faucets tightly; use dishwater to water plants or flush the toilet; tak
 
 ### Solution to Exercise 14
 
-$125\times\left(1-\frac{1}{5}\right)=125\times\frac{4}{5}=100$ (yuan). $\blacksquare$
+$125\times\left(1-\frac{1}{5}\right)=125\times\frac{4}{5}=100$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -142,7 +170,9 @@ $125\times\left(1-\frac{1}{5}\right)=125\times\frac{4}{5}=100$ (yuan). $\blacksq
 
 ### Solution to Exercise 15
 
-$100\div\left(1-\frac{1}{5}\right)=100\div\frac{4}{5}=125$ (yuan). $\blacksquare$
+$100\div\left(1-\frac{1}{5}\right)=100\div\frac{4}{5}=125$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -150,7 +180,9 @@ $100\div\left(1-\frac{1}{5}\right)=100\div\frac{4}{5}=125$ (yuan). $\blacksquare
 
 ### Solution to Exercise 16
 
-$125\times\left(1-20\%\right)=125\times0.8=100$ (yuan). $\blacksquare$
+$125\times\left(1-20\%\right)=125\times0.8=100$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -158,7 +190,9 @@ $125\times\left(1-20\%\right)=125\times0.8=100$ (yuan). $\blacksquare$
 
 ### Solution to Exercise 17
 
-$100\div\left(1-20\%\right)=100\div0.8=125$ (yuan). $\blacksquare$
+$100\div\left(1-20\%\right)=100\div0.8=125$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -166,7 +200,9 @@ $100\div\left(1-20\%\right)=100\div0.8=125$ (yuan). $\blacksquare$
 
 ### Solution to Exercise 18
 
-Trousers $=100\times1.5=150$ yuan; leather shoes $=150\div\frac{5}{6}=180$ (yuan). $\blacksquare$
+Trousers $=100\times1.5=150$ yuan; leather shoes $=150\div\frac{5}{6}=180$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -174,7 +210,9 @@ Trousers $=100\times1.5=150$ yuan; leather shoes $=150\div\frac{5}{6}=180$ (yuan
 
 ### Solution to Exercise 19
 
-$C=2\times3.14\times1=6.28\;\text{km}$. $\blacksquare$
+$C=2\times3.14\times1=6.28\;\text{km}$.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -182,7 +220,9 @@ $C=2\times3.14\times1=6.28\;\text{km}$. $\blacksquare$
 
 ### Solution to Exercise 20
 
-The north gate is due north of the south gate, and the distance equals the diameter $2\;\text{km}$. $\blacksquare$
+The north gate is due north of the south gate, and the distance equals the diameter $2\;\text{km}$.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -190,7 +230,9 @@ The north gate is due north of the south gate, and the distance equals the diame
 
 ### Solution to Exercise 21
 
-$3.14\times\left(1^2-0.2^2\right)=3.14\times0.96=3.0144\;\text{km}^2$. $\blacksquare$
+$3.14\times\left(1^2-0.2^2\right)=3.14\times0.96=3.0144\;\text{km}^2$.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -198,7 +240,9 @@ $3.14\times\left(1^2-0.2^2\right)=3.14\times0.96=3.0144\;\text{km}^2$. $\blacksq
 
 ### Solution to Exercise 22
 
-The road is the chord between two adjacent gates; the four gates lie on the circle with equal spacing, dividing the circle into $4$ equal parts. $\blacksquare$
+The road is the chord between two adjacent gates; the four gates lie on the circle with equal spacing, dividing the circle into $4$ equal parts.
+
+$\blacksquare$
 
 ## Exercise 23
 
@@ -206,4 +250,6 @@ The road is the chord between two adjacent gates; the four gates lie on the circ
 
 ### Solution to Exercise 23
 
-Plan A has total satisfied $600\times60\%+400\times50\%=360+200=560$, i.e. $56\%<60\%$; B $=330+280=610$, i.e. $61\%$; C $=390+220=610$, i.e. $61\%$. Thus plan A needs to be adjusted. $\blacksquare$
+Plan A has total satisfied $600\times60\%+400\times50\%=360+200=560$, i.e. $56\%<60\%$; B $=330+280=610$, i.e. $61\%$; C $=390+220=610$, i.e. $61\%$. Thus plan A needs to be adjusted.
+
+$\blacksquare$

@@ -38,7 +38,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 8.3.6 (Distributive Law of Multiplication)**: $117\times\left(3+7\right)=117\times3+117\times7$ uses the distributive law; $24\times\left(5+12\right)=24\times17$ directly calculates inside the parentheses first; $36\times\left(4\times6\right)=36\times6\times4$ uses the commutative law; $4\times{a}+a\times5=\left(4+5\right)\times{a}$ uses the distributive law in reverse. $\blacksquare$
+By **Definition 8.3.6 (Distributive Law of Multiplication)**: $117\times\left(3+7\right)=117\times3+117\times7$ uses the distributive law; $24\times\left(5+12\right)=24\times17$ directly calculates inside the parentheses first; $36\times\left(4\times6\right)=36\times6\times4$ uses the commutative law; $4\times{a}+a\times5=\left(4+5\right)\times{a}$ uses the distributive law in reverse.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -46,7 +48,9 @@ By **Definition 8.3.6 (Distributive Law of Multiplication)**: $117\times\left(3+
 
 ### Solution to Exercise 2
 
-One round trip is $50\times2=100$ ($\mathrm{m}$); $7$ round trips: $50\times2\times7=700$ ($\mathrm{m}$). $\blacksquare$
+One round trip is $50\times2=100$ ($\mathrm{m}$); $7$ round trips: $50\times2\times7=700$ ($\mathrm{m}$).
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -54,7 +58,9 @@ One round trip is $50\times2=100$ ($\mathrm{m}$); $7$ round trips: $50\times2\ti
 
 ### Solution to Exercise 3
 
-By **Definition 8.3.6 (Distributive Law of Multiplication)**, $\left(75+45\right)\times60=120\times60=7200$ (yuan). $\blacksquare$
+By **Definition 8.3.6 (Distributive Law of Multiplication)**, $\left(75+45\right)\times60=120\times60=7200$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -62,7 +68,9 @@ By **Definition 8.3.6 (Distributive Law of Multiplication)**, $\left(75+45\right
 
 ### Solution to Exercise 4
 
-By **Definition 8.3.6 (Distributive Law of Multiplication)**: $103\times12=\left(100+3\right)\times12=1200+36=1236$; $20\times55=20\times\left(50+5\right)=1000+100=1100$; $24\times205=24\times200+24\times5=4800+120=4920$. $\blacksquare$
+By **Definition 8.3.6 (Distributive Law of Multiplication)**: $103\times12=\left(100+3\right)\times12=1200+36=1236$; $20\times55=20\times\left(50+5\right)=1000+100=1100$; $24\times205=24\times200+24\times5=4800+120=4920$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -70,7 +78,9 @@ By **Definition 8.3.6 (Distributive Law of Multiplication)**: $103\times12=\left
 
 ### Solution to Exercise 5
 
-Each pair is equal. By **Definition 8.3.6 (Distributive Law of Multiplication)** and **Definition 8.3.5 (Associative Law of Multiplication)**: $25\times\left(200+4\right)=5100$; $35\times201=7035$; $265\times\left(105-5\right)=26500$; $11\times\left(25\times4\right)=1100$. $\blacksquare$
+Each pair is equal. By **Definition 8.3.6 (Distributive Law of Multiplication)** and **Definition 8.3.5 (Associative Law of Multiplication)**: $25\times\left(200+4\right)=5100$; $35\times201=7035$; $265\times\left(105-5\right)=26500$; $11\times\left(25\times4\right)=1100$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -78,7 +88,9 @@ Each pair is equal. By **Definition 8.3.6 (Distributive Law of Multiplication)**
 
 ### Solution to Exercise 6
 
-(1) Correct (distributive law); (2) wrong, it should be $35\times100+35\times1$; (3) correct (associative law); (4) wrong, it should be $64\times10+64\times2$. $\blacksquare$
+(1) Correct (distributive law); (2) wrong, it should be $35\times100+35\times1$; (3) correct (associative law); (4) wrong, it should be $64\times10+64\times2$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -86,7 +98,9 @@ Each pair is equal. By **Definition 8.3.6 (Distributive Law of Multiplication)**
 
 ### Solution to Exercise 7
 
-By **Definition 8.3.5 (Associative Law of Multiplication)**, $4\times7\times35=\left(4\times7\right)\times35=28\times35=980$ (sets). $\blacksquare$
+By **Definition 8.3.5 (Associative Law of Multiplication)**, $4\times7\times35=\left(4\times7\right)\times35=28\times35=980$ (sets).
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -94,7 +108,9 @@ By **Definition 8.3.5 (Associative Law of Multiplication)**, $4\times7\times35=\
 
 ### Solution to Exercise 8
 
-Using the distributive law in reverse by **Definition 8.3.6 (Distributive Law of Multiplication)**: $167\times2+167\times3+167\times5=167\times\left(2+3+5\right)=167\times10$; $28\times225-2\times225-6\times225=\left(28-2-6\right)\times225=20\times225$; $39\times8+6\times39-39\times4=39\times\left(8+6-4\right)=39\times10$. $\blacksquare$
+Using the distributive law in reverse by **Definition 8.3.6 (Distributive Law of Multiplication)**: $167\times2+167\times3+167\times5=167\times\left(2+3+5\right)=167\times10$; $28\times225-2\times225-6\times225=\left(28-2-6\right)\times225=20\times225$; $39\times8+6\times39-39\times4=39\times\left(8+6-4\right)=39\times10$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -102,7 +118,9 @@ Using the distributive law in reverse by **Definition 8.3.6 (Distributive Law of
 
 ### Solution to Exercise 9
 
-$9$ yuan $5$ jiao $\times5=45$ yuan $25$ jiao $=47$ yuan $5$ jiao. By **Definition 8.3.6 (Distributive Law of Multiplication)**, $9.5\times5=47.5$ yuan. $\blacksquare$
+$9$ yuan $5$ jiao $\times5=45$ yuan $25$ jiao $=47$ yuan $5$ jiao. By **Definition 8.3.6 (Distributive Law of Multiplication)**, $9.5\times5=47.5$ yuan.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -110,7 +128,9 @@ $9$ yuan $5$ jiao $\times5=45$ yuan $25$ jiao $=47$ yuan $5$ jiao. By **Definiti
 
 ### Solution to Exercise 10
 
-By **Definition 8.3.5 (Associative Law of Multiplication)**, **Definition 8.3.6 (Distributive Law of Multiplication)** and **Definition 8.3.7 (Operation Property of Division)**: $35\times5\times20=35\times100=3500$; $25\times\left(4+8\right)=25\times4+25\times8=100+200=300$; $2000\div125\div8=2000\div\left(125\times8\right)=2000\div1000=2$. $\blacksquare$
+By **Definition 8.3.5 (Associative Law of Multiplication)**, **Definition 8.3.6 (Distributive Law of Multiplication)** and **Definition 8.3.7 (Operation Property of Division)**: $35\times5\times20=35\times100=3500$; $25\times\left(4+8\right)=25\times4+25\times8=100+200=300$; $2000\div125\div8=2000\div\left(125\times8\right)=2000\div1000=2$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -118,7 +138,9 @@ By **Definition 8.3.5 (Associative Law of Multiplication)**, **Definition 8.3.6 
 
 ### Solution to Exercise 11
 
-$98+265+202=\left(98+202\right)+265=565$; $273-73-27=273-100=173$; $250\times13\times4=\left(250\times4\right)\times13=13000$; $3200\div4\div25=3200\div100=32$; $88\times125=\left(80+8\right)\times125=10000+1000=11000$; $99\times38+38=\left(99+1\right)\times38=3800$; $17\times23-23\times7=\left(17-7\right)\times23=230$; $72\times125=9\times\left(8\times125\right)=9000$. $\blacksquare$
+$98+265+202=\left(98+202\right)+265=565$; $273-73-27=273-100=173$; $250\times13\times4=\left(250\times4\right)\times13=13000$; $3200\div4\div25=3200\div100=32$; $88\times125=\left(80+8\right)\times125=10000+1000=11000$; $99\times38+38=\left(99+1\right)\times38=3800$; $17\times23-23\times7=\left(17-7\right)\times23=230$; $72\times125=9\times\left(8\times125\right)=9000$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -126,7 +148,9 @@ $98+265+202=\left(98+202\right)+265=565$; $273-73-27=273-100=173$; $250\times13\
 
 ### Solution to Exercise 12
 
-By **Definition 8.3.7 (Operation Property of Division)**, $350\div14=350\div7\div2=50\div2=25$ (books). $\blacksquare$
+By **Definition 8.3.7 (Operation Property of Division)**, $350\div14=350\div7\div2=50\div2=25$ (books).
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -134,7 +158,9 @@ By **Definition 8.3.7 (Operation Property of Division)**, $350\div14=350\div7\di
 
 ### Solution to Exercise 13
 
-$5$ albums hold $32\times6\times5=32\times30=960$ (photos); since $960>900$, they are enough. $\blacksquare$
+$5$ albums hold $32\times6\times5=32\times30=960$ (photos); since $960>900$, they are enough.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -142,4 +168,6 @@ $5$ albums hold $32\times6\times5=32\times30=960$ (photos); since $960>900$, the
 
 ### Solution to Exercise 14
 
-$106\times25=25\times106$ uses the commutative law; $5\times17\times4=5\times4\times17$ uses the commutative law; $13\times3\times2=13\times\left(3\times2\right)$ uses the associative law; $25\times8\times4=8\times\left(25\times4\right)$ uses both commutative and associative; $102\times23+102\times7=102\times\left(23+7\right)$ uses the distributive law; $125\times\left(8+4\right)=125\times8+125\times4$ uses the distributive law. $\blacksquare$
+$106\times25=25\times106$ uses the commutative law; $5\times17\times4=5\times4\times17$ uses the commutative law; $13\times3\times2=13\times\left(3\times2\right)$ uses the associative law; $25\times8\times4=8\times\left(25\times4\right)$ uses both commutative and associative; $102\times23+102\times7=102\times\left(23+7\right)$ uses the distributive law; $125\times\left(8+4\right)=125\times8+125\times4$ uses the distributive law.
+
+$\blacksquare$

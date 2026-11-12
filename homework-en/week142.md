@@ -30,7 +30,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 12.5.4 (Inverse Proportion)**, two quantities are inversely proportional only when their product is constant. (1) Days used $\times$ daily coal consumption $=$ total coal (constant), so inversely proportional. (2) Number of groups $\times$ number per group $=$ class size (constant), so inversely proportional. (3) Base area $\times$ height $=$ volume (constant), so inversely proportional. (4) Cucumber area $+$ tomato area $=$ plot area (a constant sum), so not. (5) Number of packages $\times$ books per package $=$ total books (constant), so inversely proportional. $\blacksquare$
+By **Definition 12.5.4 (Inverse Proportion)**, two quantities are inversely proportional only when their product is constant. (1) Days used $\times$ daily coal consumption $=$ total coal (constant), so inversely proportional. (2) Number of groups $\times$ number per group $=$ class size (constant), so inversely proportional. (3) Base area $\times$ height $=$ volume (constant), so inversely proportional. (4) Cucumber area $+$ tomato area $=$ plot area (a constant sum), so not. (5) Number of packages $\times$ books per package $=$ total books (constant), so inversely proportional.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -38,7 +40,9 @@ By **Definition 12.5.4 (Inverse Proportion)**, two quantities are inversely prop
 
 ### Solution to Exercise 2
 
-By **Definition 12.5.5 (Scale)**, $120\,\mathrm{km}=12000000\,\mathrm{cm}$, so the scale $=2.4:12000000=1:5000000$. $\blacksquare$
+By **Definition 12.5.5 (Scale)**, $120\,\mathrm{km}=12000000\,\mathrm{cm}$, so the scale $=2.4:12000000=1:5000000$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -46,7 +50,9 @@ By **Definition 12.5.5 (Scale)**, $120\,\mathrm{km}=12000000\,\mathrm{cm}$, so t
 
 ### Solution to Exercise 3
 
-By **Definition 12.5.5 (Scale)**, $2\,\mathrm{cm}=20\,\mathrm{mm}$, so the scale $=20:5=4:1$. $\blacksquare$
+By **Definition 12.5.5 (Scale)**, $2\,\mathrm{cm}=20\,\mathrm{mm}$, so the scale $=20:5=4:1$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -54,7 +60,9 @@ By **Definition 12.5.5 (Scale)**, $2\,\mathrm{cm}=20\,\mathrm{mm}$, so the scale
 
 ### Solution to Exercise 4
 
-By **Definition 12.5.5 (Scale)**, the actual distance $=$ on-paper distance $\times30000=77\times30000=2310000\,\mathrm{cm}=23.1\,\mathrm{km}$. $\blacksquare$
+By **Definition 12.5.5 (Scale)**, the actual distance $=$ on-paper distance $\times30000=77\times30000=2310000\,\mathrm{cm}=23.1\,\mathrm{km}$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -62,7 +70,9 @@ By **Definition 12.5.5 (Scale)**, the actual distance $=$ on-paper distance $\ti
 
 ### Solution to Exercise 5
 
-By **Definition 12.5.5 (Scale)**, $6\,\mathrm{m}=600\,\mathrm{cm}$, so the scale $=4:600=1:150$. $\blacksquare$
+By **Definition 12.5.5 (Scale)**, $6\,\mathrm{m}=600\,\mathrm{cm}$, so the scale $=4:600=1:150$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -70,7 +80,9 @@ By **Definition 12.5.5 (Scale)**, $6\,\mathrm{m}=600\,\mathrm{cm}$, so the scale
 
 ### Solution to Exercise 6
 
-By **Definition 12.5.5 (Scale)**, $1900\,\mathrm{km}=190000000\,\mathrm{cm}$, so the on-paper distance $=190000000\div40000000=4.75\,\mathrm{cm}$. $\blacksquare$
+By **Definition 12.5.5 (Scale)**, $1900\,\mathrm{km}=190000000\,\mathrm{cm}$, so the on-paper distance $=190000000\div40000000=4.75\,\mathrm{cm}$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -78,7 +90,9 @@ By **Definition 12.5.5 (Scale)**, $1900\,\mathrm{km}=190000000\,\mathrm{cm}$, so
 
 ### Solution to Exercise 7
 
-Enlarging at $2:1$ means scaling every side to $2$ times its original length. After enlarging, the interior angles are unchanged; the side lengths and perimeter both become $2$ times the original; for the right triangle, the two legs become $2$ times as long and the hypotenuse also becomes $2$ times as long. The shape is unchanged but the size changes. $\blacksquare$
+Enlarging at $2:1$ means scaling every side to $2$ times its original length. After enlarging, the interior angles are unchanged; the side lengths and perimeter both become $2$ times the original; for the right triangle, the two legs become $2$ times as long and the hypotenuse also becomes $2$ times as long. The shape is unchanged but the size changes.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -86,7 +100,9 @@ Enlarging at $2:1$ means scaling every side to $2$ times its original length. Af
 
 ### Solution to Exercise 8
 
-By **Definition 12.5.3 (Direct Proportion)**, since the price per ton of water is fixed, the water bill is directly proportional to the tons of water used. Let Grandma Li's bill be $x$ yuan. Then $\frac{40}{8}=\frac{x}{10}$, $8x=400$, $x=50$ yuan. $\blacksquare$
+By **Definition 12.5.3 (Direct Proportion)**, since the price per ton of water is fixed, the water bill is directly proportional to the tons of water used. Let Grandma Li's bill be $x$ yuan. Then $\frac{40}{8}=\frac{x}{10}$, $8x=400$, $x=50$ yuan.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -94,7 +110,9 @@ By **Definition 12.5.3 (Direct Proportion)**, since the price per ton of water i
 
 ### Solution to Exercise 9
 
-By **Definition 12.5.3 (Direct Proportion)**, since the unit price is fixed, the total cost is directly proportional to the quantity. Let the cost be $x$ yuan. Then $\frac{6}{4}=\frac{x}{3}$, $4x=18$, $x=4.5$ yuan. $\blacksquare$
+By **Definition 12.5.3 (Direct Proportion)**, since the unit price is fixed, the total cost is directly proportional to the quantity. Let the cost be $x$ yuan. Then $\frac{6}{4}=\frac{x}{3}$, $4x=18$, $x=4.5$ yuan.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -102,7 +120,9 @@ By **Definition 12.5.3 (Direct Proportion)**, since the unit price is fixed, the
 
 ### Solution to Exercise 10
 
-By **Definition 12.5.4 (Inverse Proportion)**, since the total electricity is fixed, the daily usage is inversely proportional to the number of days. Let it now last $x$ days. Then $25x=100\times5$, $x=20$ days. $\blacksquare$
+By **Definition 12.5.4 (Inverse Proportion)**, since the total electricity is fixed, the daily usage is inversely proportional to the number of days. Let it now last $x$ days. Then $25x=100\times5$, $x=20$ days.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -110,7 +130,9 @@ By **Definition 12.5.4 (Inverse Proportion)**, since the total electricity is fi
 
 ### Solution to Exercise 11
 
-By **Definition 12.5.4 (Inverse Proportion)**, since the total money is fixed, the unit price is inversely proportional to the quantity. Let him buy $x$ pens. Then $2x=4\times1.5$, $2x=6$, $x=3$ pens. $\blacksquare$
+By **Definition 12.5.4 (Inverse Proportion)**, since the total money is fixed, the unit price is inversely proportional to the quantity. Let him buy $x$ pens. Then $2x=4\times1.5$, $2x=6$, $x=3$ pens.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -118,7 +140,9 @@ By **Definition 12.5.4 (Inverse Proportion)**, since the total money is fixed, t
 
 ### Solution to Exercise 12
 
-By **Definition 12.5.3 (Direct Proportion)**, at the same instant the ratio of object height to shadow length is constant. Let the tree's height be $x\,\mathrm{m}$. Then $\frac{1.5}{2.4}=\frac{x}{4}$, $2.4x=6$, $x=2.5\,\mathrm{m}$. $\blacksquare$
+By **Definition 12.5.3 (Direct Proportion)**, at the same instant the ratio of object height to shadow length is constant. Let the tree's height be $x\,\mathrm{m}$. Then $\frac{1.5}{2.4}=\frac{x}{4}$, $2.4x=6$, $x=2.5\,\mathrm{m}$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -126,7 +150,9 @@ By **Definition 12.5.3 (Direct Proportion)**, at the same instant the ratio of o
 
 ### Solution to Exercise 13
 
-By **Definition 12.5.3 (Direct Proportion)**, since the time per orbit is fixed, the number of orbits is directly proportional to the time. Let the time be $x$ hours. Then $\frac{9}{6}=\frac{x}{15}$, $6x=135$, $x=22.5$ hours. $\blacksquare$
+By **Definition 12.5.3 (Direct Proportion)**, since the time per orbit is fixed, the number of orbits is directly proportional to the time. Let the time be $x$ hours. Then $\frac{9}{6}=\frac{x}{15}$, $6x=135$, $x=22.5$ hours.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -134,7 +160,9 @@ By **Definition 12.5.3 (Direct Proportion)**, since the time per orbit is fixed,
 
 ### Solution to Exercise 14
 
-By **Definition 12.5.3 (Direct Proportion)**, since the speed is fixed, the distance is directly proportional to the time. Let the time be $x$ hours. Then $\frac{160}{2}=\frac{400}{x}$, $160x=800$, $x=5$ hours. $\blacksquare$
+By **Definition 12.5.3 (Direct Proportion)**, since the speed is fixed, the distance is directly proportional to the time. Let the time be $x$ hours. Then $\frac{160}{2}=\frac{400}{x}$, $160x=800$, $x=5$ hours.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -142,7 +170,9 @@ By **Definition 12.5.3 (Direct Proportion)**, since the speed is fixed, the dist
 
 ### Solution to Exercise 15
 
-By **Definition 12.5.5 (Scale)**. (1) $15\,\mathrm{km}=1500000\,\mathrm{cm}$, so the scale $=5:1500000=1:300000$. (2) The diameter ratio $=$ the radius ratio $=5:3$; the circumference ratio $=5:3$; the area ratio $=5^{2}:3^{2}=25:9$. (3) After enlarging, the length is $15\,\mathrm{cm}$ and the width is $9\,\mathrm{cm}$, so the area $=15\times9=135\,\mathrm{cm}^{2}$. $\blacksquare$
+By **Definition 12.5.5 (Scale)**. (1) $15\,\mathrm{km}=1500000\,\mathrm{cm}$, so the scale $=5:1500000=1:300000$. (2) The diameter ratio $=$ the radius ratio $=5:3$; the circumference ratio $=5:3$; the area ratio $=5^{2}:3^{2}=25:9$. (3) After enlarging, the length is $15\,\mathrm{cm}$ and the width is $9\,\mathrm{cm}$, so the area $=15\times9=135\,\mathrm{cm}^{2}$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -150,7 +180,9 @@ By **Definition 12.5.5 (Scale)**. (1) $15\,\mathrm{km}=1500000\,\mathrm{cm}$, so
 
 ### Solution to Exercise 16
 
-By **Definition 12.5.5 (Scale)**, the actual distance $=5.5\times2000000=11000000\,\mathrm{cm}$. On the other map, the on-paper distance $=11000000\div5000000=2.2\,\mathrm{cm}$. $\blacksquare$
+By **Definition 12.5.5 (Scale)**, the actual distance $=5.5\times2000000=11000000\,\mathrm{cm}$. On the other map, the on-paper distance $=11000000\div5000000=2.2\,\mathrm{cm}$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -158,4 +190,6 @@ By **Definition 12.5.5 (Scale)**, the actual distance $=5.5\times2000000=1100000
 
 ### Solution to Exercise 17
 
-By **Definition 12.2.1 (Discount)** and **Definition 12.5.4 (Inverse Proportion)**. (1) The discount $=150\div250=60\%$ (40% off), so the trousers' current price $=180\times60\%=108$ yuan. (2) The jackets' current price $=200\times60\%=120$ yuan; Uncle Zhang has $90\times4=360$ yuan, so he can buy $360\div120=3$ jackets. $\blacksquare$
+By **Definition 12.2.1 (Discount)** and **Definition 12.5.4 (Inverse Proportion)**. (1) The discount $=150\div250=60\%$ (40% off), so the trousers' current price $=180\times60\%=108$ yuan. (2) The jackets' current price $=200\times60\%=120$ yuan; Uncle Zhang has $90\times4=360$ yuan, so he can buy $360\div120=3$ jackets.
+
+$\blacksquare$

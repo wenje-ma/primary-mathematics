@@ -30,7 +30,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 10.3.1 (Features of Cuboids and Cubes)** and **Definition 10.3.2 (Surface Area)**: (1) $6\times46^2=6\times2116=12696\,\mathrm{cm^2}$; (2) total edge length $=46\times12=552\,\mathrm{cm}=5.52\,\mathrm{m}$, and $5.52>4.5$, so the tape is not enough. $\blacksquare$
+By **Definition 10.3.1 (Features of Cuboids and Cubes)** and **Definition 10.3.2 (Surface Area)**: (1) $6\times46^2=6\times2116=12696\,\mathrm{cm^2}$; (2) total edge length $=46\times12=552\,\mathrm{cm}=5.52\,\mathrm{m}$, and $5.52>4.5$, so the tape is not enough.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -38,7 +40,9 @@ By **Definition 10.3.1 (Features of Cuboids and Cubes)** and **Definition 10.3.2
 
 ### Solution to Exercise 2
 
-By **Definition 10.3.2 (Surface Area)**: (1) a cuboid, $S=\left(15\times15+15\times10+15\times10\right)\times2=\left(225+150+150\right)\times2=1050\,\mathrm{cm^2}$; (2) a cube, $S=6\times12^2=864\,\mathrm{m^2}$; (3) a cuboid, $S=\left(13\times12+13\times10+12\times10\right)\times2=\left(156+130+120\right)\times2=812\,\mathrm{dm^2}$. $\blacksquare$
+By **Definition 10.3.2 (Surface Area)**: (1) a cuboid, $S=\left(15\times15+15\times10+15\times10\right)\times2=\left(225+150+150\right)\times2=1050\,\mathrm{cm^2}$; (2) a cube, $S=6\times12^2=864\,\mathrm{m^2}$; (3) a cuboid, $S=\left(13\times12+13\times10+12\times10\right)\times2=\left(156+130+120\right)\times2=812\,\mathrm{dm^2}$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -46,7 +50,9 @@ By **Definition 10.3.2 (Surface Area)**: (1) a cuboid, $S=\left(15\times15+15\ti
 
 ### Solution to Exercise 3
 
-By **Definition 10.3.2 (Surface Area)**, with no lid, compute $5$ faces: $5\times3^2=45\,\mathrm{dm^2}$. $\blacksquare$
+By **Definition 10.3.2 (Surface Area)**, with no lid, compute $5$ faces: $5\times3^2=45\,\mathrm{dm^2}$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -54,7 +60,9 @@ By **Definition 10.3.2 (Surface Area)**, with no lid, compute $5$ faces: $5\time
 
 ### Solution to Exercise 4
 
-By **Definition 10.3.2 (Surface Area)**, surface area $=6\times1.2^2=8.64\,\mathrm{dm^2}$, wrapping paper $=8.64\times1.5=12.96\,\mathrm{dm^2}$. $\blacksquare$
+By **Definition 10.3.2 (Surface Area)**, surface area $=6\times1.2^2=8.64\,\mathrm{dm^2}$, wrapping paper $=8.64\times1.5=12.96\,\mathrm{dm^2}$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -62,7 +70,9 @@ By **Definition 10.3.2 (Surface Area)**, surface area $=6\times1.2^2=8.64\,\math
 
 ### Solution to Exercise 5
 
-By **Definition 10.3.2 (Surface Area)**, width $=50\div2=25\,\mathrm{m}$; tile $1$ bottom and $4$ sides: $50\times25+\left(50\times2.5+25\times2.5\right)\times2=1250+\left(125+62.5\right)\times2=1250+375=1625\,\mathrm{m^2}$. $\blacksquare$
+By **Definition 10.3.2 (Surface Area)**, width $=50\div2=25\,\mathrm{m}$; tile $1$ bottom and $4$ sides: $50\times25+\left(50\times2.5+25\times2.5\right)\times2=1250+\left(125+62.5\right)\times2=1250+375=1625\,\mathrm{m^2}$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -70,7 +80,9 @@ By **Definition 10.3.2 (Surface Area)**, width $=50\div2=25\,\mathrm{m}$; tile $
 
 ### Solution to Exercise 6
 
-By **Definition 10.3.2 (Surface Area)**, paint ceiling and sides, then subtract doors/windows: $8\times6+\left(8\times3+6\times3\right)\times2-11.4=48+84-11.4=120.6\,\mathrm{m^2}$, cost $=120.6\times6=723.6$ yuan. $\blacksquare$
+By **Definition 10.3.2 (Surface Area)**, paint ceiling and sides, then subtract doors/windows: $8\times6+\left(8\times3+6\times3\right)\times2-11.4=48+84-11.4=120.6\,\mathrm{m^2}$, cost $=120.6\times6=723.6$ yuan.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -78,7 +90,9 @@ By **Definition 10.3.2 (Surface Area)**, paint ceiling and sides, then subtract 
 
 ### Solution to Exercise 7
 
-By **Definition 10.3.2 (Surface Area)**: the sum of the three front faces $=40\times40+40\times65+40\times40=1600+2600+1600=5800\,\mathrm{cm^2}$, and the two yellow faces (front and back) $=5800\times2=11600\,\mathrm{cm^2}$; the red covers the left, right, and top exposed parts, computed from their exposed area. $\blacksquare$
+By **Definition 10.3.2 (Surface Area)**: the sum of the three front faces $=40\times40+40\times65+40\times40=1600+2600+1600=5800\,\mathrm{cm^2}$, and the two yellow faces (front and back) $=5800\times2=11600\,\mathrm{cm^2}$; the red covers the left, right, and top exposed parts, computed from their exposed area.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -86,7 +100,9 @@ By **Definition 10.3.2 (Surface Area)**: the sum of the three front faces $=40\t
 
 ### Solution to Exercise 8
 
-By **Definition 10.3.2 (Surface Area)**, cutting at the middle of the length adds $2$ $4\times4$ square cross-sections, so the $2$ cubes' surface area exceeds the original by $2\times4\times4=32\,\mathrm{cm^2}$; they are not equal. $\blacksquare$
+By **Definition 10.3.2 (Surface Area)**, cutting at the middle of the length adds $2$ $4\times4$ square cross-sections, so the $2$ cubes' surface area exceeds the original by $2\times4\times4=32\,\mathrm{cm^2}$; they are not equal.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -94,7 +110,9 @@ By **Definition 10.3.2 (Surface Area)**, cutting at the middle of the length add
 
 ### Solution to Exercise 9
 
-By **Definition 10.3.3 (Volume and Volume Units)**, each small cube has volume $1\,\mathrm{cm^3}$; count the cubes in each solid to get the volume in cubic centimeters. $\blacksquare$
+By **Definition 10.3.3 (Volume and Volume Units)**, each small cube has volume $1\,\mathrm{cm^3}$; count the cubes in each solid to get the volume in cubic centimeters.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -102,7 +120,9 @@ By **Definition 10.3.3 (Volume and Volume Units)**, each small cube has volume $
 
 ### Solution to Exercise 10
 
-By **Definition 10.3.4 (Volume Formulas)**: (1) $V=15\times7\times5=525\,\mathrm{cm^3}$; (2) $V=Sh=0.06\times5=0.3\,\mathrm{m^3}$. $\blacksquare$
+By **Definition 10.3.4 (Volume Formulas)**: (1) $V=15\times7\times5=525\,\mathrm{cm^3}$; (2) $V=Sh=0.06\times5=0.3\,\mathrm{m^3}$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -110,7 +130,9 @@ By **Definition 10.3.4 (Volume Formulas)**: (1) $V=15\times7\times5=525\,\mathrm
 
 ### Solution to Exercise 11
 
-By **Definition 10.3.5 (Conversion Between Volume Units)**: $3.5\,\mathrm{dm^3}=3500\,\mathrm{cm^3}$; $700\,\mathrm{dm^3}=0.7\,\mathrm{m^3}$; $0.25\,\mathrm{m^3}=250000\,\mathrm{cm^3}$. $\blacksquare$
+By **Definition 10.3.5 (Conversion Between Volume Units)**: $3.5\,\mathrm{dm^3}=3500\,\mathrm{cm^3}$; $700\,\mathrm{dm^3}=0.7\,\mathrm{m^3}$; $0.25\,\mathrm{m^3}=250000\,\mathrm{cm^3}$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -118,7 +140,9 @@ By **Definition 10.3.5 (Conversion Between Volume Units)**: $3.5\,\mathrm{dm^3}=
 
 ### Solution to Exercise 12
 
-By **Definition 10.3.3 (Volume and Volume Units)**: (1)(2) count the small cubes; more cubes means larger volume; (3) eraser about $10\,\mathrm{cm^3}$, rice cooker about $25\,\mathrm{dm^3}$, shipping container about $40\,\mathrm{m^3}$. $\blacksquare$
+By **Definition 10.3.3 (Volume and Volume Units)**: (1)(2) count the small cubes; more cubes means larger volume; (3) eraser about $10\,\mathrm{cm^3}$, rice cooker about $25\,\mathrm{dm^3}$, shipping container about $40\,\mathrm{m^3}$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -126,7 +150,9 @@ By **Definition 10.3.3 (Volume and Volume Units)**: (1)(2) count the small cubes
 
 ### Solution to Exercise 13
 
-By **Definition 10.3.4 (Volume Formulas)**: $4^3=64$, $4\times3=12$, $4+4+4=12$; $8^2=64$, $8\times2=16$, $8+8=16$. $\blacksquare$
+By **Definition 10.3.4 (Volume Formulas)**: $4^3=64$, $4\times3=12$, $4+4+4=12$; $8^2=64$, $8\times2=16$, $8+8=16$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -134,4 +160,6 @@ By **Definition 10.3.4 (Volume Formulas)**: $4^3=64$, $4\times3=12$, $4+4+4=12$;
 
 ### Solution to Exercise 14
 
-By **Definition 10.3.4 (Volume Formulas)**: (1) $V=10\times3\times16=480\,\mathrm{m^3}$; (2) $V=9^3=729\,\mathrm{dm^3}$; (3) $V=10\times3\times3=90\,\mathrm{cm^3}$. $\blacksquare$
+By **Definition 10.3.4 (Volume Formulas)**: (1) $V=10\times3\times16=480\,\mathrm{m^3}$; (2) $V=9^3=729\,\mathrm{dm^3}$; (3) $V=10\times3\times3=90\,\mathrm{cm^3}$.
+
+$\blacksquare$

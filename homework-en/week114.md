@@ -30,7 +30,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 10.3.4 (Volume Formulas)**, $50\,\mathrm{cm}=0.5\,\mathrm{m}$, $V=50\times30\times0.5=750\,\mathrm{m^3}=750$ fang. $\blacksquare$
+By **Definition 10.3.4 (Volume Formulas)**, $50\,\mathrm{cm}=0.5\,\mathrm{m}$, $V=50\times30\times0.5=750\,\mathrm{m^3}=750$ fang.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -38,7 +40,9 @@ By **Definition 10.3.4 (Volume Formulas)**, $50\,\mathrm{cm}=0.5\,\mathrm{m}$, $
 
 ### Solution to Exercise 2
 
-By **Definition 10.3.4 (Volume Formulas)**, $V=30^3=27000\,\mathrm{cm^3}$. $\blacksquare$
+By **Definition 10.3.4 (Volume Formulas)**, $V=30^3=27000\,\mathrm{cm^3}$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -46,7 +50,9 @@ By **Definition 10.3.4 (Volume Formulas)**, $V=30^3=27000\,\mathrm{cm^3}$. $\bla
 
 ### Solution to Exercise 3
 
-By **Definition 10.3.4 (Volume Formulas)** $V=Sh$: row 1, $5\,\mathrm{dm}=50\,\mathrm{cm}$, $V=32\times50=1600\,\mathrm{cm^3}$; row 2, $h=448\div40=11.2\,\mathrm{cm}$; row 3, $V=54\times900=48600\,\mathrm{cm^3}$; row 4, $S=729000000\div7=104142857\,\mathrm{cm^2}$. $\blacksquare$
+By **Definition 10.3.4 (Volume Formulas)** $V=Sh$: row 1, $5\,\mathrm{dm}=50\,\mathrm{cm}$, $V=32\times50=1600\,\mathrm{cm^3}$; row 2, $h=448\div40=11.2\,\mathrm{cm}$; row 3, $V=54\times900=48600\,\mathrm{cm^3}$; row 4, $S=729000000\div7=104142857\,\mathrm{cm^2}$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -54,7 +60,9 @@ By **Definition 10.3.4 (Volume Formulas)** $V=Sh$: row 1, $5\,\mathrm{dm}=50\,\m
 
 ### Solution to Exercise 4
 
-By **Definition 10.3.4 (Volume Formulas)**, $2.4\,\mathrm{dm^2}=0.024\,\mathrm{m^2}$; one timber is $=0.024\times3=0.072\,\mathrm{m^3}$, and $500$ timbers $=0.072\times500=36\,\mathrm{m^3}$. $\blacksquare$
+By **Definition 10.3.4 (Volume Formulas)**, $2.4\,\mathrm{dm^2}=0.024\,\mathrm{m^2}$; one timber is $=0.024\times3=0.072\,\mathrm{m^3}$, and $500$ timbers $=0.072\times500=36\,\mathrm{m^3}$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -62,7 +70,9 @@ By **Definition 10.3.4 (Volume Formulas)**, $2.4\,\mathrm{dm^2}=0.024\,\mathrm{m
 
 ### Solution to Exercise 5
 
-By **Definition 10.3.5 (Conversion Between Volume Units)** and area conversions: $1.02\,\mathrm{m^3}=1020\,\mathrm{dm^3}$; $960\,\mathrm{dm^3}=0.96\,\mathrm{m^3}$; $6270\,\mathrm{cm^2}=62.7\,\mathrm{dm^2}$; $36000\,\mathrm{cm^3}=0.036\,\mathrm{m^3}$; $8.63\,\mathrm{m^2}=863\,\mathrm{dm^2}$; $23\,\mathrm{dm^3}=23000\,\mathrm{cm^3}$. $\blacksquare$
+By **Definition 10.3.5 (Conversion Between Volume Units)** and area conversions: $1.02\,\mathrm{m^3}=1020\,\mathrm{dm^3}$; $960\,\mathrm{dm^3}=0.96\,\mathrm{m^3}$; $6270\,\mathrm{cm^2}=62.7\,\mathrm{dm^2}$; $36000\,\mathrm{cm^3}=0.036\,\mathrm{m^3}$; $8.63\,\mathrm{m^2}=863\,\mathrm{dm^2}$; $23\,\mathrm{dm^3}=23000\,\mathrm{cm^3}$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -70,7 +80,9 @@ By **Definition 10.3.5 (Conversion Between Volume Units)** and area conversions:
 
 ### Solution to Exercise 6
 
-By **Definition 10.3.4 (Volume Formulas)**, $11.76\,\mathrm{dm^3}=11760\,\mathrm{cm^3}$; the box height $=11760\div\left(28\times20\right)=21\,\mathrm{cm}$. Inside, length $28>25$, width $20>16$, height $21>18$; all three directions fit, so yes it holds. $\blacksquare$
+By **Definition 10.3.4 (Volume Formulas)**, $11.76\,\mathrm{dm^3}=11760\,\mathrm{cm^3}$; the box height $=11760\div\left(28\times20\right)=21\,\mathrm{cm}$. Inside, length $28>25$, width $20>16$, height $21>18$; all three directions fit, so yes it holds.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -78,7 +90,9 @@ By **Definition 10.3.4 (Volume Formulas)**, $11.76\,\mathrm{dm^3}=11760\,\mathrm
 
 ### Solution to Exercise 7
 
-By **Definition 10.3.4 (Volume Formulas)**, the wall's volume $=600\times270\times6=972000\,\mathrm{cm^3}$; one cube $=3^3=27\,\mathrm{cm^3}$; number of cubes $=972000\div27=36000$. $\blacksquare$
+By **Definition 10.3.4 (Volume Formulas)**, the wall's volume $=600\times270\times6=972000\,\mathrm{cm^3}$; one cube $=3^3=27\,\mathrm{cm^3}$; number of cubes $=972000\div27=36000$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -86,7 +100,9 @@ By **Definition 10.3.4 (Volume Formulas)**, the wall's volume $=600\times270\tim
 
 ### Solution to Exercise 8
 
-By **Definition 10.3.2 (Surface Area)** and **Definition 10.3.4 (Volume Formulas)**, $60\,\mathrm{cm}=0.6\,\mathrm{m}$: glass area $=6\times0.6+\left(6\times1.5+0.6\times1.5\right)\times2=3.6+19.8=23.4\,\mathrm{m^2}$; volume $=6\times0.6\times1.5=5.4\,\mathrm{m^3}$. $\blacksquare$
+By **Definition 10.3.2 (Surface Area)** and **Definition 10.3.4 (Volume Formulas)**, $60\,\mathrm{cm}=0.6\,\mathrm{m}$: glass area $=6\times0.6+\left(6\times1.5+0.6\times1.5\right)\times2=3.6+19.8=23.4\,\mathrm{m^2}$; volume $=6\times0.6\times1.5=5.4\,\mathrm{m^3}$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -94,7 +110,9 @@ By **Definition 10.3.2 (Surface Area)** and **Definition 10.3.4 (Volume Formulas
 
 ### Solution to Exercise 9
 
-By **Definition 10.3.4 (Volume Formulas)**, $38\,\mathrm{dm}=3.8\,\mathrm{m}$; base area $=5\times3.8=19\,\mathrm{m^2}$; thickness $h=7.6\div19=0.4\,\mathrm{m}$. $\blacksquare$
+By **Definition 10.3.4 (Volume Formulas)**, $38\,\mathrm{dm}=3.8\,\mathrm{m}$; base area $=5\times3.8=19\,\mathrm{m^2}$; thickness $h=7.6\div19=0.4\,\mathrm{m}$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -102,7 +120,9 @@ By **Definition 10.3.4 (Volume Formulas)**, $38\,\mathrm{dm}=3.8\,\mathrm{m}$; b
 
 ### Solution to Exercise 10
 
-By **Definition 10.3.4 (Volume Formulas)**, $V=40\times20\times10=8000\,\mathrm{cm^3}$. $\blacksquare$
+By **Definition 10.3.4 (Volume Formulas)**, $V=40\times20\times10=8000\,\mathrm{cm^3}$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -110,7 +130,9 @@ By **Definition 10.3.4 (Volume Formulas)**, $V=40\times20\times10=8000\,\mathrm{
 
 ### Solution to Exercise 11
 
-By **Definition 10.3.1 (Features of Cuboids and Cubes)** and **Definition 10.3.4 (Volume Formulas)**, the cuboid's total edge length $=\left(6+4+5\right)\times4=60\,\mathrm{cm}$, so the cube's edge $=60\div12=5\,\mathrm{cm}$; cuboid volume $=6\times4\times5=120\,\mathrm{cm^3}$, cube volume $=5^3=125\,\mathrm{cm^3}$; not equal. $\blacksquare$
+By **Definition 10.3.1 (Features of Cuboids and Cubes)** and **Definition 10.3.4 (Volume Formulas)**, the cuboid's total edge length $=\left(6+4+5\right)\times4=60\,\mathrm{cm}$, so the cube's edge $=60\div12=5\,\mathrm{cm}$; cuboid volume $=6\times4\times5=120\,\mathrm{cm^3}$, cube volume $=5^3=125\,\mathrm{cm^3}$; not equal.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -118,7 +140,9 @@ By **Definition 10.3.1 (Features of Cuboids and Cubes)** and **Definition 10.3.4
 
 ### Solution to Exercise 12
 
-By **Definition 10.3.6 (Capacity and Capacity Units)**, capacity $=5\times4\times2=40\,\mathrm{dm^3}=40\,\mathrm{L}$. $\blacksquare$
+By **Definition 10.3.6 (Capacity and Capacity Units)**, capacity $=5\times4\times2=40\,\mathrm{dm^3}=40\,\mathrm{L}$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -126,4 +150,6 @@ By **Definition 10.3.6 (Capacity and Capacity Units)**, capacity $=5\times4\time
 
 ### Solution to Exercise 13
 
-By **Definition 10.3.6 (Capacity and Capacity Units)**: (1) ink $50\,\mathrm{mL}$, hand soap $500\,\mathrm{mL}$, refrigerator $229\,\mathrm{L}$, manned cabin $3\,\mathrm{m^3}$; (2) $4\,\mathrm{L}=4000\,\mathrm{mL}$, $4800\,\mathrm{mL}=4.8\,\mathrm{L}$, $2.4\,\mathrm{L}=2400\,\mathrm{mL}$, $82\,\mathrm{cm^3}=82\,\mathrm{mL}$, $35\,\mathrm{dm^3}=35000\,\mathrm{mL}$, $500\,\mathrm{mL}=0.5\,\mathrm{L}$. $\blacksquare$
+By **Definition 10.3.6 (Capacity and Capacity Units)**: (1) ink $50\,\mathrm{mL}$, hand soap $500\,\mathrm{mL}$, refrigerator $229\,\mathrm{L}$, manned cabin $3\,\mathrm{m^3}$; (2) $4\,\mathrm{L}=4000\,\mathrm{mL}$, $4800\,\mathrm{mL}=4.8\,\mathrm{L}$, $2.4\,\mathrm{L}=2400\,\mathrm{mL}$, $82\,\mathrm{cm^3}=82\,\mathrm{mL}$, $35\,\mathrm{dm^3}=35000\,\mathrm{mL}$, $500\,\mathrm{mL}=0.5\,\mathrm{L}$.
+
+$\blacksquare$

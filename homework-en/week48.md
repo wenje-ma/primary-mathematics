@@ -42,7 +42,9 @@
 
 ### Solution to Exercise 1
 
-Weighing tools include the pan scale, balance, electronic scale, platform scale, weighbridge (truck scale), steelyard, and so on. Grams, kilograms and tons are commonly used to record mass; in daily life the kilo, jin and liang are also used. $\blacksquare$
+Weighing tools include the pan scale, balance, electronic scale, platform scale, weighbridge (truck scale), steelyard, and so on. Grams, kilograms and tons are commonly used to record mass; in daily life the kilo, jin and liang are also used.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -50,7 +52,9 @@ Weighing tools include the pan scale, balance, electronic scale, platform scale,
 
 ### Solution to Exercise 2
 
-By **Definition 5.4.2 (The Gram and the Kilogram)**, gram and kilogram markings are common on pan scales, balances and electronic scales; a child's weight is about $25$ kilograms. $\blacksquare$
+By **Definition 5.4.2 (The Gram and the Kilogram)**, gram and kilogram markings are common on pan scales, balances and electronic scales; a child's weight is about $25$ kilograms.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -58,7 +62,9 @@ By **Definition 5.4.2 (The Gram and the Kilogram)**, gram and kilogram markings 
 
 ### Solution to Exercise 3
 
-By **Definition 5.4.2 (The Gram and the Kilogram)**, read the unit on the scale face and the pointer position: for example, if the pan-scale pointer points to the $2$ kilogram mark, read it as $2$ kilograms; for a balance, add the readings of the weight set. Read off the specific grams or kilograms according to each pointer position in the figure. $\blacksquare$
+By **Definition 5.4.2 (The Gram and the Kilogram)**, read the unit on the scale face and the pointer position: for example, if the pan-scale pointer points to the $2$ kilogram mark, read it as $2$ kilograms; for a balance, add the readings of the weight set. Read off the specific grams or kilograms according to each pointer position in the figure.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -66,7 +72,9 @@ By **Definition 5.4.2 (The Gram and the Kilogram)**, read the unit on the scale 
 
 ### Solution to Exercise 4
 
-Look it up: a dragonfly is about a few grams, a sparrow about $20\sim30$ grams, a giant panda about $100$ kilograms, a polar bear about $500$ kilograms, a hippopotamus about $3$ tons, and a blue whale about $150$ tons. By **Definition 5.4.3 (The Ton)**, very heavy animals are measured in tons. $\blacksquare$
+Look it up: a dragonfly is about a few grams, a sparrow about $20\sim30$ grams, a giant panda about $100$ kilograms, a polar bear about $500$ kilograms, a hippopotamus about $3$ tons, and a blue whale about $150$ tons. By **Definition 5.4.3 (The Ton)**, very heavy animals are measured in tons.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -74,7 +82,9 @@ Look it up: a dragonfly is about a few grams, a sparrow about $20\sim30$ grams, 
 
 ### Solution to Exercise 5
 
-Compare by hefting in your hand; if the difference is obvious, you can say directly which is lighter and which is heavier (for example, an orange is heavier than an egg); if the difference is not obvious, you need to weigh them before comparing, for example an apple is about $30$ grams heavier than an orange. $\blacksquare$
+Compare by hefting in your hand; if the difference is obvious, you can say directly which is lighter and which is heavier (for example, an orange is heavier than an egg); if the difference is not obvious, you need to weigh them before comparing, for example an apple is about $30$ grams heavier than an orange.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -82,7 +92,9 @@ Compare by hefting in your hand; if the difference is obvious, you can say direc
 
 ### Solution to Exercise 6
 
-By **Definition 5.4.2 (The Gram and the Kilogram)**, for example, $5$ soybeans weigh about $1$ gram, and $1$ kilogram of tomatoes is about $6$ of them. $1$ bag of grain is $100$ kilograms, and $10$ bags weigh $1$ ton. $\blacksquare$
+By **Definition 5.4.2 (The Gram and the Kilogram)**, for example, $5$ soybeans weigh about $1$ gram, and $1$ kilogram of tomatoes is about $6$ of them. $1$ bag of grain is $100$ kilograms, and $10$ bags weigh $1$ ton.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -90,7 +102,9 @@ By **Definition 5.4.2 (The Gram and the Kilogram)**, for example, $5$ soybeans w
 
 ### Solution to Exercise 7
 
-Light objects (such as an eraser or a pencil) are weighed in grams on a balance or electronic scale; heavy objects (such as a schoolbag or a water bottle) are weighed in kilograms on a pan or platform scale. Record the results after weighing. $\blacksquare$
+Light objects (such as an eraser or a pencil) are weighed in grams on a balance or electronic scale; heavy objects (such as a schoolbag or a water bottle) are weighed in kilograms on a pan or platform scale. Record the results after weighing.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -98,7 +112,9 @@ Light objects (such as an eraser or a pencil) are weighed in grams on a balance 
 
 ### Solution to Exercise 8
 
-By **Definition 5.4.2 (克与千克)** and **Definition 5.4.3 (吨)**, a pear is measured in grams ($5$ pears weigh about $1$ kilogram), a bag of rice in kilograms, and an elephant in tons. $\blacksquare$
+By **Definition 5.4.2 (克与千克)** and **Definition 5.4.3 (吨)**, a pear is measured in grams ($5$ pears weigh about $1$ kilogram), a bag of rice in kilograms, and an elephant in tons.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -106,7 +122,9 @@ By **Definition 5.4.2 (克与千克)** and **Definition 5.4.3 (吨)**, a pear is
 
 ### Solution to Exercise 9
 
-A light object (such as a single grain of rice) cannot be weighed accurately on its own; you can weigh the mass of $100$ grains of rice and then divide by $100$ to get the mass of one grain. $\blacksquare$
+A light object (such as a single grain of rice) cannot be weighed accurately on its own; you can weigh the mass of $100$ grains of rice and then divide by $100$ to get the mass of one grain.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -114,7 +132,9 @@ A light object (such as a single grain of rice) cannot be weighed accurately on 
 
 ### Solution to Exercise 10
 
-By **Definition 5.4.4 (Weighing an Object by Using a Known Mass as a Standard)**, hold a bag of salt in one hand and the object in the other and compare by hefting: $1$ water cup weighs about as much as $2$ bags of salt ($400$ grams), and $1$ flashlight about as much as $1$ bag of salt ($200$ grams). For the flowerpot you can use Cao Chong's method of weighing the elephant: put the pot into a basin of water and mark the water level, take out the pot and add bags of salt until the water reaches the mark, then count the bags. A pencil case is about $200$ grams and a dictionary about $400$ grams, and these can also be used as standards. $\blacksquare$
+By **Definition 5.4.4 (Weighing an Object by Using a Known Mass as a Standard)**, hold a bag of salt in one hand and the object in the other and compare by hefting: $1$ water cup weighs about as much as $2$ bags of salt ($400$ grams), and $1$ flashlight about as much as $1$ bag of salt ($200$ grams). For the flowerpot you can use Cao Chong's method of weighing the elephant: put the pot into a basin of water and mark the water level, take out the pot and add bags of salt until the water reaches the mark, then count the bags. A pencil case is about $200$ grams and a dictionary about $400$ grams, and these can also be used as standards.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -122,7 +142,9 @@ By **Definition 5.4.4 (Weighing an Object by Using a Known Mass as a Standard)**
 
 ### Solution to Exercise 11
 
-By **Definition 5.4.4 (Weighing an Object by Using a Known Mass as a Standard)**, besides the gram and kilogram there are also the kilo, jin and liang: $1$ kilo $=1$ kilogram, $1$ jin $=500$ grams, $1$ kilo $=2$ jin, $1$ jin $=10$ liang. In ancient times people used units such as the jin, liang and jun and the steelyard, which differ from today's International System of Units; the idioms "half a jin and eight liang" (six of one and half a dozen of the other), "to haggle over every jin", and "strength to move a thousand jun" all contain mass units. $\blacksquare$
+By **Definition 5.4.4 (Weighing an Object by Using a Known Mass as a Standard)**, besides the gram and kilogram there are also the kilo, jin and liang: $1$ kilo $=1$ kilogram, $1$ jin $=500$ grams, $1$ kilo $=2$ jin, $1$ jin $=10$ liang. In ancient times people used units such as the jin, liang and jun and the steelyard, which differ from today's International System of Units; the idioms "half a jin and eight liang" (six of one and half a dozen of the other), "to haggle over every jin", and "strength to move a thousand jun" all contain mass units.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -130,7 +152,9 @@ By **Definition 5.4.4 (Weighing an Object by Using a Known Mass as a Standard)**
 
 ### Solution to Exercise 12
 
-$20\times3=60$ yuan. By **Definition 5.5.1 (Mental Multiplication)**, $20$ is $2$ tens; $2$ tens times $3$ is $6$ tens, i.e. $60$. $\blacksquare$
+$20\times3=60$ yuan. By **Definition 5.5.1 (Mental Multiplication)**, $20$ is $2$ tens; $2$ tens times $3$ is $6$ tens, i.e. $60$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -138,7 +162,9 @@ $20\times3=60$ yuan. By **Definition 5.5.1 (Mental Multiplication)**, $20$ is $2
 
 ### Solution to Exercise 13
 
-By **Definition 5.5.1 (口算乘法)**, $200$ is $2$ hundreds; $2$ hundreds times $3$ is $6$ hundreds, so $200\times3=600$. $\blacksquare$
+By **Definition 5.5.1 (口算乘法)**, $200$ is $2$ hundreds; $2$ hundreds times $3$ is $6$ hundreds, so $200\times3=600$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -146,7 +172,9 @@ By **Definition 5.5.1 (口算乘法)**, $200$ is $2$ hundreds; $2$ hundreds time
 
 ### Solution to Exercise 14
 
-$12=10+2$, $10\times3=30$, $2\times3=6$, $30+6=36$ yuan. $\blacksquare$
+$12=10+2$, $10\times3=30$, $2\times3=6$, $30+6=36$ yuan.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -154,7 +182,9 @@ $12=10+2$, $10\times3=30$, $2\times3=6$, $30+6=36$ yuan. $\blacksquare$
 
 ### Solution to Exercise 15
 
-$12=10+2$, $10\times4=40$, $2\times4=8$, $40+8=48$. $\blacksquare$
+$12=10+2$, $10\times4=40$, $2\times4=8$, $40+8=48$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -162,7 +192,9 @@ $12=10+2$, $10\times4=40$, $2\times4=8$, $40+8=48$. $\blacksquare$
 
 ### Solution to Exercise 16
 
-By **Definition 5.5.1 (口算乘法)**: $10\times7=70$; $20\times7=140$; $200\times7=1400$; $21\times4=84$; $23\times2=46$; $32\times3=96$. $\blacksquare$
+By **Definition 5.5.1 (口算乘法)**: $10\times7=70$; $20\times7=140$; $200\times7=1400$; $21\times4=84$; $23\times2=46$; $32\times3=96$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -170,7 +202,9 @@ By **Definition 5.5.1 (口算乘法)**: $10\times7=70$; $20\times7=140$; $200\ti
 
 ### Solution to Exercise 17
 
-$13\times2=26$; $33\times2=66$; $34\times2=68$; $21\times2=42$; $12\times2=24$; $22\times3=66$; $42\times2=84$; $23\times3=69$; $30\times7=210$; $40\times6=240$; $90\times7=630$; $50\times5=250$; $600\times8=4800$; $800\times9=7200$; $700\times6=4200$; $400\times4=1600$. $\blacksquare$
+$13\times2=26$; $33\times2=66$; $34\times2=68$; $21\times2=42$; $12\times2=24$; $22\times3=66$; $42\times2=84$; $23\times3=69$; $30\times7=210$; $40\times6=240$; $90\times7=630$; $50\times5=250$; $600\times8=4800$; $800\times9=7200$; $700\times6=4200$; $400\times4=1600$.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -178,7 +212,9 @@ $13\times2=26$; $33\times2=66$; $34\times2=68$; $21\times2=42$; $12\times2=24$; 
 
 ### Solution to Exercise 18
 
-By **Definition 5.5.1 (Mental Multiplication)**, first do the table multiplication and then append $0$s: $20\times4=80$, $200\times4=800$, $2000\times4=8000$; $60\times9=540$, $600\times9=5400$, $6\times9=54$. $\blacksquare$
+By **Definition 5.5.1 (Mental Multiplication)**, first do the table multiplication and then append $0$s: $20\times4=80$, $200\times4=800$, $2000\times4=8000$; $60\times9=540$, $600\times9=5400$, $6\times9=54$.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -186,7 +222,9 @@ By **Definition 5.5.1 (Mental Multiplication)**, first do the table multiplicati
 
 ### Solution to Exercise 19
 
-$90\times4=360$ yuan. $\blacksquare$
+$90\times4=360$ yuan.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -194,7 +232,9 @@ $90\times4=360$ yuan. $\blacksquare$
 
 ### Solution to Exercise 20
 
-(1) $20\times6=120$ kilograms. (2) For example, the cucumbers total $30\times5=150$ kilograms. Answers may vary. $\blacksquare$
+(1) $20\times6=120$ kilograms. (2) For example, the cucumbers total $30\times5=150$ kilograms. Answers may vary.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -202,7 +242,9 @@ $90\times4=360$ yuan. $\blacksquare$
 
 ### Solution to Exercise 21
 
-(1) $12\times4=48$ shuttlecocks. (2) $12\times3=36$ yuan. $\blacksquare$
+(1) $12\times4=48$ shuttlecocks. (2) $12\times3=36$ yuan.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -210,4 +252,6 @@ $90\times4=360$ yuan. $\blacksquare$
 
 ### Solution to Exercise 22
 
-$90\times8=720$; $31\times2=62$; $700\times5=3500$; $44\times2=88$; $60\times6=360$; $13\times3=39$. $\blacksquare$
+$90\times8=720$; $31\times2=62$; $700\times5=3500$; $44\times2=88$; $60\times6=360$; $13\times3=39$.
+
+$\blacksquare$

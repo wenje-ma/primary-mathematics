@@ -46,7 +46,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 9.1.3 (Reconstructing a Combination from Its Views)**, first build the basic shape from the front view, then adjust the cubes layer by layer according to the top and left views until all three views meet the requirements. $\blacksquare$
+By **Definition 9.1.3 (Reconstructing a Combination from Its Views)**, first build the basic shape from the front view, then adjust the cubes layer by layer according to the top and left views until all three views meet the requirements.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -54,7 +56,9 @@ By **Definition 9.1.3 (Reconstructing a Combination from Its Views)**, first bui
 
 ### Solution to Exercise 2
 
-By **Definition 9.1.3 (Reconstructing a Combination from Its Views)**, first fix the bottom-layer cubes by the top view, then determine the number of stacked cubes in each column by the front and left views, and build layer by layer. $\blacksquare$
+By **Definition 9.1.3 (Reconstructing a Combination from Its Views)**, first fix the bottom-layer cubes by the top view, then determine the number of stacked cubes in each column by the front and left views, and build layer by layer.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -62,7 +66,9 @@ By **Definition 9.1.3 (Reconstructing a Combination from Its Views)**, first fix
 
 ### Solution to Exercise 3
 
-By **Definition 9.1.1 (Views)**, observe the combination from the three directions and connect each seen planar figure to the corresponding direction. $\blacksquare$
+By **Definition 9.1.1 (Views)**, observe the combination from the three directions and connect each seen planar figure to the corresponding direction.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -70,7 +76,9 @@ By **Definition 9.1.1 (Views)**, observe the combination from the three directio
 
 ### Solution to Exercise 4
 
-By **Definition 9.1.1 (Views)**, observe the combinations from the three directions and draw the arrangement of small squares on grid paper. $\blacksquare$
+By **Definition 9.1.1 (Views)**, observe the combinations from the three directions and draw the arrangement of small squares on grid paper.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -78,7 +86,9 @@ By **Definition 9.1.1 (Views)**, observe the combinations from the three directi
 
 ### Solution to Exercise 5
 
-By **Definition 9.1.2 (Observing Different Combinations from the Same Direction)**, compare direction by direction: same if the projections coincide, otherwise different. $\blacksquare$
+By **Definition 9.1.2 (Observing Different Combinations from the Same Direction)**, compare direction by direction: same if the projections coincide, otherwise different.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -86,7 +96,9 @@ By **Definition 9.1.2 (Observing Different Combinations from the Same Direction)
 
 ### Solution to Exercise 6
 
-By **Definition 9.1.3 (Reconstructing a Combination from Its Views)**, first arrange by the front shape, then adjust the position of the $5$th cube according to the top shape; there may be several arrangements. $\blacksquare$
+By **Definition 9.1.3 (Reconstructing a Combination from Its Views)**, first arrange by the front shape, then adjust the position of the $5$th cube according to the top shape; there may be several arrangements.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -94,7 +106,9 @@ By **Definition 9.1.3 (Reconstructing a Combination from Its Views)**, first arr
 
 ### Solution to Exercise 7
 
-By **Definition 9.1.2 (从同一方向观察不同组合体)** and **Definition 9.1.3 (Reconstructing from Views)**, examine each combination's front and left views and classify them; with the front view fixed, the $5$th cube can be placed in several positions that do not change the front view; enumerate them to get the number of arrangements. $\blacksquare$
+By **Definition 9.1.2 (从同一方向观察不同组合体)** and **Definition 9.1.3 (Reconstructing from Views)**, examine each combination's front and left views and classify them; with the front view fixed, the $5$th cube can be placed in several positions that do not change the front view; enumerate them to get the number of arrangements.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -102,7 +116,9 @@ By **Definition 9.1.2 (从同一方向观察不同组合体)** and **Definition 
 
 ### Solution to Exercise 8
 
-By **Definition 9.1.3 (Reconstructing a Combination from Its Views)**, with the front view fixed, extra cubes can only be placed where they do not change the front projection (stacked or offset along the front-back direction). With $4$ cubes there are already several arrangements; each added cube can be placed behind or above the existing combination without affecting the front view. $\blacksquare$
+By **Definition 9.1.3 (Reconstructing a Combination from Its Views)**, with the front view fixed, extra cubes can only be placed where they do not change the front projection (stacked or offset along the front-back direction). With $4$ cubes there are already several arrangements; each added cube can be placed behind or above the existing combination without affecting the front view.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -110,7 +126,9 @@ By **Definition 9.1.3 (Reconstructing a Combination from Its Views)**, with the 
 
 ### Solution to Exercise 9
 
-By **Definition 9.1.1 (Views)**, the top view fixes the bottom layout and the layers in each column; from the front take the maximum layer of each column to draw the column height, and from the left take the maximum layer of each row to draw the column height. $\blacksquare$
+By **Definition 9.1.1 (Views)**, the top view fixes the bottom layout and the layers in each column; from the front take the maximum layer of each column to draw the column height, and from the left take the maximum layer of each row to draw the column height.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -118,7 +136,9 @@ By **Definition 9.1.1 (Views)**, the top view fixes the bottom layout and the la
 
 ### Solution to Exercise 10
 
-By **Definition 9.1.2 (Observing Different Combinations from the Same Direction)**, compare the left combination with each option from the front, top and left; all three views must match for it to be the same combination, and any differing direction makes it a different combination. $\blacksquare$
+By **Definition 9.1.2 (Observing Different Combinations from the Same Direction)**, compare the left combination with each option from the front, top and left; all three views must match for it to be the same combination, and any differing direction makes it a different combination.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -126,7 +146,9 @@ By **Definition 9.1.2 (Observing Different Combinations from the Same Direction)
 
 ### Solution to Exercise 11
 
-By **Definition 9.2.1 (Multiplying a Decimal by an Integer)**, $9.5$ yuan $=95$ jiao, $95\times3=285$ jiao $=28.5$ yuan. That is, $9.5\times3=28.5$ yuan. $\blacksquare$
+By **Definition 9.2.1 (Multiplying a Decimal by an Integer)**, $9.5$ yuan $=95$ jiao, $95\times3=285$ jiao $=28.5$ yuan. That is, $9.5\times3=28.5$ yuan.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -134,7 +156,9 @@ By **Definition 9.2.1 (Multiplying a Decimal by an Integer)**, $9.5$ yuan $=95$ 
 
 ### Solution to Exercise 12
 
-By **Definition 9.2.1 (小数乘整数)**, expand $0.72$ by $100$ to get $72$, $72\times60=4320$, then divide by $100$ to get $43.20$, and remove the trailing $0$ to get $43.2$. $\blacksquare$
+By **Definition 9.2.1 (小数乘整数)**, expand $0.72$ by $100$ to get $72$, $72\times60=4320$, then divide by $100$ to get $43.20$, and remove the trailing $0$ to get $43.2$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -142,7 +166,9 @@ By **Definition 9.2.1 (小数乘整数)**, expand $0.72$ by $100$ to get $72$, $
 
 ### Solution to Exercise 13
 
-By **Definition 9.2.1 (小数乘整数)**, $6$ items: $8.6\times6=51.6$ yuan. $7$ items: $8.6\times7=60.2$ yuan; $60.2>40$, so not enough. $\blacksquare$
+By **Definition 9.2.1 (小数乘整数)**, $6$ items: $8.6\times6=51.6$ yuan. $7$ items: $8.6\times7=60.2$ yuan; $60.2>40$, so not enough.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -150,7 +176,9 @@ By **Definition 9.2.1 (小数乘整数)**, $6$ items: $8.6\times6=51.6$ yuan. $7
 
 ### Solution to Exercise 14
 
-By **Definition 9.2.2 (Multiplying a Decimal by a Decimal)**, expand $4.2$ by $10$ to $42$ and $0.8$ by $10$ to $8$, $42\times8=336$; the two factors have two decimal places in total, so count two places from the right and place the point: $3.36$ m$^2$. $\blacksquare$
+By **Definition 9.2.2 (Multiplying a Decimal by a Decimal)**, expand $4.2$ by $10$ to $42$ and $0.8$ by $10$ to $8$, $42\times8=336$; the two factors have two decimal places in total, so count two places from the right and place the point: $3.36$ m$^2$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -158,7 +186,9 @@ By **Definition 9.2.2 (Multiplying a Decimal by a Decimal)**, expand $4.2$ by $1
 
 ### Solution to Exercise 15
 
-By **Definition 9.2.2 (小数乘小数)**: for $1.92\times0.9$, $192\times9=1728$, three decimal places in total, giving $1.728$. For $0.32\times2.79$, $32\times279=8928$, five decimal places in total, padding a $0$ on the front to get $0.8928$. $\blacksquare$
+By **Definition 9.2.2 (小数乘小数)**: for $1.92\times0.9$, $192\times9=1728$, three decimal places in total, giving $1.728$. For $0.32\times2.79$, $32\times279=8928$, five decimal places in total, padding a $0$ on the front to get $0.8928$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -166,7 +196,9 @@ By **Definition 9.2.2 (小数乘小数)**: for $1.92\times0.9$, $192\times9=1728
 
 ### Solution to Exercise 16
 
-By **Definition 9.2.2 (小数乘小数)**: $6.7\times0.3=2.01$; $2.4\times6.2=14.88$; $5.4\times1.07=5.778$; $0.45\times0.6=0.27$. $\blacksquare$
+By **Definition 9.2.2 (小数乘小数)**: $6.7\times0.3=2.01$; $2.4\times6.2=14.88$; $5.4\times1.07=5.778$; $0.45\times0.6=0.27$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -174,7 +206,9 @@ By **Definition 9.2.2 (小数乘小数)**: $6.7\times0.3=2.01$; $2.4\times6.2=14
 
 ### Solution to Exercise 17
 
-By **Definition 9.2.2 (小数乘小数)**: $0.56\times0.04=0.0224$ (pad $0$ on the front when there are too few places); $3.7\times4.6=17.02$; $0.48\times1.5=0.72$; $0.29\times0.07=0.0203$; $0.056\times0.15=0.0084$. $\blacksquare$
+By **Definition 9.2.2 (小数乘小数)**: $0.56\times0.04=0.0224$ (pad $0$ on the front when there are too few places); $3.7\times4.6=17.02$; $0.48\times1.5=0.72$; $0.29\times0.07=0.0203$; $0.056\times0.15=0.0084$.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -182,7 +216,9 @@ By **Definition 9.2.2 (小数乘小数)**: $0.56\times0.04=0.0224$ (pad $0$ on t
 
 ### Solution to Exercise 18
 
-By **Definition 9.2.3 (Approximate Value of a Product)**, $0.049\times45=2.205$; keeping one decimal, look at the hundredths digit $0<5$, discard it, giving $2.2$ hundred million. $\blacksquare$
+By **Definition 9.2.3 (Approximate Value of a Product)**, $0.049\times45=2.205$; keeping one decimal, look at the hundredths digit $0<5$, discard it, giving $2.2$ hundred million.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -190,4 +226,6 @@ By **Definition 9.2.3 (Approximate Value of a Product)**, $0.049\times45=2.205$;
 
 ### Solution to Exercise 19
 
-By **Definition 9.2.2 (小数乘小数)**: $4.6\times30$, one decimal place, gives $138.0=138$; $0.46\times30$, two decimal places, gives $13.80=13.8$; $0.46\times300$, two decimal places, gives $138.00=138$. $\blacksquare$
+By **Definition 9.2.2 (小数乘小数)**: $4.6\times30$, one decimal place, gives $138.0=138$; $0.46\times30$, two decimal places, gives $13.80=13.8$; $0.46\times300$, two decimal places, gives $138.00=138$.
+
+$\blacksquare$

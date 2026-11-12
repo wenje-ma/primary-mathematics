@@ -54,7 +54,9 @@
 
 ### Solution to Exercise 1
 
-Remaining $\left(1200-3a\right)$ g. $\blacksquare$
+Remaining $\left(1200-3a\right)$ g.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -62,7 +64,9 @@ Remaining $\left(1200-3a\right)$ g. $\blacksquare$
 
 ### Solution to Exercise 2
 
-Pattern: $n=4m+2$ (ends seat $2$, each table adds $4$). $10$ tables: $4\times10+2=42$ people. $4m+2=38$, $m=9$ tables. $\blacksquare$
+Pattern: $n=4m+2$ (ends seat $2$, each table adds $4$). $10$ tables: $4\times10+2=42$ people. $4m+2=38$, $m=9$ tables.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -70,7 +74,9 @@ Pattern: $n=4m+2$ (ends seat $2$, each table adds $4$). $10$ tables: $4\times10+
 
 ### Solution to Exercise 3
 
-Let Celsius be $t$ and Fahrenheit $F$, $F=1.8t+32$. $86=1.8t+32$, $1.8t=54$, $t=30^\circ$C. $\blacksquare$
+Let Celsius be $t$ and Fahrenheit $F$, $F=1.8t+32$. $86=1.8t+32$, $1.8t=54$, $t=30^\circ$C.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -78,7 +84,9 @@ Let Celsius be $t$ and Fahrenheit $F$, $F=1.8t+32$. $86=1.8t+32$, $1.8t=54$, $t=
 
 ### Solution to Exercise 4
 
-(1) From Chongqing $36t$ km; when $t=10$, $360$ km. (2) To Yichang $\left(648-36t\right)$ km; when $t=12$, $648-432=216$ km. $\blacksquare$
+(1) From Chongqing $36t$ km; when $t=10$, $360$ km. (2) To Yichang $\left(648-36t\right)$ km; when $t=12$, $648-432=216$ km.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -86,7 +94,9 @@ Let Celsius be $t$ and Fahrenheit $F$, $F=1.8t+32$. $86=1.8t+32$, $1.8t=54$, $t=
 
 ### Solution to Exercise 5
 
-By **Definition 9.6.1 (平行四边形的面积)**, $S=ah=300\times200=60000$ m$^2$. By **Definition 9.6.2 (公顷与平方千米)**, $60000$ m$^2=6$ hectares. $\blacksquare$
+By **Definition 9.6.1 (平行四边形的面积)**, $S=ah=300\times200=60000$ m$^2$. By **Definition 9.6.2 (公顷与平方千米)**, $60000$ m$^2=6$ hectares.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -94,7 +104,9 @@ By **Definition 9.6.1 (平行四边形的面积)**, $S=ah=300\times200=60000$ m$
 
 ### Solution to Exercise 6
 
-(1) Area $10\times10=100$ m$^2$, $1$ hectare $=10000$ m$^2$, so $10000\div100=100$ are needed. (2) Pool area $50\times25=1250$ m$^2$, $10000\div1250=8$ pools. $\blacksquare$
+(1) Area $10\times10=100$ m$^2$, $1$ hectare $=10000$ m$^2$, so $10000\div100=100$ are needed. (2) Pool area $50\times25=1250$ m$^2$, $10000\div1250=8$ pools.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -102,7 +114,9 @@ By **Definition 9.6.1 (平行四边形的面积)**, $S=ah=300\times200=60000$ m$
 
 ### Solution to Exercise 7
 
-By **Definition 9.6.2 (公顷与平方千米)**: $7$ hectares $=70000$ m$^2$; $60000$ m$^2=6$ hectares; $5$ km$^2=500$ hectares; $12000000$ m$^2=1200$ hectares $=12$ km$^2$. $\blacksquare$
+By **Definition 9.6.2 (公顷与平方千米)**: $7$ hectares $=70000$ m$^2$; $60000$ m$^2=6$ hectares; $5$ km$^2=500$ hectares; $12000000$ m$^2=1200$ hectares $=12$ km$^2$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -110,7 +124,9 @@ By **Definition 9.6.2 (公顷与平方千米)**: $7$ hectares $=70000$ m$^2$; $6
 
 ### Solution to Exercise 8
 
-By **Definition 9.6.1 (平行四边形的面积)**, $S=6\times2.5=15$ m$^2$. $\blacksquare$
+By **Definition 9.6.1 (平行四边形的面积)**, $S=6\times2.5=15$ m$^2$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -118,7 +134,9 @@ By **Definition 9.6.1 (平行四边形的面积)**, $S=6\times2.5=15$ m$^2$. $\b
 
 ### Solution to Exercise 9
 
-By **Definition 9.6.1 (平行四边形的面积)**: $70\times9.8=686$; $6.2\times21=130.2$; $21.5\times26=559$; $5.2\times15=78$; $0.9\times0.4=0.36$ cm$^2$. $\blacksquare$
+By **Definition 9.6.1 (平行四边形的面积)**: $70\times9.8=686$; $6.2\times21=130.2$; $21.5\times26=559$; $5.2\times15=78$; $0.9\times0.4=0.36$ cm$^2$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -126,7 +144,9 @@ By **Definition 9.6.1 (平行四边形的面积)**: $70\times9.8=686$; $6.2\time
 
 ### Solution to Exercise 10
 
-By **Definition 9.6.2 (公顷与平方千米)**: (1) $72\times10000=720000$ m$^2$. (2) $3000000\div10000=300$ hectares. $\blacksquare$
+By **Definition 9.6.2 (公顷与平方千米)**: (1) $72\times10000=720000$ m$^2$. (2) $3000000\div10000=300$ hectares.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -134,7 +154,9 @@ By **Definition 9.6.2 (公顷与平方千米)**: (1) $72\times10000=720000$ m$^2
 
 ### Solution to Exercise 11
 
-Area $250\times84=21000$ m$^2=2.1$ hectares. Yield per hectare $14.7\div2.1=7$ t. $\blacksquare$
+Area $250\times84=21000$ m$^2=2.1$ hectares. Yield per hectare $14.7\div2.1=7$ t.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -142,7 +164,9 @@ Area $250\times84=21000$ m$^2=2.1$ hectares. Yield per hectare $14.7\div2.1=7$ t
 
 ### Solution to Exercise 12
 
-By **Definition 9.6.1 (平行四边形的面积)**, $h=S\div{a}=28\div7=4$ m. $\blacksquare$
+By **Definition 9.6.1 (平行四边形的面积)**, $h=S\div{a}=28\div7=4$ m.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -150,7 +174,9 @@ By **Definition 9.6.1 (平行四边形的面积)**, $h=S\div{a}=28\div7=4$ m. $\
 
 ### Solution to Exercise 13
 
-By **Definition 9.6.3 (三角形的面积)**, $S=ah\div2=120\times39.8\div2=2388$ cm$^2$. $\blacksquare$
+By **Definition 9.6.3 (三角形的面积)**, $S=ah\div2=120\times39.8\div2=2388$ cm$^2$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -158,7 +184,9 @@ By **Definition 9.6.3 (三角形的面积)**, $S=ah\div2=120\times39.8\div2=2388
 
 ### Solution to Exercise 14
 
-By **Definition 9.6.3 (三角形的面积)**, the triangle shares the base and height with the parallelogram, so its area is half: $12\div2=6$ cm$^2$. $\blacksquare$
+By **Definition 9.6.3 (三角形的面积)**, the triangle shares the base and height with the parallelogram, so its area is half: $12\div2=6$ cm$^2$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -166,7 +194,9 @@ By **Definition 9.6.3 (三角形的面积)**, the triangle shares the base and h
 
 ### Solution to Exercise 15
 
-By **Definition 9.6.3 (三角形的面积)**, $S=ah\div2$, substituting the base and height. $\blacksquare$
+By **Definition 9.6.3 (三角形的面积)**, $S=ah\div2$, substituting the base and height.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -174,7 +204,9 @@ By **Definition 9.6.3 (三角形的面积)**, $S=ah\div2$, substituting the base
 
 ### Solution to Exercise 16
 
-By **Definition 9.6.3 (三角形的面积)**: $2.4\times1.5\div2=1.8$ dm$^2$; $2.8\times2.5\div2=3.5$ m$^2$; the rest by $S=ah\div2$. $\blacksquare$
+By **Definition 9.6.3 (三角形的面积)**: $2.4\times1.5\div2=1.8$ dm$^2$; $2.8\times2.5\div2=3.5$ m$^2$; the rest by $S=ah\div2$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -182,7 +214,9 @@ By **Definition 9.6.3 (三角形的面积)**: $2.4\times1.5\div2=1.8$ dm$^2$; $2
 
 ### Solution to Exercise 17
 
-Triangles: $6.2\times3.5\div2=10.85$; $9.6\times16\div2=76.8$ cm$^2$. Parallelograms: $25\times4.8=120$; $12.5\times6.3=78.75$ cm$^2$. $\blacksquare$
+Triangles: $6.2\times3.5\div2=10.85$; $9.6\times16\div2=76.8$ cm$^2$. Parallelograms: $25\times4.8=120$; $12.5\times6.3=78.75$ cm$^2$.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -190,7 +224,9 @@ Triangles: $6.2\times3.5\div2=10.85$; $9.6\times16\div2=76.8$ cm$^2$. Parallelog
 
 ### Solution to Exercise 18
 
-From triangle area $270=ah\div2$, taking $22.5$ m as base, height $=270\times2\div22.5=24$ m; the parallelogram's adjacent sides are $22.5$ m and $18$ m, so perimeter $=\left(22.5+18\right)\times2=81$ m. $\blacksquare$
+From triangle area $270=ah\div2$, taking $22.5$ m as base, height $=270\times2\div22.5=24$ m; the parallelogram's adjacent sides are $22.5$ m and $18$ m, so perimeter $=\left(22.5+18\right)\times2=81$ m.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -198,4 +234,6 @@ From triangle area $270=ah\div2$, taking $22.5$ m as base, height $=270\times2\d
 
 ### Solution to Exercise 19
 
-By **Definition 9.6.3 (三角形的面积)**, the shaded triangle has half the base and the same height as the parallelogram, so area $=48\div2\div2=12$ m$^2$. $\blacksquare$
+By **Definition 9.6.3 (三角形的面积)**, the shaded triangle has half the base and the same height as the parallelogram, so area $=48\div2\div2=12$ m$^2$.
+
+$\blacksquare$

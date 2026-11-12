@@ -30,7 +30,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 6.6.1 (Year, Month, Day)**, first work out whether the month is a long month ($31$ days), a short month ($30$ days), or month $2$; then arrange the dates in weekday order and circle special days such as the birthday. $\blacksquare$
+By **Definition 6.6.1 (Year, Month, Day)**, first work out whether the month is a long month ($31$ days), a short month ($30$ days), or month $2$; then arrange the dates in weekday order and circle special days such as the birthday.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -38,7 +40,9 @@ By **Definition 6.6.1 (Year, Month, Day)**, first work out whether the month is 
 
 ### Solution to Exercise 2
 
-(1) Add $15$ days to February 6; February 2026 has $28$ days, so the expiration date is February 21. (2) Add $3$ days to January 7, so the expiration date is January 10. $\blacksquare$
+(1) Add $15$ days to February 6; February 2026 has $28$ days, so the expiration date is February 21. (2) Add $3$ days to January 7, so the expiration date is January 10.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -46,7 +50,9 @@ By **Definition 6.6.1 (Year, Month, Day)**, first work out whether the month is 
 
 ### Solution to Exercise 3
 
-By **Definition 6.6.1 (年,月,日)** and **Definition 6.6.2 (平年和闰年)**, winter break: January $31-24+1=8$ days, February $28$ days, March 1 $1$ day, totaling $8+28+1=37$ (days). Summer break: July $31-8+1=24$ days, August $31$ days, totaling $24+31=55$ (days). $\blacksquare$
+By **Definition 6.6.1 (年,月,日)** and **Definition 6.6.2 (平年和闰年)**, winter break: January $31-24+1=8$ days, February $28$ days, March 1 $1$ day, totaling $8+28+1=37$ (days). Summer break: July $31-8+1=24$ days, August $31$ days, totaling $24+31=55$ (days).
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -54,7 +60,9 @@ By **Definition 6.6.1 (年,月,日)** and **Definition 6.6.2 (平年和闰年)**
 
 ### Solution to Exercise 4
 
-By **Definition 6.6.3 (The 24-Hour Clock)**: morning $6$ o'clock $=6:00$, morning $9$ o'clock $=9:00$, afternoon $6$ o'clock $=18:00$, evening $8$ o'clock $30$ minutes $=20:30$. $\blacksquare$
+By **Definition 6.6.3 (The 24-Hour Clock)**: morning $6$ o'clock $=6:00$, morning $9$ o'clock $=9:00$, afternoon $6$ o'clock $=18:00$, evening $8$ o'clock $30$ minutes $=20:30$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -62,7 +70,9 @@ By **Definition 6.6.3 (The 24-Hour Clock)**: morning $6$ o'clock $=6:00$, mornin
 
 ### Solution to Exercise 5
 
-(1) $16:30$ is $4:30$ p.m., $21:00$ is $9:00$ p.m. (2) Lunch $14:30-11:00=3$ hours $30$ minutes, dinner $21:00-16:30=4$ hours $30$ minutes, totaling $8$ hours. (3) For example, how long lunch is open; answers may vary. $\blacksquare$
+(1) $16:30$ is $4:30$ p.m., $21:00$ is $9:00$ p.m. (2) Lunch $14:30-11:00=3$ hours $30$ minutes, dinner $21:00-16:30=4$ hours $30$ minutes, totaling $8$ hours. (3) For example, how long lunch is open; answers may vary.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -70,7 +80,9 @@ By **Definition 6.6.3 (The 24-Hour Clock)**: morning $6$ o'clock $=6:00$, mornin
 
 ### Solution to Exercise 6
 
-By **Definition 6.6.3 (24 时计时法)**, fill activities such as waking up, going to school, eating and sleeping into a schedule in the 24-hour clock; compute each duration by subtracting the start time from the end time. $\blacksquare$
+By **Definition 6.6.3 (24 时计时法)**, fill activities such as waking up, going to school, eating and sleeping into a schedule in the 24-hour clock; compute each duration by subtracting the start time from the end time.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -78,7 +90,9 @@ By **Definition 6.6.3 (24 时计时法)**, fill activities such as waking up, go
 
 ### Solution to Exercise 7
 
-By **Definition 6.6.1 (年,月,日)** and **Definition 6.6.2 (平年和闰年)**, first determine what weekday next January 1 falls on, work out which months are long and short, then arrange the $12$ monthly calendars in order and mark festivals and meaningful days. $\blacksquare$
+By **Definition 6.6.1 (年,月,日)** and **Definition 6.6.2 (平年和闰年)**, first determine what weekday next January 1 falls on, work out which months are long and short, then arrange the $12$ monthly calendars in order and mark festivals and meaningful days.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -86,7 +100,9 @@ By **Definition 6.6.1 (年,月,日)** and **Definition 6.6.2 (平年和闰年)**
 
 ### Solution to Exercise 8
 
-By **Definition 6.6.1 (年,月,日)** and knowledge of the twenty-four solar terms, the shadow length at the same time each day changes with the seasons: the shadow is longest around the winter solstice and shortest around the summer solstice; recording data over a period makes this pattern visible. $\blacksquare$
+By **Definition 6.6.1 (年,月,日)** and knowledge of the twenty-four solar terms, the shadow length at the same time each day changes with the seasons: the shadow is longest around the winter solstice and shortest around the summer solstice; recording data over a period makes this pattern visible.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -94,7 +110,9 @@ By **Definition 6.6.1 (年,月,日)** and knowledge of the twenty-four solar ter
 
 ### Solution to Exercise 9
 
-By **Definition 6.7.1 (Understanding Decimals)**, split $1$ evenly into $10$ parts, each part is $0.1$; split into $100$ parts, each part is $0.01$; accordingly fill the corresponding decimals into the parentheses. $\blacksquare$
+By **Definition 6.7.1 (Understanding Decimals)**, split $1$ evenly into $10$ parts, each part is $0.1$; split into $100$ parts, each part is $0.01$; accordingly fill the corresponding decimals into the parentheses.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -102,7 +120,9 @@ By **Definition 6.7.1 (Understanding Decimals)**, split $1$ evenly into $10$ par
 
 ### Solution to Exercise 10
 
-By **Definition 6.7.1 (Decimals)**: $8$ jiao is $8$ of $1$ jiao $=0.8$ yuan; $5$ fen is $5$ of $1$ fen $=0.05$ yuan; $1$ yuan $8$ jiao $5$ fen $=1.85$ yuan. $\blacksquare$
+By **Definition 6.7.1 (Decimals)**: $8$ jiao is $8$ of $1$ jiao $=0.8$ yuan; $5$ fen is $5$ of $1$ fen $=0.05$ yuan; $1$ yuan $8$ jiao $5$ fen $=1.85$ yuan.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -110,7 +130,9 @@ By **Definition 6.7.1 (Decimals)**: $8$ jiao is $8$ of $1$ jiao $=0.8$ yuan; $5$
 
 ### Solution to Exercise 11
 
-By **Definition 6.7.1 (Decimals)**, split $1$ meter evenly into $10$ parts, each small division is $0.1$ meter; count the divisions from the graduation and fill the decimal. $\blacksquare$
+By **Definition 6.7.1 (Decimals)**, split $1$ meter evenly into $10$ parts, each small division is $0.1$ meter; count the divisions from the graduation and fill the decimal.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -118,7 +140,9 @@ By **Definition 6.7.1 (Decimals)**, split $1$ meter evenly into $10$ parts, each
 
 ### Solution to Exercise 12
 
-By **Definition 6.7.2 (Comparing Decimals)**: $0.4<0.6$; $2.5>1.8$. $\blacksquare$
+By **Definition 6.7.2 (Comparing Decimals)**: $0.4<0.6$; $2.5>1.8$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -126,7 +150,9 @@ By **Definition 6.7.2 (Comparing Decimals)**: $0.4<0.6$; $2.5>1.8$. $\blacksquar
 
 ### Solution to Exercise 13
 
-By **Definition 6.7.3 (简单的小数加,减法)**, (1) $13.2-1.5=11.7$ (yuan). (2) $15.8+3.8=19.6$ (yuan), $19.6<20$, enough. $\blacksquare$
+By **Definition 6.7.3 (简单的小数加,减法)**, (1) $13.2-1.5=11.7$ (yuan). (2) $15.8+3.8=19.6$ (yuan), $19.6<20$, enough.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -134,7 +160,9 @@ By **Definition 6.7.3 (简单的小数加,减法)**, (1) $13.2-1.5=11.7$ (yuan).
 
 ### Solution to Exercise 14
 
-$3.5$ is read "three point five", $5.25$ "five point two five", $2.75$ "two point seven five", $5.8$ "five point eight". $\blacksquare$
+$3.5$ is read "three point five", $5.25$ "five point two five", $2.75$ "two point seven five", $5.8$ "five point eight".
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -142,7 +170,9 @@ $3.5$ is read "three point five", $5.25$ "five point two five", $2.75$ "two poin
 
 ### Solution to Exercise 15
 
-By **Definition 6.7.1 (Decimals)**, write the yuan in the integer part, the jiao in the first place after the decimal point, and the fen in the second place, producing a decimal in yuan. $\blacksquare$
+By **Definition 6.7.1 (Decimals)**, write the yuan in the integer part, the jiao in the first place after the decimal point, and the fen in the second place, producing a decimal in yuan.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -150,7 +180,9 @@ By **Definition 6.7.1 (Decimals)**, write the yuan in the integer part, the jiao
 
 ### Solution to Exercise 16
 
-By **Definition 6.7.2 (小数的大小比较)**: $0.6<0.9$; $10>9.9$; $0.27$ m $=\frac{27}{100}$ m; $3.8<4.5$; $1.15<1.51$; $2$ dm $=0.2$ m $<\frac{7}{10}=0.7$ m. $\blacksquare$
+By **Definition 6.7.2 (小数的大小比较)**: $0.6<0.9$; $10>9.9$; $0.27$ m $=\frac{27}{100}$ m; $3.8<4.5$; $1.15<1.51$; $2$ dm $=0.2$ m $<\frac{7}{10}=0.7$ m.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -158,7 +190,9 @@ By **Definition 6.7.2 (小数的大小比较)**: $0.6<0.9$; $10>9.9$; $0.27$ m $
 
 ### Solution to Exercise 17
 
-(1) $16.7<18$, not overloaded. (2) $16.7-6.8=9.9$ (tons). $\blacksquare$
+(1) $16.7<18$, not overloaded. (2) $16.7-6.8=9.9$ (tons).
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -166,7 +200,9 @@ By **Definition 6.7.2 (小数的大小比较)**: $0.6<0.9$; $10>9.9$; $0.27$ m $
 
 ### Solution to Exercise 18
 
-(1) $2.4+3.2-0.8=4.8$ (m). (2) $4.8-0.9=3.9$ (m). $\blacksquare$
+(1) $2.4+3.2-0.8=4.8$ (m). (2) $4.8-0.9=3.9$ (m).
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -174,7 +210,9 @@ By **Definition 6.7.2 (小数的大小比较)**: $0.6<0.9$; $10>9.9$; $0.27$ m $
 
 ### Solution to Exercise 19
 
-By **Definition 6.7.3 (简单的小数加,减法)**: $5.68+1.41=7.09$ (yuan); $5.68-1.41=4.27$ (yuan). $\blacksquare$
+By **Definition 6.7.3 (简单的小数加,减法)**: $5.68+1.41=7.09$ (yuan); $5.68-1.41=4.27$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -182,4 +220,6 @@ By **Definition 6.7.3 (简单的小数加,减法)**: $5.68+1.41=7.09$ (yuan); $5
 
 ### Solution to Exercise 20
 
-(1) Add $0.1$ each time: $1.6,1.7,1.8$. (2) Add $0.6$ each time: $3.6,4.2,4.8$. $\blacksquare$
+(1) Add $0.1$ each time: $1.6,1.7,1.8$. (2) Add $0.6$ each time: $3.6,4.2,4.8$.
+
+$\blacksquare$

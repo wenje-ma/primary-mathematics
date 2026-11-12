@@ -46,7 +46,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 5.8.3 (同分母分数的加减法)**: $\frac{1}{4}+\frac{2}{4}=\frac{3}{4}$; $\frac{4}{5}-\frac{1}{5}=\frac{3}{5}$; $\frac{5}{7}-\frac{4}{7}=\frac{1}{7}$; $\frac{3}{8}+\frac{5}{8}=1$; $\frac{2}{7}+\frac{3}{7}=\frac{5}{7}$; $1-\frac{2}{9}=\frac{7}{9}$; $\frac{4}{6}+\frac{1}{6}=\frac{5}{6}$; $\frac{4}{6}-\frac{1}{6}=\frac{3}{6}$. $\blacksquare$
+By **Definition 5.8.3 (同分母分数的加减法)**: $\frac{1}{4}+\frac{2}{4}=\frac{3}{4}$; $\frac{4}{5}-\frac{1}{5}=\frac{3}{5}$; $\frac{5}{7}-\frac{4}{7}=\frac{1}{7}$; $\frac{3}{8}+\frac{5}{8}=1$; $\frac{2}{7}+\frac{3}{7}=\frac{5}{7}$; $1-\frac{2}{9}=\frac{7}{9}$; $\frac{4}{6}+\frac{1}{6}=\frac{5}{6}$; $\frac{4}{6}-\frac{1}{6}=\frac{3}{6}$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -54,7 +56,9 @@ By **Definition 5.8.3 (同分母分数的加减法)**: $\frac{1}{4}+\frac{2}{4}=
 
 ### Solution to Exercise 2
 
-The boys number $24\div4=6$; the girls are $1-\frac{1}{4}=\frac{3}{4}$; the girls number $6\times3=18$. $\blacksquare$
+The boys number $24\div4=6$; the girls are $1-\frac{1}{4}=\frac{3}{4}$; the girls number $6\times3=18$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -62,7 +66,9 @@ The boys number $24\div4=6$; the girls are $1-\frac{1}{4}=\frac{3}{4}$; the girl
 
 ### Solution to Exercise 3
 
-Traveled so far: $\frac{5}{10}+\frac{3}{10}=\frac{8}{10}$; remaining: $1-\frac{8}{10}=\frac{2}{10}$. $\blacksquare$
+Traveled so far: $\frac{5}{10}+\frac{3}{10}=\frac{8}{10}$; remaining: $1-\frac{8}{10}=\frac{2}{10}$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -70,7 +76,9 @@ Traveled so far: $\frac{5}{10}+\frac{3}{10}=\frac{8}{10}$; remaining: $1-\frac{8
 
 ### Solution to Exercise 4
 
-(1) Flight $900$ kilometers, takeoff mass $72$ tons, fuselage $39$ meters. (2) $1908+690=2598$ kilometers, $2598-2543=55$ kilometers. (3) $164<200$, $200\times5=1000$; actually $164\times5=820<1000$, so it cannot. (4) $745\times4\approx2980$ yuan. $\blacksquare$
+(1) Flight $900$ kilometers, takeoff mass $72$ tons, fuselage $39$ meters. (2) $1908+690=2598$ kilometers, $2598-2543=55$ kilometers. (3) $164<200$, $200\times5=1000$; actually $164\times5=820<1000$, so it cannot. (4) $745\times4\approx2980$ yuan.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -78,7 +86,9 @@ Traveled so far: $\frac{5}{10}+\frac{3}{10}=\frac{8}{10}$; remaining: $1-\frac{8
 
 ### Solution to Exercise 5
 
-By **Definition 5.7.3 (Right, Acute, Obtuse Angles)**, first count the existing angles and right angles; then draw a straight line perpendicular to some side so that extra right angles appear at the new intersection, bringing the total to $3$. Follow the figure. $\blacksquare$
+By **Definition 5.7.3 (Right, Acute, Obtuse Angles)**, first count the existing angles and right angles; then draw a straight line perpendicular to some side so that extra right angles appear at the new intersection, bringing the total to $3$. Follow the figure.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -86,7 +96,9 @@ By **Definition 5.7.3 (Right, Acute, Obtuse Angles)**, first count the existing 
 
 ### Solution to Exercise 6
 
-(1) $\frac{1}{9}<\frac{1}{8}<\frac{1}{7}<\frac{1}{6}<\frac{1}{5}<\frac{1}{4}<\frac{1}{3}<\frac{1}{2}$. (2) In $1$ there are $2$ of $\frac{1}{2}$, $3$ of $\frac{1}{3}$, $\cdots$, $9$ of $\frac{1}{9}$. (3) For example, $\frac{1}{2}+\frac{1}{2}=1$, $\frac{1}{3}+\frac{1}{3}+\frac{1}{3}=1$, $\frac{1}{4}+\frac{1}{4}+\frac{1}{4}+\frac{1}{4}=1$. (4) Answers may vary. $\blacksquare$
+(1) $\frac{1}{9}<\frac{1}{8}<\frac{1}{7}<\frac{1}{6}<\frac{1}{5}<\frac{1}{4}<\frac{1}{3}<\frac{1}{2}$. (2) In $1$ there are $2$ of $\frac{1}{2}$, $3$ of $\frac{1}{3}$, $\cdots$, $9$ of $\frac{1}{9}$. (3) For example, $\frac{1}{2}+\frac{1}{2}=1$, $\frac{1}{3}+\frac{1}{3}+\frac{1}{3}=1$, $\frac{1}{4}+\frac{1}{4}+\frac{1}{4}+\frac{1}{4}=1$. (4) Answers may vary.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -94,7 +106,9 @@ By **Definition 5.7.3 (Right, Acute, Obtuse Angles)**, first count the existing 
 
 ### Solution to Exercise 7
 
-By **Definition 5.9.3 (Review of Common Measures and Figures)**, match according to the features of the face seen from each person's direction. $\blacksquare$
+By **Definition 5.9.3 (Review of Common Measures and Figures)**, match according to the features of the face seen from each person's direction.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -102,7 +116,9 @@ By **Definition 5.9.3 (Review of Common Measures and Figures)**, match according
 
 ### Solution to Exercise 8
 
-By **Definition 5.9.3 (常见的量与图形的整理)**: $4$ kilometers $=4000$ meters; $70$ centimeters $=7$ decimeters; $5$ centimeters $=50$ millimeters; $8000$ kilograms $=8$ tons. $\blacksquare$
+By **Definition 5.9.3 (常见的量与图形的整理)**: $4$ kilometers $=4000$ meters; $70$ centimeters $=7$ decimeters; $5$ centimeters $=50$ millimeters; $8000$ kilograms $=8$ tons.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -110,7 +126,9 @@ By **Definition 5.9.3 (常见的量与图形的整理)**: $4$ kilometers $=4000$
 
 ### Solution to Exercise 9
 
-(1) kilometers; (2) kilograms; (3) millimeters. $\blacksquare$
+(1) kilometers; (2) kilograms; (3) millimeters.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -118,7 +136,9 @@ By **Definition 5.9.3 (常见的量与图形的整理)**: $4$ kilometers $=4000$
 
 ### Solution to Exercise 10
 
-$22\times3=66$; $15\times6=90$; $204\times7=1428$; $913\times8=7304$; $41\times2=82$; $156\times9=1404$; $2600\times4=10400$; $190\times5=950$. $\blacksquare$
+$22\times3=66$; $15\times6=90$; $204\times7=1428$; $913\times8=7304$; $41\times2=82$; $156\times9=1404$; $2600\times4=10400$; $190\times5=950$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -126,7 +146,9 @@ $22\times3=66$; $15\times6=90$; $204\times7=1428$; $913\times8=7304$; $41\times2
 
 ### Solution to Exercise 11
 
-$42\times6=252$; $192\times3=576$; $302\times8=2416$; $1700\times3=5100$. $\blacksquare$
+$42\times6=252$; $192\times3=576$; $302\times8=2416$; $1700\times3=5100$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -134,7 +156,9 @@ $42\times6=252$; $192\times3=576$; $302\times8=2416$; $1700\times3=5100$. $\blac
 
 ### Solution to Exercise 12
 
-(1) Teacher Li's home is in the middle: school $4000$ meters, supermarket $2500$ meters, bookstore $2000$ meters, so the bookstore to the supermarket is $2500-2000=500$ meters (according to the positions in the figure). (2) $220\times20=4400$ meters $>4000$ meters, so he can arrive. $\blacksquare$
+(1) Teacher Li's home is in the middle: school $4000$ meters, supermarket $2500$ meters, bookstore $2000$ meters, so the bookstore to the supermarket is $2500-2000=500$ meters (according to the positions in the figure). (2) $220\times20=4400$ meters $>4000$ meters, so he can arrive.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -142,7 +166,9 @@ $42\times6=252$; $192\times3=576$; $302\times8=2416$; $1700\times3=5100$. $\blac
 
 ### Solution to Exercise 13
 
-By **Definition 5.9.1 (数与运算的整理)**: $173-26+35=182$; $54-\left(62-34\right)=54-28=26$; $\left(182-18\right)\times8=164\times8=1312$; $63\div\left(44-37\right)=63\div7=9$; $72+8\times65=72+520=592$; $87\times5+13\times5=\left(87+13\right)\times5=500$. $\blacksquare$
+By **Definition 5.9.1 (数与运算的整理)**: $173-26+35=182$; $54-\left(62-34\right)=54-28=26$; $\left(182-18\right)\times8=164\times8=1312$; $63\div\left(44-37\right)=63\div7=9$; $72+8\times65=72+520=592$; $87\times5+13\times5=\left(87+13\right)\times5=500$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -150,4 +176,6 @@ By **Definition 5.9.1 (数与运算的整理)**: $173-26+35=182$; $54-\left(62-3
 
 ### Solution to Exercise 14
 
-$\frac{3}{7}+\frac{1}{7}=\frac{4}{7}$; $\frac{5}{7}-\frac{2}{7}=\frac{3}{7}$; $\frac{4}{9}+\frac{1}{9}=\frac{5}{9}$; $\frac{6}{6}-\frac{3}{6}=\frac{3}{6}$; $1-\frac{2}{3}=\frac{1}{3}$; $\frac{1}{6}+\frac{5}{6}=1$; $\frac{7}{8}-\frac{4}{8}=\frac{3}{8}$; $\frac{1}{4}+\frac{3}{4}=1$. $\blacksquare$
+$\frac{3}{7}+\frac{1}{7}=\frac{4}{7}$; $\frac{5}{7}-\frac{2}{7}=\frac{3}{7}$; $\frac{4}{9}+\frac{1}{9}=\frac{5}{9}$; $\frac{6}{6}-\frac{3}{6}=\frac{3}{6}$; $1-\frac{2}{3}=\frac{1}{3}$; $\frac{1}{6}+\frac{5}{6}=1$; $\frac{7}{8}-\frac{4}{8}=\frac{3}{8}$; $\frac{1}{4}+\frac{3}{4}=1$.
+
+$\blacksquare$

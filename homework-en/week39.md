@@ -46,7 +46,9 @@
 
 ### Solution to Exercise 1
 
-Organize by the place-value table (ten-thousands, thousands, hundreds, tens, ones; ten-thousand, thousand, hundred, ten, one), marking "$10$ ones are ten $\cdots\cdots$ $10$ thousands are ten-thousand", and carry $1$ to the next place when ten is reached. $\blacksquare$
+Organize by the place-value table (ten-thousands, thousands, hundreds, tens, ones; ten-thousand, thousand, hundred, ten, one), marking "$10$ ones are ten $\cdots\cdots$ $10$ thousands are ten-thousand", and carry $1$ to the next place when ten is reached.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -54,7 +56,9 @@ Organize by the place-value table (ten-thousands, thousands, hundreds, tens, one
 
 ### Solution to Exercise 2
 
-Six thousand three is $6003$; six thousand thirty-three is $6033$; six thousand three hundred is $6300$; six thousand three hundred three is $6303$. Connect them. $\blacksquare$
+Six thousand three is $6003$; six thousand thirty-three is $6033$; six thousand three hundred is $6300$; six thousand three hundred three is $6303$. Connect them.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -62,7 +66,9 @@ Six thousand three is $6003$; six thousand thirty-three is $6033$; six thousand 
 
 ### Solution to Exercise 3
 
-By **Definition 4.4.5 (比较万以内数的大小)**, $1020>999$ (four-digit is greater than three-digit); $398<402$; $5940>5230$ (thousands equal, compare hundreds, $9>2$). $\blacksquare$
+By **Definition 4.4.5 (比较万以内数的大小)**, $1020>999$ (four-digit is greater than three-digit); $398<402$; $5940>5230$ (thousands equal, compare hundreds, $9>2$).
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -70,7 +76,9 @@ By **Definition 4.4.5 (比较万以内数的大小)**, $1020>999$ (four-digit is
 
 ### Solution to Exercise 4
 
-By **Definition 4.4.5 (比较万以内数的大小)**, compare: both four-digit, compare from the thousands, $8>7$, so $8530>7421$. When making a number, put the larger digits in the higher places to make it larger. $\blacksquare$
+By **Definition 4.4.5 (比较万以内数的大小)**, compare: both four-digit, compare from the thousands, $8>7$, so $8530>7421$. When making a number, put the larger digits in the higher places to make it larger.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -78,7 +86,9 @@ By **Definition 4.4.5 (比较万以内数的大小)**, compare: both four-digit,
 
 ### Solution to Exercise 5
 
-Draw a table to record how many times $1,10,100,1000$ are spun, then add by counting units for the total, and compare the two. Record clearly so it can be compared. $\blacksquare$
+Draw a table to record how many times $1,10,100,1000$ are spun, then add by counting units for the total, and compare the two. Record clearly so it can be compared.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -86,7 +96,9 @@ Draw a table to record how many times $1,10,100,1000$ are spun, then add by coun
 
 ### Solution to Exercise 6
 
-The largest three-digit number is $999$ and the smallest is $100$; the largest four-digit number is $9999$ and the smallest is $1000$. $\blacksquare$
+The largest three-digit number is $999$ and the smallest is $100$; the largest four-digit number is $9999$ and the smallest is $1000$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -94,7 +106,9 @@ The largest three-digit number is $999$ and the smallest is $100$; the largest f
 
 ### Solution to Exercise 7
 
-(1) $7035\approx7000$, $6892\approx7000$, $4201\approx4000$. (2) Most is $7035$, least is $4201$, $7000-4000=3000$, about $3000$ more people. $\blacksquare$
+(1) $7035\approx7000$, $6892\approx7000$, $4201\approx4000$. (2) Most is $7035$, least is $4201$, $7000-4000=3000$, about $3000$ more people.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -102,7 +116,9 @@ The largest three-digit number is $999$ and the smallest is $100$; the largest f
 
 ### Solution to Exercise 8
 
-$9007=9000+7$; $1640=1000+600+40$; $6085=6000+80+5$; $2831=2000+800+30+1$. $\blacksquare$
+$9007=9000+7$; $1640=1000+600+40$; $6085=6000+80+5$; $2831=2000+800+30+1$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -110,7 +126,9 @@ $9007=9000+7$; $1640=1000+600+40$; $6085=6000+80+5$; $2831=2000+800+30+1$. $\bla
 
 ### Solution to Exercise 9
 
-Compare digit by digit per **Definition 4.4.5 (比较万以内数的大小)**; for example $52\square6$ is four-digit and greater than $861$, so any digit works; for $1000>\square99$, the right side is three-digit, so $\square$ is $1\sim9$; fill suitable digits per place for the rest; the answer is not unique. $\blacksquare$
+Compare digit by digit per **Definition 4.4.5 (比较万以内数的大小)**; for example $52\square6$ is four-digit and greater than $861$, so any digit works; for $1000>\square99$, the right side is three-digit, so $\square$ is $1\sim9$; fill suitable digits per place for the rest; the answer is not unique.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -118,7 +136,9 @@ Compare digit by digit per **Definition 4.4.5 (比较万以内数的大小)**; f
 
 ### Solution to Exercise 10
 
-For the largest, put the $10$ beads as high as possible: $9$ in the thousands place and the remaining $1$ in the hundreds, giving $9100$; for the smallest, keep the high places low: $1$ in the thousands and put the rest as low as possible, $9$ in the ones, giving $1009$. $\blacksquare$
+For the largest, put the $10$ beads as high as possible: $9$ in the thousands place and the remaining $1$ in the hundreds, giving $9100$; for the smallest, keep the high places low: $1$ in the thousands and put the rest as low as possible, $9$ in the ones, giving $1009$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -126,7 +146,9 @@ For the largest, put the $10$ beads as high as possible: $9$ in the thousands pl
 
 ### Solution to Exercise 11
 
-By **Definition 4.5.1 (Written Addition within Ten Thousand)**, align the places and add from the ones: $813+360=1173$; $820+263=1083$; $376+475=851$ (continuous carry from the tens to the hundreds). $\blacksquare$
+By **Definition 4.5.1 (Written Addition within Ten Thousand)**, align the places and add from the ones: $813+360=1173$; $820+263=1083$; $376+475=851$ (continuous carry from the tens to the hundreds).
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -134,7 +156,9 @@ By **Definition 4.5.1 (Written Addition within Ten Thousand)**, align the places
 
 ### Solution to Exercise 12
 
-$536+82=618$; $83+765=848$; $524+65=589$. $\blacksquare$
+$536+82=618$; $83+765=848$; $524+65=589$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -142,7 +166,9 @@ $536+82=618$; $83+765=848$; $524+65=589$. $\blacksquare$
 
 ### Solution to Exercise 13
 
-$26+145=171$; $789+603=1392$; $438+527=965$. $\blacksquare$
+$26+145=171$; $789+603=1392$; $438+527=965$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -150,7 +176,9 @@ $26+145=171$; $789+603=1392$; $438+527=965$. $\blacksquare$
 
 ### Solution to Exercise 14
 
-Yes, the method is the same: align the places, add from the ones, and carry $1$ at ten. $6432+1595=8027$. $\blacksquare$
+Yes, the method is the same: align the places, add from the ones, and carry $1$ at ten. $6432+1595=8027$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -158,7 +186,9 @@ Yes, the method is the same: align the places, add from the ones, and carry $1$ 
 
 ### Solution to Exercise 15
 
-$165+409=574$ ($1$ carry at the ones); $78+694=772$ ($2$ carries); $98+467=565$ ($2$ carries); $285+715=1000$ ($3$ continuous carries). $\blacksquare$
+$165+409=574$ ($1$ carry at the ones); $78+694=772$ ($2$ carries); $98+467=565$ ($2$ carries); $285+715=1000$ ($3$ continuous carries).
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -166,7 +196,9 @@ $165+409=574$ ($1$ carry at the ones); $78+694=772$ ($2$ carries); $98+467=565$ 
 
 ### Solution to Exercise 16
 
-$485+851=1336$; $636+78=714$; $714+499=1213$. Swap the two addends and recompute to check. $\blacksquare$
+$485+851=1336$; $636+78=714$; $714+499=1213$. Swap the two addends and recompute to check.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -174,7 +206,9 @@ $485+851=1336$; $636+78=714$; $714+499=1213$. Swap the two addends and recompute
 
 ### Solution to Exercise 17
 
-$341+269=610$ yuan. The plane ticket is $610$ yuan. $\blacksquare$
+$341+269=610$ yuan. The plane ticket is $610$ yuan.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -182,7 +216,9 @@ $341+269=610$ yuan. The plane ticket is $610$ yuan. $\blacksquare$
 
 ### Solution to Exercise 18
 
-Tingting's and Lili's homes are on opposite sides of the school, $475+385=860$ meters. (If on the same side, subtract; per the picture they are on opposite sides.) $\blacksquare$
+Tingting's and Lili's homes are on opposite sides of the school, $475+385=860$ meters. (If on the same side, subtract; per the picture they are on opposite sides.)
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -190,7 +226,9 @@ Tingting's and Lili's homes are on opposite sides of the school, $475+385=860$ m
 
 ### Solution to Exercise 19
 
-$356+475=831$; $372+857=1229$; $295+748=1043$; $650+430=1080$; $570+340=910$; $592+230=822$. $\blacksquare$
+$356+475=831$; $372+857=1229$; $295+748=1043$; $650+430=1080$; $570+340=910$; $592+230=822$.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -198,7 +236,9 @@ $356+475=831$; $372+857=1229$; $295+748=1043$; $650+430=1080$; $570+340=910$; $5
 
 ### Solution to Exercise 20
 
-$745+129=874$; $838+172=1010$; $687+225=912$; $736+279=1015$; $459+635=1094$; $656+172=828$. Check by swapping the addends. $\blacksquare$
+$745+129=874$; $838+172=1010$; $687+225=912$; $736+279=1015$; $459+635=1094$; $656+172=828$. Check by swapping the addends.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -206,7 +246,9 @@ $745+129=874$; $838+172=1010$; $687+225=912$; $736+279=1015$; $459+635=1094$; $6
 
 ### Solution to Exercise 21
 
-(1) $258+336=594$ people. (2) For example science and history together: $336+189=525$ people. The answer is not unique. $\blacksquare$
+(1) $258+336=594$ people. (2) For example science and history together: $336+189=525$ people. The answer is not unique.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -214,4 +256,6 @@ $745+129=874$; $838+172=1010$; $687+225=912$; $736+279=1015$; $459+635=1094$; $6
 
 ### Solution to Exercise 22
 
-$252+743=995$; $630+180=810$; $236+374=610$; $178+273=451$; $547+169=716$. Connect them. $\blacksquare$
+$252+743=995$; $630+180=810$; $236+374=610$; $178+273=451$; $547+169=716$. Connect them.
+
+$\blacksquare$

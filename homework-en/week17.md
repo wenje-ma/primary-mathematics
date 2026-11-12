@@ -38,7 +38,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 2.7.3 (Renminbi Exchange and Change)**, two books whose prices together total exactly $13$ yuan: $6+7=13$, or $5+8=13$; thus I might have bought the $6$-yuan and $7$-yuan books, or the $5$-yuan and $8$-yuan books. $\blacksquare$
+By **Definition 2.7.3 (Renminbi Exchange and Change)**, two books whose prices together total exactly $13$ yuan: $6+7=13$, or $5+8=13$; thus I might have bought the $6$-yuan and $7$-yuan books, or the $5$-yuan and $8$-yuan books.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -46,7 +48,9 @@ By **Definition 2.7.3 (Renminbi Exchange and Change)**, two books whose prices t
 
 ### Solution to Exercise 2
 
-By **Definition 2.7.3 (Renminbi Exchange and Change)**, $10-8=2$ (yuan); I should give back $2$ yuan. $\blacksquare$
+By **Definition 2.7.3 (Renminbi Exchange and Change)**, $10-8=2$ (yuan); I should give back $2$ yuan.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -54,7 +58,9 @@ By **Definition 2.7.3 (Renminbi Exchange and Change)**, $10-8=2$ (yuan); I shoul
 
 ### Solution to Exercise 3
 
-By **Definition 2.8.1 (Numbers within 100)**, $2$ tens and $5$ ones combined make $25$; by **Definition 2.8.2 (Addition and Subtraction within 100)**, like units are added and subtracted; by **Definition 2.8.3 (Quantity Relations)**, use addition and subtraction to solve practical problems; just draw them into a knowledge map. $\blacksquare$
+By **Definition 2.8.1 (Numbers within 100)**, $2$ tens and $5$ ones combined make $25$; by **Definition 2.8.2 (Addition and Subtraction within 100)**, like units are added and subtracted; by **Definition 2.8.3 (Quantity Relations)**, use addition and subtraction to solve practical problems; just draw them into a knowledge map.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -62,7 +68,9 @@ By **Definition 2.8.1 (Numbers within 100)**, $2$ tens and $5$ ones combined mak
 
 ### Solution to Exercise 4
 
-By **Definition 2.8.2 (Addition and Subtraction within 100)**, written calculation: $46+35=81$, $34-18=16$. $\blacksquare$
+By **Definition 2.8.2 (Addition and Subtraction within 100)**, written calculation: $46+35=81$, $34-18=16$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -70,7 +78,9 @@ By **Definition 2.8.2 (Addition and Subtraction within 100)**, written calculati
 
 ### Solution to Exercise 5
 
-By **Definition 2.8.2 (Addition and Subtraction within 100)**: $47+25=72$, $25+33=58$. $\blacksquare$
+By **Definition 2.8.2 (Addition and Subtraction within 100)**: $47+25=72$, $25+33=58$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -78,7 +88,9 @@ By **Definition 2.8.2 (Addition and Subtraction within 100)**: $47+25=72$, $25+3
 
 ### Solution to Exercise 6
 
-By "Putting Shapes Together" in this volume, $2$ identical triangles can form a parallelogram (or a larger triangle); $4$ identical squares can form a larger square; any reasonable answer is acceptable. $\blacksquare$
+By "Putting Shapes Together" in this volume, $2$ identical triangles can form a parallelogram (or a larger triangle); $4$ identical squares can form a larger square; any reasonable answer is acceptable.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -86,7 +98,9 @@ By "Putting Shapes Together" in this volume, $2$ identical triangles can form a 
 
 ### Solution to Exercise 7
 
-By **Definition 2.8.1 (Numbers within 100)**, each row increases by $1$ from left to right and each column increases by $10$ from top to bottom; just fill in the blanks according to the pattern. $\blacksquare$
+By **Definition 2.8.1 (Numbers within 100)**, each row increases by $1$ from left to right and each column increases by $10$ from top to bottom; just fill in the blanks according to the pattern.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -94,7 +108,9 @@ By **Definition 2.8.1 (Numbers within 100)**, each row increases by $1$ from lef
 
 ### Solution to Exercise 8
 
-Count out the number by row and column in the hundreds chart, and then use **Definition 2.8.1 (Numbers within 100)** to state how many tens and ones it is made up of. $\blacksquare$
+Count out the number by row and column in the hundreds chart, and then use **Definition 2.8.1 (Numbers within 100)** to state how many tens and ones it is made up of.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -102,7 +118,9 @@ Count out the number by row and column in the hundreds chart, and then use **Def
 
 ### Solution to Exercise 9
 
-By **Definition 2.8.1 (Numbers within 100)**: (1) $54$ contains $5$ tens and $4$ ones; (2) it is $99$, and the number $1$ greater than it is $100$; (3) the numbers adjacent to $90$ are $89$ and $91$. $\blacksquare$
+By **Definition 2.8.1 (Numbers within 100)**: (1) $54$ contains $5$ tens and $4$ ones; (2) it is $99$, and the number $1$ greater than it is $100$; (3) the numbers adjacent to $90$ are $89$ and $91$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -110,7 +128,9 @@ By **Definition 2.8.1 (Numbers within 100)**: (1) $54$ contains $5$ tens and $4$
 
 ### Solution to Exercise 10
 
-Written as $5$, $57$, $15$, $75$, $50$. By **Definition 2.3.3 (Comparing the Sizes of Two-Digit Numbers)**, $5<15<50<57<75$. $\blacksquare$
+Written as $5$, $57$, $15$, $75$, $50$. By **Definition 2.3.3 (Comparing the Sizes of Two-Digit Numbers)**, $5<15<50<57<75$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -118,7 +138,9 @@ Written as $5$, $57$, $15$, $75$, $50$. By **Definition 2.3.3 (Comparing the Siz
 
 ### Solution to Exercise 11
 
-By **Definition 2.8.2 (Addition and Subtraction within 100)**: $48+2=50$, $63-6=57$, $20+45=65$, $94-60=34$; $78+16=94$, $54+29=83$, $36+58=94$, $62+31=93$; $47-29=18$, $61-34=27$, $73-43=30$, $90-27=63$. $\blacksquare$
+By **Definition 2.8.2 (Addition and Subtraction within 100)**: $48+2=50$, $63-6=57$, $20+45=65$, $94-60=34$; $78+16=94$, $54+29=83$, $36+58=94$, $62+31=93$; $47-29=18$, $61-34=27$, $73-43=30$, $90-27=63$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -126,7 +148,9 @@ By **Definition 2.8.2 (Addition and Subtraction within 100)**: $48+2=50$, $63-6=
 
 ### Solution to Exercise 12
 
-$39-4=35$, $35+20=55$, $76+6=82$, $66-30=36$, $56-40=16$, $81+7=88$. Therefore $39-4=35$, $35+20>32$, $86>76+6$, $66-30<63$, $56-40<69$, $87<81+7$. $\blacksquare$
+$39-4=35$, $35+20=55$, $76+6=82$, $66-30=36$, $56-40=16$, $81+7=88$. Therefore $39-4=35$, $35+20>32$, $86>76+6$, $66-30<63$, $56-40<69$, $87<81+7$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -134,7 +158,9 @@ $39-4=35$, $35+20=55$, $76+6=82$, $66-30=36$, $56-40=16$, $81+7=88$. Therefore $
 
 ### Solution to Exercise 13
 
-Calculate from left to right: $7+7-6=8$, $5+46-6=45$, $47+8-6=49$; $78-24+39=93$, $56+34-20=70$, $90-58-30=2$. $\blacksquare$
+Calculate from left to right: $7+7-6=8$, $5+46-6=45$, $47+8-6=49$; $78-24+39=93$, $56+34-20=70$, $90-58-30=2$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -142,7 +168,9 @@ Calculate from left to right: $7+7-6=8$, $5+46-6=45$, $47+8-6=49$; $78-24+39=93$
 
 ### Solution to Exercise 14
 
-By **Definition 2.8.3 (Quantity Relations)**: $30-19=11$ (boats). $\blacksquare$
+By **Definition 2.8.3 (Quantity Relations)**: $30-19=11$ (boats).
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -150,7 +178,9 @@ By **Definition 2.8.3 (Quantity Relations)**: $30-19=11$ (boats). $\blacksquare$
 
 ### Solution to Exercise 15
 
-By **Definition 2.8.3 (Quantity Relations)**: (1) $28+24=52$ yuan, which meets the $50$-yuan threshold, so the $10$-yuan reduction applies; (2) $35+15=50$ yuan, meeting the $50$-yuan threshold, so with the $10$-yuan reduction you need to spend $40$ yuan. $\blacksquare$
+By **Definition 2.8.3 (Quantity Relations)**: (1) $28+24=52$ yuan, which meets the $50$-yuan threshold, so the $10$-yuan reduction applies; (2) $35+15=50$ yuan, meeting the $50$-yuan threshold, so with the $10$-yuan reduction you need to spend $40$ yuan.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -158,7 +188,9 @@ By **Definition 2.8.3 (Quantity Relations)**: (1) $28+24=52$ yuan, which meets t
 
 ### Solution to Exercise 16
 
-By "Solving Problems with Repeated Subtraction", $30-8-8-8=6$, so $3$ boxes can be filled completely, with $6$ eggs left over. $\blacksquare$
+By "Solving Problems with Repeated Subtraction", $30-8-8-8=6$, so $3$ boxes can be filled completely, with $6$ eggs left over.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -166,7 +198,9 @@ By "Solving Problems with Repeated Subtraction", $30-8-8-8=6$, so $3$ boxes can 
 
 ### Solution to Exercise 17
 
-(1) Each time increases by $2$: $20$, $22$; (2) each time decreases by $5$: $50$, $45$. $\blacksquare$
+(1) Each time increases by $2$: $20$, $22$; (2) each time decreases by $5$: $50$, $45$.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -174,7 +208,9 @@ By "Solving Problems with Repeated Subtraction", $30-8-8-8=6$, so $3$ boxes can 
 
 ### Solution to Exercise 18
 
-By **Definition 2.8.3 (Quantity Relations)** and **Definition 2.6.3 (Comparing How Many)**: (1) $38-5=33$ (animals); (2) $5+33=38$ (animals); (3) $38-33=5$ (animals). $\blacksquare$
+By **Definition 2.8.3 (Quantity Relations)** and **Definition 2.6.3 (Comparing How Many)**: (1) $38-5=33$ (animals); (2) $5+33=38$ (animals); (3) $38-33=5$ (animals).
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -182,7 +218,9 @@ By **Definition 2.8.3 (Quantity Relations)** and **Definition 2.6.3 (Comparing H
 
 ### Solution to Exercise 19
 
-By **Definition 2.6.3 (Comparing How Many)**: white sheep $28+17=45$ (sheep), total $28+45=73$ (sheep). $\blacksquare$
+By **Definition 2.6.3 (Comparing How Many)**: white sheep $28+17=45$ (sheep), total $28+45=73$ (sheep).
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -190,4 +228,6 @@ By **Definition 2.6.3 (Comparing How Many)**: white sheep $28+17=45$ (sheep), to
 
 ### Solution to Exercise 20
 
-By **Definition 2.8.3 (Quantity Relations)**, find the two toys whose scores add up to $51$ — those are the ones Xiaohong ringed; the two whose scores add up to $40$ are the ones Xiaoming ringed. $\blacksquare$
+By **Definition 2.8.3 (Quantity Relations)**, find the two toys whose scores add up to $51$ — those are the ones Xiaohong ringed; the two whose scores add up to $40$ are the ones Xiaoming ringed.
+
+$\blacksquare$

@@ -34,7 +34,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 9.2.1 (小数乘整数)** and **Definition 9.2.2 (小数乘小数)**: $0.86\times7=6.02$; $12.8\times42=537.6$; $0.19\times40=7.6$; $0.37\times0.4=0.148$; $1.06\times25=26.5$; $0.082\times0.14=0.01148$; $27\times0.43=11.61$; $0.055\times0.06=0.0033$. $\blacksquare$
+By **Definition 9.2.1 (小数乘整数)** and **Definition 9.2.2 (小数乘小数)**: $0.86\times7=6.02$; $12.8\times42=537.6$; $0.19\times40=7.6$; $0.37\times0.4=0.148$; $1.06\times25=26.5$; $0.082\times0.14=0.01148$; $27\times0.43=11.61$; $0.055\times0.06=0.0033$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -42,7 +44,9 @@ By **Definition 9.2.1 (小数乘整数)** and **Definition 9.2.2 (小数乘小�
 
 ### Solution to Exercise 2
 
-Check the decimal places by **Definition 9.2.2 (小数乘小数)**: $2.8\times5.6$ has two places, $28\times56=1568$, should be $15.68$, the original $1.568$ is wrong; $56.7\times38$ has one place, $2154.6$ is right; $0.37\times0.94$ has four places, $37\times94=3478$, should be $0.3478$, the original $3.478$ is wrong; $1.56\times0.9$ has three places, $1404$, should be $1.404$, right; $1.23\times29.2$ has three places, $123\times292=35916$, should be $359.16$, right; $0.78\times6.1$ has three places, $78\times61=4758$, should be $4.758$, the original $47.58$ is wrong. $\blacksquare$
+Check the decimal places by **Definition 9.2.2 (小数乘小数)**: $2.8\times5.6$ has two places, $28\times56=1568$, should be $15.68$, the original $1.568$ is wrong; $56.7\times38$ has one place, $2154.6$ is right; $0.37\times0.94$ has four places, $37\times94=3478$, should be $0.3478$, the original $3.478$ is wrong; $1.56\times0.9$ has three places, $1404$, should be $1.404$, right; $1.23\times29.2$ has three places, $123\times292=35916$, should be $359.16$, right; $0.78\times6.1$ has three places, $78\times61=4758$, should be $4.758$, the original $47.58$ is wrong.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -50,7 +54,9 @@ Check the decimal places by **Definition 9.2.2 (小数乘小数)**: $2.8\times5.
 
 ### Solution to Exercise 3
 
-By **Definition 9.2.3 (积的近似数)**: (1) $0.37\times8.7=3.219\approx3.2$; $1.2\times1.4=1.68\approx1.7$; $3.14\times3.9=12.246\approx12.2$. (2) $2.34\times0.17=0.3978\approx0.40$; $0.86\times1.6=1.376\approx1.38$; $1.05\times0.26=0.273\approx0.27$. $\blacksquare$
+By **Definition 9.2.3 (积的近似数)**: (1) $0.37\times8.7=3.219\approx3.2$; $1.2\times1.4=1.68\approx1.7$; $3.14\times3.9=12.246\approx12.2$. (2) $2.34\times0.17=0.3978\approx0.40$; $0.86\times1.6=1.376\approx1.38$; $1.05\times0.26=0.273\approx0.27$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -58,7 +64,9 @@ By **Definition 9.2.3 (积的近似数)**: (1) $0.37\times8.7=3.219\approx3.2$; 
 
 ### Solution to Exercise 4
 
-Distance $=$ speed $\times$ time, $70.5\times3.4=239.7$ km. $\blacksquare$
+Distance $=$ speed $\times$ time, $70.5\times3.4=239.7$ km.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -66,7 +74,9 @@ Distance $=$ speed $\times$ time, $70.5\times3.4=239.7$ km. $\blacksquare$
 
 ### Solution to Exercise 5
 
-By the decimal-place relation of factors and product in **Definition 9.2.2 (小数乘小数)**: $32\times15=480$; $320\times150=48000$; $32\times15=480$; $3.2\times15=48$; $32\times1.5=48$; $0.32\times0.15=0.048$. $\blacksquare$
+By the decimal-place relation of factors and product in **Definition 9.2.2 (小数乘小数)**: $32\times15=480$; $320\times150=48000$; $32\times15=480$; $3.2\times15=48$; $32\times1.5=48$; $0.32\times0.15=0.048$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -74,7 +84,9 @@ By the decimal-place relation of factors and product in **Definition 9.2.2 (小�
 
 ### Solution to Exercise 6
 
-$1.28\times30=38.4$ ten thousand km. $\blacksquare$
+$1.28\times30=38.4$ ten thousand km.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -82,7 +94,9 @@ $1.28\times30=38.4$ ten thousand km. $\blacksquare$
 
 ### Solution to Exercise 7
 
-Two round trips means $4$ one-way trips: $1.3\times4=5.2$ km. Monday to Friday, $5$ days: $5.2\times5=26$ km. $\blacksquare$
+Two round trips means $4$ one-way trips: $1.3\times4=5.2$ km. Monday to Friday, $5$ days: $5.2\times5=26$ km.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -90,7 +104,9 @@ Two round trips means $4$ one-way trips: $1.3\times4=5.2$ km. Monday to Friday, 
 
 ### Solution to Exercise 8
 
-By **Definition 9.2.3 (积的近似数)**, $3.04\times21=63.84\approx64$ m. $\blacksquare$
+By **Definition 9.2.3 (积的近似数)**, $3.04\times21=63.84\approx64$ m.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -98,7 +114,9 @@ By **Definition 9.2.3 (积的近似数)**, $3.04\times21=63.84\approx64$ m. $\bl
 
 ### Solution to Exercise 9
 
-By **Definition 9.2.2 (小数乘小数)**, the product's decimal places equal the sum of the factors' decimal places. The answer is not unique, e.g. $2.535=6.5\times0.39$; $25.35=6.5\times3.9$; $253.5=65\times3.9$; $0.2535=0.65\times0.39$. $\blacksquare$
+By **Definition 9.2.2 (小数乘小数)**, the product's decimal places equal the sum of the factors' decimal places. The answer is not unique, e.g. $2.535=6.5\times0.39$; $25.35=6.5\times3.9$; $253.5=65\times3.9$; $0.2535=0.65\times0.39$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -106,7 +124,9 @@ By **Definition 9.2.2 (小数乘小数)**, the product's decimal places equal th
 
 ### Solution to Exercise 10
 
-From $\square+\triangle=\square\times\triangle$, rearrange to $\triangle=\frac{\square}{\square-1}$. Try $\square=2$, $\triangle=2$; try $\square=3$, $\triangle=\frac{3}{2}=1.5$, check $3+1.5=4.5=3\times1.5$. One solution is $\square=3$, $\triangle=1.5$. $\blacksquare$
+From $\square+\triangle=\square\times\triangle$, rearrange to $\triangle=\frac{\square}{\square-1}$. Try $\square=2$, $\triangle=2$; try $\square=3$, $\triangle=\frac{3}{2}=1.5$, check $3+1.5=4.5=3\times1.5$. One solution is $\square=3$, $\triangle=1.5$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -114,7 +134,9 @@ From $\square+\triangle=\square\times\triangle$, rearrange to $\triangle=\frac{\
 
 ### Solution to Exercise 11
 
-By **Definition 9.2.4 (Multiples That Are Decimals)**, Class 4(2): $3.9\times0.8=3.12$ kg; Class 4(3): $3.9\times1.2=4.68$ kg. $\blacksquare$
+By **Definition 9.2.4 (Multiples That Are Decimals)**, Class 4(2): $3.9\times0.8=3.12$ kg; Class 4(3): $3.9\times1.2=4.68$ kg.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -122,7 +144,9 @@ By **Definition 9.2.4 (Multiples That Are Decimals)**, Class 4(2): $3.9\times0.8
 
 ### Solution to Exercise 12
 
-By **Definition 9.2.4 (倍数是小数)**: $3.2\times0.8=2.56$ yuan; $3.2\times0.5=1.6$ yuan; $3.2\times1.4=4.48$ yuan; $3.2\times2.6=8.32$ yuan. $\blacksquare$
+By **Definition 9.2.4 (倍数是小数)**: $3.2\times0.8=2.56$ yuan; $3.2\times0.5=1.6$ yuan; $3.2\times1.4=4.48$ yuan; $3.2\times2.6=8.32$ yuan.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -130,7 +154,9 @@ By **Definition 9.2.4 (倍数是小数)**: $3.2\times0.8=2.56$ yuan; $3.2\times0
 
 ### Solution to Exercise 13
 
-By **Definition 9.2.4 (倍数是小数)**, multiplying by a number less than $1$ shrinks the product and by a number greater than $1$ enlarges it: $756\times0.9<756$; $1\times0.94<1$; $4.25\times1.1>4.25$; $31.4\times1.2>31.4$. $\blacksquare$
+By **Definition 9.2.4 (倍数是小数)**, multiplying by a number less than $1$ shrinks the product and by a number greater than $1$ enlarges it: $756\times0.9<756$; $1\times0.94<1$; $4.25\times1.1>4.25$; $31.4\times1.2>31.4$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -138,4 +164,6 @@ By **Definition 9.2.4 (倍数是小数)**, multiplying by a number less than $1$
 
 ### Solution to Exercise 14
 
-By **Definition 9.2.5 (Extending the Laws)**: $0.25\times4.78\times4=0.25\times4\times4.78=1\times4.78=4.78$; $0.65\times202=0.65\times\left(200+2\right)=0.65\times200+0.65\times2=130+1.3=131.3$. $\blacksquare$
+By **Definition 9.2.5 (Extending the Laws)**: $0.25\times4.78\times4=0.25\times4\times4.78=1\times4.78=4.78$; $0.65\times202=0.65\times\left(200+2\right)=0.65\times200+0.65\times2=130+1.3=131.3$.
+
+$\blacksquare$

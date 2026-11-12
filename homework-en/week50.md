@@ -26,7 +26,9 @@
 
 ### Solution to Exercise 1
 
-$12\times7=84$ (the original $74$ is wrong); $28\times3=84$ (the original $44$ is wrong); $183\times3=549$ (correct); $812\times4=3248$. $\blacksquare$
+$12\times7=84$ (the original $74$ is wrong); $28\times3=84$ (the original $44$ is wrong); $183\times3=549$ (correct); $812\times4=3248$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -34,7 +36,9 @@ $12\times7=84$ (the original $74$ is wrong); $28\times3=84$ (the original $44$ i
 
 ### Solution to Exercise 2
 
-$5\times25=125$ centimeters. A person's long jump is generally less than $2$ meters ($200$ centimeters), so they can be compared. $\blacksquare$
+$5\times25=125$ centimeters. A person's long jump is generally less than $2$ meters ($200$ centimeters), so they can be compared.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -42,7 +46,9 @@ $5\times25=125$ centimeters. A person's long jump is generally less than $2$ met
 
 ### Solution to Exercise 3
 
-$185\times9=1665$ meters. $\blacksquare$
+$185\times9=1665$ meters.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -50,7 +56,9 @@ $185\times9=1665$ meters. $\blacksquare$
 
 ### Solution to Exercise 4
 
-$78\times7=546$ yuan. $\blacksquare$
+$78\times7=546$ yuan.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -58,7 +66,9 @@ $78\times7=546$ yuan. $\blacksquare$
 
 ### Solution to Exercise 5
 
-The first $6$ vehicles carry $58\times6=348$ students, and the $7$th vehicle carries $400-348=52$ students. $\blacksquare$
+The first $6$ vehicles carry $58\times6=348$ students, and the $7$th vehicle carries $400-348=52$ students.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -66,7 +76,9 @@ The first $6$ vehicles carry $58\times6=348$ students, and the $7$th vehicle car
 
 ### Solution to Exercise 6
 
-The band has $18+17=35$ people in total, and the chorus has $35\times3=105$ people. $\blacksquare$
+The band has $18+17=35$ people in total, and the chorus has $35\times3=105$ people.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -74,7 +86,9 @@ The band has $18+17=35$ people in total, and the chorus has $35\times3=105$ peop
 
 ### Solution to Exercise 7
 
-Per hour: $30+25\times2=80$ yuan; for $2$ hours: $80\times2=160$ yuan. $\blacksquare$
+Per hour: $30+25\times2=80$ yuan; for $2$ hours: $80\times2=160$ yuan.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -82,7 +96,9 @@ Per hour: $30+25\times2=80$ yuan; for $2$ hours: $80\times2=160$ yuan. $\blacksq
 
 ### Solution to Exercise 8
 
-First-class has $13\times4=52$ seats; second-class has $18\times5=90$ seats; the difference is $90-52=38$ seats. $\blacksquare$
+First-class has $13\times4=52$ seats; second-class has $18\times5=90$ seats; the difference is $90-52=38$ seats.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -90,7 +106,9 @@ First-class has $13\times4=52$ seats; second-class has $18\times5=90$ seats; the
 
 ### Solution to Exercise 9
 
-(1) For example, apples are $25$ kilograms and pears are $30$ times the apples; how many pears: $25\times30=750$ kilograms. (2) A is $10$, A and B together are $48$, so B is $48-10=38$. Answers may vary. $\blacksquare$
+(1) For example, apples are $25$ kilograms and pears are $30$ times the apples; how many pears: $25\times30=750$ kilograms. (2) A is $10$, A and B together are $48$, so B is $48-10=38$. Answers may vary.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -98,7 +116,9 @@ First-class has $13\times4=52$ seats; second-class has $18\times5=90$ seats; the
 
 ### Solution to Exercise 10
 
-Pattern: the hundreds digit of the product increases by $1$ each time, the ones digit decreases by $1$, and the tens digit is always $9$. $99\times6=594$, $99\times7=693$, $99\times8=792$, $99\times9=891$. $\blacksquare$
+Pattern: the hundreds digit of the product increases by $1$ each time, the ones digit decreases by $1$, and the tens digit is always $9$. $99\times6=594$, $99\times7=693$, $99\times8=792$, $99\times9=891$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -106,7 +126,9 @@ Pattern: the hundreds digit of the product increases by $1$ each time, the ones 
 
 ### Solution to Exercise 11
 
-$0+0+\cdots+0=0$, $0\times7=0$ peaches. By **Definition 5.5.3 (Multiplication by 0)**, $0$ multiplied by any number gives $0$. $\blacksquare$
+$0+0+\cdots+0=0$, $0\times7=0$ peaches. By **Definition 5.5.3 (Multiplication by 0)**, $0$ multiplied by any number gives $0$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -114,7 +136,9 @@ $0+0+\cdots+0=0$, $0\times7=0$ peaches. By **Definition 5.5.3 (Multiplication by
 
 ### Solution to Exercise 12
 
-By **Definition 5.5.3 (Multiplication by 0)**: $0\times3=0$; $9\times0=0$; $0\times0=0$. $\blacksquare$
+By **Definition 5.5.3 (Multiplication by 0)**: $0\times3=0$; $9\times0=0$; $0\times0=0$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -122,7 +146,9 @@ By **Definition 5.5.3 (Multiplication by 0)**: $0\times3=0$; $9\times0=0$; $0\ti
 
 ### Solution to Exercise 13
 
-$0\times2=0$; $5\times0=0$; $0\times6=0$; $0\times8=0$; $2\times0=0$; $5+0=5$; $6\times0=0$; $0+8=8$. Filling in the symbols: $4-4=0$; $4+0=4$ (or $4\times1$); $0\times10=0$; $0+0=0$ (or $0\times0$); $4\times0=0$; $7-7=0$. $\blacksquare$
+$0\times2=0$; $5\times0=0$; $0\times6=0$; $0\times8=0$; $2\times0=0$; $5+0=5$; $6\times0=0$; $0+8=8$. Filling in the symbols: $4-4=0$; $4+0=4$ (or $4\times1$); $0\times10=0$; $0+0=0$ (or $0\times0$); $4\times0=0$; $7-7=0$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -130,7 +156,9 @@ $0\times2=0$; $5\times0=0$; $0\times6=0$; $0\times8=0$; $2\times0=0$; $5+0=5$; $
 
 ### Solution to Exercise 14
 
-$604\times8=4832$ seats. By **Definition 5.5.4 (Multiplication with a 0 in the Middle or at the End of a Factor)**, estimate $600\times8=4800$; the tens $0\times8=0$ plus the $3$ carried from the ones gives $3$. $\blacksquare$
+$604\times8=4832$ seats. By **Definition 5.5.4 (Multiplication with a 0 in the Middle or at the End of a Factor)**, estimate $600\times8=4800$; the tens $0\times8=0$ plus the $3$ carried from the ones gives $3$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -138,7 +166,9 @@ $604\times8=4832$ seats. By **Definition 5.5.4 (Multiplication with a 0 in the M
 
 ### Solution to Exercise 15
 
-$280\times3=840$ yuan. By **Definition 5.5.4 (因数中间或末尾有 0 的乘法)**, think of it as $28$ tens times $3$ gives $84$ tens, i.e. $840$. $\blacksquare$
+$280\times3=840$ yuan. By **Definition 5.5.4 (因数中间或末尾有 0 的乘法)**, think of it as $28$ tens times $3$ gives $84$ tens, i.e. $840$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -146,7 +176,9 @@ $280\times3=840$ yuan. By **Definition 5.5.4 (因数中间或末尾有 0 的乘�
 
 ### Solution to Exercise 16
 
-$106\times4=424$; $205\times3=615$; $207\times8=1656$; $408\times5=2040$; $420\times6=2520$; $370\times5=1850$; $130\times9=1170$; $260\times7=1820$. $\blacksquare$
+$106\times4=424$; $205\times3=615$; $207\times8=1656$; $408\times5=2040$; $420\times6=2520$; $370\times5=1850$; $130\times9=1170$; $260\times7=1820$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -154,7 +186,9 @@ $106\times4=424$; $205\times3=615$; $207\times8=1656$; $408\times5=2040$; $420\t
 
 ### Solution to Exercise 17
 
-By **Definition 5.5.5 (Solving Problems by Estimation)**, take $987$ as $1000$; since $987<1000$, $1000\times8=8000$, so $987\times8<8000$. $8000$ yuan is enough. $\blacksquare$
+By **Definition 5.5.5 (Solving Problems by Estimation)**, take $987$ as $1000$; since $987<1000$, $1000\times8=8000$, so $987\times8<8000$. $8000$ yuan is enough.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -162,7 +196,9 @@ By **Definition 5.5.5 (Solving Problems by Estimation)**, take $987$ as $1000$; 
 
 ### Solution to Exercise 18
 
-Take $218$ as $200$; $200\times5=1000$. Actually $218>200$, so $218\times5>1000$, and $218\times5=1090$ yuan. $1000$ yuan is not enough. $\blacksquare$
+Take $218$ as $200$; $200\times5=1000$. Actually $218>200$, so $218\times5>1000$, and $218\times5=1090$ yuan. $1000$ yuan is not enough.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -170,7 +206,9 @@ Take $218$ as $200$; $200\times5=1000$. Actually $218>200$, so $218\times5>1000$
 
 ### Solution to Exercise 19
 
-By **Definition 5.5.3 (Multiplication by 0)**, the multiplication expression ends with multiplying by $0$, so its product is $0$; the addition expression is at least $45$. The addition expression is larger. $\blacksquare$
+By **Definition 5.5.3 (Multiplication by 0)**, the multiplication expression ends with multiplying by $0$, so its product is $0$; the addition expression is at least $45$. The addition expression is larger.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -178,4 +216,6 @@ By **Definition 5.5.3 (Multiplication by 0)**, the multiplication expression end
 
 ### Solution to Exercise 20
 
-$8\times0=0<8+0=8$; $14\times6=84>16\times4=64$; $130\times0=0<130-0=130$; $54-0=54=54+0$; $400+9=409<400\times9=3600$; $304\times8=2432>2400$. $\blacksquare$
+$8\times0=0<8+0=8$; $14\times6=84>16\times4=64$; $130\times0=0<130-0=130$; $54-0=54=54+0$; $400+9=409<400\times9=3600$; $304\times8=2432>2400$.
+
+$\blacksquare$

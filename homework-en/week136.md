@@ -2,7 +2,7 @@
 
 > **Definition 11.9.1 (鸽巢原理, 抽屉原理)**
 > 
-> 把 $m$ 个物体任意分放进 $n$ 个抽屉 ($m>{}n$), 那么一定有一个抽屉里至少放了 $\lceil\frac{m}{n}\rceil$ 个物体. 计算方法: $m\div{n}=q\cdots\cdots{r}$, 当 $r>0$ 时至少 $q+1$ 个, 当 $r=0$ 时至少 $q$ 个.
+> 把 $m$ 个物体任意分放进 $n$ 个抽屉 ($m>n$), 那么一定有一个抽屉里至少放了 $\lceil\frac{m}{n}\rceil$ 个物体. 计算方法: $m\div{n}=q\cdots\cdots{r}$, 当 $r>0$ 时至少 $q+1$ 个, 当 $r=0$ 时至少 $q$ 个.
 
 ## Exercise 1
 
@@ -10,7 +10,9 @@
 
 ### Solution to Exercise 1
 
-First find the row for the letter $B$, then find the column for the number $5$; the cell where they cross is B5. $\blacksquare$
+First find the row for the letter $B$, then find the column for the number $5$; the cell where they cross is B5.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -18,7 +20,9 @@ First find the row for the letter $B$, then find the column for the number $5$; 
 
 ### Solution to Exercise 2
 
-Reading the columns by letter and the rows by number, read off the ordered pair of each white move in turn, such as (H,8), (I,9), and so on. $\blacksquare$
+Reading the columns by letter and the rows by number, read off the ordered pair of each white move in turn, such as (H,8), (I,9), and so on.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -26,7 +30,9 @@ Reading the columns by letter and the rows by number, read off the ordered pair 
 
 ### Solution to Exercise 3
 
-$15\times\frac{4}{5}=12$; $15\div\frac{3}{4}=20$; $\frac{25}{40}\times\frac{24}{12}=\frac{5}{4}=1.25$; $\frac{16}{15}\times\frac{25}{24}=\frac{10}{9}$. $\blacksquare$
+$15\times\frac{4}{5}=12$; $15\div\frac{3}{4}=20$; $\frac{25}{40}\times\frac{24}{12}=\frac{5}{4}=1.25$; $\frac{16}{15}\times\frac{25}{24}=\frac{10}{9}$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -34,7 +40,9 @@ $15\times\frac{4}{5}=12$; $15\div\frac{3}{4}=20$; $\frac{25}{40}\times\frac{24}{
 
 ### Solution to Exercise 4
 
-$36000\div\frac{71}{100}\approx50704$ (ten-thousand square kilometers). $\blacksquare$
+$36000\div\frac{71}{100}\approx50704$ (ten-thousand square kilometers).
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -42,7 +50,9 @@ $36000\div\frac{71}{100}\approx50704$ (ten-thousand square kilometers). $\blacks
 
 ### Solution to Exercise 5
 
-$\frac{5}{9}\times\left(\frac{3}{4}+\frac{1}{4}\right)=\frac{5}{9}$; $\left(3.7+1.3\right)\times\frac{6}{13}=5\times\frac{6}{13}=\frac{30}{13}$; $0.5\times\frac{21}{25}=\frac{21}{50}$. $\blacksquare$
+$\frac{5}{9}\times\left(\frac{3}{4}+\frac{1}{4}\right)=\frac{5}{9}$; $\left(3.7+1.3\right)\times\frac{6}{13}=5\times\frac{6}{13}=\frac{30}{13}$; $0.5\times\frac{21}{25}=\frac{21}{50}$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -50,7 +60,9 @@ $\frac{5}{9}\times\left(\frac{3}{4}+\frac{1}{4}\right)=\frac{5}{9}$; $\left(3.7+
 
 ### Solution to Exercise 6
 
-Xiaoqiang $=120\times\frac{5}{8}=75$; Xiaoliang $=75\times\frac{2}{3}=50$ (times). $\blacksquare$
+Xiaoqiang $=120\times\frac{5}{8}=75$; Xiaoliang $=75\times\frac{2}{3}=50$ (times).
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -58,7 +70,9 @@ Xiaoqiang $=120\times\frac{5}{8}=75$; Xiaoliang $=75\times\frac{2}{3}=50$ (times
 
 ### Solution to Exercise 7
 
-Car $=300\times\frac{1}{3}=100\;\text{km/h}$; plane $=100\div\frac{1}{9}=900\;\text{km/h}$. $\blacksquare$
+Car $=300\times\frac{1}{3}=100\;\text{km/h}$; plane $=100\div\frac{1}{9}=900\;\text{km/h}$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -66,7 +80,9 @@ Car $=300\times\frac{1}{3}=100\;\text{km/h}$; plane $=100\div\frac{1}{9}=900\;\t
 
 ### Solution to Exercise 8
 
-Drying rate $=428\div500\times100\%=85.6\%$; moisture content $=\left(500-428\right)\div500\times100\%=14.4\%$. $\blacksquare$
+Drying rate $=428\div500\times100\%=85.6\%$; moisture content $=\left(500-428\right)\div500\times100\%=14.4\%$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -74,7 +90,9 @@ Drying rate $=428\div500\times100\%=85.6\%$; moisture content $=\left(500-428\ri
 
 ### Solution to Exercise 9
 
-(1) $2\div12\approx16.7\%$; (2) $24\times75\%=18$ (hours). $\blacksquare$
+(1) $2\div12\approx16.7\%$; (2) $24\times75\%=18$ (hours).
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -82,7 +100,9 @@ Drying rate $=428\div500\times100\%=85.6\%$; moisture content $=\left(500-428\ri
 
 ### Solution to Exercise 10
 
-Let each square have side length $1$; the shaded part is a triangle of area $\frac{1}{2}$, and the rectangle has area $2$, so it accounts for $\frac{0.5}{2}=25\%$. $\blacksquare$
+Let each square have side length $1$; the shaded part is a triangle of area $\frac{1}{2}$, and the rectangle has area $2$, so it accounts for $\frac{0.5}{2}=25\%$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -90,7 +110,9 @@ Let each square have side length $1$; the shaded part is a triangle of area $\fr
 
 ### Solution to Exercise 11
 
-Plot the points $A$, $B$, and $C$ on grid paper and join them into the right triangle. Since $AB$ can serve as the hypotenuse, the other possible position of $C$ is $\left(2,5\right)$. $\blacksquare$
+Plot the points $A$, $B$, and $C$ on grid paper and join them into the right triangle. Since $AB$ can serve as the hypotenuse, the other possible position of $C$ is $\left(2,5\right)$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -98,7 +120,9 @@ Plot the points $A$, $B$, and $C$ on grid paper and join them into the right tri
 
 ### Solution to Exercise 12
 
-Let the length be $x$ and the width $\frac{2}{5}x$. Then $2\left(x+\frac{2}{5}x\right)=84$, $\frac{7}{5}x=42$, $x=30\;\text{cm}$; the width $=12\;\text{cm}$. $\blacksquare$
+Let the length be $x$ and the width $\frac{2}{5}x$. Then $2\left(x+\frac{2}{5}x\right)=84$, $\frac{7}{5}x=42$, $x=30\;\text{cm}$; the width $=12\;\text{cm}$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -106,7 +130,9 @@ Let the length be $x$ and the width $\frac{2}{5}x$. Then $2\left(x+\frac{2}{5}x\
 
 ### Solution to Exercise 13
 
-Drive A has $8-6.4=1.6\;\text{GB}<1.8$ left; drive B has $16\times30\%=4.8\;\text{GB}>1.8$ left, so choose B. Copying the whole file takes $0.5\div15\%=\frac{10}{3}$ minutes, and the remaining time is $\frac{10}{3}\times\left(1-15\%\right)=\frac{17}{6}\approx2.83$ minutes. $\blacksquare$
+Drive A has $8-6.4=1.6\;\text{GB}<1.8$ left; drive B has $16\times30\%=4.8\;\text{GB}>1.8$ left, so choose B. Copying the whole file takes $0.5\div15\%=\frac{10}{3}$ minutes, and the remaining time is $\frac{10}{3}\times\left(1-15\%\right)=\frac{17}{6}\approx2.83$ minutes.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -114,7 +140,9 @@ Drive A has $8-6.4=1.6\;\text{GB}<1.8$ left; drive B has $16\times30\%=4.8\;\tex
 
 ### Solution to Exercise 14
 
-Use a protractor to measure the bearing angles, use a ruler to measure the map distance, and multiply by $100\;\text{m}$ to get the actual distance; for example, Little Monkey is $200\;\text{m}$ from Little Bear in the direction $30^{\circ}$ east of north. $\blacksquare$
+Use a protractor to measure the bearing angles, use a ruler to measure the map distance, and multiply by $100\;\text{m}$ to get the actual distance; for example, Little Monkey is $200\;\text{m}$ from Little Bear in the direction $30^{\circ}$ east of north.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -122,7 +150,9 @@ Use a protractor to measure the bearing angles, use a ruler to measure the map d
 
 ### Solution to Exercise 15
 
-Large circle: $d=1.8$, $C=5.652\;\text{m}$; medium circle: $d=0.9$, $C=2.826\;\text{m}$; small circle: $d=0.6$, $C=1.884\;\text{m}$. The total area cut away from the three sheets is the same (all $\pi\times0.9^2$), so the remaining scrap is the same amount. $\blacksquare$
+Large circle: $d=1.8$, $C=5.652\;\text{m}$; medium circle: $d=0.9$, $C=2.826\;\text{m}$; small circle: $d=0.6$, $C=1.884\;\text{m}$. The total area cut away from the three sheets is the same (all $\pi\times0.9^2$), so the remaining scrap is the same amount.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -130,7 +160,9 @@ Large circle: $d=1.8$, $C=5.652\;\text{m}$; medium circle: $d=0.9$, $C=2.826\;\t
 
 ### Solution to Exercise 16
 
-Three possibilities, taking $AB$, $AC$, and $BC$ as the diagonal respectively: $D=\left(10,5\right)$, or $\left(16,11\right)$, or $\left(2,5\right)$. Altogether $3$ parallelograms. $\blacksquare$
+Three possibilities, taking $AB$, $AC$, and $BC$ as the diagonal respectively: $D=\left(10,5\right)$, or $\left(16,11\right)$, or $\left(2,5\right)$. Altogether $3$ parallelograms.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -138,7 +170,9 @@ Three possibilities, taking $AB$, $AC$, and $BC$ as the diagonal respectively: $
 
 ### Solution to Exercise 17
 
-For each year, divide the amount harmlessly treated by the amount collected; for example, in 2014, $16394\div17860\approx91.8\%$. The number of treatment plants rose year by year from $765$ in 2013 to about $1400$ in 2021, showing that the country is paying increasing attention to the harmless treatment of household waste. $\blacksquare$
+For each year, divide the amount harmlessly treated by the amount collected; for example, in 2014, $16394\div17860\approx91.8\%$. The number of treatment plants rose year by year from $765$ in 2013 to about $1400$ in 2021, showing that the country is paying increasing attention to the harmless treatment of household waste.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -146,4 +180,6 @@ For each year, divide the amount harmlessly treated by the amount collected; for
 
 ### Solution to Exercise 18
 
-By **Definition 11.9.1 (Pigeonhole Principle, Drawer Principle)**, $7\div3=2\cdots\cdots1$: on average each hole gets $2$ pigeons with $1$ left over; whichever hole this last pigeon enters, that hole has at least $3$. $\blacksquare$
+By **Definition 11.9.1 (Pigeonhole Principle, Drawer Principle)**, $7\div3=2\cdots\cdots1$: on average each hole gets $2$ pigeons with $1$ left over; whichever hole this last pigeon enters, that hole has at least $3$.
+
+$\blacksquare$

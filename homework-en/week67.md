@@ -42,7 +42,9 @@
 
 ### Solution to Exercise 1
 
-Integers: $20,3,100,7,4,35$; fractions: $\frac{10}{3}$; decimals: $0.9,4.20,18.5,0.03,0.86$. $\blacksquare$
+Integers: $20,3,100,7,4,35$; fractions: $\frac{10}{3}$; decimals: $0.9,4.20,18.5,0.03,0.86$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -50,7 +52,9 @@ Integers: $20,3,100,7,4,35$; fractions: $\frac{10}{3}$; decimals: $0.9,4.20,18.5
 
 ### Solution to Exercise 2
 
-By **Definition 6.7.1 (Decimals)**: $3$ yuan $5$ jiao $=3.5$ yuan, $5$ jiao $=0.5$ yuan, $4$ yuan $9$ jiao $9$ fen $=4.99$ yuan, $3$ yuan $4$ jiao $9$ fen $=3.49$ yuan. From smallest to largest: $0.5<3.49<3.5<4.99$. $\blacksquare$
+By **Definition 6.7.1 (Decimals)**: $3$ yuan $5$ jiao $=3.5$ yuan, $5$ jiao $=0.5$ yuan, $4$ yuan $9$ jiao $9$ fen $=4.99$ yuan, $3$ yuan $4$ jiao $9$ fen $=3.49$ yuan. From smallest to largest: $0.5<3.49<3.5<4.99$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -58,7 +62,9 @@ By **Definition 6.7.1 (Decimals)**: $3$ yuan $5$ jiao $=3.5$ yuan, $5$ jiao $=0.
 
 ### Solution to Exercise 3
 
-By **Definition 6.7.3 (简单的小数加,减法)**, (1) $12.5-8.4=4.1$ (yuan). (2) $8.4+12.5=20.9$ (yuan), $20.9>20$, not enough. (3) For example, "Children's Literature" is $10.8-8.4=2.4$ yuan more expensive than "Selected Fairy Tales"; answers may vary. $\blacksquare$
+By **Definition 6.7.3 (简单的小数加,减法)**, (1) $12.5-8.4=4.1$ (yuan). (2) $8.4+12.5=20.9$ (yuan), $20.9>20$, not enough. (3) For example, "Children's Literature" is $10.8-8.4=2.4$ yuan more expensive than "Selected Fairy Tales"; answers may vary.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -66,7 +72,9 @@ By **Definition 6.7.3 (简单的小数加,减法)**, (1) $12.5-8.4=4.1$ (yuan). 
 
 ### Solution to Exercise 4
 
-By **Definition 6.7.1 (Decimals)**, the decimal point can be placed in different positions: one-decimal-place numbers such as $1.23,1.32,2.13,2.31,3.12,3.21$; two-decimal-place numbers such as $12.3,13.2,21.3,23.1,31.2,32.1$, totaling $12$. $\blacksquare$
+By **Definition 6.7.1 (Decimals)**, the decimal point can be placed in different positions: one-decimal-place numbers such as $1.23,1.32,2.13,2.31,3.12,3.21$; two-decimal-place numbers such as $12.3,13.2,21.3,23.1,31.2,32.1$, totaling $12$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -74,7 +82,9 @@ By **Definition 6.7.1 (Decimals)**, the decimal point can be placed in different
 
 ### Solution to Exercise 5
 
-(1) Xiaohong $189\div3=63$, Xiaoli $276\div4=69$, Xiaojun $260\div5=52$ (kWh). (2) Half a year is $6$ months, using $9\times6=54$ tons; each ton is $270\div54=5$ (yuan). $\blacksquare$
+(1) Xiaohong $189\div3=63$, Xiaoli $276\div4=69$, Xiaojun $260\div5=52$ (kWh). (2) Half a year is $6$ months, using $9\times6=54$ tons; each ton is $270\div54=5$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -82,7 +92,9 @@ By **Definition 6.7.1 (Decimals)**, the decimal point can be placed in different
 
 ### Solution to Exercise 6
 
-Joined into a rectangle (length $12$, width $3$): perimeter $\left(12+3\right)\times2=30$ (centimeters), area $12\times3=36$ (square centimeters). Joined into a square (side $6$): perimeter $6\times4=24$ (centimeters), area $6\times6=36$ (square centimeters). $\blacksquare$
+Joined into a rectangle (length $12$, width $3$): perimeter $\left(12+3\right)\times2=30$ (centimeters), area $12\times3=36$ (square centimeters). Joined into a square (side $6$): perimeter $6\times4=24$ (centimeters), area $6\times6=36$ (square centimeters).
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -90,7 +102,9 @@ Joined into a rectangle (length $12$, width $3$): perimeter $\left(12+3\right)\t
 
 ### Solution to Exercise 7
 
-$32,35,150,13,70,90,370,760,93,19,30,960,21,68,230,260$. $\blacksquare$
+$32,35,150,13,70,90,370,760,93,19,30,960,21,68,230,260$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -98,7 +112,9 @@ $32,35,150,13,70,90,370,760,93,19,30,960,21,68,230,260$. $\blacksquare$
 
 ### Solution to Exercise 8
 
-By **Definition 6.8.1 (division by a one-digit divisor)**: $528\div3=176$, $228\div6=38$, $504\div8=63$, $414\div9=46$. $\blacksquare$
+By **Definition 6.8.1 (division by a one-digit divisor)**: $528\div3=176$, $228\div6=38$, $504\div8=63$, $414\div9=46$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -106,7 +122,9 @@ By **Definition 6.8.1 (division by a one-digit divisor)**: $528\div3=176$, $228\
 
 ### Solution to Exercise 9
 
-$665\div7=95$ (insects). $\blacksquare$
+$665\div7=95$ (insects).
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -114,7 +132,9 @@ $665\div7=95$ (insects). $\blacksquare$
 
 ### Solution to Exercise 10
 
-Perimeter $6\times4=24$ (meters), area $6\times6=36$ (square meters). $\blacksquare$
+Perimeter $6\times4=24$ (meters), area $6\times6=36$ (square meters).
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -122,7 +142,9 @@ Perimeter $6\times4=24$ (meters), area $6\times6=36$ (square meters). $\blacksqu
 
 ### Solution to Exercise 11
 
-(1) $3$ years $=36$ months, $24$ months $=2$ years. (2) Month $7$ has $31$ days, and $15$ o'clock is $3$ p.m. (3) Morning $3$ hours $50$ minutes, afternoon $3$ hours, totaling $6$ hours $50$ minutes. $\blacksquare$
+(1) $3$ years $=36$ months, $24$ months $=2$ years. (2) Month $7$ has $31$ days, and $15$ o'clock is $3$ p.m. (3) Morning $3$ hours $50$ minutes, afternoon $3$ hours, totaling $6$ hours $50$ minutes.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -130,7 +152,9 @@ Perimeter $6\times4=24$ (meters), area $6\times6=36$ (square meters). $\blacksqu
 
 ### Solution to Exercise 12
 
-By **Definition 6.7.1 (Decimals)**, each small division is $0.1$; count the divisions from the arrow's position and write the decimal. $\blacksquare$
+By **Definition 6.7.1 (Decimals)**, each small division is $0.1$; count the divisions from the arrow's position and write the decimal.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -138,7 +162,9 @@ By **Definition 6.7.1 (Decimals)**, each small division is $0.1$; count the divi
 
 ### Solution to Exercise 13
 
-By **Definition 6.7.3 (lining up the decimal points)**: $0.6,6.6,8.3,3.6,1.9,7.3$. $\blacksquare$
+By **Definition 6.7.3 (lining up the decimal points)**: $0.6,6.6,8.3,3.6,1.9,7.3$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -146,7 +172,9 @@ By **Definition 6.7.3 (lining up the decimal points)**: $0.6,6.6,8.3,3.6,1.9,7.3
 
 ### Solution to Exercise 14
 
-By **Definition 6.1.1 (axisymmetry)**, a pattern that folds along a straight line with both sides matching completely is axisymmetric; judge each one accordingly. $\blacksquare$
+By **Definition 6.1.1 (axisymmetry)**, a pattern that folds along a straight line with both sides matching completely is axisymmetric; judge each one accordingly.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -154,7 +182,9 @@ By **Definition 6.1.1 (axisymmetry)**, a pattern that folds along a straight lin
 
 ### Solution to Exercise 15
 
-By **Definition 6.1.2 (translation)** and **Definition 6.1.3 (rotation)**, translation does not change direction but only position, while rotation changes direction; choose the figures accordingly. $\blacksquare$
+By **Definition 6.1.2 (translation)** and **Definition 6.1.3 (rotation)**, translation does not change direction but only position, while rotation changes direction; choose the figures accordingly.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -162,7 +192,9 @@ By **Definition 6.1.2 (translation)** and **Definition 6.1.3 (rotation)**, trans
 
 ### Solution to Exercise 16
 
-Each sheet makes $12\div4=3$ (planes). (1) $3\times6=18$ (planes). (2) $24\div3=8$ (sheets). $\blacksquare$
+Each sheet makes $12\div4=3$ (planes). (1) $3\times6=18$ (planes). (2) $24\div3=8$ (sheets).
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -170,7 +202,9 @@ Each sheet makes $12\div4=3$ (planes). (1) $3\times6=18$ (planes). (2) $24\div3=
 
 ### Solution to Exercise 17
 
-Each day delivers $4\times2=8$ (units); $48\div8=6$ (days). $\blacksquare$
+Each day delivers $4\times2=8$ (units); $48\div8=6$ (days).
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -178,7 +212,9 @@ Each day delivers $4\times2=8$ (units); $48\div8=6$ (days). $\blacksquare$
 
 ### Solution to Exercise 18
 
-(1) $1.6+3.2+7.8=12.6$ (km). (2) Rabbit to calf $0.8+2.4=3.2$ (km). $\blacksquare$
+(1) $1.6+3.2+7.8=12.6$ (km). (2) Rabbit to calf $0.8+2.4=3.2$ (km).
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -186,7 +222,9 @@ Each day delivers $4\times2=8$ (units); $48\div8=6$ (days). $\blacksquare$
 
 ### Solution to Exercise 19
 
-The glass area is $2\times1=2$ (square meters) $=200$ (square decimeters); each piece is $200\div8=25$ (square decimeters); the width is $25\div5=5$ (decimeters). $\blacksquare$
+The glass area is $2\times1=2$ (square meters) $=200$ (square decimeters); each piece is $200\div8=25$ (square decimeters); the width is $25\div5=5$ (decimeters).
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -194,7 +232,9 @@ The glass area is $2\times1=2$ (square meters) $=200$ (square decimeters); each 
 
 ### Solution to Exercise 20
 
-The order totals $95\times7=665$ (sets); now per day $665\div5=133$ (sets); the extra is $133-95=38$ (sets). $\blacksquare$
+The order totals $95\times7=665$ (sets); now per day $665\div5=133$ (sets); the extra is $133-95=38$ (sets).
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -202,4 +242,6 @@ The order totals $95\times7=665$ (sets); now per day $665\div5=133$ (sets); the 
 
 ### Solution to Exercise 21
 
-(1) Fill the two-way table with the data. (2) $200$ g milk: protein $3.3\times2=6.6$ g, fat $3.6\times2=7.2$ g; $200$ g soy milk: protein $3\times2=6$ g, fat $1.6\times2=3.2$ g. $\blacksquare$
+(1) Fill the two-way table with the data. (2) $200$ g milk: protein $3.3\times2=6.6$ g, fat $3.6\times2=7.2$ g; $200$ g soy milk: protein $3\times2=6$ g, fat $1.6\times2=3.2$ g.
+
+$\blacksquare$

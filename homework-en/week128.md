@@ -18,7 +18,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 11.3.2 (Rule for Fraction Division)**: $5200\div\frac{52}{55}=5200\times\frac{55}{52}=5500\;\text{km}$. $\blacksquare$
+By **Definition 11.3.2 (Rule for Fraction Division)**: $5200\div\frac{52}{55}=5200\times\frac{55}{52}=5500\;\text{km}$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -26,7 +28,9 @@ By **Definition 11.3.2 (Rule for Fraction Division)**: $5200\div\frac{52}{55}=52
 
 ### Solution to Exercise 2
 
-Trapezoid area $=\frac{1}{2}\times\left(\frac{3}{5}+\frac{4}{5}\right)\times\frac{3}{4}=\frac{1}{2}\times\frac{7}{5}\times\frac{3}{4}=\frac{21}{40}\;\text{m}^2$. Taking the shorter upper base as the rectangle's length, max area $\frac{3}{5}\times\frac{3}{4}=\frac{9}{20}\;\text{m}^2$. $\blacksquare$
+Trapezoid area $=\frac{1}{2}\times\left(\frac{3}{5}+\frac{4}{5}\right)\times\frac{3}{4}=\frac{1}{2}\times\frac{7}{5}\times\frac{3}{4}=\frac{21}{40}\;\text{m}^2$. Taking the shorter upper base as the rectangle's length, max area $\frac{3}{5}\times\frac{3}{4}=\frac{9}{20}\;\text{m}^2$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -34,7 +38,9 @@ Trapezoid area $=\frac{1}{2}\times\left(\frac{3}{5}+\frac{4}{5}\right)\times\fra
 
 ### Solution to Exercise 3
 
-Each floor is $50\div15=\frac{10}{3}\;\text{m}$. The $7$th-floor floor is $6$ floor-heights up: $\frac{10}{3}\times6=20\;\text{m}$. $\blacksquare$
+Each floor is $50\div15=\frac{10}{3}\;\text{m}$. The $7$th-floor floor is $6$ floor-heights up: $\frac{10}{3}\times6=20\;\text{m}$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -42,7 +48,9 @@ Each floor is $50\div15=\frac{10}{3}\;\text{m}$. The $7$th-floor floor is $6$ fl
 
 ### Solution to Exercise 4
 
-$\div\frac{2}{3}\div\frac{3}{4}\times\frac{1}{2}=\times\frac{3}{2}\times\frac{4}{3}\times\frac{1}{2}=1$, so two steps return to the start. Both results equal $\frac{7}{15}$ and $\frac{16}{19}$ respectively. $\blacksquare$
+$\div\frac{2}{3}\div\frac{3}{4}\times\frac{1}{2}=\times\frac{3}{2}\times\frac{4}{3}\times\frac{1}{2}=1$, so two steps return to the start. Both results equal $\frac{7}{15}$ and $\frac{16}{19}$ respectively.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -50,7 +58,9 @@ $\div\frac{2}{3}\div\frac{3}{4}\times\frac{1}{2}=\times\frac{3}{2}\times\frac{4}
 
 ### Solution to Exercise 5
 
-By **Definition 11.3.3 (Work Problems)**, take the whole as unit "$1$": $1\div\left(\frac{1}{12}+\frac{1}{18}\right)=1\div\frac{5}{36}=7.2$ days. $\blacksquare$
+By **Definition 11.3.3 (Work Problems)**, take the whole as unit "$1$": $1\div\left(\frac{1}{12}+\frac{1}{18}\right)=1\div\frac{5}{36}=7.2$ days.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -58,7 +68,9 @@ By **Definition 11.3.3 (Work Problems)**, take the whole as unit "$1$": $1\div\l
 
 ### Solution to Exercise 6
 
-By **Definition 11.3.3 (Work Problems)**: combined rate $\frac{1}{3}+\frac{1}{6}=\frac{1}{2}$, $\frac{3}{4}\div\frac{1}{2}=\frac{3}{2}$ hours. $\blacksquare$
+By **Definition 11.3.3 (Work Problems)**: combined rate $\frac{1}{3}+\frac{1}{6}=\frac{1}{2}$, $\frac{3}{4}\div\frac{1}{2}=\frac{3}{2}$ hours.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -66,7 +78,9 @@ By **Definition 11.3.3 (Work Problems)**: combined rate $\frac{1}{3}+\frac{1}{6}
 
 ### Solution to Exercise 7
 
-By **Definition 11.3.3 (Work Problems)**: $1\div\left(\frac{1}{2}+\frac{1}{3}\right)=1\div\frac{5}{6}=\frac{6}{5}$ hours. $\blacksquare$
+By **Definition 11.3.3 (Work Problems)**: $1\div\left(\frac{1}{2}+\frac{1}{3}\right)=1\div\frac{5}{6}=\frac{6}{5}$ hours.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -74,7 +88,9 @@ By **Definition 11.3.3 (Work Problems)**: $1\div\left(\frac{1}{2}+\frac{1}{3}\ri
 
 ### Solution to Exercise 8
 
-By **Definition 11.3.3 (Work Problems)**: together $1\div\left(\frac{1}{12}+\frac{1}{10}\right)=1\div\frac{11}{60}=\frac{60}{11}\approx5.45$ days $<6$, so yes. $\blacksquare$
+By **Definition 11.3.3 (Work Problems)**: together $1\div\left(\frac{1}{12}+\frac{1}{10}\right)=1\div\frac{11}{60}=\frac{60}{11}\approx5.45$ days $<6$, so yes.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -82,7 +98,9 @@ By **Definition 11.3.3 (Work Problems)**: together $1\div\left(\frac{1}{12}+\fra
 
 ### Solution to Exercise 9
 
-In $3$ hours they finish $\left(\frac{1}{5}+\frac{1}{9}\right)\times3=\frac{14}{45}\times3=\frac{14}{15}$; the remaining $1-\frac{14}{15}=\frac{1}{15}$ is $100$ parts, so total $100\div\frac{1}{15}=1500$. $\blacksquare$
+In $3$ hours they finish $\left(\frac{1}{5}+\frac{1}{9}\right)\times3=\frac{14}{45}\times3=\frac{14}{15}$; the remaining $1-\frac{14}{15}=\frac{1}{15}$ is $100$ parts, so total $100\div\frac{1}{15}=1500$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -90,7 +108,9 @@ In $3$ hours they finish $\left(\frac{1}{5}+\frac{1}{9}\right)\times3=\frac{14}{
 
 ### Solution to Exercise 10
 
-Take total money as "$1$": each pen $\frac{1}{6}$, each refill $\frac{1}{12}$. A set costs $\frac{1}{6}+\frac{1}{12}=\frac{1}{4}$, $1\div\frac{1}{4}=4$ sets, i.e. $4$ pens and $4$ refills. $\blacksquare$
+Take total money as "$1$": each pen $\frac{1}{6}$, each refill $\frac{1}{12}$. A set costs $\frac{1}{6}+\frac{1}{12}=\frac{1}{4}$, $1\div\frac{1}{4}=4$ sets, i.e. $4$ pens and $4$ refills.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -98,7 +118,9 @@ Take total money as "$1$": each pen $\frac{1}{6}$, each refill $\frac{1}{12}$. A
 
 ### Solution to Exercise 11
 
-(1) Opposite directions sum of rates $\frac{1}{8}+\frac{1}{10}=\frac{9}{40}$, meeting $1\div\frac{9}{40}=\frac{40}{9}$ minutes; (2) same direction difference of rates $\frac{1}{8}-\frac{1}{10}=\frac{1}{40}$, lapping $1\div\frac{1}{40}=40$ minutes. $\blacksquare$
+(1) Opposite directions sum of rates $\frac{1}{8}+\frac{1}{10}=\frac{9}{40}$, meeting $1\div\frac{9}{40}=\frac{40}{9}$ minutes; (2) same direction difference of rates $\frac{1}{8}-\frac{1}{10}=\frac{1}{40}$, lapping $1\div\frac{1}{40}=40$ minutes.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -106,7 +128,9 @@ Take total money as "$1$": each pen $\frac{1}{6}$, each refill $\frac{1}{12}$. A
 
 ### Solution to Exercise 12
 
-(1) $24\times\frac{3}{4}=18$; (2) $18\div\frac{3}{4}=24$. To find a fraction of a number, multiply; given the fraction and asked for the number, divide. $\blacksquare$
+(1) $24\times\frac{3}{4}=18$; (2) $18\div\frac{3}{4}=24$. To find a fraction of a number, multiply; given the fraction and asked for the number, divide.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -114,4 +138,6 @@ Take total money as "$1$": each pen $\frac{1}{6}$, each refill $\frac{1}{12}$. A
 
 ### Solution to Exercise 13
 
-$\frac{15}{22}\div10=\frac{3}{44}$; $45\div\frac{9}{14}=70$; $\frac{3}{5}\div\frac{1}{6}=\frac{18}{5}$; $\frac{2}{7}\div\frac{8}{21}=\frac{3}{4}$; $\frac{2}{9}\times\frac{3}{8}\times\frac{7}{6}=\frac{7}{72}$; $4\times\frac{3}{8}-\frac{3}{5}=\frac{3}{2}-\frac{3}{5}=\frac{9}{10}$; $\frac{3}{4}\times\left(\frac{5}{6}+\frac{1}{6}\right)=\frac{3}{4}$; $7-\frac{1}{3}-\frac{2}{3}=6$; $\frac{15}{16}\times\frac{8}{5}\times8=12$; $26\times\frac{25}{13}\times\frac{22}{15}=\frac{220}{3}$; $35\div\frac{5}{7}=49$; $\frac{21}{40}\div\frac{7}{10}=\frac{3}{4}$. $\blacksquare$
+$\frac{15}{22}\div10=\frac{3}{44}$; $45\div\frac{9}{14}=70$; $\frac{3}{5}\div\frac{1}{6}=\frac{18}{5}$; $\frac{2}{7}\div\frac{8}{21}=\frac{3}{4}$; $\frac{2}{9}\times\frac{3}{8}\times\frac{7}{6}=\frac{7}{72}$; $4\times\frac{3}{8}-\frac{3}{5}=\frac{3}{2}-\frac{3}{5}=\frac{9}{10}$; $\frac{3}{4}\times\left(\frac{5}{6}+\frac{1}{6}\right)=\frac{3}{4}$; $7-\frac{1}{3}-\frac{2}{3}=6$; $\frac{15}{16}\times\frac{8}{5}\times8=12$; $26\times\frac{25}{13}\times\frac{22}{15}=\frac{220}{3}$; $35\div\frac{5}{7}=49$; $\frac{21}{40}\div\frac{7}{10}=\frac{3}{4}$.
+
+$\blacksquare$

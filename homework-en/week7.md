@@ -38,7 +38,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 1.4.2 (Ones Place and Tens Place)**, draw that many beads on the tens place for the tens, and that many beads on the ones place for the ones; e.g. for $5$ flowers, draw $5$ beads on the ones place. $\blacksquare$
+By **Definition 1.4.2 (Ones Place and Tens Place)**, draw that many beads on the tens place for the tens, and that many beads on the ones place for the ones; e.g. for $5$ flowers, draw $5$ beads on the ones place.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -46,7 +48,9 @@ By **Definition 1.4.2 (Ones Place and Tens Place)**, draw that many beads on the
 
 ### Solution to Exercise 2
 
-By **Definition 1.4.1 (10 Ones Make 1 Ten)**, count out $10$ and bundle them into $1$ bunch, then continue counting; $1$ ten plus some ones makes a ten-something. $\blacksquare$
+By **Definition 1.4.1 (10 Ones Make 1 Ten)**, count out $10$ and bundle them into $1$ bunch, then continue counting; $1$ ten plus some ones makes a ten-something.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -54,7 +58,9 @@ By **Definition 1.4.1 (10 Ones Make 1 Ten)**, count out $10$ and bundle them int
 
 ### Solution to Exercise 3
 
-By **Definition 1.4.3 (Composition of Numbers 11–20)**, fill in according to the bunched and single sticks in the picture; e.g. $1$ ten and $3$ ones make $13$; $2$ tens is $20$. $\blacksquare$
+By **Definition 1.4.3 (Composition of Numbers 11–20)**, fill in according to the bunched and single sticks in the picture; e.g. $1$ ten and $3$ ones make $13$; $2$ tens is $20$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -62,7 +68,9 @@ By **Definition 1.4.3 (Composition of Numbers 11–20)**, fill in according to t
 
 ### Solution to Exercise 4
 
-By **Definition 1.4.2 (Ones Place and Tens Place)**, $1$ bead on the tens place writes $1$, and however many beads on the ones place writes that number: $11$ is read as eleven, $15$ as fifteen, $20$ as twenty. $\blacksquare$
+By **Definition 1.4.2 (Ones Place and Tens Place)**, $1$ bead on the tens place writes $1$, and however many beads on the ones place writes that number: $11$ is read as eleven, $15$ as fifteen, $20$ as twenty.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -70,7 +78,9 @@ By **Definition 1.4.2 (Ones Place and Tens Place)**, $1$ bead on the tens place 
 
 ### Solution to Exercise 5
 
-By **Definition 1.4.3 (Composition of Numbers 11–20)**, $1$ ten and $7$ ones make $17$; place $1$ bunch of sticks and $7$ single sticks. $\blacksquare$
+By **Definition 1.4.3 (Composition of Numbers 11–20)**, $1$ ten and $7$ ones make $17$; place $1$ bunch of sticks and $7$ single sticks.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -78,7 +88,9 @@ By **Definition 1.4.3 (Composition of Numbers 11–20)**, $1$ ten and $7$ ones m
 
 ### Solution to Exercise 6
 
-By **Definition 1.4.3 (Composition of Numbers 11–20)**: (1) $1$ greater than $15$ is $16$, and $1$ less than $20$ is $19$; (2) $12$ differs from $10$ by $2$ and from $20$ by $8$, so it is closer to $10$. $\blacksquare$
+By **Definition 1.4.3 (Composition of Numbers 11–20)**: (1) $1$ greater than $15$ is $16$, and $1$ less than $20$ is $19$; (2) $12$ differs from $10$ by $2$ and from $20$ by $8$, so it is closer to $10$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -86,7 +98,9 @@ By **Definition 1.4.3 (Composition of Numbers 11–20)**: (1) $1$ greater than $
 
 ### Solution to Exercise 7
 
-By **Definition 1.4.3 (Composition of Numbers 11–20)**, turn to the corresponding pages in order. $\blacksquare$
+By **Definition 1.4.3 (Composition of Numbers 11–20)**, turn to the corresponding pages in order.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -94,7 +108,9 @@ By **Definition 1.4.3 (Composition of Numbers 11–20)**, turn to the correspond
 
 ### Solution to Exercise 8
 
-By **Definition 1.4.3 (Composition of Numbers 11–20)**, connect in order $1,2,3,\cdots,20$. $\blacksquare$
+By **Definition 1.4.3 (Composition of Numbers 11–20)**, connect in order $1,2,3,\cdots,20$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -102,7 +118,9 @@ By **Definition 1.4.3 (Composition of Numbers 11–20)**, connect in order $1,2,
 
 ### Solution to Exercise 9
 
-By **Definition 1.4.3 (Composition of Numbers 11–20)**, from smallest to largest: $11,12,13,14,15,16,17,18,19$; from largest to smallest: $20,19,18,17,16,15,14,13,12$. $\blacksquare$
+By **Definition 1.4.3 (Composition of Numbers 11–20)**, from smallest to largest: $11,12,13,14,15,16,17,18,19$; from largest to smallest: $20,19,18,17,16,15,14,13,12$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -110,7 +128,9 @@ By **Definition 1.4.3 (Composition of Numbers 11–20)**, from smallest to large
 
 ### Solution to Exercise 10
 
-By **Definition 1.4.1 (10 Ones Make 1 Ten)** and **Definition 1.4.3 (Composition of Numbers 11–20)**, circle out $10$, then continue counting the total, e.g. $14$. $\blacksquare$
+By **Definition 1.4.1 (10 Ones Make 1 Ten)** and **Definition 1.4.3 (Composition of Numbers 11–20)**, circle out $10$, then continue counting the total, e.g. $14$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -118,7 +138,9 @@ By **Definition 1.4.1 (10 Ones Make 1 Ten)** and **Definition 1.4.3 (Composition
 
 ### Solution to Exercise 11
 
-By **Definition 1.4.3 (Composition of Numbers 11–20)**, for each number place $1$ bunch (ten) plus the corresponding singles; for $20$, place $2$ bunches. $\blacksquare$
+By **Definition 1.4.3 (Composition of Numbers 11–20)**, for each number place $1$ bunch (ten) plus the corresponding singles; for $20$, place $2$ bunches.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -126,7 +148,9 @@ By **Definition 1.4.3 (Composition of Numbers 11–20)**, for each number place 
 
 ### Solution to Exercise 12
 
-By **Definition 1.4.3 (Composition of Numbers 11–20)**, count each object and fill in. $\blacksquare$
+By **Definition 1.4.3 (Composition of Numbers 11–20)**, count each object and fill in.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -134,7 +158,9 @@ By **Definition 1.4.3 (Composition of Numbers 11–20)**, count each object and 
 
 ### Solution to Exercise 13
 
-By **Definition 1.4.2 (Ones Place and Tens Place)**, write the number of beads on the tens place in the tens digit, and the number of beads on the ones place in the ones digit. $\blacksquare$
+By **Definition 1.4.2 (Ones Place and Tens Place)**, write the number of beads on the tens place in the tens digit, and the number of beads on the ones place in the ones digit.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -142,7 +168,9 @@ By **Definition 1.4.2 (Ones Place and Tens Place)**, write the number of beads o
 
 ### Solution to Exercise 14
 
-By **Definition 1.4.3 (Composition of Numbers 11–20)**, $1$ ten and $4$ ones make $14$; following the example, say the composition of other numbers. $\blacksquare$
+By **Definition 1.4.3 (Composition of Numbers 11–20)**, $1$ ten and $4$ ones make $14$; following the example, say the composition of other numbers.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -150,7 +178,9 @@ By **Definition 1.4.3 (Composition of Numbers 11–20)**, $1$ ten and $4$ ones m
 
 ### Solution to Exercise 15
 
-By **Definition 1.2.2 (Comparing Size, Which Position)** and **Definition 1.4.3 (Composition of Numbers 11–20)**, (1)(2) locate and circle by ordinal position; (3) counting from the $10$th to the $15$th gives $6$ flags ($10,11,12,13,14,15$). $\blacksquare$
+By **Definition 1.2.2 (Comparing Size, Which Position)** and **Definition 1.4.3 (Composition of Numbers 11–20)**, (1)(2) locate and circle by ordinal position; (3) counting from the $10$th to the $15$th gives $6$ flags ($10,11,12,13,14,15$).
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -158,7 +188,9 @@ By **Definition 1.2.2 (Comparing Size, Which Position)** and **Definition 1.4.3 
 
 ### Solution to Exercise 16
 
-By **Definition 1.4.3 (Composition of Numbers 11–20)**: between $15$ and $17$ is $16$; $1$ ten and $5$ ones is $15$; $1$ less than $20$ is $19$; the $3$rd after $15$ is $18$; $2$ tens is $20$; $7$ ones and $1$ ten is $17$. $\blacksquare$
+By **Definition 1.4.3 (Composition of Numbers 11–20)**: between $15$ and $17$ is $16$; $1$ ten and $5$ ones is $15$; $1$ less than $20$ is $19$; the $3$rd after $15$ is $18$; $2$ tens is $20$; $7$ ones and $1$ ten is $17$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -166,7 +198,9 @@ By **Definition 1.4.3 (Composition of Numbers 11–20)**: between $15$ and $17$ 
 
 ### Solution to Exercise 17
 
-By **Definition 1.4.4 (Ten-Something Plus a Number and Corresponding Subtraction)**, write according to the bunched and single sticks in the picture, e.g. $10+3=13$, $13-3=10$. $\blacksquare$
+By **Definition 1.4.4 (Ten-Something Plus a Number and Corresponding Subtraction)**, write according to the bunched and single sticks in the picture, e.g. $10+3=13$, $13-3=10$.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -174,7 +208,9 @@ By **Definition 1.4.4 (Ten-Something Plus a Number and Corresponding Subtraction
 
 ### Solution to Exercise 18
 
-By **Definition 1.4.4 (Ten-Something Plus a Number and Corresponding Subtraction)**, write according to the quantities in the picture, e.g. $13+3=16$; $17-5=12$. $\blacksquare$
+By **Definition 1.4.4 (Ten-Something Plus a Number and Corresponding Subtraction)**, write according to the quantities in the picture, e.g. $13+3=16$; $17-5=12$.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -182,7 +218,9 @@ By **Definition 1.4.4 (Ten-Something Plus a Number and Corresponding Subtraction
 
 ### Solution to Exercise 19
 
-By **Definition 1.4.4 (Ten-Something Plus a Number and Corresponding Subtraction)**: $10+4=14$, $11+4=15$, $13+5=18$, $14-10=4$, $15-4=11$, $18-5=13$. $\blacksquare$
+By **Definition 1.4.4 (Ten-Something Plus a Number and Corresponding Subtraction)**: $10+4=14$, $11+4=15$, $13+5=18$, $14-10=4$, $15-4=11$, $18-5=13$.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -190,7 +228,9 @@ By **Definition 1.4.4 (Ten-Something Plus a Number and Corresponding Subtraction
 
 ### Solution to Exercise 20
 
-By **Definition 1.2.2 (Comparing Size, Which Position)**, counting from after the $4$th to before the $8$th: $5,6,7$, totaling $3$ people. $\blacksquare$
+By **Definition 1.2.2 (Comparing Size, Which Position)**, counting from after the $4$th to before the $8$th: $5,6,7$, totaling $3$ people.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -198,7 +238,9 @@ By **Definition 1.2.2 (Comparing Size, Which Position)**, counting from after th
 
 ### Solution to Exercise 21
 
-By **Definition 1.4.4 (Ten-Something Plus a Number and Corresponding Subtraction)**: $11+2=13$, $10+8=18$, $19-10=9$, $13-1=12$, $10+0=10$, $3+6=9$, $8+1=9$, $15-2=13$; connect those with the same result. $\blacksquare$
+By **Definition 1.4.4 (Ten-Something Plus a Number and Corresponding Subtraction)**: $11+2=13$, $10+8=18$, $19-10=9$, $13-1=12$, $10+0=10$, $3+6=9$, $8+1=9$, $15-2=13$; connect those with the same result.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -206,7 +248,9 @@ By **Definition 1.4.4 (Ten-Something Plus a Number and Corresponding Subtraction
 
 ### Solution to Exercise 22
 
-By **Definition 1.2.2 (Comparing Size, Which Position)**, after one-to-one correspondence, the excess count is the answer. $\blacksquare$
+By **Definition 1.2.2 (Comparing Size, Which Position)**, after one-to-one correspondence, the excess count is the answer.
+
+$\blacksquare$
 
 ## Exercise 23
 
@@ -214,7 +258,9 @@ By **Definition 1.2.2 (Comparing Size, Which Position)**, after one-to-one corre
 
 ### Solution to Exercise 23
 
-By **Definition 1.4.4 (Ten-Something Plus a Number and Corresponding Subtraction)**: $14-3=11$, $5+10=15$, $16+0=16$, $12+2=14$, $10-7=3$, $17-3=14$. $\blacksquare$
+By **Definition 1.4.4 (Ten-Something Plus a Number and Corresponding Subtraction)**: $14-3=11$, $5+10=15$, $16+0=16$, $12+2=14$, $10-7=3$, $17-3=14$.
+
+$\blacksquare$
 
 ## Exercise 24
 
@@ -222,4 +268,6 @@ By **Definition 1.4.4 (Ten-Something Plus a Number and Corresponding Subtraction
 
 ### Solution to Exercise 24
 
-By **Definition 1.2.2 (Comparing Size, Which Position)**, counting from after the $5$th floor to before the $9$th floor: $6,7,8$, totaling $3$ floors. $\blacksquare$
+By **Definition 1.2.2 (Comparing Size, Which Position)**, counting from after the $5$th floor to before the $9$th floor: $6,7,8$, totaling $3$ floors.
+
+$\blacksquare$

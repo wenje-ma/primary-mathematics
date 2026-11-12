@@ -74,7 +74,9 @@
 
 ### Solution to Exercise 1
 
-The $3$rd month has $31$ days, the $4$th month $30$ days, the $5$th month $31$ days, the $6$th month $30$ days, totaling $31+30+31+30=122$ (days). $\blacksquare$
+The $3$rd month has $31$ days, the $4$th month $30$ days, the $5$th month $31$ days, the $6$th month $30$ days, totaling $31+30+31+30=122$ (days).
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -82,7 +84,9 @@ The $3$rd month has $31$ days, the $4$th month $30$ days, the $5$th month $31$ d
 
 ### Solution to Exercise 2
 
-$29+22+78=29+100$ is correct; $35\times16=35\times2\times8$ is correct; $123-68+32=123-\left(68+32\right)$ is wrong, you cannot do this when it is not a continued subtraction; $102\times56=100\times56+2$ is wrong, it should be $100\times56+2\times56$; $12\times97+3=12\times100$ is wrong. $\blacksquare$
+$29+22+78=29+100$ is correct; $35\times16=35\times2\times8$ is correct; $123-68+32=123-\left(68+32\right)$ is wrong, you cannot do this when it is not a continued subtraction; $102\times56=100\times56+2$ is wrong, it should be $100\times56+2\times56$; $12\times97+3=12\times100$ is wrong.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -90,7 +94,9 @@ $29+22+78=29+100$ is correct; $35\times16=35\times2\times8$ is correct; $123-68+
 
 ### Solution to Exercise 3
 
-By **Definition 8.3.6 (Distributive Law of Multiplication)**, $\left(4+2\right)\times7=6\times7=42$ (yuan). $\blacksquare$
+By **Definition 8.3.6 (Distributive Law of Multiplication)**, $\left(4+2\right)\times7=6\times7=42$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -98,7 +104,9 @@ By **Definition 8.3.6 (Distributive Law of Multiplication)**, $\left(4+2\right)\
 
 ### Solution to Exercise 4
 
-Split the plot into two rectangles and combine by **Definition 8.3.6 (Distributive Law of Multiplication)**: $9\times19+9\times\left(21-9\right)=9\times\left(19+12\right)=9\times31=279$ ($\mathrm{m^2}$). $\blacksquare$
+Split the plot into two rectangles and combine by **Definition 8.3.6 (Distributive Law of Multiplication)**: $9\times19+9\times\left(21-9\right)=9\times\left(19+12\right)=9\times31=279$ ($\mathrm{m^2}$).
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -106,7 +114,9 @@ Split the plot into two rectangles and combine by **Definition 8.3.6 (Distributi
 
 ### Solution to Exercise 5
 
-From $\bigcirc+\bigcirc+\bigcirc=\triangle+\triangle$, we get $3\bigcirc=2\triangle$, i.e. $\bigcirc=\frac{2}{3}\triangle$; from $\triangle+\triangle+\triangle+\triangle=\square+\square+\square$, we get $4\triangle=3\square$, i.e. $\square=\frac{4}{3}\triangle$. Substituting into $\bigcirc+\triangle+\triangle+\square=400$, we get $\frac{2}{3}\triangle+2\triangle+\frac{4}{3}\triangle=4\triangle=400$, so $\triangle=100$ and $\bigcirc=\frac{200}{3}$ (just substitute according to the actual figure relationships in the textbook and solve). $\blacksquare$
+From $\bigcirc+\bigcirc+\bigcirc=\triangle+\triangle$, we get $3\bigcirc=2\triangle$, i.e. $\bigcirc=\frac{2}{3}\triangle$; from $\triangle+\triangle+\triangle+\triangle=\square+\square+\square$, we get $4\triangle=3\square$, i.e. $\square=\frac{4}{3}\triangle$. Substituting into $\bigcirc+\triangle+\triangle+\square=400$, we get $\frac{2}{3}\triangle+2\triangle+\frac{4}{3}\triangle=4\triangle=400$, so $\triangle=100$ and $\bigcirc=\frac{200}{3}$ (just substitute according to the actual figure relationships in the textbook and solve).
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -114,7 +124,9 @@ From $\bigcirc+\bigcirc+\bigcirc=\triangle+\triangle$, we get $3\bigcirc=2\trian
 
 ### Solution to Exercise 6
 
-By **Definition 8.4.1 (Meaning of Decimals and Counting Units)**, $1\,\mathrm{mm}=\frac{1}{1000}\,\mathrm{m}=0.001\,\mathrm{m}$; a few millimeters is a few thousandths of a meter, written as zero point zero zero something. The rate of conversion between two adjacent counting units is $10$. $\blacksquare$
+By **Definition 8.4.1 (Meaning of Decimals and Counting Units)**, $1\,\mathrm{mm}=\frac{1}{1000}\,\mathrm{m}=0.001\,\mathrm{m}$; a few millimeters is a few thousandths of a meter, written as zero point zero zero something. The rate of conversion between two adjacent counting units is $10$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -122,7 +134,9 @@ By **Definition 8.4.1 (Meaning of Decimals and Counting Units)**, $1\,\mathrm{mm
 
 ### Solution to Exercise 7
 
-By **Definition 8.4.2 (Place-Value Order of Decimals)**, $2.83$ is composed of $2$ ones, $8$ tenths and $3$ hundredths. $\blacksquare$
+By **Definition 8.4.2 (Place-Value Order of Decimals)**, $2.83$ is composed of $2$ ones, $8$ tenths and $3$ hundredths.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -130,7 +144,9 @@ By **Definition 8.4.2 (Place-Value Order of Decimals)**, $2.83$ is composed of $
 
 ### Solution to Exercise 8
 
-By **Definition 8.4.3 (Reading and Writing Decimals)**: $6.5$ reads "six point five"; $0.04$ reads "zero point zero four"; $6.72$ reads "six point seven two"; $0.058$ reads "zero point zero five eight"; $340.09$ reads "three hundred forty point zero nine". $\blacksquare$
+By **Definition 8.4.3 (Reading and Writing Decimals)**: $6.5$ reads "six point five"; $0.04$ reads "zero point zero four"; $6.72$ reads "six point seven two"; $0.058$ reads "zero point zero five eight"; $340.09$ reads "three hundred forty point zero nine".
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -138,7 +154,9 @@ By **Definition 8.4.3 (Reading and Writing Decimals)**: $6.5$ reads "six point f
 
 ### Solution to Exercise 9
 
-By **Definition 8.4.3 (Reading and Writing Decimals)**: three hundred point seven one is written $300.71$; five point zero six is written $5.06$; zero point zero eight nine is written $0.089$. $\blacksquare$
+By **Definition 8.4.3 (Reading and Writing Decimals)**: three hundred point seven one is written $300.71$; five point zero six is written $5.06$; zero point zero eight nine is written $0.089$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -146,7 +164,9 @@ By **Definition 8.4.3 (Reading and Writing Decimals)**: three hundred point seve
 
 ### Solution to Exercise 10
 
-By **Definition 8.4.1 (Meaning of Decimals)**, $\frac{13}{100}=0.13$; $\frac{47}{1000}=0.047$; $\frac{9}{10}=0.9$; $\frac{1}{10000}=0.0001$. $\blacksquare$
+By **Definition 8.4.1 (Meaning of Decimals)**, $\frac{13}{100}=0.13$; $\frac{47}{1000}=0.047$; $\frac{9}{10}=0.9$; $\frac{1}{10000}=0.0001$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -154,7 +174,9 @@ By **Definition 8.4.1 (Meaning of Decimals)**, $\frac{13}{100}=0.13$; $\frac{47}
 
 ### Solution to Exercise 11
 
-By **Definition 8.4.1 (Counting Units of Decimals)**, $0.8$ contains $8$ pieces of $0.1$; $0.32$ contains $32$ pieces of $0.01$. $\blacksquare$
+By **Definition 8.4.1 (Counting Units of Decimals)**, $0.8$ contains $8$ pieces of $0.1$; $0.32$ contains $32$ pieces of $0.01$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -162,7 +184,9 @@ By **Definition 8.4.1 (Counting Units of Decimals)**, $0.8$ contains $8$ pieces 
 
 ### Solution to Exercise 12
 
-By **Definition 8.4.1 (Meaning of Decimals)**, $2.7\,\mathrm{cm}$ is about a bit more than $2$ centimeters, $0.85\,\mathrm{dm}=8.5\,\mathrm{cm}$, and $1.4\,\mathrm{m}$ is $1$ meter $4$ decimeters; just gesture the corresponding lengths with your hand. $\blacksquare$
+By **Definition 8.4.1 (Meaning of Decimals)**, $2.7\,\mathrm{cm}$ is about a bit more than $2$ centimeters, $0.85\,\mathrm{dm}=8.5\,\mathrm{cm}$, and $1.4\,\mathrm{m}$ is $1$ meter $4$ decimeters; just gesture the corresponding lengths with your hand.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -170,7 +194,9 @@ By **Definition 8.4.1 (Meaning of Decimals)**, $2.7\,\mathrm{cm}$ is about a bit
 
 ### Solution to Exercise 13
 
-By **Definition 8.4.2 (Place-Value Order of Decimals)**: in $0.25$ the $2$ is in the tenths place, representing $2$ pieces of $0.1$; in $20.04$ the $2$ is in the tens place, representing $2$ tens; in $5.42$ the $2$ is in the hundredths place, representing $2$ pieces of $0.01$; in $0.672$ the $2$ is in the thousandths place, representing $2$ pieces of $0.001$. $\blacksquare$
+By **Definition 8.4.2 (Place-Value Order of Decimals)**: in $0.25$ the $2$ is in the tenths place, representing $2$ pieces of $0.1$; in $20.04$ the $2$ is in the tens place, representing $2$ tens; in $5.42$ the $2$ is in the hundredths place, representing $2$ pieces of $0.01$; in $0.672$ the $2$ is in the thousandths place, representing $2$ pieces of $0.001$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -178,7 +204,9 @@ By **Definition 8.4.2 (Place-Value Order of Decimals)**: in $0.25$ the $2$ is in
 
 ### Solution to Exercise 14
 
-By **Definition 8.4.3 (Reading Decimals)**: $29.5$ reads "twenty nine point five"; $1.8$ reads "one point eight"; $8848.86$ reads "eight thousand eight hundred forty eight point eight six"; $432.4$ reads "four hundred thirty two point four". $\blacksquare$
+By **Definition 8.4.3 (Reading Decimals)**: $29.5$ reads "twenty nine point five"; $1.8$ reads "one point eight"; $8848.86$ reads "eight thousand eight hundred forty eight point eight six"; $432.4$ reads "four hundred thirty two point four".
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -186,4 +214,6 @@ By **Definition 8.4.3 (Reading Decimals)**: $29.5$ reads "twenty nine point five
 
 ### Solution to Exercise 15
 
-By **Definition 8.4.3 (Writing Decimals)**: $367.7$ ten thousand; $0.557$ grams; $40075.7$ kilometers. $\blacksquare$
+By **Definition 8.4.3 (Writing Decimals)**: $367.7$ ten thousand; $0.557$ grams; $40075.7$ kilometers.
+
+$\blacksquare$

@@ -46,7 +46,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 3.2.5 (Solving Problems with Multiplication)**, $6$ tiles in each row and $4$ rows (i.e. $4$ tiles in each column and $6$ columns), which is $4$ copies of $6$: $6\times4=24$ (tiles). $\blacksquare$
+By **Definition 3.2.5 (Solving Problems with Multiplication)**, $6$ tiles in each row and $4$ rows (i.e. $4$ tiles in each column and $6$ columns), which is $4$ copies of $6$: $6\times4=24$ (tiles).
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -54,7 +56,9 @@ By **Definition 3.2.5 (Solving Problems with Multiplication)**, $6$ tiles in eac
 
 ### Solution to Exercise 2
 
-By **Definition 3.2.5 (Solving Problems with Multiplication)**, the character "sen" is made of $3$ "tree" characters: $4\times3=12$ (strokes); "forest" is "sen" plus "lin" ($2$ "tree" characters), for a total of $5$ "tree" characters: $4\times5=20$ (strokes). $\blacksquare$
+By **Definition 3.2.5 (Solving Problems with Multiplication)**, the character "sen" is made of $3$ "tree" characters: $4\times3=12$ (strokes); "forest" is "sen" plus "lin" ($2$ "tree" characters), for a total of $5$ "tree" characters: $4\times5=20$ (strokes).
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -62,7 +66,9 @@ By **Definition 3.2.5 (Solving Problems with Multiplication)**, the character "s
 
 ### Solution to Exercise 3
 
-(1) Combine the two parts: $5+4=9$ (yuan); (2) find $3$ copies of $4$ yuan: $4\times3=12$ (yuan); (3) raise a problem such as "how much are $2$ egg pancakes?" and solve it as $6\times2=12$ (yuan). $\blacksquare$
+(1) Combine the two parts: $5+4=9$ (yuan); (2) find $3$ copies of $4$ yuan: $4\times3=12$ (yuan); (3) raise a problem such as "how much are $2$ egg pancakes?" and solve it as $6\times2=12$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -70,7 +76,9 @@ By **Definition 3.2.5 (Solving Problems with Multiplication)**, the character "s
 
 ### Solution to Exercise 4
 
-By **Definition 3.2.5 (Solving Problems with Multiplication)**, each triangle uses $3$ sticks, so the $4$th figure uses $3\times4=12$ (sticks) and the $6$th uses $3\times6=18$ (sticks). $\blacksquare$
+By **Definition 3.2.5 (Solving Problems with Multiplication)**, each triangle uses $3$ sticks, so the $4$th figure uses $3\times4=12$ (sticks) and the $6$th uses $3\times6=18$ (sticks).
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -78,7 +86,9 @@ By **Definition 3.2.5 (Solving Problems with Multiplication)**, each triangle us
 
 ### Solution to Exercise 5
 
-By **Definition 3.2.3 (Multiplication Rhymes)**, from top to bottom the table has the rhymes of $1$, the rhymes of $2$, and so on; each row has one more rhyme than the row above, which is the arrangement of the "little nine-nine" table. Complete the missing rhymes (such as "two two is four", "two three is six",...); point to any one, such as "three four is twelve", and you can say $3\times4=12$ and $4\times3=12$. $\blacksquare$
+By **Definition 3.2.3 (Multiplication Rhymes)**, from top to bottom the table has the rhymes of $1$, the rhymes of $2$, and so on; each row has one more rhyme than the row above, which is the arrangement of the "little nine-nine" table. Complete the missing rhymes (such as "two two is four", "two three is six",...); point to any one, such as "three four is twelve", and you can say $3\times4=12$ and $4\times3=12$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -86,7 +96,9 @@ By **Definition 3.2.3 (Multiplication Rhymes)**, from top to bottom the table ha
 
 ### Solution to Exercise 6
 
-By **Definition 3.2.3 (Multiplication Rhymes)** and **Definition 3.2.4 (Multiplication-Addition and Multiplication-Subtraction)**: $5\times5=25$, $3\times6=18$, $2\times6=12$, $3\times5=15$; $3\times3=9$, $2\times3=6$, $5\times3=15$, $4\times2=8$; $3\times1=3$, $4\times5=20$, $5\times2=10$, $1\times1=1$; $6\times4=24$, $3\times4=12$, $4\times1=4$, $4\times3=12$; $6\times3-8=10$, $5\times4+30=50$, $4\times4+12=28$, $5\times3+9=24$, $6\times6+6=42$, $4\times6-4=20$. $\blacksquare$
+By **Definition 3.2.3 (Multiplication Rhymes)** and **Definition 3.2.4 (Multiplication-Addition and Multiplication-Subtraction)**: $5\times5=25$, $3\times6=18$, $2\times6=12$, $3\times5=15$; $3\times3=9$, $2\times3=6$, $5\times3=15$, $4\times2=8$; $3\times1=3$, $4\times5=20$, $5\times2=10$, $1\times1=1$; $6\times4=24$, $3\times4=12$, $4\times1=4$, $4\times3=12$; $6\times3-8=10$, $5\times4+30=50$, $4\times4+12=28$, $5\times3+9=24$, $6\times6+6=42$, $4\times6-4=20$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -94,7 +106,9 @@ By **Definition 3.2.3 (Multiplication Rhymes)** and **Definition 3.2.4 (Multipli
 
 ### Solution to Exercise 7
 
-By **Definition 3.2.5 (Solving Problems with Multiplication)**, $1$ set has $5$ cars at $5$ yuan each: $5\times5=25$ (yuan); $2$ sets: $25\times2=50$ (yuan) (or $5\times5\times2$). $\blacksquare$
+By **Definition 3.2.5 (Solving Problems with Multiplication)**, $1$ set has $5$ cars at $5$ yuan each: $5\times5=25$ (yuan); $2$ sets: $25\times2=50$ (yuan) (or $5\times5\times2$).
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -102,7 +116,9 @@ By **Definition 3.2.5 (Solving Problems with Multiplication)**, $1$ set has $5$ 
 
 ### Solution to Exercise 8
 
-(1) Combine the two packs: $4+6=10$ (batteries); (2) find $4$ copies of $6$ batteries: $6\times4=24$ (batteries). $\blacksquare$
+(1) Combine the two packs: $4+6=10$ (batteries); (2) find $4$ copies of $6$ batteries: $6\times4=24$ (batteries).
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -110,7 +126,9 @@ By **Definition 3.2.5 (Solving Problems with Multiplication)**, $1$ set has $5$ 
 
 ### Solution to Exercise 9
 
-By **Definition 3.2.5 (Solving Problems with Multiplication)**, $5$ kittens: $6\times5=30$ (fish); $7$ kittens: $6\times7=42$ (fish), and $42>40$, which is more than $40$. $\blacksquare$
+By **Definition 3.2.5 (Solving Problems with Multiplication)**, $5$ kittens: $6\times5=30$ (fish); $7$ kittens: $6\times7=42$ (fish), and $42>40$, which is more than $40$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -118,7 +136,9 @@ By **Definition 3.2.5 (Solving Problems with Multiplication)**, $5$ kittens: $6\
 
 ### Solution to Exercise 10
 
-By **Definition 3.3.1 (Equal Distribution)**, you can divide share by share: method one is $1$, $1$, $4$ candies; method two is $1$, $2$, $3$ candies; method three is $2$ candies in each share ($2,2,2$). Only method three has the same amount in each share, i.e. equal distribution. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, you can divide share by share: method one is $1$, $1$, $4$ candies; method two is $1$, $2$, $3$ candies; method three is $2$ candies in each share ($2,2,2$). Only method three has the same amount in each share, i.e. equal distribution.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -126,7 +146,9 @@ By **Definition 3.3.1 (Equal Distribution)**, you can divide share by share: met
 
 ### Solution to Exercise 11
 
-By **Definition 3.3.1 (Equal Distribution)**, circle every $2$ bags; the $8$ bags make exactly $4$ shares, so they can be divided into $4$ shares. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, circle every $2$ bags; the $8$ bags make exactly $4$ shares, so they can be divided into $4$ shares.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -134,7 +156,9 @@ By **Definition 3.3.1 (Equal Distribution)**, circle every $2$ bags; the $8$ bag
 
 ### Solution to Exercise 12
 
-By **Definition 3.3.1 (Equal Distribution)**, circle every $3$ bags; the $12$ bags make exactly $4$ shares, so they can be divided into $4$ shares. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, circle every $3$ bags; the $12$ bags make exactly $4$ shares, so they can be divided into $4$ shares.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -142,7 +166,9 @@ By **Definition 3.3.1 (Equal Distribution)**, circle every $3$ bags; the $12$ ba
 
 ### Solution to Exercise 13
 
-By **Definition 3.3.1 (Equal Distribution)**, only the way that gives the same amount in each share is equal distribution; draw "$\sqrt{}$" in the corresponding parentheses, and not in the others. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, only the way that gives the same amount in each share is equal distribution; draw "$\sqrt{}$" in the corresponding parentheses, and not in the others.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -150,7 +176,9 @@ By **Definition 3.3.1 (Equal Distribution)**, only the way that gives the same a
 
 ### Solution to Exercise 14
 
-By **Definition 3.3.1 (Equal Distribution)**, first count the total number of maple leaves, then circle them by the number per share shown in the picture; however many shares you circle is how many shares they were divided into; fill them in in order. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, first count the total number of maple leaves, then circle them by the number per share shown in the picture; however many shares you circle is how many shares they were divided into; fill them in in order.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -158,7 +186,9 @@ By **Definition 3.3.1 (Equal Distribution)**, first count the total number of ma
 
 ### Solution to Exercise 15
 
-By **Definition 3.3.1 (Equal Distribution)**, (1) $10$ sticks at $2$ per share make $5$ shares; at $5$ per share make $2$ shares. (2) $16$ cups at $2$ per box fill $8$ boxes; at $4$ per box fill $4$ boxes; at $8$ per box fill $2$ boxes. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, (1) $10$ sticks at $2$ per share make $5$ shares; at $5$ per share make $2$ shares. (2) $16$ cups at $2$ per box fill $8$ boxes; at $4$ per box fill $4$ boxes; at $8$ per box fill $2$ boxes.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -166,7 +196,9 @@ By **Definition 3.3.1 (Equal Distribution)**, (1) $10$ sticks at $2$ per share m
 
 ### Solution to Exercise 16
 
-By **Definition 3.3.1 (Equal Distribution)**, first put $1$ in each share, using up $6$; then put another $1$ in each, using up another $6$; finally put $1$ more in each, and they are exactly used up; this took $3$ rounds, and each share has $3$, i.e. $3$ per share. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, first put $1$ in each share, using up $6$; then put another $1$ in each, using up another $6$; finally put $1$ more in each, and they are exactly used up; this took $3$ rounds, and each share has $3$, i.e. $3$ per share.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -174,7 +206,9 @@ By **Definition 3.3.1 (Equal Distribution)**, first put $1$ in each share, using
 
 ### Solution to Exercise 17
 
-By **Definition 3.3.1 (Equal Distribution)**, distribute the $10$ cartons of yogurt share by share so each gets the same, namely $5$ cartons per share. $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, distribute the $10$ cartons of yogurt share by share so each gets the same, namely $5$ cartons per share.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -182,4 +216,6 @@ By **Definition 3.3.1 (Equal Distribution)**, distribute the $10$ cartons of yog
 
 ### Solution to Exercise 18
 
-By **Definition 3.3.1 (Equal Distribution)**, count the total jars of honey and the number of bears, divide the honey equally among the bears, and the jars each bear gets equals "total jars $\div$ number of bears". $\blacksquare$
+By **Definition 3.3.1 (Equal Distribution)**, count the total jars of honey and the number of bears, divide the honey equally among the bears, and the jars each bear gets equals "total jars $\div$ number of bears".
+
+$\blacksquare$

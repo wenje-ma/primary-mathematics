@@ -50,7 +50,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 10.2.5 (Prime and Composite Numbers)**, e.g. $4=2+2$, $6=3+3$, $8=5+3$, $10=7+3$, $12=7+5$, $14=11+3$, i.e. write an even number greater than $2$ as a sum of two primes. $\blacksquare$
+By **Definition 10.2.5 (Prime and Composite Numbers)**, e.g. $4=2+2$, $6=3+3$, $8=5+3$, $10=7+3$, $12=7+5$, $14=11+3$, i.e. write an even number greater than $2$ as a sum of two primes.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -58,7 +60,9 @@ By **Definition 10.2.5 (Prime and Composite Numbers)**, e.g. $4=2+2$, $6=3+3$, $
 
 ### Solution to Exercise 2
 
-By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**, list $6,12,18,24,30,\cdots$ and observe: a multiple of $6$ is at once a multiple of $2$ (even units digit) and a multiple of $3$ (digit sum multiple of $3$); i.e. a number that is a multiple of both $2$ and $3$ is a multiple of $6$. $\blacksquare$
+By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**, list $6,12,18,24,30,\cdots$ and observe: a multiple of $6$ is at once a multiple of $2$ (even units digit) and a multiple of $3$ (digit sum multiple of $3$); i.e. a number that is a multiple of both $2$ and $3$ is a multiple of $6$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -66,7 +70,9 @@ By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**, list $6,12,18,24,
 
 ### Solution to Exercise 3
 
-By **Definition 10.3.1 (Features of Cuboids and Cubes)**, the $6$ squares of a cube net must fold into a closed cube; mark "$\surd$" beside the nets that meet the cube-net conditions. $\blacksquare$
+By **Definition 10.3.1 (Features of Cuboids and Cubes)**, the $6$ squares of a cube net must fold into a closed cube; mark "$\surd$" beside the nets that meet the cube-net conditions.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -74,7 +80,9 @@ By **Definition 10.3.1 (Features of Cuboids and Cubes)**, the $6$ squares of a c
 
 ### Solution to Exercise 4
 
-By **Definition 10.3.1 (Features of Cuboids and Cubes)**: (1) The front is a rectangle, length $24\,\mathrm{cm}$, width $9\,\mathrm{cm}$, and the identical face is the back; (2) the right face is a rectangle, length $12\,\mathrm{cm}$, width $9\,\mathrm{cm}$, and the identical face is the left; (3) the top and bottom faces have length $24\,\mathrm{cm}$ and width $12\,\mathrm{cm}$. $\blacksquare$
+By **Definition 10.3.1 (Features of Cuboids and Cubes)**: (1) The front is a rectangle, length $24\,\mathrm{cm}$, width $9\,\mathrm{cm}$, and the identical face is the back; (2) the right face is a rectangle, length $12\,\mathrm{cm}$, width $9\,\mathrm{cm}$, and the identical face is the left; (3) the top and bottom faces have length $24\,\mathrm{cm}$ and width $12\,\mathrm{cm}$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -82,7 +90,9 @@ By **Definition 10.3.1 (Features of Cuboids and Cubes)**: (1) The front is a rec
 
 ### Solution to Exercise 5
 
-By **Definition 10.3.1 (Features of Cuboids and Cubes)**, a cuboid has $12$ edges in $3$ groups; total edge length $=\left(40+30+20\right)\times4=360\,\mathrm{cm}$. $\blacksquare$
+By **Definition 10.3.1 (Features of Cuboids and Cubes)**, a cuboid has $12$ edges in $3$ groups; total edge length $=\left(40+30+20\right)\times4=360\,\mathrm{cm}$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -90,7 +100,9 @@ By **Definition 10.3.1 (Features of Cuboids and Cubes)**, a cuboid has $12$ edge
 
 ### Solution to Exercise 6
 
-By **Definition 10.3.1 (Features of Cuboids and Cubes)**, each parallel group has $4$ edges: (1) besides $a$ itself, $3$ edges are parallel to $a$; (2) the edges meeting $a$ and perpendicular to $a$ at the same vertex, in the other two directions; (3) besides $b$ itself, $3$ edges are parallel to $b$. $\blacksquare$
+By **Definition 10.3.1 (Features of Cuboids and Cubes)**, each parallel group has $4$ edges: (1) besides $a$ itself, $3$ edges are parallel to $a$; (2) the edges meeting $a$ and perpendicular to $a$ at the same vertex, in the other two directions; (3) besides $b$ itself, $3$ edges are parallel to $b$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -98,7 +110,9 @@ By **Definition 10.3.1 (Features of Cuboids and Cubes)**, each parallel group ha
 
 ### Solution to Exercise 7
 
-By **Definition 10.3.1 (Features of Cuboids and Cubes)**: (1) a cube; (2) edge $10\,\mathrm{cm}$; (3) $6$ identical faces. $\blacksquare$
+By **Definition 10.3.1 (Features of Cuboids and Cubes)**: (1) a cube; (2) edge $10\,\mathrm{cm}$; (3) $6$ identical faces.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -106,7 +120,9 @@ By **Definition 10.3.1 (Features of Cuboids and Cubes)**: (1) a cube; (2) edge $
 
 ### Solution to Exercise 8
 
-By **Definition 10.3.1 (Features of Cuboids and Cubes)**, the lights go along $2$ lengths, $2$ widths, and $4$ heights: $90\times2+55\times2+22\times4=180+110+88=378\,\mathrm{m}$. $\blacksquare$
+By **Definition 10.3.1 (Features of Cuboids and Cubes)**, the lights go along $2$ lengths, $2$ widths, and $4$ heights: $90\times2+55\times2+22\times4=180+110+88=378\,\mathrm{m}$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -114,7 +130,9 @@ By **Definition 10.3.1 (Features of Cuboids and Cubes)**, the lights go along $2
 
 ### Solution to Exercise 9
 
-By **Definition 10.3.1 (Features of Cuboids and Cubes)**, its three groups of faces are rectangles $4\times3$, $4\times2$, and $3\times2$, with $2$ faces each. In the right-hand figures, find the rectangle with matching length and width and note the count. $\blacksquare$
+By **Definition 10.3.1 (Features of Cuboids and Cubes)**, its three groups of faces are rectangles $4\times3$, $4\times2$, and $3\times2$, with $2$ faces each. In the right-hand figures, find the rectangle with matching length and width and note the count.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -122,7 +140,9 @@ By **Definition 10.3.1 (Features of Cuboids and Cubes)**, its three groups of fa
 
 ### Solution to Exercise 10
 
-By **Definition 10.3.1 (Features of Cuboids and Cubes)**, the three edges fix the length, width, height; you need $2$ "length$\times$width" faces, $2$ "length$\times$height" faces, and $2$ "width$\times$height" faces; choose the corresponding rectangles. $\blacksquare$
+By **Definition 10.3.1 (Features of Cuboids and Cubes)**, the three edges fix the length, width, height; you need $2$ "length$\times$width" faces, $2$ "length$\times$height" faces, and $2$ "width$\times$height" faces; choose the corresponding rectangles.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -130,7 +150,9 @@ By **Definition 10.3.1 (Features of Cuboids and Cubes)**, the three edges fix th
 
 ### Solution to Exercise 11
 
-By **Definition 10.3.1 (Features of Cuboids and Cubes)**, adjacent faces cannot be opposite. From the adjacent faces seen during rotation, rule out neighbors and deduce the opposite: the face opposite $A$ is not an adjacent one such as $C,F$, and so on for $A,E,I$. $\blacksquare$
+By **Definition 10.3.1 (Features of Cuboids and Cubes)**, adjacent faces cannot be opposite. From the adjacent faces seen during rotation, rule out neighbors and deduce the opposite: the face opposite $A$ is not an adjacent one such as $C,F$, and so on for $A,E,I$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -138,7 +160,9 @@ By **Definition 10.3.1 (Features of Cuboids and Cubes)**, adjacent faces cannot 
 
 ### Solution to Exercise 12
 
-By **Definition 10.3.2 (Surface Area)**, the cover has no bottom, so compute $5$ faces: $0.75\times0.5+\left(0.75\times1.6+0.5\times1.6\right)\times2=0.375+\left(1.2+0.8\right)\times2=0.375+4=4.375\,\mathrm{m^2}$. $\blacksquare$
+By **Definition 10.3.2 (Surface Area)**, the cover has no bottom, so compute $5$ faces: $0.75\times0.5+\left(0.75\times1.6+0.5\times1.6\right)\times2=0.375+\left(1.2+0.8\right)\times2=0.375+4=4.375\,\mathrm{m^2}$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -146,7 +170,9 @@ By **Definition 10.3.2 (Surface Area)**, the cover has no bottom, so compute $5$
 
 ### Solution to Exercise 13
 
-By **Definition 10.3.2 (Surface Area)**, in the net, faces separated by one fold become opposite; label them by position "top, bottom, front, back, left, right" and mark equal-length edges with the same letter $a,b,c$. $\blacksquare$
+By **Definition 10.3.2 (Surface Area)**, in the net, faces separated by one fold become opposite; label them by position "top, bottom, front, back, left, right" and mark equal-length edges with the same letter $a,b,c$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -154,7 +180,9 @@ By **Definition 10.3.2 (Surface Area)**, in the net, faces separated by one fold
 
 ### Solution to Exercise 14
 
-By **Definition 10.3.2 (Surface Area)**, the box has no lid, so compute $5$ faces: $5\times4+\left(5\times3+4\times3\right)\times2=20+\left(15+12\right)\times2=20+54=74\,\mathrm{dm^2}$. $\blacksquare$
+By **Definition 10.3.2 (Surface Area)**, the box has no lid, so compute $5$ faces: $5\times4+\left(5\times3+4\times3\right)\times2=20+\left(15+12\right)\times2=20+54=74\,\mathrm{dm^2}$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -162,7 +190,9 @@ By **Definition 10.3.2 (Surface Area)**, the box has no lid, so compute $5$ face
 
 ### Solution to Exercise 15
 
-By **Definition 10.3.2 (Surface Area)**, only the $4$ side faces: $\left(10\times12+6\times12\right)\times2=\left(120+72\right)\times2=384\,\mathrm{cm^2}$. $\blacksquare$
+By **Definition 10.3.2 (Surface Area)**, only the $4$ side faces: $\left(10\times12+6\times12\right)\times2=\left(120+72\right)\times2=384\,\mathrm{cm^2}$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -170,7 +200,9 @@ By **Definition 10.3.2 (Surface Area)**, only the $4$ side faces: $\left(10\time
 
 ### Solution to Exercise 16
 
-By **Definition 10.3.2 (Surface Area)**, front area $=$ length$\times$height, right area $=$ width$\times$height, top area $=$ length$\times$width, surface area $=($front$+$right$+$top$)\times2$. Substitute each cuboid's data. $\blacksquare$
+By **Definition 10.3.2 (Surface Area)**, front area $=$ length$\times$height, right area $=$ width$\times$height, top area $=$ length$\times$width, surface area $=($front$+$right$+$top$)\times2$. Substitute each cuboid's data.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -178,4 +210,6 @@ By **Definition 10.3.2 (Surface Area)**, front area $=$ length$\times$height, ri
 
 ### Solution to Exercise 17
 
-By **Definition 10.3.2 (Surface Area)**, in a cube net, faces with one gap in a row (or staggered across rows) become opposite; so "spring" opposes "autumn", "summer" opposes "winter", and "morning bell" opposes "evening drum". $\blacksquare$
+By **Definition 10.3.2 (Surface Area)**, in a cube net, faces with one gap in a row (or staggered across rows) become opposite; so "spring" opposes "autumn", "summer" opposes "winter", and "morning bell" opposes "evening drum".
+
+$\blacksquare$

@@ -42,7 +42,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 6.1.1 (Axisymmetric Figures and Axes of Symmetry)**, first fold the paper in half, then draw half a paper person starting from the crease (both head and body drawn from the crease), cut it out and unfold it. Folding $1$ time cuts out $1$ paper person; folding $2$ times cuts out $2$ paper people holding hands. If the head and body are not drawn from the crease, the cut-out paper person will be incomplete. $\blacksquare$
+By **Definition 6.1.1 (Axisymmetric Figures and Axes of Symmetry)**, first fold the paper in half, then draw half a paper person starting from the crease (both head and body drawn from the crease), cut it out and unfold it. Folding $1$ time cuts out $1$ paper person; folding $2$ times cuts out $2$ paper people holding hands. If the head and body are not drawn from the crease, the cut-out paper person will be incomplete.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -50,7 +52,9 @@ By **Definition 6.1.1 (Axisymmetric Figures and Axes of Symmetry)**, first fold 
 
 ### Solution to Exercise 2
 
-By **Definition 6.1.1 (Axisymmetric Figures and Axes of Symmetry)**, mark "√" on the figures whose two sides coincide completely when folded along a straight line; do not mark those that do not coincide. $\blacksquare$
+By **Definition 6.1.1 (Axisymmetric Figures and Axes of Symmetry)**, mark "√" on the figures whose two sides coincide completely when folded along a straight line; do not mark those that do not coincide.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -58,7 +62,9 @@ By **Definition 6.1.1 (Axisymmetric Figures and Axes of Symmetry)**, mark "√" 
 
 ### Solution to Exercise 3
 
-By **Definition 6.1.2 (Translation)** and **Definition 6.1.3 (Rotation)**, mark "△" for moving along a straight line and "○" for turning about a point. $\blacksquare$
+By **Definition 6.1.2 (Translation)** and **Definition 6.1.3 (Rotation)**, mark "△" for moving along a straight line and "○" for turning about a point.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -66,7 +72,9 @@ By **Definition 6.1.2 (Translation)** and **Definition 6.1.3 (Rotation)**, mark 
 
 ### Solution to Exercise 4
 
-By **Definition 6.1.2 (Translation)**, translation does not change direction; so only the little fish that are exactly like the red one in shape, size and orientation can coincide with it through translation. Color these fish in; those with a different orientation cannot. $\blacksquare$
+By **Definition 6.1.2 (Translation)**, translation does not change direction; so only the little fish that are exactly like the red one in shape, size and orientation can coincide with it through translation. Color these fish in; those with a different orientation cannot.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -74,7 +82,9 @@ By **Definition 6.1.2 (Translation)**, translation does not change direction; so
 
 ### Solution to Exercise 5
 
-By **Definition 6.1.1 (Axisymmetric Figures and Axes of Symmetry)**, **Definition 6.1.2 (Translation)** and **Definition 6.1.3 (Rotation)**, the paper-cut pattern contains both axisymmetry cut by folding, translation where figures are repeated along a direction, and rotation turning about a center; point them out one by one. $\blacksquare$
+By **Definition 6.1.1 (Axisymmetric Figures and Axes of Symmetry)**, **Definition 6.1.2 (Translation)** and **Definition 6.1.3 (Rotation)**, the paper-cut pattern contains both axisymmetry cut by folding, translation where figures are repeated along a direction, and rotation turning about a center; point them out one by one.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -82,7 +92,9 @@ By **Definition 6.1.1 (Axisymmetric Figures and Axes of Symmetry)**, **Definitio
 
 ### Solution to Exercise 6
 
-By **Definition 6.1.3 (Rotation)**, first observe how the time changes on the earlier clock faces (each time the hour hand turns clockwise by the same amount), deduce the time on the last clock face by this pattern, and then draw the hour hand at the corresponding position. $\blacksquare$
+By **Definition 6.1.3 (Rotation)**, first observe how the time changes on the earlier clock faces (each time the hour hand turns clockwise by the same amount), deduce the time on the last clock face by this pattern, and then draw the hour hand at the corresponding position.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -90,7 +102,9 @@ By **Definition 6.1.3 (Rotation)**, first observe how the time changes on the ea
 
 ### Solution to Exercise 7
 
-Observe the arrangement pattern of the earlier figures (for example, repeating after axisymmetry, translation or rotation), select the next figure by the pattern and circle it. $\blacksquare$
+Observe the arrangement pattern of the earlier figures (for example, repeating after axisymmetry, translation or rotation), select the next figure by the pattern and circle it.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -98,7 +112,9 @@ Observe the arrangement pattern of the earlier figures (for example, repeating a
 
 ### Solution to Exercise 8
 
-By **Definition 6.1.1 (Axisymmetric Figures and Axes of Symmetry)**, first fold as shown, then think about how many cut-away parts will appear at the symmetric positions when unfolded, and match cutting method $1$ and cutting method $2$ with their respective unfolded patterns. $\blacksquare$
+By **Definition 6.1.1 (Axisymmetric Figures and Axes of Symmetry)**, first fold as shown, then think about how many cut-away parts will appear at the symmetric positions when unfolded, and match cutting method $1$ and cutting method $2$ with their respective unfolded patterns.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -106,7 +122,9 @@ By **Definition 6.1.1 (Axisymmetric Figures and Axes of Symmetry)**, first fold 
 
 ### Solution to Exercise 9
 
-By **Definition 6.2.1 (Mental Division)**: $6\div2=3$, $80\div4=20$, $90\div3=30$, $60\div2=30$, $800\div4=200$, $900\div3=300$. $\blacksquare$
+By **Definition 6.2.1 (Mental Division)**: $6\div2=3$, $80\div4=20$, $90\div3=30$, $60\div2=30$, $800\div4=200$, $900\div3=300$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -114,7 +132,9 @@ By **Definition 6.2.1 (Mental Division)**: $6\div2=3$, $80\div4=20$, $90\div3=30
 
 ### Solution to Exercise 10
 
-By **Definition 6.2.1 (Mental Division)**: $46\div2=23$, $42\div2=21$, $210\div7=30$, $540\div9=60$, $66\div6=11$, $88\div4=22$, $350\div5=70$, $240\div8=30$. $\blacksquare$
+By **Definition 6.2.1 (Mental Division)**: $46\div2=23$, $42\div2=21$, $210\div7=30$, $540\div9=60$, $66\div6=11$, $88\div4=22$, $350\div5=70$, $240\div8=30$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -122,7 +142,9 @@ By **Definition 6.2.1 (Mental Division)**: $46\div2=23$, $42\div2=21$, $210\div7
 
 ### Solution to Exercise 11
 
-By **Definition 6.2.2 (Estimating Division)**, regard $153$ as $150$: $153\div3\approx50$ (kilometers), so it travels about $50$ kilometers per hour on average. $\blacksquare$
+By **Definition 6.2.2 (Estimating Division)**, regard $153$ as $150$: $153\div3\approx50$ (kilometers), so it travels about $50$ kilometers per hour on average.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -130,7 +152,9 @@ By **Definition 6.2.2 (Estimating Division)**, regard $153$ as $150$: $153\div3\
 
 ### Solution to Exercise 12
 
-By **Definition 6.2.2 (Estimating Division)**, regard $196$ as $200$: $196\div5\approx40$, so about $40$ per basket on average. $\blacksquare$
+By **Definition 6.2.2 (Estimating Division)**, regard $196$ as $200$: $196\div5\approx40$, so about $40$ per basket on average.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -138,7 +162,9 @@ By **Definition 6.2.2 (Estimating Division)**, regard $196$ as $200$: $196\div5\
 
 ### Solution to Exercise 13
 
-By **Definition 6.2.1 (Mental Division)**: $30\div3=10$, $36\div3=12$, $400\div2=200$, $7000\div7=1000$, $70\div7=10$, $88\div4=22$, $800\div2=400$, $9000\div3=3000$, $180\div6=30$, $48\div2=24$, $450\div5=90$, $6400\div8=800$. $\blacksquare$
+By **Definition 6.2.1 (Mental Division)**: $30\div3=10$, $36\div3=12$, $400\div2=200$, $7000\div7=1000$, $70\div7=10$, $88\div4=22$, $800\div2=400$, $9000\div3=3000$, $180\div6=30$, $48\div2=24$, $450\div5=90$, $6400\div8=800$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -146,7 +172,9 @@ By **Definition 6.2.1 (Mental Division)**: $30\div3=10$, $36\div3=12$, $400\div2
 
 ### Solution to Exercise 14
 
-By **Definition 6.2.1 (Mental Division)**: $160\div8=20$, $320\div8=40$, $400\div8=50$, $640\div8=80$; $300\div1=300$, $300\div3=100$, $300\div5=60$, $300\div6=50$. $\blacksquare$
+By **Definition 6.2.1 (Mental Division)**: $160\div8=20$, $320\div8=40$, $400\div8=50$, $640\div8=80$; $300\div1=300$, $300\div3=100$, $300\div5=60$, $300\div6=50$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -154,7 +182,9 @@ By **Definition 6.2.1 (Mental Division)**: $160\div8=20$, $320\div8=40$, $400\di
 
 ### Solution to Exercise 15
 
-$90\div9=10$ (people), $10$ per column; $90\div3=30$ (people), $30$ per circle. $\blacksquare$
+$90\div9=10$ (people), $10$ per column; $90\div3=30$ (people), $30$ per circle.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -162,7 +192,9 @@ $90\div9=10$ (people), $10$ per column; $90\div3=30$ (people), $30$ per circle. 
 
 ### Solution to Exercise 16
 
-$88\div2=44$ (pots), $44$ per bed; $44\div4=11$ (pots), $11$ per row on average. $\blacksquare$
+$88\div2=44$ (pots), $44$ per bed; $44\div4=11$ (pots), $11$ per row on average.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -170,7 +202,9 @@ $88\div2=44$ (pots), $44$ per bed; $44\div4=11$ (pots), $11$ per row on average.
 
 ### Solution to Exercise 17
 
-Sika deer: $240\div3=80$ (kilograms); Tibetan antelope: $240\div6=40$ (kilograms). $\blacksquare$
+Sika deer: $240\div3=80$ (kilograms); Tibetan antelope: $240\div6=40$ (kilograms).
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -178,7 +212,9 @@ Sika deer: $240\div3=80$ (kilograms); Tibetan antelope: $240\div6=40$ (kilograms
 
 ### Solution to Exercise 18
 
-By **Definition 6.2.1 (Mental Division)** and **Definition 6.2.2 (Estimating Division)**: $320\div4=80$, $420\div6=70$, $560\div7=80$; estimate $326\div4\approx80$, $475\div6\approx80$, $617\div7\approx90$; $360\div4=90$, $480\div6=80$, $630\div7=90$. $\blacksquare$
+By **Definition 6.2.1 (Mental Division)** and **Definition 6.2.2 (Estimating Division)**: $320\div4=80$, $420\div6=70$, $560\div7=80$; estimate $326\div4\approx80$, $475\div6\approx80$, $617\div7\approx90$; $360\div4=90$, $480\div6=80$, $630\div7=90$.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -186,7 +222,9 @@ By **Definition 6.2.1 (Mental Division)** and **Definition 6.2.2 (Estimating Div
 
 ### Solution to Exercise 19
 
-By **Definition 6.2.2 (Estimating Division)**, $148\div3\approx50$ (yuan), so about $50$ yuan per piece. $\blacksquare$
+By **Definition 6.2.2 (Estimating Division)**, $148\div3\approx50$ (yuan), so about $50$ yuan per piece.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -194,7 +232,9 @@ By **Definition 6.2.2 (Estimating Division)**, $148\div3\approx50$ (yuan), so ab
 
 ### Solution to Exercise 20
 
-By **Definition 6.2.2 (Estimating Division)**, regard $490$ as $480$: $490\div6\approx80$ (meters), so about $80$ meters per minute on average. $\blacksquare$
+By **Definition 6.2.2 (Estimating Division)**, regard $490$ as $480$: $490\div6\approx80$ (meters), so about $80$ meters per minute on average.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -202,4 +242,6 @@ By **Definition 6.2.2 (Estimating Division)**, regard $490$ as $480$: $490\div6\
 
 ### Solution to Exercise 21
 
-By **Definition 6.2.1 (Mental Division)**: $500\div5=100$, $4000\div8=500$, $560\div7=80$, $86\div2=43$, $350\div7=50$, $63\div3=21$. $\blacksquare$
+By **Definition 6.2.1 (Mental Division)**: $500\div5=100$, $4000\div8=500$, $560\div7=80$, $86\div2=43$, $350\div7=50$, $63\div3=21$.
+
+$\blacksquare$

@@ -26,7 +26,9 @@
 
 ### 解答 练习一
 
-$d=10$: $C=31.4\;\text{cm}$, $S=78.5\;\text{cm}^2$; $r=3$: $C=18.84\;\text{cm}$, $S=28.26\;\text{cm}^2$. $\blacksquare$
+$d=10$: $C=31.4\;\text{cm}$, $S=78.5\;\text{cm}^2$; $r=3$: $C=18.84\;\text{cm}$, $S=28.26\;\text{cm}^2$.
+
+$\blacksquare$
 
 ## 练习二
 
@@ -34,7 +36,9 @@ $d=10$: $C=31.4\;\text{cm}$, $S=78.5\;\text{cm}^2$; $r=3$: $C=18.84\;\text{cm}$,
 
 ### 解答 练习二
 
-$S=3.14\times10^2=314\;\text{m}^2$. $\blacksquare$
+$S=3.14\times10^2=314\;\text{m}^2$.
+
+$\blacksquare$
 
 ## 练习三
 
@@ -42,7 +46,9 @@ $S=3.14\times10^2=314\;\text{m}^2$. $\blacksquare$
 
 ### 解答 练习三
 
-$r=125.6\div3.14\div2=20\;\text{cm}$, $S=3.14\times20^2=1256\;\text{cm}^2$. $\blacksquare$
+$r=125.6\div3.14\div2=20\;\text{cm}$, $S=3.14\times20^2=1256\;\text{cm}^2$.
+
+$\blacksquare$
 
 ## 练习四
 
@@ -50,7 +56,9 @@ $r=125.6\div3.14\div2=20\;\text{cm}$, $S=3.14\times20^2=1256\;\text{cm}^2$. $\bl
 
 ### 解答 练习四
 
-$3.14\times\left(25^2-5^2\right)=3.14\times600=1884\;\text{m}^2$. $\blacksquare$
+$3.14\times\left(25^2-5^2\right)=3.14\times600=1884\;\text{m}^2$.
+
+$\blacksquare$
 
 ## 练习五
 
@@ -58,7 +66,9 @@ $3.14\times\left(25^2-5^2\right)=3.14\times600=1884\;\text{m}^2$. $\blacksquare$
 
 ### 解答 练习五
 
-设小圆半径 $r$, 大圆半径 $2r$. 涂色面积 $=\pi\left(2r\right)^2-\pi{r}^2=3\pi{r}^2$, 即大圆面积的 $\frac{3}{4}$. $\blacksquare$
+设小圆半径 $r$, 大圆半径 $2r$. 涂色面积 $=\pi\left(2r\right)^2-\pi{r}^2=3\pi{r}^2$, 即大圆面积的 $\frac{3}{4}$.
+
+$\blacksquare$
 
 ## 练习六
 
@@ -66,7 +76,9 @@ $3.14\times\left(25^2-5^2\right)=3.14\times600=1884\;\text{m}^2$. $\blacksquare$
 
 ### 解答 练习六
 
-$3.14\times14^2-6^2=615.44-36=579.44\;\text{mm}^2$. $\blacksquare$
+$3.14\times14^2-6^2=615.44-36=579.44\;\text{mm}^2$.
+
+$\blacksquare$
 
 ## 练习七
 
@@ -74,7 +86,9 @@ $3.14\times14^2-6^2=615.44-36=579.44\;\text{mm}^2$. $\blacksquare$
 
 ### 解答 练习七
 
-如卫生纸筒横截面, 金属垫片. 量出外圆半径 $R$ 和内圆半径 $r$, 圆环面积 $=\pi\left(R^2-r^2\right)$. $\blacksquare$
+如卫生纸筒横截面, 金属垫片. 量出外圆半径 $R$ 和内圆半径 $r$, 圆环面积 $=\pi\left(R^2-r^2\right)$.
+
+$\blacksquare$
 
 ## 练习八
 
@@ -82,7 +96,9 @@ $3.14\times14^2-6^2=615.44-36=579.44\;\text{mm}^2$. $\blacksquare$
 
 ### 解答 练习八
 
-周长 $=$ 圆周长 $+$ 两条直道 $=3.14\times32+100\times2=100.48+200=300.48\;\text{m}$. 面积 $=3.14\times16^2+100\times32=803.84+3200=4003.84\;\text{m}^2$. $\blacksquare$
+周长 $=$ 圆周长 $+$ 两条直道 $=3.14\times32+100\times2=100.48+200=300.48\;\text{m}$. 面积 $=3.14\times16^2+100\times32=803.84+3200=4003.84\;\text{m}^2$.
+
+$\blacksquare$
 
 ## 练习九
 
@@ -90,7 +106,9 @@ $3.14\times14^2-6^2=615.44-36=579.44\;\text{mm}^2$. $\blacksquare$
 
 ### 解答 练习九
 
-周长 $=4\times\frac{1}{2}\times3.14\times1=6.28\;\text{m}$. 面积 $=$ 正方形 $1\times1+2$ 个整圆 $=1+3.14\times0.5^2\times2=1+1.57=2.57\;\text{m}^2$. $\blacksquare$
+周长 $=4\times\frac{1}{2}\times3.14\times1=6.28\;\text{m}$. 面积 $=$ 正方形 $1\times1+2$ 个整圆 $=1+3.14\times0.5^2\times2=1+1.57=2.57\;\text{m}^2$.
+
+$\blacksquare$
 
 ## 练习十
 
@@ -98,7 +116,9 @@ $3.14\times14^2-6^2=615.44-36=579.44\;\text{mm}^2$. $\blacksquare$
 
 ### 解答 练习十
 
-$3.14\times\left(17^2-7^2\right)-3.14\times\left(13^2-7^2\right)=3.14\times\left(289-49-169+49\right)=3.14\times120=376.8\;\text{m}^2$. $\blacksquare$
+$3.14\times\left(17^2-7^2\right)-3.14\times\left(13^2-7^2\right)=3.14\times\left(289-49-169+49\right)=3.14\times120=376.8\;\text{m}^2$.
+
+$\blacksquare$
 
 ## 练习十一
 
@@ -106,7 +126,9 @@ $3.14\times\left(17^2-7^2\right)-3.14\times\left(13^2-7^2\right)=3.14\times\left
 
 ### 解答 练习十一
 
-原来 $r=62.8\div3.14\div2=10\;\text{m}$, 新 $r=12\;\text{m}$. 增加 $3.14\times\left(12^2-10^2\right)=3.14\times44=138.16\;\text{m}^2$. $\blacksquare$
+原来 $r=62.8\div3.14\div2=10\;\text{m}$, 新 $r=12\;\text{m}$. 增加 $3.14\times\left(12^2-10^2\right)=3.14\times44=138.16\;\text{m}^2$.
+
+$\blacksquare$
 
 ## 练习十二
 
@@ -114,7 +136,9 @@ $3.14\times\left(17^2-7^2\right)-3.14\times\left(13^2-7^2\right)=3.14\times\left
 
 ### 解答 练习十二
 
-半圆周长 $=\pi{r}+2r=r\left(\pi+2\right)=128.5$, $r=128.5\div5.14=25\;\text{m}$. 两个半圆拼成一个整圆, 面积 $3.14\times25^2=1962.5\;\text{m}^2$. $\blacksquare$
+半圆周长 $=\pi{r}+2r=r\left(\pi+2\right)=128.5$, $r=128.5\div5.14=25\;\text{m}$. 两个半圆拼成一个整圆, 面积 $3.14\times25^2=1962.5\;\text{m}^2$.
+
+$\blacksquare$
 
 ## 练习十三
 
@@ -122,7 +146,9 @@ $3.14\times\left(17^2-7^2\right)-3.14\times\left(13^2-7^2\right)=3.14\times\left
 
 ### 解答 练习十三
 
-扇环面积 $=\frac{90}{360}\times3.14\times\left(5^2-4^2\right)=\frac{1}{4}\times3.14\times9=7.065\;\text{dm}^2$. $\blacksquare$
+扇环面积 $=\frac{90}{360}\times3.14\times\left(5^2-4^2\right)=\frac{1}{4}\times3.14\times9=7.065\;\text{dm}^2$.
+
+$\blacksquare$
 
 ## 练习十四
 
@@ -130,7 +156,9 @@ $3.14\times\left(17^2-7^2\right)-3.14\times\left(13^2-7^2\right)=3.14\times\left
 
 ### 解答 练习十四
 
-两个半圆面积 $-$ 三角形面积 $=2\times\frac{1}{2}\times3.14\times5^2-\frac{1}{2}\times10\times10=78.5-50=28.5\;\text{dm}^2$. $\blacksquare$
+两个半圆面积 $-$ 三角形面积 $=2\times\frac{1}{2}\times3.14\times5^2-\frac{1}{2}\times10\times10=78.5-50=28.5\;\text{dm}^2$.
+
+$\blacksquare$
 
 ## 练习十五
 
@@ -138,7 +166,9 @@ $3.14\times\left(17^2-7^2\right)-3.14\times\left(13^2-7^2\right)=3.14\times\left
 
 ### 解答 练习十五
 
-狗以绳长 $4\;\text{m}$ 为半径绕墙角, 活动区域是 $\frac{3}{4}$ 个圆: $\frac{3}{4}\times3.14\times4^2=37.68\;\text{m}^2$. $\blacksquare$
+狗以绳长 $4\;\text{m}$ 为半径绕墙角, 活动区域是 $\frac{3}{4}$ 个圆: $\frac{3}{4}\times3.14\times4^2=37.68\;\text{m}^2$.
+
+$\blacksquare$
 
 ## 练习十六
 
@@ -146,7 +176,9 @@ $3.14\times\left(17^2-7^2\right)-3.14\times\left(13^2-7^2\right)=3.14\times\left
 
 ### 解答 练习十六
 
-(1) $31.4$ 是圆周长时 $r=5\;\text{m}$, 面积 $78.5\;\text{m}^2$, 同样周长围成圆时面积最大. (2) 同样的材料, 圆形底面能获得最大面积, 故蒙古包做成圆形; 根茎横截面圆形有利于输送水分并节省材料. $\blacksquare$
+(1) $31.4$ 是圆周长时 $r=5\;\text{m}$, 面积 $78.5\;\text{m}^2$, 同样周长围成圆时面积最大. (2) 同样的材料, 圆形底面能获得最大面积, 故蒙古包做成圆形; 根茎横截面圆形有利于输送水分并节省材料.
+
+$\blacksquare$
 
 ## 练习十七
 
@@ -154,7 +186,9 @@ $3.14\times\left(17^2-7^2\right)-3.14\times\left(13^2-7^2\right)=3.14\times\left
 
 ### 解答 练习十七
 
-按教材图示, 先画大圆, 再以大圆半径为直径在各方向画小圆, 即可形成对称的花朵图案. $\blacksquare$
+按教材图示, 先画大圆, 再以大圆半径为直径在各方向画小圆, 即可形成对称的花朵图案.
+
+$\blacksquare$
 
 ## 练习十八
 
@@ -162,7 +196,9 @@ $3.14\times\left(17^2-7^2\right)-3.14\times\left(13^2-7^2\right)=3.14\times\left
 
 ### 解答 练习十八
 
-$C=3.14\times500=1570\;\text{m}$. $\blacksquare$
+$C=3.14\times500=1570\;\text{m}$.
+
+$\blacksquare$
 
 ## 练习十九
 
@@ -170,7 +206,9 @@ $C=3.14\times500=1570\;\text{m}$. $\blacksquare$
 
 ### 解答 练习十九
 
-$r=10\;\text{cm}$, $S=3.14\times10^2=314\;\text{cm}^2$. $\blacksquare$
+$r=10\;\text{cm}$, $S=3.14\times10^2=314\;\text{cm}^2$.
+
+$\blacksquare$
 
 ## 练习二十
 
@@ -178,4 +216,6 @@ $r=10\;\text{cm}$, $S=3.14\times10^2=314\;\text{cm}^2$. $\blacksquare$
 
 ### 解答 练习二十
 
-一个铁环周长 $3.14\times50=157\;\text{cm}=1.57\;\text{m}$, $10\div1.57\approx6$ (个). $\blacksquare$
+一个铁环周长 $3.14\times50=157\;\text{cm}=1.57\;\text{m}$, $10\div1.57\approx6$ (个).
+
+$\blacksquare$

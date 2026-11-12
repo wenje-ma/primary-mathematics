@@ -22,7 +22,9 @@
 
 ### Solution to Exercise 1
 
-$32\%=0.32=\frac{8}{25}$; $0.5\%=0.005=\frac{1}{200}$; $25\%=0.25=\frac{1}{4}$; $1.5=150\%=\frac{3}{2}$; $0.025=2.5\%=\frac{1}{40}$; $\frac{1}{8}=0.125=12.5\%$; $\frac{1}{2}=0.5=50\%$. $\blacksquare$
+$32\%=0.32=\frac{8}{25}$; $0.5\%=0.005=\frac{1}{200}$; $25\%=0.25=\frac{1}{4}$; $1.5=150\%=\frac{3}{2}$; $0.025=2.5\%=\frac{1}{40}$; $\frac{1}{8}=0.125=12.5\%$; $\frac{1}{2}=0.5=50\%$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -30,7 +32,9 @@ $32\%=0.32=\frac{8}{25}$; $0.5\%=0.005=\frac{1}{200}$; $25\%=0.25=\frac{1}{4}$; 
 
 ### Solution to Exercise 2
 
-By **Definition 11.7.2 (Percent Rates)**: $288\div300=96\%$. $\blacksquare$
+By **Definition 11.7.2 (Percent Rates)**: $288\div300=96\%$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -38,7 +42,9 @@ By **Definition 11.7.2 (Percent Rates)**: $288\div300=96\%$. $\blacksquare$
 
 ### Solution to Exercise 3
 
-Class total $47$, $21\div47\approx44.7\%$. $\blacksquare$
+Class total $47$, $21\div47\approx44.7\%$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -46,7 +52,9 @@ Class total $47$, $21\div47\approx44.7\%$. $\blacksquare$
 
 ### Solution to Exercise 4
 
-By **Definition 11.7.2 (Percent Rates)**, attendance rate $=$ attendees $\div$ grade size $\times100\%$, computed row by row. $\blacksquare$
+By **Definition 11.7.2 (Percent Rates)**, attendance rate $=$ attendees $\div$ grade size $\times100\%$, computed row by row.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -54,7 +62,9 @@ By **Definition 11.7.2 (Percent Rates)**, attendance rate $=$ attendees $\div$ g
 
 ### Solution to Exercise 5
 
-Solution $=100+25=125\;\text{g}$, $25\div125=20\%$. $\blacksquare$
+Solution $=100+25=125\;\text{g}$, $25\div125=20\%$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -62,7 +72,9 @@ Solution $=100+25=125\;\text{g}$, $25\div125=20\%$. $\blacksquare$
 
 ### Solution to Exercise 6
 
-$\left(50-40\right)\div40=25\%$. $\blacksquare$
+$\left(50-40\right)\div40=25\%$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -70,7 +82,9 @@ $\left(50-40\right)\div40=25\%$. $\blacksquare$
 
 ### Solution to Exercise 7
 
-Remaining $1-45\%=55\%$ is $110$; $110\div55\%=200$ trees. $\blacksquare$
+Remaining $1-45\%=55\%$ is $110$; $110\div55\%=200$ trees.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -78,7 +92,9 @@ Remaining $1-45\%=55\%$ is $110$; $110\div55\%=200$ trees. $\blacksquare$
 
 ### Solution to Exercise 8
 
-By **Definition 11.7.2 (Percent Rates)**: $120\div160=75\%$. The three crop germination rates are $95\%$, $92\%$, $98\%$. $\blacksquare$
+By **Definition 11.7.2 (Percent Rates)**: $120\div160=75\%$. The three crop germination rates are $95\%$, $92\%$, $98\%$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -86,7 +102,9 @@ By **Definition 11.7.2 (Percent Rates)**: $120\div160=75\%$. The three crop germ
 
 ### Solution to Exercise 9
 
-By **Definition 11.7.2 (Percent Rates)**: attendance $=$ attendees $\div$ expected attendees; oil yield $=$ oil mass $\div$ oil-crop mass; survival $=$ survivors $\div$ total; hit rate $=$ hits $\div$ total attempts. $\blacksquare$
+By **Definition 11.7.2 (Percent Rates)**: attendance $=$ attendees $\div$ expected attendees; oil yield $=$ oil mass $\div$ oil-crop mass; survival $=$ survivors $\div$ total; hit rate $=$ hits $\div$ total attempts.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -94,7 +112,9 @@ By **Definition 11.7.2 (Percent Rates)**: attendance $=$ attendees $\div$ expect
 
 ### Solution to Exercise 10
 
-$1400\times\left(1+12\%\right)=1400\times1.12=1568$ books. $\blacksquare$
+$1400\times\left(1+12\%\right)=1400\times1.12=1568$ books.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -102,7 +122,9 @@ $1400\times\left(1+12\%\right)=1400\times1.12=1568$ books. $\blacksquare$
 
 ### Solution to Exercise 11
 
-$\left(1.62-1.5\right)\div1.5=8\%$. $\blacksquare$
+$\left(1.62-1.5\right)\div1.5=8\%$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -110,7 +132,9 @@ $\left(1.62-1.5\right)\div1.5=8\%$. $\blacksquare$
 
 ### Solution to Exercise 12
 
-Take month $3$ as $1$; month $4$ $0.8$; month $5$ $0.8\times1.2=0.96$. Month $5$ is down $\left(1-0.96\right)\div1=4\%$ vs. month $3$. $\blacksquare$
+Take month $3$ as $1$; month $4$ $0.8$; month $5$ $0.8\times1.2=0.96$. Month $5$ is down $\left(1-0.96\right)\div1=4\%$ vs. month $3$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -118,7 +142,9 @@ Take month $3$ as $1$; month $4$ $0.8$; month $5$ $0.8\times1.2=0.96$. Month $5$
 
 ### Solution to Exercise 13
 
-Take month $4$ as $1$; month $5$ $0.8$. Month $6$ returns to $1$, i.e. rise from $0.8$ to $1$, i.e. $\left(1-0.8\right)\div0.8=25\%$. $\blacksquare$
+Take month $4$ as $1$; month $5$ $0.8$. Month $6$ returns to $1$, i.e. rise from $0.8$ to $1$, i.e. $\left(1-0.8\right)\div0.8=25\%$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -126,7 +152,9 @@ Take month $4$ as $1$; month $5$ $0.8$. Month $6$ returns to $1$, i.e. rise from
 
 ### Solution to Exercise 14
 
-Corn $246\div250=98.4\%$; rice $192\div200=96\%$; garlic $141\div150=94\%$. $\blacksquare$
+Corn $246\div250=98.4\%$; rice $192\div200=96\%$; garlic $141\div150=94\%$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -134,7 +162,9 @@ Corn $246\div250=98.4\%$; rice $192\div200=96\%$; garlic $141\div150=94\%$. $\bl
 
 ### Solution to Exercise 15
 
-Present $50-2=48$, $48\div50=96\%$. $\blacksquare$
+Present $50-2=48$, $48\div50=96\%$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -142,7 +172,9 @@ Present $50-2=48$, $48\div50=96\%$. $\blacksquare$
 
 ### Solution to Exercise 16
 
-$550\div760\approx72.4\%$. $\blacksquare$
+$550\div760\approx72.4\%$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -150,7 +182,9 @@ $550\div760\approx72.4\%$. $\blacksquare$
 
 ### Solution to Exercise 17
 
-$\left(2500-1600\right)\div2500=36\%$. $\blacksquare$
+$\left(2500-1600\right)\div2500=36\%$.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -158,7 +192,9 @@ $\left(2500-1600\right)\div2500=36\%$. $\blacksquare$
 
 ### Solution to Exercise 18
 
-$\left(920-800\right)\div800=15\%$. $\blacksquare$
+$\left(920-800\right)\div800=15\%$.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -166,7 +202,9 @@ $\left(920-800\right)\div800=15\%$. $\blacksquare$
 
 ### Solution to Exercise 19
 
-$\left(1.29-1.25\right)\div1.25=3.2\%$. $\blacksquare$
+$\left(1.29-1.25\right)\div1.25=3.2\%$.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -174,7 +212,9 @@ $\left(1.29-1.25\right)\div1.25=3.2\%$. $\blacksquare$
 
 ### Solution to Exercise 20
 
-$\left(30-7\right)\div7\approx328.6\%$. $\blacksquare$
+$\left(30-7\right)\div7\approx328.6\%$.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -182,7 +222,9 @@ $\left(30-7\right)\div7\approx328.6\%$. $\blacksquare$
 
 ### Solution to Exercise 21
 
-$64\times\left(1+12.5\%\right)=64\times1.125=72$ members. $\blacksquare$
+$64\times\left(1+12.5\%\right)=64\times1.125=72$ members.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -190,7 +232,9 @@ $64\times\left(1+12.5\%\right)=64\times1.125=72$ members. $\blacksquare$
 
 ### Solution to Exercise 22
 
-By **Definition 11.7.3 (Discounts and Cheng)**, 2.5 cheng $=25\%$: $500\times\left(1-25\%\right)=375$ ten-thousand tons. $\blacksquare$
+By **Definition 11.7.3 (Discounts and Cheng)**, 2.5 cheng $=25\%$: $500\times\left(1-25\%\right)=375$ ten-thousand tons.
+
+$\blacksquare$
 
 ## Exercise 23
 
@@ -198,7 +242,9 @@ By **Definition 11.7.3 (Discounts and Cheng)**, 2.5 cheng $=25\%$: $500\times\le
 
 ### Solution to Exercise 23
 
-Saving $20\%\times2000=400$ yuan. $\blacksquare$
+Saving $20\%\times2000=400$ yuan.
+
+$\blacksquare$
 
 ## Exercise 24
 
@@ -206,4 +252,6 @@ Saving $20\%\times2000=400$ yuan. $\blacksquare$
 
 ### Solution to Exercise 24
 
-$\left(20-12\right)\div12\approx66.7\%$. $\blacksquare$
+$\left(20-12\right)\div12\approx66.7\%$.
+
+$\blacksquare$

@@ -42,7 +42,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 8.2.1 (Observing Objects from Different Directions)**, build the two objects with small cubes, look from the front, top and left side, and draw the arrangement of the seen squares on grid paper. $\blacksquare$
+By **Definition 8.2.1 (Observing Objects from Different Directions)**, build the two objects with small cubes, look from the front, top and left side, and draw the arrangement of the seen squares on grid paper.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -50,7 +52,9 @@ By **Definition 8.2.1 (Observing Objects from Different Directions)**, build the
 
 ### Solution to Exercise 2
 
-By **Definition 8.2.1 (Observing Objects from Different Directions)**, observe and compare from the three directions: find the sides where the seen figures are the same and where they are different, and state the conclusion according to the actual arrangement. $\blacksquare$
+By **Definition 8.2.1 (Observing Objects from Different Directions)**, observe and compare from the three directions: find the sides where the seen figures are the same and where they are different, and state the conclusion according to the actual arrangement.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -58,7 +62,9 @@ By **Definition 8.2.1 (Observing Objects from Different Directions)**, observe a
 
 ### Solution to Exercise 3
 
-By **Definition 8.2.1 (Observing Objects from Different Directions)**, observe the six objects one by one from the front, left side and top, compare the seen figures with figures A and B, and list the numbers by category; then compare the top views of the objects and point out the ones that are the same. $\blacksquare$
+By **Definition 8.2.1 (Observing Objects from Different Directions)**, observe the six objects one by one from the front, left side and top, compare the seen figures with figures A and B, and list the numbers by category; then compare the top views of the objects and point out the ones that are the same.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -66,7 +72,9 @@ By **Definition 8.2.1 (Observing Objects from Different Directions)**, observe t
 
 ### Solution to Exercise 4
 
-By **Definition 8.2.1 (Observing Objects from Different Directions)**, combining the arrangements of squares seen from the three directions, reverse-engineer the object's shape with small cubes and build it, then check from the three directions that it matches the given figures. $\blacksquare$
+By **Definition 8.2.1 (Observing Objects from Different Directions)**, combining the arrangements of squares seen from the three directions, reverse-engineer the object's shape with small cubes and build it, then check from the three directions that it matches the given figures.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -74,7 +82,9 @@ By **Definition 8.2.1 (Observing Objects from Different Directions)**, combining
 
 ### Solution to Exercise 5
 
-By **Definition 8.2.1 (Observing Objects from Different Directions)**, count layer by layer the small cubes that are visible and those that are hidden, and add them up to get the total. Count layer by layer according to the figure. $\blacksquare$
+By **Definition 8.2.1 (Observing Objects from Different Directions)**, count layer by layer the small cubes that are visible and those that are hidden, and add them up to get the total. Count layer by layer according to the figure.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -82,7 +92,9 @@ By **Definition 8.2.1 (Observing Objects from Different Directions)**, count lay
 
 ### Solution to Exercise 6
 
-By **Definition 8.3.1 (Commutative Law of Addition)**, swap the addends: $300+600=600+300$; $78+43=43+78$; $a+12=12+a$; $35+65=65+35$. $\blacksquare$
+By **Definition 8.3.1 (Commutative Law of Addition)**, swap the addends: $300+600=600+300$; $78+43=43+78$; $a+12=12+a$; $35+65=65+35$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -90,7 +102,9 @@ By **Definition 8.3.1 (Commutative Law of Addition)**, swap the addends: $300+60
 
 ### Solution to Exercise 7
 
-By **Definition 8.3.2 (Associative Law of Addition)**, add the last two (or first two) first: $\left(25+68\right)+32=25+\left(68+32\right)$; $130+\left(70+4\right)=\left(130+70\right)+4$. $\blacksquare$
+By **Definition 8.3.2 (Associative Law of Addition)**, add the last two (or first two) first: $\left(25+68\right)+32=25+\left(68+32\right)$; $130+\left(70+4\right)=\left(130+70\right)+4$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -98,7 +112,9 @@ By **Definition 8.3.2 (Associative Law of Addition)**, add the last two (or firs
 
 ### Solution to Exercise 8
 
-By **Definition 8.3.1 (Commutative Law of Addition)** and **Definition 8.3.2 (Associative Law of Addition)**: $76+18=18+76$ uses the commutative law; $56+72+28=56+\left(72+28\right)$ uses the associative law; $31+67+19=31+19+67$ uses the commutative law; $24+42+76+58=\left(24+76\right)+\left(42+58\right)$ uses both the commutative and associative laws. $\blacksquare$
+By **Definition 8.3.1 (Commutative Law of Addition)** and **Definition 8.3.2 (Associative Law of Addition)**: $76+18=18+76$ uses the commutative law; $56+72+28=56+\left(72+28\right)$ uses the associative law; $31+67+19=31+19+67$ uses the commutative law; $24+42+76+58=\left(24+76\right)+\left(42+58\right)$ uses both the commutative and associative laws.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -106,7 +122,9 @@ By **Definition 8.3.1 (Commutative Law of Addition)** and **Definition 8.3.2 (As
 
 ### Solution to Exercise 9
 
-$56+89=145$; $307+348=655$; $425+480=905$; $118+274=392$; $38+456=494$; $123+2847=2970$. Check by swapping the two addends and adding again. $\blacksquare$
+$56+89=145$; $307+348=655$; $425+480=905$; $118+274=392$; $38+456=494$; $123+2847=2970$. Check by swapping the two addends and adding again.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -114,7 +132,9 @@ $56+89=145$; $307+348=655$; $425+480=905$; $118+274=392$; $38+456=494$; $123+284
 
 ### Solution to Exercise 10
 
-By **Definition 8.3.1 (Commutative Law of Addition)**, $a+b=b+a$, so the two sums symmetric about the diagonal in the table are equal. $36+78=114$, $36+135=171$, $36+296=332$, $78+135=213$, $78+296=374$, $135+296=431$. $\blacksquare$
+By **Definition 8.3.1 (Commutative Law of Addition)**, $a+b=b+a$, so the two sums symmetric about the diagonal in the table are equal. $36+78=114$, $36+135=171$, $36+296=332$, $78+135=213$, $78+296=374$, $135+296=431$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -122,7 +142,9 @@ By **Definition 8.3.1 (Commutative Law of Addition)**, $a+b=b+a$, so the two sum
 
 ### Solution to Exercise 11
 
-By **Definition 8.3.2 (Associative Law of Addition)**, add the roundable ones first: televisions $385+415+537=800+537=1337$ (sets); refrigerators $248+309+291=248+600=848$ (sets); washing machines $347+418+353=700+418=1118$ (sets). $\blacksquare$
+By **Definition 8.3.2 (Associative Law of Addition)**, add the roundable ones first: televisions $385+415+537=800+537=1337$ (sets); refrigerators $248+309+291=248+600=848$ (sets); washing machines $347+418+353=700+418=1118$ (sets).
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -130,7 +152,9 @@ By **Definition 8.3.2 (Associative Law of Addition)**, add the roundable ones fi
 
 ### Solution to Exercise 12
 
-Connect the pairs that sum to $100$: $18+82=100$, $25+75=100$, $57+43=100$, $69+31=100$. The remaining $96$ and $19$ cannot be paired to make $100$. $\blacksquare$
+Connect the pairs that sum to $100$: $18+82=100$, $25+75=100$, $57+43=100$, $69+31=100$. The remaining $96$ and $19$ cannot be paired to make $100$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -138,7 +162,9 @@ Connect the pairs that sum to $100$: $18+82=100$, $25+75=100$, $57+43=100$, $69+
 
 ### Solution to Exercise 13
 
-By **Definition 8.3.8 (Convenient Calculation)**, make round numbers: $425+14+186=425+200=625$; $75+168+25=\left(75+25\right)+168=268$; $245+180+20+155=\left(245+155\right)+\left(180+20\right)=600$; $67+25+33+75=\left(67+33\right)+\left(25+75\right)=200$. $\blacksquare$
+By **Definition 8.3.8 (Convenient Calculation)**, make round numbers: $425+14+186=425+200=625$; $75+168+25=\left(75+25\right)+168=268$; $245+180+20+155=\left(245+155\right)+\left(180+20\right)=600$; $67+25+33+75=\left(67+33\right)+\left(25+75\right)=200$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -146,7 +172,9 @@ By **Definition 8.3.8 (Convenient Calculation)**, make round numbers: $425+14+18
 
 ### Solution to Exercise 14
 
-By **Definition 8.3.8 (Convenient Calculation)**, $48+55+52+45=\left(48+52\right)+\left(55+45\right)=100+100=200$ (yuan). $\blacksquare$
+By **Definition 8.3.8 (Convenient Calculation)**, $48+55+52+45=\left(48+52\right)+\left(55+45\right)=100+100=200$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -154,7 +182,9 @@ By **Definition 8.3.8 (Convenient Calculation)**, $48+55+52+45=\left(48+52\right
 
 ### Solution to Exercise 15
 
-By **Definition 8.3.3 (Operation Property of Subtraction)**, subtracting two numbers in a row equals subtracting their sum: $868-52-48=868-\left(52+48\right)$; $1500-28-272=1500-\left(28+272\right)$; $415-74-26=415-\left(74+26\right)$; $a-b-c=a-\left(b+c\right)$. $\blacksquare$
+By **Definition 8.3.3 (Operation Property of Subtraction)**, subtracting two numbers in a row equals subtracting their sum: $868-52-48=868-\left(52+48\right)$; $1500-28-272=1500-\left(28+272\right)$; $415-74-26=415-\left(74+26\right)$; $a-b-c=a-\left(b+c\right)$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -162,7 +192,9 @@ By **Definition 8.3.3 (Operation Property of Subtraction)**, subtracting two num
 
 ### Solution to Exercise 16
 
-By **Definition 8.3.3 (Operation Property of Subtraction)** and **Definition 8.3.8 (Convenient Calculation)**: $528-53-47=528-100=428$; $545-167-145=545-145-167=400-167=233$; $487-187-139-61=300-\left(139+61\right)=100$; $169-25-25-50=169-100=69$. $\blacksquare$
+By **Definition 8.3.3 (Operation Property of Subtraction)** and **Definition 8.3.8 (Convenient Calculation)**: $528-53-47=528-100=428$; $545-167-145=545-145-167=400-167=233$; $487-187-139-61=300-\left(139+61\right)=100$; $169-25-25-50=169-100=69$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -170,4 +202,6 @@ By **Definition 8.3.3 (Operation Property of Subtraction)** and **Definition 8.3
 
 ### Solution to Exercise 17
 
-$60+255+40=\left(60+40\right)+255=355$; $282+41+159=282+200=482$; $548+52+468=600+468=1068$; $13+46+55+54+87=\left(13+87\right)+\left(46+54\right)+55=255$; $5+137+45+63+50=\left(5+45+50\right)+\left(137+63\right)=300$; $800-138-162=800-300=500$; $672-36-64=672-100=572$; $672-36+64=636+64=700$. $\blacksquare$
+$60+255+40=\left(60+40\right)+255=355$; $282+41+159=282+200=482$; $548+52+468=600+468=1068$; $13+46+55+54+87=\left(13+87\right)+\left(46+54\right)+55=255$; $5+137+45+63+50=\left(5+45+50\right)+\left(137+63\right)=300$; $800-138-162=800-300=500$; $672-36-64=672-100=572$; $672-36+64=636+64=700$.
+
+$\blacksquare$

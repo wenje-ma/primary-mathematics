@@ -62,7 +62,9 @@
 
 ### Solution to Exercise 1
 
-The first column is e.g. $0+0=0$, $1+0=1$, $2+0=2$, $\cdots$, $10+0=10$, with results increasing by $1$ each time; the subtraction first column is e.g. $0-0=0$, $1-1=0$, $\cdots$, with all results $0$. $\blacksquare$
+The first column is e.g. $0+0=0$, $1+0=1$, $2+0=2$, $\cdots$, $10+0=10$, with results increasing by $1$ each time; the subtraction first column is e.g. $0-0=0$, $1-1=0$, $\cdots$, with all results $0$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -70,7 +72,9 @@ The first column is e.g. $0+0=0$, $1+0=1$, $2+0=2$, $\cdots$, $10+0=10$, with re
 
 ### Solution to Exercise 2
 
-By **Definition 1.2.5 (Understanding 10)**, connect in order $1,2,3,4,5,6,7,8,9$. $\blacksquare$
+By **Definition 1.2.5 (Understanding 10)**, connect in order $1,2,3,4,5,6,7,8,9$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -78,7 +82,9 @@ By **Definition 1.2.5 (Understanding 10)**, connect in order $1,2,3,4,5,6,7,8,9$
 
 ### Solution to Exercise 3
 
-By **Definition 1.2.7 (Continuous Addition)**, **Definition 1.2.8 (Continuous Subtraction)**, and **Definition 1.2.9 (Mixed Addition and Subtraction)**: $6+3-4=5$, $8+2-5=5$, $3+3+3=9$, $8-6-2=0$, $10-6+5=9$, $9-2-2=5$. $\blacksquare$
+By **Definition 1.2.7 (Continuous Addition)**, **Definition 1.2.8 (Continuous Subtraction)**, and **Definition 1.2.9 (Mixed Addition and Subtraction)**: $6+3-4=5$, $8+2-5=5$, $3+3+3=9$, $8-6-2=0$, $10-6+5=9$, $9-2-2=5$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -86,7 +92,9 @@ By **Definition 1.2.7 (Continuous Addition)**, **Definition 1.2.8 (Continuous Su
 
 ### Solution to Exercise 4
 
-According to the total of $9$ birds and one part in the picture, by **Definition 1.2.4 (Four Sentences from One Picture)**, use subtraction to find the other part; e.g. $9-3=6$ (birds). $\blacksquare$
+According to the total of $9$ birds and one part in the picture, by **Definition 1.2.4 (Four Sentences from One Picture)**, use subtraction to find the other part; e.g. $9-3=6$ (birds).
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -94,7 +102,9 @@ According to the total of $9$ birds and one part in the picture, by **Definition
 
 ### Solution to Exercise 5
 
-According to the quantities of the two parts in the picture, by **Definition 1.2.4 (Four Sentences from One Picture)**, combine them with addition; e.g. $5+4=9$ (birds). $\blacksquare$
+According to the quantities of the two parts in the picture, by **Definition 1.2.4 (Four Sentences from One Picture)**, combine them with addition; e.g. $5+4=9$ (birds).
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -102,7 +112,9 @@ According to the quantities of the two parts in the picture, by **Definition 1.2
 
 ### Solution to Exercise 6
 
-By **Definition 1.2.4 (Four Sentences from One Picture)**, e.g. "how many in the water" $10-6=4$ (birds); "how many bottles remain" $10-3=7$ (bottles), etc.; write and solve. $\blacksquare$
+By **Definition 1.2.4 (Four Sentences from One Picture)**, e.g. "how many in the water" $10-6=4$ (birds); "how many bottles remain" $10-3=7$ (bottles), etc.; write and solve.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -110,7 +122,9 @@ By **Definition 1.2.4 (Four Sentences from One Picture)**, e.g. "how many in the
 
 ### Solution to Exercise 7
 
-Calculate both sides first, then compare: $3+6=9$, so $=$; $2+4=6<7$, so $<$; $7+3=10>9$, so $>$; $10-4=6<8$, so $<$; $9-3=6>5$, so $>$; $9+0=9$, so $=$. $\blacksquare$
+Calculate both sides first, then compare: $3+6=9$, so $=$; $2+4=6<7$, so $<$; $7+3=10>9$, so $>$; $10-4=6<8$, so $<$; $9-3=6>5$, so $>$; $9+0=9$, so $=$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -118,7 +132,9 @@ Calculate both sides first, then compare: $3+6=9$, so $=$; $2+4=6<7$, so $<$; $7
 
 ### Solution to Exercise 8
 
-Choose three numbers with an addition/subtraction relationship from these; e.g. $2+5=7$, $7-2=5$; answers are not unique. $\blacksquare$
+Choose three numbers with an addition/subtraction relationship from these; e.g. $2+5=7$, $7-2=5$; answers are not unique.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -126,7 +142,9 @@ Choose three numbers with an addition/subtraction relationship from these; e.g. 
 
 ### Solution to Exercise 9
 
-$2<\square$, smallest is $3$; $5<\square$, smallest is $6$; $\square>6$, smallest is $7$; $\square>8$, smallest is $9$. $\blacksquare$
+$2<\square$, smallest is $3$; $5<\square$, smallest is $6$; $\square>6$, smallest is $7$; $\square>8$, smallest is $9$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -134,7 +152,9 @@ $2<\square$, smallest is $3$; $5<\square$, smallest is $6$; $\square>6$, smalles
 
 ### Solution to Exercise 10
 
-By **Definition 1.3.1 (Cuboid and Cube)** and **Definition 1.3.2 (Cylinder and Sphere)**, classify the objects into four categories: cuboids (e.g. soap), cubes, cylinders (e.g. cans), and spheres. $\blacksquare$
+By **Definition 1.3.1 (Cuboid and Cube)** and **Definition 1.3.2 (Cylinder and Sphere)**, classify the objects into four categories: cuboids (e.g. soap), cubes, cylinders (e.g. cans), and spheres.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -142,7 +162,9 @@ By **Definition 1.3.1 (Cuboid and Cube)** and **Definition 1.3.2 (Cylinder and S
 
 ### Solution to Exercise 11
 
-By **Definition 1.3.1 (Cuboid and Cube)** and **Definition 1.3.2 (Cylinder and Sphere)**, e.g. a refrigerator is a cuboid, a Rubik's cube is a cube, a water cup is a cylinder, a ball is a sphere. $\blacksquare$
+By **Definition 1.3.1 (Cuboid and Cube)** and **Definition 1.3.2 (Cylinder and Sphere)**, e.g. a refrigerator is a cuboid, a Rubik's cube is a cube, a water cup is a cylinder, a ball is a sphere.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -150,7 +172,9 @@ By **Definition 1.3.1 (Cuboid and Cube)** and **Definition 1.3.2 (Cylinder and S
 
 ### Solution to Exercise 12
 
-By **Definition 1.3.2 (Cylinder and Sphere)**, find the solid shape with circular top and bottom faces that can stand upright, and take it out. $\blacksquare$
+By **Definition 1.3.2 (Cylinder and Sphere)**, find the solid shape with circular top and bottom faces that can stand upright, and take it out.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -158,7 +182,9 @@ By **Definition 1.3.2 (Cylinder and Sphere)**, find the solid shape with circula
 
 ### Solution to Exercise 13
 
-By **Definition 1.3.2 (Cylinder and Sphere)**, what can both stand upright and roll is a cylinder (a sphere cannot stand steadily), so it is a cylinder. $\blacksquare$
+By **Definition 1.3.2 (Cylinder and Sphere)**, what can both stand upright and roll is a cylinder (a sphere cannot stand steadily), so it is a cylinder.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -166,7 +192,9 @@ By **Definition 1.3.2 (Cylinder and Sphere)**, what can both stand upright and r
 
 ### Solution to Exercise 14
 
-By **Definition 1.3.1 (Cuboid and Cube)**, place the cuboid flat as the base, put the cube on top, and build up layer by layer. $\blacksquare$
+By **Definition 1.3.1 (Cuboid and Cube)**, place the cuboid flat as the base, put the cube on top, and build up layer by layer.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -174,7 +202,9 @@ By **Definition 1.3.1 (Cuboid and Cube)**, place the cuboid flat as the base, pu
 
 ### Solution to Exercise 15
 
-By **Definition 1.3.1 (Cuboid and Cube)** and **Definition 1.3.2 (Cylinder and Sphere)**, put flat, stable cuboids at the bottom as the base, place the sphere on top or prop it up with a cuboid, and skillfully use each block's characteristics to build sturdily and tall. $\blacksquare$
+By **Definition 1.3.1 (Cuboid and Cube)** and **Definition 1.3.2 (Cylinder and Sphere)**, put flat, stable cuboids at the bottom as the base, place the sphere on top or prop it up with a cuboid, and skillfully use each block's characteristics to build sturdily and tall.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -182,7 +212,9 @@ By **Definition 1.3.1 (Cuboid and Cube)** and **Definition 1.3.2 (Cylinder and S
 
 ### Solution to Exercise 16
 
-By **Definition 1.3.1 (Cuboid and Cube)**, $2$ cubes can form a cuboid. $\blacksquare$
+By **Definition 1.3.1 (Cuboid and Cube)**, $2$ cubes can form a cuboid.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -190,7 +222,9 @@ By **Definition 1.3.1 (Cuboid and Cube)**, $2$ cubes can form a cuboid. $\blacks
 
 ### Solution to Exercise 17
 
-By **Definition 1.3.1 (Cuboid and Cube)**, count how many cubes each shape is made of; draw a "√" for those with $4$. $\blacksquare$
+By **Definition 1.3.1 (Cuboid and Cube)**, count how many cubes each shape is made of; draw a "√" for those with $4$.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -198,7 +232,9 @@ By **Definition 1.3.1 (Cuboid and Cube)**, count how many cubes each shape is ma
 
 ### Solution to Exercise 18
 
-By **Definition 1.3.1 (Cuboid and Cube)**, connect the two piles that together form a large cube. $\blacksquare$
+By **Definition 1.3.1 (Cuboid and Cube)**, connect the two piles that together form a large cube.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -206,7 +242,9 @@ By **Definition 1.3.1 (Cuboid and Cube)**, connect the two piles that together f
 
 ### Solution to Exercise 19
 
-By **Definition 1.3.1 (Cuboid and Cube)**, you can form a single-layer cuboid with $4$ in a row, or a cuboid with $2$ rows of $2$ each, etc. $\blacksquare$
+By **Definition 1.3.1 (Cuboid and Cube)**, you can form a single-layer cuboid with $4$ in a row, or a cuboid with $2$ rows of $2$ each, etc.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -214,7 +252,9 @@ By **Definition 1.3.1 (Cuboid and Cube)**, you can form a single-layer cuboid wi
 
 ### Solution to Exercise 20
 
-By **Definition 1.3.1 (Cuboid and Cube)** and **Definition 1.3.2 (Cylinder and Sphere)**, connect cuboid to cuboid, cube to cube, cylinder to cylinder, sphere to sphere. $\blacksquare$
+By **Definition 1.3.1 (Cuboid and Cube)** and **Definition 1.3.2 (Cylinder and Sphere)**, connect cuboid to cuboid, cube to cube, cylinder to cylinder, sphere to sphere.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -222,7 +262,9 @@ By **Definition 1.3.1 (Cuboid and Cube)** and **Definition 1.3.2 (Cylinder and S
 
 ### Solution to Exercise 21
 
-By **Definition 1.3.1 (Cuboid and Cube)** and **Definition 1.3.2 (Cylinder and Sphere)**, count by shape category, then add them up for the total. $\blacksquare$
+By **Definition 1.3.1 (Cuboid and Cube)** and **Definition 1.3.2 (Cylinder and Sphere)**, count by shape category, then add them up for the total.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -230,7 +272,9 @@ By **Definition 1.3.1 (Cuboid and Cube)** and **Definition 1.3.2 (Cylinder and S
 
 ### Solution to Exercise 22
 
-Count the solid shapes in the picture and fill in the blanks. $\blacksquare$
+Count the solid shapes in the picture and fill in the blanks.
+
+$\blacksquare$
 
 ## Exercise 23
 
@@ -238,7 +282,9 @@ Count the solid shapes in the picture and fill in the blanks. $\blacksquare$
 
 ### Solution to Exercise 23
 
-Following the arrangement pattern of the shapes already placed, infer the next solid shape and circle it. $\blacksquare$
+Following the arrangement pattern of the shapes already placed, infer the next solid shape and circle it.
+
+$\blacksquare$
 
 ## Exercise 24
 
@@ -246,7 +292,9 @@ Following the arrangement pattern of the shapes already placed, infer the next s
 
 ### Solution to Exercise 24
 
-By **Definition 1.4.1 (10 Ones Make 1 Ten)**, after counting to $10$, continue counting, e.g. $10,11$, giving $11$ in total. $\blacksquare$
+By **Definition 1.4.1 (10 Ones Make 1 Ten)**, after counting to $10$, continue counting, e.g. $10,11$, giving $11$ in total.
+
+$\blacksquare$
 
 ## Exercise 25
 
@@ -254,7 +302,9 @@ By **Definition 1.4.1 (10 Ones Make 1 Ten)**, after counting to $10$, continue c
 
 ### Solution to Exercise 25
 
-By **Definition 1.4.1 (10 Ones Make 1 Ten)**, e.g. $10$ pencils in a box, $10$ eggs in a tray, $10$ classmates in a line. $\blacksquare$
+By **Definition 1.4.1 (10 Ones Make 1 Ten)**, e.g. $10$ pencils in a box, $10$ eggs in a tray, $10$ classmates in a line.
+
+$\blacksquare$
 
 ## Exercise 26
 
@@ -262,4 +312,6 @@ By **Definition 1.4.1 (10 Ones Make 1 Ten)**, e.g. $10$ pencils in a box, $10$ e
 
 ### Solution to Exercise 26
 
-By **Definition 1.4.1 (10 Ones Make 1 Ten)** and **Definition 1.4.3 (Composition of Numbers 11–20)**, circling $10$ makes $1$ ten, and however many remain are ones; together they make a ten-something. $\blacksquare$
+By **Definition 1.4.1 (10 Ones Make 1 Ten)** and **Definition 1.4.3 (Composition of Numbers 11–20)**, circling $10$ makes $1$ ten, and however many remain are ones; together they make a ten-something.
+
+$\blacksquare$

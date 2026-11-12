@@ -26,7 +26,9 @@
 
 ### Solution to Exercise 1
 
-(1) Up: $7.2\div3=2.4$ km/h; down: $7.2\div2=3.6$ km/h. (2) Whole route: $7.2\times2\div\left(3+2\right)=14.4\div5=2.88$ km/h. $\blacksquare$
+(1) Up: $7.2\div3=2.4$ km/h; down: $7.2\div2=3.6$ km/h. (2) Whole route: $7.2\times2\div\left(3+2\right)=14.4\div5=2.88$ km/h.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -34,7 +36,9 @@
 
 ### Solution to Exercise 2
 
-Pattern: the quotient is a repeating decimal whose cycle is the two-digit number of the dividend times $9$. $3\div11=0.2727\cdots$; $4\div11=0.3636\cdots$; $5\div11=0.4545\cdots$; $6\div11=0.5454\cdots$; $7\div11=0.6363\cdots$; $8\div11=0.7272\cdots$; $9\div11=0.8181\cdots$. $\blacksquare$
+Pattern: the quotient is a repeating decimal whose cycle is the two-digit number of the dividend times $9$. $3\div11=0.2727\cdots$; $4\div11=0.3636\cdots$; $5\div11=0.4545\cdots$; $6\div11=0.5454\cdots$; $7\div11=0.6363\cdots$; $8\div11=0.7272\cdots$; $9\div11=0.8181\cdots$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -42,7 +46,9 @@ Pattern: the quotient is a repeating decimal whose cycle is the two-digit number
 
 ### Solution to Exercise 3
 
-By **Definition 9.3.4 (Dividing by a Decimal)**, expand the divisor by $100$ to $85$ and the dividend by $100$ to $765$, $765\div85=9$ knots. $\blacksquare$
+By **Definition 9.3.4 (Dividing by a Decimal)**, expand the divisor by $100$ to $85$ and the dividend by $100$ to $765$, $765\div85=9$ knots.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -50,7 +56,9 @@ By **Definition 9.3.4 (Dividing by a Decimal)**, expand the divisor by $100$ to 
 
 ### Solution to Exercise 4
 
-By **Definition 9.3.4 (一个数除以小数)**: $2.6\div0.34=260\div34\approx7.65$; $62.4\div2.6=624\div26=24$; $2.38\div0.34=238\div34=7$; $0.544\div0.16=54.4\div16=3.4$. $\blacksquare$
+By **Definition 9.3.4 (一个数除以小数)**: $2.6\div0.34=260\div34\approx7.65$; $62.4\div2.6=624\div26=24$; $2.38\div0.34=238\div34=7$; $0.544\div0.16=54.4\div16=3.4$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -58,7 +66,9 @@ By **Definition 9.3.4 (一个数除以小数)**: $2.6\div0.34=260\div34\approx7.
 
 ### Solution to Exercise 5
 
-By **Definition 9.3.4 (一个数除以小数)**, expand the divisor by $100$ to $28$ and the dividend by $100$ to $1260$ (pad $0$ at the end), $1260\div28=45$. $\blacksquare$
+By **Definition 9.3.4 (一个数除以小数)**, expand the divisor by $100$ to $28$ and the dividend by $100$ to $1260$ (pad $0$ at the end), $1260\div28=45$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -66,7 +76,9 @@ By **Definition 9.3.4 (一个数除以小数)**, expand the divisor by $100$ to 
 
 ### Solution to Exercise 6
 
-By **Definition 9.3.4 (一个数除以小数)**: $5.58\div3.1=1.8$; $0.84\div3.5=0.24$; $2.19\div0.3=7.3$; $7.05\div0.47=15$; $5.88\div0.56=10.5$; $25.6\div0.032=800$; $51.3\div0.27=190$; $260\div0.13=2000$. $\blacksquare$
+By **Definition 9.3.4 (一个数除以小数)**: $5.58\div3.1=1.8$; $0.84\div3.5=0.24$; $2.19\div0.3=7.3$; $7.05\div0.47=15$; $5.88\div0.56=10.5$; $25.6\div0.032=800$; $51.3\div0.27=190$; $260\div0.13=2000$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -74,7 +86,9 @@ By **Definition 9.3.4 (一个数除以小数)**: $5.58\div3.1=1.8$; $0.84\div3.5
 
 ### Solution to Exercise 7
 
-$6\div1.5=4$, $6\div1=6$, $6\div0.5=12$, $6\div0.2=30$; $1.2\div1.2=1$, $1.2\div1=1.2$, $1.2\div0.8=1.5$, $1.2\div0.2=6$; $49.5\div1.1=45$, $49.5\div1=49.5$, $49.5\div0.45=110$, $49.5\div0.3=165$. Pattern: divisor greater than $1$ gives a quotient smaller than the dividend, divisor equal to $1$ gives the dividend, divisor less than $1$ gives a quotient larger. $\blacksquare$
+$6\div1.5=4$, $6\div1=6$, $6\div0.5=12$, $6\div0.2=30$; $1.2\div1.2=1$, $1.2\div1=1.2$, $1.2\div0.8=1.5$, $1.2\div0.2=6$; $49.5\div1.1=45$, $49.5\div1=49.5$, $49.5\div0.45=110$, $49.5\div0.3=165$. Pattern: divisor greater than $1$ gives a quotient smaller than the dividend, divisor equal to $1$ gives the dividend, divisor less than $1$ gives a quotient larger.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -82,7 +96,9 @@ $6\div1.5=4$, $6\div1=6$, $6\div0.5=12$, $6\div0.2=30$; $1.2\div1.2=1$, $1.2\div
 
 ### Solution to Exercise 8
 
-By **Definition 9.3.4 (一个数除以小数)**: $4.68\div1.2=46.8\div12$; $2.38\div0.34=238\div34$; $5.2\div0.32=520\div32$; $161\div0.46=16100\div46$. $\blacksquare$
+By **Definition 9.3.4 (一个数除以小数)**: $4.68\div1.2=46.8\div12$; $2.38\div0.34=238\div34$; $5.2\div0.32=520\div32$; $161\div0.46=16100\div46$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -90,7 +106,9 @@ By **Definition 9.3.4 (一个数除以小数)**: $4.68\div1.2=46.8\div12$; $2.38
 
 ### Solution to Exercise 9
 
-By **Definition 9.3.4 (一个数除以小数)**: $5.98\div0.23=26$; $10.8\div4.5=2.4$; $19.76\div5.2=3.8$; $2.7\div7.5=0.36$; $21\div1.4=15$; $8.84\div1.7=5.2$; $15\div0.06=250$. $\blacksquare$
+By **Definition 9.3.4 (一个数除以小数)**: $5.98\div0.23=26$; $10.8\div4.5=2.4$; $19.76\div5.2=3.8$; $2.7\div7.5=0.36$; $21\div1.4=15$; $8.84\div1.7=5.2$; $15\div0.06=250$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -98,7 +116,9 @@ By **Definition 9.3.4 (一个数除以小数)**: $5.98\div0.23=26$; $10.8\div4.5
 
 ### Solution to Exercise 10
 
-By the invariant-quotient rule: $273\div13=21$; $27.3\div1.3=21$; $2730\div0.13=21000$ (note: the divisor $0.13$, not shrunk by $100$ like $13$, makes the quotient expand by $100$ to $2100$); by the table's correspondence, shrinking dividend and divisor by the same factor keeps the quotient unchanged. $\blacksquare$
+By the invariant-quotient rule: $273\div13=21$; $27.3\div1.3=21$; $2730\div0.13=21000$ (note: the divisor $0.13$, not shrunk by $100$ like $13$, makes the quotient expand by $100$ to $2100$); by the table's correspondence, shrinking dividend and divisor by the same factor keeps the quotient unchanged.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -106,7 +126,9 @@ By the invariant-quotient rule: $273\div13=21$; $27.3\div1.3=21$; $2730\div0.13=
 
 ### Solution to Exercise 11
 
-Length $=$ area $\div$ width $=68.4\div7.2=9.5$ m. $\blacksquare$
+Length $=$ area $\div$ width $=68.4\div7.2=9.5$ m.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -114,7 +136,9 @@ Length $=$ area $\div$ width $=68.4\div7.2=9.5$ m. $\blacksquare$
 
 ### Solution to Exercise 12
 
-$81\times0.5=40.5$; $81\div1.5=54$; $81\div0.5=162$; $81+1.5=82.5$. $\blacksquare$
+$81\times0.5=40.5$; $81\div1.5=54$; $81\div0.5=162$; $81+1.5=82.5$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -122,7 +146,9 @@ $81\times0.5=40.5$; $81\div1.5=54$; $81\div0.5=162$; $81+1.5=82.5$. $\blacksquar
 
 ### Solution to Exercise 13
 
-Combined speed $455\div3.5=130$ km/h. Car B $130-68=62$ km/h. $\blacksquare$
+Combined speed $455\div3.5=130$ km/h. Car B $130-68=62$ km/h.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -130,7 +156,9 @@ Combined speed $455\div3.5=130$ km/h. Car B $130-68=62$ km/h. $\blacksquare$
 
 ### Solution to Exercise 14
 
-(1) Divide by $2$ each time: $1.75\div2=0.875$, then $\div2=0.4375$, check $0.4375\div2=0.21875$. (2) Divide by $2.5$ each time: $2.5\div2.5=1$, $1\div2.5=0.4$, check $0.4\div2.5=0.16\neq0.064$, so continuing $\div2.5$: $0.4\div2.5=0.16$, then $\div2.5=0.064$; hence fill $1,0.4$. $\blacksquare$
+(1) Divide by $2$ each time: $1.75\div2=0.875$, then $\div2=0.4375$, check $0.4375\div2=0.21875$. (2) Divide by $2.5$ each time: $2.5\div2.5=1$, $1\div2.5=0.4$, check $0.4\div2.5=0.16\neq0.064$, so continuing $\div2.5$: $0.4\div2.5=0.16$, then $\div2.5=0.064$; hence fill $1,0.4$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -138,7 +166,9 @@ Combined speed $455\div3.5=130$ km/h. Car B $130-68=62$ km/h. $\blacksquare$
 
 ### Solution to Exercise 15
 
-By **Definition 9.3.5 (Approximate Value of a Quotient)**, per kg: $32\div2.7\approx11.85$ yuan (rounded to the fen). $2.7\div0.8=3.375$, so $3$ bottles can be filled; to pack all, use the "round up" method and prepare $4$ bottles. $\blacksquare$
+By **Definition 9.3.5 (Approximate Value of a Quotient)**, per kg: $32\div2.7\approx11.85$ yuan (rounded to the fen). $2.7\div0.8=3.375$, so $3$ bottles can be filled; to pack all, use the "round up" method and prepare $4$ bottles.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -146,4 +176,6 @@ By **Definition 9.3.5 (Approximate Value of a Quotient)**, per kg: $32\div2.7\ap
 
 ### Solution to Exercise 16
 
-By **Definition 9.3.5 (商的近似数)**, using the "round down" method, $25\div1.5=16.666\cdots$, so $16$ boxes can be wrapped. $\blacksquare$
+By **Definition 9.3.5 (商的近似数)**, using the "round down" method, $25\div1.5=16.666\cdots$, so $16$ boxes can be wrapped.
+
+$\blacksquare$

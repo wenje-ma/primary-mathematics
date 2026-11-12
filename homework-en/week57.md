@@ -42,7 +42,9 @@
 
 ### Solution to Exercise 1
 
-Xiaohong: $160-8=152$; Xiaoqiang jumped $180-152=28$ more than Xiaohong. $\blacksquare$
+Xiaohong: $160-8=152$; Xiaoqiang jumped $180-152=28$ more than Xiaohong.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -50,7 +52,9 @@ Xiaohong: $160-8=152$; Xiaoqiang jumped $180-152=28$ more than Xiaohong. $\black
 
 ### Solution to Exercise 2
 
-$\left(4+3\right)\times8=56$, and $56>50$, so they can finish. $\blacksquare$
+$\left(4+3\right)\times8=56$, and $56>50$, so they can finish.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -58,7 +62,9 @@ $\left(4+3\right)\times8=56$, and $56>50$, so they can finish. $\blacksquare$
 
 ### Solution to Exercise 3
 
-$\left(20-4\right)\div2=16\div2=8$. Xiaojun collected $8$. $\blacksquare$
+$\left(20-4\right)\div2=16\div2=8$. Xiaojun collected $8$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -66,7 +72,9 @@ $\left(20-4\right)\div2=16\div2=8$. Xiaojun collected $8$. $\blacksquare$
 
 ### Solution to Exercise 4
 
-Measure off the length of AB with the compass; on the straight line l, starting from C, step off the length of AB $3$ times to get CD, so that $CD=3AB$. $\blacksquare$
+Measure off the length of AB with the compass; on the straight line l, starting from C, step off the length of AB $3$ times to get CD, so that $CD=3AB$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -74,7 +82,9 @@ Measure off the length of AB with the compass; on the straight line l, starting 
 
 ### Solution to Exercise 5
 
-By **Definition 5.9.3 (常见的量与图形的整理)**, an acute angle opens narrower than a right angle, a right angle is compared with the triangular ruler, and an obtuse angle opens wider than a right angle. $\blacksquare$
+By **Definition 5.9.3 (常见的量与图形的整理)**, an acute angle opens narrower than a right angle, a right angle is compared with the triangular ruler, and an obtuse angle opens wider than a right angle.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -82,7 +92,9 @@ By **Definition 5.9.3 (常见的量与图形的整理)**, an acute angle opens n
 
 ### Solution to Exercise 6
 
-By **Definition 5.9.3 (Review of Common Measures and Figures)**, fill in the numbers according to the shape seen from each direction. $\blacksquare$
+By **Definition 5.9.3 (Review of Common Measures and Figures)**, fill in the numbers according to the shape seen from each direction.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -90,7 +102,9 @@ By **Definition 5.9.3 (Review of Common Measures and Figures)**, fill in the num
 
 ### Solution to Exercise 7
 
-One pineapple is $6\div3=2$ kilograms, one apple $2\div3$? According to the figure: watermelon $6$ kilograms, pineapple $6\div3=2$ kilograms, apple $2\div2=1$ kilogram. Fill in according to the correspondence in the figure. $\blacksquare$
+One pineapple is $6\div3=2$ kilograms, one apple $2\div3$? According to the figure: watermelon $6$ kilograms, pineapple $6\div3=2$ kilograms, apple $2\div2=1$ kilogram. Fill in according to the correspondence in the figure.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -98,7 +112,9 @@ One pineapple is $6\div3=2$ kilograms, one apple $2\div3$? According to the figu
 
 ### Solution to Exercise 8
 
-There are $4$ people, so a round trip is $4\times2=8$ tickets; $245\times8=1960$ yuan $<2000$ yuan, so it is enough. $\blacksquare$
+There are $4$ people, so a round trip is $4\times2=8$ tickets; $245\times8=1960$ yuan $<2000$ yuan, so it is enough.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -106,7 +122,9 @@ There are $4$ people, so a round trip is $4\times2=8$ tickets; $245\times8=1960$
 
 ### Solution to Exercise 9
 
-Xiaohong: $64\div8=8$ years old; Dad: $8\times4=32$ years old. $\blacksquare$
+Xiaohong: $64\div8=8$ years old; Dad: $8\times4=32$ years old.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -114,7 +132,9 @@ Xiaohong: $64\div8=8$ years old; Dad: $8\times4=32$ years old. $\blacksquare$
 
 ### Solution to Exercise 10
 
-Other waste: $90\div3\times2=60$ tons; recycled: $60\div2=30$ tons. $\blacksquare$
+Other waste: $90\div3\times2=60$ tons; recycled: $60\div2=30$ tons.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -122,7 +142,9 @@ Other waste: $90\div3\times2=60$ tons; recycled: $60\div2=30$ tons. $\blacksquar
 
 ### Solution to Exercise 11
 
-(1) Together they covered $\frac{2}{3}$ of the whole route, $18\div3\times2=12$ kilometers. (2) $10$ minutes covers $\frac{2}{3}$, so covering the whole route takes $10\div2\times3=15$ minutes; in another $15-10=5$ minutes they meet. $\blacksquare$
+(1) Together they covered $\frac{2}{3}$ of the whole route, $18\div3\times2=12$ kilometers. (2) $10$ minutes covers $\frac{2}{3}$, so covering the whole route takes $10\div2\times3=15$ minutes; in another $15-10=5$ minutes they meet.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -130,7 +152,9 @@ Other waste: $90\div3\times2=60$ tons; recycled: $60\div2=30$ tons. $\blacksquar
 
 ### Solution to Exercise 12
 
-(1) Options: all small boats, $28\div4=7$; $2$ large boats for $12$ people and $4$ small boats for $16$ people; $4$ large boats for $24$ people and $1$ small boat for $4$ people. (2) Per person, a large boat is $40\div6\approx7$ yuan and a small boat is $30\div4=7.5$ yuan, so rent as many large boats as possible: $4$ large and $1$ small gives $4\times40+30=190$ yuan, the cheapest. $\blacksquare$
+(1) Options: all small boats, $28\div4=7$; $2$ large boats for $12$ people and $4$ small boats for $16$ people; $4$ large boats for $24$ people and $1$ small boat for $4$ people. (2) Per person, a large boat is $40\div6\approx7$ yuan and a small boat is $30\div4=7.5$ yuan, so rent as many large boats as possible: $4$ large and $1$ small gives $4\times40+30=190$ yuan, the cheapest.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -138,7 +162,9 @@ Other waste: $90\div3\times2=60$ tons; recycled: $60\div2=30$ tons. $\blacksquar
 
 ### Solution to Exercise 13
 
-Originally planned: $300\times5=1500$; actually $350$ per day for $7$ days gives $350\times7=2450$; the additional order is $2450-1500=950$. $\blacksquare$
+Originally planned: $300\times5=1500$; actually $350$ per day for $7$ days gives $350\times7=2450$; the additional order is $2450-1500=950$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -146,7 +172,9 @@ Originally planned: $300\times5=1500$; actually $350$ per day for $7$ days gives
 
 ### Solution to Exercise 14
 
-By **Definition 5.4.1 (Equals of Equals are Equal)**, using the equal number of toothpastes on each layer: for example, on the first layer $1$ large $=1$ medium $+3$ small, and on the second layer $1$ large $=3$ medium, from which a large box is $300$ grams and a medium box $150$ grams. Calculate according to the correspondence in the figure. $\blacksquare$
+By **Definition 5.4.1 (Equals of Equals are Equal)**, using the equal number of toothpastes on each layer: for example, on the first layer $1$ large $=1$ medium $+3$ small, and on the second layer $1$ large $=3$ medium, from which a large box is $300$ grams and a medium box $150$ grams. Calculate according to the correspondence in the figure.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -154,7 +182,9 @@ By **Definition 5.4.1 (Equals of Equals are Equal)**, using the equal number of 
 
 ### Solution to Exercise 15
 
-By **Definition 5.9.4 (Matching Problems)**, each top pairs with $3$ bottoms, giving $2\times3=6$ outfits. $\blacksquare$
+By **Definition 5.9.4 (Matching Problems)**, each top pairs with $3$ bottoms, giving $2\times3=6$ outfits.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -162,7 +192,9 @@ By **Definition 5.9.4 (Matching Problems)**, each top pairs with $3$ bottoms, gi
 
 ### Solution to Exercise 16
 
-By **Definition 5.9.4 (搭配问题)**, there are two categories of transport, so use addition: $2+3=5$ choices. $\blacksquare$
+By **Definition 5.9.4 (搭配问题)**, there are two categories of transport, so use addition: $2+3=5$ choices.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -170,7 +202,9 @@ By **Definition 5.9.4 (搭配问题)**, there are two categories of transport, s
 
 ### Solution to Exercise 17
 
-Tens digit $2$: $25,27$; tens digit $5$: $52,57$; tens digit $7$: $72,75$. There are $6$ in total. $\blacksquare$
+Tens digit $2$: $25,27$; tens digit $5$: $52,57$; tens digit $7$: $72,75$. There are $6$ in total.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -178,7 +212,9 @@ Tens digit $2$: $25,27$; tens digit $5$: $52,57$; tens digit $7$: $72,75$. There
 
 ### Solution to Exercise 18
 
-With $4$ classes: the $1$ class plays the $2,3,4$ classes ($3$ matches), the $2$ class plays the $3,4$ classes ($2$ matches), the $3$ class plays the $4$ class ($1$ match), for a total of $3+2+1=6$ matches. $\blacksquare$
+With $4$ classes: the $1$ class plays the $2,3,4$ classes ($3$ matches), the $2$ class plays the $3,4$ classes ($2$ matches), the $3$ class plays the $4$ class ($1$ match), for a total of $3+2+1=6$ matches.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -186,7 +222,9 @@ With $4$ classes: the $1$ class plays the $2,3,4$ classes ($3$ matches), the $2$
 
 ### Solution to Exercise 19
 
-By **Definition 6.1.1 (Axisymmetric Figures and Axes of Symmetry)**, imagine folding each figure along a straight line; the ones whose two sides coincide completely are axisymmetric, so mark "√" after them; do not mark those that do not coincide. $\blacksquare$
+By **Definition 6.1.1 (Axisymmetric Figures and Axes of Symmetry)**, imagine folding each figure along a straight line; the ones whose two sides coincide completely are axisymmetric, so mark "√" after them; do not mark those that do not coincide.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -194,7 +232,9 @@ By **Definition 6.1.1 (Axisymmetric Figures and Axes of Symmetry)**, imagine fol
 
 ### Solution to Exercise 20
 
-By **Definition 6.1.1 (Axisymmetric Figures and Axes of Symmetry)**, a cut-out figure coincides on both sides when folded along the crease; so match each half-pattern with the complete figure it becomes when unfolded. $\blacksquare$
+By **Definition 6.1.1 (Axisymmetric Figures and Axes of Symmetry)**, a cut-out figure coincides on both sides when folded along the crease; so match each half-pattern with the complete figure it becomes when unfolded.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -202,7 +242,9 @@ By **Definition 6.1.1 (Axisymmetric Figures and Axes of Symmetry)**, a cut-out f
 
 ### Solution to Exercise 21
 
-By **Definition 6.1.2 (Translation)**, a phenomenon in which an object moves along a straight line without changing direction, shape or size is a translation, so mark "√" after it; turning about a point is not a translation. $\blacksquare$
+By **Definition 6.1.2 (Translation)**, a phenomenon in which an object moves along a straight line without changing direction, shape or size is a translation, so mark "√" after it; turning about a point is not a translation.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -210,7 +252,9 @@ By **Definition 6.1.2 (Translation)**, a phenomenon in which an object moves alo
 
 ### Solution to Exercise 22
 
-By **Definition 6.1.2 (Translation)**, translation does not change a figure's shape, size or orientation; so only the little houses that are exactly alike in shape, size and orientation can coincide through translation. Those with a different orientation must first be flipped and cannot coincide directly by translation. $\blacksquare$
+By **Definition 6.1.2 (Translation)**, translation does not change a figure's shape, size or orientation; so only the little houses that are exactly alike in shape, size and orientation can coincide through translation. Those with a different orientation must first be flipped and cannot coincide directly by translation.
+
+$\blacksquare$
 
 ## Exercise 23
 
@@ -218,7 +262,9 @@ By **Definition 6.1.2 (Translation)**, translation does not change a figure's sh
 
 ### Solution to Exercise 23
 
-By **Definition 6.1.2 (Translation)** and **Definition 6.1.3 (Rotation)**, moving along a straight line without changing direction is translation; turning about a point is rotation. Decide one by one which category each phenomenon belongs to. $\blacksquare$
+By **Definition 6.1.2 (Translation)** and **Definition 6.1.3 (Rotation)**, moving along a straight line without changing direction is translation; turning about a point is rotation. Decide one by one which category each phenomenon belongs to.
+
+$\blacksquare$
 
 ## Exercise 24
 
@@ -226,4 +272,6 @@ By **Definition 6.1.2 (Translation)** and **Definition 6.1.3 (Rotation)**, movin
 
 ### Solution to Exercise 24
 
-By **Definition 6.1.3 (Rotation)**, the top turns about its center point, and each point on it traces out a circle around the center; the farther a point is from the center, the larger the circle it traces. $\blacksquare$
+By **Definition 6.1.3 (Rotation)**, the top turns about its center point, and each point on it traces out a circle around the center; the farther a point is from the center, the larger the circle it traces.
+
+$\blacksquare$

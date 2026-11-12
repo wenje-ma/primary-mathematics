@@ -22,7 +22,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 5.2.1 (Combined Expressions and Same-Level Order)**: $32+47-28=51$; $95-48-15=32$; $87-13+56=130$; $2\times2\times5=20$; $42\div7\div2=3$; $64\div8\times7=56$. $\blacksquare$
+By **Definition 5.2.1 (Combined Expressions and Same-Level Order)**: $32+47-28=51$; $95-48-15=32$; $87-13+56=130$; $2\times2\times5=20$; $42\div7\div2=3$; $64\div8\times7=56$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -30,7 +32,9 @@ By **Definition 5.2.1 (Combined Expressions and Same-Level Order)**: $32+47-28=5
 
 ### Solution to Exercise 2
 
-By **Definition 5.2.2 (Multiply/Divide Before Add/Subtract)**: $114-4\times6=114-24=90$; $405+4\times7=405+28=433$; $63\div9+8\times4=7+32=39$; $72-81\div9=72-9=63$; $36\div6\times5=6\times5=30$; $5\times9+6\times8=45+48=93$. $\blacksquare$
+By **Definition 5.2.2 (Multiply/Divide Before Add/Subtract)**: $114-4\times6=114-24=90$; $405+4\times7=405+28=433$; $63\div9+8\times4=7+32=39$; $72-81\div9=72-9=63$; $36\div6\times5=6\times5=30$; $5\times9+6\times8=45+48=93$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -38,7 +42,9 @@ By **Definition 5.2.2 (Multiply/Divide Before Add/Subtract)**: $114-4\times6=114
 
 ### Solution to Exercise 3
 
-Science books $42-6=36$, in all $42+36=78$. Combined: $42+\left(42-6\right)=78$ books. $\blacksquare$
+Science books $42-6=36$, in all $42+36=78$. Combined: $42+\left(42-6\right)=78$ books.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -46,7 +52,9 @@ Science books $42-6=36$, in all $42+36=78$. Combined: $42+\left(42-6\right)=78$ 
 
 ### Solution to Exercise 4
 
-Compute along the arrows: $15-7=8$, $8+14=22$; $12\div3=4$, $4\times5=20$; $68\div4=17$, $17+15=32$; $30\times5=150$. $\blacksquare$
+Compute along the arrows: $15-7=8$, $8+14=22$; $12\div3=4$, $4\times5=20$; $68\div4=17$, $17+15=32$; $30\times5=150$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -54,7 +62,9 @@ Compute along the arrows: $15-7=8$, $8+14=22$; $12\div3=4$, $4\times5=20$; $68\d
 
 ### Solution to Exercise 5
 
-All wrong. By **Definition 5.2.1 (综合算式与同级运算顺序)** and **Definition 5.2.2 (先乘除后加减)**: $36-13+7=23+7=30$; $7+14\div7=7+2=9$; $18\div3\times3=6\times3=18$. $\blacksquare$
+All wrong. By **Definition 5.2.1 (综合算式与同级运算顺序)** and **Definition 5.2.2 (先乘除后加减)**: $36-13+7=23+7=30$; $7+14\div7=7+2=9$; $18\div3\times3=6\times3=18$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -62,7 +72,9 @@ All wrong. By **Definition 5.2.1 (综合算式与同级运算顺序)** and **Def
 
 ### Solution to Exercise 6
 
-$25+8\times4=25+32=57$ yuan. By **Definition 5.2.2 (Multiply/Divide Before Add/Subtract)**, first compute the $4$ small balls, then add the big ball. $\blacksquare$
+$25+8\times4=25+32=57$ yuan. By **Definition 5.2.2 (Multiply/Divide Before Add/Subtract)**, first compute the $4$ small balls, then add the big ball.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -70,7 +82,9 @@ $25+8\times4=25+32=57$ yuan. By **Definition 5.2.2 (Multiply/Divide Before Add/S
 
 ### Solution to Exercise 7
 
-Compute both sides: $15+25\div5=15+5=20>19$; $12+54\div6=12+9=21$, $21-5+7=23$, so $21<23$; $9\times7-53=63-53=10=10$; $24\div8\times3=9$, $32-24\div4=32-6=26$, so $9<26$. $\blacksquare$
+Compute both sides: $15+25\div5=15+5=20>19$; $12+54\div6=12+9=21$, $21-5+7=23$, so $21<23$; $9\times7-53=63-53=10=10$; $24\div8\times3=9$, $32-24\div4=32-6=26$, so $9<26$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -78,7 +92,9 @@ Compute both sides: $15+25\div5=15+5=20>19$; $12+54\div6=12+9=21$, $21-5+7=23$, 
 
 ### Solution to Exercise 8
 
-First: $43-36=7$, then $7-5=2$; per the flow in the picture, first $43$ minus $36$ gives $7$, then $\times6$ gives $42$; the second, per the flow's order, fill the number and write the combined expression. Combined, e.g. $\left(43-36\right)\times6=42$. $\blacksquare$
+First: $43-36=7$, then $7-5=2$; per the flow in the picture, first $43$ minus $36$ gives $7$, then $\times6$ gives $42$; the second, per the flow's order, fill the number and write the combined expression. Combined, e.g. $\left(43-36\right)\times6=42$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -86,7 +102,9 @@ First: $43-36=7$, then $7-5=2$; per the flow in the picture, first $43$ minus $3
 
 ### Solution to Exercise 9
 
-$238-\left(112+23\right)=238-135=103$; $4\times\left(49\div7\right)=4\times7=28$; $18\div6\times4=3\times4=12$; $\left(25+17\right)\div6=42\div6=7$; $160+5\times9=160+45=205$; $\left(387-323\right)\div8=64\div8=8$. $\blacksquare$
+$238-\left(112+23\right)=238-135=103$; $4\times\left(49\div7\right)=4\times7=28$; $18\div6\times4=3\times4=12$; $\left(25+17\right)\div6=42\div6=7$; $160+5\times9=160+45=205$; $\left(387-323\right)\div8=64\div8=8$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -94,7 +112,9 @@ $238-\left(112+23\right)=238-135=103$; $4\times\left(49\div7\right)=4\times7=28$
 
 ### Solution to Exercise 10
 
-$56-33-17=6$, $56-\left(33+17\right)=6$; $6\div3\div2=1$, $6\div\left(3\times2\right)=1$; $100-56-24=20$, $100-\left(56+24\right)=20$; $8\div2\div2=2$, $8\div\left(2\times2\right)=2$. Notice: subtracting two numbers in turn equals subtracting their sum; dividing by two numbers in turn equals dividing by their product. $\blacksquare$
+$56-33-17=6$, $56-\left(33+17\right)=6$; $6\div3\div2=1$, $6\div\left(3\times2\right)=1$; $100-56-24=20$, $100-\left(56+24\right)=20$; $8\div2\div2=2$, $8\div\left(2\times2\right)=2$. Notice: subtracting two numbers in turn equals subtracting their sum; dividing by two numbers in turn equals dividing by their product.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -102,7 +122,9 @@ $56-33-17=6$, $56-\left(33+17\right)=6$; $6\div3\div2=1$, $6\div\left(3\times2\r
 
 ### Solution to Exercise 11
 
-$7\times9-35=63-35=28$; $492-28=464$; $\left(42+14\right)-\left(15-3\right)=56-12=44$; $250-36\div6=250-6=244$. $\left(6+6\right)\div\left(16\div4\right)=12\div4=3$; $36\div3=12$; $\left(304-272\right)\div\left(83-76\right)=32\div7$; $14\div2=7$. $\blacksquare$
+$7\times9-35=63-35=28$; $492-28=464$; $\left(42+14\right)-\left(15-3\right)=56-12=44$; $250-36\div6=250-6=244$. $\left(6+6\right)\div\left(16\div4\right)=12\div4=3$; $36\div3=12$; $\left(304-272\right)\div\left(83-76\right)=32\div7$; $14\div2=7$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -110,7 +132,9 @@ $7\times9-35=63-35=28$; $492-28=464$; $\left(42+14\right)-\left(15-3\right)=56-1
 
 ### Solution to Exercise 12
 
-$4\times5+4\times3=20+12=32$, $4\times\left(5+3\right)=4\times8=32$; $2\times6+5\times6=12+30=42$, $\left(2+5\right)\times6=42$; $9\times9-9\times7=81-63=18$, $9\times\left(9-7\right)=9\times2=18$. Notice: when two multiply expressions are added (subtracted) and share a factor, add (subtract) the other two factors first, then multiply by the shared factor; the result is unchanged. $\blacksquare$
+$4\times5+4\times3=20+12=32$, $4\times\left(5+3\right)=4\times8=32$; $2\times6+5\times6=12+30=42$, $\left(2+5\right)\times6=42$; $9\times9-9\times7=81-63=18$, $9\times\left(9-7\right)=9\times2=18$. Notice: when two multiply expressions are added (subtracted) and share a factor, add (subtract) the other two factors first, then multiply by the shared factor; the result is unchanged.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -118,4 +142,6 @@ $4\times5+4\times3=20+12=32$, $4\times\left(5+3\right)=4\times8=32$; $2\times6+5
 
 ### Solution to Exercise 13
 
-(1) B is also $8$, sum is $8+8=16$. (2) B is $8+16=24$, sum is $8+24=32$. $\blacksquare$
+(1) B is also $8$, sum is $8+8=16$. (2) B is $8+16=24$, sum is $8+24=32$.
+
+$\blacksquare$

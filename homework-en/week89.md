@@ -46,7 +46,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 8.4.7 (Decimals and Unit Conversion)**: $1980\,\mathrm{kg}=1.98\,\mathrm{t}$; $7.5\,\mathrm{kg}=7500\,\mathrm{g}$; $120\,\mathrm{cm}=1.2\,\mathrm{m}$. $\blacksquare$
+By **Definition 8.4.7 (Decimals and Unit Conversion)**: $1980\,\mathrm{kg}=1.98\,\mathrm{t}$; $7.5\,\mathrm{kg}=7500\,\mathrm{g}$; $120\,\mathrm{cm}=1.2\,\mathrm{m}$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -54,7 +56,9 @@ By **Definition 8.4.7 (Decimals and Unit Conversion)**: $1980\,\mathrm{kg}=1.98\
 
 ### Solution to Exercise 2
 
-Compare after unifying units: $284\,\mathrm{g}=0.284\,\mathrm{kg}$, so $=$; $362\,\mathrm{cm}=3.62\,\mathrm{m}>3.61\,\mathrm{m}$; $1480\,\mathrm{m}=1.48\,\mathrm{m}<1.5\,\mathrm{km}$; $532\,\mathrm{cm}=5.32\,\mathrm{m}>5.3\,\mathrm{m}$. $\blacksquare$
+Compare after unifying units: $284\,\mathrm{g}=0.284\,\mathrm{kg}$, so $=$; $362\,\mathrm{cm}=3.62\,\mathrm{m}>3.61\,\mathrm{m}$; $1480\,\mathrm{m}=1.48\,\mathrm{m}<1.5\,\mathrm{km}$; $532\,\mathrm{cm}=5.32\,\mathrm{m}>5.3\,\mathrm{m}$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -62,7 +66,9 @@ Compare after unifying units: $284\,\mathrm{g}=0.284\,\mathrm{kg}$, so $=$; $362
 
 ### Solution to Exercise 3
 
-By **Definition 8.4.6 (Moving the Decimal Point)**, total price $=$ unit price $\times10$, $\times100$, $\times1000$, i.e. move the unit price's decimal point one, two, three places to the right. Calculate according to the actual textbook unit prices. $\blacksquare$
+By **Definition 8.4.6 (Moving the Decimal Point)**, total price $=$ unit price $\times10$, $\times100$, $\times1000$, i.e. move the unit price's decimal point one, two, three places to the right. Calculate according to the actual textbook unit prices.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -70,7 +76,9 @@ By **Definition 8.4.6 (Moving the Decimal Point)**, total price $=$ unit price $
 
 ### Solution to Exercise 4
 
-Unify into m/min: elephant $400$, hare $1200$, horse $1170$, cheetah $1850$. From fastest to slowest: cheetah, hare, horse, elephant. $\blacksquare$
+Unify into m/min: elephant $400$, hare $1200$, horse $1170$, cheetah $1850$. From fastest to slowest: cheetah, hare, horse, elephant.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -78,7 +86,9 @@ Unify into m/min: elephant $400$, hare $1200$, horse $1170$, cheetah $1850$. Fro
 
 ### Solution to Exercise 5
 
-By **Definition 8.4.7 (Decimals and Unit Conversion)**: $10909\,\mathrm{m}=10.909\,\mathrm{km}$; $8.2\,\mathrm{t}=8200\,\mathrm{kg}$; $42\,\mathrm{km}\,195\,\mathrm{m}=42.195\,\mathrm{km}$; $2150000\,\mathrm{kg}=2150\,\mathrm{t}$. $\blacksquare$
+By **Definition 8.4.7 (Decimals and Unit Conversion)**: $10909\,\mathrm{m}=10.909\,\mathrm{km}$; $8.2\,\mathrm{t}=8200\,\mathrm{kg}$; $42\,\mathrm{km}\,195\,\mathrm{m}=42.195\,\mathrm{km}$; $2150000\,\mathrm{kg}=2150\,\mathrm{t}$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -86,7 +96,9 @@ By **Definition 8.4.7 (Decimals and Unit Conversion)**: $10909\,\mathrm{m}=10.90
 
 ### Solution to Exercise 6
 
-$1$ minute $=60$ seconds, $340\times60=20400\,\mathrm{m}=20.4\,\mathrm{km}$. $\blacksquare$
+$1$ minute $=60$ seconds, $340\times60=20400\,\mathrm{m}=20.4\,\mathrm{km}$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -94,7 +106,9 @@ $1$ minute $=60$ seconds, $340\times60=20400\,\mathrm{m}=20.4\,\mathrm{km}$. $\b
 
 ### Solution to Exercise 7
 
-By **Definition 8.4.8 (Approximate Values of Decimals)**, round: (1) $0.256\approx0.26$; $12.006\approx12.01$; $1.0987\approx1.10$. (2) $3.72\approx3.7$; $0.58\approx0.6$; $9.0548\approx9.1$. $\blacksquare$
+By **Definition 8.4.8 (Approximate Values of Decimals)**, round: (1) $0.256\approx0.26$; $12.006\approx12.01$; $1.0987\approx1.10$. (2) $3.72\approx3.7$; $0.58\approx0.6$; $9.0548\approx9.1$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -102,7 +116,9 @@ By **Definition 8.4.8 (Approximate Values of Decimals)**, round: (1) $0.256\appr
 
 ### Solution to Exercise 8
 
-By **Definition 8.4.9 (Rewriting Larger Numbers in Units of Ten Thousand or Hundred Million)**: $89921000$ units $=8992.1$ ten thousand units; $184965000$ units $\approx1.85$ hundred million units. $\blacksquare$
+By **Definition 8.4.9 (Rewriting Larger Numbers in Units of Ten Thousand or Hundred Million)**: $89921000$ units $=8992.1$ ten thousand units; $184965000$ units $\approx1.85$ hundred million units.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -110,7 +126,9 @@ By **Definition 8.4.9 (Rewriting Larger Numbers in Units of Ten Thousand or Hund
 
 ### Solution to Exercise 9
 
-By **Definition 8.4.8 (Approximate Values of Decimals)**: $9.956\approx10,10.0,9.96$; $0.905\approx1,0.9,0.91$; $51.463\approx51,51.5,51.46$; $1.995\approx2,2.0,2.00$. $\blacksquare$
+By **Definition 8.4.8 (Approximate Values of Decimals)**: $9.956\approx10,10.0,9.96$; $0.905\approx1,0.9,0.91$; $51.463\approx51,51.5,51.46$; $1.995\approx2,2.0,2.00$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -118,7 +136,9 @@ By **Definition 8.4.8 (Approximate Values of Decimals)**: $9.956\approx10,10.0,9
 
 ### Solution to Exercise 10
 
-$5<5.28<6$, approximates $5$; $12<12.71<13$, approximates $13$; $4<4.86<5$, approximates $5$; $7<7.05<8$, approximates $7$. $\blacksquare$
+$5<5.28<6$, approximates $5$; $12<12.71<13$, approximates $13$; $4<4.86<5$, approximates $5$; $7<7.05<8$, approximates $7$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -126,7 +146,9 @@ $5<5.28<6$, approximates $5$; $12<12.71<13$, approximates $13$; $4<4.86<5$, appr
 
 ### Solution to Exercise 11
 
-By **Definition 8.4.9 (Rewriting in Units of Hundred Million)**: railways $36.6$ hundred million passenger-trips; highways $130.1$ hundred million; waterways $2.7$ hundred million; civil aviation $6.6$ hundred million. $\blacksquare$
+By **Definition 8.4.9 (Rewriting in Units of Hundred Million)**: railways $36.6$ hundred million passenger-trips; highways $130.1$ hundred million; waterways $2.7$ hundred million; civil aviation $6.6$ hundred million.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -134,7 +156,9 @@ By **Definition 8.4.9 (Rewriting in Units of Hundred Million)**: railways $36.6$
 
 ### Solution to Exercise 12
 
-By **Definition 8.4.9 (Rewriting)** and **Definition 8.4.8 (Approximate Values)**: $35990\,\mathrm{km^2}=3.599$ ten thousand $\approx3.60$ ten thousand $\mathrm{km^2}$; $33900\,\mathrm{km^2}=3.39$ ten thousand $\mathrm{km^2}$. $\blacksquare$
+By **Definition 8.4.9 (Rewriting)** and **Definition 8.4.8 (Approximate Values)**: $35990\,\mathrm{km^2}=3.599$ ten thousand $\approx3.60$ ten thousand $\mathrm{km^2}$; $33900\,\mathrm{km^2}=3.39$ ten thousand $\mathrm{km^2}$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -142,7 +166,9 @@ By **Definition 8.4.9 (Rewriting)** and **Definition 8.4.8 (Approximate Values)*
 
 ### Solution to Exercise 13
 
-By **Definition 8.4.8 (Approximate Values of Decimals)**: (1) $3.47\approx3.5$; $4.08\approx4.1$; $0.239\approx0.2$. (2) $5.344\approx5.34$; $6.268\approx6.27$; $0.402\approx0.40$. $\blacksquare$
+By **Definition 8.4.8 (Approximate Values of Decimals)**: (1) $3.47\approx3.5$; $4.08\approx4.1$; $0.239\approx0.2$. (2) $5.344\approx5.34$; $6.268\approx6.27$; $0.402\approx0.40$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -150,7 +176,9 @@ By **Definition 8.4.8 (Approximate Values of Decimals)**: (1) $3.47\approx3.5$; 
 
 ### Solution to Exercise 14
 
-(1) Wrong, $3.56\approx3.6$; (2) correct; (3) correct; (4) correct; (5) wrong, $0.596\approx0.60$. $\blacksquare$
+(1) Wrong, $3.56\approx3.6$; (2) correct; (3) correct; (4) correct; (5) wrong, $0.596\approx0.60$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -158,4 +186,6 @@ By **Definition 8.4.8 (Approximate Values of Decimals)**: (1) $3.47\approx3.5$; 
 
 ### Solution to Exercise 15
 
-By **Definition 8.4.9 (Rewriting Numbers)** and **Definition 8.4.8 (Approximation)**, $1443497378\approx14.4$ hundred million people. $\blacksquare$
+By **Definition 8.4.9 (Rewriting Numbers)** and **Definition 8.4.8 (Approximation)**, $1443497378\approx14.4$ hundred million people.
+
+$\blacksquare$

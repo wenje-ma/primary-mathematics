@@ -30,7 +30,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 3.7.4 (Finding the Quotient with the Rhymes of 7~9)**: $5\times7=35$, $6\times7=42$, $49\div7=7$, $40\div8=5$, $24\div8=3$, $8\times8=64$. $\blacksquare$
+By **Definition 3.7.4 (Finding the Quotient with the Rhymes of 7~9)**: $5\times7=35$, $6\times7=42$, $49\div7=7$, $40\div8=5$, $24\div8=3$, $8\times8=64$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -38,7 +40,9 @@ By **Definition 3.7.4 (Finding the Quotient with the Rhymes of 7~9)**: $5\times7
 
 ### Solution to Exercise 2
 
-By **Definition 3.7.4 (Finding the Quotient with the Rhymes of 7~9)**: $54\div9=6$, $54\div6=9$, and both use the rhyme "six nine fifty-four". $\blacksquare$
+By **Definition 3.7.4 (Finding the Quotient with the Rhymes of 7~9)**: $54\div9=6$, $54\div6=9$, and both use the rhyme "six nine fifty-four".
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -46,7 +50,9 @@ By **Definition 3.7.4 (Finding the Quotient with the Rhymes of 7~9)**: $54\div9=
 
 ### Solution to Exercise 3
 
-By **Definition 3.7.3 (Multiplication Rhymes of 9)** and **Definition 3.7.4 (用 7~9 的乘法口诀求商)**: $7\times9=63$, $63\div7=9$, $63\div9=7$ (seven nine sixty-three); $8\times9=72$, $72\div8=9$, $72\div9=8$ (eight nine seventy-two); $9\times3=27$, $27\div3=9$, $27\div9=3$ (three nine twenty-seven). $\blacksquare$
+By **Definition 3.7.3 (Multiplication Rhymes of 9)** and **Definition 3.7.4 (用 7~9 的乘法口诀求商)**: $7\times9=63$, $63\div7=9$, $63\div9=7$ (seven nine sixty-three); $8\times9=72$, $72\div8=9$, $72\div9=8$ (eight nine seventy-two); $9\times3=27$, $27\div3=9$, $27\div9=3$ (three nine twenty-seven).
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -54,7 +60,9 @@ By **Definition 3.7.3 (Multiplication Rhymes of 9)** and **Definition 3.7.4 (用
 
 ### Solution to Exercise 4
 
-$\div8$: $48\div8=6$, $16\div8=2$, $40\div8=5$, $24\div8=3$; $\div9$: $18\div9=2$, $36\div9=4$, $45\div9=5$, $27\div9=3$. $\blacksquare$
+$\div8$: $48\div8=6$, $16\div8=2$, $40\div8=5$, $24\div8=3$; $\div9$: $18\div9=2$, $36\div9=4$, $45\div9=5$, $27\div9=3$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -62,7 +70,9 @@ $\div8$: $48\div8=6$, $16\div8=2$, $40\div8=5$, $24\div8=3$; $\div9$: $18\div9=2
 
 ### Solution to Exercise 5
 
-By **Definition 3.7.5 (Two-Step Multiplication-Division Problems)**: (1) $4\times3=12$ (people); (2) $12\div2=6$ (cars). The result of the first question, $12$ people, is the given condition for the second. $\blacksquare$
+By **Definition 3.7.5 (Two-Step Multiplication-Division Problems)**: (1) $4\times3=12$ (people); (2) $12\div2=6$ (cars). The result of the first question, $12$ people, is the given condition for the second.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -70,7 +80,9 @@ By **Definition 3.7.5 (Two-Step Multiplication-Division Problems)**: (1) $4\time
 
 ### Solution to Exercise 6
 
-$42\div6=7$, $63\div9=7$, $18+9=27$, $45\div5=9$, $35-7=28$, $21\div3=7$, $48\div8=6$, $18\div2=9$, $49-30=19$, $36\div4=9$, $6\times8=48$, $56\div7=8$. $\blacksquare$
+$42\div6=7$, $63\div9=7$, $18+9=27$, $45\div5=9$, $35-7=28$, $21\div3=7$, $48\div8=6$, $18\div2=9$, $49-30=19$, $36\div4=9$, $6\times8=48$, $56\div7=8$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -78,7 +90,9 @@ $42\div6=7$, $63\div9=7$, $18+9=27$, $45\div5=9$, $35-7=28$, $21\div3=7$, $48\di
 
 ### Solution to Exercise 7
 
-$6\div3=2$, one rabbit jump equals $2$ frog jumps; $18\div3=6$, one kangaroo jump equals $6$ frog jumps; $18\times2=36$, $36\div6=6$, $2$ kangaroo jumps equal $6$ rabbit jumps. $6$ contains $2$ copies of $3$; $9$ contains $3$ copies of $3$; $18$ contains $6$ copies of $3$ and $3$ copies of $6$. $\blacksquare$
+$6\div3=2$, one rabbit jump equals $2$ frog jumps; $18\div3=6$, one kangaroo jump equals $6$ frog jumps; $18\times2=36$, $36\div6=6$, $2$ kangaroo jumps equal $6$ rabbit jumps. $6$ contains $2$ copies of $3$; $9$ contains $3$ copies of $3$; $18$ contains $6$ copies of $3$ and $3$ copies of $6$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -86,7 +100,9 @@ $6\div3=2$, one rabbit jump equals $2$ frog jumps; $18\div3=6$, one kangaroo jum
 
 ### Solution to Exercise 8
 
-By **Definition 3.7.5 (Two-Step Multiplication-Division Problems)**: first find the total $6\times4=24$ (pencils); then divide equally $24\div8=3$ (pencils). $\blacksquare$
+By **Definition 3.7.5 (Two-Step Multiplication-Division Problems)**: first find the total $6\times4=24$ (pencils); then divide equally $24\div8=3$ (pencils).
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -94,7 +110,9 @@ By **Definition 3.7.5 (Two-Step Multiplication-Division Problems)**: first find 
 
 ### Solution to Exercise 9
 
-(1) $36\div6=6$ (caterpillars). (2) $36\div4=9$ (caps). $\blacksquare$
+(1) $36\div6=6$ (caterpillars). (2) $36\div4=9$ (caps).
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -102,7 +120,9 @@ By **Definition 3.7.5 (Two-Step Multiplication-Division Problems)**: first find 
 
 ### Solution to Exercise 10
 
-Number of patterns: $63\div9=7$ (patterns). Changed to $8$ pots per pattern, $7$ patterns need $8\times7=56$ pots. So $7$ patterns are arranged, and $56$ pots are used in the end. $\blacksquare$
+Number of patterns: $63\div9=7$ (patterns). Changed to $8$ pots per pattern, $7$ patterns need $8\times7=56$ pots. So $7$ patterns are arranged, and $56$ pots are used in the end.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -110,7 +130,9 @@ Number of patterns: $63\div9=7$ (patterns). Changed to $8$ pots per pattern, $7$
 
 ### Solution to Exercise 11
 
-Pencil: $27\div9=3$ (yuan). Gel pen: $3+3=6$ (yuan). $\blacksquare$
+Pencil: $27\div9=3$ (yuan). Gel pen: $3+3=6$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -118,7 +140,9 @@ Pencil: $27\div9=3$ (yuan). Gel pen: $3+3=6$ (yuan). $\blacksquare$
 
 ### Solution to Exercise 12
 
-Quotient $9$: $81\div9=9$, $45\div5=9$, $36\div4=9$; quotient $7$: $21\div3=7$, $35\div5=7$, $42\div6=7$, $28\div4=7$, $14\div2=7$; quotient $8$: $64\div8=8$, $16\div2=8$, $32\div4=8$, $56\div7=8$. $\blacksquare$
+Quotient $9$: $81\div9=9$, $45\div5=9$, $36\div4=9$; quotient $7$: $21\div3=7$, $35\div5=7$, $42\div6=7$, $28\div4=7$, $14\div2=7$; quotient $8$: $64\div8=8$, $16\div2=8$, $32\div4=8$, $56\div7=8$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -126,7 +150,9 @@ Quotient $9$: $81\div9=9$, $45\div5=9$, $36\div4=9$; quotient $7$: $21\div3=7$, 
 
 ### Solution to Exercise 13
 
-Multiplication: $2\times8=16$, $4\times4=16$, $8\times2=16$, $1\times16=16$. Division: $16\div8=2$, $16\div4=4$, $16\div2=8$, $16\div1=16$. Notice: with the dividend unchanged, the larger the divisor, the smaller the quotient. $\blacksquare$
+Multiplication: $2\times8=16$, $4\times4=16$, $8\times2=16$, $1\times16=16$. Division: $16\div8=2$, $16\div4=4$, $16\div2=8$, $16\div1=16$. Notice: with the dividend unchanged, the larger the divisor, the smaller the quotient.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -134,7 +160,9 @@ Multiplication: $2\times8=16$, $4\times4=16$, $8\times2=16$, $1\times16=16$. Div
 
 ### Solution to Exercise 14
 
-Left group: from $\triangle\times6=48$, think "six eight forty-eight", $\triangle=8$; then from $8\times\square=56$, think "seven eight fifty-six", $\square=7$. Right group: from $\triangle+\triangle=18$, i.e. $2\times\triangle=18$, $\triangle=9$; then from $9+\square=27$, $\square=18$. $\blacksquare$
+Left group: from $\triangle\times6=48$, think "six eight forty-eight", $\triangle=8$; then from $8\times\square=56$, think "seven eight fifty-six", $\square=7$. Right group: from $\triangle+\triangle=18$, i.e. $2\times\triangle=18$, $\triangle=9$; then from $9+\square=27$, $\square=18$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -142,4 +170,6 @@ Left group: from $\triangle\times6=48$, think "six eight forty-eight", $\triangl
 
 ### Solution to Exercise 15
 
-By **Definition 3.7.6 (The Multiplication Rhyme Table)**: (1) $1+2+3+\cdots+9=45$ rhymes. (2) The white cells are the rhymes whose two factors are equal (one one is one, two two is four... nine nine eighty-one), $9$ rhymes in all, and their products are square numbers. (3) Add the swapped counterpart, such as "two one is two", "three one is three", "three two is six"; the big nine-nine has $81$ rhymes. $\blacksquare$
+By **Definition 3.7.6 (The Multiplication Rhyme Table)**: (1) $1+2+3+\cdots+9=45$ rhymes. (2) The white cells are the rhymes whose two factors are equal (one one is one, two two is four... nine nine eighty-one), $9$ rhymes in all, and their products are square numbers. (3) Add the swapped counterpart, such as "two one is two", "three one is three", "three two is six"; the big nine-nine has $81$ rhymes.
+
+$\blacksquare$

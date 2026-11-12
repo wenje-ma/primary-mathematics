@@ -38,7 +38,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 8.3.8 (Convenient Calculation)**, $225+328+175=\left(225+175\right)+328=400+328=728$ (yuan). $\blacksquare$
+By **Definition 8.3.8 (Convenient Calculation)**, $225+328+175=\left(225+175\right)+328=400+328=728$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -46,7 +48,9 @@ By **Definition 8.3.8 (Convenient Calculation)**, $225+328+175=\left(225+175\rig
 
 ### Solution to Exercise 2
 
-By **Definition 8.3.3 (Operation Property of Subtraction)**, $2000-416-284=2000-\left(416+284\right)=2000-700=1300$ ($\mathrm{m}$). $\blacksquare$
+By **Definition 8.3.3 (Operation Property of Subtraction)**, $2000-416-284=2000-\left(416+284\right)=2000-700=1300$ ($\mathrm{m}$).
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -54,7 +58,9 @@ By **Definition 8.3.3 (Operation Property of Subtraction)**, $2000-416-284=2000-
 
 ### Solution to Exercise 3
 
-Pairing by **Definition 8.3.1 (Commutative Law of Addition)**, the total number of logs $=$(number in the top layer $+$ number in the bottom layer) $\times$ number of layers $\div2$. Calculate according to the actual number of layers and the top/bottom counts in the figure. $\blacksquare$
+Pairing by **Definition 8.3.1 (Commutative Law of Addition)**, the total number of logs $=$(number in the top layer $+$ number in the bottom layer) $\times$ number of layers $\div2$. Calculate according to the actual number of layers and the top/bottom counts in the figure.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -62,7 +68,9 @@ Pairing by **Definition 8.3.1 (Commutative Law of Addition)**, the total number 
 
 ### Solution to Exercise 4
 
-(1) Pair the first and last: $\left(1+100\right)\times100\div2=5050$. (2) $\left(2+20\right)\times10\div2=110$. (3) $\left(5+100\right)\times20\div2=1050$. (4) Group in pairs: $\left(20-19\right)+\left(18-17\right)+\cdots+\left(2-1\right)=1\times10=10$. $\blacksquare$
+(1) Pair the first and last: $\left(1+100\right)\times100\div2=5050$. (2) $\left(2+20\right)\times10\div2=110$. (3) $\left(5+100\right)\times20\div2=1050$. (4) Group in pairs: $\left(20-19\right)+\left(18-17\right)+\cdots+\left(2-1\right)=1\times10=10$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -70,7 +78,9 @@ Pairing by **Definition 8.3.1 (Commutative Law of Addition)**, the total number 
 
 ### Solution to Exercise 5
 
-Grade 3: $36+37+34=107$ (people); Grade 4: $34+31+39=104$ (people); Grade 5: $35+36+35=106$ (people); Grade 6 Class 3: $108-38-32=38$ (people). $\blacksquare$
+Grade 3: $36+37+34=107$ (people); Grade 4: $34+31+39=104$ (people); Grade 5: $35+36+35=106$ (people); Grade 6 Class 3: $108-38-32=38$ (people).
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -78,7 +88,9 @@ Grade 3: $36+37+34=107$ (people); Grade 4: $34+31+39=104$ (people); Grade 5: $35
 
 ### Solution to Exercise 6
 
-On the second day she graded $22+8=30$ (essays), graded in total $22+30=52$ (essays), leaving $68-52=16$ (essays). $\blacksquare$
+On the second day she graded $22+8=30$ (essays), graded in total $22+30=52$ (essays), leaving $68-52=16$ (essays).
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -86,7 +98,9 @@ On the second day she graded $22+8=30$ (essays), graded in total $22+30=52$ (ess
 
 ### Solution to Exercise 7
 
-By **Definition 8.3.3 (Operation Property of Subtraction)**, $375-125-75=375-\left(125+75\right)=375-200=175$ (units). $\blacksquare$
+By **Definition 8.3.3 (Operation Property of Subtraction)**, $375-125-75=375-\left(125+75\right)=375-200=175$ (units).
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -94,7 +108,9 @@ By **Definition 8.3.3 (Operation Property of Subtraction)**, $375-125-75=375-\le
 
 ### Solution to Exercise 8
 
-By **Definition 8.3.2 (Associative Law of Addition)**, original price $=2255+355+245=2255+600=2855$ (yuan). $\blacksquare$
+By **Definition 8.3.2 (Associative Law of Addition)**, original price $=2255+355+245=2255+600=2855$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -102,7 +118,9 @@ By **Definition 8.3.2 (Associative Law of Addition)**, original price $=2255+355
 
 ### Solution to Exercise 9
 
-By **Definition 8.3.4 (Commutative Law of Multiplication)** and **Definition 8.3.5 (Associative Law of Multiplication)**: $12\times32=32\times12$; $30\times6\times7=30\times\left(6\times7\right)$; $125\times\left(8\times4\right)=\left(125\times8\right)\times4$; $108\times75=75\times108$. $\blacksquare$
+By **Definition 8.3.4 (Commutative Law of Multiplication)** and **Definition 8.3.5 (Associative Law of Multiplication)**: $12\times32=32\times12$; $30\times6\times7=30\times\left(6\times7\right)$; $125\times\left(8\times4\right)=\left(125\times8\right)\times4$; $108\times75=75\times108$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -110,7 +128,9 @@ By **Definition 8.3.4 (Commutative Law of Multiplication)** and **Definition 8.3
 
 ### Solution to Exercise 10
 
-By **Definition 8.3.6 (Distributive Law of Multiplication)**: $56\times\left(19+28\right)=56\times19+28$ is wrong, it should be $56\times19+56\times28$; $32\times\left(7\times3\right)=32\times7+32\times3$ is wrong, this is a continued product and should use the associative law $32\times7\times3$; $64\times64+36\times64=\left(64+36\right)\times64$ is correct. $\blacksquare$
+By **Definition 8.3.6 (Distributive Law of Multiplication)**: $56\times\left(19+28\right)=56\times19+28$ is wrong, it should be $56\times19+56\times28$; $32\times\left(7\times3\right)=32\times7+32\times3$ is wrong, this is a continued product and should use the associative law $32\times7\times3$; $64\times64+36\times64=\left(64+36\right)\times64$ is correct.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -118,7 +138,9 @@ By **Definition 8.3.6 (Distributive Law of Multiplication)**: $56\times\left(19+
 
 ### Solution to Exercise 11
 
-$12\times5=60$; $16\times5=80$; $35\times2=70$; $45\times2=90$; $24\times5=120$; $125\times8=1000$; $25\times4=100$; $25\times8=200$. $\blacksquare$
+$12\times5=60$; $16\times5=80$; $35\times2=70$; $45\times2=90$; $24\times5=120$; $125\times8=1000$; $25\times4=100$; $25\times8=200$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -126,4 +148,6 @@ $12\times5=60$; $16\times5=80$; $35\times2=70$; $45\times2=90$; $24\times5=120$;
 
 ### Solution to Exercise 12
 
-By **Definition 8.3.4 (Commutative Law of Multiplication)** and **Definition 8.3.5 (Associative Law of Multiplication)**: $15\times16=16\times15$; $\left(60\times25\right)\times8=60\times\left(25\times8\right)$; $25\times7\times4=25\times4\times7$; $125\times\left(8\times14\right)=\left(125\times8\right)\times14$; $3\times4\times8\times5=\left(3\times4\right)\times\left(8\times5\right)$. $\blacksquare$
+By **Definition 8.3.4 (Commutative Law of Multiplication)** and **Definition 8.3.5 (Associative Law of Multiplication)**: $15\times16=16\times15$; $\left(60\times25\right)\times8=60\times\left(25\times8\right)$; $25\times7\times4=25\times4\times7$; $125\times\left(8\times14\right)=\left(125\times8\right)\times14$; $3\times4\times8\times5=\left(3\times4\right)\times\left(8\times5\right)$.
+
+$\blacksquare$

@@ -26,7 +26,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**, those whose digit sum is a multiple of $3$: $75$ ($7+5=12$), $36$ ($9$), $3051$ ($9$), $99999$ ($45$), $111$ ($3$), $165$ ($12$), $7203$ ($12$). $\blacksquare$
+By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**, those whose digit sum is a multiple of $3$: $75$ ($7+5=12$), $36$ ($9$), $3051$ ($9$), $99999$ ($45$), $111$ ($3$), $165$ ($12$), $7203$ ($12$).
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -34,7 +36,9 @@ By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**, those whose digit
 
 ### Solution to Exercise 2
 
-By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**, the digit sum must be a multiple of $3$: $7\square$, $7+2=9$, choices $2,5,8$, $3$ ways; $44\square$, $8+1=9$, choices $1,4,7$, $3$ ways; $\square65$, $11+1=12$, choices $1,4,7$, $3$ ways; $12\square$, $3+0=3$, choices $0,3,6,9$, $4$ ways. $\blacksquare$
+By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**, the digit sum must be a multiple of $3$: $7\square$, $7+2=9$, choices $2,5,8$, $3$ ways; $44\square$, $8+1=9$, choices $1,4,7$, $3$ ways; $\square65$, $11+1=12$, choices $1,4,7$, $3$ ways; $12\square$, $3+0=3$, choices $0,3,6,9$, $4$ ways.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -42,7 +46,9 @@ By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**, the digit sum mus
 
 ### Solution to Exercise 3
 
-By **Definition 10.2.3 (Even and Odd Numbers)** and **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**: even multiples of $3$ are $6,12,18$ (i.e. multiples of $6$); odd multiples of $5$ are $5,15,25$ (numbers ending in $5$). $\blacksquare$
+By **Definition 10.2.3 (Even and Odd Numbers)** and **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**: even multiples of $3$ are $6,12,18$ (i.e. multiples of $6$); odd multiples of $5$ are $5,15,25$ (numbers ending in $5$).
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -50,7 +56,9 @@ By **Definition 10.2.3 (Even and Odd Numbers)** and **Definition 10.2.4 (Propert
 
 ### Solution to Exercise 4
 
-By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**: (1) the counted numbers are multiples of $5$, and the $12$th is $5\times12=60$; (2) these are all even, multiples of $2$; the $1$st is $100$, and the $15$th is $100-2\times14=72$. $\blacksquare$
+By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**: (1) the counted numbers are multiples of $5$, and the $12$th is $5\times12=60$; (2) these are all even, multiples of $2$; the $1$st is $100$, and the $15$th is $100-2\times14=72$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -58,7 +66,9 @@ By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**: (1) the counted n
 
 ### Solution to Exercise 5
 
-By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**, the calla lily and tulip unit prices are $10$ and $5$ yuan, so the cost of these two flowers must be a multiple of $5$; but $87$ ends in neither $0$ nor $5$, so it is not a multiple of $5$, and the clerk is wrong. $\blacksquare$
+By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**, the calla lily and tulip unit prices are $10$ and $5$ yuan, so the cost of these two flowers must be a multiple of $5$; but $87$ ends in neither $0$ nor $5$, so it is not a multiple of $5$, and the clerk is wrong.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -66,7 +76,9 @@ By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**, the calla lily an
 
 ### Solution to Exercise 6
 
-By **Definition 10.2.3 (Even and Odd Numbers)** and **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**: (1) Wrong; multiples of $3$ depend on the digit sum, e.g. $13$ ends in $3$ but is not a multiple of $3$. (2) Correct; numbers ending in $1,3,5,7,9$ are not multiples of $2$. (3) Correct; integers split into odd and even by whether they are multiples of $2$. $\blacksquare$
+By **Definition 10.2.3 (Even and Odd Numbers)** and **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**: (1) Wrong; multiples of $3$ depend on the digit sum, e.g. $13$ ends in $3$ but is not a multiple of $3$. (2) Correct; numbers ending in $1,3,5,7,9$ are not multiples of $2$. (3) Correct; integers split into odd and even by whether they are multiples of $2$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -74,7 +86,9 @@ By **Definition 10.2.3 (Even and Odd Numbers)** and **Definition 10.2.4 (Propert
 
 ### Solution to Exercise 7
 
-By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**, find what to add to $22$ to make a multiple of $3$: $22+2=24$, $24\div3=8$, so at least $2$ more students. $\blacksquare$
+By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**, find what to add to $22$ to make a multiple of $3$: $22+2=24$, $24\div3=8$, so at least $2$ more students.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -82,7 +96,9 @@ By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**, find what to add 
 
 ### Solution to Exercise 8
 
-By **Definition 10.2.3 (Even and Odd Numbers)** and **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**: odd e.g. $403,405,305$; even e.g. $430,340,450$; multiples of $2$ are the evens; multiples of $5$ e.g. $430,435,340$; multiples of $3$ (digit sum multiple of $3$; choose $4,5,0$ or $4,5,3$) e.g. $405,450,345$; multiples of both $2$ and $3$ e.g. $450,504,540$. $\blacksquare$
+By **Definition 10.2.3 (Even and Odd Numbers)** and **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**: odd e.g. $403,405,305$; even e.g. $430,340,450$; multiples of $2$ are the evens; multiples of $5$ e.g. $430,435,340$; multiples of $3$ (digit sum multiple of $3$; choose $4,5,0$ or $4,5,3$) e.g. $405,450,345$; multiples of both $2$ and $3$ e.g. $450,504,540$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -90,7 +106,9 @@ By **Definition 10.2.3 (Even and Odd Numbers)** and **Definition 10.2.4 (Propert
 
 ### Solution to Exercise 9
 
-By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**: (1) Since $4$ is a multiple of $2$, every multiple of $4$ is a multiple of $2$; (2) You cannot tell from the units digit alone; look at the last two digits (a number whose last two digits form a multiple of $4$ is itself a multiple of $4$). $\blacksquare$
+By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**: (1) Since $4$ is a multiple of $2$, every multiple of $4$ is a multiple of $2$; (2) You cannot tell from the units digit alone; look at the last two digits (a number whose last two digits form a multiple of $4$ is itself a multiple of $4$).
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -98,7 +116,9 @@ By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**: (1) Since $4$ is 
 
 ### Solution to Exercise 10
 
-By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**: (1) a multiple of $2,5,3$ at once is a multiple of $30$, so the smallest two-digit is $30$; (2) a multiple of $2,3$ at once is a multiple of $6$, so the smallest three-digit is $102$ and the largest three-digit is $996$. $\blacksquare$
+By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**: (1) a multiple of $2,5,3$ at once is a multiple of $30$, so the smallest two-digit is $30$; (2) a multiple of $2,3$ at once is a multiple of $6$, so the smallest three-digit is $102$ and the largest three-digit is $996$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -106,7 +126,9 @@ By **Definition 10.2.4 (Properties of Multiples of 2, 5, 3)**: (1) a multiple of
 
 ### Solution to Exercise 11
 
-By **Definition 10.2.3 (Even and Odd Numbers)** and **Definition 10.2.5 (Prime and Composite Numbers)**: (1) Wrong; $9,15$ are odd but not prime. (2) Wrong; $2$ is even but prime. (3) Wrong; $1$ is neither prime nor composite. (4) Wrong; e.g. $2+3=5$ is odd. $\blacksquare$
+By **Definition 10.2.3 (Even and Odd Numbers)** and **Definition 10.2.5 (Prime and Composite Numbers)**: (1) Wrong; $9,15$ are odd but not prime. (2) Wrong; $2$ is even but prime. (3) Wrong; $1$ is neither prime nor composite. (4) Wrong; e.g. $2+3=5$ is odd.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -114,7 +136,9 @@ By **Definition 10.2.3 (Even and Odd Numbers)** and **Definition 10.2.5 (Prime a
 
 ### Solution to Exercise 12
 
-By **Definition 10.2.5 (Prime and Composite Numbers)** and **Definition 10.2.3 (Even and Odd Numbers)**: primes are $37,41,61,73,83,11,47$; composites are $27,58,95,57,62,87,14,33,99$; odd are $27,37,41,61,73,83,95,11,47,57,87,33,99$; even are $58,62,14$. $\blacksquare$
+By **Definition 10.2.5 (Prime and Composite Numbers)** and **Definition 10.2.3 (Even and Odd Numbers)**: primes are $37,41,61,73,83,11,47$; composites are $27,58,95,57,62,87,14,33,99$; odd are $27,37,41,61,73,83,95,11,47,57,87,33,99$; even are $58,62,14$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -122,7 +146,9 @@ By **Definition 10.2.5 (Prime and Composite Numbers)** and **Definition 10.2.3 (
 
 ### Solution to Exercise 13
 
-By **Definition 10.2.5 (Prime and Composite Numbers)**: (1) $3+7=10$, $3\times7=21$, so $3$ and $7$; (2) $7+13=20$, $7\times13=91$, so $7$ and $13$; (3) the smallest prime is $2$; (4) the smallest composite is $4$. $\blacksquare$
+By **Definition 10.2.5 (Prime and Composite Numbers)**: (1) $3+7=10$, $3\times7=21$, so $3$ and $7$; (2) $7+13=20$, $7\times13=91$, so $7$ and $13$; (3) the smallest prime is $2$; (4) the smallest composite is $4$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -130,7 +156,9 @@ By **Definition 10.2.5 (Prime and Composite Numbers)**: (1) $3+7=10$, $3\times7=
 
 ### Solution to Exercise 14
 
-By **Definition 10.2.3 (Even and Odd Numbers)**: odd$\times$odd, neither factor is a multiple of $2$, so the product is not a multiple of $2$, i.e. odd; odd$\times$even, one factor is even, so the product is a multiple of $2$, i.e. even; even$\times$even, both factors contain $2$, so the product is a multiple of $2$, i.e. even. $\blacksquare$
+By **Definition 10.2.3 (Even and Odd Numbers)**: odd$\times$odd, neither factor is a multiple of $2$, so the product is not a multiple of $2$, i.e. odd; odd$\times$even, one factor is even, so the product is a multiple of $2$, i.e. even; even$\times$even, both factors contain $2$, so the product is a multiple of $2$, i.e. even.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -138,4 +166,6 @@ By **Definition 10.2.3 (Even and Odd Numbers)**: odd$\times$odd, neither factor 
 
 ### Solution to Exercise 15
 
-By **Definition 10.2.3 (Even and Odd Numbers)**, since $30$ is even and odd$+$odd$=$even and even$+$even$=$even: if team A is odd, team B is also odd; if team A is even, team B is also even. $\blacksquare$
+By **Definition 10.2.3 (Even and Odd Numbers)**, since $30$ is even and odd$+$odd$=$even and even$+$even$=$even: if team A is odd, team B is also odd; if team A is even, team B is also even.
+
+$\blacksquare$

@@ -22,7 +22,7 @@
 
 > **定义 11.9.1 (鸽巢原理, 抽屉原理)**
 > 
-> 把 $m$ 个物体任意分放进 $n$ 个抽屉 ($m>{}n$), 那么一定有一个抽屉里至少放了 $\lceil\frac{m}{n}\rceil$ 个物体. 计算方法: $m\div{n}=q\cdots\cdots{r}$, 当 $r>0$ 时至少 $q+1$ 个, 当 $r=0$ 时至少 $q$ 个.
+> 把 $m$ 个物体任意分放进 $n$ 个抽屉 ($m>n$), 那么一定有一个抽屉里至少放了 $\lceil\frac{m}{n}\rceil$ 个物体. 计算方法: $m\div{n}=q\cdots\cdots{r}$, 当 $r>0$ 时至少 $q+1$ 个, 当 $r=0$ 时至少 $q$ 个.
 
 ## 练习一
 
@@ -30,7 +30,9 @@
 
 ### 解答 练习一
 
-$7600\times0.9\times0.9=6156$ (元). $\blacksquare$
+$7600\times0.9\times0.9=6156$ (元).
+
+$\blacksquare$
 
 ## 练习二
 
@@ -38,7 +40,9 @@ $7600\times0.9\times0.9=6156$ (元). $\blacksquare$
 
 ### 解答 练习二
 
-七折 $=$ 原价 $\times70\%$; 二成 $=20\%$, 今年 $1500\times1.2=1800\;\text{kg}$; 增值税 $30\times3\%=0.9$ (万元); 利息 $8000\times2.10\%\times2=336$ (元). $\blacksquare$
+七折 $=$ 原价 $\times70\%$; 二成 $=20\%$, 今年 $1500\times1.2=1800\;\text{kg}$; 增值税 $30\times3\%=0.9$ (万元); 利息 $8000\times2.10\%\times2=336$ (元).
+
+$\blacksquare$
 
 ## 练习三
 
@@ -46,7 +50,9 @@ $7600\times0.9\times0.9=6156$ (元). $\blacksquare$
 
 ### 解答 练习三
 
-打折后 $120\times85\%=102$ (元); 增值税 $6800\times3\%=204$ (元). $\blacksquare$
+打折后 $120\times85\%=102$ (元); 增值税 $6800\times3\%=204$ (元).
+
+$\blacksquare$
 
 ## 练习四
 
@@ -54,7 +60,9 @@ $7600\times0.9\times0.9=6156$ (元). $\blacksquare$
 
 ### 解答 练习四
 
-$80\times65\%=52$ 元; $120\times70\%=84$ 元; $60\times88\%=52.8$ 元. $\blacksquare$
+$80\times65\%=52$ 元; $120\times70\%=84$ 元; $60\times88\%=52.8$ 元.
+
+$\blacksquare$
 
 ## 练习五
 
@@ -62,7 +70,9 @@ $80\times65\%=52$ 元; $120\times70\%=84$ 元; $60\times88\%=52.8$ 元. $\blacks
 
 ### 解答 练习五
 
-$240\times\left(1+15\%\right)=276$ (万吨). $\blacksquare$
+$240\times\left(1+15\%\right)=276$ (万吨).
+
+$\blacksquare$
 
 ## 练习六
 
@@ -70,7 +80,9 @@ $240\times\left(1+15\%\right)=276$ (万吨). $\blacksquare$
 
 ### 解答 练习六
 
-由**定义 11.7.4 (税率与利率)**: $3000\times3\%=90$ (万元). $\blacksquare$
+由**定义 11.7.4 (税率与利率)**: $3000\times3\%=90$ (万元).
+
+$\blacksquare$
 
 ## 练习七
 
@@ -78,7 +90,9 @@ $240\times\left(1+15\%\right)=276$ (万吨). $\blacksquare$
 
 ### 解答 练习七
 
-利息 $=6000\times2.25\%\times2=270$ (元); 一共取回 $6000+270=6270$ (元). $\blacksquare$
+利息 $=6000\times2.25\%\times2=270$ (元); 一共取回 $6000+270=6270$ (元).
+
+$\blacksquare$
 
 ## 练习八
 
@@ -86,7 +100,9 @@ $240\times\left(1+15\%\right)=276$ (万吨). $\blacksquare$
 
 ### 解答 练习八
 
-由杠杆平衡, 重量与长度成反比, $100\times2500=100\times{x}$, 得 $x=2500\;\text{mm}$ (即同样 $100\;\text{g}$ 对应 $2500\;\text{mm}$). $\blacksquare$
+由杠杆平衡, 重量与长度成反比, $100\times2500=100\times{x}$, 得 $x=2500\;\text{mm}$ (即同样 $100\;\text{g}$ 对应 $2500\;\text{mm}$).
+
+$\blacksquare$
 
 ## 练习九
 
@@ -94,7 +110,9 @@ $240\times\left(1+15\%\right)=276$ (万吨). $\blacksquare$
 
 ### 解答 练习九
 
-一般家庭每月用水约 $8\sim15\;\text{m}^3$, 水费按每吨水若干元乘以用水量计算, 如每吨 $4$ 元, 用水 $10\;\text{m}^3$ 应交 $40$ 元. $\blacksquare$
+一般家庭每月用水约 $8\sim15\;\text{m}^3$, 水费按每吨水若干元乘以用水量计算, 如每吨 $4$ 元, 用水 $10\;\text{m}^3$ 应交 $40$ 元.
+
+$\blacksquare$
 
 ## 练习十
 
@@ -102,7 +120,9 @@ $240\times\left(1+15\%\right)=276$ (万吨). $\blacksquare$
 
 ### 解答 练习十
 
-由**定义 11.8.1 (用水量推算)**: 1 小时 $50\times60=3000\;\text{mL}=3\;\text{L}$; 1 天 $3\times24=72\;\text{L}$. $\blacksquare$
+由**定义 11.8.1 (用水量推算)**: 1 小时 $50\times60=3000\;\text{mL}=3\;\text{L}$; 1 天 $3\times24=72\;\text{L}$.
+
+$\blacksquare$
 
 ## 练习十一
 
@@ -110,7 +130,9 @@ $240\times\left(1+15\%\right)=276$ (万吨). $\blacksquare$
 
 ### 解答 练习十一
 
-一年 $72\times365=26280\;\text{L}=26.28\;\text{m}^3$. $26.28\div10\approx2.6$ (个月). $\blacksquare$
+一年 $72\times365=26280\;\text{L}=26.28\;\text{m}^3$. $26.28\div10\approx2.6$ (个月).
+
+$\blacksquare$
 
 ## 练习十二
 
@@ -118,7 +140,9 @@ $240\times\left(1+15\%\right)=276$ (万吨). $\blacksquare$
 
 ### 解答 练习十二
 
-由**定义 11.8.1 (用水量推算)**, 全校月用水量 $\div$ 在校天数 $\div$ 师生人数即每人每天用水量. 一般学校人均每天约 $20\sim50\;\text{L}$. $\blacksquare$
+由**定义 11.8.1 (用水量推算)**, 全校月用水量 $\div$ 在校天数 $\div$ 师生人数即每人每天用水量. 一般学校人均每天约 $20\sim50\;\text{L}$.
+
+$\blacksquare$
 
 ## 练习十三
 
@@ -126,7 +150,9 @@ $240\times\left(1+15\%\right)=276$ (万吨). $\blacksquare$
 
 ### 解答 练习十三
 
-随手关紧水龙头; 用洗菜水浇花冲厕所; 洗澡缩短时间; 维修漏水管道; 用洗衣机漂洗最后一遍水拖地. $\blacksquare$
+随手关紧水龙头; 用洗菜水浇花冲厕所; 洗澡缩短时间; 维修漏水管道; 用洗衣机漂洗最后一遍水拖地.
+
+$\blacksquare$
 
 ## 练习十四
 
@@ -134,7 +160,9 @@ $240\times\left(1+15\%\right)=276$ (万吨). $\blacksquare$
 
 ### 解答 练习十四
 
-$125\times\left(1-\frac{1}{5}\right)=125\times\frac{4}{5}=100$ (元). $\blacksquare$
+$125\times\left(1-\frac{1}{5}\right)=125\times\frac{4}{5}=100$ (元).
+
+$\blacksquare$
 
 ## 练习十五
 
@@ -142,7 +170,9 @@ $125\times\left(1-\frac{1}{5}\right)=125\times\frac{4}{5}=100$ (元). $\blacksqu
 
 ### 解答 练习十五
 
-$100\div\left(1-\frac{1}{5}\right)=100\div\frac{4}{5}=125$ (元). $\blacksquare$
+$100\div\left(1-\frac{1}{5}\right)=100\div\frac{4}{5}=125$ (元).
+
+$\blacksquare$
 
 ## 练习十六
 
@@ -150,7 +180,9 @@ $100\div\left(1-\frac{1}{5}\right)=100\div\frac{4}{5}=125$ (元). $\blacksquare$
 
 ### 解答 练习十六
 
-$125\times\left(1-20\%\right)=125\times0.8=100$ (元). $\blacksquare$
+$125\times\left(1-20\%\right)=125\times0.8=100$ (元).
+
+$\blacksquare$
 
 ## 练习十七
 
@@ -158,7 +190,9 @@ $125\times\left(1-20\%\right)=125\times0.8=100$ (元). $\blacksquare$
 
 ### 解答 练习十七
 
-$100\div\left(1-20\%\right)=100\div0.8=125$ (元). $\blacksquare$
+$100\div\left(1-20\%\right)=100\div0.8=125$ (元).
+
+$\blacksquare$
 
 ## 练习十八
 
@@ -166,7 +200,9 @@ $100\div\left(1-20\%\right)=100\div0.8=125$ (元). $\blacksquare$
 
 ### 解答 练习十八
 
-长裤 $=100\times1.5=150$ 元; 皮鞋 $=150\div\frac{5}{6}=180$ (元). $\blacksquare$
+长裤 $=100\times1.5=150$ 元; 皮鞋 $=150\div\frac{5}{6}=180$ (元).
+
+$\blacksquare$
 
 ## 练习十九
 
@@ -174,7 +210,9 @@ $100\div\left(1-20\%\right)=100\div0.8=125$ (元). $\blacksquare$
 
 ### 解答 练习十九
 
-$C=2\times3.14\times1=6.28\;\text{km}$. $\blacksquare$
+$C=2\times3.14\times1=6.28\;\text{km}$.
+
+$\blacksquare$
 
 ## 练习二十
 
@@ -182,7 +220,9 @@ $C=2\times3.14\times1=6.28\;\text{km}$. $\blacksquare$
 
 ### 解答 练习二十
 
-北门在南门正北方向, 距离等于直径 $2\;\text{km}$. $\blacksquare$
+北门在南门正北方向, 距离等于直径 $2\;\text{km}$.
+
+$\blacksquare$
 
 ## 练习二十一
 
@@ -190,7 +230,9 @@ $C=2\times3.14\times1=6.28\;\text{km}$. $\blacksquare$
 
 ### 解答 练习二十一
 
-$3.14\times\left(1^2-0.2^2\right)=3.14\times0.96=3.0144\;\text{km}^2$. $\blacksquare$
+$3.14\times\left(1^2-0.2^2\right)=3.14\times0.96=3.0144\;\text{km}^2$.
+
+$\blacksquare$
 
 ## 练习二十二
 
@@ -198,7 +240,9 @@ $3.14\times\left(1^2-0.2^2\right)=3.14\times0.96=3.0144\;\text{km}^2$. $\blacksq
 
 ### 解答 练习二十二
 
-水泥路是相邻门之间的弦, 四个门在圆上且相邻距离相等, 把圆 $4$ 等份. $\blacksquare$
+水泥路是相邻门之间的弦, 四个门在圆上且相邻距离相等, 把圆 $4$ 等份.
+
+$\blacksquare$
 
 ## 练习二十三
 
@@ -206,4 +250,6 @@ $3.14\times\left(1^2-0.2^2\right)=3.14\times0.96=3.0144\;\text{km}^2$. $\blacksq
 
 ### 解答 练习二十三
 
-A 套餐总满意 $600\times60\%+400\times50\%=360+200=560$, 满意 $56\%<60\%$; B $=330+280=610$, 满意 $61\%$; C $=390+220=610$, 满意 $61\%$. 故 A 套餐需要调整. $\blacksquare$
+A 套餐总满意 $600\times60\%+400\times50\%=360+200=560$, 满意 $56\%<60\%$; B $=330+280=610$, 满意 $61\%$; C $=390+220=610$, 满意 $61\%$. 故 A 套餐需要调整.
+
+$\blacksquare$

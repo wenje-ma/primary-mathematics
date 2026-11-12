@@ -18,7 +18,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 2.2.1 (Ten-Something Minus $9$)**, think addition to do subtraction: $9+4=13$, $9+5=14$, so $13-9=4$, $14-9=5$. $\blacksquare$
+By **Definition 2.2.1 (Ten-Something Minus $9$)**, think addition to do subtraction: $9+4=13$, $9+5=14$, so $13-9=4$, $14-9=5$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -26,7 +28,9 @@ By **Definition 2.2.1 (Ten-Something Minus $9$)**, think addition to do subtract
 
 ### Solution to Exercise 2
 
-By **Definition 2.2.1 (Ten-Something Minus $9$)**: $12-9=3$, $19-9=10$, $11-9=2$, $18-9=9$. $\blacksquare$
+By **Definition 2.2.1 (Ten-Something Minus $9$)**: $12-9=3$, $19-9=10$, $11-9=2$, $18-9=9$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -34,7 +38,9 @@ By **Definition 2.2.1 (Ten-Something Minus $9$)**: $12-9=3$, $19-9=10$, $11-9=2$
 
 ### Solution to Exercise 3
 
-By **Definition 2.2.1 (Ten-Something Minus $9$)**: $17-9=8$, $14-9=5$. $\blacksquare$
+By **Definition 2.2.1 (Ten-Something Minus $9$)**: $17-9=8$, $14-9=5$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -42,7 +48,9 @@ By **Definition 2.2.1 (Ten-Something Minus $9$)**: $17-9=8$, $14-9=5$. $\blacksq
 
 ### Solution to Exercise 4
 
-By **Definition 2.2.1 (Ten-Something Minus $9$)**: $13-9=4$, $15-9=6$, $16-9=7$, $11-9=2$, $18-9=9$, $12-9=3$; connect each expression to its result. $\blacksquare$
+By **Definition 2.2.1 (Ten-Something Minus $9$)**: $13-9=4$, $15-9=6$, $16-9=7$, $11-9=2$, $18-9=9$, $12-9=3$; connect each expression to its result.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -50,7 +58,9 @@ By **Definition 2.2.1 (Ten-Something Minus $9$)**: $13-9=4$, $15-9=6$, $16-9=7$,
 
 ### Solution to Exercise 5
 
-Following "think addition to do subtraction," by **Definition 2.2.1 (Ten-Something Minus $9$)**, fill in the corresponding addition and subtraction expressions as in the example. $\blacksquare$
+Following "think addition to do subtraction," by **Definition 2.2.1 (Ten-Something Minus $9$)**, fill in the corresponding addition and subtraction expressions as in the example.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -58,7 +68,9 @@ Following "think addition to do subtraction," by **Definition 2.2.1 (Ten-Somethi
 
 ### Solution to Exercise 6
 
-By **Definition 2.2.1 (Ten-Something Minus $9$)**, subtract $9$ from each number in the grid; e.g. $11-9=2$, $12-9=3$, $13-9=4$, $14-9=5$, $15-9=6$, $16-9=7$, $17-9=8$, $18-9=9$, $19-9=10$. $\blacksquare$
+By **Definition 2.2.1 (Ten-Something Minus $9$)**, subtract $9$ from each number in the grid; e.g. $11-9=2$, $12-9=3$, $13-9=4$, $14-9=5$, $15-9=6$, $16-9=7$, $17-9=8$, $18-9=9$, $19-9=10$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -66,7 +78,9 @@ By **Definition 2.2.1 (Ten-Something Minus $9$)**, subtract $9$ from each number
 
 ### Solution to Exercise 7
 
-By **Definition 2.2.2 (Regrouping Subtraction)**, calculate from left to right: $17-9+2=10$, $6+4-9=1$, $12-9-3=0$, $7+8-9=6$, $19-9-6=4$, $18-5-9=4$. $\blacksquare$
+By **Definition 2.2.2 (Regrouping Subtraction)**, calculate from left to right: $17-9+2=10$, $6+4-9=1$, $12-9-3=0$, $7+8-9=6$, $19-9-6=4$, $18-5-9=4$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -74,7 +88,9 @@ By **Definition 2.2.2 (Regrouping Subtraction)**, calculate from left to right: 
 
 ### Solution to Exercise 8
 
-By **Definition 2.2.3 (Solving Word Problems)**, remove the given part from the total: $16-9=7$ (radishes). $\blacksquare$
+By **Definition 2.2.3 (Solving Word Problems)**, remove the given part from the total: $16-9=7$ (radishes).
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -82,7 +98,9 @@ By **Definition 2.2.3 (Solving Word Problems)**, remove the given part from the 
 
 ### Solution to Exercise 9
 
-By **Definition 2.2.3 (Solving Word Problems)**: $14-9=5$ (knots). $\blacksquare$
+By **Definition 2.2.3 (Solving Word Problems)**: $14-9=5$ (knots).
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -90,7 +108,9 @@ By **Definition 2.2.3 (Solving Word Problems)**: $14-9=5$ (knots). $\blacksquare
 
 ### Solution to Exercise 10
 
-Between $10$ flags there are $9$ gaps; inserting one flag in each gap gives $9$ flags in total. $\blacksquare$
+Between $10$ flags there are $9$ gaps; inserting one flag in each gap gives $9$ flags in total.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -98,7 +118,9 @@ Between $10$ flags there are $9$ gaps; inserting one flag in each gap gives $9$ 
 
 ### Solution to Exercise 11
 
-By **Definition 2.2.2 (Regrouping Subtraction)**: $16-8=8$, $15-8=7$. $\blacksquare$
+By **Definition 2.2.2 (Regrouping Subtraction)**: $16-8=8$, $15-8=7$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -106,7 +128,9 @@ By **Definition 2.2.2 (Regrouping Subtraction)**: $16-8=8$, $15-8=7$. $\blacksqu
 
 ### Solution to Exercise 12
 
-Think addition to do subtraction: $8+5=13$, $8+3=11$, $8+6=14$, so $13-8=5$, $11-8=3$, $14-8=6$. $\blacksquare$
+Think addition to do subtraction: $8+5=13$, $8+3=11$, $8+6=14$, so $13-8=5$, $11-8=3$, $14-8=6$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -114,7 +138,9 @@ Think addition to do subtraction: $8+5=13$, $8+3=11$, $8+6=14$, so $13-8=5$, $11
 
 ### Solution to Exercise 13
 
-By **Definition 2.2.2 (Regrouping Subtraction)**: $17-8=9$, $10-8=2$, $18-8=10$. $\blacksquare$
+By **Definition 2.2.2 (Regrouping Subtraction)**: $17-8=9$, $10-8=2$, $18-8=10$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -122,7 +148,9 @@ By **Definition 2.2.2 (Regrouping Subtraction)**: $17-8=9$, $10-8=2$, $18-8=10$.
 
 ### Solution to Exercise 14
 
-By **Definition 2.2.3 (Solving Word Problems)**: $13-7=6$ (fish), $13-6=7$ (fish). $\blacksquare$
+By **Definition 2.2.3 (Solving Word Problems)**: $13-7=6$ (fish), $13-6=7$ (fish).
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -130,7 +158,9 @@ By **Definition 2.2.3 (Solving Word Problems)**: $13-7=6$ (fish), $13-6=7$ (fish
 
 ### Solution to Exercise 15
 
-By **Definition 2.2.2 (Regrouping Subtraction)**: $12-7=5$, $16-7=9$, $14-6=8$, $13-6=7$, $15-7=8$, $17-8=9$. $\blacksquare$
+By **Definition 2.2.2 (Regrouping Subtraction)**: $12-7=5$, $16-7=9$, $14-6=8$, $13-6=7$, $15-7=8$, $17-8=9$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -138,7 +168,9 @@ By **Definition 2.2.2 (Regrouping Subtraction)**: $12-7=5$, $16-7=9$, $14-6=8$, 
 
 ### Solution to Exercise 16
 
-Calculate both sides: $14-8=6$, $12-6=6$; $15-8=7$, $13-7=6$; $11-6=5$, $14-7=7$. Thus $14-8=12-6$, $15-8>13-7$, $11-6<14-7$. $\blacksquare$
+Calculate both sides: $14-8=6$, $12-6=6$; $15-8=7$, $13-7=6$; $11-6=5$, $14-7=7$. Thus $14-8=12-6$, $15-8>13-7$, $11-6<14-7$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -146,7 +178,9 @@ Calculate both sides: $14-8=6$, $12-6=6$; $15-8=7$, $13-7=6$; $11-6=5$, $14-7=7$
 
 ### Solution to Exercise 17
 
-By **Definition 2.2.3 (Solving Word Problems)**, use "total $-$ rented": buses $11-6=5$ (vehicles), trucks $12-7=5$ (vehicles), sedans $18-9=9$ (vehicles). $\blacksquare$
+By **Definition 2.2.3 (Solving Word Problems)**, use "total $-$ rented": buses $11-6=5$ (vehicles), trucks $12-7=5$ (vehicles), sedans $18-9=9$ (vehicles).
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -154,7 +188,9 @@ By **Definition 2.2.3 (Solving Word Problems)**, use "total $-$ rented": buses $
 
 ### Solution to Exercise 18
 
-Think addition to do subtraction: $5+8=13$, $4+9=13$, $5+6=11$, so $13-5=8$, $13-4=9$, $11-5=6$. $\blacksquare$
+Think addition to do subtraction: $5+8=13$, $4+9=13$, $5+6=11$, so $13-5=8$, $13-4=9$, $11-5=6$.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -162,7 +198,9 @@ Think addition to do subtraction: $5+8=13$, $4+9=13$, $5+6=11$, so $13-5=8$, $13
 
 ### Solution to Exercise 19
 
-Calculate each card's result and group those with the same result; e.g. $13-6=7$, $15-7=8$, $12-5=7$, etc. grouped by result. $\blacksquare$
+Calculate each card's result and group those with the same result; e.g. $13-6=7$, $15-7=8$, $12-5=7$, etc. grouped by result.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -170,7 +208,9 @@ Calculate each card's result and group those with the same result; e.g. $13-6=7$
 
 ### Solution to Exercise 20
 
-By **Definition 2.2.3 (Solving Word Problems)**, "4 people" is an irrelevant condition and is not used: from $15$ remove the $9$ red, $15-9=6$ (fans); there are $6$ green round fans. $\blacksquare$
+By **Definition 2.2.3 (Solving Word Problems)**, "4 people" is an irrelevant condition and is not used: from $15$ remove the $9$ red, $15-9=6$ (fans); there are $6$ green round fans.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -178,7 +218,9 @@ By **Definition 2.2.3 (Solving Word Problems)**, "4 people" is an irrelevant con
 
 ### Solution to Exercise 21
 
-By **Definition 2.2.3 (Solving Word Problems)**, "$2$ days" is an irrelevant condition: $16-7=9$ (apples); $9$ were eaten. $\blacksquare$
+By **Definition 2.2.3 (Solving Word Problems)**, "$2$ days" is an irrelevant condition: $16-7=9$ (apples); $9$ were eaten.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -186,7 +228,9 @@ By **Definition 2.2.3 (Solving Word Problems)**, "$2$ days" is an irrelevant con
 
 ### Solution to Exercise 22
 
-By **Definition 2.2.3 (Solving Word Problems)**: $12-8=4$ (cones); the baby gathered $4$. $\blacksquare$
+By **Definition 2.2.3 (Solving Word Problems)**: $12-8=4$ (cones); the baby gathered $4$.
+
+$\blacksquare$
 
 ## Exercise 23
 
@@ -194,7 +238,9 @@ By **Definition 2.2.3 (Solving Word Problems)**: $12-8=4$ (cones); the baby gath
 
 ### Solution to Exercise 23
 
-By **Definition 2.2.2 (Regrouping Subtraction)**, the first column is $10-9=1$, $11-9=2$, $12-9=3$, ...; when the subtrahend stays the same, each increase of $1$ in the minuend increases the difference by $1$. $\blacksquare$
+By **Definition 2.2.2 (Regrouping Subtraction)**, the first column is $10-9=1$, $11-9=2$, $12-9=3$, ...; when the subtrahend stays the same, each increase of $1$ in the minuend increases the difference by $1$.
+
+$\blacksquare$
 
 ## Exercise 24
 
@@ -202,4 +248,6 @@ By **Definition 2.2.2 (Regrouping Subtraction)**, the first column is $10-9=1$, 
 
 ### Solution to Exercise 24
 
-$13-6=7$, $8+7=15$, $13-5=8$, $16-8=8$, $15-6=9$, $7+9=16$, $15-7=8$, $14-5=9$, $6+6=12$, $12-7=5$, $14-6=8$, $12-9=3$. $\blacksquare$
+$13-6=7$, $8+7=15$, $13-5=8$, $16-8=8$, $15-6=9$, $7+9=16$, $15-7=8$, $14-5=9$, $6+6=12$, $12-7=5$, $14-6=8$, $12-9=3$.
+
+$\blacksquare$

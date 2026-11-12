@@ -46,7 +46,9 @@
 
 ### Solution to Exercise 1
 
-Two-decimal-place numbers: $2.34$, $2.43$, $3.24$, $3.42$, $4.23$, $4.32$, $6$ in all; one-decimal-place numbers: $23.4$, $24.3$, $32.4$, $34.2$, $42.3$, $43.2$, $6$ in all, totaling $12$. $\blacksquare$
+Two-decimal-place numbers: $2.34$, $2.43$, $3.24$, $3.42$, $4.23$, $4.32$, $6$ in all; one-decimal-place numbers: $23.4$, $24.3$, $32.4$, $34.2$, $42.3$, $43.2$, $6$ in all, totaling $12$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -54,7 +56,9 @@ Two-decimal-place numbers: $2.34$, $2.43$, $3.24$, $3.42$, $4.23$, $4.32$, $6$ i
 
 ### Solution to Exercise 2
 
-By **Definition 8.4.6 (Moving the Decimal Point)**: $4.8\to48,480,4800$; $0.735\to7.35,73.5,735$; $12.6\to126,1260,12600$. $93.5\to9.35,0.935,0.0935$; $500\to50,5,0.5$; $9999\to999.9,99.99,9.999$. $\blacksquare$
+By **Definition 8.4.6 (Moving the Decimal Point)**: $4.8\to48,480,4800$; $0.735\to7.35,73.5,735$; $12.6\to126,1260,12600$. $93.5\to9.35,0.935,0.0935$; $500\to50,5,0.5$; $9999\to999.9,99.99,9.999$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -62,7 +66,9 @@ By **Definition 8.4.6 (Moving the Decimal Point)**: $4.8\to48,480,4800$; $0.735\
 
 ### Solution to Exercise 3
 
-By **Definition 8.4.6 (Moving the Decimal Point)**: $0.372\to372$ expands $1000$ times, $\to3.72$ expands $10$ times, $\to37.2$ expands $100$ times; $506\to0.506$ shrinks to $\frac{1}{1000}$, $\to5.06$ shrinks to $\frac{1}{100}$, $\to50.6$ shrinks to $\frac{1}{10}$, $\to0.0506$ shrinks to $\frac{1}{10000}$. $\blacksquare$
+By **Definition 8.4.6 (Moving the Decimal Point)**: $0.372\to372$ expands $1000$ times, $\to3.72$ expands $10$ times, $\to37.2$ expands $100$ times; $506\to0.506$ shrinks to $\frac{1}{1000}$, $\to5.06$ shrinks to $\frac{1}{100}$, $\to50.6$ shrinks to $\frac{1}{10}$, $\to0.0506$ shrinks to $\frac{1}{10000}$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -70,7 +76,9 @@ By **Definition 8.4.6 (Moving the Decimal Point)**: $0.372\to372$ expands $1000$
 
 ### Solution to Exercise 4
 
-By **Definition 8.4.6 (Moving the Decimal Point)**: $6.25\to62.5$ expands to $10$ times the original; $\to0.625$ shrinks to $\frac{1}{10}$ of the original; $\to625$ expands to $100$ times the original; $\to0.0625$ shrinks to $\frac{1}{100}$ of the original. $\blacksquare$
+By **Definition 8.4.6 (Moving the Decimal Point)**: $6.25\to62.5$ expands to $10$ times the original; $\to0.625$ shrinks to $\frac{1}{10}$ of the original; $\to625$ expands to $100$ times the original; $\to0.0625$ shrinks to $\frac{1}{100}$ of the original.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -78,7 +86,9 @@ By **Definition 8.4.6 (Moving the Decimal Point)**: $6.25\to62.5$ expands to $10
 
 ### Solution to Exercise 5
 
-By **Definition 8.4.6 (Moving the Decimal Point)**: eraser $2.63\to26.3,263,2630$; exercise book $0.85\to8.5,85,850$; ruler $1.63\to16.3,163,1630$. $\blacksquare$
+By **Definition 8.4.6 (Moving the Decimal Point)**: eraser $2.63\to26.3,263,2630$; exercise book $0.85\to8.5,85,850$; ruler $1.63\to16.3,163,1630$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -86,7 +96,9 @@ By **Definition 8.4.6 (Moving the Decimal Point)**: eraser $2.63\to26.3,263,2630
 
 ### Solution to Exercise 6
 
-By **Definition 8.4.6 (Moving the Decimal Point)**: $4.35\times10=43.5$, $43.5\times100=4350$; $4.35\div10=0.435$, $0.435\div100=0.00435$. $0.729\to72.9$ expands $100$ times, $\to7.29$ expands $10$ times, $\to7290$ expands $10000$ times, $\to0.0729$ shrinks to $\frac{1}{10}$. $\blacksquare$
+By **Definition 8.4.6 (Moving the Decimal Point)**: $4.35\times10=43.5$, $43.5\times100=4350$; $4.35\div10=0.435$, $0.435\div100=0.00435$. $0.729\to72.9$ expands $100$ times, $\to7.29$ expands $10$ times, $\to7290$ expands $10000$ times, $\to0.0729$ shrinks to $\frac{1}{10}$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -94,7 +106,9 @@ By **Definition 8.4.6 (Moving the Decimal Point)**: $4.35\times10=43.5$, $43.5\t
 
 ### Solution to Exercise 7
 
-By **Definition 8.4.6 (Moving the Decimal Point)**: (1) $3.6$ moved one place left is $0.36$; (2) $3.14$ moved two places right is $314$; (3) $0.03$ expanded to its $1000$ times is $30$; (4) $42$ shrunk to its $\frac{1}{1000}$ is $0.042$. $\blacksquare$
+By **Definition 8.4.6 (Moving the Decimal Point)**: (1) $3.6$ moved one place left is $0.36$; (2) $3.14$ moved two places right is $314$; (3) $0.03$ expanded to its $1000$ times is $30$; (4) $42$ shrunk to its $\frac{1}{1000}$ is $0.042$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -102,7 +116,9 @@ By **Definition 8.4.6 (Moving the Decimal Point)**: (1) $3.6$ moved one place le
 
 ### Solution to Exercise 8
 
-By **Definition 8.4.7 (Decimals and Unit Conversion)**, convert lower units to higher units by dividing by the rate: $24\,\mathrm{dm}=2.4\,\mathrm{m}$; $1450\,\mathrm{g}=1.45\,\mathrm{kg}$; $6\,\mathrm{km}\,350\,\mathrm{m}=6.35\,\mathrm{km}$; $8\,\mathrm{t}\,40\,\mathrm{kg}=8.04\,\mathrm{t}$. $\blacksquare$
+By **Definition 8.4.7 (Decimals and Unit Conversion)**, convert lower units to higher units by dividing by the rate: $24\,\mathrm{dm}=2.4\,\mathrm{m}$; $1450\,\mathrm{g}=1.45\,\mathrm{kg}$; $6\,\mathrm{km}\,350\,\mathrm{m}=6.35\,\mathrm{km}$; $8\,\mathrm{t}\,40\,\mathrm{kg}=8.04\,\mathrm{t}$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -110,7 +126,9 @@ By **Definition 8.4.7 (Decimals and Unit Conversion)**, convert lower units to h
 
 ### Solution to Exercise 9
 
-By **Definition 8.4.7 (Decimals and Unit Conversion)**, convert higher units to lower units by multiplying by the rate: $3.7\,\mathrm{t}=3700\,\mathrm{kg}$; $0.3\,\mathrm{kg}=300\,\mathrm{g}$; $2.63\,\mathrm{km}=2630\,\mathrm{m}$; $0.86\,\mathrm{m^2}=86\,\mathrm{dm^2}$. $\blacksquare$
+By **Definition 8.4.7 (Decimals and Unit Conversion)**, convert higher units to lower units by multiplying by the rate: $3.7\,\mathrm{t}=3700\,\mathrm{kg}$; $0.3\,\mathrm{kg}=300\,\mathrm{g}$; $2.63\,\mathrm{km}=2630\,\mathrm{m}$; $0.86\,\mathrm{m^2}=86\,\mathrm{dm^2}$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -118,7 +136,9 @@ By **Definition 8.4.7 (Decimals and Unit Conversion)**, convert higher units to 
 
 ### Solution to Exercise 10
 
-Unify into $\mathrm{kg}$: beluga $1350\,\mathrm{kg}$, polar bear $750\,\mathrm{kg}$, seal $350\,\mathrm{kg}$, dolphin $228\,\mathrm{kg}$, penguin $35\,\mathrm{kg}$. From heaviest to lightest: beluga, polar bear, seal, dolphin, penguin. $\blacksquare$
+Unify into $\mathrm{kg}$: beluga $1350\,\mathrm{kg}$, polar bear $750\,\mathrm{kg}$, seal $350\,\mathrm{kg}$, dolphin $228\,\mathrm{kg}$, penguin $35\,\mathrm{kg}$. From heaviest to lightest: beluga, polar bear, seal, dolphin, penguin.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -126,4 +146,6 @@ Unify into $\mathrm{kg}$: beluga $1350\,\mathrm{kg}$, polar bear $750\,\mathrm{k
 
 ### Solution to Exercise 11
 
-By **Definition 8.4.7 (Decimals and Unit Conversion)**: $13\,\mathrm{cm}=1.3\,\mathrm{dm}$; $109\,\mathrm{dm}=10.9\,\mathrm{m}$; $86\,\mathrm{g}=0.086\,\mathrm{kg}$; $5350\,\mathrm{m}=5.35\,\mathrm{km}$; $1.09\,\mathrm{m}=1090\,\mathrm{mm}$; $2.56\,\mathrm{t}=2560\,\mathrm{kg}$; $2.3\,\mathrm{kg}=2300\,\mathrm{g}$; $4.6\,\mathrm{m}=46\,\mathrm{dm}$; $2.95$ yuan $=2$ yuan $9$ jiao $5$ fen. $\blacksquare$
+By **Definition 8.4.7 (Decimals and Unit Conversion)**: $13\,\mathrm{cm}=1.3\,\mathrm{dm}$; $109\,\mathrm{dm}=10.9\,\mathrm{m}$; $86\,\mathrm{g}=0.086\,\mathrm{kg}$; $5350\,\mathrm{m}=5.35\,\mathrm{km}$; $1.09\,\mathrm{m}=1090\,\mathrm{mm}$; $2.56\,\mathrm{t}=2560\,\mathrm{kg}$; $2.3\,\mathrm{kg}=2300\,\mathrm{g}$; $4.6\,\mathrm{m}=46\,\mathrm{dm}$; $2.95$ yuan $=2$ yuan $9$ jiao $5$ fen.
+
+$\blacksquare$

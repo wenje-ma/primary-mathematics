@@ -26,7 +26,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 3.2.3 (Multiplication Rhymes)**: $5\times4=20$, $4\times5=20$ (four five is twenty); $4\times4=16$ (four four is sixteen); $3\times4=12$, $4\times3=12$ (three four is twelve); $2\times4=8$, $4\times2=8$ (two four is eight); just connect them by their results. $\blacksquare$
+By **Definition 3.2.3 (Multiplication Rhymes)**: $5\times4=20$, $4\times5=20$ (four five is twenty); $4\times4=16$ (four four is sixteen); $3\times4=12$, $4\times3=12$ (three four is twelve); $2\times4=8$, $4\times2=8$ (two four is eight); just connect them by their results.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -34,7 +36,9 @@ By **Definition 3.2.3 (Multiplication Rhymes)**: $5\times4=20$, $4\times5=20$ (f
 
 ### Solution to Exercise 2
 
-By **Definition 3.2.1 (The Meaning of Multiplication)** and **Definition 3.2.3 (Multiplication Rhymes)**, in the number table circle in order $3$, $6$, $9$, $12$, $15$, namely $3\times1=3$, $3\times2=6$, $3\times3=9$, $3\times4=12$, $3\times5=15$, the rhymes from "one three is three" to "three five is fifteen". $\blacksquare$
+By **Definition 3.2.1 (The Meaning of Multiplication)** and **Definition 3.2.3 (Multiplication Rhymes)**, in the number table circle in order $3$, $6$, $9$, $12$, $15$, namely $3\times1=3$, $3\times2=6$, $3\times3=9$, $3\times4=12$, $3\times5=15$, the rhymes from "one three is three" to "three five is fifteen".
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -42,7 +46,9 @@ By **Definition 3.2.1 (The Meaning of Multiplication)** and **Definition 3.2.3 (
 
 ### Solution to Exercise 3
 
-By **Definition 3.2.4 (Multiplication-Addition and Multiplication-Subtraction)**, there are $3$ groups with the same number of people, $3$ people in each, plus another $2$ people: $3\times3+2=11$; or think of it as $4$ groups with $3$ people each minus $1$ person: $3\times4-1=11$. Compute the multiplication first; $11$ people are seated in total. $\blacksquare$
+By **Definition 3.2.4 (Multiplication-Addition and Multiplication-Subtraction)**, there are $3$ groups with the same number of people, $3$ people in each, plus another $2$ people: $3\times3+2=11$; or think of it as $4$ groups with $3$ people each minus $1$ person: $3\times4-1=11$. Compute the multiplication first; $11$ people are seated in total.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -50,7 +56,9 @@ By **Definition 3.2.4 (Multiplication-Addition and Multiplication-Subtraction)**
 
 ### Solution to Exercise 4
 
-By **Definition 3.2.4 (Multiplication-Addition and Multiplication-Subtraction)**, $4\times5+4$ means $5$ copies of $4$ plus another $1$ copy of $4$, i.e. $6$ copies of $4$, so $4\times5+4=4\times6=24$. $\blacksquare$
+By **Definition 3.2.4 (Multiplication-Addition and Multiplication-Subtraction)**, $4\times5+4$ means $5$ copies of $4$ plus another $1$ copy of $4$, i.e. $6$ copies of $4$, so $4\times5+4=4\times6=24$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -58,7 +66,9 @@ By **Definition 3.2.4 (Multiplication-Addition and Multiplication-Subtraction)**
 
 ### Solution to Exercise 5
 
-By **Definition 3.2.3 (Multiplication Rhymes)**: three six is eighteen, five six is thirty, four six is twenty-four. The number of legs of $3$ bees: $3\times6=18$ (legs); $6$ bees: $6\times6=36$ (legs). $\blacksquare$
+By **Definition 3.2.3 (Multiplication Rhymes)**: three six is eighteen, five six is thirty, four six is twenty-four. The number of legs of $3$ bees: $3\times6=18$ (legs); $6$ bees: $6\times6=36$ (legs).
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -66,7 +76,9 @@ By **Definition 3.2.3 (Multiplication Rhymes)**: three six is eighteen, five six
 
 ### Solution to Exercise 6
 
-By **Definition 3.2.3 (Multiplication Rhymes)** and **Definition 3.2.4 (Multiplication-Addition and Multiplication-Subtraction)**: $3\times6=18$, $1\times6=6$, $6\times6=36$; $4\times3=12$, $6\times4=24$, $3\times5=15$; $5\times2=10$, $6\times2=12$, $6\times5=30$; $2\times6+5=17$, $3\times6-7=11$, $4\times6-8=16$. $\blacksquare$
+By **Definition 3.2.3 (Multiplication Rhymes)** and **Definition 3.2.4 (Multiplication-Addition and Multiplication-Subtraction)**: $3\times6=18$, $1\times6=6$, $6\times6=36$; $4\times3=12$, $6\times4=24$, $3\times5=15$; $5\times2=10$, $6\times2=12$, $6\times5=30$; $2\times6+5=17$, $3\times6-7=11$, $4\times6-8=16$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -74,7 +86,9 @@ By **Definition 3.2.3 (Multiplication Rhymes)** and **Definition 3.2.4 (Multipli
 
 ### Solution to Exercise 7
 
-By **Definition 3.2.4 (Multiplication-Addition and Multiplication-Subtraction)**, each problem progresses between the rhymes of $6$: $6\times3+6=6\times4=24$, $6\times4+6=6\times5=30$, $6\times2+6=6\times3=18$; $6\times6-6=6\times5=30$, $6\times5-6=6\times4=24$, $6\times4-6=6\times3=18$. Notice that between two adjacent rhymes of $6$, the products differ by $6$. $\blacksquare$
+By **Definition 3.2.4 (Multiplication-Addition and Multiplication-Subtraction)**, each problem progresses between the rhymes of $6$: $6\times3+6=6\times4=24$, $6\times4+6=6\times5=30$, $6\times2+6=6\times3=18$; $6\times6-6=6\times5=30$, $6\times5-6=6\times4=24$, $6\times4-6=6\times3=18$. Notice that between two adjacent rhymes of $6$, the products differ by $6$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -82,7 +96,9 @@ By **Definition 3.2.4 (Multiplication-Addition and Multiplication-Subtraction)**
 
 ### Solution to Exercise 8
 
-By **Definition 3.2.3 (Multiplication Rhymes)**, fill in the table row by row and column by column using the rhymes: $2\times2=4$, $2\times3=6$, $2\times4=8$, $2\times5=10$, $2\times6=12$; $3\times3=9$, $3\times4=12$, $3\times5=15$, $3\times6=18$;... say the corresponding rhyme as you fill it in. $\blacksquare$
+By **Definition 3.2.3 (Multiplication Rhymes)**, fill in the table row by row and column by column using the rhymes: $2\times2=4$, $2\times3=6$, $2\times4=8$, $2\times5=10$, $2\times6=12$; $3\times3=9$, $3\times4=12$, $3\times5=15$, $3\times6=18$;... say the corresponding rhyme as you fill it in.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -90,7 +106,9 @@ By **Definition 3.2.3 (Multiplication Rhymes)**, fill in the table row by row an
 
 ### Solution to Exercise 9
 
-$3+3=6$, $3\times3=9$, $6-4=2$, $4\times3=12$, $5\times6=30$, $2\times6=12$. $\blacksquare$
+$3+3=6$, $3\times3=9$, $6-4=2$, $4\times3=12$, $5\times6=30$, $2\times6=12$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -98,7 +116,9 @@ $3+3=6$, $3\times3=9$, $6-4=2$, $4\times3=12$, $5\times6=30$, $2\times6=12$. $\b
 
 ### Solution to Exercise 10
 
-By **Definition 3.2.3 (Multiplication Rhymes)**, the factors giving $12$ are $2$ and $6$ ("two six is twelve") and $3$ and $4$ ("three four is twelve"); product $18$: $3\times6$, $2\times9$; product $30$: $5\times6$; product $24$: $4\times6$, $3\times8$; product $36$: $6\times6$, $4\times9$. $\blacksquare$
+By **Definition 3.2.3 (Multiplication Rhymes)**, the factors giving $12$ are $2$ and $6$ ("two six is twelve") and $3$ and $4$ ("three four is twelve"); product $18$: $3\times6$, $2\times9$; product $30$: $5\times6$; product $24$: $4\times6$, $3\times8$; product $36$: $6\times6$, $4\times9$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -106,7 +126,9 @@ By **Definition 3.2.3 (Multiplication Rhymes)**, the factors giving $12$ are $2$
 
 ### Solution to Exercise 11
 
-By **Definition 3.2.5 (Solving Problems with Multiplication)**, the number of mouths equals the number of frogs, the eyes are $2$ times the number of frogs, and the legs are $4$ times the number of frogs: $2$ frogs have $2$ mouths, $4$ eyes, $8$ legs; $3$ frogs have $3$ mouths, $6$ eyes, $12$ legs; $4$ frogs have $4$ mouths, $8$ eyes, $16$ legs; $5$ frogs have $5$ mouths, $10$ eyes, $20$ legs; $6$ frogs have $6$ mouths, $12$ eyes, $24$ legs. $\blacksquare$
+By **Definition 3.2.5 (Solving Problems with Multiplication)**, the number of mouths equals the number of frogs, the eyes are $2$ times the number of frogs, and the legs are $4$ times the number of frogs: $2$ frogs have $2$ mouths, $4$ eyes, $8$ legs; $3$ frogs have $3$ mouths, $6$ eyes, $12$ legs; $4$ frogs have $4$ mouths, $8$ eyes, $16$ legs; $5$ frogs have $5$ mouths, $10$ eyes, $20$ legs; $6$ frogs have $6$ mouths, $12$ eyes, $24$ legs.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -114,7 +136,9 @@ By **Definition 3.2.5 (Solving Problems with Multiplication)**, the number of mo
 
 ### Solution to Exercise 12
 
-By **Definition 3.2.5 (Solving Problems with Multiplication)**, (1) is $4$ copies of $5$ added, use multiplication: $5\times4=20$ (tables); (2) is combining $4$ and $5$, use addition: $4+5=9$ (tables). Both problems involve $4$ and $5$, but (1) is "several groups of a number" while (2) is combining two parts, so the methods are different. $\blacksquare$
+By **Definition 3.2.5 (Solving Problems with Multiplication)**, (1) is $4$ copies of $5$ added, use multiplication: $5\times4=20$ (tables); (2) is combining $4$ and $5$, use addition: $4+5=9$ (tables). Both problems involve $4$ and $5$, but (1) is "several groups of a number" while (2) is combining two parts, so the methods are different.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -122,7 +146,9 @@ By **Definition 3.2.5 (Solving Problems with Multiplication)**, (1) is $4$ copie
 
 ### Solution to Exercise 13
 
-By **Definition 3.2.5 (Solving Problems with Multiplication)**, find how much $3$ copies of $6$ yuan is: $6+6+6=18$ (yuan), or $6\times3=18$ (yuan), $18$ yuan in total. Then based on other items in the picture (such as a notebook at $5$ yuan) raise a multiplication problem such as "how much are $4$ notebooks?" and solve it. $\blacksquare$
+By **Definition 3.2.5 (Solving Problems with Multiplication)**, find how much $3$ copies of $6$ yuan is: $6+6+6=18$ (yuan), or $6\times3=18$ (yuan), $18$ yuan in total. Then based on other items in the picture (such as a notebook at $5$ yuan) raise a multiplication problem such as "how much are $4$ notebooks?" and solve it.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -130,4 +156,6 @@ By **Definition 3.2.5 (Solving Problems with Multiplication)**, find how much $3
 
 ### Solution to Exercise 14
 
-By **Definition 3.2.5 (Solving Problems with Multiplication)**, (1) find $4$ copies of $5$ yuan: $5\times4=20$ (yuan); (2) based on the items costing $4$ yuan, $5$ yuan, and $6$ yuan in the picture, raise a problem such as "how much are $3$ items at $6$ yuan each?" and solve it as $6\times3=18$ (yuan). $\blacksquare$
+By **Definition 3.2.5 (Solving Problems with Multiplication)**, (1) find $4$ copies of $5$ yuan: $5\times4=20$ (yuan); (2) based on the items costing $4$ yuan, $5$ yuan, and $6$ yuan in the picture, raise a problem such as "how much are $3$ items at $6$ yuan each?" and solve it as $6\times3=18$ (yuan).
+
+$\blacksquare$

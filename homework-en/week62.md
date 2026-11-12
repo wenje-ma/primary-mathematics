@@ -46,7 +46,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 6.2.3 (笔算除法法则)**: $84\div6=14$, $576\div6=96$, $906\div3=302$, $800\div5=160$, $418\div4=104\cdots\cdots2$, $985\div7=140\cdots\cdots5$. $\blacksquare$
+By **Definition 6.2.3 (笔算除法法则)**: $84\div6=14$, $576\div6=96$, $906\div3=302$, $800\div5=160$, $418\div4=104\cdots\cdots2$, $985\div7=140\cdots\cdots5$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -54,7 +56,9 @@ By **Definition 6.2.3 (笔算除法法则)**: $84\div6=14$, $576\div6=96$, $906\
 
 ### Solution to Exercise 2
 
-$503-278=225$, $267\times6=1602$, $65\times6\div5=78$, $588\div3\div7=28$, $87\div3-26=29-26=3$, $\left(387+373\right)\div4=760\div4=190$, $320+208\div2=320+104=424$, $296\div\left(2\times4\right)=296\div8=37$. $\blacksquare$
+$503-278=225$, $267\times6=1602$, $65\times6\div5=78$, $588\div3\div7=28$, $87\div3-26=29-26=3$, $\left(387+373\right)\div4=760\div4=190$, $320+208\div2=320+104=424$, $296\div\left(2\times4\right)=296\div8=37$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -62,7 +66,9 @@ $503-278=225$, $267\times6=1602$, $65\times6\div5=78$, $588\div3\div7=28$, $87\d
 
 ### Solution to Exercise 3
 
-$306\div3=102$ (kites), $102$ per day on average. $\blacksquare$
+$306\div3=102$ (kites), $102$ per day on average.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -70,7 +76,9 @@ $306\div3=102$ (kites), $102$ per day on average. $\blacksquare$
 
 ### Solution to Exercise 4
 
-$192\div2\div4=24$ (pages), $24$ pages per album. $\blacksquare$
+$192\div2\div4=24$ (pages), $24$ pages per album.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -78,7 +86,9 @@ $192\div2\div4=24$ (pages), $24$ pages per album. $\blacksquare$
 
 ### Solution to Exercise 5
 
-$A$ each: $273\div3=91$ (yuan); $B$ each: $305\div5=61$ (yuan); $C$ each: $282\div4\approx70$ (yuan); the $B$ backpack is cheapest. $\blacksquare$
+$A$ each: $273\div3=91$ (yuan); $B$ each: $305\div5=61$ (yuan); $C$ each: $282\div4\approx70$ (yuan); the $B$ backpack is cheapest.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -86,7 +96,9 @@ $A$ each: $273\div3=91$ (yuan); $B$ each: $305\div5=61$ (yuan); $C$ each: $282\d
 
 ### Solution to Exercise 6
 
-The second piece is $1$ part, the first is $2$ parts, $3$ parts in total. Second piece $360\div3=120$ (meters), first piece $120\times2=240$ (meters). $\blacksquare$
+The second piece is $1$ part, the first is $2$ parts, $3$ parts in total. Second piece $360\div3=120$ (meters), first piece $120\times2=240$ (meters).
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -94,7 +106,9 @@ The second piece is $1$ part, the first is $2$ parts, $3$ parts in total. Second
 
 ### Solution to Exercise 7
 
-The second per day: $608\div8=76$ (insects), $645-76=569$ (insects). $\blacksquare$
+The second per day: $608\div8=76$ (insects), $645-76=569$ (insects).
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -102,7 +116,9 @@ The second per day: $608\div8=76$ (insects), $645-76=569$ (insects). $\blacksqua
 
 ### Solution to Exercise 8
 
-(1) $4\times2\times15=120$ (apples). (2) There are $3\times36=108$ (people), $120>108$, so it is enough. (3) For example, how much are these apples in total, $120\div4\times6=180$ yuan; answers may vary. $\blacksquare$
+(1) $4\times2\times15=120$ (apples). (2) There are $3\times36=108$ (people), $120>108$, so it is enough. (3) For example, how much are these apples in total, $120\div4\times6=180$ yuan; answers may vary.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -110,7 +126,9 @@ The second per day: $608\div8=76$ (insects), $645-76=569$ (insects). $\blacksqua
 
 ### Solution to Exercise 9
 
-By **Definition 6.2.6 (Totalization Problem)**, choose any three related pieces of information; for example ④①②: $480$ egg-yolk zongzi, $2$ per bag, $6$ bags per box, can be packed into $480\div2\div6=40$ (boxes). Different combinations give different questions and answers. $\blacksquare$
+By **Definition 6.2.6 (Totalization Problem)**, choose any three related pieces of information; for example ④①②: $480$ egg-yolk zongzi, $2$ per bag, $6$ bags per box, can be packed into $480\div2\div6=40$ (boxes). Different combinations give different questions and answers.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -118,7 +136,9 @@ By **Definition 6.2.6 (Totalization Problem)**, choose any three related pieces 
 
 ### Solution to Exercise 10
 
-By **Definition 6.3.1 (Polygons)**, for example a desk top is a rectangle (quadrilateral), a red scarf is a triangle, some floor tiles are squares, and the cells of a honeycomb are hexagons; just point out the number of sides. $\blacksquare$
+By **Definition 6.3.1 (Polygons)**, for example a desk top is a rectangle (quadrilateral), a red scarf is a triangle, some floor tiles are squares, and the cells of a honeycomb are hexagons; just point out the number of sides.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -126,7 +146,9 @@ By **Definition 6.3.1 (Polygons)**, for example a desk top is a rectangle (quadr
 
 ### Solution to Exercise 11
 
-By **Definition 6.3.1 (多边形)**, connect line segments end to end to close a figure; draw different polygons with $3$ sides (triangle), $4$ sides (quadrilateral), $5$ sides (pentagon), and so on. $\blacksquare$
+By **Definition 6.3.1 (多边形)**, connect line segments end to end to close a figure; draw different polygons with $3$ sides (triangle), $4$ sides (quadrilateral), $5$ sides (pentagon), and so on.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -134,7 +156,9 @@ By **Definition 6.3.1 (多边形)**, connect line segments end to end to close a
 
 ### Solution to Exercise 12
 
-By **Definition 6.3.2 (Features of Rectangles and Squares)**, a rectangle's opposite sides are equal and a square's $4$ sides are equal; fill in each unknown side length accordingly. $\blacksquare$
+By **Definition 6.3.2 (Features of Rectangles and Squares)**, a rectangle's opposite sides are equal and a square's $4$ sides are equal; fill in each unknown side length accordingly.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -142,7 +166,9 @@ By **Definition 6.3.2 (Features of Rectangles and Squares)**, a rectangle's oppo
 
 ### Solution to Exercise 13
 
-By **Definition 6.3.2 (长方形和正方形的特征)**, fold the width of the rectangle over to coincide with the long side; the largest square folded has a side length exactly equal to the rectangle's width. $\blacksquare$
+By **Definition 6.3.2 (长方形和正方形的特征)**, fold the width of the rectangle over to coincide with the long side; the largest square folded has a side length exactly equal to the rectangle's width.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -150,7 +176,9 @@ By **Definition 6.3.2 (长方形和正方形的特征)**, fold the width of the 
 
 ### Solution to Exercise 14
 
-By **Definition 6.3.1 (多边形)**, each fold of the square paper increases the number of sides cut (or folded) out; by folding in different ways, make the closed figure have $5,6,7,8$ sides respectively. $\blacksquare$
+By **Definition 6.3.1 (多边形)**, each fold of the square paper increases the number of sides cut (or folded) out; by folding in different ways, make the closed figure have $5,6,7,8$ sides respectively.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -160,7 +188,9 @@ The figure shows grid paper (each cell $1$ cm), on which a rectangle occupying $
 
 ### Solution to Exercise 15
 
-By **Definition 6.3.2 (长方形和正方形的特征)**, the rectangle occupies $4$ cells by $2$ cells; the square occupies $3$ cells by $3$ cells; draw them on the grid as in the figure. $\blacksquare$
+By **Definition 6.3.2 (长方形和正方形的特征)**, the rectangle occupies $4$ cells by $2$ cells; the square occupies $3$ cells by $3$ cells; draw them on the grid as in the figure.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -168,7 +198,9 @@ By **Definition 6.3.2 (长方形和正方形的特征)**, the rectangle occupies
 
 ### Solution to Exercise 16
 
-By **Definition 6.3.1 (多边形)** and **Definition 6.3.2 (长方形和正方形的特征)**, a quadrilateral has $4$ sides and $4$ angles; it could be a rectangle, a square, or an ordinary parallelogram or an irregular quadrilateral; answers may vary. $\blacksquare$
+By **Definition 6.3.1 (多边形)** and **Definition 6.3.2 (长方形和正方形的特征)**, a quadrilateral has $4$ sides and $4$ angles; it could be a rectangle, a square, or an ordinary parallelogram or an irregular quadrilateral; answers may vary.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -176,7 +208,9 @@ By **Definition 6.3.1 (多边形)** and **Definition 6.3.2 (长方形和正方�
 
 ### Solution to Exercise 17
 
-By **Definition 6.3.2 (长方形和正方形的特征)**, two identical right triangles (with one long and one short leg) joined along their long legs form a rectangle; two identical isosceles right triangles joined along their hypotenuses form a square. $\blacksquare$
+By **Definition 6.3.2 (长方形和正方形的特征)**, two identical right triangles (with one long and one short leg) joined along their long legs form a rectangle; two identical isosceles right triangles joined along their hypotenuses form a square.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -184,7 +218,9 @@ By **Definition 6.3.2 (长方形和正方形的特征)**, two identical right tr
 
 ### Solution to Exercise 18
 
-Folding along any axis of symmetry of the square gives two identical parts: folding top-to-bottom, left-to-right, or along the two diagonals, $4$ ways in total. $\blacksquare$
+Folding along any axis of symmetry of the square gives two identical parts: folding top-to-bottom, left-to-right, or along the two diagonals, $4$ ways in total.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -192,7 +228,9 @@ Folding along any axis of symmetry of the square gives two identical parts: fold
 
 ### Solution to Exercise 19
 
-By **Definition 6.3.1 (多边形)**, fit several tangram pieces together so that the outer closed figure has $5$ sides or $6$ sides; the ways of fitting are not unique. $\blacksquare$
+By **Definition 6.3.1 (多边形)**, fit several tangram pieces together so that the outer closed figure has $5$ sides or $6$ sides; the ways of fitting are not unique.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -200,7 +238,9 @@ By **Definition 6.3.1 (多边形)**, fit several tangram pieces together so that
 
 ### Solution to Exercise 20
 
-By **Definition 6.3.3 (Perimeter)**, measure the length of each side with a ruler, then add the side lengths. $\blacksquare$
+By **Definition 6.3.3 (Perimeter)**, measure the length of each side with a ruler, then add the side lengths.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -208,7 +248,9 @@ By **Definition 6.3.3 (Perimeter)**, measure the length of each side with a rule
 
 ### Solution to Exercise 21
 
-By **Definition 6.3.4 (Perimeters of Rectangles and Squares)**, $\left(5+3\right)\times2=16$ (meters). $\blacksquare$
+By **Definition 6.3.4 (Perimeters of Rectangles and Squares)**, $\left(5+3\right)\times2=16$ (meters).
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -216,7 +258,9 @@ By **Definition 6.3.4 (Perimeters of Rectangles and Squares)**, $\left(5+3\right
 
 ### Solution to Exercise 22
 
-By **Definition 6.3.3 (周长)**, lay the sides of the figure end to end into one segment; the length of this segment is the perimeter. Use the compass to step off each side in turn into one segment. $\blacksquare$
+By **Definition 6.3.3 (周长)**, lay the sides of the figure end to end into one segment; the length of this segment is the perimeter. Use the compass to step off each side in turn into one segment.
+
+$\blacksquare$
 
 ## Exercise 23
 
@@ -224,4 +268,6 @@ By **Definition 6.3.3 (周长)**, lay the sides of the figure end to end into on
 
 ### Solution to Exercise 23
 
-$16=1\times16=2\times8=4\times4$. The perimeters of the three arrangements: $\left(1+16\right)\times2=34$, $\left(2+8\right)\times2=20$, $4\times4=16$. The $4\times4$ square has the shortest perimeter. $\blacksquare$
+$16=1\times16=2\times8=4\times4$. The perimeters of the three arrangements: $\left(1+16\right)\times2=34$, $\left(2+8\right)\times2=20$, $4\times4=16$. The $4\times4$ square has the shortest perimeter.
+
+$\blacksquare$

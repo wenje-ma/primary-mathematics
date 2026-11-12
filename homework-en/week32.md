@@ -38,7 +38,9 @@
 
 ### Solution to Exercise 1
 
-Using your own daily routine, say in chronological order the times when Xiaoyun gets up, eats, goes to school, plays, and sleeps; for example get up at $7$ in the morning, arrive at school at $8$, leave school at $4$ in the afternoon, and go to bed at $9$ at night. $\blacksquare$
+Using your own daily routine, say in chronological order the times when Xiaoyun gets up, eats, goes to school, plays, and sleeps; for example get up at $7$ in the morning, arrive at school at $8$, leave school at $4$ in the afternoon, and go to bed at $9$ at night.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -46,7 +48,9 @@ Using your own daily routine, say in chronological order the times when Xiaoyun 
 
 ### Solution to Exercise 2
 
-By **Definition 4.1.1 (Structure of the Clock Face)**, the face has $3$ hands, divisions, and numbers. The face is divided into $12$ big divisions, each big division has $5$ small divisions, making $12\times5=60$ small divisions in all. $\blacksquare$
+By **Definition 4.1.1 (Structure of the Clock Face)**, the face has $3$ hands, divisions, and numbers. The face is divided into $12$ big divisions, each big division has $5$ small divisions, making $12\times5=60$ small divisions in all.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -54,7 +58,9 @@ By **Definition 4.1.1 (Structure of the Clock Face)**, the face has $3$ hands, d
 
 ### Solution to Exercise 3
 
-By **Definition 4.1.3 (Rates Between Hours/Minutes and Minutes/Seconds)**, the hour hand going $1$ turn is $12$ hours, the minute hand going $1$ turn is $60$ minutes, and the second hand going $1$ turn is $60$ seconds. $1$ minute $=60$ seconds. $30$ minutes is exactly half of $60$ minutes, and $30$ seconds is exactly half of $60$ seconds, so they are called half an hour and half a minute. $\blacksquare$
+By **Definition 4.1.3 (Rates Between Hours/Minutes and Minutes/Seconds)**, the hour hand going $1$ turn is $12$ hours, the minute hand going $1$ turn is $60$ minutes, and the second hand going $1$ turn is $60$ seconds. $1$ minute $=60$ seconds. $30$ minutes is exactly half of $60$ minutes, and $30$ seconds is exactly half of $60$ seconds, so they are called half an hour and half a minute.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -62,7 +68,9 @@ By **Definition 4.1.3 (Rates Between Hours/Minutes and Minutes/Seconds)**, the h
 
 ### Solution to Exercise 4
 
-By **Definition 4.1.4 (Reading Hours and Minutes)**, the hour hand has passed $4$ in all, so it is a bit past $4$; then look at the minute hand: pointing to $1$ is $5$ minutes, to $6$ is $30$ minutes (half), to $9$ is $45$ minutes. Read respectively as $4$ hours $5$ minutes, $4$ hours $30$ minutes (or $4$ thirty), $4$ hours $45$ minutes. $\blacksquare$
+By **Definition 4.1.4 (Reading Hours and Minutes)**, the hour hand has passed $4$ in all, so it is a bit past $4$; then look at the minute hand: pointing to $1$ is $5$ minutes, to $6$ is $30$ minutes (half), to $9$ is $45$ minutes. Read respectively as $4$ hours $5$ minutes, $4$ hours $30$ minutes (or $4$ thirty), $4$ hours $45$ minutes.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -70,7 +78,9 @@ By **Definition 4.1.4 (Reading Hours and Minutes)**, the hour hand has passed $4
 
 ### Solution to Exercise 5
 
-By **Definition 4.1.4 (Reading Hours and Minutes)**, first use the hour hand to determine the hour, then use the small divisions the minute hand has moved from $12$ to determine the minutes, and together they give the time. $\blacksquare$
+By **Definition 4.1.4 (Reading Hours and Minutes)**, first use the hour hand to determine the hour, then use the small divisions the minute hand has moved from $12$ to determine the minutes, and together they give the time.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -78,7 +88,9 @@ By **Definition 4.1.4 (Reading Hours and Minutes)**, first use the hour hand to 
 
 ### Solution to Exercise 6
 
-Just say from daily life; for example a class is $40$ minutes, a day is $24$ hours, running $50$ meters takes about ten-plus seconds, and the evening news starts at $19$ o'clock; all these things use time. $\blacksquare$
+Just say from daily life; for example a class is $40$ minutes, a day is $24$ hours, running $50$ meters takes about ten-plus seconds, and the evening news starts at $19$ o'clock; all these things use time.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -86,7 +98,9 @@ Just say from daily life; for example a class is $40$ minutes, a day is $24$ hou
 
 ### Solution to Exercise 7
 
-Just actually do it or survey and fill in the table. Although $1$ minute is not long, you can jump rope nearly a hundred times, your pulse beats nearly a hundred times, and an announcer can read hundreds of characters; different things take different times, and the farther you run, the longer it takes. $\blacksquare$
+Just actually do it or survey and fill in the table. Although $1$ minute is not long, you can jump rope nearly a hundred times, your pulse beats nearly a hundred times, and an announcer can read hundreds of characters; different things take different times, and the farther you run, the longer it takes.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -94,7 +108,9 @@ Just actually do it or survey and fill in the table. Although $1$ minute is not 
 
 ### Solution to Exercise 8
 
-Count one number each second along with the second hand, from $1$ to $60$, and you finish exactly $1$ minute. By **Definition 4.1.3 (Conversions of Time)**, $1$ minute $=60$ seconds. $\blacksquare$
+Count one number each second along with the second hand, from $1$ to $60$, and you finish exactly $1$ minute. By **Definition 4.1.3 (Conversions of Time)**, $1$ minute $=60$ seconds.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -102,7 +118,9 @@ Count one number each second along with the second hand, from $1$ to $60$, and y
 
 ### Solution to Exercise 9
 
-$1$ second is very short; one tick of the clock or one blink is about $1$ second. Short as $1$ second is, rescue and emergency care must race against every second; for example a firefighter can climb from the ground to the $4$th floor in $15$ seconds. $\blacksquare$
+$1$ second is very short; one tick of the clock or one blink is about $1$ second. Short as $1$ second is, rescue and emergency care must race against every second; for example a firefighter can climb from the ground to the $4$th floor in $15$ seconds.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -110,7 +128,9 @@ $1$ second is very short; one tick of the clock or one blink is about $1$ second
 
 ### Solution to Exercise 10
 
-With your eyes closed, count one number per second in your head, and raise your hand at $30$. By **Definition 4.1.3 (Conversions of Time)**, $30$ seconds is half a minute. After exchanging with classmates you can adjust your counting rhythm, and the next estimate will be more accurate. $\blacksquare$
+With your eyes closed, count one number per second in your head, and raise your hand at $30$. By **Definition 4.1.3 (Conversions of Time)**, $30$ seconds is half a minute. After exchanging with classmates you can adjust your counting rhythm, and the next estimate will be more accurate.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -118,7 +138,9 @@ With your eyes closed, count one number per second in your head, and raise your 
 
 ### Solution to Exercise 11
 
-Leaving home at $9:30$ in the morning, he skis, skates, and eats lunch at the park, and returns home at $2:30$ in the afternoon. From $9:30$ a.m. to $2:30$ p.m., $5$ hours passed in all. The time from home to the park is found by subtracting the arrival time from the departure time. You can also raise questions such as "how long did lunch take?" $\blacksquare$
+Leaving home at $9:30$ in the morning, he skis, skates, and eats lunch at the park, and returns home at $2:30$ in the afternoon. From $9:30$ a.m. to $2:30$ p.m., $5$ hours passed in all. The time from home to the park is found by subtracting the arrival time from the departure time. You can also raise questions such as "how long did lunch take?"
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -126,7 +148,9 @@ Leaving home at $9:30$ in the morning, he skis, skates, and eats lunch at the pa
 
 ### Solution to Exercise 12
 
-Arrange the photos or drawings in the order things happened during the day, and label each with the time and the activity. When sharing, classmates can ask each other "how long did this activity take?" or "what time is it now?" $\blacksquare$
+Arrange the photos or drawings in the order things happened during the day, and label each with the time and the activity. When sharing, classmates can ask each other "how long did this activity take?" or "what time is it now?"
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -134,7 +158,9 @@ Arrange the photos or drawings in the order things happened during the day, and 
 
 ### Solution to Exercise 13
 
-Just pick a question, research it, and present it. For example the gnomon, the sundial, and the copper-clepsydra are ancient timekeeping tools, different from today's clocks; time-related idioms include "time flows like water", "fight for every minute and second", "time flies like an arrow", "a moment is worth a thousand gold", "seize the day and the hour", and "a white pony glimpsed through a crack", all reminding people to value time. $\blacksquare$
+Just pick a question, research it, and present it. For example the gnomon, the sundial, and the copper-clepsydra are ancient timekeeping tools, different from today's clocks; time-related idioms include "time flows like water", "fight for every minute and second", "time flies like an arrow", "a moment is worth a thousand gold", "seize the day and the hour", and "a white pony glimpsed through a crack", all reminding people to value time.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -142,7 +168,9 @@ Just pick a question, research it, and present it. For example the gnomon, the s
 
 ### Solution to Exercise 14
 
-Looking back on this activity, you might write: I learned to value time, learned that hours, minutes, and seconds are units of time, can read and write time correctly, can investigate in several ways, can solve problems through cooperation, and can take an active part in the tasks; then color stars to rate yourself. $\blacksquare$
+Looking back on this activity, you might write: I learned to value time, learned that hours, minutes, and seconds are units of time, can read and write time correctly, can investigate in several ways, can solve problems through cooperation, and can take an active part in the tasks; then color stars to rate yourself.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -150,7 +178,9 @@ Looking back on this activity, you might write: I learned to value time, learned
 
 ### Solution to Exercise 15
 
-By **Definition 4.2.1 (The Remainder)**, (1) $17\div4=4$(groups)... $1$(item), circled $4$ groups, $1$ left over. (2) $19\div4=4$(groups)... $3$(items), circled $4$ groups, $3$ left over. $\blacksquare$
+By **Definition 4.2.1 (The Remainder)**, (1) $17\div4=4$(groups)... $1$(item), circled $4$ groups, $1$ left over. (2) $19\div4=4$(groups)... $3$(items), circled $4$ groups, $3$ left over.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -158,7 +188,9 @@ By **Definition 4.2.1 (The Remainder)**, (1) $17\div4=4$(groups)... $1$(item), c
 
 ### Solution to Exercise 16
 
-By **Definition 4.2.1 (The Remainder)**, (1) $9\div2=4$(people)... $1$(pencil), can be given to $4$ people, with $1$ pencil left. (2) $9\div4=2$(pencils)... $1$(pencil), each person gets $2$ pencils, with $1$ pencil left. $\blacksquare$
+By **Definition 4.2.1 (The Remainder)**, (1) $9\div2=4$(people)... $1$(pencil), can be given to $4$ people, with $1$ pencil left. (2) $9\div4=2$(pencils)... $1$(pencil), each person gets $2$ pencils, with $1$ pencil left.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -166,7 +198,9 @@ By **Definition 4.2.1 (The Remainder)**, (1) $9\div2=4$(people)... $1$(pencil), 
 
 ### Solution to Exercise 17
 
-Making each square uses $4$ sticks and makes $1$ square, so the divisor is $4$. By **Definition 4.2.2 (The Remainder Must Be Smaller Than the Divisor)**, the remainder is smaller than $4$, so there might be $1$, $2$, or $3$ sticks left. $\blacksquare$
+Making each square uses $4$ sticks and makes $1$ square, so the divisor is $4$. By **Definition 4.2.2 (The Remainder Must Be Smaller Than the Divisor)**, the remainder is smaller than $4$, so there might be $1$, $2$, or $3$ sticks left.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -174,7 +208,9 @@ Making each square uses $4$ sticks and makes $1$ square, so the divisor is $4$. 
 
 ### Solution to Exercise 18
 
-The divisor is $6$. By **Definition 4.2.2 (The Remainder Must Be Smaller Than the Divisor)**, the remainder is smaller than $6$, so at most $5$ are left. $\blacksquare$
+The divisor is $6$. By **Definition 4.2.2 (The Remainder Must Be Smaller Than the Divisor)**, the remainder is smaller than $6$, so at most $5$ are left.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -182,4 +218,6 @@ The divisor is $6$. By **Definition 4.2.2 (The Remainder Must Be Smaller Than th
 
 ### Solution to Exercise 19
 
-Just choose any bagging method and circle it. For example $4$ per bag, $21\div4=5$(bags)... $1$(item), filling $5$ bags with $1$ left over; or $5$ per bag, $21\div5=4$(bags)... $1$(item). $\blacksquare$
+Just choose any bagging method and circle it. For example $4$ per bag, $21\div4=5$(bags)... $1$(item), filling $5$ bags with $1$ left over; or $5$ per bag, $21\div5=4$(bags)... $1$(item).
+
+$\blacksquare$

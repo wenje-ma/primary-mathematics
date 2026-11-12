@@ -34,7 +34,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 3.5.3 (Line Segment)**, only a straight line with endpoints on both ends is a line segment; a bent line or a straight line with no endpoints is not. $\blacksquare$
+By **Definition 3.5.3 (Line Segment)**, only a straight line with endpoints on both ends is a line segment; a bent line or a straight line with no endpoints is not.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -42,7 +44,9 @@ By **Definition 3.5.3 (Line Segment)**, only a straight line with endpoints on b
 
 ### Solution to Exercise 2
 
-By **Definition 3.5.3 (Line Segment)**, count the number of straight sides bounding each figure, for example a triangle $3$, a rectangle $4$, a pentagon $5$. $\blacksquare$
+By **Definition 3.5.3 (Line Segment)**, count the number of straight sides bounding each figure, for example a triangle $3$, a rectangle $4$, a pentagon $5$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -50,7 +54,9 @@ By **Definition 3.5.3 (Line Segment)**, count the number of straight sides bound
 
 ### Solution to Exercise 3
 
-By **Definition 3.5.3 (Line Segment)**, draw a segment between every pair of points, then count the total number, without repeats or omissions. $\blacksquare$
+By **Definition 3.5.3 (Line Segment)**, draw a segment between every pair of points, then count the total number, without repeats or omissions.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -58,7 +64,9 @@ By **Definition 3.5.3 (Line Segment)**, draw a segment between every pair of poi
 
 ### Solution to Exercise 4
 
-By **Definition 3.5.4 (How to Measure)**, first measure the known segment's length with a ruler (for example $4$ centimeters), then, following the method of Exercise 142, draw a segment of the same length. $\blacksquare$
+By **Definition 3.5.4 (How to Measure)**, first measure the known segment's length with a ruler (for example $4$ centimeters), then, following the method of Exercise 142, draw a segment of the same length.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -66,7 +74,9 @@ By **Definition 3.5.4 (How to Measure)**, first measure the known segment's leng
 
 ### Solution to Exercise 5
 
-By **Definition 3.5.4 (How to Measure)**, starting from the flower's position, use the ruler along the line to measure off $3$ centimeters, $5$ centimeters, and $10$ centimeters, and draw the symbols at the corresponding positions. $\blacksquare$
+By **Definition 3.5.4 (How to Measure)**, starting from the flower's position, use the ruler along the line to measure off $3$ centimeters, $5$ centimeters, and $10$ centimeters, and draw the symbols at the corresponding positions.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -74,7 +84,9 @@ By **Definition 3.5.4 (How to Measure)**, starting from the flower's position, u
 
 ### Solution to Exercise 6
 
-By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.2 (Meter)**, $13$ centimeters is about $1$ hand-span, and a flagpole cannot be that short; even a new pencil is more than $13$ centimeters, while a child is a bit over $1$ meter tall, and $10$ children's heights stacked up are about as tall as the flagpole, so the flagpole is $13$ meters high. $\blacksquare$
+By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.2 (Meter)**, $13$ centimeters is about $1$ hand-span, and a flagpole cannot be that short; even a new pencil is more than $13$ centimeters, while a child is a bit over $1$ meter tall, and $10$ children's heights stacked up are about as tall as the flagpole, so the flagpole is $13$ meters high.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -82,7 +94,9 @@ By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.2 (Meter)**, $13$ cent
 
 ### Solution to Exercise 7
 
-By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.2 (Meter)**, the desk is about $60$ centimeters long; the basketball court is about $28$ meters long; the sparrow's claw print is about $3$ centimeters long. Use centimeters for short things and meters for long things. $\blacksquare$
+By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.2 (Meter)**, the desk is about $60$ centimeters long; the basketball court is about $28$ meters long; the sparrow's claw print is about $3$ centimeters long. Use centimeters for short things and meters for long things.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -90,7 +104,9 @@ By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.2 (Meter)**, the desk 
 
 ### Solution to Exercise 8
 
-By **Definition 3.5.3 (Line Segment)** and **Definition 3.5.4 (How to Measure)**, the edges of a textbook, a table, and a door frame are all line segments; measure each edge with a ruler and record it. $\blacksquare$
+By **Definition 3.5.3 (Line Segment)** and **Definition 3.5.4 (How to Measure)**, the edges of a textbook, a table, and a door frame are all line segments; measure each edge with a ruler and record it.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -98,7 +114,9 @@ By **Definition 3.5.3 (Line Segment)** and **Definition 3.5.4 (How to Measure)**
 
 ### Solution to Exercise 9
 
-By **Definition 3.5.3 (Line Segment)**, every edge of a cuboid or a cube is a line segment; a cuboid has $12$ edges and a cube also has $12$ edges, so you can find $12$ line segments on each; count the edges with the blocks to verify. $\blacksquare$
+By **Definition 3.5.3 (Line Segment)**, every edge of a cuboid or a cube is a line segment; a cuboid has $12$ edges and a cube also has $12$ edges, so you can find $12$ line segments on each; count the edges with the blocks to verify.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -106,7 +124,9 @@ By **Definition 3.5.3 (Line Segment)**, every edge of a cuboid or a cube is a li
 
 ### Solution to Exercise 10
 
-By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.2 (Meter)**: the water bottle is about $25$ centimeters high; the book is about $1$ centimeter thick; the elephant is about $3$ meters high; the playground is about $50$ meters long. $\blacksquare$
+By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.2 (Meter)**: the water bottle is about $25$ centimeters high; the book is about $1$ centimeter thick; the elephant is about $3$ meters high; the playground is about $50$ meters long.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -114,7 +134,9 @@ By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.2 (Meter)**: the water
 
 ### Solution to Exercise 11
 
-By **Definition 3.5.4 (How to Measure)**, measure the route from the turtle to the little fish segment by segment in centimeters and add them up to get how far the turtle crawls; then raise a problem such as "how many centimeters does the ant crawl to the grain of rice?" and solve it. $\blacksquare$
+By **Definition 3.5.4 (How to Measure)**, measure the route from the turtle to the little fish segment by segment in centimeters and add them up to get how far the turtle crawls; then raise a problem such as "how many centimeters does the ant crawl to the grain of rice?" and solve it.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -122,7 +144,9 @@ By **Definition 3.5.4 (How to Measure)**, measure the route from the turtle to t
 
 ### Solution to Exercise 12
 
-By **Definition 3.5.1 (Centimeter)**, **Definition 3.5.2 (Meter)**, and **Definition 3.5.3 (Line Segment)**, both the centimeter and the meter are units of length, and $1$ meter $=100$ centimeters; use centimeters for short objects and meters for long ones; a line segment is straight and can be measured, and when measuring it line up the left end with the mark $0$, keep it against the object, and do not tilt. $\blacksquare$
+By **Definition 3.5.1 (Centimeter)**, **Definition 3.5.2 (Meter)**, and **Definition 3.5.3 (Line Segment)**, both the centimeter and the meter are units of length, and $1$ meter $=100$ centimeters; use centimeters for short objects and meters for long ones; a line segment is straight and can be measured, and when measuring it line up the left end with the mark $0$, keep it against the object, and do not tilt.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -130,7 +154,9 @@ By **Definition 3.5.1 (Centimeter)**, **Definition 3.5.2 (Meter)**, and **Defini
 
 ### Solution to Exercise 13
 
-By **Definition 3.5.4 (How to Measure)**, measure the segment with a ruler, line up the mark $0$ with one end, and read the other end's mark. $\blacksquare$
+By **Definition 3.5.4 (How to Measure)**, measure the segment with a ruler, line up the mark $0$ with one end, and read the other end's mark.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -138,7 +164,9 @@ By **Definition 3.5.4 (How to Measure)**, measure the segment with a ruler, line
 
 ### Solution to Exercise 14
 
-By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.4 (How to Measure)**, first use $1$ centimeter as a gauge to estimate how many copies of $1$ centimeter the object is, then actually measure with a ruler, and compare the estimate with the measurement. $\blacksquare$
+By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.4 (How to Measure)**, first use $1$ centimeter as a gauge to estimate how many copies of $1$ centimeter the object is, then actually measure with a ruler, and compare the estimate with the measurement.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -146,7 +174,9 @@ By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.4 (How to Measure)**, 
 
 ### Solution to Exercise 15
 
-By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.2 (Meter)**, the shoe is longer than $10$ centimeters (about $20$-something centimeters); the classroom door is wider than $1$ meter; the span of your outstretched arms is about your height, which is longer than $1$ meter. $\blacksquare$
+By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.2 (Meter)**, the shoe is longer than $10$ centimeters (about $20$-something centimeters); the classroom door is wider than $1$ meter; the span of your outstretched arms is about your height, which is longer than $1$ meter.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -154,7 +184,9 @@ By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.2 (Meter)**, the shoe 
 
 ### Solution to Exercise 16
 
-By **Definition 3.5.3 (Line Segment)**, count the straight sides of each figure one by one, taking care not to repeat or omit any. $\blacksquare$
+By **Definition 3.5.3 (Line Segment)**, count the straight sides of each figure one by one, taking care not to repeat or omit any.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -162,7 +194,9 @@ By **Definition 3.5.3 (Line Segment)**, count the straight sides of each figure 
 
 ### Solution to Exercise 17
 
-By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.2 (Meter)**: the math book is $26$ centimeters long; the lamp tube is $50$ centimeters long; the room is $3$ meters high; the dictionary is $6$ centimeters thick; the big tree is $8$ meters high; the classroom is $10$ meters long. $\blacksquare$
+By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.2 (Meter)**: the math book is $26$ centimeters long; the lamp tube is $50$ centimeters long; the room is $3$ meters high; the dictionary is $6$ centimeters thick; the big tree is $8$ meters high; the classroom is $10$ meters long.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -170,7 +204,9 @@ By **Definition 3.5.1 (Centimeter)** and **Definition 3.5.2 (Meter)**: the math 
 
 ### Solution to Exercise 18
 
-By **Definition 3.5.2 (Meter)** and **Definition 3.5.4 (How to Measure)**, first measure one pencil (about $20$ centimeters) and one chopstick (about $25$ centimeters), then think how many of these lengths fit into $100$ centimeters: about $5$ pencils or $4$ chopsticks placed end to end are $1$ meter long. $\blacksquare$
+By **Definition 3.5.2 (Meter)** and **Definition 3.5.4 (How to Measure)**, first measure one pencil (about $20$ centimeters) and one chopstick (about $25$ centimeters), then think how many of these lengths fit into $100$ centimeters: about $5$ pencils or $4$ chopsticks placed end to end are $1$ meter long.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -178,7 +214,9 @@ By **Definition 3.5.2 (Meter)** and **Definition 3.5.4 (How to Measure)**, first
 
 ### Solution to Exercise 19
 
-By **Definition 3.5.2 (Meter)**, work backward: in the end $3$ meters are left, which is half of what remained before the second use, so before the second use there were $3\times2=6$ (meters); these $6$ meters are half of the original, so originally the wire was $6\times2=12$ (meters) long. $\blacksquare$
+By **Definition 3.5.2 (Meter)**, work backward: in the end $3$ meters are left, which is half of what remained before the second use, so before the second use there were $3\times2=6$ (meters); these $6$ meters are half of the original, so originally the wire was $6\times2=12$ (meters) long.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -186,4 +224,6 @@ By **Definition 3.5.2 (Meter)**, work backward: in the end $3$ meters are left, 
 
 ### Solution to Exercise 20
 
-By **Definition 3.6.1 (Body Ruler)**, when buying or making clothes you need to measure height, shoulder width, waist circumference, head circumference, and neck circumference; these body measurements decide whether the clothes fit. $\blacksquare$
+By **Definition 3.6.1 (Body Ruler)**, when buying or making clothes you need to measure height, shoulder width, waist circumference, head circumference, and neck circumference; these body measurements decide whether the clothes fit.
+
+$\blacksquare$

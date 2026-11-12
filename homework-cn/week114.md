@@ -30,7 +30,9 @@
 
 ### 解答 练习一
 
-由**定义 10.3.4 (体积计算公式)**, $50\,\mathrm{cm}=0.5\,\mathrm{m}$, $V=50\times30\times0.5=750\,\mathrm{m^3}=750$ 方. $\blacksquare$
+由**定义 10.3.4 (体积计算公式)**, $50\,\mathrm{cm}=0.5\,\mathrm{m}$, $V=50\times30\times0.5=750\,\mathrm{m^3}=750$ 方.
+
+$\blacksquare$
 
 ## 练习二
 
@@ -38,7 +40,9 @@
 
 ### 解答 练习二
 
-由**定义 10.3.4 (体积计算公式)**, $V=30^3=27000\,\mathrm{cm^3}$. $\blacksquare$
+由**定义 10.3.4 (体积计算公式)**, $V=30^3=27000\,\mathrm{cm^3}$.
+
+$\blacksquare$
 
 ## 练习三
 
@@ -46,7 +50,9 @@
 
 ### 解答 练习三
 
-由**定义 10.3.4 (体积计算公式)** $V=Sh$: 第 1 个 $5\,\mathrm{dm}=50\,\mathrm{cm}$, $V=32\times50=1600\,\mathrm{cm^3}$; 第 2 个 $h=448\div40=11.2\,\mathrm{cm}$; 第 3 个 $V=54\times900=48600\,\mathrm{cm^3}$; 第 4 个 $S=729000000\div7=104142857\,\mathrm{cm^2}$. $\blacksquare$
+由**定义 10.3.4 (体积计算公式)** $V=Sh$: 第 1 个 $5\,\mathrm{dm}=50\,\mathrm{cm}$, $V=32\times50=1600\,\mathrm{cm^3}$; 第 2 个 $h=448\div40=11.2\,\mathrm{cm}$; 第 3 个 $V=54\times900=48600\,\mathrm{cm^3}$; 第 4 个 $S=729000000\div7=104142857\,\mathrm{cm^2}$.
+
+$\blacksquare$
 
 ## 练习四
 
@@ -54,7 +60,9 @@
 
 ### 解答 练习四
 
-由**定义 10.3.4 (体积计算公式)**, $2.4\,\mathrm{dm^2}=0.024\,\mathrm{m^2}$, 一根体积 $=0.024\times3=0.072\,\mathrm{m^3}$, $500$ 根 $=0.072\times500=36\,\mathrm{m^3}$. $\blacksquare$
+由**定义 10.3.4 (体积计算公式)**, $2.4\,\mathrm{dm^2}=0.024\,\mathrm{m^2}$, 一根体积 $=0.024\times3=0.072\,\mathrm{m^3}$, $500$ 根 $=0.072\times500=36\,\mathrm{m^3}$.
+
+$\blacksquare$
 
 ## 练习五
 
@@ -62,7 +70,9 @@
 
 ### 解答 练习五
 
-由**定义 10.3.5 (体积单位间的进率)** 及面积单位进率: $1.02\,\mathrm{m^3}=1020\,\mathrm{dm^3}$; $960\,\mathrm{dm^3}=0.96\,\mathrm{m^3}$; $6270\,\mathrm{cm^2}=62.7\,\mathrm{dm^2}$; $36000\,\mathrm{cm^3}=0.036\,\mathrm{m^3}$; $8.63\,\mathrm{m^2}=863\,\mathrm{dm^2}$; $23\,\mathrm{dm^3}=23000\,\mathrm{cm^3}$. $\blacksquare$
+由**定义 10.3.5 (体积单位间的进率)** 及面积单位进率: $1.02\,\mathrm{m^3}=1020\,\mathrm{dm^3}$; $960\,\mathrm{dm^3}=0.96\,\mathrm{m^3}$; $6270\,\mathrm{cm^2}=62.7\,\mathrm{dm^2}$; $36000\,\mathrm{cm^3}=0.036\,\mathrm{m^3}$; $8.63\,\mathrm{m^2}=863\,\mathrm{dm^2}$; $23\,\mathrm{dm^3}=23000\,\mathrm{cm^3}$.
+
+$\blacksquare$
 
 ## 练习六
 
@@ -70,7 +80,9 @@
 
 ### 解答 练习六
 
-由**定义 10.3.4 (体积计算公式)**, $11.76\,\mathrm{dm^3}=11760\,\mathrm{cm^3}$, 盒高 $=11760\div\left(28\times20\right)=21\,\mathrm{cm}$. 盒子内部长 $28>25$, 宽 $20>16$, 高 $21>18$, 三个方向都能容纳, 故装得进去. $\blacksquare$
+由**定义 10.3.4 (体积计算公式)**, $11.76\,\mathrm{dm^3}=11760\,\mathrm{cm^3}$, 盒高 $=11760\div\left(28\times20\right)=21\,\mathrm{cm}$. 盒子内部长 $28>25$, 宽 $20>16$, 高 $21>18$, 三个方向都能容纳, 故装得进去.
+
+$\blacksquare$
 
 ## 练习七
 
@@ -78,7 +90,9 @@
 
 ### 解答 练习七
 
-由**定义 10.3.4 (体积计算公式)**, 心愿墙体积 $=600\times270\times6=972000\,\mathrm{cm^3}$, 一块积木 $=3^3=27\,\mathrm{cm^3}$, 块数 $=972000\div27=36000$ 块. $\blacksquare$
+由**定义 10.3.4 (体积计算公式)**, 心愿墙体积 $=600\times270\times6=972000\,\mathrm{cm^3}$, 一块积木 $=3^3=27\,\mathrm{cm^3}$, 块数 $=972000\div27=36000$ 块.
+
+$\blacksquare$
 
 ## 练习八
 
@@ -86,7 +100,9 @@
 
 ### 解答 练习八
 
-由**定义 10.3.2 (表面积)** 与**定义 10.3.4 (体积计算公式)**, $60\,\mathrm{cm}=0.6\,\mathrm{m}$: 玻璃面积 $=6\times0.6+\left(6\times1.5+0.6\times1.5\right)\times2=3.6+19.8=23.4\,\mathrm{m^2}$; 体积 $=6\times0.6\times1.5=5.4\,\mathrm{m^3}$. $\blacksquare$
+由**定义 10.3.2 (表面积)** 与**定义 10.3.4 (体积计算公式)**, $60\,\mathrm{cm}=0.6\,\mathrm{m}$: 玻璃面积 $=6\times0.6+\left(6\times1.5+0.6\times1.5\right)\times2=3.6+19.8=23.4\,\mathrm{m^2}$; 体积 $=6\times0.6\times1.5=5.4\,\mathrm{m^3}$.
+
+$\blacksquare$
 
 ## 练习九
 
@@ -94,7 +110,9 @@
 
 ### 解答 练习九
 
-由**定义 10.3.4 (体积计算公式)**, $38\,\mathrm{dm}=3.8\,\mathrm{m}$, 底面积 $=5\times3.8=19\,\mathrm{m^2}$, 厚度 $h=7.6\div19=0.4\,\mathrm{m}$. $\blacksquare$
+由**定义 10.3.4 (体积计算公式)**, $38\,\mathrm{dm}=3.8\,\mathrm{m}$, 底面积 $=5\times3.8=19\,\mathrm{m^2}$, 厚度 $h=7.6\div19=0.4\,\mathrm{m}$.
+
+$\blacksquare$
 
 ## 练习十
 
@@ -102,7 +120,9 @@
 
 ### 解答 练习十
 
-由**定义 10.3.4 (体积计算公式)**, $V=40\times20\times10=8000\,\mathrm{cm^3}$. $\blacksquare$
+由**定义 10.3.4 (体积计算公式)**, $V=40\times20\times10=8000\,\mathrm{cm^3}$.
+
+$\blacksquare$
 
 ## 练习十一
 
@@ -110,7 +130,9 @@
 
 ### 解答 练习十一
 
-由**定义 10.3.1 (长方体和正方体的特征)** 与**定义 10.3.4 (体积计算公式)**, 长方体棱长总和 $=\left(6+4+5\right)\times4=60\,\mathrm{cm}$, 正方体棱长 $=60\div12=5\,\mathrm{cm}$; 长方体体积 $=6\times4\times5=120\,\mathrm{cm^3}$, 正方体体积 $=5^3=125\,\mathrm{cm^3}$, 不相等. $\blacksquare$
+由**定义 10.3.1 (长方体和正方体的特征)** 与**定义 10.3.4 (体积计算公式)**, 长方体棱长总和 $=\left(6+4+5\right)\times4=60\,\mathrm{cm}$, 正方体棱长 $=60\div12=5\,\mathrm{cm}$; 长方体体积 $=6\times4\times5=120\,\mathrm{cm^3}$, 正方体体积 $=5^3=125\,\mathrm{cm^3}$, 不相等.
+
+$\blacksquare$
 
 ## 练习十二
 
@@ -118,7 +140,9 @@
 
 ### 解答 练习十二
 
-由**定义 10.3.6 (容积和容积单位)**, 容积 $=5\times4\times2=40\,\mathrm{dm^3}=40\,\mathrm{L}$. $\blacksquare$
+由**定义 10.3.6 (容积和容积单位)**, 容积 $=5\times4\times2=40\,\mathrm{dm^3}=40\,\mathrm{L}$.
+
+$\blacksquare$
 
 ## 练习十三
 
@@ -126,4 +150,6 @@
 
 ### 解答 练习十三
 
-由**定义 10.3.6 (容积和容积单位)**: (1) 墨水 $50\,\mathrm{mL}$, 洗手液 $500\,\mathrm{mL}$, 冰箱 $229\,\mathrm{L}$, 载人舱 $3\,\mathrm{m^3}$; (2) $4\,\mathrm{L}=4000\,\mathrm{mL}$, $4800\,\mathrm{mL}=4.8\,\mathrm{L}$, $2.4\,\mathrm{L}=2400\,\mathrm{mL}$, $82\,\mathrm{cm^3}=82\,\mathrm{mL}$, $35\,\mathrm{dm^3}=35000\,\mathrm{mL}$, $500\,\mathrm{mL}=0.5\,\mathrm{L}$. $\blacksquare$
+由**定义 10.3.6 (容积和容积单位)**: (1) 墨水 $50\,\mathrm{mL}$, 洗手液 $500\,\mathrm{mL}$, 冰箱 $229\,\mathrm{L}$, 载人舱 $3\,\mathrm{m^3}$; (2) $4\,\mathrm{L}=4000\,\mathrm{mL}$, $4800\,\mathrm{mL}=4.8\,\mathrm{L}$, $2.4\,\mathrm{L}=2400\,\mathrm{mL}$, $82\,\mathrm{cm^3}=82\,\mathrm{mL}$, $35\,\mathrm{dm^3}=35000\,\mathrm{mL}$, $500\,\mathrm{mL}=0.5\,\mathrm{L}$.
+
+$\blacksquare$

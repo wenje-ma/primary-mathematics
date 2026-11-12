@@ -46,7 +46,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 11.3.2 (Rule for Fraction Division)**: $35\div\frac{5}{7}=35\times\frac{7}{5}=49$ pages. $\blacksquare$
+By **Definition 11.3.2 (Rule for Fraction Division)**: $35\div\frac{5}{7}=35\times\frac{7}{5}=49$ pages.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -54,7 +56,9 @@ By **Definition 11.3.2 (Rule for Fraction Division)**: $35\div\frac{5}{7}=35\tim
 
 ### Solution to Exercise 2
 
-By **Definition 11.3.3 (Work Problems)**: $1\div\left(\frac{1}{6}+\frac{1}{3}\right)=1\div\frac{1}{2}=2$ trips. $\blacksquare$
+By **Definition 11.3.3 (Work Problems)**: $1\div\left(\frac{1}{6}+\frac{1}{3}\right)=1\div\frac{1}{2}=2$ trips.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -62,7 +66,9 @@ By **Definition 11.3.3 (Work Problems)**: $1\div\left(\frac{1}{6}+\frac{1}{3}\ri
 
 ### Solution to Exercise 3
 
-By **Definition 11.3.1 (Reciprocals)**, $ab=1$: $\frac{a}{9}\times\frac{b}{8}=\frac{ab}{72}=\frac{1}{72}$; $\frac{5}{a}\times\frac{4}{b}=\frac{20}{ab}=20$; $\frac{a}{6}\div\frac{5}{b}=\frac{a}{6}\times\frac{b}{5}=\frac{1}{30}$; $\frac{7}{a}\div\frac{b}{6}=\frac{7}{a}\times\frac{6}{b}=\frac{42}{ab}=42$. $\blacksquare$
+By **Definition 11.3.1 (Reciprocals)**, $ab=1$: $\frac{a}{9}\times\frac{b}{8}=\frac{ab}{72}=\frac{1}{72}$; $\frac{5}{a}\times\frac{4}{b}=\frac{20}{ab}=20$; $\frac{a}{6}\div\frac{5}{b}=\frac{a}{6}\times\frac{b}{5}=\frac{1}{30}$; $\frac{7}{a}\div\frac{b}{6}=\frac{7}{a}\times\frac{6}{b}=\frac{42}{ab}=42$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -70,7 +76,9 @@ By **Definition 11.3.1 (Reciprocals)**, $ab=1$: $\frac{a}{9}\times\frac{b}{8}=\f
 
 ### Solution to Exercise 4
 
-By **Definition 11.3.3 (Work Problems)**: $1\div\left(\frac{1}{6}+\frac{1}{4}\right)=1\div\frac{5}{12}=\frac{12}{5}$ minutes. $\blacksquare$
+By **Definition 11.3.3 (Work Problems)**: $1\div\left(\frac{1}{6}+\frac{1}{4}\right)=1\div\frac{5}{12}=\frac{12}{5}$ minutes.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -78,7 +86,9 @@ By **Definition 11.3.3 (Work Problems)**: $1\div\left(\frac{1}{6}+\frac{1}{4}\ri
 
 ### Solution to Exercise 5
 
-(1) $140\times\frac{1}{5}=28$ teeth; (2) $28\div\frac{1}{5}=140$ teeth; (3) $400\times\left(1-\frac{4}{5}\right)=80$ rpm. $\blacksquare$
+(1) $140\times\frac{1}{5}=28$ teeth; (2) $28\div\frac{1}{5}=140$ teeth; (3) $400\times\left(1-\frac{4}{5}\right)=80$ rpm.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -86,7 +96,9 @@ By **Definition 11.3.3 (Work Problems)**: $1\div\left(\frac{1}{6}+\frac{1}{4}\ri
 
 ### Solution to Exercise 6
 
-$\frac{3}{4}\div\frac{b}{a}=\frac{3}{4}\times\frac{a}{b}$. Compare $\frac{b}{a}$ with $\frac{a}{b}$: (1) $\frac{b}{a}>\frac{a}{b}$, i.e. $b^2>{}a^2$, $b>{}a$, fill $<$; (2) $\frac{b}{a}=\frac{a}{b}$, $a=b$; (3) $\frac{b}{a}<\frac{a}{b}$, $b<{}a$, fill $>$. If $\frac{3}{4}\times{c}=\frac{3}{4}\div{d}=\frac{3}{4}\times\frac{1}{d}$, then $c=\frac{1}{d}$, i.e. $c,d$ are reciprocals. $\blacksquare$
+$\frac{3}{4}\div\frac{b}{a}=\frac{3}{4}\times\frac{a}{b}$. Compare $\frac{b}{a}$ with $\frac{a}{b}$: (1) $\frac{b}{a}>\frac{a}{b}$, i.e. $b^2>a^2$, $b>a$, fill $<$; (2) $\frac{b}{a}=\frac{a}{b}$, $a=b$; (3) $\frac{b}{a}<\frac{a}{b}$, $b<{}a$, fill $>$. If $\frac{3}{4}\times{c}=\frac{3}{4}\div{d}=\frac{3}{4}\times\frac{1}{d}$, then $c=\frac{1}{d}$, i.e. $c,d$ are reciprocals.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -94,7 +106,9 @@ $\frac{3}{4}\div\frac{b}{a}=\frac{3}{4}\times\frac{a}{b}$. Compare $\frac{b}{a}$
 
 ### Solution to Exercise 7
 
-Take day as unit "$1$"; whole day $=$ day $\times\left(1+\frac{5}{7}\right)=$ day $\times\frac{12}{7}$. Day $=24\div\frac{12}{7}=14$ hours, night $=24-14=10$ hours. $\blacksquare$
+Take day as unit "$1$"; whole day $=$ day $\times\left(1+\frac{5}{7}\right)=$ day $\times\frac{12}{7}$. Day $=24\div\frac{12}{7}=14$ hours, night $=24-14=10$ hours.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -102,7 +116,9 @@ Take day as unit "$1$"; whole day $=$ day $\times\left(1+\frac{5}{7}\right)=$ da
 
 ### Solution to Exercise 8
 
-E.g. Beijing $-4\,^{\circ}\text{C}\sim0\,^{\circ}\text{C}$ means from $4$ below zero to $0$ degrees; the Turpan Basin's lowest point at $-154.31\;\text{m}$ altitude means $154.31\;\text{m}$ below sea level; a bill entry $-500.00$ yuan means a $500$ yuan expense. All use positive/negative numbers for opposite quantities. $\blacksquare$
+E.g. Beijing $-4\,^{\circ}\text{C}\sim0\,^{\circ}\text{C}$ means from $4$ below zero to $0$ degrees; the Turpan Basin's lowest point at $-154.31\;\text{m}$ altitude means $154.31\;\text{m}$ below sea level; a bill entry $-500.00$ yuan means a $500$ yuan expense. All use positive/negative numbers for opposite quantities.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -110,7 +126,9 @@ E.g. Beijing $-4\,^{\circ}\text{C}\sim0\,^{\circ}\text{C}$ means from $4$ below 
 
 ### Solution to Exercise 9
 
-By **Definition 11.4.2 (Positive/Negative Numbers for Opposite Quantities)**, each uses a standard ($0\,^{\circ}\text{C}$, sea level, break-even) as a divider into two opposite senses, one marked positive, the other negative. $\blacksquare$
+By **Definition 11.4.2 (Positive/Negative Numbers for Opposite Quantities)**, each uses a standard ($0\,^{\circ}\text{C}$, sea level, break-even) as a divider into two opposite senses, one marked positive, the other negative.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -120,7 +138,9 @@ The figure: a horizontal number line, with $0$ in the middle, $1,2,3,4$ marked t
 
 ### Solution to Exercise 10
 
-The line is like a sideways thermometer; negative numbers go left of $0$, and from $0$ leftward we mark $-1$, $-2$, $-3$, $-4$, with numbers decreasing to the left. By **Definition 11.4.1 (Positive and Negative Numbers)**, $0$ is neither. $\blacksquare$
+The line is like a sideways thermometer; negative numbers go left of $0$, and from $0$ leftward we mark $-1$, $-2$, $-3$, $-4$, with numbers decreasing to the left. By **Definition 11.4.1 (Positive and Negative Numbers)**, $0$ is neither.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -128,7 +148,9 @@ The line is like a sideways thermometer; negative numbers go left of $0$, and fr
 
 ### Solution to Exercise 11
 
-By **Definition 11.4.2 (Positive/Negative Numbers for Opposite Quantities)**, positives = income, negatives = expense. $9500-2000-200-500=6800$ yuan, i.e. a surplus of $6800$ yuan. $\blacksquare$
+By **Definition 11.4.2 (Positive/Negative Numbers for Opposite Quantities)**, positives = income, negatives = expense. $9500-2000-200-500=6800$ yuan, i.e. a surplus of $6800$ yuan.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -136,7 +158,9 @@ By **Definition 11.4.2 (Positive/Negative Numbers for Opposite Quantities)**, po
 
 ### Solution to Exercise 12
 
-Sit-and-reach takes palms just touching the toes as $0\;\text{cm}$; beyond the toes is positive, short of the toes is negative. After testing, record each person's score as a signed number. $\blacksquare$
+Sit-and-reach takes palms just touching the toes as $0\;\text{cm}$; beyond the toes is positive, short of the toes is negative. After testing, record each person's score as a signed number.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -144,7 +168,9 @@ Sit-and-reach takes palms just touching the toes as $0\;\text{cm}$; beyond the t
 
 ### Solution to Exercise 13
 
-By **Definition 11.5.1 (Parts of a Circle)**, the needle leg stays fixed and the spread must not change while rotating. The center fixes the circle's position; the radius fixes its size. $\blacksquare$
+By **Definition 11.5.1 (Parts of a Circle)**, the needle leg stays fixed and the spread must not change while rotating. The center fixes the circle's position; the radius fixes its size.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -152,4 +178,6 @@ By **Definition 11.5.1 (Parts of a Circle)**, the needle leg stays fixed and the
 
 ### Solution to Exercise 14
 
-A circle has infinitely many radii and infinitely many diameters; in the same circle all radii are equal and all diameters equal, and a diameter is $2$ times the radius; folding along any diameter makes both halves coincide. $\blacksquare$
+A circle has infinitely many radii and infinitely many diameters; in the same circle all radii are equal and all diameters equal, and a diameter is $2$ times the radius; folding along any diameter makes both halves coincide.
+
+$\blacksquare$

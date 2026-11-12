@@ -46,7 +46,9 @@
 
 ### Solution to Exercise 1
 
-Outer radius $=4+1=5\;\text{m}$, $S=3.14\times5^2=78.5\;\text{m}^2$. $\blacksquare$
+Outer radius $=4+1=5\;\text{m}$, $S=3.14\times5^2=78.5\;\text{m}^2$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -54,7 +56,9 @@ Outer radius $=4+1=5\;\text{m}$, $S=3.14\times5^2=78.5\;\text{m}^2$. $\blacksqua
 
 ### Solution to Exercise 2
 
-In square-outside circle-inside, the circle is $\frac{\pi}{4}$ of the square: $10\times\frac{\pi}{4}=2.5\pi\approx7.85\;\text{cm}^2$. $\blacksquare$
+In square-outside circle-inside, the circle is $\frac{\pi}{4}$ of the square: $10\times\frac{\pi}{4}=2.5\pi\approx7.85\;\text{cm}^2$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -62,7 +66,9 @@ In square-outside circle-inside, the circle is $\frac{\pi}{4}$ of the square: $1
 
 ### Solution to Exercise 3
 
-Wheel perimeter $3.14\times1.7=5.338\;\text{m}$; per minute $5.338\times6=32.028\;\text{m}$; in $10$ minutes $320.28\;\text{m}$. $\blacksquare$
+Wheel perimeter $3.14\times1.7=5.338\;\text{m}$; per minute $5.338\times6=32.028\;\text{m}$; in $10$ minutes $320.28\;\text{m}$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -70,7 +76,9 @@ Wheel perimeter $3.14\times1.7=5.338\;\text{m}$; per minute $5.338\times6=32.028
 
 ### Solution to Exercise 4
 
-Four sectors make one circle of radius $1\;\text{cm}$. Perimeter $=2\times3.14\times1=6.28\;\text{cm}$; area $=1+3.14\times1^2=4.14\;\text{cm}^2$. $\blacksquare$
+Four sectors make one circle of radius $1\;\text{cm}$. Perimeter $=2\times3.14\times1=6.28\;\text{cm}$; area $=1+3.14\times1^2=4.14\;\text{cm}^2$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -78,7 +86,9 @@ Four sectors make one circle of radius $1\;\text{cm}$. Perimeter $=2\times3.14\t
 
 ### Solution to Exercise 5
 
-Area ratio $=$ square of diameter ratio: $\left(\frac{0.5}{5.5}\right)^2=\frac{1}{121}$. $\blacksquare$
+Area ratio $=$ square of diameter ratio: $\left(\frac{0.5}{5.5}\right)^2=\frac{1}{121}$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -86,7 +96,9 @@ Area ratio $=$ square of diameter ratio: $\left(\frac{0.5}{5.5}\right)^2=\frac{1
 
 ### Solution to Exercise 6
 
-The small triangle's vertices are the midpoints of the large sides; joining midpoints splits the large triangle into $4$ congruent small ones. Large area $=60\times4=240\;\text{cm}^2$. $\blacksquare$
+The small triangle's vertices are the midpoints of the large sides; joining midpoints splits the large triangle into $4$ congruent small ones. Large area $=60\times4=240\;\text{cm}^2$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -94,7 +106,9 @@ The small triangle's vertices are the midpoints of the large sides; joining midp
 
 ### Solution to Exercise 7
 
-A track has two straights and two semicircular turns; the straights are equal and the turns together form one circle; there are several lanes, each wider than the one inside. $\blacksquare$
+A track has two straights and two semicircular turns; the straights are equal and the turns together form one circle; there are several lanes, each wider than the one inside.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -102,7 +116,9 @@ A track has two straights and two semicircular turns; the straights are equal an
 
 ### Solution to Exercise 8
 
-The turns make one circle: $2\times3.14\times36.3\approx228.1\;\text{m}$; total $85.96\times2+228.1\approx400\;\text{m}$. Second lane radius $36.3+1.25=37.55\;\text{m}$. $\blacksquare$
+The turns make one circle: $2\times3.14\times36.3\approx228.1\;\text{m}$; total $85.96\times2+228.1\approx400\;\text{m}$. Second lane radius $36.3+1.25=37.55\;\text{m}$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -110,7 +126,9 @@ The turns make one circle: $2\times3.14\times36.3\approx228.1\;\text{m}$; total 
 
 ### Solution to Exercise 9
 
-By **Definition 11.6.1 (Lane Circumference Difference)**, adjacent lanes differ by $1.25\times2\times3.14=7.85\;\text{m}$. The $n$-th lap length $=400+\left(n-1\right)\times7.85\;\text{m}$. $\blacksquare$
+By **Definition 11.6.1 (Lane Circumference Difference)**, adjacent lanes differ by $1.25\times2\times3.14=7.85\;\text{m}$. The $n$-th lap length $=400+\left(n-1\right)\times7.85\;\text{m}$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -118,7 +136,9 @@ By **Definition 11.6.1 (Lane Circumference Difference)**, adjacent lanes differ 
 
 ### Solution to Exercise 10
 
-A $400\;\text{m}$ lap covers two semicircular turns (one full circle); by **Definition 11.6.1 (Lane Circumference Difference)** advance by $7.85\;\text{m}$; a $200\;\text{m}$ race covers one semicircular turn, so advance $7.85\div2=3.925\;\text{m}$. $\blacksquare$
+A $400\;\text{m}$ lap covers two semicircular turns (one full circle); by **Definition 11.6.1 (Lane Circumference Difference)** advance by $7.85\;\text{m}$; a $200\;\text{m}$ race covers one semicircular turn, so advance $7.85\div2=3.925\;\text{m}$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -126,7 +146,9 @@ A $400\;\text{m}$ lap covers two semicircular turns (one full circle); by **Defi
 
 ### Solution to Exercise 11
 
-By **Definition 11.7.1 (Percentages)**, $85\%$ means admitted students are $\frac{85}{100}$ of all applicants; $35\%$ means green-covered area is $\frac{35}{100}$ of Beijing's urban area. $\blacksquare$
+By **Definition 11.7.1 (Percentages)**, $85\%$ means admitted students are $\frac{85}{100}$ of all applicants; $35\%$ means green-covered area is $\frac{35}{100}$ of Beijing's urban area.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -134,7 +156,9 @@ By **Definition 11.7.1 (Percentages)**, $85\%$ means admitted students are $\fra
 
 ### Solution to Exercise 12
 
-Write $1\%$, $28\%$, $0.5\%$; read as one percent, twenty-eight percent, zero point five percent. $\blacksquare$
+Write $1\%$, $28\%$, $0.5\%$; read as one percent, twenty-eight percent, zero point five percent.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -142,7 +166,9 @@ Write $1\%$, $28\%$, $0.5\%$; read as one percent, twenty-eight percent, zero po
 
 ### Solution to Exercise 13
 
-$0.98=98\%$; $1.15=115\%$; $0.684=68.4\%$; $\frac{1}{4}=0.25=25\%$; $\frac{1}{6}\approx0.167=16.7\%$; $\frac{3}{5}=0.6=60\%$. $\blacksquare$
+$0.98=98\%$; $1.15=115\%$; $0.684=68.4\%$; $\frac{1}{4}=0.25=25\%$; $\frac{1}{6}\approx0.167=16.7\%$; $\frac{3}{5}=0.6=60\%$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -150,7 +176,9 @@ $0.98=98\%$; $1.15=115\%$; $0.684=68.4\%$; $\frac{1}{4}=0.25=25\%$; $\frac{1}{6}
 
 ### Solution to Exercise 14
 
-$97\%$, $8\%$, $0.5\%$, $13.2\%$; $25\%$, $12.5\%$, $60\%$, $16.7\%$. $\blacksquare$
+$97\%$, $8\%$, $0.5\%$, $13.2\%$; $25\%$, $12.5\%$, $60\%$, $16.7\%$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -158,7 +186,9 @@ $97\%$, $8\%$, $0.5\%$, $13.2\%$; $25\%$, $12.5\%$, $60\%$, $16.7\%$. $\blacksqu
 
 ### Solution to Exercise 15
 
-By **Definition 11.7.1 (Percentages)**, $42\%$ means wool is $\frac{42}{100}$ of the fabric; $3.2\%$ means calcium is $\frac{3.2}{100}$ of the milk. $\blacksquare$
+By **Definition 11.7.1 (Percentages)**, $42\%$ means wool is $\frac{42}{100}$ of the fabric; $3.2\%$ means calcium is $\frac{3.2}{100}$ of the milk.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -166,7 +196,9 @@ By **Definition 11.7.1 (Percentages)**, $42\%$ means wool is $\frac{42}{100}$ of
 
 ### Solution to Exercise 16
 
-Write $6\%$, $0.64\%$, $120\%$; read as six percent, zero point six four percent, one hundred twenty percent. $\blacksquare$
+Write $6\%$, $0.64\%$, $120\%$; read as six percent, zero point six four percent, one hundred twenty percent.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -174,7 +206,9 @@ Write $6\%$, $0.64\%$, $120\%$; read as six percent, zero point six four percent
 
 ### Solution to Exercise 17
 
-From the grid, count shaded cells divided by total cells and convert to percent, e.g. shaded $23$ cells $/$ out of $100$ cells = $23\%$. $\blacksquare$
+From the grid, count shaded cells divided by total cells and convert to percent, e.g. shaded $23$ cells $/$ out of $100$ cells = $23\%$.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -182,7 +216,9 @@ From the grid, count shaded cells divided by total cells and convert to percent,
 
 ### Solution to Exercise 18
 
-$15\div50=30\%$. $100\%$ means all; $3\%$ means three parts out of a hundred. $\blacksquare$
+$15\div50=30\%$. $100\%$ means all; $3\%$ means three parts out of a hundred.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -190,7 +226,9 @@ $15\div50=30\%$. $100\%$ means all; $3\%$ means three parts out of a hundred. $\
 
 ### Solution to Exercise 19
 
-Move the decimal two places and add %: $210\%$, $31.3\%$, $186\%$, $36\%$, $6\%$, $0.5\%$. $\blacksquare$
+Move the decimal two places and add %: $210\%$, $31.3\%$, $186\%$, $36\%$, $6\%$, $0.5\%$.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -198,4 +236,6 @@ Move the decimal two places and add %: $210\%$, $31.3\%$, $186\%$, $36\%$, $6\%$
 
 ### Solution to Exercise 20
 
-First to decimal then percent: $75\%$, $62.5\%$, $16.7\%$, $55.6\%$. $\blacksquare$
+First to decimal then percent: $75\%$, $62.5\%$, $16.7\%$, $55.6\%$.
+
+$\blacksquare$

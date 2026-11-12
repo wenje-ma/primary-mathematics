@@ -22,7 +22,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $2400\times\left(\frac{1}{3}+\frac{3}{8}+\frac{1}{6}\right)=2400\times\frac{5}{8}=1500$ ten-thousand kWh. $\blacksquare$
+By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $2400\times\left(\frac{1}{3}+\frac{3}{8}+\frac{1}{6}\right)=2400\times\frac{5}{8}=1500$ ten-thousand kWh.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -30,7 +32,9 @@ By **Definition 11.2.3 (Mixed Operations and Laws for Fractions)**: $2400\times\
 
 ### Solution to Exercise 2
 
-$6670\times\frac{9}{10}+297=6003+297=6300\;\text{km}$. $\blacksquare$
+$6670\times\frac{9}{10}+297=6003+297=6300\;\text{km}$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -38,7 +42,9 @@ $6670\times\frac{9}{10}+297=6003+297=6300\;\text{km}$. $\blacksquare$
 
 ### Solution to Exercise 3
 
-Rule: two fractions with the same numerator equal to the sum of the denominators have sum equal to product. First pair denominators $2$ and $\square$, numerator $5$, i.e. $\frac{5}{3}+\frac{5}{2}=\frac{5}{3}\times\frac{5}{2}$. Second pair $6=\frac{6}{1}$, the other denominator is $5$: $6+\frac{6}{5}=6\times\frac{6}{5}$. $\blacksquare$
+Rule: two fractions with the same numerator equal to the sum of the denominators have sum equal to product. First pair denominators $2$ and $\square$, numerator $5$, i.e. $\frac{5}{3}+\frac{5}{2}=\frac{5}{3}\times\frac{5}{2}$. Second pair $6=\frac{6}{1}$, the other denominator is $5$: $6+\frac{6}{5}=6\times\frac{6}{5}$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -46,7 +52,9 @@ Rule: two fractions with the same numerator equal to the sum of the denominators
 
 ### Solution to Exercise 4
 
-Rule: two fractions with numerator $1$ and consecutive denominators have their difference equal to their product, i.e. $\frac{1}{n}-\frac{1}{n+1}=\frac{1}{n\left(n+1\right)}=\frac{1}{n}\times\frac{1}{n+1}$. E.g. $\frac{1}{5}-\frac{1}{6}=\frac{1}{30}=\frac{1}{5}\times\frac{1}{6}$. $\blacksquare$
+Rule: two fractions with numerator $1$ and consecutive denominators have their difference equal to their product, i.e. $\frac{1}{n}-\frac{1}{n+1}=\frac{1}{n\left(n+1\right)}=\frac{1}{n}\times\frac{1}{n+1}$. E.g. $\frac{1}{5}-\frac{1}{6}=\frac{1}{30}=\frac{1}{5}\times\frac{1}{6}$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -54,7 +62,9 @@ Rule: two fractions with numerator $1$ and consecutive denominators have their d
 
 ### Solution to Exercise 5
 
-By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $4800\times\frac{3}{5}\times\frac{1}{4}=2880\times\frac{1}{4}=720\;\text{m}^2$. Or $4800\times\left(\frac{3}{5}\times\frac{1}{4}\right)=4800\times\frac{3}{20}=720\;\text{m}^2$. $\blacksquare$
+By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $4800\times\frac{3}{5}\times\frac{1}{4}=2880\times\frac{1}{4}=720\;\text{m}^2$. Or $4800\times\left(\frac{3}{5}\times\frac{1}{4}\right)=4800\times\frac{3}{20}=720\;\text{m}^2$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -62,7 +72,9 @@ By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $4800\times\frac{3}{
 
 ### Solution to Exercise 6
 
-By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $36\times\frac{1}{3}\times\frac{3}{4}=12\times\frac{3}{4}=9$ students. $\blacksquare$
+By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $36\times\frac{1}{3}\times\frac{3}{4}=12\times\frac{3}{4}=9$ students.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -70,7 +82,9 @@ By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $36\times\frac{1}{3}
 
 ### Solution to Exercise 7
 
-By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $40\times\frac{3}{4}\times\frac{2}{3}=30\times\frac{2}{3}=20$ years. $\blacksquare$
+By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $40\times\frac{3}{4}\times\frac{2}{3}=30\times\frac{2}{3}=20$ years.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -78,7 +92,9 @@ By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $40\times\frac{3}{4}
 
 ### Solution to Exercise 8
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: first the reduction $100\times\frac{1}{4}=25\;\text{kg}$, then $100-25=75\;\text{kg}$; or take the remaining fraction $100\times\left(1-\frac{1}{4}\right)=100\times\frac{3}{4}=75\;\text{kg}$. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: first the reduction $100\times\frac{1}{4}=25\;\text{kg}$, then $100-25=75\;\text{kg}$; or take the remaining fraction $100\times\left(1-\frac{1}{4}\right)=100\times\frac{3}{4}=75\;\text{kg}$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -86,7 +102,9 @@ By **Definition 11.2.2 (A Number Times a Fraction)**: first the reduction $100\t
 
 ### Solution to Exercise 9
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: $75\times\left(1+\frac{4}{5}\right)=75\times\frac{9}{5}=135$ beats. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: $75\times\left(1+\frac{4}{5}\right)=75\times\frac{9}{5}=135$ beats.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -94,7 +112,9 @@ By **Definition 11.2.2 (A Number Times a Fraction)**: $75\times\left(1+\frac{4}{
 
 ### Solution to Exercise 10
 
-(1) $120\times\frac{5}{6}=100$ trees, i.e. willow and peach together $100$; then use the figure's parts to find peach. (2) $160\times\frac{3}{4}\times\frac{4}{5}=96$. $\blacksquare$
+(1) $120\times\frac{5}{6}=100$ trees, i.e. willow and peach together $100$; then use the figure's parts to find peach. (2) $160\times\frac{3}{4}\times\frac{4}{5}=96$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -102,7 +122,9 @@ By **Definition 11.2.2 (A Number Times a Fraction)**: $75\times\left(1+\frac{4}{
 
 ### Solution to Exercise 11
 
-By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $20\times\frac{2}{5}\times\frac{1}{160}=8\times\frac{1}{160}=\frac{1}{20}$ cm/s. $\blacksquare$
+By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $20\times\frac{2}{5}\times\frac{1}{160}=8\times\frac{1}{160}=\frac{1}{20}$ cm/s.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -110,7 +132,9 @@ By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $20\times\frac{2}{5}
 
 ### Solution to Exercise 12
 
-By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $32\times\frac{5}{8}\times\frac{3}{4}=20\times\frac{3}{4}=15$ days. $\blacksquare$
+By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $32\times\frac{5}{8}\times\frac{3}{4}=20\times\frac{3}{4}=15$ days.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -118,7 +142,9 @@ By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $32\times\frac{5}{8}
 
 ### Solution to Exercise 13
 
-(1) $60\times\left(1+\frac{1}{3}\right)=80$ blossoms; (2) $180\times\left(1-\frac{1}{6}\right)=150$ students. $\blacksquare$
+(1) $60\times\left(1+\frac{1}{3}\right)=80$ blossoms; (2) $180\times\left(1-\frac{1}{6}\right)=150$ students.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -126,7 +152,9 @@ By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $32\times\frac{5}{8}
 
 ### Solution to Exercise 14
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: $80\times\left(1+\frac{5}{8}\right)=80\times\frac{13}{8}=130$ km/h. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: $80\times\left(1+\frac{5}{8}\right)=80\times\frac{13}{8}=130$ km/h.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -134,4 +162,6 @@ By **Definition 11.2.2 (A Number Times a Fraction)**: $80\times\left(1+\frac{5}{
 
 ### Solution to Exercise 15
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: $5\times\left(1-\frac{4}{5}\right)=5\times\frac{1}{5}=1$ hour. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: $5\times\left(1-\frac{4}{5}\right)=5\times\frac{1}{5}=1$ hour.
+
+$\blacksquare$

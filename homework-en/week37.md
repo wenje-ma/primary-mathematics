@@ -30,7 +30,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 4.4.3 (万以内数的读法)**, $415$ is read four hundred fifteen, made of $4$ hundreds, $1$ ten, and $5$ ones; $373$ is read three hundred seventy-three; $204$ is read two hundred four (the tens place is $0$, read as one zero); $111$ is read one hundred eleven. $\blacksquare$
+By **Definition 4.4.3 (万以内数的读法)**, $415$ is read four hundred fifteen, made of $4$ hundreds, $1$ ten, and $5$ ones; $373$ is read three hundred seventy-three; $204$ is read two hundred four (the tens place is $0$, read as one zero); $111$ is read one hundred eleven.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -38,7 +40,9 @@ By **Definition 4.4.3 (万以内数的读法)**, $415$ is read four hundred fift
 
 ### Solution to Exercise 2
 
-By **Definition 4.4.2 (Digit Position)** and **Definition 4.4.4 (万以内数的写法)**, write however many beads are in the hundreds, tens, and ones places, write $0$ where a place is empty, then read from the highest place. $\blacksquare$
+By **Definition 4.4.2 (Digit Position)** and **Definition 4.4.4 (万以内数的写法)**, write however many beads are in the hundreds, tens, and ones places, write $0$ where a place is empty, then read from the highest place.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -46,7 +50,9 @@ By **Definition 4.4.2 (Digit Position)** and **Definition 4.4.4 (万以内数的
 
 ### Solution to Exercise 3
 
-From the beads in the hundreds, tens, and ones places of each counter, write $406$ (four hundred six), $538$ (five hundred thirty-eight), and $230$ (two hundred thirty), and connect them. $\blacksquare$
+From the beads in the hundreds, tens, and ones places of each counter, write $406$ (four hundred six), $538$ (five hundred thirty-eight), and $230$ (two hundred thirty), and connect them.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -54,7 +60,9 @@ From the beads in the hundreds, tens, and ones places of each counter, write $40
 
 ### Solution to Exercise 4
 
-By **Definition 4.4.2 (place value)**, in $521$ the $5$ is in the hundreds place and means $5$ hundreds; in $305$ the $5$ is in the ones place and means $5$ ones; in $850$ the $5$ is in the tens place and means $5$ tens. Connect them accordingly. $\blacksquare$
+By **Definition 4.4.2 (place value)**, in $521$ the $5$ is in the hundreds place and means $5$ hundreds; in $305$ the $5$ is in the ones place and means $5$ ones; in $850$ the $5$ is in the tens place and means $5$ tens. Connect them accordingly.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -62,7 +70,9 @@ By **Definition 4.4.2 (place value)**, in $521$ the $5$ is in the hundreds place
 
 ### Solution to Exercise 5
 
-$475=400+70+5$; $700+60+4=764$; $392=300+90+2$; $400+80+7=487$. $\blacksquare$
+$475=400+70+5$; $700+60+4=764$; $392=300+90+2$; $400+80+7=487$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -70,7 +80,9 @@ $475=400+70+5$; $700+60+4=764$; $392=300+90+2$; $400+80+7=487$. $\blacksquare$
 
 ### Solution to Exercise 6
 
-(1) Add $100$ each time: $400,500,600,700,800$, fill $700$ (the given $600$ before $800$ increases by $100$). (2) Add $10$ each time: $940,950,960,970,980$. (3) Add $1$ each time: $994,995,996,997,998,999$. $\blacksquare$
+(1) Add $100$ each time: $400,500,600,700,800$, fill $700$ (the given $600$ before $800$ increases by $100$). (2) Add $10$ each time: $940,950,960,970,980$. (3) Add $1$ each time: $994,995,996,997,998,999$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -78,7 +90,9 @@ $475=400+70+5$; $700+60+4=764$; $392=300+90+2$; $400+80+7=487$. $\blacksquare$
 
 ### Solution to Exercise 7
 
-(1) $1000,1001,\cdots,1020$. (2) $4950,4960,4970,\cdots,5050$. (3) $8500,8600,8700,\cdots,9300$. When a place reaches ten, carry $1$ to the next place. $\blacksquare$
+(1) $1000,1001,\cdots,1020$. (2) $4950,4960,4970,\cdots,5050$. (3) $8500,8600,8700,\cdots,9300$. When a place reaches ten, carry $1$ to the next place.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -86,7 +100,9 @@ $475=400+70+5$; $700+60+4=764$; $392=300+90+2$; $400+80+7=487$. $\blacksquare$
 
 ### Solution to Exercise 8
 
-By **Definition 4.4.2 (place value)**, count the beads in the thousands, hundreds, tens, and ones places, and write the number. Two thousand four hundred fifty-eight is made of $2$ thousands, $4$ hundreds, $5$ tens, and $8$ ones. $\blacksquare$
+By **Definition 4.4.2 (place value)**, count the beads in the thousands, hundreds, tens, and ones places, and write the number. Two thousand four hundred fifty-eight is made of $2$ thousands, $4$ hundreds, $5$ tens, and $8$ ones.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -94,7 +110,9 @@ By **Definition 4.4.2 (place value)**, count the beads in the thousands, hundred
 
 ### Solution to Exercise 9
 
-$4876$ is made of $4$ thousands, $8$ hundreds, $7$ tens, and $6$ ones; $9900$ is made of $9$ thousands and $9$ hundreds; $5207$ is made of $5$ thousands, $2$ hundreds, and $7$ ones. Move beads to the corresponding places. $\blacksquare$
+$4876$ is made of $4$ thousands, $8$ hundreds, $7$ tens, and $6$ ones; $9900$ is made of $9$ thousands and $9$ hundreds; $5207$ is made of $5$ thousands, $2$ hundreds, and $7$ ones. Move beads to the corresponding places.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -102,7 +120,9 @@ $4876$ is made of $4$ thousands, $8$ hundreds, $7$ tens, and $6$ ones; $9900$ is
 
 ### Solution to Exercise 10
 
-On an abacus a lower bead means $1$ and an upper bead means $5$; take the rightmost rod as the ones place, and to its left are the tens, hundreds, and thousands places. Move beads per the digit in each place. $\blacksquare$
+On an abacus a lower bead means $1$ and an upper bead means $5$; take the rightmost rod as the ones place, and to its left are the tens, hundreds, and thousands places. Move beads per the digit in each place.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -110,7 +130,9 @@ On an abacus a lower bead means $1$ and an upper bead means $5$; take the rightm
 
 ### Solution to Exercise 11
 
-$364$ is made of $3$ hundreds, $6$ tens, and $4$ ones; $620$ is made of $6$ hundreds and $2$ tens; $8059$ is made of $8$ thousands, $5$ tens, and $9$ ones (the hundreds place is an empty $0$); $7080$ is made of $7$ thousands and $8$ tens. Move beads on the corresponding rods. $\blacksquare$
+$364$ is made of $3$ hundreds, $6$ tens, and $4$ ones; $620$ is made of $6$ hundreds and $2$ tens; $8059$ is made of $8$ thousands, $5$ tens, and $9$ ones (the hundreds place is an empty $0$); $7080$ is made of $7$ thousands and $8$ tens. Move beads on the corresponding rods.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -118,7 +140,9 @@ $364$ is made of $3$ hundreds, $6$ tens, and $4$ ones; $620$ is made of $6$ hund
 
 ### Solution to Exercise 12
 
-The same: both record numbers in place order, and neighboring places are decimal. Different: on a counter one bead means $1$, while on an abacus a lower bead means $1$ and an upper bead means $5$, so fewer beads are used. $\blacksquare$
+The same: both record numbers in place order, and neighboring places are decimal. Different: on a counter one bead means $1$, while on an abacus a lower bead means $1$ and an upper bead means $5$, so fewer beads are used.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -126,7 +150,9 @@ The same: both record numbers in place order, and neighboring places are decimal
 
 ### Solution to Exercise 13
 
-First read the original number from the upper and lower beads in each place, then add $1$ one to the ones place; when the ones reaches ten, carry $1$ to the tens. For example if the original number is $\_\_$, after adding $1$ it is $\_\_+1$. $\blacksquare$
+First read the original number from the upper and lower beads in each place, then add $1$ one to the ones place; when the ones reaches ten, carry $1$ to the tens. For example if the original number is $\_\_$, after adding $1$ it is $\_\_+1$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -134,7 +160,9 @@ First read the original number from the upper and lower beads in each place, the
 
 ### Solution to Exercise 14
 
-By **Definition 4.4.2 (Digit Position)**, (1) $5319$ has $5$ thousands, $3$ hundreds, $1$ ten, and $9$ ones. (2) $8005$ has $8$ thousands and $5$ ones. (3) $2500$ has $25$ hundreds, and $36$ hundreds is $3600$. $\blacksquare$
+By **Definition 4.4.2 (Digit Position)**, (1) $5319$ has $5$ thousands, $3$ hundreds, $1$ ten, and $9$ ones. (2) $8005$ has $8$ thousands and $5$ ones. (3) $2500$ has $25$ hundreds, and $36$ hundreds is $3600$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -142,7 +170,9 @@ By **Definition 4.4.2 (Digit Position)**, (1) $5319$ has $5$ thousands, $3$ hund
 
 ### Solution to Exercise 15
 
-$100$ bills of $1$ yuan are $100$ yuan; $100$ bills of $10$ yuan are $1000$ yuan; $100$ bills of $100$ yuan are $10000$ yuan; $25$ bills of $100$ yuan are $2500$ yuan. $\blacksquare$
+$100$ bills of $1$ yuan are $100$ yuan; $100$ bills of $10$ yuan are $1000$ yuan; $100$ bills of $100$ yuan are $10000$ yuan; $25$ bills of $100$ yuan are $2500$ yuan.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -150,7 +180,9 @@ $100$ bills of $1$ yuan are $100$ yuan; $100$ bills of $10$ yuan are $1000$ yuan
 
 ### Solution to Exercise 16
 
-Each red frame is $10\times10=100$ small squares; $1$ row has $10$ frames, i.e. $1000$ small squares; $2$ rows give $2000$, $\cdots\cdots$ $10$ rows give $10000$. $\blacksquare$
+Each red frame is $10\times10=100$ small squares; $1$ row has $10$ frames, i.e. $1000$ small squares; $2$ rows give $2000$, $\cdots\cdots$ $10$ rows give $10000$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -158,7 +190,9 @@ Each red frame is $10\times10=100$ small squares; $1$ row has $10$ frames, i.e. 
 
 ### Solution to Exercise 17
 
-From the beads in each place on the counters and abacuses, write the numbers they show, and connect those with the same number. $\blacksquare$
+From the beads in each place on the counters and abacuses, write the numbers they show, and connect those with the same number.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -166,7 +200,9 @@ From the beads in each place on the counters and abacuses, write the numbers the
 
 ### Solution to Exercise 18
 
-By **Definition 4.4.3 (万以内数的读法)**: $7438$ is read seven thousand four hundred thirty-eight; $3604$ is read three thousand six hundred four (the middle $0$ reads as one zero); $4900$ is read four thousand nine hundred (trailing zeros are not read); $5002$ is read five thousand two; $1050$ is read one thousand fifty. Say the composition per the places. $\blacksquare$
+By **Definition 4.4.3 (万以内数的读法)**: $7438$ is read seven thousand four hundred thirty-eight; $3604$ is read three thousand six hundred four (the middle $0$ reads as one zero); $4900$ is read four thousand nine hundred (trailing zeros are not read); $5002$ is read five thousand two; $1050$ is read one thousand fifty. Say the composition per the places.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -174,7 +210,9 @@ By **Definition 4.4.3 (万以内数的读法)**: $7438$ is read seven thousand f
 
 ### Solution to Exercise 19
 
-$1533$ is read one thousand five hundred thirty-three; $1300$ is read one thousand three hundred; $2155$ is read two thousand one hundred fifty-five; $2016$ is read two thousand sixteen; $1492$ is read one thousand four hundred ninety-two. $\blacksquare$
+$1533$ is read one thousand five hundred thirty-three; $1300$ is read one thousand three hundred; $2155$ is read two thousand one hundred fifty-five; $2016$ is read two thousand sixteen; $1492$ is read one thousand four hundred ninety-two.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -182,4 +220,6 @@ $1533$ is read one thousand five hundred thirty-three; $1300$ is read one thousa
 
 ### Solution to Exercise 20
 
-By **Definition 4.4.4 (万以内数的写法)**, seven thousand is written $7000$; one thousand eight hundred sixty-four is written $1864$; seven thousand sixty-two is written $7062$ (write $0$ where the hundreds place is empty). $\blacksquare$
+By **Definition 4.4.4 (万以内数的写法)**, seven thousand is written $7000$; one thousand eight hundred sixty-four is written $1864$; seven thousand sixty-two is written $7062$ (write $0$ where the hundreds place is empty).
+
+$\blacksquare$

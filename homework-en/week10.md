@@ -34,7 +34,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 1.5.1 (Make-a-Ten Method)**: $3+9=12$, $6+7=13$, $5+8=13$, $2+9=11$, $3+7=10$, $7+5=12$, $10+4=14$, $8-3=5$, $6+6=12$, $7+7=14$, $8+8=16$, $9+9=18$. $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)**: $3+9=12$, $6+7=13$, $5+8=13$, $2+9=11$, $3+7=10$, $7+5=12$, $10+4=14$, $8-3=5$, $6+6=12$, $7+7=14$, $8+8=16$, $9+9=18$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -42,7 +44,9 @@ By **Definition 1.5.1 (Make-a-Ten Method)**: $3+9=12$, $6+7=13$, $5+8=13$, $2+9=
 
 ### Solution to Exercise 2
 
-By **Definition 1.5.1 (Make-a-Ten Method)**, calculate $4+9=13$, $6+5=11$, $5+8=13$, $4+7=11$, $9+8=17$, $8+6=14$, $7+7=14$, $8+5=13$, $9+4=13$, $9+9=18$, $6+7=13$, $8+7=15$, $6+9=15$, $9+3=12$, then compare. $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)**, calculate $4+9=13$, $6+5=11$, $5+8=13$, $4+7=11$, $9+8=17$, $8+6=14$, $7+7=14$, $8+5=13$, $9+4=13$, $9+9=18$, $6+7=13$, $8+7=15$, $6+9=15$, $9+3=12$, then compare.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -50,7 +54,9 @@ By **Definition 1.5.1 (Make-a-Ten Method)**, calculate $4+9=13$, $6+5=11$, $5+8=
 
 ### Solution to Exercise 3
 
-By **Definition 1.5.1 (Make-a-Ten Method)**: $5+8=13$, $6+7=13$, $8+3=11$, $7+4=11$. $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)**: $5+8=13$, $6+7=13$, $8+3=11$, $7+4=11$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -58,7 +64,9 @@ By **Definition 1.5.1 (Make-a-Ten Method)**: $5+8=13$, $6+7=13$, $8+3=11$, $7+4=
 
 ### Solution to Exercise 4
 
-By **Definition 1.5.3 (Using Addition to Solve Problems)**: $7+9=16$ (blocks); $8+8=16$ (blocks). $\blacksquare$
+By **Definition 1.5.3 (Using Addition to Solve Problems)**: $7+9=16$ (blocks); $8+8=16$ (blocks).
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -66,7 +74,9 @@ By **Definition 1.5.3 (Using Addition to Solve Problems)**: $7+9=16$ (blocks); $
 
 ### Solution to Exercise 5
 
-By **Definition 1.5.1 (Make-a-Ten Method)**, sum $11$: $2+9,3+8,4+7,5+6$; sum $12$: $3+9,4+8,5+7,6+6$; and so on. $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)**, sum $11$: $2+9,3+8,4+7,5+6$; sum $12$: $3+9,4+8,5+7,6+6$; and so on.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -74,7 +84,9 @@ By **Definition 1.5.1 (Make-a-Ten Method)**, sum $11$: $2+9,3+8,4+7,5+6$; sum $1
 
 ### Solution to Exercise 6
 
-$8+5=13$; $10-5=5$; $9+6=15$; $16-10=6$. $\blacksquare$
+$8+5=13$; $10-5=5$; $9+6=15$; $16-10=6$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -82,7 +94,9 @@ $8+5=13$; $10-5=5$; $9+6=15$; $16-10=6$. $\blacksquare$
 
 ### Solution to Exercise 7
 
-By **Definition 1.5.3 (Using Addition to Solve Problems)**: $8+5=13$ (dumplings). $\blacksquare$
+By **Definition 1.5.3 (Using Addition to Solve Problems)**: $8+5=13$ (dumplings).
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -90,7 +104,9 @@ By **Definition 1.5.3 (Using Addition to Solve Problems)**: $8+5=13$ (dumplings)
 
 ### Solution to Exercise 8
 
-By **Definition 1.5.1 (Make-a-Ten Method)**: $7+9=16$; $9+3=12$; $8+3=11$; $6+7=13$; $8+7=15$; $10+4=14$. $\blacksquare$
+By **Definition 1.5.1 (Make-a-Ten Method)**: $7+9=16$; $9+3=12$; $8+3=11$; $6+7=13$; $8+7=15$; $10+4=14$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -98,7 +114,9 @@ By **Definition 1.5.1 (Make-a-Ten Method)**: $7+9=16$; $9+3=12$; $8+3=11$; $6+7=
 
 ### Solution to Exercise 9
 
-By **Definition 1.5.3 (Using Addition to Solve Problems)**, $9$ in front plus $5$ behind plus myself: $9+5+1=15$ (people). $\blacksquare$
+By **Definition 1.5.3 (Using Addition to Solve Problems)**, $9$ in front plus $5$ behind plus myself: $9+5+1=15$ (people).
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -106,7 +124,9 @@ By **Definition 1.5.3 (Using Addition to Solve Problems)**, $9$ in front plus $5
 
 ### Solution to Exercise 10
 
-By **Definition 1.6.1 (Understanding Numbers Within 20)**: (1) before $14$ is $13$, and after it is $15$; (2) count the $7$th number in the row and write it as tens and ones; (3) fill in the blanks and connect in order $1,2,3,\cdots,19$; (4) the $11$s are arranged diagonally; draw $1$ bead on the tens place and $1$ on the ones place; (5) the numbers are arranged diagonally from smallest to largest. $\blacksquare$
+By **Definition 1.6.1 (Understanding Numbers Within 20)**: (1) before $14$ is $13$, and after it is $15$; (2) count the $7$th number in the row and write it as tens and ones; (3) fill in the blanks and connect in order $1,2,3,\cdots,19$; (4) the $11$s are arranged diagonally; draw $1$ bead on the tens place and $1$ on the ones place; (5) the numbers are arranged diagonally from smallest to largest.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -114,7 +134,9 @@ By **Definition 1.6.1 (Understanding Numbers Within 20)**: (1) before $14$ is $1
 
 ### Solution to Exercise 11
 
-By **Definition 1.6.2 (Addition and Subtraction Within 20)**, fill in following the addition table pattern; expressions with result $10$ lie on a diagonal; each row's result increases by $1$, and each column's first addend increases by $1$. $\blacksquare$
+By **Definition 1.6.2 (Addition and Subtraction Within 20)**, fill in following the addition table pattern; expressions with result $10$ lie on a diagonal; each row's result increases by $1$, and each column's first addend increases by $1$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -122,7 +144,9 @@ By **Definition 1.6.2 (Addition and Subtraction Within 20)**, fill in following 
 
 ### Solution to Exercise 12
 
-By **Definition 1.6.2 (Addition and Subtraction Within 20)**, the ones that swam away plus the remaining is the original: $3+8=11$; then pose and solve another addition or subtraction problem. $\blacksquare$
+By **Definition 1.6.2 (Addition and Subtraction Within 20)**, the ones that swam away plus the remaining is the original: $3+8=11$; then pose and solve another addition or subtraction problem.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -130,7 +154,9 @@ By **Definition 1.6.2 (Addition and Subtraction Within 20)**, the ones that swam
 
 ### Solution to Exercise 13
 
-By **Definition 1.6.3 (Solid Shapes)**, $4$ cubes can form a cuboid; at least $8$ small cubes are needed to form a large cube. $\blacksquare$
+By **Definition 1.6.3 (Solid Shapes)**, $4$ cubes can form a cuboid; at least $8$ small cubes are needed to form a large cube.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -138,7 +164,9 @@ By **Definition 1.6.3 (Solid Shapes)**, $4$ cubes can form a cuboid; at least $8
 
 ### Solution to Exercise 14
 
-By **Definition 1.6.1 (Understanding Numbers Within 20)**, write the number of beads on the tens place in the tens digit, and the number of beads on the ones place in the ones digit. $\blacksquare$
+By **Definition 1.6.1 (Understanding Numbers Within 20)**, write the number of beads on the tens place in the tens digit, and the number of beads on the ones place in the ones digit.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -146,7 +174,9 @@ By **Definition 1.6.1 (Understanding Numbers Within 20)**, write the number of b
 
 ### Solution to Exercise 15
 
-By **Definition 1.6.1 (Understanding Numbers Within 20)**: (1) $1$ ten and $2$ ones make $12$; (2) $18$ has $1$ ten and $8$ ones; (3) $20$ has $2$ tens. $\blacksquare$
+By **Definition 1.6.1 (Understanding Numbers Within 20)**: (1) $1$ ten and $2$ ones make $12$; (2) $18$ has $1$ ten and $8$ ones; (3) $20$ has $2$ tens.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -154,7 +184,9 @@ By **Definition 1.6.1 (Understanding Numbers Within 20)**: (1) $1$ ten and $2$ o
 
 ### Solution to Exercise 16
 
-By **Definition 1.6.3 (Solid Shapes)**, count by shape category. $\blacksquare$
+By **Definition 1.6.3 (Solid Shapes)**, count by shape category.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -162,7 +194,9 @@ By **Definition 1.6.3 (Solid Shapes)**, count by shape category. $\blacksquare$
 
 ### Solution to Exercise 17
 
-By **Definition 1.6.2 (Addition and Subtraction Within 20)**: $8+7=15$, $6+9=15$, $5+8=13$, $6+10=16$, $8-6=2$, $7-3=4$, $9-4=5$, $19-9=10$, $9+4=13$, $2+8=10$, $7+5=12$, $11-10=1$, $9-7=2$, $4+8=12$, $7-7=0$, $10+6=16$. $\blacksquare$
+By **Definition 1.6.2 (Addition and Subtraction Within 20)**: $8+7=15$, $6+9=15$, $5+8=13$, $6+10=16$, $8-6=2$, $7-3=4$, $9-4=5$, $19-9=10$, $9+4=13$, $2+8=10$, $7+5=12$, $11-10=1$, $9-7=2$, $4+8=12$, $7-7=0$, $10+6=16$.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -170,4 +204,6 @@ By **Definition 1.6.2 (Addition and Subtraction Within 20)**: $8+7=15$, $6+9=15$
 
 ### Solution to Exercise 18
 
-Calculate first, then compare: $5+9=14$, so $=$; $18-10=8$, $9>8$; $7+8=15<16$; $10-8=2<7$; $3+8=11$, $12>11$; $9+6=15$, so $=$. $\blacksquare$
+Calculate first, then compare: $5+9=14$, so $=$; $18-10=8$, $9>8$; $7+8=15<16$; $10-8=2<7$; $3+8=11$, $12>11$; $9+6=15$, so $=$.
+
+$\blacksquare$

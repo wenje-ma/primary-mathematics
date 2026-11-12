@@ -50,7 +50,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 12.4.3 (Volume of a Cylinder)**, the total rain volume $=$ base area $\times$ water depth $=200\times10^{6}\times0.05=10^{7}\,\mathrm{m}^{3}=1000$ ten-thousand $\mathrm{m}^{3}$. The rainwater $25\%=1000\times25\%=250$ ten-thousand $\mathrm{m}^{3}>200$ ten-thousand $\mathrm{m}^{3}$, so it can meet the greening need. $\blacksquare$
+By **Definition 12.4.3 (Volume of a Cylinder)**, the total rain volume $=$ base area $\times$ water depth $=200\times10^{6}\times0.05=10^{7}\,\mathrm{m}^{3}=1000$ ten-thousand $\mathrm{m}^{3}$. The rainwater $25\%=1000\times25\%=250$ ten-thousand $\mathrm{m}^{3}>200$ ten-thousand $\mathrm{m}^{3}$, so it can meet the greening need.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -58,7 +60,9 @@ By **Definition 12.4.3 (Volume of a Cylinder)**, the total rain volume $=$ base 
 
 ### Solution to Exercise 2
 
-By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, **Definition 12.4.3 (Volume of a Cylinder)**, and **Definition 12.4.5 (Volume of a Cone)**. Cylinder $r=5,h=4$: surface area $=2\pi\times5\times4+2\pi\times25=40\pi+50\pi=90\pi\approx282.6\,\mathrm{dm}^{2}$, volume $=\pi\times25\times4=100\pi\approx314\,\mathrm{dm}^{3}$. Cylinder $r=2,h=0.7$: surface area $\approx33.9\,\mathrm{m}^{2}$, volume $\approx8.8\,\mathrm{m}^{3}$. Cone $d=4\left(r=2\right),h=6$: volume $=\frac{1}{3}\pi\times4\times6=8\pi\approx25.12\,\mathrm{dm}^{3}$. Cone $r=0.5,h=12$: volume $=\frac{1}{3}\pi\times0.25\times12=\pi\approx3.14\,\mathrm{m}^{3}$. $\blacksquare$
+By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, **Definition 12.4.3 (Volume of a Cylinder)**, and **Definition 12.4.5 (Volume of a Cone)**. Cylinder $r=5,h=4$: surface area $=2\pi\times5\times4+2\pi\times25=40\pi+50\pi=90\pi\approx282.6\,\mathrm{dm}^{2}$, volume $=\pi\times25\times4=100\pi\approx314\,\mathrm{dm}^{3}$. Cylinder $r=2,h=0.7$: surface area $\approx33.9\,\mathrm{m}^{2}$, volume $\approx8.8\,\mathrm{m}^{3}$. Cone $d=4\left(r=2\right),h=6$: volume $=\frac{1}{3}\pi\times4\times6=8\pi\approx25.12\,\mathrm{dm}^{3}$. Cone $r=0.5,h=12$: volume $=\frac{1}{3}\pi\times0.25\times12=\pi\approx3.14\,\mathrm{m}^{3}$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -66,7 +70,9 @@ By **Definition 12.4.2 (Lateral Area and Surface Area of a Cylinder)**, **Defini
 
 ### Solution to Exercise 3
 
-By **Definition 12.4.5 (Volume of a Cone)** and **Definition 12.4.3 (Volume of a Cylinder)**, the sand pile's volume $=\frac{1}{3}\times28.6\times3=28.6\,\mathrm{m}^{3}$. The paved road surface is a cuboid of thickness $2\,\mathrm{cm}=0.02\,\mathrm{m}$, so the length $=28.6\div\left(10\times0.02\right)=143\,\mathrm{m}$. $\blacksquare$
+By **Definition 12.4.5 (Volume of a Cone)** and **Definition 12.4.3 (Volume of a Cylinder)**, the sand pile's volume $=\frac{1}{3}\times28.6\times3=28.6\,\mathrm{m}^{3}$. The paved road surface is a cuboid of thickness $2\,\mathrm{cm}=0.02\,\mathrm{m}$, so the length $=28.6\div\left(10\times0.02\right)=143\,\mathrm{m}$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -74,7 +80,9 @@ By **Definition 12.4.5 (Volume of a Cone)** and **Definition 12.4.3 (Volume of a
 
 ### Solution to Exercise 4
 
-By **Definition 12.5.1 (Meaning of a Proportion)**, two ratios form a proportion only when their values are equal. (1) $6:10=0.6$, $9:15=0.6$, so they form $6:10=9:15$. (2) $20:5=4$, $1:4=0.25$, so they cannot. (3) $\frac{1}{2}:\frac{1}{3}=1.5$, $6:4=1.5$, so they can. (4) $0.6:0.2=3$, $\frac{3}{4}:\frac{1}{4}=3$, so they can. $\blacksquare$
+By **Definition 12.5.1 (Meaning of a Proportion)**, two ratios form a proportion only when their values are equal. (1) $6:10=0.6$, $9:15=0.6$, so they form $6:10=9:15$. (2) $20:5=4$, $1:4=0.25$, so they cannot. (3) $\frac{1}{2}:\frac{1}{3}=1.5$, $6:4=1.5$, so they can. (4) $0.6:0.2=3$, $\frac{3}{4}:\frac{1}{4}=3$, so they can.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -82,7 +90,9 @@ By **Definition 12.5.1 (Meaning of a Proportion)**, two ratios form a proportion
 
 ### Solution to Exercise 5
 
-By **Definition 12.5.2 (Basic Property of a Proportion and Solving Proportions)**, two ratios form a proportion when the product of the outer terms equals the product of the inner terms. (1) $6\times5=30$, $3\times8=24$, and $30\neq24$, so they cannot. (2) $0.2\times50=10$ and $2.5\times4=10$, which are equal, so they form $0.2:2.5=4:50$. $\blacksquare$
+By **Definition 12.5.2 (Basic Property of a Proportion and Solving Proportions)**, two ratios form a proportion when the product of the outer terms equals the product of the inner terms. (1) $6\times5=30$, $3\times8=24$, and $30\neq24$, so they cannot. (2) $0.2\times50=10$ and $2.5\times4=10$, which are equal, so they form $0.2:2.5=4:50$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -90,7 +100,9 @@ By **Definition 12.5.2 (Basic Property of a Proportion and Solving Proportions)*
 
 ### Solution to Exercise 6
 
-By **Definition 12.5.2 (Basic Property of a Proportion and Solving Proportions)**, let the model's length be $x\,\mathrm{m}$. Then $x:57=1:10$, $10x=57\times1$, $x=5.7$. The model is about $5.7\,\mathrm{m}$ long. $\blacksquare$
+By **Definition 12.5.2 (Basic Property of a Proportion and Solving Proportions)**, let the model's length be $x\,\mathrm{m}$. Then $x:57=1:10$, $10x=57\times1$, $x=5.7$. The model is about $5.7\,\mathrm{m}$ long.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -98,7 +110,9 @@ By **Definition 12.5.2 (Basic Property of a Proportion and Solving Proportions)*
 
 ### Solution to Exercise 7
 
-By **Definition 12.5.2 (Basic Property of a Proportion and Solving Proportions)**, let the water added be $x\,\mathrm{mL}$. Then $100:x=1:150$, $x=100\times150=15000\,\mathrm{mL}=15$ liters. $\blacksquare$
+By **Definition 12.5.2 (Basic Property of a Proportion and Solving Proportions)**, let the water added be $x\,\mathrm{mL}$. Then $100:x=1:150$, $x=100\times150=15000\,\mathrm{mL}=15$ liters.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -106,7 +120,9 @@ By **Definition 12.5.2 (Basic Property of a Proportion and Solving Proportions)*
 
 ### Solution to Exercise 8
 
-By **Definition 12.5.2 (Basic Property of a Proportion and Solving Proportions)**, it suffices that two products match. (1) $4\times15=60$ and $5\times12=60$, so they form $4:5=12:15$. (2) No pairing gives equal products, so they cannot. (3) $1.6\times5=8$ and $6.4\times2=12.8$, which are not equal, so they cannot. $\blacksquare$
+By **Definition 12.5.2 (Basic Property of a Proportion and Solving Proportions)**, it suffices that two products match. (1) $4\times15=60$ and $5\times12=60$, so they form $4:5=12:15$. (2) No pairing gives equal products, so they cannot. (3) $1.6\times5=8$ and $6.4\times2=12.8$, which are not equal, so they cannot.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -114,7 +130,9 @@ By **Definition 12.5.2 (Basic Property of a Proportion and Solving Proportions)*
 
 ### Solution to Exercise 9
 
-By **Definition 12.5.2 (Basic Property of a Proportion and Solving Proportions)**, let the water's volume be $x$. Then $x:50=9:10$, $10x=450$, $x=45\,\mathrm{dm}^{3}$. $\blacksquare$
+By **Definition 12.5.2 (Basic Property of a Proportion and Solving Proportions)**, let the water's volume be $x$. Then $x:50=9:10$, $10x=450$, $x=45\,\mathrm{dm}^{3}$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -134,7 +152,9 @@ $\blacksquare$
 
 ### Solution to Exercise 11
 
-By **Definition 12.5.4 (Inverse Proportion)**, $300\times1=300$, $150\times2=300$, $100\times3=300$; the product is always $300$ (the total goods). Since the product is constant, the transport days and the daily mass moved are inversely proportional. $\blacksquare$
+By **Definition 12.5.4 (Inverse Proportion)**, $300\times1=300$, $150\times2=300$, $100\times3=300$; the product is always $300$ (the total goods). Since the product is constant, the transport days and the daily mass moved are inversely proportional.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -142,4 +162,6 @@ By **Definition 12.5.4 (Inverse Proportion)**, $300\times1=300$, $150\times2=300
 
 ### Solution to Exercise 12
 
-By **Definition 12.5.3 (Direct Proportion)**. (1) Cost $/$ quantity $=$ unit price (constant), so directly proportional. (2) Surface area $=6a^{2}$, whose ratio to edge length is not constant, so not. (3) The ratio of height to age is not constant, so not. (4) Total yield $/$ hectares $=$ yield per hectare (constant), so directly proportional. (5) Unread $+$ read $=$ total pages (a constant sum, not a ratio), so not. $\blacksquare$
+By **Definition 12.5.3 (Direct Proportion)**. (1) Cost $/$ quantity $=$ unit price (constant), so directly proportional. (2) Surface area $=6a^{2}$, whose ratio to edge length is not constant, so not. (3) The ratio of height to age is not constant, so not. (4) Total yield $/$ hectares $=$ yield per hectare (constant), so directly proportional. (5) Unread $+$ read $=$ total pages (a constant sum, not a ratio), so not.
+
+$\blacksquare$

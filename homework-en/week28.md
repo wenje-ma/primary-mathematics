@@ -30,7 +30,9 @@
 
 ### Solution to Exercise 1
 
-$2\times6+6$ is $2$ copies of $6$ plus $1$ copy of $6$, equal to $3$ copies of $6$, fill in $3$; $4\times6-6$ is $4$ copies of $6$ minus $1$ copy of $6$, equal to $3$ copies of $6$, fill in $3$; $4\times7+7=5\times7$; $5\times7-7=4\times7$; $8\times7+8=8\times8$; $8\times8-8=8\times7$. Notice: adding or subtracting one of a number means one more or one fewer of that number, converting to so-many copies. $\blacksquare$
+$2\times6+6$ is $2$ copies of $6$ plus $1$ copy of $6$, equal to $3$ copies of $6$, fill in $3$; $4\times6-6$ is $4$ copies of $6$ minus $1$ copy of $6$, equal to $3$ copies of $6$, fill in $3$; $4\times7+7=5\times7$; $5\times7-7=4\times7$; $8\times7+8=8\times8$; $8\times8-8=8\times7$. Notice: adding or subtracting one of a number means one more or one fewer of that number, converting to so-many copies.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -38,7 +40,9 @@ $2\times6+6$ is $2$ copies of $6$ plus $1$ copy of $6$, equal to $3$ copies of $
 
 ### Solution to Exercise 2
 
-(1) By **Definition 3.7.1 (Multiplication Rhymes of 7)**, increasing by $7$ each time: $28,35,42,49$. (2) By **Definition 3.7.2 (Multiplication Rhymes of 8)**, decreasing by $8$ each time: $56,48,40,32,24,16,8$. $\blacksquare$
+(1) By **Definition 3.7.1 (Multiplication Rhymes of 7)**, increasing by $7$ each time: $28,35,42,49$. (2) By **Definition 3.7.2 (Multiplication Rhymes of 8)**, decreasing by $8$ each time: $56,48,40,32,24,16,8$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -46,7 +50,9 @@ $2\times6+6$ is $2$ copies of $6$ plus $1$ copy of $6$, equal to $3$ copies of $
 
 ### Solution to Exercise 3
 
-By **Definition 3.7.3 (Multiplication Rhymes of 9)**: one nine is nine, two nine eighteen, three nine twenty-seven, four nine thirty-six, five nine forty-five, six nine fifty-four, seven nine sixty-three, eight nine seventy-two, nine nine eighty-one. Notice: each later product is $9$ more than the previous; the ones digit decreases by $1$ each time while the tens digit increases by $1$; how many nines is how many tens minus that many, for example $9\times5=50-5=45$. $\blacksquare$
+By **Definition 3.7.3 (Multiplication Rhymes of 9)**: one nine is nine, two nine eighteen, three nine twenty-seven, four nine thirty-six, five nine forty-five, six nine fifty-four, seven nine sixty-three, eight nine seventy-two, nine nine eighty-one. Notice: each later product is $9$ more than the previous; the ones digit decreases by $1$ each time while the tens digit increases by $1$; how many nines is how many tens minus that many, for example $9\times5=50-5=45$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -54,7 +60,9 @@ By **Definition 3.7.3 (Multiplication Rhymes of 9)**: one nine is nine, two nine
 
 ### Solution to Exercise 4
 
-By **Definition 3.7.3 (Multiplication Rhymes of 9)**: $2\times9=18$ (two nine eighteen), $3\times9=27$ (three nine twenty-seven), $4\times9=36$ (four nine thirty-six), $5\times9=45$ (five nine forty-five), $9\times9=81$ (nine nine eighty-one), $8\times9=72$ (eight nine seventy-two), $7\times9=63$ (seven nine sixty-three), $6\times9=54$ (six nine fifty-four). $\blacksquare$
+By **Definition 3.7.3 (Multiplication Rhymes of 9)**: $2\times9=18$ (two nine eighteen), $3\times9=27$ (three nine twenty-seven), $4\times9=36$ (four nine thirty-six), $5\times9=45$ (five nine forty-five), $9\times9=81$ (nine nine eighty-one), $8\times9=72$ (eight nine seventy-two), $7\times9=63$ (seven nine sixty-three), $6\times9=54$ (six nine fifty-four).
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -62,7 +70,9 @@ By **Definition 3.7.3 (Multiplication Rhymes of 9)**: $2\times9=18$ (two nine ei
 
 ### Solution to Exercise 5
 
-For example "three nine twenty-seven": bend the $3$rd finger from the left, there are $2$ fingers on the left (tens $2$) and $7$ fingers on the right (ones $7$), giving $27$. The idea: bend the $n$th finger, the $n-1$ fingers on the left show the tens and the $10-n$ fingers on the right show the ones, together making $10\left(n-1\right)+\left(10-n\right)=9n$. $\blacksquare$
+For example "three nine twenty-seven": bend the $3$rd finger from the left, there are $2$ fingers on the left (tens $2$) and $7$ fingers on the right (ones $7$), giving $27$. The idea: bend the $n$th finger, the $n-1$ fingers on the left show the tens and the $10-n$ fingers on the right show the ones, together making $10\left(n-1\right)+\left(10-n\right)=9n$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -70,7 +80,9 @@ For example "three nine twenty-seven": bend the $3$rd finger from the left, ther
 
 ### Solution to Exercise 6
 
-By **Definition 3.7.3 (Multiplication Rhymes of 9)**: $9\times1=9$, $9\times2=18$, $9\times3=27$, $9\times4=36$, $9\times6=54$, $9\times7=63$, $9\times8=72$, $9\times9=81$. $\blacksquare$
+By **Definition 3.7.3 (Multiplication Rhymes of 9)**: $9\times1=9$, $9\times2=18$, $9\times3=27$, $9\times4=36$, $9\times6=54$, $9\times7=63$, $9\times8=72$, $9\times9=81$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -78,7 +90,9 @@ By **Definition 3.7.3 (Multiplication Rhymes of 9)**: $9\times1=9$, $9\times2=18
 
 ### Solution to Exercise 7
 
-(1) By **Definition 3.7.3 (Multiplication Rhymes of 9)**, $5\times9=45$ (meters). (2) Multiply the count per share by the number of shares in the picture; for example $8$ per share and $4$ shares gives $8\times4=32$. $\blacksquare$
+(1) By **Definition 3.7.3 (Multiplication Rhymes of 9)**, $5\times9=45$ (meters). (2) Multiply the count per share by the number of shares in the picture; for example $8$ per share and $4$ shares gives $8\times4=32$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -86,7 +100,9 @@ By **Definition 3.7.3 (Multiplication Rhymes of 9)**: $9\times1=9$, $9\times2=18
 
 ### Solution to Exercise 8
 
-By the rhymes of **Definition 3.7.1 (7 的乘法口诀)**~3.7.3: $9\times7=63$, $3\times7=21$, $8\times7=56$, $6\times6=36$, $5\times8=40$, $9\times8=72$. $\blacksquare$
+By the rhymes of **Definition 3.7.1 (7 的乘法口诀)**~3.7.3: $9\times7=63$, $3\times7=21$, $8\times7=56$, $6\times6=36$, $5\times8=40$, $9\times8=72$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -94,7 +110,9 @@ By the rhymes of **Definition 3.7.1 (7 的乘法口诀)**~3.7.3: $9\times7=63$, 
 
 ### Solution to Exercise 9
 
-For example "there are $9$ apples in each group; how many in $4$ groups?" By the meaning of multiplication, $9\times4=36$ (apples). The problem is not unique; any reasonable one works. $\blacksquare$
+For example "there are $9$ apples in each group; how many in $4$ groups?" By the meaning of multiplication, $9\times4=36$ (apples). The problem is not unique; any reasonable one works.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -102,7 +120,9 @@ For example "there are $9$ apples in each group; how many in $4$ groups?" By the
 
 ### Solution to Exercise 10
 
-(1) Ask "how many are to be posted in total?", $9\times4=36$ (works). (2) Ask "how many per row on average?", $36\div6=6$ (works). $\blacksquare$
+(1) Ask "how many are to be posted in total?", $9\times4=36$ (works). (2) Ask "how many per row on average?", $36\div6=6$ (works).
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -110,7 +130,9 @@ For example "there are $9$ apples in each group; how many in $4$ groups?" By the
 
 ### Solution to Exercise 11
 
-First group: by **Definition 3.7.3 (Multiplication Rhymes of 9)**, $7\times9=63$ (trees). Second group: $63+7=70$ (trees). $\blacksquare$
+First group: by **Definition 3.7.3 (Multiplication Rhymes of 9)**, $7\times9=63$ (trees). Second group: $63+7=70$ (trees).
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -118,7 +140,9 @@ First group: by **Definition 3.7.3 (Multiplication Rhymes of 9)**, $7\times9=63$
 
 ### Solution to Exercise 12
 
-$9\times10=90$ (yuan). You can also take $9\times9=81$ and add $9$ to get $90$. $\blacksquare$
+$9\times10=90$ (yuan). You can also take $9\times9=81$ and add $9$ to get $90$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -126,7 +150,9 @@ $9\times10=90$ (yuan). You can also take $9\times9=81$ and add $9$ to get $90$. 
 
 ### Solution to Exercise 13
 
-For example a $4\times4$ arrangement: multiplication $4\times4=16$, addition $1+3+5+7=16$. Notice: the number of pieces in each picture is a square number, i.e. $1,4,9,16,\cdots$, and the sum of consecutive odd numbers starting from $1$ equals a square number. $\blacksquare$
+For example a $4\times4$ arrangement: multiplication $4\times4=16$, addition $1+3+5+7=16$. Notice: the number of pieces in each picture is a square number, i.e. $1,4,9,16,\cdots$, and the sum of consecutive odd numbers starting from $1$ equals a square number.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -134,7 +160,9 @@ For example a $4\times4$ arrangement: multiplication $4\times4=16$, addition $1+
 
 ### Solution to Exercise 14
 
-Rhyme: seven eight fifty-six. By **Definition 3.7.4 (Finding the Quotient with the Rhymes of 7~9)**: $56\div8=7$ (think seven eight fifty-six), $56\div7=8$ (think seven eight fifty-six). $\blacksquare$
+Rhyme: seven eight fifty-six. By **Definition 3.7.4 (Finding the Quotient with the Rhymes of 7~9)**: $56\div8=7$ (think seven eight fifty-six), $56\div7=8$ (think seven eight fifty-six).
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -142,7 +170,9 @@ Rhyme: seven eight fifty-six. By **Definition 3.7.4 (Finding the Quotient with t
 
 ### Solution to Exercise 15
 
-$4\times8=32$ means $8$ copies of $4$ make $32$; $32\div8=4$ means dividing $32$ equally into $8$ shares of $4$ each; $32\div4=8$ means $32$ contains $8$ copies of $4$. The three expressions use the same rhyme "four eight thirty-two", and multiplication and division are inverse operations. $\blacksquare$
+$4\times8=32$ means $8$ copies of $4$ make $32$; $32\div8=4$ means dividing $32$ equally into $8$ shares of $4$ each; $32\div4=8$ means $32$ contains $8$ copies of $4$. The three expressions use the same rhyme "four eight thirty-two", and multiplication and division are inverse operations.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -150,4 +180,6 @@ $4\times8=32$ means $8$ copies of $4$ make $32$; $32\div8=4$ means dividing $32$
 
 ### Solution to Exercise 16
 
-By **Definition 3.7.4 (Finding the Quotient with the Rhymes of 7~9)** and **Definition 3.7.1 (7 的乘法口诀)**~3.7.2: $7\times3=21$, $21\div7=3$, $21\div3=7$ (three seven twenty-one); $8\times6=48$, $48\div8=6$, $48\div6=8$ (six eight forty-eight); $4\times7=28$, $28\div7=4$, $28\div4=7$ (four seven twenty-eight). $\blacksquare$
+By **Definition 3.7.4 (Finding the Quotient with the Rhymes of 7~9)** and **Definition 3.7.1 (7 的乘法口诀)**~3.7.2: $7\times3=21$, $21\div7=3$, $21\div3=7$ (three seven twenty-one); $8\times6=48$, $48\div8=6$, $48\div6=8$ (six eight forty-eight); $4\times7=28$, $28\div7=4$, $28\div4=7$ (four seven twenty-eight).
+
+$\blacksquare$

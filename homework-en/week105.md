@@ -26,7 +26,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 9.5.1 (用字母表示数)**: (1) $\left(a+3\right)$ cm. (2) $0.18b$ kg. (3) $c\div80$ yuan/kWh. (4) $\left(d-2\right)$ cm. $\blacksquare$
+By **Definition 9.5.1 (用字母表示数)**: (1) $\left(a+3\right)$ cm. (2) $0.18b$ kg. (3) $c\div80$ yuan/kWh. (4) $\left(d-2\right)$ cm.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -34,7 +36,9 @@ By **Definition 9.5.1 (用字母表示数)**: (1) $\left(a+3\right)$ cm. (2) $0.
 
 ### Solution to Exercise 2
 
-$c=an$, $a=c\div{n}$, $n=c\div{a}$. A set of table and chairs $\left(120+m\right)$ yuan. When $m=80$, $120+80=200$ yuan. $\blacksquare$
+$c=an$, $a=c\div{n}$, $n=c\div{a}$. A set of table and chairs $\left(120+m\right)$ yuan. When $m=80$, $120+80=200$ yuan.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -42,7 +46,9 @@ $c=an$, $a=c\div{n}$, $n=c\div{a}$. A set of table and chairs $\left(120+m\right
 
 ### Solution to Exercise 3
 
-By **Definition 9.5.3 (用字母表示运算律和公式)**: $a+\left(2+c\right)=\left(a+2\right)+c$; $a\cdot{b}\cdot4=a\cdot\left(b\cdot4\right)$; $3x+5x=\left(3+5\right)\cdot{x}=8x$; $4\left(x+3\right)=4\cdot{x}+4\cdot3=4x+12$. $\blacksquare$
+By **Definition 9.5.3 (用字母表示运算律和公式)**: $a+\left(2+c\right)=\left(a+2\right)+c$; $a\cdot{b}\cdot4=a\cdot\left(b\cdot4\right)$; $3x+5x=\left(3+5\right)\cdot{x}=8x$; $4\left(x+3\right)=4\cdot{x}+4\cdot3=4x+12$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -50,7 +56,9 @@ By **Definition 9.5.3 (用字母表示运算律和公式)**: $a+\left(2+c\right)
 
 ### Solution to Exercise 4
 
-By **Definition 9.5.3 (用字母表示运算律和公式)**, area $=$ length $\times$ width. The width-$a$ part has area $ac$, the width-$b$ part area $bc$, and the whole area $\left(a+b\right)c=ac+bc$. $\blacksquare$
+By **Definition 9.5.3 (用字母表示运算律和公式)**, area $=$ length $\times$ width. The width-$a$ part has area $ac$, the width-$b$ part area $bc$, and the whole area $\left(a+b\right)c=ac+bc$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -58,7 +66,9 @@ By **Definition 9.5.3 (用字母表示运算律和公式)**, area $=$ length $\t
 
 ### Solution to Exercise 5
 
-By **Definition 9.5.1 (用字母表示数)**, the two ends seat a fixed $2$, and adding $1$ more table seats $2$ more, so $n=2+2m$. When $m=15$, $n=2+30=32$. When $n=52$, $2+2m=52$, $m=25$ tables. $\blacksquare$
+By **Definition 9.5.1 (用字母表示数)**, the two ends seat a fixed $2$, and adding $1$ more table seats $2$ more, so $n=2+2m$. When $m=15$, $n=2+30=32$. When $n=52$, $2+2m=52$, $m=25$ tables.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -66,7 +76,9 @@ By **Definition 9.5.1 (用字母表示数)**, the two ends seat a fixed $2$, and
 
 ### Solution to Exercise 6
 
-By **Definition 9.5.1 (用字母表示数)** and **Definition 9.5.3 (用字母表示运算律和公式)**, $s=320\left(a+b\right)$. When $a=2,b=3$, $s=320\times5=1600$ km. When $s=2240,a=3$, $320\left(3+b\right)=2240$, $3+b=7$, $b=4$. $\blacksquare$
+By **Definition 9.5.1 (用字母表示数)** and **Definition 9.5.3 (用字母表示运算律和公式)**, $s=320\left(a+b\right)$. When $a=2,b=3$, $s=320\times5=1600$ km. When $s=2240,a=3$, $320\left(3+b\right)=2240$, $3+b=7$, $b=4$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -74,7 +86,9 @@ By **Definition 9.5.1 (用字母表示数)** and **Definition 9.5.3 (用字母�
 
 ### Solution to Exercise 7
 
-By **Definition 9.5.1 (用字母表示数)**: (1) the $n$th term is $n$. (2) the $n$th term is $2n$. (3) the $n$th term is $2n-1$. (4) the $n$th term is $n^2$. $\blacksquare$
+By **Definition 9.5.1 (用字母表示数)**: (1) the $n$th term is $n$. (2) the $n$th term is $2n$. (3) the $n$th term is $2n-1$. (4) the $n$th term is $n^2$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -82,7 +96,9 @@ By **Definition 9.5.1 (用字母表示数)**: (1) the $n$th term is $n$. (2) the
 
 ### Solution to Exercise 8
 
-(1) Together $75x+60x=135x$ yuan; Zhang gets $\left(75-60\right)x=15x$ more. (2) When $x=3$, $15\times3=45$ yuan. $\blacksquare$
+(1) Together $75x+60x=135x$ yuan; Zhang gets $\left(75-60\right)x=15x$ more. (2) When $x=3$, $15\times3=45$ yuan.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -90,7 +106,9 @@ By **Definition 9.5.1 (用字母表示数)**: (1) the $n$th term is $n$. (2) the
 
 ### Solution to Exercise 9
 
-(1) Tunnel length $150\left(a+b\right)$ m. (2) $150\times\left(10+9\right)=150\times19=2850$ m. $\blacksquare$
+(1) Tunnel length $150\left(a+b\right)$ m. (2) $150\times\left(10+9\right)=150\times19=2850$ m.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -98,7 +116,9 @@ By **Definition 9.5.1 (用字母表示数)**: (1) the $n$th term is $n$. (2) the
 
 ### Solution to Exercise 10
 
-By **Definition 9.5.1 (用字母表示数)**, row $n$ has $2n$ disks. When $2n=100$, $n=50$ rows. $\blacksquare$
+By **Definition 9.5.1 (用字母表示数)**, row $n$ has $2n$ disks. When $2n=100$, $n=50$ rows.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -106,7 +126,9 @@ By **Definition 9.5.1 (用字母表示数)**, row $n$ has $2n$ disks. When $2n=1
 
 ### Solution to Exercise 11
 
-Charging per km $36\div100=0.36$ yuan, total cost $\left(0.36a+200\right)$ yuan. $\blacksquare$
+Charging per km $36\div100=0.36$ yuan, total cost $\left(0.36a+200\right)$ yuan.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -114,7 +136,9 @@ Charging per km $36\div100=0.36$ yuan, total cost $\left(0.36a+200\right)$ yuan.
 
 ### Solution to Exercise 12
 
-Together $\left(200+320\right)x=520x$ km. Fuxing goes $\left(320-200\right)x=120x$ km farther. $\blacksquare$
+Together $\left(200+320\right)x=520x$ km. Fuxing goes $\left(320-200\right)x=120x$ km farther.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -122,7 +146,9 @@ Together $\left(200+320\right)x=520x$ km. Fuxing goes $\left(320-200\right)x=120
 
 ### Solution to Exercise 13
 
-When $x=8$, $x^2=64$, $4x=32$. $x^2=4x$ means $x^2-4x=0$, $x\left(x-4\right)=0$, so $x=0$ or $x=4$. $\blacksquare$
+When $x=8$, $x^2=64$, $4x=32$. $x^2=4x$ means $x^2-4x=0$, $x\left(x-4\right)=0$, so $x=0$ or $x=4$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -130,7 +156,9 @@ When $x=8$, $x^2=64$, $4x=32$. $x^2=4x$ means $x^2-4x=0$, $x\left(x-4\right)=0$,
 
 ### Solution to Exercise 14
 
-By **Definition 9.5.1 (用字母表示数)**, the upper right is $a+1$, lower left $a+10$, lower right $a+11$. Diagonal sums: $a+\left(a+11\right)=2a+11$, $\left(a+1\right)+\left(a+10\right)=2a+11$, so they are equal. $\blacksquare$
+By **Definition 9.5.1 (用字母表示数)**, the upper right is $a+1$, lower left $a+10$, lower right $a+11$. Diagonal sums: $a+\left(a+11\right)=2a+11$, $\left(a+1\right)+\left(a+10\right)=2a+11$, so they are equal.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -138,7 +166,9 @@ By **Definition 9.5.1 (用字母表示数)**, the upper right is $a+1$, lower le
 
 ### Solution to Exercise 15
 
-By **Definition 9.5.1 (用字母表示数)**: (1) $\left(a+8\right)^\circ$C. (2) $\left(35-b\right)$ girls. (3) $3c$ points. (4) $d\div3$ balls. $\blacksquare$
+By **Definition 9.5.1 (用字母表示数)**: (1) $\left(a+8\right)^\circ$C. (2) $\left(35-b\right)$ girls. (3) $3c$ points. (4) $d\div3$ balls.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -146,4 +176,6 @@ By **Definition 9.5.1 (用字母表示数)**: (1) $\left(a+8\right)^\circ$C. (2)
 
 ### Solution to Exercise 16
 
-By **Definition 9.5.4 (等式的性质)**: $a+3=b+3$; $a-9=b-9$; $a\times1.5=b\times1.5$; $a-c=b-c$. $\blacksquare$
+By **Definition 9.5.4 (等式的性质)**: $a+3=b+3$; $a-9=b-9$; $a\times1.5=b\times1.5$; $a-c=b-c$.
+
+$\blacksquare$

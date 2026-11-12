@@ -38,7 +38,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 8.1.1 (Addition)** and **Definition 8.1.2 (Subtraction)**, find the unknowns: $\square=37-18=19$; $\square=100+73=173$; $\square=80-55=25$; $\square=210-150=60$; $\square=540-210=330$; $\square=360-200=160$. Table: $200+300=500$, $200+400=600$, $200+128=328$, $200+851=1051$; $654-500=154$, $654-143=511$, $654-297=357$, $654-381=273$. $\blacksquare$
+By **Definition 8.1.1 (Addition)** and **Definition 8.1.2 (Subtraction)**, find the unknowns: $\square=37-18=19$; $\square=100+73=173$; $\square=80-55=25$; $\square=210-150=60$; $\square=540-210=330$; $\square=360-200=160$. Table: $200+300=500$, $200+400=600$, $200+128=328$, $200+851=1051$; $654-500=154$, $654-143=511$, $654-297=357$, $654-381=273$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -46,7 +48,9 @@ By **Definition 8.1.1 (Addition)** and **Definition 8.1.2 (Subtraction)**, find 
 
 ### Solution to Exercise 2
 
-$340+190=530$ (check: $530-340=190$); $254+297=551$ (check: $551-254=297$); $586-98=488$ (check: $488+98=586$); $712-455=257$ (check: $257+455=712$). $\blacksquare$
+$340+190=530$ (check: $530-340=190$); $254+297=551$ (check: $551-254=297$); $586-98=488$ (check: $488+98=586$); $712-455=257$ (check: $257+455=712$).
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -54,7 +58,9 @@ $340+190=530$ (check: $530-340=190$); $254+297=551$ (check: $551-254=297$); $586
 
 ### Solution to Exercise 3
 
-By **Definition 8.1.4 (Meaning of Division and the Relationships Among Its Parts)**, division is the inverse of multiplication; dividing the product by one factor gives the other factor: $504\div14=36$, $504\div36=14$. $\blacksquare$
+By **Definition 8.1.4 (Meaning of Division and the Relationships Among Its Parts)**, division is the inverse of multiplication; dividing the product by one factor gives the other factor: $504\div14=36$, $504\div36=14$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -62,7 +68,9 @@ By **Definition 8.1.4 (Meaning of Division and the Relationships Among Its Parts
 
 ### Solution to Exercise 4
 
-(1) By **Definition 8.1.3 (Multiplication)**, finding what $6$ copies of $5$ is uses multiplication: $5\times6=30$ ($\mathrm{m}$). (2) By **Definition 8.1.4 (Division)**, equal sharing uses division: $30\div6=5$ ($\mathrm{m}$). (3) $120\div12=10$ (boxes). (4) Given that $8$ times a number is $5600$, find the number with division: $5600\div8=700$ ($\mathrm{kg}$). $\blacksquare$
+(1) By **Definition 8.1.3 (Multiplication)**, finding what $6$ copies of $5$ is uses multiplication: $5\times6=30$ ($\mathrm{m}$). (2) By **Definition 8.1.4 (Division)**, equal sharing uses division: $30\div6=5$ ($\mathrm{m}$). (3) $120\div12=10$ (boxes). (4) Given that $8$ times a number is $5600$, find the number with division: $5600\div8=700$ ($\mathrm{kg}$).
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -70,7 +78,9 @@ By **Definition 8.1.4 (Meaning of Division and the Relationships Among Its Parts
 
 ### Solution to Exercise 5
 
-By **Definition 8.1.3 (Multiplication)** and **Definition 8.1.4 (Division)**, which are inverse operations: $17\times42=714\to714\div17=42,714\div42=17$; $208\times67=13936\to13936\div208=67,13936\div67=208$; $1008\div48=21\to1008\div21=48,21\times48=1008$; $1125\div25=45\to1125\div45=25,45\times25=1125$. $\blacksquare$
+By **Definition 8.1.3 (Multiplication)** and **Definition 8.1.4 (Division)**, which are inverse operations: $17\times42=714\to714\div17=42,714\div42=17$; $208\times67=13936\to13936\div208=67,13936\div67=208$; $1008\div48=21\to1008\div21=48,21\times48=1008$; $1125\div25=45\to1125\div45=25,45\times25=1125$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -78,7 +88,9 @@ By **Definition 8.1.3 (Multiplication)** and **Definition 8.1.4 (Division)**, wh
 
 ### Solution to Exercise 6
 
-By **Definition 8.1.4 (Division)** and **Definition 8.1.3 (Multiplication)**: $\square=35\times20=700$; $\square=774\div18=43$; $\square=356\div89=4$; $\square=928\div29=32$; $\square=672\div24=28$; $\square=858\div39=22$. $\blacksquare$
+By **Definition 8.1.4 (Division)** and **Definition 8.1.3 (Multiplication)**: $\square=35\times20=700$; $\square=774\div18=43$; $\square=356\div89=4$; $\square=928\div29=32$; $\square=672\div24=28$; $\square=858\div39=22$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -86,7 +98,9 @@ By **Definition 8.1.4 (Division)** and **Definition 8.1.3 (Multiplication)**: $\
 
 ### Solution to Exercise 7
 
-$48\times27=1296$ (check: $1296\div27=48$); $102\times85=8670$ (check: $8670\div85=102$); $754\div29=26$ (check: $26\times29=754$); $876\div73=12$ (check: $12\times73=876$). $\blacksquare$
+$48\times27=1296$ (check: $1296\div27=48$); $102\times85=8670$ (check: $8670\div85=102$); $754\div29=26$ (check: $26\times29=754$); $876\div73=12$ (check: $12\times73=876$).
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -94,7 +108,9 @@ $48\times27=1296$ (check: $1296\div27=48$); $102\times85=8670$ (check: $8670\div
 
 ### Solution to Exercise 8
 
-By **Definition 8.1.6 (Relationships Among the Parts in Division with Remainder)**, dividend $=$ quotient $\times$ divisor $+$ remainder: $12\times6+3=75$ (peaches). $\blacksquare$
+By **Definition 8.1.6 (Relationships Among the Parts in Division with Remainder)**, dividend $=$ quotient $\times$ divisor $+$ remainder: $12\times6+3=75$ (peaches).
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -102,7 +118,9 @@ By **Definition 8.1.6 (Relationships Among the Parts in Division with Remainder)
 
 ### Solution to Exercise 9
 
-By **Definition 8.1.5 (Operations Involving 0)**: $24+0=24$, $70-0=70$, $13-13=0$, $0+504=504$, $0\times8=0$, $0\div36=0$, $0\div9=0$, $392\times0=0$. $\blacksquare$
+By **Definition 8.1.5 (Operations Involving 0)**: $24+0=24$, $70-0=70$, $13-13=0$, $0+504=504$, $0\times8=0$, $0\div36=0$, $0\div9=0$, $392\times0=0$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -110,7 +128,9 @@ By **Definition 8.1.5 (Operations Involving 0)**: $24+0=24$, $70-0=70$, $13-13=0
 
 ### Solution to Exercise 10
 
-The spacecraft's speed is $55\div5=11$ ($\mathrm{km/s}$). Time $3$ seconds gives distance $11\times3=33\,\mathrm{km}$; time $13$ seconds gives distance $11\times13=143\,\mathrm{km}$; distance $77\,\mathrm{km}$ gives time $77\div11=7$ seconds; distance $176\,\mathrm{km}$ gives time $176\div11=16$ seconds. $\blacksquare$
+The spacecraft's speed is $55\div5=11$ ($\mathrm{km/s}$). Time $3$ seconds gives distance $11\times3=33\,\mathrm{km}$; time $13$ seconds gives distance $11\times13=143\,\mathrm{km}$; distance $77\,\mathrm{km}$ gives time $77\div11=7$ seconds; distance $176\,\mathrm{km}$ gives time $176\div11=16$ seconds.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -118,7 +138,9 @@ The spacecraft's speed is $55\div5=11$ ($\mathrm{km/s}$). Time $3$ seconds gives
 
 ### Solution to Exercise 11
 
-First equation: $14+82=96$, $96-\square=87$, so $\square=9$. Second equation: $\square\times6=58-10=48$, so $\square=48\div6=8$. The password is $98$. $\blacksquare$
+First equation: $14+82=96$, $96-\square=87$, so $\square=9$. Second equation: $\square\times6=58-10=48$, so $\square=48\div6=8$. The password is $98$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -126,4 +148,6 @@ First equation: $14+82=96$, $96-\square=87$, so $\square=9$. Second equation: $\
 
 ### Solution to Exercise 12
 
-Replace the number used in the second step expression of the two-step calculation with the result of the first expression, add parentheses when necessary to change the order of operations, and merge them into one combined expression. Just do this for the two groups of figure expressions given in the textbook. $\blacksquare$
+Replace the number used in the second step expression of the two-step calculation with the result of the first expression, add parentheses when necessary to change the order of operations, and merge them into one combined expression. Just do this for the two groups of figure expressions given in the textbook.
+
+$\blacksquare$

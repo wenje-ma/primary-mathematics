@@ -42,7 +42,9 @@
 
 ### Solution to Exercise 1
 
-Per minute it waters $200\times8=1600$ (square meters); in $5$ minutes, $1600\times5=8000$ (square meters). $\blacksquare$
+Per minute it waters $200\times8=1600$ (square meters); in $5$ minutes, $1600\times5=8000$ (square meters).
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -50,7 +52,9 @@ Per minute it waters $200\times8=1600$ (square meters); in $5$ minutes, $1600\ti
 
 ### Solution to Exercise 2
 
-(1) $\times$, $6$ square meters $=600$ square decimeters. (2) $\times$, $8=1\times8=2\times4$, so there are two ways. (3) $\surd$, however arranged, the total area is always $8$ squares of $1$ square decimeter. $\blacksquare$
+(1) $\times$, $6$ square meters $=600$ square decimeters. (2) $\times$, $8=1\times8=2\times4$, so there are two ways. (3) $\surd$, however arranged, the total area is always $8$ squares of $1$ square decimeter.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -58,7 +62,9 @@ Per minute it waters $200\times8=1600$ (square meters); in $5$ minutes, $1600\ti
 
 ### Solution to Exercise 3
 
-length$+$width$=16\div2=8$ (cm); you can draw: length $7$ width $1$ area $7$, length $6$ width $2$ area $12$, length $5$ width $3$ area $15$, length $4$ width $4$ (square) area $16$. Pattern: when the perimeter is equal, the closer the length and width, the larger the area. $\blacksquare$
+length$+$width$=16\div2=8$ (cm); you can draw: length $7$ width $1$ area $7$, length $6$ width $2$ area $12$, length $5$ width $3$ area $15$, length $4$ width $4$ (square) area $16$. Pattern: when the perimeter is equal, the closer the length and width, the larger the area.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -66,7 +72,9 @@ length$+$width$=16\div2=8$ (cm); you can draw: length $7$ width $1$ area $7$, le
 
 ### Solution to Exercise 4
 
-Let the flower bed's side be $a$ m; the outer square of the path has side $\left(a+2\right)$ m. $\left(a+2\right)^2-a^2=4a+4=16$, giving $a=3$ (m); the flower bed's area is $3\times3=9$ (square meters). $\blacksquare$
+Let the flower bed's side be $a$ m; the outer square of the path has side $\left(a+2\right)$ m. $\left(a+2\right)^2-a^2=4a+4=16$, giving $a=3$ (m); the flower bed's area is $3\times3=9$ (square meters).
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -74,7 +82,9 @@ Let the flower bed's side be $a$ m; the outer square of the path has side $\left
 
 ### Solution to Exercise 5
 
-By **Definition 6.5.1 (数据的收集与记录)**, each tally group represents $5$ vehicles; count the tally groups and strokes for each kind and fill the table; compare the counts, and the largest count is the most numerous, the smallest the least. $\blacksquare$
+By **Definition 6.5.1 (数据的收集与记录)**, each tally group represents $5$ vehicles; count the tally groups and strokes for each kind and fill the table; compare the counts, and the largest count is the most numerous, the smallest the least.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -82,7 +92,9 @@ By **Definition 6.5.1 (数据的收集与记录)**, each tally group represents 
 
 ### Solution to Exercise 6
 
-By **Definition 6.5.1 (数据的收集与记录)**, after the survey fill into the tally table the number of people who like each fruit; buy more of the fruit liked by more people and less of the fruit liked by fewer. $\blacksquare$
+By **Definition 6.5.1 (数据的收集与记录)**, after the survey fill into the tally table the number of people who like each fruit; buy more of the fruit liked by more people and less of the fruit liked by fewer.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -90,7 +102,9 @@ By **Definition 6.5.1 (数据的收集与记录)**, after the survey fill into t
 
 ### Solution to Exercise 7
 
-By **Definition 6.5.2 (Two-Way Tally Table)**, fill the days at the same level for the three years into the same row. Comparison shows: the number of "excellent" days increases year by year, the polluted days decrease year by year, and air quality gets better and better. $\blacksquare$
+By **Definition 6.5.2 (Two-Way Tally Table)**, fill the days at the same level for the three years into the same row. Comparison shows: the number of "excellent" days increases year by year, the polluted days decrease year by year, and air quality gets better and better.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -98,7 +112,9 @@ By **Definition 6.5.2 (Two-Way Tally Table)**, fill the days at the same level f
 
 ### Solution to Exercise 8
 
-By **Definition 6.5.2 (复式统计表)**, fill into the two-way table the numbers of boys and girls who like each kind of book; in the boys' row and the girls' row, whichever number is largest is the favorite kind. $\blacksquare$
+By **Definition 6.5.2 (复式统计表)**, fill into the two-way table the numbers of boys and girls who like each kind of book; in the boys' row and the girls' row, whichever number is largest is the favorite kind.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -106,7 +122,9 @@ By **Definition 6.5.2 (复式统计表)**, fill into the two-way table the numbe
 
 ### Solution to Exercise 9
 
-By **Definition 6.5.3 (Binning Data into Intervals)**, first split by gender, then classify each result against the level ranges (girls: $\leqslant38$ fail, $39\sim108$ pass, $109\sim124$ good, $\geqslant125$ excellent; the boys' standard is slightly lower), count the numbers, and fill the two-way table. $\blacksquare$
+By **Definition 6.5.3 (Binning Data into Intervals)**, first split by gender, then classify each result against the level ranges (girls: $\leqslant38$ fail, $39\sim108$ pass, $109\sim124$ good, $\geqslant125$ excellent; the boys' standard is slightly lower), count the numbers, and fill the two-way table.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -114,7 +132,9 @@ By **Definition 6.5.3 (Binning Data into Intervals)**, first split by gender, th
 
 ### Solution to Exercise 10
 
-By **Definition 6.5.3 (数据的分段整理)**, measure each student's height and classify into the four intervals, count the boys' and girls' numbers and fill the table; compare the totals of each interval, and the interval with the most people is the answer. $\blacksquare$
+By **Definition 6.5.3 (数据的分段整理)**, measure each student's height and classify into the four intervals, count the boys' and girls' numbers and fill the table; compare the totals of each interval, and the interval with the most people is the answer.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -122,7 +142,9 @@ By **Definition 6.5.3 (数据的分段整理)**, measure each student's height a
 
 ### Solution to Exercise 11
 
-By **Definition 6.5.1 (数据的收集与记录)**, the whole class is $5+4+20+3=32$ (people); blue is liked most ($20$ people); blue is the most suitable background color for the class sign. $\blacksquare$
+By **Definition 6.5.1 (数据的收集与记录)**, the whole class is $5+4+20+3=32$ (people); blue is liked most ($20$ people); blue is the most suitable background color for the class sign.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -130,7 +152,9 @@ By **Definition 6.5.1 (数据的收集与记录)**, the whole class is $5+4+20+3
 
 ### Solution to Exercise 12
 
-By **Definition 6.5.1 (数据的收集与记录)**, sunny $15$ days, cloudy $10$ days, and the rainy days filled in from the tally strokes. The month's total days $=$ sunny$+$cloudy$+$rainy; the extra cloudy days $=$ cloudy$-$rainy. $\blacksquare$
+By **Definition 6.5.1 (数据的收集与记录)**, sunny $15$ days, cloudy $10$ days, and the rainy days filled in from the tally strokes. The month's total days $=$ sunny$+$cloudy$+$rainy; the extra cloudy days $=$ cloudy$-$rainy.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -138,7 +162,9 @@ By **Definition 6.5.1 (数据的收集与记录)**, sunny $15$ days, cloudy $10$
 
 ### Solution to Exercise 13
 
-By **Definition 6.5.2 (复式统计表)** and **Definition 6.5.3 (数据的分段整理)**, fuel-car sales decline year by year while new-energy sales rise rapidly; predict that next year fuel cars continue to decrease and new-energy cars continue to surge, possibly approaching or even exceeding fuel cars. $\blacksquare$
+By **Definition 6.5.2 (复式统计表)** and **Definition 6.5.3 (数据的分段整理)**, fuel-car sales decline year by year while new-energy sales rise rapidly; predict that next year fuel cars continue to decrease and new-energy cars continue to surge, possibly approaching or even exceeding fuel cars.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -146,7 +172,9 @@ By **Definition 6.5.2 (复式统计表)** and **Definition 6.5.3 (数据的分�
 
 ### Solution to Exercise 14
 
-By **Definition 6.5.3 (数据的分段整理)**, classify each student's time into the four intervals, count the boys' and girls' numbers and fill the table; based on the distribution of housework time, give suggestions, such as encouraging more housework. $\blacksquare$
+By **Definition 6.5.3 (数据的分段整理)**, classify each student's time into the four intervals, count the boys' and girls' numbers and fill the table; based on the distribution of housework time, give suggestions, such as encouraging more housework.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -154,7 +182,9 @@ By **Definition 6.5.3 (数据的分段整理)**, classify each student's time in
 
 ### Solution to Exercise 15
 
-By **Definition 6.5.2 (复式统计表)**, fill the production, management and support staff of both companies into the two-way table. For example, Company 2 totals $267+45+62=374$ (people), Company 1 totals $133+27+55=215$ (people); answers may vary. $\blacksquare$
+By **Definition 6.5.2 (复式统计表)**, fill the production, management and support staff of both companies into the two-way table. For example, Company 2 totals $267+45+62=374$ (people), Company 1 totals $133+27+55=215$ (people); answers may vary.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -162,7 +192,9 @@ By **Definition 6.5.2 (复式统计表)**, fill the production, management and s
 
 ### Solution to Exercise 16
 
-By **Definition 6.5.1 (数据的收集与记录)**, Xiaogang $15$ votes, Xiaoyu $20$ votes; Xiaoyu should be chosen. (3) They differ by $5$ votes; even if the $2$ votes both went to Xiaogang, Xiaoyu still leads, and the result is unchanged. $\blacksquare$
+By **Definition 6.5.1 (数据的收集与记录)**, Xiaogang $15$ votes, Xiaoyu $20$ votes; Xiaoyu should be chosen. (3) They differ by $5$ votes; even if the $2$ votes both went to Xiaogang, Xiaoyu still leads, and the result is unchanged.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -170,7 +202,9 @@ By **Definition 6.5.1 (数据的收集与记录)**, Xiaogang $15$ votes, Xiaoyu 
 
 ### Solution to Exercise 17
 
-By **Definition 6.5.1 (数据的收集与记录)**, science $45$ votes, art $15$ votes, sports $35$ votes. More people like science and sports, so suggest organizing more science and sports clubs. $\blacksquare$
+By **Definition 6.5.1 (数据的收集与记录)**, science $45$ votes, art $15$ votes, sports $35$ votes. More people like science and sports, so suggest organizing more science and sports clubs.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -178,7 +212,9 @@ By **Definition 6.5.1 (数据的收集与记录)**, science $45$ votes, art $15$
 
 ### Solution to Exercise 18
 
-By **Definition 6.5.2 (复式统计表)** and **Definition 6.5.3 (数据的分段整理)**, count the numbers at each level in grade one and grade three and fill the two-way table. Comparison shows: in grade three the numbers at excellent and good are greater than in grade one, the pass and fail numbers decrease, and overall fitness improves. $\blacksquare$
+By **Definition 6.5.2 (复式统计表)** and **Definition 6.5.3 (数据的分段整理)**, count the numbers at each level in grade one and grade three and fill the two-way table. Comparison shows: in grade three the numbers at excellent and good are greater than in grade one, the pass and fail numbers decrease, and overall fitness improves.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -186,7 +222,9 @@ By **Definition 6.5.2 (复式统计表)** and **Definition 6.5.3 (数据的分�
 
 ### Solution to Exercise 19
 
-By **Definition 6.5.3 (数据的分段整理)**, classify each student's reading time into the three intervals, count the two classes' numbers and fill the two-way table; based on the reading-time distribution, suggest that students with short reading time read more. $\blacksquare$
+By **Definition 6.5.3 (数据的分段整理)**, classify each student's reading time into the three intervals, count the two classes' numbers and fill the two-way table; based on the reading-time distribution, suggest that students with short reading time read more.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -194,4 +232,6 @@ By **Definition 6.5.3 (数据的分段整理)**, classify each student's reading
 
 ### Solution to Exercise 20
 
-By **Definition 6.5.1 (数据的收集与记录)** and **Definition 6.5.2 (复式统计表)**, first survey each track-team member's shoe size, record and organize into a tally table; for each size, order as many pairs as there are people, preparing according to the counts. $\blacksquare$
+By **Definition 6.5.1 (数据的收集与记录)** and **Definition 6.5.2 (复式统计表)**, first survey each track-team member's shoe size, record and organize into a tally table; for each size, order as many pairs as there are people, preparing according to the counts.
+
+$\blacksquare$

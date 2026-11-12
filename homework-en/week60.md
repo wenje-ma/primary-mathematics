@@ -30,7 +30,9 @@
 
 ### Solution to Exercise 1
 
-(1) By **Definition 6.2.6 (Totalization Problem)**, divide the money spent by each unit price; the one that divides exactly is what was bought. $114\div6=19$, so the $6$-yuan toy was bought $19$ times; then divide $125$ by each stationery unit price, and the one dividing exactly gives the stationery bought and its count. (2) The total is $114+125=239$ yuan; $239\div$ pencil-case price, the quotient is the count and the remainder the money left. $\blacksquare$
+(1) By **Definition 6.2.6 (Totalization Problem)**, divide the money spent by each unit price; the one that divides exactly is what was bought. $114\div6=19$, so the $6$-yuan toy was bought $19$ times; then divide $125$ by each stationery unit price, and the one dividing exactly gives the stationery bought and its count. (2) The total is $114+125=239$ yuan; $239\div$ pencil-case price, the quotient is the count and the remainder the money left.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -38,7 +40,9 @@
 
 ### Solution to Exercise 2
 
-The two facing pages are consecutive numbers, the right page being $1$ more than the left. $\left(185-1\right)\div2=92$, $92+1=93$; pages $92$ and $93$ are open. $\blacksquare$
+The two facing pages are consecutive numbers, the right page being $1$ more than the left. $\left(185-1\right)\div2=92$, $92+1=93$; pages $92$ and $93$ are open.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -46,7 +50,9 @@ The two facing pages are consecutive numbers, the right page being $1$ more than
 
 ### Solution to Exercise 3
 
-By **Definition 6.2.3 (笔算除法法则)** and **Definition 6.2.4 (除法的验算)**, work backward from the product of the quotient and the divisor, filling in the missing tens and ones digits of the dividend step by step. $\blacksquare$
+By **Definition 6.2.3 (笔算除法法则)** and **Definition 6.2.4 (除法的验算)**, work backward from the product of the quotient and the divisor, filling in the missing tens and ones digits of the dividend step by step.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -54,7 +60,9 @@ By **Definition 6.2.3 (笔算除法法则)** and **Definition 6.2.4 (除法的�
 
 ### Solution to Exercise 4
 
-By **Definition 6.2.5 (Division by 0)**: $0\div3=0$, $0\div9=0$, $0\times7=0$, $0+6=6$. $\blacksquare$
+By **Definition 6.2.5 (Division by 0)**: $0\div3=0$, $0\div9=0$, $0\times7=0$, $0+6=6$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -62,7 +70,9 @@ By **Definition 6.2.5 (Division by 0)**: $0\div3=0$, $0\div9=0$, $0\times7=0$, $
 
 ### Solution to Exercise 5
 
-By **Definition 6.2.3 (笔算除法法则)**, when a quotient of $1$ cannot be made, write $0$ as a placeholder: $624\div6=104$, $545\div5=109$, $316\div3=105\cdots\cdots1$, $606\div6=101$, $609\div3=203$, $402\div2=201$. $\blacksquare$
+By **Definition 6.2.3 (笔算除法法则)**, when a quotient of $1$ cannot be made, write $0$ as a placeholder: $624\div6=104$, $545\div5=109$, $316\div3=105\cdots\cdots1$, $606\div6=101$, $609\div3=203$, $402\div2=201$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -70,7 +80,9 @@ By **Definition 6.2.3 (笔算除法法则)**, when a quotient of $1$ cannot be m
 
 ### Solution to Exercise 6
 
-By **Definition 6.2.3 (笔算除法法则)**: $360\div3=120$, $680\div4=170$, $262\div6=43\cdots\cdots4$, $403\div8=50\cdots\cdots3$. $\blacksquare$
+By **Definition 6.2.3 (笔算除法法则)**: $360\div3=120$, $680\div4=170$, $262\div6=43\cdots\cdots4$, $403\div8=50\cdots\cdots3$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -78,7 +90,9 @@ By **Definition 6.2.3 (笔算除法法则)**: $360\div3=120$, $680\div4=170$, $2
 
 ### Solution to Exercise 7
 
-By **Definition 6.2.3 (笔算除法法则)**: $750\div5=150$, $980\div7=140$, $631\div3=210\cdots\cdots1$, $843\div6=140\cdots\cdots3$. $\blacksquare$
+By **Definition 6.2.3 (笔算除法法则)**: $750\div5=150$, $980\div7=140$, $631\div3=210\cdots\cdots1$, $843\div6=140\cdots\cdots3$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -86,7 +100,9 @@ By **Definition 6.2.3 (笔算除法法则)**: $750\div5=150$, $980\div7=140$, $6
 
 ### Solution to Exercise 8
 
-$206\div2=103$ (yuan), $103$ yuan per child's ticket. $\blacksquare$
+$206\div2=103$ (yuan), $103$ yuan per child's ticket.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -94,7 +110,9 @@ $206\div2=103$ (yuan), $103$ yuan per child's ticket. $\blacksquare$
 
 ### Solution to Exercise 9
 
-By **Definition 6.2.3 (笔算除法法则)**: $604\div2=302$, $504\div3=168$, $416\div2=208$, $836\div4=209$. $\blacksquare$
+By **Definition 6.2.3 (笔算除法法则)**: $604\div2=302$, $504\div3=168$, $416\div2=208$, $836\div4=209$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -102,7 +120,9 @@ By **Definition 6.2.3 (笔算除法法则)**: $604\div2=302$, $504\div3=168$, $4
 
 ### Solution to Exercise 10
 
-By **Definition 6.2.3 (笔算除法法则)** and **Definition 6.2.4 (除法的验算)**: $480\div4=120$, $840\div6=140$, $501\div5=100\cdots\cdots1$, $614\div3=204\cdots\cdots2$. $\blacksquare$
+By **Definition 6.2.3 (笔算除法法则)** and **Definition 6.2.4 (除法的验算)**: $480\div4=120$, $840\div6=140$, $501\div5=100\cdots\cdots1$, $614\div3=204\cdots\cdots2$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -110,7 +130,9 @@ By **Definition 6.2.3 (笔算除法法则)** and **Definition 6.2.4 (除法的�
 
 ### Solution to Exercise 11
 
-Each rattan chair is $404\div2=202$ (yuan), each dining chair is $424\div4=106$ (yuan), $202-106=96$ (yuan), so it is $96$ yuan more expensive. $\blacksquare$
+Each rattan chair is $404\div2=202$ (yuan), each dining chair is $424\div4=106$ (yuan), $202-106=96$ (yuan), so it is $96$ yuan more expensive.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -118,7 +140,9 @@ Each rattan chair is $404\div2=202$ (yuan), each dining chair is $424\div4=106$ 
 
 ### Solution to Exercise 12
 
-(1) $90\div5=18$, the car is $18$ times walking; (2) $950\div5=190$, the plane is $190$ times walking. $\blacksquare$
+(1) $90\div5=18$, the car is $18$ times walking; (2) $950\div5=190$, the plane is $190$ times walking.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -126,7 +150,9 @@ Each rattan chair is $404\div2=202$ (yuan), each dining chair is $424\div4=106$ 
 
 ### Solution to Exercise 13
 
-Xiaoming per week: $609\div3=203$ (characters); Xiaoliang per week: $964\div4=241$ (characters); $241-203=38$ (characters), so $38$ more. $\blacksquare$
+Xiaoming per week: $609\div3=203$ (characters); Xiaoliang per week: $964\div4=241$ (characters); $241-203=38$ (characters), so $38$ more.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -134,7 +160,9 @@ Xiaoming per week: $609\div3=203$ (characters); Xiaoliang per week: $964\div4=24
 
 ### Solution to Exercise 14
 
-Compute first, then compare: $504\div6=84$, $504\div7=72$, hence $>$; $304\div8=38$, $342\div9=38$, hence $=$; $708\div6=118$, $891\div9=99$, hence $>$; $736\div8=92$, $816\div8=102$, hence $<$; $405\div5=81$, $315\div5=63$, hence $>$; $204\div4=51$, $204\div3=68$, hence $<$. $\blacksquare$
+Compute first, then compare: $504\div6=84$, $504\div7=72$, hence $>$; $304\div8=38$, $342\div9=38$, hence $=$; $708\div6=118$, $891\div9=99$, hence $>$; $736\div8=92$, $816\div8=102$, hence $<$; $405\div5=81$, $315\div5=63$, hence $>$; $204\div4=51$, $204\div3=68$, hence $<$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -142,7 +170,9 @@ Compute first, then compare: $504\div6=84$, $504\div7=72$, hence $>$; $304\div8=
 
 ### Solution to Exercise 15
 
-Check by **Definition 6.2.3 (笔算除法法则)**: $406\div2=203$, $760\div4=190$, $250\div3=83\cdots\cdots1$; correct the wrong ones by the correct long division. $\blacksquare$
+Check by **Definition 6.2.3 (笔算除法法则)**: $406\div2=203$, $760\div4=190$, $250\div3=83\cdots\cdots1$; correct the wrong ones by the correct long division.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -150,7 +180,9 @@ Check by **Definition 6.2.3 (笔算除法法则)**: $406\div2=203$, $760\div4=19
 
 ### Solution to Exercise 16
 
-(1) $\surd$; for example $312\div4$ gives a two-digit quotient. (2) $\times$; for example $400\div8=50$, the dividend has two $0$s but the quotient has only one $0$. (3) $\times$; the remainder is $6$, so Number B must be greater than $6$, at most the one-digit number $9$, giving Number A $=9\times25+6=231$, not $181$. $\blacksquare$
+(1) $\surd$; for example $312\div4$ gives a two-digit quotient. (2) $\times$; for example $400\div8=50$, the dividend has two $0$s but the quotient has only one $0$. (3) $\times$; the remainder is $6$, so Number B must be greater than $6$, at most the one-digit number $9$, giving Number A $=9\times25+6=231$, not $181$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -158,7 +190,9 @@ Check by **Definition 6.2.3 (笔算除法法则)**: $406\div2=203$, $760\div4=19
 
 ### Solution to Exercise 17
 
-The divisor is $=3\times3=9$. By **Definition 6.2.4 (Checking Division)**, the dividend is $=9\times3+3=30$. $\blacksquare$
+The divisor is $=3\times3=9$. By **Definition 6.2.4 (Checking Division)**, the dividend is $=9\times3+3=30$.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -166,7 +200,9 @@ The divisor is $=3\times3=9$. By **Definition 6.2.4 (Checking Division)**, the d
 
 ### Solution to Exercise 18
 
-(1) A per day: $742\div7=106$, B per day: $637\div7=91$, $106-91=15$ (parcels). (2) For example C per day: $805\div7=115$ parcels; answers may vary. $\blacksquare$
+(1) A per day: $742\div7=106$, B per day: $637\div7=91$, $106-91=15$ (parcels). (2) For example C per day: $805\div7=115$ parcels; answers may vary.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -174,4 +210,6 @@ The divisor is $=3\times3=9$. By **Definition 6.2.4 (Checking Division)**, the d
 
 ### Solution to Exercise 19
 
-By **Definition 6.2.3 (笔算除法法则)**: $8160\div4=2040$, $9200\div8=1150$, $9029\div9=1003\cdots\cdots2$, $6543\div6=1090\cdots\cdots3$. $\blacksquare$
+By **Definition 6.2.3 (笔算除法法则)**: $8160\div4=2040$, $9200\div8=1150$, $9029\div9=1003\cdots\cdots2$, $6543\div6=1090\cdots\cdots3$.
+
+$\blacksquare$

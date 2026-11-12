@@ -34,7 +34,9 @@
 
 ### Solution to Exercise 1
 
-Originally the total for $4$ bags was $=236+84=320$ yuan, so the original price per bag was $320\div4=80$ yuan. $\blacksquare$
+Originally the total for $4$ bags was $=236+84=320$ yuan, so the original price per bag was $320\div4=80$ yuan.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -42,7 +44,9 @@ Originally the total for $4$ bags was $=236+84=320$ yuan, so the original price 
 
 ### Solution to Exercise 2
 
-By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**: (1) total price $=$ unit price $\times$ quantity; (2) unit price $=$ total price $\div$ quantity $=126\div$ quantity. $\blacksquare$
+By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**: (1) total price $=$ unit price $\times$ quantity; (2) unit price $=$ total price $\div$ quantity $=126\div$ quantity.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -50,7 +54,9 @@ By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**: (1) total price $=$
 
 ### Solution to Exercise 3
 
-By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**, use total price $=$ unit price $\times$ quantity to compute each from the others. $\blacksquare$
+By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**, use total price $=$ unit price $\times$ quantity to compute each from the others.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -58,7 +64,9 @@ By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**, use total price $=$
 
 ### Solution to Exercise 4
 
-All Combo 1: $21\times3=63>60$, not allowed; all Combo 2: $18\times3=54\le60$, allowed; $2$ of Combo 1 and $1$ of Combo 2: $42+18=60$, allowed; $1$ of Combo 1 and $2$ of Combo 2: $21+36=57$, allowed. There are $3$ ways in total. $\blacksquare$
+All Combo 1: $21\times3=63>60$, not allowed; all Combo 2: $18\times3=54\le60$, allowed; $2$ of Combo 1 and $1$ of Combo 2: $42+18=60$, allowed; $1$ of Combo 1 and $2$ of Combo 2: $21+36=57$, allowed. There are $3$ ways in total.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -66,7 +74,9 @@ All Combo 1: $21\times3=63>60$, not allowed; all Combo 2: $18\times3=54\le60$, a
 
 ### Solution to Exercise 5
 
-By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**, the quantity of tomatoes is $=32\div8=4$ kg. The amount for sea bass is $=172-32-15=125$ yuan, and its quantity is $=125\div25=5$ kg. $\blacksquare$
+By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**, the quantity of tomatoes is $=32\div8=4$ kg. The amount for sea bass is $=172-32-15=125$ yuan, and its quantity is $=125\div25=5$ kg.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -74,7 +84,9 @@ By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**, the quantity of tom
 
 ### Solution to Exercise 6
 
-By **Definition 7.5.2 (Unit Price, Quantity, Total Price)** and **Definition 7.5.1 (Addition Model)**: basketballs $85\times6=510$ yuan, total $510+66=576$ yuan. $\blacksquare$
+By **Definition 7.5.2 (Unit Price, Quantity, Total Price)** and **Definition 7.5.1 (Addition Model)**: basketballs $85\times6=510$ yuan, total $510+66=576$ yuan.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -82,7 +94,9 @@ By **Definition 7.5.2 (Unit Price, Quantity, Total Price)** and **Definition 7.5
 
 ### Solution to Exercise 7
 
-Teachers buy adult tickets and students buy child tickets: $2\times8+32\times4=16+128=144$ yuan. If group tickets are bought, $34\times6=204$ yuan, which is more expensive. The least is $144$ yuan. $\blacksquare$
+Teachers buy adult tickets and students buy child tickets: $2\times8+32\times4=16+128=144$ yuan. If group tickets are bought, $34\times6=204$ yuan, which is more expensive. The least is $144$ yuan.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -90,7 +104,9 @@ Teachers buy adult tickets and students buy child tickets: $2\times8+32\times4=1
 
 ### Solution to Exercise 8
 
-By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**: (1) $16\div5=3.2$ yuan/carton, $24\div8=3$ yuan/carton, so the $8$-carton pack is cheaper per unit. (2) Buying $2$ sets of the $8$-carton pack ($16$ cartons, $48$ yuan) plus $1$ set of the $5$-carton pack ($5$ cartons, $16$ yuan) gives $21$ cartons for $64$ yuan, which is the most cost-effective. $\blacksquare$
+By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**: (1) $16\div5=3.2$ yuan/carton, $24\div8=3$ yuan/carton, so the $8$-carton pack is cheaper per unit. (2) Buying $2$ sets of the $8$-carton pack ($16$ cartons, $48$ yuan) plus $1$ set of the $5$-carton pack ($5$ cartons, $16$ yuan) gives $21$ cartons for $64$ yuan, which is the most cost-effective.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -98,7 +114,9 @@ By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**: (1) $16\div5=3.2$ y
 
 ### Solution to Exercise 9
 
-$108\div6$ gives the total price of $1$ bowl and $1$ cup, i.e., how much each set (one bowl and one cup) costs. $\blacksquare$
+$108\div6$ gives the total price of $1$ bowl and $1$ cup, i.e., how much each set (one bowl and one cup) costs.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -106,7 +124,9 @@ $108\div6$ gives the total price of $1$ bowl and $1$ cup, i.e., how much each se
 
 ### Solution to Exercise 10
 
-By **Definition 7.5.3 (Speed, Time, Distance)**: for example, a person walking $60$ m per minute is the speed, walking for $15$ minutes is the time, and walking $900$ m in total is the distance. $\blacksquare$
+By **Definition 7.5.3 (Speed, Time, Distance)**: for example, a person walking $60$ m per minute is the speed, walking for $15$ minutes is the time, and walking $900$ m in total is the distance.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -114,7 +134,9 @@ By **Definition 7.5.3 (Speed, Time, Distance)**: for example, a person walking $
 
 ### Solution to Exercise 11
 
-By **Definition 7.5.3 (Speed, Time, Distance)**: (1) $60\times15=900$ m; (2) $600\div5=120$ seconds. $\blacksquare$
+By **Definition 7.5.3 (Speed, Time, Distance)**: (1) $60\times15=900$ m; (2) $600\div5=120$ seconds.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -122,7 +144,9 @@ By **Definition 7.5.3 (Speed, Time, Distance)**: (1) $60\times15=900$ m; (2) $60
 
 ### Solution to Exercise 12
 
-By **Definition 7.5.3 (Speed, Time, Distance)**, the distance is $=2792-2522=270$ km, the time is $=3$ hours, and the speed is $=270\div3=90$ km/h. $\blacksquare$
+By **Definition 7.5.3 (Speed, Time, Distance)**, the distance is $=2792-2522=270$ km, the time is $=3$ hours, and the speed is $=270\div3=90$ km/h.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -130,7 +154,9 @@ By **Definition 7.5.3 (Speed, Time, Distance)**, the distance is $=2792-2522=270
 
 ### Solution to Exercise 13
 
-By **Definition 7.5.3 (Speed, Time, Distance)**, the time is $=2$ hours, and the distance is $=90\times2=180$ km. $\blacksquare$
+By **Definition 7.5.3 (Speed, Time, Distance)**, the time is $=2$ hours, and the distance is $=90\times2=180$ km.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -138,7 +164,9 @@ By **Definition 7.5.3 (Speed, Time, Distance)**, the time is $=2$ hours, and the
 
 ### Solution to Exercise 14
 
-By **Definition 7.5.3 (Speed, Time, Distance)**, Xiao Dong's speed is $=400\div5=80$ meters/minute; $80>72$, so Xiao Dong is faster. $\blacksquare$
+By **Definition 7.5.3 (Speed, Time, Distance)**, Xiao Dong's speed is $=400\div5=80$ meters/minute; $80>72$, so Xiao Dong is faster.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -146,7 +174,9 @@ By **Definition 7.5.3 (Speed, Time, Distance)**, Xiao Dong's speed is $=400\div5
 
 ### Solution to Exercise 15
 
-By **Definition 7.5.3 (Speed, Time, Distance)**, each day $300\times20=6000$ m $=6$ km, and in a week $6\times7=42$ km. $\blacksquare$
+By **Definition 7.5.3 (Speed, Time, Distance)**, each day $300\times20=6000$ m $=6$ km, and in a week $6\times7=42$ km.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -154,7 +184,9 @@ By **Definition 7.5.3 (Speed, Time, Distance)**, each day $300\times20=6000$ m $
 
 ### Solution to Exercise 16
 
-By **Definition 7.5.3 (Speed, Time, Distance)**, she has traveled $305-20=285$ km, and the speed is $=285\div3=95$ km/h. $\blacksquare$
+By **Definition 7.5.3 (Speed, Time, Distance)**, she has traveled $305-20=285$ km, and the speed is $=285\div3=95$ km/h.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -162,7 +194,9 @@ By **Definition 7.5.3 (Speed, Time, Distance)**, she has traveled $305-20=285$ k
 
 ### Solution to Exercise 17
 
-The distance from Service Area B to City B is $=500-115-117=268$ km; $95\times3=285>268$, so it can be reached. $\blacksquare$
+The distance from Service Area B to City B is $=500-115-117=268$ km; $95\times3=285>268$, so it can be reached.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -170,7 +204,9 @@ The distance from Service Area B to City B is $=500-115-117=268$ km; $95\times3=
 
 ### Solution to Exercise 18
 
-By **Definition 7.5.3 (Speed, Time, Distance)**: (1) $40\times3=120$ km; (2) $120\div2=60$ km/h. $\blacksquare$
+By **Definition 7.5.3 (Speed, Time, Distance)**: (1) $40\times3=120$ km; (2) $120\div2=60$ km/h.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -178,7 +214,9 @@ By **Definition 7.5.3 (Speed, Time, Distance)**: (1) $40\times3=120$ km; (2) $12
 
 ### Solution to Exercise 19
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: for example, zebra crossings are parallel, adjacent edges of a blackboard are perpendicular, and the horizontal and vertical frames of a window are perpendicular. $\blacksquare$
+By **Definition 7.6.1 (Parallel and Perpendicular)**: for example, zebra crossings are parallel, adjacent edges of a blackboard are perpendicular, and the horizontal and vertical frames of a window are perpendicular.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -186,7 +224,9 @@ By **Definition 7.6.1 (Parallel and Perpendicular)**: for example, zebra crossin
 
 ### Solution to Exercise 20
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: align one leg of a set square with line $l$, translate it so the other leg passes through the point, and draw a line along that leg; this is the perpendicular line. $\blacksquare$
+By **Definition 7.6.1 (Parallel and Perpendicular)**: align one leg of a set square with line $l$, translate it so the other leg passes through the point, and draw a line along that leg; this is the perpendicular line.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -194,7 +234,9 @@ By **Definition 7.6.1 (Parallel and Perpendicular)**: align one leg of a set squ
 
 ### Solution to Exercise 21
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: use the right angle of a set square to compare; segments that intersect at a right angle are perpendicular to each other. $\blacksquare$
+By **Definition 7.6.1 (Parallel and Perpendicular)**: use the right angle of a set square to compare; segments that intersect at a right angle are perpendicular to each other.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -202,7 +244,9 @@ By **Definition 7.6.1 (Parallel and Perpendicular)**: use the right angle of a s
 
 ### Solution to Exercise 22
 
-By **Definition 7.6.2 (Distance from a Point to a Line)**: draw a perpendicular segment from point $A$ to the opposite edge of the road; this route is the shortest. $\blacksquare$
+By **Definition 7.6.2 (Distance from a Point to a Line)**: draw a perpendicular segment from point $A$ to the opposite edge of the road; this route is the shortest.
+
+$\blacksquare$
 
 ## Exercise 23
 
@@ -210,4 +254,6 @@ By **Definition 7.6.2 (Distance from a Point to a Line)**: draw a perpendicular 
 
 ### Solution to Exercise 23
 
-By **Definition 7.6.1 (Parallel and Perpendicular)**: use a set square together with a ruler — align one edge of the set square with the given line, press the ruler against the other edge, slide the set square to the point, and then draw the line. $\blacksquare$
+By **Definition 7.6.1 (Parallel and Perpendicular)**: use a set square together with a ruler — align one edge of the set square with the given line, press the ruler against the other edge, slide the set square to the point, and then draw the line.
+
+$\blacksquare$

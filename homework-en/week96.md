@@ -62,7 +62,9 @@
 
 ### Solution to Exercise 1
 
-Add the protein of the $3$ dishes in each combination and compare which combination has the largest protein total; that is the combination with the most protein. $\blacksquare$
+Add the protein of the $3$ dishes in each combination and compare which combination has the largest protein total; that is the combination with the most protein.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -70,7 +72,9 @@ Add the protein of the $3$ dishes in each combination and compare which combinat
 
 ### Solution to Exercise 2
 
-By **Definition 8.10.1 (Assumption Method)**, assume all are bicycles: wheels $10\times2=20$, short by $26-20=6$; each tricycle has $1$ more wheel than a bicycle, so tricycles $6\div1=6$ and bicycles $10-6=4$. $\blacksquare$
+By **Definition 8.10.1 (Assumption Method)**, assume all are bicycles: wheels $10\times2=20$, short by $26-20=6$; each tricycle has $1$ more wheel than a bicycle, so tricycles $6\div1=6$ and bicycles $10-6=4$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -78,7 +82,9 @@ By **Definition 8.10.1 (Assumption Method)**, assume all are bicycles: wheels $1
 
 ### Solution to Exercise 3
 
-By **Definition 8.10.1 (Assumption Method)**, assume all are small balls: weight $30\times7=210\,\mathrm{g}$, short by $266-210=56\,\mathrm{g}$; each large ball is $11-7=4\,\mathrm{g}$ heavier, so large balls $56\div4=14$ and small balls $30-14=16$. $\blacksquare$
+By **Definition 8.10.1 (Assumption Method)**, assume all are small balls: weight $30\times7=210\,\mathrm{g}$, short by $266-210=56\,\mathrm{g}$; each large ball is $11-7=4\,\mathrm{g}$ heavier, so large balls $56\div4=14$ and small balls $30-14=16$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -86,7 +92,9 @@ By **Definition 8.10.1 (Assumption Method)**, assume all are small balls: weight
 
 ### Solution to Exercise 4
 
-By **Definition 8.10.1 (Assumption Method)**, assume all are cranes: legs $40\times2=80$, short by $112-80=32$; each tortoise has $4-2=2$ more legs than a crane, so tortoises $32\div2=16$ and cranes $40-16=24$. $\blacksquare$
+By **Definition 8.10.1 (Assumption Method)**, assume all are cranes: legs $40\times2=80$, short by $112-80=32$; each tortoise has $4-2=2$ more legs than a crane, so tortoises $32\div2=16$ and cranes $40-16=24$.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -94,7 +102,9 @@ By **Definition 8.10.1 (Assumption Method)**, assume all are cranes: legs $40\ti
 
 ### Solution to Exercise 5
 
-By **Definition 8.10.1 (Assumption Method)**, assume all are small boats: people $8\times4=32$, short by $38-32=6$; each large boat holds $6-4=2$ more people, so large boats $6\div2=3$ and small boats $8-3=5$. $\blacksquare$
+By **Definition 8.10.1 (Assumption Method)**, assume all are small boats: people $8\times4=32$, short by $38-32=6$; each large boat holds $6-4=2$ more people, so large boats $6\div2=3$ and small boats $8-3=5$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -102,7 +112,9 @@ By **Definition 8.10.1 (Assumption Method)**, assume all are small boats: people
 
 ### Solution to Exercise 6
 
-By **Definition 8.10.1 (Assumption Method)**, assume all are girls: trees $12\times2=24$, short by $32-24=8$; each boy plants $3-2=1$ more tree, so boys $8\div1=8$ and girls $12-8=4$. $\blacksquare$
+By **Definition 8.10.1 (Assumption Method)**, assume all are girls: trees $12\times2=24$, short by $32-24=8$; each boy plants $3-2=1$ more tree, so boys $8\div1=8$ and girls $12-8=4$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -110,7 +122,9 @@ By **Definition 8.10.1 (Assumption Method)**, assume all are girls: trees $12\ti
 
 ### Solution to Exercise 7
 
-By **Definition 8.10.1 (Assumption Method)**, assume all $9$ baskets were $2$-pointers: score $9\times2=18$, short by $21-18=3$; each $3$-pointer scores $1$ more than a $2$-pointer, so $3$-pointers $3\div1=3$. $\blacksquare$
+By **Definition 8.10.1 (Assumption Method)**, assume all $9$ baskets were $2$-pointers: score $9\times2=18$, short by $21-18=3$; each $3$-pointer scores $1$ more than a $2$-pointer, so $3$-pointers $3\div1=3$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -118,7 +132,9 @@ By **Definition 8.10.1 (Assumption Method)**, assume all $9$ baskets were $2$-po
 
 ### Solution to Exercise 8
 
-By **Definition 8.10.1 (Assumption Method)**, a wrong answer loses $10+6=16$ points compared with a correct one: (1) assume all correct: $8\times10=80$, short by $80-64=16$, wrong $16\div16=1$, correct $7$; (2) assume all correct: $10\times10=100$, short by $100-36=64$, wrong $64\div16=4$; (3) assume all correct: $16\times10=160$, short by $160-16=144$, wrong $144\div16=9$, correct $16-9=7$. $\blacksquare$
+By **Definition 8.10.1 (Assumption Method)**, a wrong answer loses $10+6=16$ points compared with a correct one: (1) assume all correct: $8\times10=80$, short by $80-64=16$, wrong $16\div16=1$, correct $7$; (2) assume all correct: $10\times10=100$, short by $100-36=64$, wrong $64\div16=4$; (3) assume all correct: $16\times10=160$, short by $160-16=144$, wrong $144\div16=9$, correct $16-9=7$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -126,7 +142,9 @@ By **Definition 8.10.1 (Assumption Method)**, a wrong answer loses $10+6=16$ poi
 
 ### Solution to Exercise 9
 
-By **Definition 8.10.1 (Assumption Method)**, assume all are volleyballs: cost $6\times58=348$ yuan, short by $360-348=12$; each basketball is $62-58=4$ yuan more expensive, so basketballs $12\div4=3$ and volleyballs $6-3=3$. $\blacksquare$
+By **Definition 8.10.1 (Assumption Method)**, assume all are volleyballs: cost $6\times58=348$ yuan, short by $360-348=12$; each basketball is $62-58=4$ yuan more expensive, so basketballs $12\div4=3$ and volleyballs $6-3=3$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -134,7 +152,9 @@ By **Definition 8.10.1 (Assumption Method)**, assume all are volleyballs: cost $
 
 ### Solution to Exercise 10
 
-By **Definition 8.10.1 (Assumption Method)**, assume all are big monks: buns $100\times3=300$, an excess of $300-100=200$. Replacing $3$ big monks with $3$ little monks changes the buns from $9$ to $1$, saving $8$. Replace $200\div8=25$ groups, each with $3$ little monks, so little monks $25\times3=75$ and big monks $100-75=25$. $\blacksquare$
+By **Definition 8.10.1 (Assumption Method)**, assume all are big monks: buns $100\times3=300$, an excess of $300-100=200$. Replacing $3$ big monks with $3$ little monks changes the buns from $9$ to $1$, saving $8$. Replace $200\div8=25$ groups, each with $3$ little monks, so little monks $25\times3=75$ and big monks $100-75=25$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -142,7 +162,9 @@ By **Definition 8.10.1 (Assumption Method)**, assume all are big monks: buns $10
 
 ### Solution to Exercise 11
 
-$419+387=806$; $2.84+3.76=6.60$; $16.32-7.95=8.37$; $100-74.5=25.5$; $80\times64=5120$; $105\times28=2940$; $884\div26=34$; $1435\div35=41$. $\blacksquare$
+$419+387=806$; $2.84+3.76=6.60$; $16.32-7.95=8.37$; $100-74.5=25.5$; $80\times64=5120$; $105\times28=2940$; $884\div26=34$; $1435\div35=41$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -150,7 +172,9 @@ $419+387=806$; $2.84+3.76=6.60$; $16.32-7.95=8.37$; $100-74.5=25.5$; $80\times64
 
 ### Solution to Exercise 12
 
-By **Definition 8.11.1 (Extending the Operation Laws)**: (1) $3.6+6.4+8.59$; (2) $25.8+\left(7.5+2.5\right)$; (3) $42\times\left(4\times25\right)$; (4) $8\times125+8\times70$; (5) $b\times3+20\times3$. $\blacksquare$
+By **Definition 8.11.1 (Extending the Operation Laws)**: (1) $3.6+6.4+8.59$; (2) $25.8+\left(7.5+2.5\right)$; (3) $42\times\left(4\times25\right)$; (4) $8\times125+8\times70$; (5) $b\times3+20\times3$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -158,7 +182,9 @@ By **Definition 8.11.1 (Extending the Operation Laws)**: (1) $3.6+6.4+8.59$; (2)
 
 ### Solution to Exercise 13
 
-Fill the numbers step by step according to the operation order shown in the boxes, then merge the steps into one combined expression, adding parentheses for the parts computed first. $\blacksquare$
+Fill the numbers step by step according to the operation order shown in the boxes, then merge the steps into one combined expression, adding parentheses for the parts computed first.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -166,7 +192,9 @@ Fill the numbers step by step according to the operation order shown in the boxe
 
 ### Solution to Exercise 14
 
-By **Definition 8.6.1 (Subtracting Decimals)**, $160.45-129.75=30.70$ (yuan). $\blacksquare$
+By **Definition 8.6.1 (Subtracting Decimals)**, $160.45-129.75=30.70$ (yuan).
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -174,4 +202,6 @@ By **Definition 8.6.1 (Subtracting Decimals)**, $160.45-129.75=30.70$ (yuan). $\
 
 ### Solution to Exercise 15
 
-By **Definition 8.11.2 (Meaning of Decimals)**: (1) $0.015=15\times0.001$, containing $15$ thousandths; (2) $4$ hundredths $=0.04$; (3) $3\div100=0.03$; (4) $0.056\div5.6=\frac{1}{100}$. $\blacksquare$
+By **Definition 8.11.2 (Meaning of Decimals)**: (1) $0.015=15\times0.001$, containing $15$ thousandths; (2) $4$ hundredths $=0.04$; (3) $3\div100=0.03$; (4) $0.056\div5.6=\frac{1}{100}$.
+
+$\blacksquare$

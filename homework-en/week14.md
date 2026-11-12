@@ -38,7 +38,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 2.3.2 (Place Value)**, read as eighty-six, thirty-one, sixty. $\blacksquare$
+By **Definition 2.3.2 (Place Value)**, read as eighty-six, thirty-one, sixty.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -46,7 +48,9 @@ By **Definition 2.3.2 (Place Value)**, read as eighty-six, thirty-one, sixty. $\
 
 ### Solution to Exercise 2
 
-See which round-ten number it is closer to: $36$ is close to $40$, $48$ is close to $50$, $32$ is close to $30$, $59$ is close to $60$, $64$ is close to $60$. $\blacksquare$
+See which round-ten number it is closer to: $36$ is close to $40$, $48$ is close to $50$, $32$ is close to $30$, $59$ is close to $60$, $64$ is close to $60$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -54,7 +58,9 @@ See which round-ten number it is closer to: $36$ is close to $40$, $48$ is close
 
 ### Solution to Exercise 3
 
-By **Definition 2.3.2 (Place Value)**, (1) two identical cards can only form $11,22,...,99$; (2) if one card is $7$, can form $17,71,27,72,...,97,79$, etc. (the other card takes $1\sim9$ respectively). $\blacksquare$
+By **Definition 2.3.2 (Place Value)**, (1) two identical cards can only form $11,22,...,99$; (2) if one card is $7$, can form $17,71,27,72,...,97,79$, etc. (the other card takes $1\sim9$ respectively).
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -62,7 +68,9 @@ By **Definition 2.3.2 (Place Value)**, (1) two identical cards can only form $11
 
 ### Solution to Exercise 4
 
-By **Definition 2.4.1 (Mental Addition)**, $26+2=28$ (characters), $26+20=46$ (characters). The former adds $2$ ones, and the latter adds $2$ tens. $\blacksquare$
+By **Definition 2.4.1 (Mental Addition)**, $26+2=28$ (characters), $26+20=46$ (characters). The former adds $2$ ones, and the latter adds $2$ tens.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -70,7 +78,9 @@ By **Definition 2.4.1 (Mental Addition)**, $26+2=28$ (characters), $26+20=46$ (c
 
 ### Solution to Exercise 5
 
-By **Definition 2.4.1 (Mental Addition)**, add the ones and tens separately: $26+22=48$, $34+35=69$. $\blacksquare$
+By **Definition 2.4.1 (Mental Addition)**, add the ones and tens separately: $26+22=48$, $34+35=69$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -78,7 +88,9 @@ By **Definition 2.4.1 (Mental Addition)**, add the ones and tens separately: $26
 
 ### Solution to Exercise 6
 
-By **Definition 2.4.1 (Mental Addition)**: $7+21=28$, $64+3=67$, $51+6=57$, $24+30=54$; $70+21=91$, $64+30=94$, $51+46=97$, $24+33=57$. $\blacksquare$
+By **Definition 2.4.1 (Mental Addition)**: $7+21=28$, $64+3=67$, $51+6=57$, $24+30=54$; $70+21=91$, $64+30=94$, $51+46=97$, $24+33=57$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -86,7 +98,9 @@ By **Definition 2.4.1 (Mental Addition)**: $7+21=28$, $64+3=67$, $51+6=57$, $24+
 
 ### Solution to Exercise 7
 
-By **Definition 2.4.1 (Mental Addition)**, the ones $8+5=13$ reaches ten and carry $1$: $28+5=33$. $\blacksquare$
+By **Definition 2.4.1 (Mental Addition)**, the ones $8+5=13$ reaches ten and carry $1$: $28+5=33$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -94,7 +108,9 @@ By **Definition 2.4.1 (Mental Addition)**, the ones $8+5=13$ reaches ten and car
 
 ### Solution to Exercise 8
 
-By **Definition 2.4.1 (Mental Addition)**, the ones reach ten and carry $1$: $27+4=31$, $36+8=44$. $\blacksquare$
+By **Definition 2.4.1 (Mental Addition)**, the ones reach ten and carry $1$: $27+4=31$, $36+8=44$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -102,7 +118,9 @@ By **Definition 2.4.1 (Mental Addition)**, the ones reach ten and carry $1$: $27
 
 ### Solution to Exercise 9
 
-By **Definition 2.4.1 (Mental Addition)**: $23+4=27$, $58+40=98$, $64+32=96$, $5+31=36$; $37+8=45$, $20+67=87$, $45+43=88$, $6+77=83$. $\blacksquare$
+By **Definition 2.4.1 (Mental Addition)**: $23+4=27$, $58+40=98$, $64+32=96$, $5+31=36$; $37+8=45$, $20+67=87$, $45+43=88$, $6+77=83$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -110,7 +128,9 @@ By **Definition 2.4.1 (Mental Addition)**: $23+4=27$, $58+40=98$, $64+32=96$, $5
 
 ### Solution to Exercise 10
 
-By **Definition 2.4.1 (Mental Addition)**, correct: $23+8=31$, $67+2=69$, $5+47=52$; $59+2=61$ is correct. $\blacksquare$
+By **Definition 2.4.1 (Mental Addition)**, correct: $23+8=31$, $67+2=69$, $5+47=52$; $59+2=61$ is correct.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -118,7 +138,9 @@ By **Definition 2.4.1 (Mental Addition)**, correct: $23+8=31$, $67+2=69$, $5+47=
 
 ### Solution to Exercise 11
 
-By **Definition 2.4.1 (Mental Addition)**: $16+11=27$ (bottles). $\blacksquare$
+By **Definition 2.4.1 (Mental Addition)**: $16+11=27$ (bottles).
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -126,7 +148,9 @@ By **Definition 2.4.1 (Mental Addition)**: $16+11=27$ (bottles). $\blacksquare$
 
 ### Solution to Exercise 12
 
-By **Definition 2.4.1 (Mental Addition)**: $25+8=33$ (birds). $\blacksquare$
+By **Definition 2.4.1 (Mental Addition)**: $25+8=33$ (birds).
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -134,7 +158,9 @@ By **Definition 2.4.1 (Mental Addition)**: $25+8=33$ (birds). $\blacksquare$
 
 ### Solution to Exercise 13
 
-By **Definition 2.4.2 (Mental Subtraction)**: $35-2=33$ (books), $35-20=15$ (books). The former subtracts $2$ ones, and the latter subtracts $2$ tens. $\blacksquare$
+By **Definition 2.4.2 (Mental Subtraction)**: $35-2=33$ (books), $35-20=15$ (books). The former subtracts $2$ ones, and the latter subtracts $2$ tens.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -142,7 +168,9 @@ By **Definition 2.4.2 (Mental Subtraction)**: $35-2=33$ (books), $35-20=15$ (boo
 
 ### Solution to Exercise 14
 
-By **Definition 2.4.2 (Mental Subtraction)**: $35-22=13$, $76-45=31$. $\blacksquare$
+By **Definition 2.4.2 (Mental Subtraction)**: $35-22=13$, $76-45=31$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -150,7 +178,9 @@ By **Definition 2.4.2 (Mental Subtraction)**: $35-22=13$, $76-45=31$. $\blacksqu
 
 ### Solution to Exercise 15
 
-By **Definition 2.4.2 (Mental Subtraction)**: $76-4=72$, $87-3=84$, $68-5=63$, $99-9=90$; $87-30=57$, $68-50=18$, $76-40=36$, $99-90=9$. $\blacksquare$
+By **Definition 2.4.2 (Mental Subtraction)**: $76-4=72$, $87-3=84$, $68-5=63$, $99-9=90$; $87-30=57$, $68-50=18$, $76-40=36$, $99-90=9$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -158,7 +188,9 @@ By **Definition 2.4.2 (Mental Subtraction)**: $76-4=72$, $87-3=84$, $68-5=63$, $
 
 ### Solution to Exercise 16
 
-By **Definition 2.4.2 (Mental Subtraction)**, the ones $6$ minus $8$ is not enough; borrow $1$ from $30$ as $10$: $16-8=8$, giving $36-8=28$. $\blacksquare$
+By **Definition 2.4.2 (Mental Subtraction)**, the ones $6$ minus $8$ is not enough; borrow $1$ from $30$ as $10$: $16-8=8$, giving $36-8=28$.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -166,7 +198,9 @@ By **Definition 2.4.2 (Mental Subtraction)**, the ones $6$ minus $8$ is not enou
 
 ### Solution to Exercise 17
 
-By **Definition 2.4.2 (Mental Subtraction)**: $32-5=27$, $44-9=35$, $30-6=24$. $\blacksquare$
+By **Definition 2.4.2 (Mental Subtraction)**: $32-5=27$, $44-9=35$, $30-6=24$.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -174,7 +208,9 @@ By **Definition 2.4.2 (Mental Subtraction)**: $32-5=27$, $44-9=35$, $30-6=24$. $
 
 ### Solution to Exercise 18
 
-By **Definition 2.4.2 (Mental Subtraction)**: $35-5=30$, $40-7=33$, $74-2=72$, $56-4=52$; $35-9=26$, $40-3=37$, $74-5=69$, $56-8=48$. $\blacksquare$
+By **Definition 2.4.2 (Mental Subtraction)**: $35-5=30$, $40-7=33$, $74-2=72$, $56-4=52$; $35-9=26$, $40-3=37$, $74-5=69$, $56-8=48$.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -182,7 +218,9 @@ By **Definition 2.4.2 (Mental Subtraction)**: $35-5=30$, $40-7=33$, $74-2=72$, $
 
 ### Solution to Exercise 19
 
-By **Definition 2.4.3 (Solving Problems with Continuous Subtraction)**, $26-8-8-8=2$; $3$ bags can be filled, and $2$ remain. $\blacksquare$
+By **Definition 2.4.3 (Solving Problems with Continuous Subtraction)**, $26-8-8-8=2$; $3$ bags can be filled, and $2$ remain.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -190,7 +228,9 @@ By **Definition 2.4.3 (Solving Problems with Continuous Subtraction)**, $26-8-8-
 
 ### Solution to Exercise 20
 
-By **Definition 2.4.3 (Solving Problems with Continuous Subtraction)**, $40-12-12-12=4$; $3$ tubes can be filled, and $4$ remain. $\blacksquare$
+By **Definition 2.4.3 (Solving Problems with Continuous Subtraction)**, $40-12-12-12=4$; $3$ tubes can be filled, and $4$ remain.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -198,7 +238,9 @@ By **Definition 2.4.3 (Solving Problems with Continuous Subtraction)**, $40-12-1
 
 ### Solution to Exercise 21
 
-By **Definition 2.4.2 (Mental Subtraction)**: $84-6=78$, $60-3=57$, $92-7=85$, $53-4=49$; $84-60=24$, $60-30=30$, $92-70=22$, $53-40=13$. $\blacksquare$
+By **Definition 2.4.2 (Mental Subtraction)**: $84-6=78$, $60-3=57$, $92-7=85$, $53-4=49$; $84-60=24$, $60-30=30$, $92-70=22$, $53-40=13$.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -206,7 +248,9 @@ By **Definition 2.4.2 (Mental Subtraction)**: $84-6=78$, $60-3=57$, $92-7=85$, $
 
 ### Solution to Exercise 22
 
-By **Definition 2.4.2 (Mental Subtraction)**: $70$, $63$, $56$, $49$, $42$, $35$, $28$, $21$, $14$, $7$, $0$. $\blacksquare$
+By **Definition 2.4.2 (Mental Subtraction)**: $70$, $63$, $56$, $49$, $42$, $35$, $28$, $21$, $14$, $7$, $0$.
+
+$\blacksquare$
 
 ## Exercise 23
 
@@ -214,7 +258,9 @@ By **Definition 2.4.2 (Mental Subtraction)**: $70$, $63$, $56$, $49$, $42$, $35$
 
 ### Solution to Exercise 23
 
-By **Definition 2.4.2 (Mental Subtraction)**: $68-12=56$ (boxes). $\blacksquare$
+By **Definition 2.4.2 (Mental Subtraction)**: $68-12=56$ (boxes).
+
+$\blacksquare$
 
 ## Exercise 24
 
@@ -222,7 +268,9 @@ By **Definition 2.4.2 (Mental Subtraction)**: $68-12=56$ (boxes). $\blacksquare$
 
 ### Solution to Exercise 24
 
-$6+6+6=18$ (apples). $\blacksquare$
+$6+6+6=18$ (apples).
+
+$\blacksquare$
 
 ## Exercise 25
 
@@ -230,4 +278,6 @@ $6+6+6=18$ (apples). $\blacksquare$
 
 ### Solution to Exercise 25
 
-By **Definition 2.4.2 (Mental Subtraction)**: $42-30=12$ (chairs). $\blacksquare$
+By **Definition 2.4.2 (Mental Subtraction)**: $42-30=12$ (chairs).
+
+$\blacksquare$

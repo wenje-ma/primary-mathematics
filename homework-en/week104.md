@@ -38,7 +38,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 9.4.2 (平移)** and **Definition 9.4.3 (旋转)**, first locate each card in the right figure and label it, then describe: cards needing a new direction are first rotated by the specified angle about a point, and cards needing a new position are then translated by the specified number of squares. $\blacksquare$
+By **Definition 9.4.2 (平移)** and **Definition 9.4.3 (旋转)**, first locate each card in the right figure and label it, then describe: cards needing a new direction are first rotated by the specified angle about a point, and cards needing a new position are then translated by the specified number of squares.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -46,7 +48,9 @@ By **Definition 9.4.2 (平移)** and **Definition 9.4.3 (旋转)**, first locate
 
 ### Solution to Exercise 2
 
-By **Definition 9.4.3 (旋转)**, observe the swing direction: fill "clockwise" for the clockwise direction and "counterclockwise" for the other. $\blacksquare$
+By **Definition 9.4.3 (旋转)**, observe the swing direction: fill "clockwise" for the clockwise direction and "counterclockwise" for the other.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -54,7 +58,9 @@ By **Definition 9.4.3 (旋转)**, observe the swing direction: fill "clockwise" 
 
 ### Solution to Exercise 3
 
-By **Definition 9.4.3 (旋转)**, observe each figure's direction relative to the original: if ② is reversed, fill "counterclockwise $90^\circ$"; if ③ is upside down, fill "clockwise $180^\circ$" or "counterclockwise $180^\circ$". $\blacksquare$
+By **Definition 9.4.3 (旋转)**, observe each figure's direction relative to the original: if ② is reversed, fill "counterclockwise $90^\circ$"; if ③ is upside down, fill "clockwise $180^\circ$" or "counterclockwise $180^\circ$".
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -62,7 +68,9 @@ By **Definition 9.4.3 (旋转)**, observe each figure's direction relative to th
 
 ### Solution to Exercise 4
 
-By **Definition 9.4.3 (旋转)**, rotate by $90^\circ$ in the specified direction about the specified point, keep the segment length unchanged, and draw the rotated figure. $\blacksquare$
+By **Definition 9.4.3 (旋转)**, rotate by $90^\circ$ in the specified direction about the specified point, keep the segment length unchanged, and draw the rotated figure.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -70,7 +78,9 @@ By **Definition 9.4.3 (旋转)**, rotate by $90^\circ$ in the specified directio
 
 ### Solution to Exercise 5
 
-By **Definition 9.4.3 (旋转)**, rotate each vertex of the "kite" $90^\circ$ about point A to find their images, then connect them in outline order. $\blacksquare$
+By **Definition 9.4.3 (旋转)**, rotate each vertex of the "kite" $90^\circ$ about point A to find their images, then connect them in outline order.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -78,7 +88,9 @@ By **Definition 9.4.3 (旋转)**, rotate each vertex of the "kite" $90^\circ$ ab
 
 ### Solution to Exercise 6
 
-By **Definition 9.4.3 (旋转)**, after rotating $180^\circ$ about O the rectangle coincides with itself, and after $360^\circ$ it returns to the start. After $90^\circ$ the rectangle becomes horizontal (if it was vertical). $\blacksquare$
+By **Definition 9.4.3 (旋转)**, after rotating $180^\circ$ about O the rectangle coincides with itself, and after $360^\circ$ it returns to the start. After $90^\circ$ the rectangle becomes horizontal (if it was vertical).
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -86,7 +98,9 @@ By **Definition 9.4.3 (旋转)**, after rotating $180^\circ$ about O the rectang
 
 ### Solution to Exercise 7
 
-A basic figure can be translated repeatedly by $2$ squares to form a border, or used to design a symmetric pattern by axial symmetry, or rotated to form a radial pattern. $\blacksquare$
+A basic figure can be translated repeatedly by $2$ squares to form a border, or used to design a symmetric pattern by axial symmetry, or rotated to form a radial pattern.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -94,7 +108,9 @@ A basic figure can be translated repeatedly by $2$ squares to form a border, or 
 
 ### Solution to Exercise 8
 
-By **Definition 9.4.2 (平移)**, pick key points, translate them by the specified direction and number of squares, then connect them. $\blacksquare$
+By **Definition 9.4.2 (平移)**, pick key points, translate them by the specified direction and number of squares, then connect them.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -102,7 +118,9 @@ By **Definition 9.4.2 (平移)**, pick key points, translate them by the specifi
 
 ### Solution to Exercise 9
 
-By **Definition 9.4.1 (轴对称图形)**, complete the axially symmetric figure, then by **Definition 9.4.2 (平移)** translate it $10$ squares to the right. $\blacksquare$
+By **Definition 9.4.1 (轴对称图形)**, complete the axially symmetric figure, then by **Definition 9.4.2 (平移)** translate it $10$ squares to the right.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -110,7 +128,9 @@ By **Definition 9.4.1 (轴对称图形)**, complete the axially symmetric figure
 
 ### Solution to Exercise 10
 
-By **Definition 9.4.2 (平移)** and **Definition 9.4.3 (旋转)**, rotate the wrongly oriented pieces and translate the wrongly positioned pieces so each group assembles into a square; other regular figures can also be assembled. $\blacksquare$
+By **Definition 9.4.2 (平移)** and **Definition 9.4.3 (旋转)**, rotate the wrongly oriented pieces and translate the wrongly positioned pieces so each group assembles into a square; other regular figures can also be assembled.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -118,7 +138,9 @@ By **Definition 9.4.2 (平移)** and **Definition 9.4.3 (旋转)**, rotate the w
 
 ### Solution to Exercise 11
 
-By **Definition 9.5.1 (Using Letters to Stand for Numbers)**, Dad's age $=a+25$. When $a=11$, $b=11+25=36$ years. When $b=57$, $a=57-25=32$. $\blacksquare$
+By **Definition 9.5.1 (Using Letters to Stand for Numbers)**, Dad's age $=a+25$. When $a=11$, $b=11+25=36$ years. When $b=57$, $a=57-25=32$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -126,7 +148,9 @@ By **Definition 9.5.1 (Using Letters to Stand for Numbers)**, Dad's age $=a+25$.
 
 ### Solution to Exercise 12
 
-By **Definition 9.5.1 (用字母表示数)**: (1) Xiao Hua sold $m+4$ items. (2) Xiao Lin sold $16-m$ items. $\blacksquare$
+By **Definition 9.5.1 (用字母表示数)**: (1) Xiao Hua sold $m+4$ items. (2) Xiao Lin sold $16-m$ items.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -134,7 +158,9 @@ By **Definition 9.5.1 (用字母表示数)**: (1) Xiao Hua sold $m+4$ items. (2)
 
 ### Solution to Exercise 13
 
-By **Definition 9.5.1 (用字母表示数)**: supermarket to school $500+a$ m; Lanlan's home to bookstore $a+b$ m; to school versus supermarket $a-500$ m farther. $\blacksquare$
+By **Definition 9.5.1 (用字母表示数)**: supermarket to school $500+a$ m; Lanlan's home to bookstore $a+b$ m; to school versus supermarket $a-500$ m farther.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -142,7 +168,9 @@ By **Definition 9.5.1 (用字母表示数)**: supermarket to school $500+a$ m; L
 
 ### Solution to Exercise 14
 
-By **Definition 9.5.1 (用字母表示数)** and **Definition 9.5.2 (含有字母式子的书写)**, the lunar liftable mass is $n=6m$. When $m=15$, $n=6\times15=90$ kg. $\blacksquare$
+By **Definition 9.5.1 (用字母表示数)** and **Definition 9.5.2 (含有字母式子的书写)**, the lunar liftable mass is $n=6m$. When $m=15$, $n=6\times15=90$ kg.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -150,7 +178,9 @@ By **Definition 9.5.1 (用字母表示数)** and **Definition 9.5.2 (含有字�
 
 ### Solution to Exercise 15
 
-By **Definition 9.5.3 (用字母表示运算律和公式)**, area $S=$ length $\times$ width. Length $5.6$ cm gives area $5.6\times5.6=31.36$ cm$^2$; length $15$ cm gives area $15\times5.6=84$ cm$^2$. $\blacksquare$
+By **Definition 9.5.3 (用字母表示运算律和公式)**, area $S=$ length $\times$ width. Length $5.6$ cm gives area $5.6\times5.6=31.36$ cm$^2$; length $15$ cm gives area $15\times5.6=84$ cm$^2$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -158,7 +188,9 @@ By **Definition 9.5.3 (用字母表示运算律和公式)**, area $S=$ length $\
 
 ### Solution to Exercise 16
 
-By **Definition 9.5.3 (用字母表示运算律和公式)**: distance $s=vt=250\times20=5000$ m. $\blacksquare$
+By **Definition 9.5.3 (用字母表示运算律和公式)**: distance $s=vt=250\times20=5000$ m.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -166,7 +198,9 @@ By **Definition 9.5.3 (用字母表示运算律和公式)**: distance $s=vt=250\
 
 ### Solution to Exercise 17
 
-By **Definition 9.5.4 (Properties of an Equation)**, $a+20=37$, subtract $20$ from both sides, $a=17$. $6m=9$, divide both sides by $6$, $m=1.5$. $\blacksquare$
+By **Definition 9.5.4 (Properties of an Equation)**, $a+20=37$, subtract $20$ from both sides, $a=17$. $6m=9$, divide both sides by $6$, $m=1.5$.
+
+$\blacksquare$
 
 ## Exercise 18
 
@@ -174,7 +208,9 @@ By **Definition 9.5.4 (Properties of an Equation)**, $a+20=37$, subtract $20$ fr
 
 ### Solution to Exercise 18
 
-By **Definition 9.5.4 (等式的性质)**: (1) $a-20=37$, add $20$ to both sides, $a=57$. (2) $m-6=9$, add $6$ to both sides, $m=15$. $\blacksquare$
+By **Definition 9.5.4 (等式的性质)**: (1) $a-20=37$, add $20$ to both sides, $a=57$. (2) $m-6=9$, add $6$ to both sides, $m=15$.
+
+$\blacksquare$
 
 ## Exercise 19
 
@@ -182,7 +218,9 @@ By **Definition 9.5.4 (等式的性质)**: (1) $a-20=37$, add $20$ to both sides
 
 ### Solution to Exercise 19
 
-$c=at$, $t=c\div{a}=900\div45=20$ min. $\blacksquare$
+$c=at$, $t=c\div{a}=900\div45=20$ min.
+
+$\blacksquare$
 
 ## Exercise 20
 
@@ -190,7 +228,9 @@ $c=at$, $t=c\div{a}=900\div45=20$ min. $\blacksquare$
 
 ### Solution to Exercise 20
 
-By **Definition 9.5.1 (用字母表示数)**, standard weight $=\left(a-105\right)$ kg. $\blacksquare$
+By **Definition 9.5.1 (用字母表示数)**, standard weight $=\left(a-105\right)$ kg.
+
+$\blacksquare$
 
 ## Exercise 21
 
@@ -198,7 +238,9 @@ By **Definition 9.5.1 (用字母表示数)**, standard weight $=\left(a-105\righ
 
 ### Solution to Exercise 21
 
-By **Definition 9.5.2 (含有字母式子的书写)**: $b\times8=8b$; $x\times{x}=x^2$; $b\times1=b$; $20\times{a}=20a$. $\blacksquare$
+By **Definition 9.5.2 (含有字母式子的书写)**: $b\times8=8b$; $x\times{x}=x^2$; $b\times1=b$; $20\times{a}=20a$.
+
+$\blacksquare$
 
 ## Exercise 22
 
@@ -206,4 +248,6 @@ By **Definition 9.5.2 (含有字母式子的书写)**: $b\times8=8b$; $x\times{x
 
 ### Solution to Exercise 22
 
-By **Definition 9.5.1 (用字母表示数)** and **Definition 9.5.5 (用字母表示数量关系并代入求值)**: (1) today $48+m$. (2) $48+10=58$. (3) $48+m=60$, $m=12$. $\blacksquare$
+By **Definition 9.5.1 (用字母表示数)** and **Definition 9.5.5 (用字母表示数量关系并代入求值)**: (1) today $48+m$. (2) $48+10=58$. (3) $48+m=60$, $m=12$.
+
+$\blacksquare$

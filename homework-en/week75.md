@@ -34,7 +34,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 7.4.1 (Mental Multiplication)**: $23\times300=6900$, $72\times20=1440$, $19\times40=760$, $140\times50=7000$, $320\times4=1280$, $270\times30=8100$, $910\times8=7280$, $14\times500=7000$. $\blacksquare$
+By **Definition 7.4.1 (Mental Multiplication)**: $23\times300=6900$, $72\times20=1440$, $19\times40=760$, $140\times50=7000$, $320\times4=1280$, $270\times30=8100$, $910\times8=7280$, $14\times500=7000$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -42,7 +44,9 @@ By **Definition 7.4.1 (Mental Multiplication)**: $23\times300=6900$, $72\times20
 
 ### Solution to Exercise 2
 
-By **Definition 7.4.2 (Written Multiplication)**: $62\times38=2356$, $158\times64=10112$, $59\times139=8201$, $830\times40=33200$, $438\times29=12702$, $906\times85=77010$, $4060\times56=227360$, $7003\times78=546234$. $\blacksquare$
+By **Definition 7.4.2 (Written Multiplication)**: $62\times38=2356$, $158\times64=10112$, $59\times139=8201$, $830\times40=33200$, $438\times29=12702$, $906\times85=77010$, $4060\times56=227360$, $7003\times78=546234$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -50,7 +54,9 @@ By **Definition 7.4.2 (Written Multiplication)**: $62\times38=2356$, $158\times6
 
 ### Solution to Exercise 3
 
-By **Definition 7.4.3 (How the Product Changes)**: $64\times15=960$, $16\times15=240$, $32\times30=960$, $320\times15=4800$, $16\times30=480$, $640\times15=9600$, $32\times5=160$, $32\times150=4800$. $\blacksquare$
+By **Definition 7.4.3 (How the Product Changes)**: $64\times15=960$, $16\times15=240$, $32\times30=960$, $320\times15=4800$, $16\times30=480$, $640\times15=9600$, $32\times5=160$, $32\times150=4800$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -58,7 +64,9 @@ By **Definition 7.4.3 (How the Product Changes)**: $64\times15=960$, $16\times15
 
 ### Solution to Exercise 4
 
-By **Definition 7.4.2 (Written Multiplication)**: (1) $124\times32=3968$ t; (2) $124\times85=10540$ t. $\blacksquare$
+By **Definition 7.4.2 (Written Multiplication)**: (1) $124\times32=3968$ t; (2) $124\times85=10540$ t.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -66,7 +74,9 @@ By **Definition 7.4.2 (Written Multiplication)**: (1) $124\times32=3968$ t; (2) 
 
 ### Solution to Exercise 5
 
-$108\times52=5616$ yuan, $5616>5000$, not enough. $\blacksquare$
+$108\times52=5616$ yuan, $5616>5000$, not enough.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -74,7 +84,9 @@ $108\times52=5616$ yuan, $5616>5000$, not enough. $\blacksquare$
 
 ### Solution to Exercise 6
 
-By **Definition 7.4.2 (Written Multiplication)**: (1) $1$ hour $=3600$ seconds, $7800\times3600=28080000$ m $=28080$ km; (2) a day is $24$ hours, $28080\times24=673920$ km. $\blacksquare$
+By **Definition 7.4.2 (Written Multiplication)**: (1) $1$ hour $=3600$ seconds, $7800\times3600=28080000$ m $=28080$ km; (2) a day is $24$ hours, $28080\times24=673920$ km.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -82,7 +94,9 @@ By **Definition 7.4.2 (Written Multiplication)**: (1) $1$ hour $=3600$ seconds, 
 
 ### Solution to Exercise 7
 
-Compute the total for $15$ units of each: $128\times15=1920$ yuan, leaving $1080$; $198\times15=2970$ yuan, leaving $30$; $108\times15=1620$ yuan, leaving $1380$; $210\times15=3150$ yuan $>3000$, not allowed. That gives $3$ options. $\blacksquare$
+Compute the total for $15$ units of each: $128\times15=1920$ yuan, leaving $1080$; $198\times15=2970$ yuan, leaving $30$; $108\times15=1620$ yuan, leaving $1380$; $210\times15=3150$ yuan $>3000$, not allowed. That gives $3$ options.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -90,7 +104,9 @@ Compute the total for $15$ units of each: $128\times15=1920$ yuan, leaving $1080
 
 ### Solution to Exercise 8
 
-Increasing the length by $1$ m raises the area by $16$ m$^2$, so the width is $=16$ m; increasing the width by $1$ m raises the area by $25$ m$^2$, so the length is $=25$ m. The original area is $=25\times16=400$ m$^2$. $\blacksquare$
+Increasing the length by $1$ m raises the area by $16$ m$^2$, so the width is $=16$ m; increasing the width by $1$ m raises the area by $25$ m$^2$, so the length is $=25$ m. The original area is $=25\times16=400$ m$^2$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -98,7 +114,9 @@ Increasing the length by $1$ m raises the area by $16$ m$^2$, so the width is $=
 
 ### Solution to Exercise 9
 
-To maximize the product, put the large digits in the high places: $520\times43=22360$ or $430\times52=22360$. $\blacksquare$
+To maximize the product, put the large digits in the high places: $520\times43=22360$ or $430\times52=22360$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -106,7 +124,9 @@ To maximize the product, put the large digits in the high places: $520\times43=2
 
 ### Solution to Exercise 10
 
-The first group has "same head, tails summing to ten": $74\times76=7\times8\times100+4\times6=5624$. The second group: $99999\times25=2499975$. $\blacksquare$
+The first group has "same head, tails summing to ten": $74\times76=7\times8\times100+4\times6=5624$. The second group: $99999\times25=2499975$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -114,7 +134,9 @@ The first group has "same head, tails summing to ten": $74\times76=7\times8\time
 
 ### Solution to Exercise 11
 
-By **Definition 7.5.1 (Addition Model)**: (1) $\left(27+22\right)+\left(18+18\right)=49+36=85$ people; (2) total number of people $95$, boys $5+27+18=50$, girls $95-50=45$, girls in the science club $=45-22-18=5$; (3) e.g., how many people are in the science club $=5+5=10$. $\blacksquare$
+By **Definition 7.5.1 (Addition Model)**: (1) $\left(27+22\right)+\left(18+18\right)=49+36=85$ people; (2) total number of people $95$, boys $5+27+18=50$, girls $95-50=45$, girls in the science club $=45-22-18=5$; (3) e.g., how many people are in the science club $=5+5=10$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -122,7 +144,9 @@ By **Definition 7.5.1 (Addition Model)**: (1) $\left(27+22\right)+\left(18+18\ri
 
 ### Solution to Exercise 12
 
-By **Definition 7.5.1 (Addition Model)**: $22+78=100$, $\square=180-100=80$; $45+55+50=150$; $180-22=158$, $\square=158-78=80$; $\square=50+55+45=150$. $\blacksquare$
+By **Definition 7.5.1 (Addition Model)**: $22+78=100$, $\square=180-100=80$; $45+55+50=150$; $180-22=158$, $\square=158-78=80$; $\square=50+55+45=150$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -130,7 +154,9 @@ By **Definition 7.5.1 (Addition Model)**: $22+78=100$, $\square=180-100=80$; $45
 
 ### Solution to Exercise 13
 
-By **Definition 7.5.1 (Addition Model)**: (1) the total $=$ the borrowed $15$ books $+$ the remaining $30$ books, originally $45$ books; (2) chickens $=30+15=45$, total $30+45=75$; (3) $30-20+5=15$ bikes. $\blacksquare$
+By **Definition 7.5.1 (Addition Model)**: (1) the total $=$ the borrowed $15$ books $+$ the remaining $30$ books, originally $45$ books; (2) chickens $=30+15=45$, total $30+45=75$; (3) $30-20+5=15$ bikes.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -138,7 +164,9 @@ By **Definition 7.5.1 (Addition Model)**: (1) the total $=$ the borrowed $15$ bo
 
 ### Solution to Exercise 14
 
-By **Definition 7.5.1 (Addition Model)**: (1) $180+460=640$ kg; (2) apples $=460-280=180$ kg, total $460+180=640$ kg. $\blacksquare$
+By **Definition 7.5.1 (Addition Model)**: (1) $180+460=640$ kg; (2) apples $=460-280=180$ kg, total $460+180=640$ kg.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -146,7 +174,9 @@ By **Definition 7.5.1 (Addition Model)**: (1) $180+460=640$ kg; (2) apples $=460
 
 ### Solution to Exercise 15
 
-By **Definition 7.5.1 (Addition Model)**: (1) $60\times8+40\times5+8\times2=480+200+16=696$ people; (2) in Plan ② the large and medium buses carry $60\times8+40\times4=480+160=640$ people, so $696-640=56$ people ride the small buses. $\blacksquare$
+By **Definition 7.5.1 (Addition Model)**: (1) $60\times8+40\times5+8\times2=480+200+16=696$ people; (2) in Plan ② the large and medium buses carry $60\times8+40\times4=480+160=640$ people, so $696-640=56$ people ride the small buses.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -154,7 +184,9 @@ By **Definition 7.5.1 (Addition Model)**: (1) $60\times8+40\times5+8\times2=480+
 
 ### Solution to Exercise 16
 
-By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**: for example, each pen at $3$ yuan is the unit price, buying $5$ pens is the quantity, and spending $15$ yuan in total is the total price. $\blacksquare$
+By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**: for example, each pen at $3$ yuan is the unit price, buying $5$ pens is the quantity, and spending $15$ yuan in total is the total price.
+
+$\blacksquare$
 
 ## Exercise 17
 
@@ -162,4 +194,6 @@ By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**: for example, each p
 
 ### Solution to Exercise 17
 
-By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**: (1) $120\times5=600$ yuan; (2) $840\div4=210$ yuan. $\blacksquare$
+By **Definition 7.5.2 (Unit Price, Quantity, Total Price)**: (1) $120\times5=600$ yuan; (2) $840\div4=210$ yuan.
+
+$\blacksquare$

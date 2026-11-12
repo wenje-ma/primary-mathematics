@@ -18,7 +18,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 11.3.2 (Rule for Fraction Division)**: $\frac{9}{10}\div3=\frac{9}{10}\times\frac{1}{3}=\frac{3}{10}$; $\frac{3}{8}\div2=\frac{3}{8}\times\frac{1}{2}=\frac{3}{16}$. $\blacksquare$
+By **Definition 11.3.2 (Rule for Fraction Division)**: $\frac{9}{10}\div3=\frac{9}{10}\times\frac{1}{3}=\frac{3}{10}$; $\frac{3}{8}\div2=\frac{3}{8}\times\frac{1}{2}=\frac{3}{16}$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -26,7 +28,9 @@ By **Definition 11.3.2 (Rule for Fraction Division)**: $\frac{9}{10}\div3=\frac{
 
 ### Solution to Exercise 2
 
-By **Definition 11.3.2 (Rule for Fraction Division)**: $\frac{4}{5}\div8=\frac{4}{5}\times\frac{1}{8}=\frac{1}{10}\;\text{m}$. $\blacksquare$
+By **Definition 11.3.2 (Rule for Fraction Division)**: $\frac{4}{5}\div8=\frac{4}{5}\times\frac{1}{8}=\frac{1}{10}\;\text{m}$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -34,7 +38,9 @@ By **Definition 11.3.2 (Rule for Fraction Division)**: $\frac{4}{5}\div8=\frac{4
 
 ### Solution to Exercise 3
 
-By **Definition 11.3.2 (Rule for Fraction Division)**: (1) $160\div\frac{4}{5}=160\times\frac{5}{4}=200\;\text{g}$; (2) $\frac{2}{5}\div\frac{2}{3}=\frac{2}{5}\times\frac{3}{2}=\frac{3}{5}\;\text{kg}$. $\blacksquare$
+By **Definition 11.3.2 (Rule for Fraction Division)**: (1) $160\div\frac{4}{5}=160\times\frac{5}{4}=200\;\text{g}$; (2) $\frac{2}{5}\div\frac{2}{3}=\frac{2}{5}\times\frac{3}{2}=\frac{3}{5}\;\text{kg}$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -42,7 +48,9 @@ By **Definition 11.3.2 (Rule for Fraction Division)**: (1) $160\div\frac{4}{5}=1
 
 ### Solution to Exercise 4
 
-Let $a=\frac{2}{5}\div\frac{2}{3}$; by inverse multiplication $\frac{2}{3}\times{a}=\frac{2}{5}$; multiply both sides by $\frac{3}{2}$ to get $a=\frac{2}{5}\times\frac{3}{2}$. Thus **Definition 11.3.2 (Rule for Fraction Division)** holds for fractions too. $\blacksquare$
+Let $a=\frac{2}{5}\div\frac{2}{3}$; by inverse multiplication $\frac{2}{3}\times{a}=\frac{2}{5}$; multiply both sides by $\frac{3}{2}$ to get $a=\frac{2}{5}\times\frac{3}{2}$. Thus **Definition 11.3.2 (Rule for Fraction Division)** holds for fractions too.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -50,7 +58,9 @@ Let $a=\frac{2}{5}\div\frac{2}{3}$; by inverse multiplication $\frac{2}{3}\times
 
 ### Solution to Exercise 5
 
-By **Definition 11.3.2 (Rule for Fraction Division)**: $24\div\frac{8}{9}=24\times\frac{9}{8}=27$; $\frac{7}{16}\div\frac{4}{5}=\frac{7}{16}\times\frac{5}{4}=\frac{35}{64}$. $\blacksquare$
+By **Definition 11.3.2 (Rule for Fraction Division)**: $24\div\frac{8}{9}=24\times\frac{9}{8}=27$; $\frac{7}{16}\div\frac{4}{5}=\frac{7}{16}\times\frac{5}{4}=\frac{35}{64}$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -58,7 +68,9 @@ By **Definition 11.3.2 (Rule for Fraction Division)**: $24\div\frac{8}{9}=24\tim
 
 ### Solution to Exercise 6
 
-By **Definition 11.3.2 (Rule for Fraction Division)**: $\frac{8}{9}\div4=\frac{2}{9}$; $\frac{6}{13}\div4=\frac{3}{26}$; $15\div\frac{10}{13}=15\times\frac{13}{10}=\frac{39}{2}$; $\frac{3}{10}\div\frac{14}{45}=\frac{3}{10}\times\frac{45}{14}=\frac{27}{28}$. $\blacksquare$
+By **Definition 11.3.2 (Rule for Fraction Division)**: $\frac{8}{9}\div4=\frac{2}{9}$; $\frac{6}{13}\div4=\frac{3}{26}$; $15\div\frac{10}{13}=15\times\frac{13}{10}=\frac{39}{2}$; $\frac{3}{10}\div\frac{14}{45}=\frac{3}{10}\times\frac{45}{14}=\frac{27}{28}$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -66,7 +78,9 @@ By **Definition 11.3.2 (Rule for Fraction Division)**: $\frac{8}{9}\div4=\frac{2
 
 ### Solution to Exercise 7
 
-Divisor less than $1$ gives quotient greater than dividend; divisor greater than $1$ gives quotient less than dividend. Greater: $9\div\frac{3}{4}$, $\frac{1}{2}\div\frac{2}{3}$, $\frac{14}{9}\div\frac{7}{30}$, $\frac{4}{5}\div\frac{4}{5}$; less: $\frac{6}{7}\div3$, $\frac{15}{8}\div2$, $6\div\frac{5}{4}$, $\frac{5}{7}\div\frac{5}{2}$. $\blacksquare$
+Divisor less than $1$ gives quotient greater than dividend; divisor greater than $1$ gives quotient less than dividend. Greater: $9\div\frac{3}{4}$, $\frac{1}{2}\div\frac{2}{3}$, $\frac{14}{9}\div\frac{7}{30}$, $\frac{4}{5}\div\frac{4}{5}$; less: $\frac{6}{7}\div3$, $\frac{15}{8}\div2$, $6\div\frac{5}{4}$, $\frac{5}{7}\div\frac{5}{2}$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -74,7 +88,9 @@ Divisor less than $1$ gives quotient greater than dividend; divisor greater than
 
 ### Solution to Exercise 8
 
-By inverse multiplication: $\frac{15}{4}\div5=\frac{3}{4}$, $\frac{15}{4}\div\frac{3}{4}=5$; $\frac{6}{35}\div\frac{2}{5}=\frac{3}{7}$, $\frac{6}{35}\div\frac{3}{7}=\frac{2}{5}$. $\blacksquare$
+By inverse multiplication: $\frac{15}{4}\div5=\frac{3}{4}$, $\frac{15}{4}\div\frac{3}{4}=5$; $\frac{6}{35}\div\frac{2}{5}=\frac{3}{7}$, $\frac{6}{35}\div\frac{3}{7}=\frac{2}{5}$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -82,7 +98,9 @@ By inverse multiplication: $\frac{15}{4}\div5=\frac{3}{4}$, $\frac{15}{4}\div\fr
 
 ### Solution to Exercise 9
 
-By **Definition 11.3.2 (Rule for Fraction Division)**: $\frac{1}{4}\div\frac{3}{5}=\frac{5}{12}$; $3\div\frac{1}{3}=9$; $5\div\frac{5}{6}=6$; $\frac{5}{14}\div\frac{10}{21}=\frac{3}{4}$; $\frac{2}{3}\div\frac{14}{27}=\frac{9}{7}$; $\frac{2}{7}\div\frac{16}{35}=\frac{5}{8}$; $\frac{8}{27}\div\frac{2}{9}=\frac{4}{3}$; $\frac{4}{15}\div\frac{28}{45}=\frac{3}{7}$. $\blacksquare$
+By **Definition 11.3.2 (Rule for Fraction Division)**: $\frac{1}{4}\div\frac{3}{5}=\frac{5}{12}$; $3\div\frac{1}{3}=9$; $5\div\frac{5}{6}=6$; $\frac{5}{14}\div\frac{10}{21}=\frac{3}{4}$; $\frac{2}{3}\div\frac{14}{27}=\frac{9}{7}$; $\frac{2}{7}\div\frac{16}{35}=\frac{5}{8}$; $\frac{8}{27}\div\frac{2}{9}=\frac{4}{3}$; $\frac{4}{15}\div\frac{28}{45}=\frac{3}{7}$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -90,7 +108,9 @@ By **Definition 11.3.2 (Rule for Fraction Division)**: $\frac{1}{4}\div\frac{3}{
 
 ### Solution to Exercise 10
 
-$2-\frac{6}{13}\times\frac{26}{9}-\frac{2}{3}=2-\frac{4}{3}-\frac{2}{3}=0$; $\frac{8}{9}\times\frac{7}{4}\times3=\frac{14}{3}$; $\frac{5}{14}\times\frac{21}{4}\times\frac{16}{25}=\frac{6}{5}$. $\blacksquare$
+$2-\frac{6}{13}\times\frac{26}{9}-\frac{2}{3}=2-\frac{4}{3}-\frac{2}{3}=0$; $\frac{8}{9}\times\frac{7}{4}\times3=\frac{14}{3}$; $\frac{5}{14}\times\frac{21}{4}\times\frac{16}{25}=\frac{6}{5}$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -98,7 +118,9 @@ $2-\frac{6}{13}\times\frac{26}{9}-\frac{2}{3}=2-\frac{4}{3}-\frac{2}{3}=0$; $\fr
 
 ### Solution to Exercise 11
 
-By **Definition 11.3.2 (Rule for Fraction Division)**: $\frac{3}{4}\div\frac{1}{8}=\frac{3}{4}\times8=6$ bottles. $\blacksquare$
+By **Definition 11.3.2 (Rule for Fraction Division)**: $\frac{3}{4}\div\frac{1}{8}=\frac{3}{4}\times8=6$ bottles.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -106,7 +128,9 @@ By **Definition 11.3.2 (Rule for Fraction Division)**: $\frac{3}{4}\div\frac{1}{
 
 ### Solution to Exercise 12
 
-By **Definition 11.3.2 (Rule for Fraction Division)**: half a second $\frac{1}{2}\div\frac{1}{24}=12$ frames; $1$ minute $60\div\frac{1}{24}=1440$ frames. $\blacksquare$
+By **Definition 11.3.2 (Rule for Fraction Division)**: half a second $\frac{1}{2}\div\frac{1}{24}=12$ frames; $1$ minute $60\div\frac{1}{24}=1440$ frames.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -114,4 +138,6 @@ By **Definition 11.3.2 (Rule for Fraction Division)**: half a second $\frac{1}{2
 
 ### Solution to Exercise 13
 
-By **Definition 11.3.2 (Rule for Fraction Division)**: $15\div\frac{5}{61}=15\times\frac{61}{5}=183$ days. $\blacksquare$
+By **Definition 11.3.2 (Rule for Fraction Division)**: $15\div\frac{5}{61}=15\times\frac{61}{5}=183$ days.
+
+$\blacksquare$

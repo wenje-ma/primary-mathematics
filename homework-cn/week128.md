@@ -18,7 +18,9 @@
 
 ### 解答 练习一
 
-由**定义 11.3.2 (分数除法法则)**: $5200\div\frac{52}{55}=5200\times\frac{55}{52}=5500\;\text{km}$. $\blacksquare$
+由**定义 11.3.2 (分数除法法则)**: $5200\div\frac{52}{55}=5200\times\frac{55}{52}=5500\;\text{km}$.
+
+$\blacksquare$
 
 ## 练习二
 
@@ -26,7 +28,9 @@
 
 ### 解答 练习二
 
-梯形面积 $=\frac{1}{2}\times\left(\frac{3}{5}+\frac{4}{5}\right)\times\frac{3}{4}=\frac{1}{2}\times\frac{7}{5}\times\frac{3}{4}=\frac{21}{40}\;\text{m}^2$. 取较短的上底为长方形的长, 面积最大 $\frac{3}{5}\times\frac{3}{4}=\frac{9}{20}\;\text{m}^2$. $\blacksquare$
+梯形面积 $=\frac{1}{2}\times\left(\frac{3}{5}+\frac{4}{5}\right)\times\frac{3}{4}=\frac{1}{2}\times\frac{7}{5}\times\frac{3}{4}=\frac{21}{40}\;\text{m}^2$. 取较短的上底为长方形的长, 面积最大 $\frac{3}{5}\times\frac{3}{4}=\frac{9}{20}\;\text{m}^2$.
+
+$\blacksquare$
 
 ## 练习三
 
@@ -34,7 +38,9 @@
 
 ### 解答 练习三
 
-每层高 $50\div15=\frac{10}{3}\;\text{m}$. $7$ 楼地板即 $6$ 层楼高: $\frac{10}{3}\times6=20\;\text{m}$. $\blacksquare$
+每层高 $50\div15=\frac{10}{3}\;\text{m}$. $7$ 楼地板即 $6$ 层楼高: $\frac{10}{3}\times6=20\;\text{m}$.
+
+$\blacksquare$
 
 ## 练习四
 
@@ -42,7 +48,9 @@
 
 ### 解答 练习四
 
-$\div\frac{2}{3}\div\frac{3}{4}\times\frac{1}{2}=\times\frac{3}{2}\times\frac{4}{3}\times\frac{1}{2}=1$, 即两步后回到原数. 两组计算的结果都分别等于原数 $\frac{7}{15}$ 和 $\frac{16}{19}$. $\blacksquare$
+$\div\frac{2}{3}\div\frac{3}{4}\times\frac{1}{2}=\times\frac{3}{2}\times\frac{4}{3}\times\frac{1}{2}=1$, 即两步后回到原数. 两组计算的结果都分别等于原数 $\frac{7}{15}$ 和 $\frac{16}{19}$.
+
+$\blacksquare$
 
 ## 练习五
 
@@ -50,7 +58,9 @@ $\div\frac{2}{3}\div\frac{3}{4}\times\frac{1}{2}=\times\frac{3}{2}\times\frac{4}
 
 ### 解答 练习五
 
-由**定义 11.3.3 (工程问题)**, 把全长看作单位"$1$": $1\div\left(\frac{1}{12}+\frac{1}{18}\right)=1\div\frac{5}{36}=7.2$ (天). $\blacksquare$
+由**定义 11.3.3 (工程问题)**, 把全长看作单位"$1$": $1\div\left(\frac{1}{12}+\frac{1}{18}\right)=1\div\frac{5}{36}=7.2$ (天).
+
+$\blacksquare$
 
 ## 练习六
 
@@ -58,7 +68,9 @@ $\div\frac{2}{3}\div\frac{3}{4}\times\frac{1}{2}=\times\frac{3}{2}\times\frac{4}
 
 ### 解答 练习六
 
-由**定义 11.3.3 (工程问题)**: 效率和 $\frac{1}{3}+\frac{1}{6}=\frac{1}{2}$, $\frac{3}{4}\div\frac{1}{2}=\frac{3}{2}$ (小时). $\blacksquare$
+由**定义 11.3.3 (工程问题)**: 效率和 $\frac{1}{3}+\frac{1}{6}=\frac{1}{2}$, $\frac{3}{4}\div\frac{1}{2}=\frac{3}{2}$ (小时).
+
+$\blacksquare$
 
 ## 练习七
 
@@ -66,7 +78,9 @@ $\div\frac{2}{3}\div\frac{3}{4}\times\frac{1}{2}=\times\frac{3}{2}\times\frac{4}
 
 ### 解答 练习七
 
-由**定义 11.3.3 (工程问题)**: $1\div\left(\frac{1}{2}+\frac{1}{3}\right)=1\div\frac{5}{6}=\frac{6}{5}$ (小时). $\blacksquare$
+由**定义 11.3.3 (工程问题)**: $1\div\left(\frac{1}{2}+\frac{1}{3}\right)=1\div\frac{5}{6}=\frac{6}{5}$ (小时).
+
+$\blacksquare$
 
 ## 练习八
 
@@ -74,7 +88,9 @@ $\div\frac{2}{3}\div\frac{3}{4}\times\frac{1}{2}=\times\frac{3}{2}\times\frac{4}
 
 ### 解答 练习八
 
-由**定义 11.3.3 (工程问题)**: 合种需 $1\div\left(\frac{1}{12}+\frac{1}{10}\right)=1\div\frac{11}{60}=\frac{60}{11}\approx5.45$ (天) $<6$ 天, 能种完. $\blacksquare$
+由**定义 11.3.3 (工程问题)**: 合种需 $1\div\left(\frac{1}{12}+\frac{1}{10}\right)=1\div\frac{11}{60}=\frac{60}{11}\approx5.45$ (天) $<6$ 天, 能种完.
+
+$\blacksquare$
 
 ## 练习九
 
@@ -82,7 +98,9 @@ $\div\frac{2}{3}\div\frac{3}{4}\times\frac{1}{2}=\times\frac{3}{2}\times\frac{4}
 
 ### 解答 练习九
 
-两人 $3$ 小时完成 $\left(\frac{1}{5}+\frac{1}{9}\right)\times3=\frac{14}{45}\times3=\frac{14}{15}$, 剩下 $1-\frac{14}{15}=\frac{1}{15}$ 对应 $100$ 个, 共 $100\div\frac{1}{15}=1500$ (个). $\blacksquare$
+两人 $3$ 小时完成 $\left(\frac{1}{5}+\frac{1}{9}\right)\times3=\frac{14}{45}\times3=\frac{14}{15}$, 剩下 $1-\frac{14}{15}=\frac{1}{15}$ 对应 $100$ 个, 共 $100\div\frac{1}{15}=1500$ (个).
+
+$\blacksquare$
 
 ## 练习十
 
@@ -90,7 +108,9 @@ $\div\frac{2}{3}\div\frac{3}{4}\times\frac{1}{2}=\times\frac{3}{2}\times\frac{4}
 
 ### 解答 练习十
 
-总钱数看作"$1$", 每支签字笔 $\frac{1}{6}$, 每支笔芯 $\frac{1}{12}$. 一套需 $\frac{1}{6}+\frac{1}{12}=\frac{1}{4}$, $1\div\frac{1}{4}=4$ (套), 即买 $4$ 支签字笔和 $4$ 支笔芯. $\blacksquare$
+总钱数看作"$1$", 每支签字笔 $\frac{1}{6}$, 每支笔芯 $\frac{1}{12}$. 一套需 $\frac{1}{6}+\frac{1}{12}=\frac{1}{4}$, $1\div\frac{1}{4}=4$ (套), 即买 $4$ 支签字笔和 $4$ 支笔芯.
+
+$\blacksquare$
 
 ## 练习十一
 
@@ -98,7 +118,9 @@ $\div\frac{2}{3}\div\frac{3}{4}\times\frac{1}{2}=\times\frac{3}{2}\times\frac{4}
 
 ### 解答 练习十一
 
-(1) 相背而行速度和 $\frac{1}{8}+\frac{1}{10}=\frac{9}{40}$, 相遇 $1\div\frac{9}{40}=\frac{40}{9}$ (分钟); (2) 同向速度差 $\frac{1}{8}-\frac{1}{10}=\frac{1}{40}$, 超出一圈 $1\div\frac{1}{40}=40$ (分钟). $\blacksquare$
+(1) 相背而行速度和 $\frac{1}{8}+\frac{1}{10}=\frac{9}{40}$, 相遇 $1\div\frac{9}{40}=\frac{40}{9}$ (分钟); (2) 同向速度差 $\frac{1}{8}-\frac{1}{10}=\frac{1}{40}$, 超出一圈 $1\div\frac{1}{40}=40$ (分钟).
+
+$\blacksquare$
 
 ## 练习十二
 
@@ -106,7 +128,9 @@ $\div\frac{2}{3}\div\frac{3}{4}\times\frac{1}{2}=\times\frac{3}{2}\times\frac{4}
 
 ### 解答 练习十二
 
-(1) $24\times\frac{3}{4}=18$; (2) $18\div\frac{3}{4}=24$. 求一个数的几分之几用乘法, 已知几分之几求这个数用除法. $\blacksquare$
+(1) $24\times\frac{3}{4}=18$; (2) $18\div\frac{3}{4}=24$. 求一个数的几分之几用乘法, 已知几分之几求这个数用除法.
+
+$\blacksquare$
 
 ## 练习十三
 
@@ -114,4 +138,6 @@ $\div\frac{2}{3}\div\frac{3}{4}\times\frac{1}{2}=\times\frac{3}{2}\times\frac{4}
 
 ### 解答 练习十三
 
-$\frac{15}{22}\div10=\frac{3}{44}$; $45\div\frac{9}{14}=70$; $\frac{3}{5}\div\frac{1}{6}=\frac{18}{5}$; $\frac{2}{7}\div\frac{8}{21}=\frac{3}{4}$; $\frac{2}{9}\times\frac{3}{8}\times\frac{7}{6}=\frac{7}{72}$; $4\times\frac{3}{8}-\frac{3}{5}=\frac{3}{2}-\frac{3}{5}=\frac{9}{10}$; $\frac{3}{4}\times\left(\frac{5}{6}+\frac{1}{6}\right)=\frac{3}{4}$; $7-\frac{1}{3}-\frac{2}{3}=6$; $\frac{15}{16}\times\frac{8}{5}\times8=12$; $26\times\frac{25}{13}\times\frac{22}{15}=\frac{220}{3}$; $35\div\frac{5}{7}=49$; $\frac{21}{40}\div\frac{7}{10}=\frac{3}{4}$. $\blacksquare$
+$\frac{15}{22}\div10=\frac{3}{44}$; $45\div\frac{9}{14}=70$; $\frac{3}{5}\div\frac{1}{6}=\frac{18}{5}$; $\frac{2}{7}\div\frac{8}{21}=\frac{3}{4}$; $\frac{2}{9}\times\frac{3}{8}\times\frac{7}{6}=\frac{7}{72}$; $4\times\frac{3}{8}-\frac{3}{5}=\frac{3}{2}-\frac{3}{5}=\frac{9}{10}$; $\frac{3}{4}\times\left(\frac{5}{6}+\frac{1}{6}\right)=\frac{3}{4}$; $7-\frac{1}{3}-\frac{2}{3}=6$; $\frac{15}{16}\times\frac{8}{5}\times8=12$; $26\times\frac{25}{13}\times\frac{22}{15}=\frac{220}{3}$; $35\div\frac{5}{7}=49$; $\frac{21}{40}\div\frac{7}{10}=\frac{3}{4}$.
+
+$\blacksquare$

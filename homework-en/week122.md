@@ -30,7 +30,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 11.1.2 (Determining Position by Direction and Distance)**: fill the table by the drawn $30^{\circ}$ angle and segment counts; sum leg distances for the total; total time $15+7+8+18=48$ min, average speed $=$ total $\div48$ min. $\blacksquare$
+By **Definition 11.1.2 (Determining Position by Direction and Distance)**: fill the table by the drawn $30^{\circ}$ angle and segment counts; sum leg distances for the total; total time $15+7+8+18=48$ min, average speed $=$ total $\div48$ min.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -38,7 +40,9 @@ By **Definition 11.1.2 (Determining Position by Direction and Distance)**: fill 
 
 ### Solution to Exercise 2
 
-By **Definition 11.1.2 (Determining Position by Direction and Distance)**: draw the three legs from the start; on return each leg's direction reverses (east-by-south $40^{\circ}$, due east, north-by-east $30^{\circ}$), distances still $3,4,3\;\text{km}$. $\blacksquare$
+By **Definition 11.1.2 (Determining Position by Direction and Distance)**: draw the three legs from the start; on return each leg's direction reverses (east-by-south $40^{\circ}$, due east, north-by-east $30^{\circ}$), distances still $3,4,3\;\text{km}$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -46,7 +50,9 @@ By **Definition 11.1.2 (Determining Position by Direction and Distance)**: draw 
 
 ### Solution to Exercise 3
 
-Choose the gate as reference; describe each enclosure by **Definition 11.1.1 (Ordered Pairs)** or **Definition 11.1.2 (Determining Position by Direction and Distance)**; split the tour into legs with clear direction and distance; avoid repeating ground. $\blacksquare$
+Choose the gate as reference; describe each enclosure by **Definition 11.1.1 (Ordered Pairs)** or **Definition 11.1.2 (Determining Position by Direction and Distance)**; split the tour into legs with clear direction and distance; avoid repeating ground.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -54,7 +60,9 @@ Choose the gate as reference; describe each enclosure by **Definition 11.1.1 (Or
 
 ### Solution to Exercise 4
 
-By **Definition 11.2.1 (Fraction Times an Integer)**: (1) $\frac{3}{8}\times2=\frac{3\times2}{8}=\frac{6}{8}=\frac{3}{4}$ sheet; (2) $\frac{3}{8}\times8=3$ sheets. $\blacksquare$
+By **Definition 11.2.1 (Fraction Times an Integer)**: (1) $\frac{3}{8}\times2=\frac{3\times2}{8}=\frac{6}{8}=\frac{3}{4}$ sheet; (2) $\frac{3}{8}\times8=3$ sheets.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -62,7 +70,9 @@ By **Definition 11.2.1 (Fraction Times an Integer)**: (1) $\frac{3}{8}\times2=\f
 
 ### Solution to Exercise 5
 
-By **Definition 11.2.1 (Fraction Times an Integer)**: $\frac{3}{10}\times3=\frac{9}{10}\;\text{kg}$. $\blacksquare$
+By **Definition 11.2.1 (Fraction Times an Integer)**: $\frac{3}{10}\times3=\frac{9}{10}\;\text{kg}$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -70,7 +80,9 @@ By **Definition 11.2.1 (Fraction Times an Integer)**: $\frac{3}{10}\times3=\frac
 
 ### Solution to Exercise 6
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $2\times\frac{5}{8}=\frac{2\times5}{8}=\frac{5}{4}$ hectares; (2) $\frac{4}{5}\times\frac{2}{3}=\frac{4\times2}{5\times3}=\frac{8}{15}$ hectares. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $2\times\frac{5}{8}=\frac{2\times5}{8}=\frac{5}{4}$ hectares; (2) $\frac{4}{5}\times\frac{2}{3}=\frac{4\times2}{5\times3}=\frac{8}{15}$ hectares.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -78,7 +90,9 @@ By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $2\times\frac{5}{8}=\f
 
 ### Solution to Exercise 7
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: $\frac{1}{2}\times\frac{1}{2}=\frac{1}{4}$; $\frac{2}{3}\times\frac{4}{5}=\frac{8}{15}$; $\frac{3}{4}\times\frac{3}{4}=\frac{9}{16}$. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: $\frac{1}{2}\times\frac{1}{2}=\frac{1}{4}$; $\frac{2}{3}\times\frac{4}{5}=\frac{8}{15}$; $\frac{3}{4}\times\frac{3}{4}=\frac{9}{16}$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -86,7 +100,9 @@ By **Definition 11.2.2 (A Number Times a Fraction)**: $\frac{1}{2}\times\frac{1}
 
 ### Solution to Exercise 8
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: $\frac{4}{7}\times\frac{1}{4}=\frac{1}{7}$; $\frac{20}{9}\times\frac{3}{10}=\frac{2}{3}$; $6\times\frac{11}{12}=\frac{11}{2}$; $\frac{5}{4}\times10=\frac{25}{2}$. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: $\frac{4}{7}\times\frac{1}{4}=\frac{1}{7}$; $\frac{20}{9}\times\frac{3}{10}=\frac{2}{3}$; $6\times\frac{11}{12}=\frac{11}{2}$; $\frac{5}{4}\times10=\frac{25}{2}$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -96,7 +112,9 @@ The figure: a rectangle representing $1$ hectare, first divided evenly into $5$ 
 
 ### Solution to Exercise 9
 
-By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $\frac{1}{5}\times\frac{3}{4}=\frac{3}{20}$ hectare. $\blacksquare$
+By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $\frac{1}{5}\times\frac{3}{4}=\frac{3}{20}$ hectare.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -104,7 +122,9 @@ By **Definition 11.2.4 (Successive Fraction-of-a-Number)**: $\frac{1}{5}\times\f
 
 ### Solution to Exercise 10
 
-$\frac{2}{9}\times3=\frac{2}{3}$; $\frac{2}{9}\times\frac{1}{2}=\frac{1}{9}$; $\frac{2}{9}\times\frac{3}{4}=\frac{1}{6}$; $\frac{6}{5}\times\frac{5}{3}=2$; $\frac{6}{5}\times\frac{1}{2}=\frac{3}{5}$; $\frac{6}{5}\times\frac{2}{3}=\frac{4}{5}$. Multiplying by a number less than $1$ gives a smaller product. $\blacksquare$
+$\frac{2}{9}\times3=\frac{2}{3}$; $\frac{2}{9}\times\frac{1}{2}=\frac{1}{9}$; $\frac{2}{9}\times\frac{3}{4}=\frac{1}{6}$; $\frac{6}{5}\times\frac{5}{3}=2$; $\frac{6}{5}\times\frac{1}{2}=\frac{3}{5}$; $\frac{6}{5}\times\frac{2}{3}=\frac{4}{5}$. Multiplying by a number less than $1$ gives a smaller product.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -112,7 +132,9 @@ $\frac{2}{9}\times3=\frac{2}{3}$; $\frac{2}{9}\times\frac{1}{2}=\frac{1}{9}$; $\
 
 ### Solution to Exercise 11
 
-Both wrong. By **Definition 11.2.1 (Fraction Times an Integer)** and **Definition 11.2.2 (A Number Times a Fraction)**: $4\times\frac{4}{7}=\frac{16}{7}$; $\frac{7}{10}\times\frac{6}{5}=\frac{42}{50}=\frac{21}{25}$. $\blacksquare$
+Both wrong. By **Definition 11.2.1 (Fraction Times an Integer)** and **Definition 11.2.2 (A Number Times a Fraction)**: $4\times\frac{4}{7}=\frac{16}{7}$; $\frac{7}{10}\times\frac{6}{5}=\frac{42}{50}=\frac{21}{25}$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -120,7 +142,9 @@ Both wrong. By **Definition 11.2.1 (Fraction Times an Integer)** and **Definitio
 
 ### Solution to Exercise 12
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: $20\times\frac{1}{4}=5\;\text{m}^2$. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: $20\times\frac{1}{4}=5\;\text{m}^2$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -128,7 +152,9 @@ By **Definition 11.2.2 (A Number Times a Fraction)**: $20\times\frac{1}{4}=5\;\t
 
 ### Solution to Exercise 13
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $\frac{1}{4}\times\frac{3}{5}=\frac{3}{20}\;\text{t}$; (2) $\frac{3}{8}\times\frac{3}{4}=\frac{9}{32}\;\text{m}$. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $\frac{1}{4}\times\frac{3}{5}=\frac{3}{20}\;\text{t}$; (2) $\frac{3}{8}\times\frac{3}{4}=\frac{9}{32}\;\text{m}$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -136,4 +162,6 @@ By **Definition 11.2.2 (A Number Times a Fraction)**: (1) $\frac{1}{4}\times\fra
 
 ### Solution to Exercise 14
 
-By **Definition 11.2.2 (A Number Times a Fraction)**: $72\times\frac{5}{24}=15$ ten-thousand square meters. $\blacksquare$
+By **Definition 11.2.2 (A Number Times a Fraction)**: $72\times\frac{5}{24}=15$ ten-thousand square meters.
+
+$\blacksquare$

@@ -38,7 +38,9 @@
 
 ### Solution to Exercise 1
 
-Those containing "about" or "odd" are approximate numbers: (1) $140$ cm and $35$ kg are both approximate; (3) about $8800$ m is approximate; (4) $200000$ person-times is approximate. In (2), $45$ people and $730$ people are exact numbers. $\blacksquare$
+Those containing "about" or "odd" are approximate numbers: (1) $140$ cm and $35$ kg are both approximate; (3) about $8800$ m is approximate; (4) $200000$ person-times is approximate. In (2), $45$ people and $730$ people are exact numbers.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -46,7 +48,9 @@ Those containing "about" or "odd" are approximate numbers: (1) $140$ cm and $35$
 
 ### Solution to Exercise 2
 
-By **Definition 7.1.7 (Rounding to find approximate numbers)**: Shanghai $24870895\approx2487$ ten-thousands; Shanxi $34915616\approx3492$ ten-thousands; Zhejiang $64567588\approx6457$ ten-thousands; Hunan $66444864\approx6644$ ten-thousands; Guangxi $50126804\approx5013$ ten-thousands; Yunnan $47209277\approx4721$ ten-thousands. $\blacksquare$
+By **Definition 7.1.7 (Rounding to find approximate numbers)**: Shanghai $24870895\approx2487$ ten-thousands; Shanxi $34915616\approx3492$ ten-thousands; Zhejiang $64567588\approx6457$ ten-thousands; Hunan $66444864\approx6644$ ten-thousands; Guangxi $50126804\approx5013$ ten-thousands; Yunnan $47209277\approx4721$ ten-thousands.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -54,7 +58,9 @@ By **Definition 7.1.7 (Rounding to find approximate numbers)**: Shanghai $248708
 
 ### Solution to Exercise 3
 
-By **Definition 7.1.4 (Writing Large Numbers)** and **Definition 7.1.7 (Rounding to find approximate numbers)**: (1) $1862690\approx186$ ten-thousands, $1683336\approx168$ ten-thousands; (2) $10909\approx1$ ten-thousand; (3) $686530000\approx7$ hundred-millions; (4) $2384000000\approx24$ hundred-millions, $929000000\approx9$ hundred-millions. $\blacksquare$
+By **Definition 7.1.4 (Writing Large Numbers)** and **Definition 7.1.7 (Rounding to find approximate numbers)**: (1) $1862690\approx186$ ten-thousands, $1683336\approx168$ ten-thousands; (2) $10909\approx1$ ten-thousand; (3) $686530000\approx7$ hundred-millions; (4) $2384000000\approx24$ hundred-millions, $929000000\approx9$ hundred-millions.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -62,7 +68,9 @@ By **Definition 7.1.4 (Writing Large Numbers)** and **Definition 7.1.7 (Rounding
 
 ### Solution to Exercise 4
 
-By **Definition 7.1.6 (Rewriting Numbers)**: Mars $22794$ ten-thousand km, Uranus $287099$ ten-thousand km, Earth $14960$ ten-thousand km, Venus $10820$ ten-thousand km, Mercury $5791$ ten-thousand km, Jupiter $77833$ ten-thousand km, Neptune $450400$ ten-thousand km, Saturn $142940$ ten-thousand km. $\blacksquare$
+By **Definition 7.1.6 (Rewriting Numbers)**: Mars $22794$ ten-thousand km, Uranus $287099$ ten-thousand km, Earth $14960$ ten-thousand km, Venus $10820$ ten-thousand km, Mercury $5791$ ten-thousand km, Jupiter $77833$ ten-thousand km, Neptune $450400$ ten-thousand km, Saturn $142940$ ten-thousand km.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -70,7 +78,9 @@ By **Definition 7.1.6 (Rewriting Numbers)**: Mars $22794$ ten-thousand km, Uranu
 
 ### Solution to Exercise 5
 
-By **Definition 7.1.1 (Counting Units and Digit Places)** and **Definition 7.1.5 (Comparing the Size of Numbers)**: the largest nine-digit number is $999999999$, and the smallest ten-digit number is $1000000000$. Other nine- and ten-digit answers are not unique. $\blacksquare$
+By **Definition 7.1.1 (Counting Units and Digit Places)** and **Definition 7.1.5 (Comparing the Size of Numbers)**: the largest nine-digit number is $999999999$, and the smallest ten-digit number is $1000000000$. Other nine- and ten-digit answers are not unique.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -78,7 +88,9 @@ By **Definition 7.1.1 (Counting Units and Digit Places)** and **Definition 7.1.5
 
 ### Solution to Exercise 6
 
-By **Definition 7.1.1 (Counting Units and Digit Places)**: (1) $631020500$ is nine digits, its highest place is the hundred-millions place, the $3$ is in the ten-millions place, and the hundred-thousands place is $0$; (2) $50708000$; (3) $382$ hundred-millions and $400$ ten-thousands; (4) $930701000=900000000+30000000+700000+1000$. $\blacksquare$
+By **Definition 7.1.1 (Counting Units and Digit Places)**: (1) $631020500$ is nine digits, its highest place is the hundred-millions place, the $3$ is in the ten-millions place, and the hundred-thousands place is $0$; (2) $50708000$; (3) $382$ hundred-millions and $400$ ten-thousands; (4) $930701000=900000000+30000000+700000+1000$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -86,7 +98,9 @@ By **Definition 7.1.1 (Counting Units and Digit Places)**: (1) $631020500$ is ni
 
 ### Solution to Exercise 7
 
-By **Definition 7.1.4 (Writing Large Numbers)** and **Definition 7.1.7 (Rounding to find approximate numbers)**: four-million five-thousand nine-hundred is written $4005900\approx401$ ten-thousands; three-hundred-million eighty-four-million eight-thousand is written $384080000\approx4$ hundred-millions; one-hundred-three-billion thirty-nine-million is written $100339000000\approx1003$ hundred-millions. $\blacksquare$
+By **Definition 7.1.4 (Writing Large Numbers)** and **Definition 7.1.7 (Rounding to find approximate numbers)**: four-million five-thousand nine-hundred is written $4005900\approx401$ ten-thousands; three-hundred-million eighty-four-million eight-thousand is written $384080000\approx4$ hundred-millions; one-hundred-three-billion thirty-nine-million is written $100339000000\approx1003$ hundred-millions.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -94,7 +108,9 @@ By **Definition 7.1.4 (Writing Large Numbers)** and **Definition 7.1.7 (Rounding
 
 ### Solution to Exercise 8
 
-By **Definition 7.1.5 (Comparing the Size of Numbers)** and **Definition 7.1.6 (Rewriting Numbers)**: $27$ ten-thousands $=270000>260800$; $500000000=5$ hundred-millions; $40$ ten-thousands $=400000<4000000$; $297860000<3$ hundred-millions $=300000000$. $\blacksquare$
+By **Definition 7.1.5 (Comparing the Size of Numbers)** and **Definition 7.1.6 (Rewriting Numbers)**: $27$ ten-thousands $=270000>260800$; $500000000=5$ hundred-millions; $40$ ten-thousands $=400000<4000000$; $297860000<3$ hundred-millions $=300000000$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -102,7 +118,9 @@ By **Definition 7.1.5 (Comparing the Size of Numbers)** and **Definition 7.1.6 (
 
 ### Solution to Exercise 9
 
-By **Definition 7.1.5 (Comparing the Size of Numbers)**, the larger the high-place digits the larger the number, so the strategy is to put the large digits you draw in the high places as much as possible. $\blacksquare$
+By **Definition 7.1.5 (Comparing the Size of Numbers)**, the larger the high-place digits the larger the number, so the strategy is to put the large digits you draw in the high places as much as possible.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -110,7 +128,9 @@ By **Definition 7.1.5 (Comparing the Size of Numbers)**, the larger the high-pla
 
 ### Solution to Exercise 10
 
-By the equal spacing on the number line, adjacent cells differ by $10000$: $9930000$, $9950000$, $9970000$, $9990000$, $10010000$. $\blacksquare$
+By the equal spacing on the number line, adjacent cells differ by $10000$: $9930000$, $9950000$, $9970000$, $9990000$, $10010000$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -118,7 +138,9 @@ By the equal spacing on the number line, adjacent cells differ by $10000$: $9930
 
 ### Solution to Exercise 11
 
-By **Definition 7.1.7 (Rounding to find approximate numbers)**: $247482\approx25$ ten-thousands, $409000\approx41$ ten-thousands, $666000\approx67$ ten-thousands, $984000\approx98$ ten-thousands, $972000\approx97$ ten-thousands, $1115000\approx112$ ten-thousands, $2916000\approx292$ ten-thousands, $5365000\approx537$ ten-thousands. Sales grow rapidly year by year. $\blacksquare$
+By **Definition 7.1.7 (Rounding to find approximate numbers)**: $247482\approx25$ ten-thousands, $409000\approx41$ ten-thousands, $666000\approx67$ ten-thousands, $984000\approx98$ ten-thousands, $972000\approx97$ ten-thousands, $1115000\approx112$ ten-thousands, $2916000\approx292$ ten-thousands, $5365000\approx537$ ten-thousands. Sales grow rapidly year by year.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -126,7 +148,9 @@ By **Definition 7.1.7 (Rounding to find approximate numbers)**: $247482\approx25
 
 ### Solution to Exercise 12
 
-By **Definition 7.1.5 (Comparing the Size of Numbers)** and **Definition 7.1.7 (Rounding to find approximate numbers)**: $8\square765000\approx9$ hundred-millions, the ten-million digit must be $\ge5$, fill $5\sim9$; $3562100000<\square103270000$, fill $\ge4$; $\square00\square00\approx69$ ten-thousands, the ten-thousand level is $69$ and the thousands digit is $0\sim4$, fill $690000\sim694000$; $\square00800000>2810800000$, fill $\ge3$. $\blacksquare$
+By **Definition 7.1.5 (Comparing the Size of Numbers)** and **Definition 7.1.7 (Rounding to find approximate numbers)**: $8\square765000\approx9$ hundred-millions, the ten-million digit must be $\ge5$, fill $5\sim9$; $3562100000<\square103270000$, fill $\ge4$; $\square00\square00\approx69$ ten-thousands, the ten-thousand level is $69$ and the thousands digit is $0\sim4$, fill $690000\sim694000$; $\square00800000>2810800000$, fill $\ge3$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -134,7 +158,9 @@ By **Definition 7.1.5 (Comparing the Size of Numbers)** and **Definition 7.1.7 (
 
 ### Solution to Exercise 13
 
-By **Definition 7.2.1 (Estimation by Sampling)**, $1$ hundred-million sheets is too many to count directly; first measure the thickness of $100$ sheets, then infer the height of $1$ hundred-million sheets and compare it with the height of the actual stack. $\blacksquare$
+By **Definition 7.2.1 (Estimation by Sampling)**, $1$ hundred-million sheets is too many to count directly; first measure the thickness of $100$ sheets, then infer the height of $1$ hundred-million sheets and compare it with the height of the actual stack.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -142,4 +168,6 @@ By **Definition 7.2.1 (Estimation by Sampling)**, $1$ hundred-million sheets is 
 
 ### Solution to Exercise 14
 
-By **Definition 7.2.1 (Estimation by Sampling)**: $100$ sheets are $1$ cm thick; $10000$ sheets are $100$ times $100$ sheets, $100$ cm thick $=1$ m; $1$ hundred-million $=10000$ groups of $10000$, so $1$ hundred-million sheets are $10000$ m high, taller than Mount Everest. $\blacksquare$
+By **Definition 7.2.1 (Estimation by Sampling)**: $100$ sheets are $1$ cm thick; $10000$ sheets are $100$ times $100$ sheets, $100$ cm thick $=1$ m; $1$ hundred-million $=10000$ groups of $10000$, so $1$ hundred-million sheets are $10000$ m high, taller than Mount Everest.
+
+$\blacksquare$

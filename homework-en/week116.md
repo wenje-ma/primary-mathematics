@@ -42,7 +42,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 10.4.1 (Painted Cubes)**: ① $n=2$, three-face $8$, two-face $12\left(2-2\right)=0$, one-face $6\left(2-2\right)^2=0$, zero $\left(2-2\right)^3=0$; ② $n=3$, three-face $8$, two-face $12\left(3-2\right)=12$, one-face $6\left(3-2\right)^2=6$, zero $\left(3-2\right)^3=1$; ③ $n=4$, three-face $8$, two-face $12\left(4-2\right)=24$, one-face $6\left(4-2\right)^2=24$, zero $\left(4-2\right)^3=8$. Rule: three-face painted is always $8$ (the number of vertices), while two-face, one-face, and zero-face are computed by $12\left(n-2\right)$, $6\left(n-2\right)^2$, and $\left(n-2\right)^3$. $\blacksquare$
+By **Definition 10.4.1 (Painted Cubes)**: ① $n=2$, three-face $8$, two-face $12\left(2-2\right)=0$, one-face $6\left(2-2\right)^2=0$, zero $\left(2-2\right)^3=0$; ② $n=3$, three-face $8$, two-face $12\left(3-2\right)=12$, one-face $6\left(3-2\right)^2=6$, zero $\left(3-2\right)^3=1$; ③ $n=4$, three-face $8$, two-face $12\left(4-2\right)=24$, one-face $6\left(4-2\right)^2=24$, zero $\left(4-2\right)^3=8$. Rule: three-face painted is always $8$ (the number of vertices), while two-face, one-face, and zero-face are computed by $12\left(n-2\right)$, $6\left(n-2\right)^2$, and $\left(n-2\right)^3$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -50,7 +52,9 @@ By **Definition 10.4.1 (Painted Cubes)**: ① $n=2$, three-face $8$, two-face $1
 
 ### Solution to Exercise 2
 
-By **Definition 10.4.1 (Painted Cubes)**: ④ $n=5$, three-face $8$, two-face $12\times3=36$, one-face $6\times3^2=54$, zero $3^3=27$; ⑤ $n=6$, three-face $8$, two-face $12\times4=48$, one-face $6\times4^2=96$, zero $4^3=64$. For ⑥, ⑦, ⑧, substitute $n=7,8,9$ into $12\left(n-2\right)$, $6\left(n-2\right)^2$, and $\left(n-2\right)^3$. $\blacksquare$
+By **Definition 10.4.1 (Painted Cubes)**: ④ $n=5$, three-face $8$, two-face $12\times3=36$, one-face $6\times3^2=54$, zero $3^3=27$; ⑤ $n=6$, three-face $8$, two-face $12\times4=48$, one-face $6\times4^2=96$, zero $4^3=64$. For ⑥, ⑦, ⑧, substitute $n=7,8,9$ into $12\left(n-2\right)$, $6\left(n-2\right)^2$, and $\left(n-2\right)^3$.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -58,7 +62,9 @@ By **Definition 10.4.1 (Painted Cubes)**: ④ $n=5$, three-face $8$, two-face $1
 
 ### Solution to Exercise 3
 
-By **Definition 10.5.1 (Meaning of Fractions)** and **Definition 10.5.2 (Fraction Unit)**: $\frac{3}{5}$ means dividing the unit "$1$" into $5$ parts and taking $3$, with fraction unit $\frac{1}{5}$; $\frac{7}{10}$ has unit $\frac{1}{10}$; $\frac{5}{8}$ has unit $\frac{1}{8}$; $\frac{3}{4}$ has unit $\frac{1}{4}$. Each piece is $1\div5=\frac{1}{5}\,\mathrm{m}$. $\blacksquare$
+By **Definition 10.5.1 (Meaning of Fractions)** and **Definition 10.5.2 (Fraction Unit)**: $\frac{3}{5}$ means dividing the unit "$1$" into $5$ parts and taking $3$, with fraction unit $\frac{1}{5}$; $\frac{7}{10}$ has unit $\frac{1}{10}$; $\frac{5}{8}$ has unit $\frac{1}{8}$; $\frac{3}{4}$ has unit $\frac{1}{4}$. Each piece is $1\div5=\frac{1}{5}\,\mathrm{m}$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -66,7 +72,9 @@ By **Definition 10.5.1 (Meaning of Fractions)** and **Definition 10.5.2 (Fractio
 
 ### Solution to Exercise 4
 
-By **Definition 10.5.1 (Meaning of Fractions)** and **Definition 10.5.3 (Fractions and Division)**: each child gets $8\div4=2$ apples, which is $\frac{1}{4}$ of the apples; each piece is $3\div5=\frac{3}{5}\,\mathrm{m}$, and each piece is $\frac{1}{5}$ of the whole. $\blacksquare$
+By **Definition 10.5.1 (Meaning of Fractions)** and **Definition 10.5.3 (Fractions and Division)**: each child gets $8\div4=2$ apples, which is $\frac{1}{4}$ of the apples; each piece is $3\div5=\frac{3}{5}\,\mathrm{m}$, and each piece is $\frac{1}{5}$ of the whole.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -74,7 +82,9 @@ By **Definition 10.5.1 (Meaning of Fractions)** and **Definition 10.5.3 (Fractio
 
 ### Solution to Exercise 5
 
-By **Definition 10.5.3 (Fractions and Division)**: (1) $7\div10=\frac{7}{10}$; (2) the sugar-water totals $10+90=100\,\mathrm{g}$, and sugar is $10\div100=\frac{10}{100}=\frac{1}{10}$. $\blacksquare$
+By **Definition 10.5.3 (Fractions and Division)**: (1) $7\div10=\frac{7}{10}$; (2) the sugar-water totals $10+90=100\,\mathrm{g}$, and sugar is $10\div100=\frac{10}{100}=\frac{1}{10}$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -82,7 +92,9 @@ By **Definition 10.5.3 (Fractions and Division)**: (1) $7\div10=\frac{7}{10}$; (
 
 ### Solution to Exercise 6
 
-By **Definition 10.5.3 (Fractions and Division)**: the monkeys are $4\div9=\frac{4}{9}$ of the elephants; per minute he walks $1\div15=\frac{1}{15}\,\mathrm{km}$. $\blacksquare$
+By **Definition 10.5.3 (Fractions and Division)**: the monkeys are $4\div9=\frac{4}{9}$ of the elephants; per minute he walks $1\div15=\frac{1}{15}\,\mathrm{km}$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -90,7 +102,9 @@ By **Definition 10.5.3 (Fractions and Division)**: the monkeys are $4\div9=\frac
 
 ### Solution to Exercise 7
 
-By **Definition 10.5.4 (Proper and Improper Fractions)**: proper fractions are $\frac{1}{3}$, $\frac{1}{6}$ (numerator smaller than denominator); improper fractions are $\frac{3}{3}$, $\frac{5}{3}$, $\frac{6}{6}$, $\frac{7}{6}$, $\frac{13}{6}$ (numerator greater than or equal to denominator). $\blacksquare$
+By **Definition 10.5.4 (Proper and Improper Fractions)**: proper fractions are $\frac{1}{3}$, $\frac{1}{6}$ (numerator smaller than denominator); improper fractions are $\frac{3}{3}$, $\frac{5}{3}$, $\frac{6}{6}$, $\frac{7}{6}$, $\frac{13}{6}$ (numerator greater than or equal to denominator).
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -98,7 +112,9 @@ By **Definition 10.5.4 (Proper and Improper Fractions)**: proper fractions are $
 
 ### Solution to Exercise 8
 
-By **Definition 10.5.4 (Proper and Improper Fractions)**, $\frac{7}{3}=7\div3=2\frac{1}{3}$; $\frac{6}{2}=6\div2=3$. $\blacksquare$
+By **Definition 10.5.4 (Proper and Improper Fractions)**, $\frac{7}{3}=7\div3=2\frac{1}{3}$; $\frac{6}{2}=6\div2=3$.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -106,7 +122,9 @@ By **Definition 10.5.4 (Proper and Improper Fractions)**, $\frac{7}{3}=7\div3=2\
 
 ### Solution to Exercise 9
 
-By **Definition 10.5.5 (Basic Property of Fractions)**: $\frac{3}{5}=\frac{3\times4}{5\times4}=\frac{12}{20}$; $\frac{16}{24}=\frac{16\div2}{24\div2}=\frac{8}{12}$. $\blacksquare$
+By **Definition 10.5.5 (Basic Property of Fractions)**: $\frac{3}{5}=\frac{3\times4}{5\times4}=\frac{12}{20}$; $\frac{16}{24}=\frac{16\div2}{24\div2}=\frac{8}{12}$.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -114,7 +132,9 @@ By **Definition 10.5.5 (Basic Property of Fractions)**: $\frac{3}{5}=\frac{3\tim
 
 ### Solution to Exercise 10
 
-By **Definition 10.5.5 (Basic Property of Fractions)**: $\frac{3}{4}=\frac{9}{12}$; $\frac{4}{8}=\frac{1}{2}$; $\frac{5}{9}=\frac{15}{27}$; $\frac{16}{24}=\frac{2}{3}$. $\blacksquare$
+By **Definition 10.5.5 (Basic Property of Fractions)**: $\frac{3}{4}=\frac{9}{12}$; $\frac{4}{8}=\frac{1}{2}$; $\frac{5}{9}=\frac{15}{27}$; $\frac{16}{24}=\frac{2}{3}$.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -122,7 +142,9 @@ By **Definition 10.5.5 (Basic Property of Fractions)**: $\frac{3}{4}=\frac{9}{12
 
 ### Solution to Exercise 11
 
-By **Definition 10.5.6 (Greatest Common Factor and Reducing)**: factors of 16 are $1,2,4,8,16$, factors of 24 are $1,2,3,4,6,8,12,24$, GCF $8$; GCF of 8 and 20 is $4$; GCF of 15 and 20 is $5$. $\blacksquare$
+By **Definition 10.5.6 (Greatest Common Factor and Reducing)**: factors of 16 are $1,2,4,8,16$, factors of 24 are $1,2,3,4,6,8,12,24$, GCF $8$; GCF of 8 and 20 is $4$; GCF of 15 and 20 is $5$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -130,7 +152,9 @@ By **Definition 10.5.6 (Greatest Common Factor and Reducing)**: factors of 16 ar
 
 ### Solution to Exercise 12
 
-By **Definition 10.5.6 (Greatest Common Factor and Reducing)**, the square side must divide both 70 and 50; the largest is $\left(70,50\right)=10$, so the largest side is $10\,\mathrm{cm}$. $\blacksquare$
+By **Definition 10.5.6 (Greatest Common Factor and Reducing)**, the square side must divide both 70 and 50; the largest is $\left(70,50\right)=10$, so the largest side is $10\,\mathrm{cm}$.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -138,7 +162,9 @@ By **Definition 10.5.6 (Greatest Common Factor and Reducing)**, the square side 
 
 ### Solution to Exercise 13
 
-By **Definition 10.5.6 (Greatest Common Factor and Reducing)**, the row size is a common factor of 48 and 36; the maximum is $\left(48,36\right)=12$; boys $48\div12=4$ rows, girls $36\div12=3$ rows. $\blacksquare$
+By **Definition 10.5.6 (Greatest Common Factor and Reducing)**, the row size is a common factor of 48 and 36; the maximum is $\left(48,36\right)=12$; boys $48\div12=4$ rows, girls $36\div12=3$ rows.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -146,7 +172,9 @@ By **Definition 10.5.6 (Greatest Common Factor and Reducing)**, the row size is 
 
 ### Solution to Exercise 14
 
-By **Definition 10.5.6 (Greatest Common Factor and Reducing)**: $\frac{15}{16}$, $\frac{10}{21}$, $\frac{17}{30}$, $\frac{31}{91}$ are in lowest terms; $\frac{20}{45}=\frac{20\div5}{45\div5}=\frac{4}{9}$. $\blacksquare$
+By **Definition 10.5.6 (Greatest Common Factor and Reducing)**: $\frac{15}{16}$, $\frac{10}{21}$, $\frac{17}{30}$, $\frac{31}{91}$ are in lowest terms; $\frac{20}{45}=\frac{20\div5}{45\div5}=\frac{4}{9}$.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -154,4 +182,6 @@ By **Definition 10.5.6 (Greatest Common Factor and Reducing)**: $\frac{15}{16}$,
 
 ### Solution to Exercise 15
 
-By **Definition 10.5.6 (Greatest Common Factor and Reducing)**: liked $\frac{35}{80}=\frac{7}{16}$; the rest $\frac{80-35}{80}=\frac{45}{80}=\frac{9}{16}$. $\blacksquare$
+By **Definition 10.5.6 (Greatest Common Factor and Reducing)**: liked $\frac{35}{80}=\frac{7}{16}$; the rest $\frac{80-35}{80}=\frac{45}{80}=\frac{9}{16}$.
+
+$\blacksquare$

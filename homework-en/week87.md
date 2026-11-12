@@ -46,7 +46,9 @@
 
 ### Solution to Exercise 1
 
-By **Definition 8.4.1 (Meaning of Decimals)**, each $1$ large interval on the line is $1$, divided equally into $10$ small intervals of $0.1$ each. $0.4$ is the $4$th small interval after $0$, $1.6$ is the $6$th small interval after $1$, $2.3$ is the $3$rd small interval after $2$, and $3.85$ is exactly midway between $3.8$ and $3.9$. $\blacksquare$
+By **Definition 8.4.1 (Meaning of Decimals)**, each $1$ large interval on the line is $1$, divided equally into $10$ small intervals of $0.1$ each. $0.4$ is the $4$th small interval after $0$, $1.6$ is the $6$th small interval after $1$, $2.3$ is the $3$rd small interval after $2$, and $3.85$ is exactly midway between $3.8$ and $3.9$.
+
+$\blacksquare$
 
 ## Exercise 2
 
@@ -54,7 +56,9 @@ By **Definition 8.4.1 (Meaning of Decimals)**, each $1$ large interval on the li
 
 ### Solution to Exercise 2
 
-By **Definition 8.4.1 (Meaning of Decimals)**, for $0.6$ divide a square equally into $10$ parts and shade $6$; for $1.7$ fill $1$ whole square and shade $7$ parts of another; $0.05\,\mathrm{m}=5\,\mathrm{cm}$, so on a $1\,\mathrm{m}$ segment shade a $5\,\mathrm{cm}$ length. $\blacksquare$
+By **Definition 8.4.1 (Meaning of Decimals)**, for $0.6$ divide a square equally into $10$ parts and shade $6$; for $1.7$ fill $1$ whole square and shade $7$ parts of another; $0.05\,\mathrm{m}=5\,\mathrm{cm}$, so on a $1\,\mathrm{m}$ segment shade a $5\,\mathrm{cm}$ length.
+
+$\blacksquare$
 
 ## Exercise 3
 
@@ -62,7 +66,9 @@ By **Definition 8.4.1 (Meaning of Decimals)**, for $0.6$ divide a square equally
 
 ### Solution to Exercise 3
 
-$8.6$ yuan means $8$ yuan $6$ jiao; $3.5\,\mathrm{m}$ means $3\,\mathrm{m}\,5\,\mathrm{dm}$; $0.4\,\mathrm{kg}$ means dividing $1\,\mathrm{kg}$ equally into $10$ parts and taking $4$, i.e. $400\,\mathrm{g}$. $\blacksquare$
+$8.6$ yuan means $8$ yuan $6$ jiao; $3.5\,\mathrm{m}$ means $3\,\mathrm{m}\,5\,\mathrm{dm}$; $0.4\,\mathrm{kg}$ means dividing $1\,\mathrm{kg}$ equally into $10$ parts and taking $4$, i.e. $400\,\mathrm{g}$.
+
+$\blacksquare$
 
 ## Exercise 4
 
@@ -70,7 +76,9 @@ $8.6$ yuan means $8$ yuan $6$ jiao; $3.5\,\mathrm{m}$ means $3\,\mathrm{m}\,5\,\
 
 ### Solution to Exercise 4
 
-(1) Integer part is $0$: $0.358$, $0.385$, $0.538$, etc.; (2) integer part is $8$: $8.035$, $8.053$, $8.305$, etc.; (3) $0$ is in the ones place and not read aloud, e.g. $30.58$, $50.38$, $80.35$, etc. $\blacksquare$
+(1) Integer part is $0$: $0.358$, $0.385$, $0.538$, etc.; (2) integer part is $8$: $8.035$, $8.053$, $8.305$, etc.; (3) $0$ is in the ones place and not read aloud, e.g. $30.58$, $50.38$, $80.35$, etc.
+
+$\blacksquare$
 
 ## Exercise 5
 
@@ -78,7 +86,9 @@ $8.6$ yuan means $8$ yuan $6$ jiao; $3.5\,\mathrm{m}$ means $3\,\mathrm{m}\,5\,\
 
 ### Solution to Exercise 5
 
-By **Definition 8.4.4 (Property of Decimals)**, remove the trailing $0$: $0.70=0.7$; $105.0900=105.09$. $\blacksquare$
+By **Definition 8.4.4 (Property of Decimals)**, remove the trailing $0$: $0.70=0.7$; $105.0900=105.09$.
+
+$\blacksquare$
 
 ## Exercise 6
 
@@ -86,7 +96,9 @@ By **Definition 8.4.4 (Property of Decimals)**, remove the trailing $0$: $0.70=0
 
 ### Solution to Exercise 6
 
-By **Definition 8.4.4 (Property of Decimals)**, append $0$ at the end: $0.2=0.200$; $4.08=4.080$; $3=3.000$. $\blacksquare$
+By **Definition 8.4.4 (Property of Decimals)**, append $0$ at the end: $0.2=0.200$; $4.08=4.080$; $3=3.000$.
+
+$\blacksquare$
 
 ## Exercise 7
 
@@ -94,7 +106,9 @@ By **Definition 8.4.4 (Property of Decimals)**, append $0$ at the end: $0.2=0.20
 
 ### Solution to Exercise 7
 
-By **Definition 8.4.5 (Comparing Decimals)**: $3$ yuan $>2.6$ yuan; $6.35\,\mathrm{m}<6.53\,\mathrm{m}$; $4.79>4.723$; $0.458<0.54$. $\blacksquare$
+By **Definition 8.4.5 (Comparing Decimals)**: $3$ yuan $>2.6$ yuan; $6.35\,\mathrm{m}<6.53\,\mathrm{m}$; $4.79>4.723$; $0.458<0.54$.
+
+$\blacksquare$
 
 ## Exercise 8
 
@@ -102,7 +116,9 @@ By **Definition 8.4.5 (Comparing Decimals)**: $3$ yuan $>2.6$ yuan; $6.35\,\math
 
 ### Solution to Exercise 8
 
-By **Definition 8.4.4 (Property of Decimals)**, only trailing $0$'s of a decimal can be removed: the trailing $0$ in $3.90\,\mathrm{m}$, $0.30$ yuan, $1.80$ yuan, $0.70\,\mathrm{m}$, $20.20\,\mathrm{m}$ can be removed; $500\,\mathrm{m}$ and $600\,\mathrm{kg}$ are trailing $0$'s of integers, and the $0$ in $0.04$ yuan is not at the end, so none of these can be removed. $\blacksquare$
+By **Definition 8.4.4 (Property of Decimals)**, only trailing $0$'s of a decimal can be removed: the trailing $0$ in $3.90\,\mathrm{m}$, $0.30$ yuan, $1.80$ yuan, $0.70\,\mathrm{m}$, $20.20\,\mathrm{m}$ can be removed; $500\,\mathrm{m}$ and $600\,\mathrm{kg}$ are trailing $0$'s of integers, and the $0$ in $0.04$ yuan is not at the end, so none of these can be removed.
+
+$\blacksquare$
 
 ## Exercise 9
 
@@ -110,7 +126,9 @@ By **Definition 8.4.4 (Property of Decimals)**, only trailing $0$'s of a decimal
 
 ### Solution to Exercise 9
 
-By **Definition 8.4.4 (Property of Decimals)**: $4.400=4.40$; $31.0100=31.01$; $0.005=0.0050$. The other numbers are not equal. $\blacksquare$
+By **Definition 8.4.4 (Property of Decimals)**: $4.400=4.40$; $31.0100=31.01$; $0.005=0.0050$. The other numbers are not equal.
+
+$\blacksquare$
 
 ## Exercise 10
 
@@ -118,7 +136,9 @@ By **Definition 8.4.4 (Property of Decimals)**: $4.400=4.40$; $31.0100=31.01$; $
 
 ### Solution to Exercise 10
 
-By **Definition 8.4.4 (Property of Decimals)**, appending $0$ to the end of a decimal keeps its size: $3.4$, $0.06$, $3.0$, $104.03$, $10.01$, $42.00$ keep the same size; the integers $18$, $700$, $908$, $150$ become larger when $0$ is appended. $\blacksquare$
+By **Definition 8.4.4 (Property of Decimals)**, appending $0$ to the end of a decimal keeps its size: $3.4$, $0.06$, $3.0$, $104.03$, $10.01$, $42.00$ keep the same size; the integers $18$, $700$, $908$, $150$ become larger when $0$ is appended.
+
+$\blacksquare$
 
 ## Exercise 11
 
@@ -126,7 +146,9 @@ By **Definition 8.4.4 (Property of Decimals)**, appending $0$ to the end of a de
 
 ### Solution to Exercise 11
 
-By **Definition 8.4.4 (Property of Decimals)**: $3.6=3.600$; $0.27=0.270$; $10.8=10.800$; $5.0500=5.050$; $40=40.000$; $0.4050=0.405$. $\blacksquare$
+By **Definition 8.4.4 (Property of Decimals)**: $3.6=3.600$; $0.27=0.270$; $10.8=10.800$; $5.0500=5.050$; $40=40.000$; $0.4050=0.405$.
+
+$\blacksquare$
 
 ## Exercise 12
 
@@ -134,7 +156,9 @@ By **Definition 8.4.4 (Property of Decimals)**: $3.6=3.600$; $0.27=0.270$; $10.8
 
 ### Solution to Exercise 12
 
-$6$ jiao $=0.60$ yuan; $15$ yuan $5$ jiao $=15.50$ yuan; $8$ yuan $=8.00$ yuan; $2$ yuan $3$ jiao $=2.30$ yuan. $\blacksquare$
+$6$ jiao $=0.60$ yuan; $15$ yuan $5$ jiao $=15.50$ yuan; $8$ yuan $=8.00$ yuan; $2$ yuan $3$ jiao $=2.30$ yuan.
+
+$\blacksquare$
 
 ## Exercise 13
 
@@ -142,7 +166,9 @@ $6$ jiao $=0.60$ yuan; $15$ yuan $5$ jiao $=15.50$ yuan; $8$ yuan $=8.00$ yuan; 
 
 ### Solution to Exercise 13
 
-By **Definition 8.4.5 (Comparing Decimals)** and **Definition 8.4.4 (Property of Decimals)**: $7.9<8.2$; $0.51>0.509$; $1.374>1.3$; $5.7<5.8$; $0.6=0.60$; $1.23<1.32$. $\blacksquare$
+By **Definition 8.4.5 (Comparing Decimals)** and **Definition 8.4.4 (Property of Decimals)**: $7.9<8.2$; $0.51>0.509$; $1.374>1.3$; $5.7<5.8$; $0.6=0.60$; $1.23<1.32$.
+
+$\blacksquare$
 
 ## Exercise 14
 
@@ -150,7 +176,9 @@ By **Definition 8.4.5 (Comparing Decimals)** and **Definition 8.4.4 (Property of
 
 ### Solution to Exercise 14
 
-By **Definition 8.4.5 (Comparing Decimals)**: for product 1, store B at $28.89$ yuan is cheapest; for product 2, store C at $3.30$ yuan is cheapest; for product 3, store C at $3.45$ yuan is cheapest. $\blacksquare$
+By **Definition 8.4.5 (Comparing Decimals)**: for product 1, store B at $28.89$ yuan is cheapest; for product 2, store C at $3.30$ yuan is cheapest; for product 3, store C at $3.45$ yuan is cheapest.
+
+$\blacksquare$
 
 ## Exercise 15
 
@@ -158,7 +186,9 @@ By **Definition 8.4.5 (Comparing Decimals)**: for product 1, store B at $28.89$ 
 
 ### Solution to Exercise 15
 
-By **Definition 8.4.5 (Comparing Decimals)**, numbers to the right on the line are larger: $0.09<0.12$; $0.28<0.3$; $0.4>0.04$. $\blacksquare$
+By **Definition 8.4.5 (Comparing Decimals)**, numbers to the right on the line are larger: $0.09<0.12$; $0.28<0.3$; $0.4>0.04$.
+
+$\blacksquare$
 
 ## Exercise 16
 
@@ -166,4 +196,6 @@ By **Definition 8.4.5 (Comparing Decimals)**, numbers to the right on the line a
 
 ### Solution to Exercise 16
 
-By **Definition 8.4.5 (Comparing Decimals)**, from heaviest to lightest: $43.9>43.6>38.5>37.8$, i.e. Xiao Gang, Xiao Fang, Xiao Jun, Xiao Li. $\blacksquare$
+By **Definition 8.4.5 (Comparing Decimals)**, from heaviest to lightest: $43.9>43.6>38.5>37.8$, i.e. Xiao Gang, Xiao Fang, Xiao Jun, Xiao Li.
+
+$\blacksquare$

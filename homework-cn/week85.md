@@ -38,7 +38,9 @@
 
 ### 解答 练习一
 
-由**定义 8.3.6 (乘法分配律)**: $117\times\left(3+7\right)=117\times3+117\times7$ 用了分配律; $24\times\left(5+12\right)=24\times17$ 是直接先算括号; $36\times\left(4\times6\right)=36\times6\times4$ 用了交换律; $4\times{a}+a\times5=\left(4+5\right)\times{a}$ 逆用分配律. $\blacksquare$
+由**定义 8.3.6 (乘法分配律)**: $117\times\left(3+7\right)=117\times3+117\times7$ 用了分配律; $24\times\left(5+12\right)=24\times17$ 是直接先算括号; $36\times\left(4\times6\right)=36\times6\times4$ 用了交换律; $4\times{a}+a\times5=\left(4+5\right)\times{a}$ 逆用分配律.
+
+$\blacksquare$
 
 ## 练习二
 
@@ -46,7 +48,9 @@
 
 ### 解答 练习二
 
-一个来回是 $50\times2=100$ ($\mathrm{m}$), $7$ 个来回: $50\times2\times7=700$ ($\mathrm{m}$). $\blacksquare$
+一个来回是 $50\times2=100$ ($\mathrm{m}$), $7$ 个来回: $50\times2\times7=700$ ($\mathrm{m}$).
+
+$\blacksquare$
 
 ## 练习三
 
@@ -54,7 +58,9 @@
 
 ### 解答 练习三
 
-由**定义 8.3.6 (乘法分配律)**, $\left(75+45\right)\times60=120\times60=7200$ (元). $\blacksquare$
+由**定义 8.3.6 (乘法分配律)**, $\left(75+45\right)\times60=120\times60=7200$ (元).
+
+$\blacksquare$
 
 ## 练习四
 
@@ -62,7 +68,9 @@
 
 ### 解答 练习四
 
-由**定义 8.3.6 (乘法分配律)**: $103\times12=\left(100+3\right)\times12=1200+36=1236$; $20\times55=20\times\left(50+5\right)=1000+100=1100$; $24\times205=24\times200+24\times5=4800+120=4920$. $\blacksquare$
+由**定义 8.3.6 (乘法分配律)**: $103\times12=\left(100+3\right)\times12=1200+36=1236$; $20\times55=20\times\left(50+5\right)=1000+100=1100$; $24\times205=24\times200+24\times5=4800+120=4920$.
+
+$\blacksquare$
 
 ## 练习五
 
@@ -70,7 +78,9 @@
 
 ### 解答 练习五
 
-每组都相等. 由**定义 8.3.6 (乘法分配律)** 与**定义 8.3.5 (乘法结合律)**: $25\times\left(200+4\right)=5100$; $35\times201=7035$; $265\times\left(105-5\right)=26500$; $11\times\left(25\times4\right)=1100$. $\blacksquare$
+每组都相等. 由**定义 8.3.6 (乘法分配律)** 与**定义 8.3.5 (乘法结合律)**: $25\times\left(200+4\right)=5100$; $35\times201=7035$; $265\times\left(105-5\right)=26500$; $11\times\left(25\times4\right)=1100$.
+
+$\blacksquare$
 
 ## 练习六
 
@@ -78,7 +88,9 @@
 
 ### 解答 练习六
 
-(1) 正确 (分配律); (2) 错误, 应为 $35\times100+35\times1$; (3) 正确 (结合律); (4) 错误, 应为 $64\times10+64\times2$. $\blacksquare$
+(1) 正确 (分配律); (2) 错误, 应为 $35\times100+35\times1$; (3) 正确 (结合律); (4) 错误, 应为 $64\times10+64\times2$.
+
+$\blacksquare$
 
 ## 练习七
 
@@ -86,7 +98,9 @@
 
 ### 解答 练习七
 
-由**定义 8.3.5 (乘法结合律)**, $4\times7\times35=\left(4\times7\right)\times35=28\times35=980$ (套). $\blacksquare$
+由**定义 8.3.5 (乘法结合律)**, $4\times7\times35=\left(4\times7\right)\times35=28\times35=980$ (套).
+
+$\blacksquare$
 
 ## 练习八
 
@@ -94,7 +108,9 @@
 
 ### 解答 练习八
 
-由**定义 8.3.6 (乘法分配律)** 逆用: $167\times2+167\times3+167\times5=167\times\left(2+3+5\right)=167\times10$; $28\times225-2\times225-6\times225=\left(28-2-6\right)\times225=20\times225$; $39\times8+6\times39-39\times4=39\times\left(8+6-4\right)=39\times10$. $\blacksquare$
+由**定义 8.3.6 (乘法分配律)** 逆用: $167\times2+167\times3+167\times5=167\times\left(2+3+5\right)=167\times10$; $28\times225-2\times225-6\times225=\left(28-2-6\right)\times225=20\times225$; $39\times8+6\times39-39\times4=39\times\left(8+6-4\right)=39\times10$.
+
+$\blacksquare$
 
 ## 练习九
 
@@ -102,7 +118,9 @@
 
 ### 解答 练习九
 
-$9$ 元 $5$ 角 $\times5=45$ 元 $25$ 角 $=47$ 元 $5$ 角. 由**定义 8.3.6 (乘法分配律)**, $9.5\times5=47.5$ 元. $\blacksquare$
+$9$ 元 $5$ 角 $\times5=45$ 元 $25$ 角 $=47$ 元 $5$ 角. 由**定义 8.3.6 (乘法分配律)**, $9.5\times5=47.5$ 元.
+
+$\blacksquare$
 
 ## 练习十
 
@@ -110,7 +128,9 @@ $9$ 元 $5$ 角 $\times5=45$ 元 $25$ 角 $=47$ 元 $5$ 角. 由**定义 8.3.6 (
 
 ### 解答 练习十
 
-由**定义 8.3.5 (乘法结合律)**, **定义 8.3.6 (乘法分配律)** 与**定义 8.3.7 (除法的运算性质)**: $35\times5\times20=35\times100=3500$; $25\times\left(4+8\right)=25\times4+25\times8=100+200=300$; $2000\div125\div8=2000\div\left(125\times8\right)=2000\div1000=2$. $\blacksquare$
+由**定义 8.3.5 (乘法结合律)**, **定义 8.3.6 (乘法分配律)** 与**定义 8.3.7 (除法的运算性质)**: $35\times5\times20=35\times100=3500$; $25\times\left(4+8\right)=25\times4+25\times8=100+200=300$; $2000\div125\div8=2000\div\left(125\times8\right)=2000\div1000=2$.
+
+$\blacksquare$
 
 ## 练习十一
 
@@ -118,7 +138,9 @@ $9$ 元 $5$ 角 $\times5=45$ 元 $25$ 角 $=47$ 元 $5$ 角. 由**定义 8.3.6 (
 
 ### 解答 练习十一
 
-$98+265+202=\left(98+202\right)+265=565$; $273-73-27=273-100=173$; $250\times13\times4=\left(250\times4\right)\times13=13000$; $3200\div4\div25=3200\div100=32$; $88\times125=\left(80+8\right)\times125=10000+1000=11000$; $99\times38+38=\left(99+1\right)\times38=3800$; $17\times23-23\times7=\left(17-7\right)\times23=230$; $72\times125=9\times\left(8\times125\right)=9000$. $\blacksquare$
+$98+265+202=\left(98+202\right)+265=565$; $273-73-27=273-100=173$; $250\times13\times4=\left(250\times4\right)\times13=13000$; $3200\div4\div25=3200\div100=32$; $88\times125=\left(80+8\right)\times125=10000+1000=11000$; $99\times38+38=\left(99+1\right)\times38=3800$; $17\times23-23\times7=\left(17-7\right)\times23=230$; $72\times125=9\times\left(8\times125\right)=9000$.
+
+$\blacksquare$
 
 ## 练习十二
 
@@ -126,7 +148,9 @@ $98+265+202=\left(98+202\right)+265=565$; $273-73-27=273-100=173$; $250\times13\
 
 ### 解答 练习十二
 
-由**定义 8.3.7 (除法的运算性质)**, $350\div14=350\div7\div2=50\div2=25$ (册). $\blacksquare$
+由**定义 8.3.7 (除法的运算性质)**, $350\div14=350\div7\div2=50\div2=25$ (册).
+
+$\blacksquare$
 
 ## 练习十三
 
@@ -134,7 +158,9 @@ $98+265+202=\left(98+202\right)+265=565$; $273-73-27=273-100=173$; $250\times13\
 
 ### 解答 练习十三
 
-$5$ 本相册可插 $32\times6\times5=32\times30=960$ (张), $960>900$, 够用. $\blacksquare$
+$5$ 本相册可插 $32\times6\times5=32\times30=960$ (张), $960>900$, 够用.
+
+$\blacksquare$
 
 ## 练习十四
 
@@ -142,4 +168,6 @@ $5$ 本相册可插 $32\times6\times5=32\times30=960$ (张), $960>900$, 够用. 
 
 ### 解答 练习十四
 
-$106\times25=25\times106$ 用交换律; $5\times17\times4=5\times4\times17$ 用交换律; $13\times3\times2=13\times\left(3\times2\right)$ 用结合律; $25\times8\times4=8\times\left(25\times4\right)$ 既交换又结合; $102\times23+102\times7=102\times\left(23+7\right)$ 用分配律; $125\times\left(8+4\right)=125\times8+125\times4$ 用分配律. $\blacksquare$
+$106\times25=25\times106$ 用交换律; $5\times17\times4=5\times4\times17$ 用交换律; $13\times3\times2=13\times\left(3\times2\right)$ 用结合律; $25\times8\times4=8\times\left(25\times4\right)$ 既交换又结合; $102\times23+102\times7=102\times\left(23+7\right)$ 用分配律; $125\times\left(8+4\right)=125\times8+125\times4$ 用分配律.
+
+$\blacksquare$
